@@ -1,7 +1,7 @@
 {
   "id": "304d00be11c6fc87",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论与统计物理",
   "title": "Buffered comparison and stopping-band resolution in critical Ising",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Buffered-comparison-and-stopping-band-resolution-in-critical-Ising-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove pointwise comparison and finite stopping-band approximation theorems for the critical nearest-neighbor Ising model on the square lattice. Arbitrary common pinned spins are allowed in the comparison: the likelihood ratio is controlled by a zero-field FK connection probability on the graph with those vertices deleted. For an interface exploration across a band of fixed positive width, finitely many regular signed barriers approximate every good conditional target law in total variation, uniformly over bounded observables and sufficiently fine meshes.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Buffered comparison and stopping-band resolution in critical Ising",
+  "titleZh": "临界Ising模型中的缓冲比较与停止带分辨率",
+  "details": {
+    "overview": "稿件研究正方形格点上临界最近邻Ising模型的逐点比较与有限停止带近似定理。作者声称允许任意共同钉扎自旋，似然比由删除这些顶点后的零场FK连接概率控制；对于固定正宽度带上的界面探索，有限多个正则符号屏障在总变差意义下一致逼近每个良好条件目标律，且对 bounded observables 和足够细网格一致。该结果若成立，可为临界Ising界面的精细概率描述提供工具。",
+    "keyPoints": [
+      "允许任意共同钉扎自旋，似然比由删除顶点后的零场FK连接概率控制。",
+      "对固定正宽度带上的界面探索，有限正则符号屏障一致逼近良好条件目标律。",
+      "逼近在总变差意义下对 bounded observables 和足够细网格一致成立。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

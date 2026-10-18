@@ -10,5 +10,16 @@
   "abstractEnglish": "We give a uniform classical randomized decision algorithm for worst-case Subset Sum. Under every fixed polynomial bound on input-integer bit length, it uses $`\\mathop{\\mathrm{poly}}\\nolimits (n)2^{n/2}`$ time and ordinary $`O(2^{n/5})`$ writable words of $`O(n+b)`$ bits, where b is the largest input bit length. Both resource bounds hold on every execution. The error is one-sided: the algorithm always rejects unsolvable instances and accepts each solvable instance with probability at least 2/3.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Low-Space Algorithm for Worst-Case Subset Sum",
+  "titleZh": "最坏情形子集和的一个低空间算法",
+  "details": {
+    "overview": "稿件给出最坏情形子集和的统一经典随机判定算法：在输入整数位长的任意固定多项式界下，每次执行使用poly(n)2^{n/2}时间与O(2^{n/5})个O(n+b)位可写字的普通空间，b为最大输入位长。错误为单侧：不可解实例总被拒绝，可解实例以至少2/3概率接受。研究意义在于同时控制时间与空间资源，给出最坏情形子集和的低空间随机算法。",
+    "keyPoints": [
+      "每次执行时间为poly(n)2^{n/2}",
+      "使用O(2^{n/5})个O(n+b)位可写字空间",
+      "单侧错误：不可解必拒绝，可解以至少2/3概率接受"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

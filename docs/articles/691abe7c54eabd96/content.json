@@ -10,5 +10,16 @@
   "abstractEnglish": "We give a negative answer to Zariski's multiplicity question in four complex variables. We construct two reduced convergent holomorphic function germs with isolated critical points and multiplicities four and five whose zero-set germs are ambiently homeomorphic.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Ambiently homeomorphic isolated hypersurface germs in ℂ⁴ with multiplicities four and five",
+  "titleZh": "ℂ⁴中重数为四和五的环境同胚孤立超曲面芽",
+  "details": {
+    "overview": "稿件研究四复变量中Zariski重数问题。作者声称构造两个约化收敛全纯函数芽，具有孤立临界点，重数分别为四和五，但其零点集芽环境同胚。这给出Zariski重数问题在四复变量情形下的否定回答。该结果对奇点理论中重数是否由环境拓扑决定的问题提供了反例。",
+    "keyPoints": [
+      "构造两个重数为四和五的约化收敛全纯函数芽。",
+      "两芽具有孤立临界点且零点集芽环境同胚。",
+      "否定四复变量中的Zariski重数问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

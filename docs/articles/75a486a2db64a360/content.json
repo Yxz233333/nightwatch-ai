@@ -1,7 +1,7 @@
 {
   "id": "75a486a2db64a360",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数学物理与量子力学",
   "title": "Uniform excess charge for Coulomb molecules and the outer radius of neutral atoms",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Uniform-excess-charge-for-Coulomb-molecules-and-the-outer-radius-of-neutral-atoms-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that a molecule with M fixed nuclei of real charges at least one and total nuclear charge Z strictly binds at most $`Z+CM`$ electrons, where C is universal. The result holds for the full nonrelativistic Coulomb Hamiltonian with two spin states and arbitrary distinct nuclear positions. For neutral atoms with integer nuclear charge Z ≥ 1, the first ionization energy and, for every ground state, the radius outside which one half of an electron remains are each bounded above and below by positive universal constants.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Uniform excess charge for Coulomb molecules and the outer radius of neutral atoms",
+  "titleZh": "库仑分子的均匀超额电荷与中性原子的外半径",
+  "details": {
+    "overview": "稿件研究非相对论库仑哈密顿量下分子与中性原子的电子束缚。作者声称：含M个实电荷至少为1的固定核、总核电荷Z的分子严格束缚至多Z+CM个电子，C为普适常数，结论对双自旋态与任意不同核位置成立。对整数核电荷Z≥1的中性原子，第一电离能以及每个基态中半数电子所留之外半径，均被正普适常数上下界控制。摘要表示这些结果给出与核构型无关的定量束缚。",
+    "keyPoints": [
+      "分子含M个实电荷至少为1的固定核，总核电荷Z，作者声称至多束缚Z+CM个电子。",
+      "结论适用于完整非相对论库仑哈密顿量、双自旋态与任意不同核位置。",
+      "中性原子第一电离能与半数电子外半径被正普适常数上下界控制。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

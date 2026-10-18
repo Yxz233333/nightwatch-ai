@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that a fixed number of coordinate sweeps of the Thorp shuffle on $`2^d`$ cards makes the squared L2 distance of the full permutation density from uniform tend to zero as $`d\\to\\infty`$. In particular, the total-variation mixing time is $`\\Theta(d)`$ physical shuffles.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Signed tensor densities and diagram budgets for the Thorp shuffle",
+  "titleZh": "Thorp洗牌的带号张量密度与图预算",
+  "details": {
+    "overview": "稿件研究2^d张牌上Thorp洗牌的坐标扫描，证明固定次数的坐标扫描使全排列密度与均匀分布的平方L2距离随d→∞趋于零，并据此得出全变差混合时间为Θ(d)次物理洗牌。研究对象是Thorp洗牌的L2收敛与混合时间，作者声称用带号张量密度与图预算方法给出固定扫描次数下的收敛结果。",
+    "keyPoints": [
+      "固定次数坐标扫描使全排列密度的平方L2距离趋于零",
+      "据此得出全变差混合时间为Θ(d)次物理洗牌",
+      "方法涉及带号张量密度与图预算"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

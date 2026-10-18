@@ -1,7 +1,7 @@
 {
   "id": "e812ce5472ef4b93",
   "section": "papers",
-  "category": "代数几何",
+  "category": "算子代数与泛函分析",
   "title": "Close Separable C*-Algebras Without Spatial Conjugacy",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Close-Separable-Cstar-Algebras-Without-Spatial-Conjugacy-October-5-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We disprove the separable C∗-algebraic spatial form of the Kadison–Kastler conjecture. For every ε > 0, we construct unital, norm-separable C∗-algebras on a common separable complex Hilbert space, with the same identity and Kadison–Kastler distance less than ε, that are not conjugate by any unitary. The two algebras have the same von Neumann closure.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Close Separable C*-Algebras Without Spatial Conjugacy",
+  "titleZh": "无空间共轭的接近可分C*-代数",
+  "details": {
+    "overview": "稿件研究Kadison–Kastler猜想的可分C*-代数空间形式。摘要表示，作者否证了该形式：对每个ε>0，构造同一可分复Hilbert空间上的单位、范数可分C*-代数，它们具有相同单位元且Kadison–Kastler距离小于ε，但不存在任何酉算子使之共轭；两个代数具有相同的von Neumann闭包。手稿尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "否证Kadison–Kastler猜想的可分C*-代数空间形式。",
+      "对任意ε>0构造距离小于ε但无酉共轭的C*-代数。",
+      "两个构造代数具有相同的von Neumann闭包。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

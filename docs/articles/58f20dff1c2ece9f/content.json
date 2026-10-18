@@ -1,7 +1,7 @@
 {
   "id": "58f20dff1c2ece9f",
   "section": "papers",
-  "category": "数学论文",
+  "category": "广义相对论与数学物理",
   "title": "Generic Future Inextendibility with Square-Integrable Connection Near a Fixed Kerr Spacetime",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Generic-Future-Inextendibility-with-Square-Integrable-Connection-Near-a-Fixed-Kerr-Spacetime-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For each fixed rotating subextremal Kerr background with mass M > 0 and rotation $`0\\lt |\\mathfrak a|\\lt M`$, we prove that the smooth vacuum data near its complete two-ended bridge whose full maximal globally hyperbolic development admits a future $`C^0\\cap W^{1,2}_{\\mathrm{loc}}`$ extension form a meagre set in the weighted smooth topology. The extension metric is continuous and nondegenerate, and its weak connection is locally square-integrable. The neighborhood requires smallness of only the tenth weighted seminorm, while the topology tests every finite order.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Generic Future Inextendibility with Square-Integrable Connection Near a Fixed Kerr Spacetime",
+  "titleZh": "固定Kerr时空附近具平方可积联络的通用未来不可延拓性",
+  "details": {
+    "overview": "稿件针对每个固定的旋转次极端Kerr背景（质量M>0、旋转参数满足0<|𝔞|<M），研究其完备双端桥附近的光滑真空初值数据。作者声称，那些其最大整体双曲发展存在未来C⁰∩W^{1,2}_{loc}延拓的数据，在加权光滑拓扑中构成贫集；延拓度规连续非退化，弱联络局部平方可积。邻域仅要求第十个加权半范数小，而拓扑检验所有有限阶。摘要表示这刻画了Kerr附近未来延拓的通用失败性。",
+    "keyPoints": [
+      "针对固定旋转次极端Kerr背景的双端桥附近光滑真空数据",
+      "作者声称可延拓数据在加权光滑拓扑中构成贫集",
+      "延拓度规连续非退化，弱联络局部平方可积"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

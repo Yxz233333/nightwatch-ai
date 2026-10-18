@@ -10,5 +10,16 @@
   "abstractEnglish": "Every smooth connected projective complex variety with smoothly semipositive anticanonical bundle has a nonzero section of some positive anticanonical power.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Anticanonical nonvanishing from smooth semipositivity",
+  "titleZh": "由光滑半正性得到的反典范非消没",
+  "details": {
+    "overview": "稿件研究光滑射影复簇的反典范丛。作者声称，每个具有光滑半正反典范丛的光滑连通射影复簇，其某个正反典范幂次存在非零截面。该结论给出反典范非消没的一个充分条件，属AI产生手稿，未经独立审查；摘要未提供证明细节或进一步推论。",
+    "keyPoints": [
+      "对象为光滑连通射影复簇",
+      "条件为反典范丛光滑半正",
+      "结论为某正幂次有非零截面"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

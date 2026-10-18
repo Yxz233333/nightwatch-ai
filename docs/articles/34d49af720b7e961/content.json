@@ -1,7 +1,7 @@
 {
   "id": "34d49af720b7e961",
   "section": "papers",
-  "category": "数学论文",
+  "category": "调和分析",
   "title": "The Kakeya maximal conjecture in three dimensions",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-Kakeya-maximal-conjecture-in-three-dimensions-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Kakeya maximal conjecture in three dimensions. For every ε > 0, the maximal average over unit tubes of radius δ maps $`L^3(\\mathbb R^3)`$ to $`L^3(S^2)`$ with norm at most $`C_\\varepsilon\\delta^{-\\varepsilon}`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Kakeya maximal conjecture in three dimensions",
+  "titleZh": "三维Kakeya极大猜想",
+  "details": {
+    "overview": "稿件证明三维Kakeya极大猜想：对每个ε>0，半径δ的单位管上的极大平均算子将L^3(R^3)映射到L^3(S^2)，其范数至多为C_ε δ^{-ε}。摘要表示这解决了三维Kakeya极大猜想。该猜想是调和分析中Kakeya问题的核心形式之一，若成立将对限制型估计和几何测度论产生重要影响。",
+    "keyPoints": [
+      "研究对象是三维空间中单位管上的Kakeya极大平均算子。",
+      "作者声称该算子从L^3(R^3)到L^3(S^2)的范数至多为C_ε δ^{-ε}。",
+      "摘要表示这证明了三维Kakeya极大猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the complete ideal-class packets of maximal orders in totally real sextic fields with no proper intermediate fields become equidistributed, with no escape of mass, in the space of unimodular lattices as their field discriminants tend to infinity. The limit is Haar probability measure. Each packet includes all coordinate-sign translates and is weighted by diagonal-orbit volume.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Equidistribution of Primitive Sextic Torus Packets",
+  "titleZh": "本原六次环面包的等分布",
+  "details": {
+    "overview": "该稿件研究全实六次域中极大序的完整理想类包在幺模格空间中的等分布。作者声称，对没有真中间域的全实六次域，当其域判别式趋于无穷时，这些包等分布且无质量逃逸，极限为Haar概率测度。每个包包含所有坐标符号平移，并以对角轨道体积加权。摘要表示该等分布结论。该结果若成立，将揭示六次域理想类包在格空间中的渐近分布；但稿件为AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为全实六次域中极大序的完整理想类包。",
+      "作者声称判别式趋于无穷时包在幺模格空间等分布，极限为Haar测度。",
+      "每个包包含坐标符号平移，并按对角轨道体积加权。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

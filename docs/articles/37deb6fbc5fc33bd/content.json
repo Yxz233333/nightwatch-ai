@@ -1,7 +1,7 @@
 {
   "id": "37deb6fbc5fc33bd",
   "section": "papers",
-  "category": "数学论文",
+  "category": "表示论",
   "title": "Tensor saturation for even spin groups",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Tensor-Saturation-for-Even-Spin-Groups-September-24-2026/Tensor-Saturation-for-Even-Spin-Groups-September-24-2026.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the saturation conjecture for $`\\mathop{\\mathrm{Spin}}\\nolimits (2n)`$, n ≥ 2. If three dominant integral weights sum to an element of the root lattice, then the existence of a nonzero tensor invariant after a positive integral dilation implies the existence of one at the original weights.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Tensor saturation for even spin groups",
+  "titleZh": "偶自旋群的张量饱和性",
+  "details": {
+    "overview": "稿件研究偶自旋群Spin(2n)（n≥2）的张量饱和猜想。作者声称证明了该猜想：若三个支配整权之和属于根格，则经过某个正整数倍膨胀后存在非零张量不变量，蕴含原权重处也存在非零张量不变量。该结论涉及表示论中张量不变量存在性的饱和现象，摘要仅给出陈述，未展开证明，且稿件尚未经独立审查。",
+    "keyPoints": [
+      "研究对象为偶自旋群Spin(2n)，n≥2，及其张量不变量",
+      "作者声称证明饱和猜想：三支配整权之和属根格时，正整倍膨胀下有不变量则原权重处也有",
+      "结论属表示论中张量不变量存在性的饱和现象"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

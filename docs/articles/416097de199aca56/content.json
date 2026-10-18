@@ -1,7 +1,7 @@
 {
   "id": "416097de199aca56",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数学物理",
   "title": "Bose–Einstein condensation at positive temperature in the dilute hard-sphere gas",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Bose-Einstein-condensation-at-positive-temperature-in-the-dilute-hard-sphere-gas-October-5-2026/positive-temperature-hard-spheres.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove Bose–Einstein condensation at positive temperature in the three-dimensional dilute hard-sphere gas. For each fixed exclusion distance and every sufficiently small fixed density, there is a strictly positive temperature, independent of the volume, at which the exact canonical Gibbs state has a positive condensate fraction in the thermodynamic limit. The condensate occupies the constant orbital.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Bose–Einstein condensation at positive temperature in the dilute hard-sphere gas",
+  "titleZh": "稀薄硬球气体正温度下的Bose–Einstein凝聚",
+  "details": {
+    "overview": "稿件研究三维稀薄硬球气体，作者声称证明正温度下的Bose–Einstein凝聚。对每个固定排斥距离和每个足够小的固定密度，存在与体积无关的严格正温度，使精确正则Gibbs态在热力学极限下具有正凝聚分数，凝聚占据常数轨道。该结果把硬球相互作用下的正温凝聚确立为严格结论。",
+    "keyPoints": [
+      "研究三维稀薄硬球气体，证明正温度下发生Bose–Einstein凝聚",
+      "对固定排斥距离与足够小固定密度，存在与体积无关的严格正温度",
+      "精确正则Gibbs态在热力学极限下有正凝聚分数，凝聚占据常数轨道"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "0f952aab2292404e",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数学物理与几何分析",
   "title": "Universal optimality of the triangular lattice",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Universal-optimality-of-the-triangular-lattice-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove universal energy minimality for the triangular lattice in the plane. Among locally finite configurations of centered density one, it minimizes the lower limit of centered-ball energy averages for every nonnegative completely monotone function of squared distance, including when the energy is infinite. We also prove triangular minimality for planar logarithmic and Riesz renormalized energies, with $`0\\lt s\\lt 2`$ in the Riesz case, and the corresponding jellium minima. The proof uses sharp Gaussian Fourier bounds, positive mixtures, and heat-kernel comparison.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Universal optimality of the triangular lattice",
+  "titleZh": "三角格的通用最优性",
+  "details": {
+    "overview": "稿件提出证明平面三角格的通用能量极小性：在中心密度为一的局部有限构型中，对任意非负完全单调的平方距离函数，三角格最小化中心球能量平均的下极限，包括能量为无穷的情形。摘要还称证明了平面对数能量与 Riesz 重整化能量（Riesz 情形 0<s<2）的三角极小性及相应 jellium 极小值。证明使用尖锐 Gaussian Fourier 界、正混合与热核比较。该手稿为 AI 产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "作者声称三角格在平面中心密度一构型中最小化完全单调能量平均的下极限。",
+      "结果涵盖能量为无穷的情形，并包括对数与 Riesz 重整化能量。",
+      "证明使用尖锐 Gaussian Fourier 界、正混合与热核比较。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove Erdős's conjecture on the largest fibers of Euler's totient function: for every ε > 0, infinitely many positive integers n have more than $`n^{1-\\varepsilon }`$ preimages. We also show that, for every fixed δ > 0, there are at least $`x^{1-o(1)}`$ primes p in $`2x\\lt p\\le5x`$ whose predecessors have no prime factor exceeding xδ.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Weighted dilation graphs, smooth shifted primes and totient fibers",
+  "titleZh": "加权膨胀图、光滑移位素数与欧拉函数纤维",
+  "details": {
+    "overview": "稿件研究欧拉函数最大纤维与移位素数的光滑性。作者声称证明了Erdős关于欧拉函数最大纤维的猜想：对每个ε>0，存在无穷多个正整数n，其原像个数超过n^{1-ε}。作者还声称，对每个固定δ>0，在2x<p≤5x中至少有x^{1-o(1)}个素数p，其前驱没有超过x^δ的素因子。两项结果均属数论中乘法函数与素数分布的研究。",
+    "keyPoints": [
+      "作者声称证明Erdős猜想：无穷多个n的欧拉函数原像数超过n^{1-ε}",
+      "对固定δ>0，2x<p≤5x中至少x^{1-o(1)}个素数的前驱无超过x^δ的素因子",
+      "研究涉及加权膨胀图与光滑移位素数"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

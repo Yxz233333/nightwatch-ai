@@ -1,7 +1,7 @@
 {
   "id": "c0ef1b74c0572258",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论",
   "title": "The Critical Spin Field of the Planar XY Model",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-Critical-Spin-Field-of-the-Planar-XY-Model-October-5-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "Using the companion critical Bessel-height and pin-limit theorems, we prove that at the mass-defined critical inverse temperature of the nearest-neighbor XY model on the square lattice, the spin field on a square with boundary angles fixed to zero converges along the full sequence to the full-variance imaginary exponential of a zero-Dirichlet Gaussian free field with stiffness $`2/\\pi`$. The normalization uses the exact center magnetization and the lattice Green-function factor. Convergence holds in law in $`H^{-3}_{\\mathrm{loc}}((-1,1)^2)`$; all mixed moments and joint laws of fields smeared against smooth compactly supported test functions in $`(-1,1)^2`$ converge as well.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Critical Spin Field of the Planar XY Model",
+  "titleZh": "平面XY模型的临界自旋场",
+  "details": {
+    "overview": "稿件研究正方格点上最近邻XY模型在质量定义临界逆温度处的自旋场极限。作者借助配套的临界Bessel高度与pin极限定理，声称在边界角固定为零的正方形上，自旋场沿完整序列收敛到刚度2/π的零Dirichlet高斯自由场的全方差虚指数。摘要表示收敛依分布成立于H⁻³_loc((-1,1)²)，且与光滑紧支测试函数磨光后的所有混合矩与联合分布也收敛。归一化使用精确中心磁化与格点格林函数因子。",
+    "keyPoints": [
+      "在质量定义临界逆温度处考察正方格点最近邻XY模型自旋场",
+      "声称收敛到刚度2/π的零Dirichlet高斯自由场的虚指数",
+      "收敛依分布成立于H⁻³_loc，混合矩与联合分布亦收敛"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

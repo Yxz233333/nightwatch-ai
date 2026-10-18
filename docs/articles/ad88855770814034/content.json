@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct smooth forces for three-dimensional incompressible Navier–Stokes flow, from rest at any fixed positive computable viscosity, whose velocity field detects whether a prescribed machine halts. On the unit flat torus, a pointwise test of the third velocity component uses successively shorter stirring intervals in a fixed spatial region. On $`\\mathbb R^2\\times\\mathbb T`$, an integral test uses an expanding array of translation regions and a force with globally bounded mixed derivatives. The vertical velocity solves an advection–diffusion equation: short bursts control its pointwise error in the first construction, and a moving cutoff controls the total escaped mass in the second.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Velocity-Field Detection of Computation in Forced Navier–Stokes Flows",
+  "titleZh": "受迫Navier–Stokes流中计算的速度场检测",
+  "details": {
+    "overview": "稿件对三维不可压Navier–Stokes流构造光滑外力，从静止出发、在任意固定正可计算黏度下，使速度场检测给定机器是否停机。在单位平坦环面上，第三速度分量的逐点测试在固定空间区域使用逐渐缩短的搅拌区间；在ℝ²×𝕋上，积分测试用扩张平移区域阵列与全局有界混合导数外力。垂直速度满足对流–扩散方程，短脉冲控制逐点误差，移动截断控制逃逸质量。摘要未给证明细节，结论待独立审查。",
+    "keyPoints": [
+      "构造光滑外力使三维Navier–Stokes速度场检测机器停机",
+      "单位平坦环面上用逐渐缩短搅拌区间做第三分量逐点测试",
+      "ℝ²×𝕋上用扩张平移区域阵列与全局有界混合导数外力做积分测试"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Berezinskii–Kosterlitz–Thouless essential singularity for the correlation length of the nearest-neighbor cosine XY model on the square lattice. Let $`m(b)`$ be the mass obtained by taking first the free-box thermodynamic limit and then the separation limit along a coordinate axis. As the inverse temperature b approaches bc from the massive side,\n\n$`\\displaystyle \\sqrt{b_c-b}\\log\\frac{1}{m(b)} \\longrightarrow A_{\\mathrm{XY}},`$\n\nwhere $`A_{\\mathrm{XY}}`$ is a finite, strictly positive model-specific constant.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Essential Singularity of the Correlation Length in the Planar XY Model",
+  "titleZh": "平面XY模型中关联长度的本质奇点",
+  "details": {
+    "overview": "该稿件研究正方格最近邻余弦XY模型关联长度在临界点附近的行为。作者声称证明了Berezinskii–Kosterlitz–Thouless本质奇点：设m(b)为先取自由盒热力学极限、再沿坐标轴取分离极限所得质量，则当逆温度b从有质量侧趋于b_c时，√(b_c−b)·log(1/m(b)) 趋于有限严格正常数 A_{XY}。摘要表示该极限成立。该结果若成立，将定量刻画XY模型关联长度的本质奇点；但稿件为AI产生的研究手稿，未经独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为方格最近邻余弦XY模型的关联长度质量m(b)。",
+      "作者声称 √(b_c−b)·log(1/m(b)) 趋于有限严格正常数 A_{XY}。",
+      "极限沿先自由盒热力学极限、再分离极限的顺序定义。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

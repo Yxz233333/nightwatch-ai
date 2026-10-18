@@ -10,5 +10,16 @@
   "abstractEnglish": "We resolve the planar Cohn–Elkies sharpness conjecture: the two-point Fourier bound attains the optimal circle-packing density $`\\pi/(2\\sqrt3)`$. We construct a radial Schwartz certificate and prove its global sign conditions using rigorous interval arithmetic and analytic estimates. The same certificate recovers the classical uniqueness of the triangular packing among periodic equality cases.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A sharp Fourier certificate for planar circle packing",
+  "titleZh": "平面圆堆积的一个尖锐Fourier证书",
+  "details": {
+    "overview": "该稿件研究平面圆堆积密度的Fourier方法。作者声称解决了平面Cohn–Elkies尖锐性猜想：两点Fourier界达到最优圆堆积密度π/(2√3)。稿件构造了径向Schwartz证书，并用严格区间算术与解析估计证明其全局符号条件；同一证书还恢复三角堆积在周期等号情形中的经典唯一性。若成立，这将为圆堆积最优密度提供基于Fourier证书的证明路径。手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "声称两点Fourier界达到最优平面圆堆积密度π/(2√3)。",
+      "构造径向Schwartz证书，用区间算术与解析估计验证符号条件。",
+      "同一证书恢复三角堆积在周期等号情形中的唯一性。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

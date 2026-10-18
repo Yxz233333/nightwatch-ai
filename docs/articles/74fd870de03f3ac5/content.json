@@ -1,7 +1,7 @@
 {
   "id": "74fd870de03f3ac5",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数几何与数论",
   "title": "Étale covers with a prescribed exterior sheet",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Etale-covers-with-a-prescribed-exterior-sheet-September-24-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "Let X be a smooth proper hyperbolic curve over an algebraic closure of a p-adic local field. Given finitely many disjoint small open disks, we construct one connected finite étale cover with a sheet isomorphic to their entire exterior and with degree divisible by p on every connected component above each disk.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Étale covers with a prescribed exterior sheet",
+  "titleZh": "具有指定外部叶片的étale覆盖",
+  "details": {
+    "overview": "稿件研究p进局部域代数闭包上光滑射影双曲曲线X的有限étale覆盖构造。给定有限多个互不相交的小开圆盘，作者声称构造出一个连通有限étale覆盖，其一个叶片同构于这些圆盘的整体外部，并且在每个圆盘上方的每个连通分支上次数可被p整除。摘要未给出更多技术条件或证明细节。该结果涉及p进曲线的基本群与覆盖的局部—整体控制。",
+    "keyPoints": [
+      "底为p进局部域代数闭包上的光滑射影双曲曲线X。",
+      "给定有限多个互不相交小开圆盘，构造连通有限étale覆盖。",
+      "该覆盖一个叶片同构于圆盘整体外部，且各圆盘上方分支次数被p整除。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

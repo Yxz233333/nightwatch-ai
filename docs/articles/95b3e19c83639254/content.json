@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the purely cosmetic surgery conjecture for knots in the three-sphere. Distinct Dehn surgery slopes on a nontrivial smooth knot never give orientation-preservingly homeomorphic manifolds.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Purely cosmetic surgery on knots in the three-sphere",
+  "titleZh": "三维球面中纽结的纯美容手术",
+  "details": {
+    "overview": "稿件研究三维球面中纽结的Dehn手术。摘要称证明了纯美容手术猜想：非平凡光滑纽结上不同的Dehn手术斜率不会给出保定向同胚的流形。该问题属于低维拓扑中纽结手术理论，作者声称的结果若成立，将排除同一纽结不同斜率产生同胚流形的情形。材料仅见摘要，未给出证明细节或独立审查信息。",
+    "keyPoints": [
+      "声称证明三维球面中纽结的纯美容手术猜想。",
+      "不同Dehn手术斜率不给出保定向同胚流形。",
+      "对象为非平凡光滑纽结，细节仅见摘要。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

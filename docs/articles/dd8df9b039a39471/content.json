@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct exact nonuniform Fourier circuits of size $`o(n\\log n)`$ along an unbounded sequence of lengths, counting every addition, subtraction, and scalar multiplication. This refutes the $`\\Omega(n\\log n)`$ lower bound in the unrestricted complex linear-circuit model. The construction uses a finite tensor saving: a tensor power of some invertible nonmonomial complex matrix can be computed with fewer matrix calls than the standard tensor-axis algorithm on the same coordinates, when invertible monomial maps are allowed freely between calls.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Finite tensor savings and exact Fourier circuits",
+  "titleZh": "有限张量节省与精确Fourier电路",
+  "details": {
+    "overview": "稿件构造了沿无界长度序列的精确非均匀Fourier电路，大小为o(n log n)，计数所有加法、减法和标量乘法。这否定了无限制复线性电路模型中的Ω(n log n)下界。构造利用有限张量节省：某个可逆非单项复矩阵的张量幂可以用比标准张量轴算法更少的矩阵调用计算，当调用之间允许自由使用可逆单项映射时。该结果属于理论计算机科学领域。",
+    "keyPoints": [
+      "构造大小为o(n log n)的精确非均匀Fourier电路，否定Ω(n log n)下界。",
+      "利用有限张量节省：可逆非单项复矩阵的张量幂计算调用更少。",
+      "允许调用间自由使用可逆单项映射。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

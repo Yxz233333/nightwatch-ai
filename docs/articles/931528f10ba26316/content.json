@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct in ZFC two self-dual partitional matroids on a countably infinite common ground set that admit neither a packing/covering partition nor an intersection witness. This disproves the unrestricted infinite matroid packing/covering and intersection conjectures and answers Joó's question for two partitional matroids negatively. The examples are neither finitary nor cofinitary.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Counterexample to the Infinite Matroid Packing/Covering Conjecture",
+  "titleZh": "无限拟阵填充/覆盖猜想的一个反例",
+  "details": {
+    "overview": "稿件研究无限拟阵的填充/覆盖与交猜想。作者声称在ZFC中构造了可数无限公共底集上的两个自对偶分划拟阵，它们既没有填充/覆盖划分，也没有交见证，从而否定无限制的无限拟阵填充/覆盖猜想与交猜想，并对Joó关于两个分划拟阵的问题给出否定回答。摘要称这些例子既非有限型也非余有限型。材料未提供证明细节与独立审查。",
+    "keyPoints": [
+      "在ZFC中构造可数无限底集上的两个自对偶分划拟阵。",
+      "两例既无填充/覆盖划分，也无交见证。",
+      "作者声称否定无限拟阵填充/覆盖与交猜想，并否定回答Joó的问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

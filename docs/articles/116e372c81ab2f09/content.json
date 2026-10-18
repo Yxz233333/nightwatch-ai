@@ -1,7 +1,7 @@
 {
   "id": "116e372c81ab2f09",
   "section": "papers",
-  "category": "数学论文",
+  "category": "算子代数",
   "title": "Universal strong Kadison–Kastler stability",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Universal-strong-Kadison-Kastler-stability-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that sufficiently close unital von Neumann algebras are conjugate by a unitary arbitrarily close to the identity. The tolerance depends only on the prescribed distance of that unitary from the identity, uniformly over all algebras, representations, and Hilbert spaces. This resolves the strong Kadison–Kastler conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Universal strong Kadison–Kastler stability",
+  "titleZh": "通用强 Kadison–Kastler 稳定性",
+  "details": {
+    "overview": "稿件提出证明强 Kadison–Kastler 猜想：充分接近的单位 von Neumann 代数可由任意接近恒等元的酉元共轭。摘要称容差只依赖于该酉元与恒等元的给定距离，并对所有代数、表示和 Hilbert 空间一致成立。研究意义在于若成立，将为算子代数扰动稳定性提供统一定量结论。该手稿为 AI 产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "作者声称证明强 Kadison–Kastler 猜想。",
+      "接近的单位 von Neumann 代数可由接近恒等元的酉元共轭。",
+      "容差仅依赖酉元与恒等元的距离，并对所有代数、表示和 Hilbert 空间一致。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We give an explicit colored-graph characterization of the finite nonempty lattices that occur as full congruence lattices of finite algebras, and prove that deciding this representation property is undecidable. In particular, the finite lattice representation problem has a negative answer. We also prove that recognition of full subgroup intervals in finite groups is undecidable.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Finite congruence lattices: characterization and undecidability",
+  "titleZh": "有限同余格：刻画与不可判定性",
+  "details": {
+    "overview": "稿件研究有限代数全同余格的表示问题。摘要给出有限非空格作为有限代数全同余格的显式有色图刻画，并证明判定该表示性质是不可判定的，从而对有限格表示问题给出否定答案。作者还证明有限群中全子群区间的识别是不可判定的。研究意义在于揭示同余格表示问题的计算复杂性，但手稿为AI产生，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "给出有限非空格作为有限代数全同余格的显式有色图刻画。",
+      "证明判定该表示性质不可判定，有限格表示问题有否定答案。",
+      "证明有限群中全子群区间的识别不可判定。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

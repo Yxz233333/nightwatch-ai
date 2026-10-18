@@ -1,7 +1,7 @@
 {
   "id": "960d3479b03cfa30",
   "section": "papers",
-  "category": "数学论文",
+  "category": "算法与计算复杂性",
   "title": "Integer multiplication below n log n",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We give a deterministic algorithm that multiplies two n-bit integers in $`O(n(\\lg n)^{1-\\kappa})`$ worst-case time, with $`\\kappa=2^{-182}`$, on one fixed finite-alphabet Turing machine with a fixed finite number of one-dimensional tapes. The algorithm is exact for every input length and disproves the $`n\\log n`$ optimality conjecture of Schönhage and Strassen in this model.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Integer multiplication below n log n",
+  "titleZh": "低于n log n的整数乘法",
+  "details": {
+    "overview": "稿件给出一个确定性算法，在固定有限字母表、固定有限条一维带的单台图灵机上，以O(n(lg n)^{1−κ})最坏时间乘两个n位整数，其中κ=2^{−182}。摘要称算法对所有输入长度精确，并在该模型下否证Schönhage–Strassen的n log n最优性猜想。研究属于算法与计算复杂性，材料仅见摘要，未提供算法描述与复杂度证明细节。",
+    "keyPoints": [
+      "给出确定性整数乘法算法，最坏时间O(n(lg n)^{1−κ})。",
+      "κ=2^{−182}，在固定有限带图灵机模型下成立。",
+      "摘要称否证Schönhage–Strassen的n log n最优性猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

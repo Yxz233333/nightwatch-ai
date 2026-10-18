@@ -1,7 +1,7 @@
 {
   "id": "b73524d1805f6d04",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数学广义相对论",
   "title": "Electromagnetic tails and the Kerr–Newman Penrose inequality",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Electromagnetic-tails-and-the-Kerr-Newman-Penrose-inequality-October-5-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct smooth axisymmetric electrovacuum exteriors that violate the Kerr–Newman Penrose inequality when J is the bare gravitational ADM angular momentum and the electromagnetic fields have only $`O(r^{-2})`$ decay, allowing angularly varying leading tails. The examples have zero total electric and magnetic charge even though both electromagnetic fields are nonzero. They have a connected outermost, outer-area-minimizing future marginally outer trapped boundary and lie strictly on the physical area branch. We also obtain equality examples whose original data admit no Kerr–Newman spacelike realization with the corresponding mass, angular momentum, and charges. These counterexamples do not refute formulations using conserved total angular momentum with its electromagnetic correction or stronger Coulomb asymptotics.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Electromagnetic tails and the Kerr–Newman Penrose inequality",
+  "titleZh": "电磁尾项与Kerr–Newman Penrose不等式",
+  "details": {
+    "overview": "稿件研究Kerr–Newman Penrose不等式在电磁场仅有O(r⁻²)衰减、允许角向变化领头尾项时的有效性。作者声称构造光滑轴对称电真空外部，当J取裸引力ADM角动量时违反该不等式；例子总电磁荷为零但电磁场非零，具有连通最外、外面积最小化的未来边缘外陷阱边界，并严格位于物理面积分支。摘要还给出等号例子，其原始数据不存在对应质量、角动量与电荷的Kerr–Newman类空实现；作者指出这不反驳使用含电磁修正的守恒总角动量或更强Coulomb渐近的表述。",
+    "keyPoints": [
+      "构造电磁场仅O(r⁻²)衰减且总电荷为零的光滑轴对称电真空外部",
+      "当J取裸引力ADM角动量时，例子违反Kerr–Newman Penrose不等式",
+      "等号例子无对应Kerr–Newman类空实现，但不反驳含电磁修正的表述"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

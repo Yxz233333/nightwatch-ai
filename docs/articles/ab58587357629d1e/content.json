@@ -1,7 +1,7 @@
 {
   "id": "ab58587357629d1e",
   "section": "papers",
-  "category": "数学论文",
+  "category": "变分法与几何测度论",
   "title": "Interior regularity of planar Mumford–Shah minimizers",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026/Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the interior regularity assertion of the planar Mumford–Shah conjecture for reduced absolute minimizers with bounded fidelity data. Every interior point of the closed discontinuity set has a neighborhood consisting of a $`C^{1,\\alpha}`$ arc, an arc ending at that point, or three such arcs meeting at 120 degrees. Only finitely many global connected components meet any relatively compact open set.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Interior regularity of planar Mumford–Shah minimizers",
+  "titleZh": "平面Mumford–Shah极小元的内正则性",
+  "details": {
+    "overview": "该稿件研究平面Mumford–Shah泛函的极小元正则性。作者声称对有界保真数据的约化绝对极小元证明平面Mumford–Shah猜想的内正则性断言：闭不连续集的每个内点都有邻域，其形态为一条C^{1,α}弧、一条终止于该点的弧，或三条以120度相交的弧；且任何相对紧开集只与有限多个全局连通分支相交。若成立，将刻画图像分割模型不连续集的局部几何。",
+    "keyPoints": [
+      "闭不连续集内点邻域被刻画为单弧、终止弧或120度三弧交汇。",
+      "任何相对紧开集仅与有限多个全局连通分支相交。",
+      "结论针对有界保真数据的约化绝对极小元。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

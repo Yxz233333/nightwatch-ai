@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a counterexample to Kaplansky's direct-finiteness conjecture in odd characteristic. For one specified odd prime p, we obtain a field K of order p4, a finitely generated group G containing torsion, and finite sums $`a,b\\in K[G]`$ with $`ab=1`$ but $`ba\\ne1`$. The same elements define a cellular automaton on KG that is injective but not surjective.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Counterexample to Kaplansky's Direct-Finiteness Conjecture in Odd Characteristic",
+  "titleZh": "奇数特征下Kaplansky直接有限性猜想的一个反例",
+  "details": {
+    "overview": "稿件在奇数特征下构造Kaplansky直接有限性猜想的反例：对某个指定奇素数p，得到阶为p^4的域K、含挠元的有限生成群G，以及K[G]中有限和a、b满足ab=1但ba≠1；同样元素定义KG上一个单射不满射的元胞自动机。作者据此声称在奇数特征下否定该猜想，联系群环的单位性质与元胞自动机的可逆性。",
+    "keyPoints": [
+      "对某个指定奇素数p构造阶p^4的域K与含挠元的有限生成群G",
+      "K[G]中存在ab=1但ba≠1的有限和a、b",
+      "同样元素给出单射不满射的元胞自动机"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "0b97f8fd40bd5c0b",
   "section": "papers",
-  "category": "数学论文",
+  "category": "算子代数",
   "title": "Bounded recovery for modular spectral averages",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Bounded-recovery-for-modular-spectral-averages-September-23-2026/Bounded-recovery-for-modular-spectral-averages-September-23-2026.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove a bounded spectral recovery theorem for a von Neumann algebra with a faithful normal state whose centralizer consists only of scalars. A positive averaged squared norm for an arbitrary bounded Hilbert-space operator on shrinking modular spectral bands can be recovered on uniformly bounded algebra elements with shrinking spectral support. We apply this theorem to spectral intertwining rigidity and obtain an alternative proof of bicentralizer triviality for type III1 factors with separable predual.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Bounded recovery for modular spectral averages",
+  "titleZh": "模谱平均的有界恢复",
+  "details": {
+    "overview": "稿件提出一个 von Neumann 代数的有界谱恢复定理，条件是该代数具有忠实正规态且其中心化子仅含标量。摘要称在收缩的模谱带上，任意有界 Hilbert 空间算子的正平均平方范数可在具有收缩谱支撑的一致有界代数元素上恢复。作者将该定理应用于谱缠绕刚性，并得到可分预对偶 III1 型因子双中心化子平凡性的另一证明。该手稿为 AI 产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "作者证明中心化子仅含标量的忠实正规态 von Neumann 代数上的有界谱恢复定理。",
+      "在收缩模谱带上恢复有界算子的正平均平方范数。",
+      "应用于谱缠绕刚性，并给出 III1 型因子双中心化子平凡性的另一证明。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

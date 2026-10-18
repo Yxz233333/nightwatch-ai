@@ -10,5 +10,16 @@
   "abstractEnglish": "For every fixed integer r ≥ 4, every Kr-free graph on n vertices with average degree d ≥ 2 has an independent set of size at least $`c_r n\\log d/d`$, where $`c_r\\gt 0`$ depends only on r. This proves the fixed-clique-size independence conjecture of Ajtai, Erdős, Komlós and Szemerédi.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A logarithmic independence bound for clique-free graphs",
+  "titleZh": "无团图的独立集对数界",
+  "details": {
+    "overview": "稿件研究无 K_r 图的独立集大小。作者声称，对每个固定整数 r ≥ 4，每个 n 顶点、平均度 d ≥ 2 的无 K_r 图具有大小至少 c_r n log d / d 的独立集，其中 c_r > 0 仅依赖 r。摘要表示这证明了 Ajtai、Erdős、Komlós 和 Szemerédi 的固定团大小独立集猜想。",
+    "keyPoints": [
+      "对固定 r ≥ 4，无 K_r 图有独立集大小至少 c_r n log d / d。",
+      "常数 c_r 仅依赖 r，平均度 d ≥ 2。",
+      "证明 Ajtai–Erdős–Komlós–Szemerédi 的固定团大小独立集猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

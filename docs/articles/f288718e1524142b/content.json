@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the two-summand form of Beauville's compatible splitting conjecture. If the tangent bundle of a compact connected Kähler manifold decomposes into two integrable holomorphic subbundles of positive rank, then its ordinary universal cover admits a product decomposition whose factor tangent bundles are the lifted specified summands.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Universal-cover splitting for compact Kähler manifolds",
+  "titleZh": "紧Kähler流形的万有覆盖分裂",
+  "details": {
+    "overview": "该稿件研究紧连通Kähler流形切丛的分解。作者声称证明了Beauville相容分裂猜想的双和项形式：若切丛分解为两个正秩可积全纯子丛，则普通万有覆盖存在乘积分解，其因子的切丛恰为指定和项的提升。若成立，这为Kähler流形的全纯切丛分解与万有覆盖几何结构之间建立了联系。手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "研究紧连通Kähler流形切丛分解为两个可积全纯子丛。",
+      "声称证明Beauville相容分裂猜想的双和项形式。",
+      "结论为万有覆盖的乘积分解，因子切丛为指定和项提升。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "573e68ffcf7cefbc",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数几何",
   "title": "Ample rank-two bundles on the quadric surface without Griffiths-positive metrics",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/ample-rank-two-bundles-on-the-quadric-surface-without-griffiths-positive-metrics-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We give counterexamples to Griffiths' conjecture in rank two on the quadric surface $`\\mathbb P^1\\times\\mathbb P^1`$. We construct an explicit bundle G whose coordinatewise power pullbacks, tensored with $`\\mathcal O(1,1)`$, are ample for every positive power, but admit no smooth strictly Griffiths-positive Hermitian metric for all sufficiently large powers.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Ample rank-two bundles on the quadric surface without Griffiths-positive metrics",
+  "titleZh": "二次曲面上的丰沛秩二向量丛不存在Griffiths正度量",
+  "details": {
+    "overview": "稿件在二次曲面 P^1×P^1 上给出Griffiths猜想秩二情形的反例。作者构造显式向量丛G，使其各坐标幂拉回与 O(1,1) 张量后对每个正整数幂都丰沛，但对所有充分大的幂都不存在光滑严格Griffiths正的Hermitian度量。摘要表示这构成对Griffiths猜想的反例，意义在于揭示丰沛性与Griffiths正度量之间的分离。",
+    "keyPoints": [
+      "在 P^1×P^1 上构造显式秩二向量丛G作为反例",
+      "G的坐标幂拉回张量 O(1,1) 对每个正幂均丰沛",
+      "充分大幂下不存在光滑严格Griffiths正Hermitian度量"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the abelian Zilber–Pink conjecture over $`\\overline{\\mathbb Q}`$. Every irreducible subvariety of an abelian variety has only finitely many maximal atypical subvarieties, where atypicality is measured inside its smallest containing torsion coset.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The abelian Zilber–Pink conjecture",
+  "titleZh": "阿贝尔Zilber–Pink猜想",
+  "details": {
+    "overview": "稿件研究阿贝尔簇上的Zilber–Pink型猜想。作者声称在ℚ上证明了阿贝尔Zilber–Pink猜想：阿贝尔簇的每个不可约子簇只有有限多个极大非典型子簇，其中非典型性是在其最小包含挠陪集内衡量的。若成立，这将对阿贝尔簇上的非典型交问题给出统一结论。材料仅提供摘要，未给出证明细节与独立验证。",
+    "keyPoints": [
+      "研究对象为ℚ上阿贝尔簇的不可约子簇。",
+      "作者声称每个这样的子簇只有有限多个极大非典型子簇。",
+      "非典型性在最小包含挠陪集内衡量。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

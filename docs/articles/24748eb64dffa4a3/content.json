@@ -10,5 +10,16 @@
   "abstractEnglish": "The limiting satisfiability threshold of uniform random 3-SAT is a computable real. We credit Gaia Carenini [[4]](https://eccc.weizmann.ac.il/report/2026/229/) with priority for resolving the satisfiability conjecture, which establishes the threshold's existence. We prove that one finite deterministic machine can approximate it to any prescribed accuracy. A deletion estimate gives explicit lower certificates, while a finite hierarchical approximation of the soft pressure gives upper certificates at every larger rational density. A fair search through these certificates halts without requiring a computable rate of finite-size convergence.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Computing the Random 3-SAT Threshold",
+  "titleZh": "计算随机3-SAT阈值",
+  "details": {
+    "overview": "该稿件研究均匀随机3-SAT的可满足性阈值是否可计算。摘要表示，作者将解决可满足性猜想、确立阈值存在性的优先权归于Gaia Carenini，并证明存在一台有限确定性机器能把该阈值逼近到任意指定精度：删除估计给出显式下界证书，软压力的有限分层逼近在每个更大的有理密度处给出上界证书，公平搜索这些证书即可停机，且不要求有限规模收敛的可计算速率。",
+    "keyPoints": [
+      "作者声称一台有限确定性机器可将随机3-SAT阈值逼近到任意精度。",
+      "删除估计提供显式下界证书，软压力的有限分层逼近提供上界证书。",
+      "公平搜索证书可停机，无需有限规模收敛的可计算速率。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

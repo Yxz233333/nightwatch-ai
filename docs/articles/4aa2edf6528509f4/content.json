@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that stationary random walk on a planar map sampled with weight equal to its number of spanning trees converges to Liouville Brownian motion on the unit-area $`\\sqrt2`$-Liouville quantum sphere. The convergence retains the conditional path law jointly with the measured metric space. The walk chooses uniformly among all incident half-edges and starts from the stationary degree measure. For total attempt rate one and the continuum Dirichlet form with factor 1/2, the time acceleration is exactly the number of map edges. The result uses the companion contour and metric limits for this same ensemble.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Linear Clock for Random Walk on Tree-Weighted Planar Maps",
+  "titleZh": "树权平面图上随机游走的线性时钟",
+  "details": {
+    "overview": "稿件研究以生成树数目为权抽样的平面图上的平稳随机游走。作者声称该游走收敛到单位面积√2-Liouville量子球面上的Liouville布朗运动，且收敛同时保留条件路径律与带测度度量空间。游走在所有关联半边上均匀选择，从平稳度测度出发；在总尝试率为1、连续Dirichlet型含因子1/2时，时间加速恰为图的边数。证明依赖同一系综的轮廓与度量极限。",
+    "keyPoints": [
+      "以生成树数为权抽样的平面图上平稳随机游走收敛到Liouville布朗运动",
+      "收敛同时保留条件路径律与带测度度量空间",
+      "总尝试率为1且Dirichlet型含因子1/2时，时间加速恰为图的边数"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

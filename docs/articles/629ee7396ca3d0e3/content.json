@@ -1,7 +1,7 @@
 {
   "id": "629ee7396ca3d0e3",
   "section": "papers",
-  "category": "数学论文",
+  "category": "计算复杂性理论",
   "title": "The PCP-for-PPAD conjecture: a quasilinear reduction",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-PCP-for-PPAD-conjecture-a-quasilinear-reduction-September-25-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the quasilinear-size PCP-for-PPAD conjecture of Babichenko, Papadimitriou, and Rubinstein. There are fixed positive rational constants ε and δ and a deterministic polynomial-time reduction that transforms an End-of-Line instance of binary length N into a generalized circuit of total binary length $`N(\\log N)^{O(1)}`$. From any rational assignment of polynomial encoding length that ε-satisfies all but a δ fraction of the gates, a solution to the original End-of-Line instance can be recovered in polynomial time, regardless of which gates fail. Such assignments always exist, with one fixed polynomial bound on their encoding length.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The PCP-for-PPAD conjecture: a quasilinear reduction",
+  "titleZh": "PCP-for-PPAD 猜想：拟线性归约",
+  "details": {
+    "overview": "该稿件研究 Babichenko、Papadimitriou 与 Rubinstein 提出的 PCP-for-PPAD 猜想。作者声称证明了拟线性规模的版本：存在固定正有理常数 ε 与 δ，以及确定性多项式时间归约，把长度为 N 的 End-of-Line 实例变为总长 N(log N)^{O(1)} 的广义电路；只要有理赋值满足除 δ 比例外的所有门，就能在多项式时间内恢复原实例的解，且不论哪些门失败。摘要表示此类赋值总存在，并有统一的多项式编码长度界。",
+    "keyPoints": [
+      "归约把 End-of-Line 实例变为总长 N(log N)^{O(1)} 的广义电路。",
+      "从 ε-满足几乎所有门的有理赋值可多项式时间恢复原实例解。",
+      "摘要称此类赋值总存在，且编码长度有统一多项式界。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "cad74e030f9d314e",
   "section": "papers",
-  "category": "数学论文",
+  "category": "广义相对论",
   "title": "Quantitative Near-Kerr Evolution and Generic C2 Future Inextendibility",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Quantitative-Near-Kerr-Evolution-and-Generic-C2-Future-Inextendibility-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For every fixed rotating subextremal Kerr bridge, we prove that smooth vacuum data admitting a C2 future extension of their full maximal globally hyperbolic development form a meagre set in a neighborhood defined by one finite-order seminorm. The topology allows arbitrary symbol-bounded asymptotically flat tails and imposes no symmetry.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Quantitative Near-Kerr Evolution and Generic C2 Future Inextendibility",
+  "titleZh": "定量近Kerr演化与一般C2未来不可延拓性",
+  "details": {
+    "overview": "稿件研究固定旋转次极端Kerr桥附近的真空数据。作者声称证明了：其完整最大全局双曲发展的C2未来延拓存在的数据，在由一个有限阶半范数定义的邻域中构成贫集。该拓扑允许任意符号有界的渐近平坦尾部且不施加对称性。该结果若成立，将表明在近Kerr区域中未来可延拓性是稀有的，对广义相对论中宇宙监督与强宇宙监督问题有潜在意义。摘要未提供证明细节或独立审查。",
+    "keyPoints": [
+      "对固定旋转次极端Kerr桥，证明可C2未来延拓的真空数据在有限阶半范数邻域中构成贫集。",
+      "拓扑允许任意符号有界渐近平坦尾部，不施加对称性。",
+      "结果涉及完整最大全局双曲发展的未来延拓性。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

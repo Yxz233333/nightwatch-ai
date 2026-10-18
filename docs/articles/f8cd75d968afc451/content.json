@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every finite simple undirected graph on n vertices has an edge partition into at most $`Cn`$ simple cycles and single edges, for an absolute constant C. This resolves the Erdős–Gallai cycle decomposition conjecture positively.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A linear cycle-and-edge decomposition of every graph",
+  "titleZh": "每个图的线性圈与边分解",
+  "details": {
+    "overview": "稿件研究有限简单无向图的边分解问题。作者声称证明了：任意n个顶点的有限简单无向图都可将边集划分为至多Cn个简单圈和单条边，其中C为绝对常数。摘要表示这正面解决了Erdős–Gallai圈分解猜想。该结果属于组合数学与图论中的经典分解问题，若成立将为图的圈结构研究提供统一上界。",
+    "keyPoints": [
+      "任意n顶点图可分解为至多Cn个简单圈和单边",
+      "C为与图无关的绝对常数",
+      "摘要称正面解决Erdős–Gallai圈分解猜想"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

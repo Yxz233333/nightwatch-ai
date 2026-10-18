@@ -1,7 +1,7 @@
 {
   "id": "561fc655156dffc6",
   "section": "papers",
-  "category": "数学论文",
+  "category": "近似算法与组合计数",
   "title": "Approximate counting of common bases of two matroids",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We give a fully polynomial randomized approximation scheme for counting the common bases of two arbitrary matroids of the same rank, supplied by independence oracles. The algorithm requires no explicit representation of either matroid and has polynomial bounds on both oracle calls and bit operations on every execution.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Approximate counting of common bases of two matroids",
+  "titleZh": "两个拟阵公共基的近似计数",
+  "details": {
+    "overview": "稿件研究在独立预言机访问下计数两个同秩任意拟阵的公共基。作者声称给出完全多项式随机近似方案（FPRAS），算法不需要任一拟阵的显式表示，且每次执行的预言机调用次数与位运算量均有多项式界。该问题属于组合计数与近似算法的交叉方向，若成立可为拟阵交计数提供通用近似工具，但作为AI产生的研究手稿，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "研究两个同秩任意拟阵公共基的计数问题",
+      "作者声称给出完全多项式随机近似方案，仅需独立预言机",
+      "预言机调用与位运算量在每次执行中均有多项式界"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "cc41dcc8a8e6e176",
   "section": "papers",
-  "category": "数学论文",
+  "category": "凸几何",
   "title": "The logarithmic Brunn–Minkowski conjecture",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-logarithmic-Brunn-Minkowski-conjecture-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the logarithmic Brunn–Minkowski conjecture for arbitrary origin-symmetric convex bodies in every dimension. The theorem also gives the symmetric Lp Brunn–Minkowski inequality for every $`0\\lt p\\lt 1`$. Combined with Saroglou's transfer theorem and a support-subspace reduction, it yields the logarithmic inequality for every even log-concave Radon measure and the scalar-dilation $`(B)`$-conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The logarithmic Brunn–Minkowski conjecture",
+  "titleZh": "对数Brunn–Minkowski猜想",
+  "details": {
+    "overview": "稿件研究对数Brunn–Minkowski猜想。作者声称证明了任意维数下任意原点对称凸体的该猜想，并得到每个0<p<1的对称Lp Brunn–Minkowski不等式。结合Saroglou转移定理与支撑子空间约化，进一步推出每个偶对数凹Radon测度的对数不等式及标量伸缩(B)-猜想。该结果若成立，将统一凸几何中多个重要不等式。摘要未提供证明细节或独立审查。",
+    "keyPoints": [
+      "证明任意维数原点对称凸体的对数Brunn–Minkowski猜想。",
+      "得到每个0<p<1的对称Lp Brunn–Minkowski不等式。",
+      "结合Saroglou转移定理推出偶对数凹Radon测度与(B)-猜想的结果。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

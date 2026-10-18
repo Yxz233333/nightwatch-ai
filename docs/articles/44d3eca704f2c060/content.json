@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove Campana's orbifold Iitaka subadditivity conjecture for rational simple normal crossing boundaries on compact manifolds in Fujiki class $`\\mathcal C`$, including coefficient one. Ordinary and logarithmic subadditivity follow.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Orbifold and logarithmic Iitaka subadditivity",
+  "titleZh": "轨形与对数Iitaka次可加性",
+  "details": {
+    "overview": "稿件研究紧致流形上Campana轨形Iitaka次可加性猜想。作者声称在Fujiki类C的紧致流形上，对有理简单正规交叉边界证明了该猜想，包括系数为一的情形；普通次可加性与对数次可加性作为推论成立。摘要未说明证明方法细节，也未表明结果经过独立审查。",
+    "keyPoints": [
+      "在Fujiki类C紧致流形上证明Campana轨形Iitaka次可加性。",
+      "覆盖有理简单正规交叉边界，包括系数一情形。",
+      "普通与对数次可加性作为推论得到。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

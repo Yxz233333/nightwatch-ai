@@ -1,7 +1,7 @@
 {
   "id": "3047f5ad9b3a0714",
   "section": "papers",
-  "category": "数学论文",
+  "category": "统计学习理论",
   "title": "Replacing Gaussian observations in memory-constrained inference",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Replacing-Gaussian-observations-in-memory-constrained-inference-September-27-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "Replacing the Gaussian rows used to select a finite message by independent rows increases the remaining conditional information by at most $`Cd`$, for a uniform spherical signal, message entropy at most d2, and the specified row dimensions proportional to d. As an application, we prove that learners with $`M=o(d^2)`$ persistent bits need $`T=\\Omega(d\\log(1/\\epsilon))`$ exact observations to attain uniform-sphere angular success at least 3/5, for $`0\\lt \\epsilon\\le1/10`$ and a deterministic finite horizon.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Replacing Gaussian observations in memory-constrained inference",
+  "titleZh": "记忆受限推断中替换高斯观测",
+  "details": {
+    "overview": "稿件研究记忆受限推断中替换高斯观测行的影响。作者声称：对均匀球面信号、消息熵至多d²且行维数与d成比例，用独立行替换用于选择有限消息的高斯行，至多增加剩余条件信息Cd。作为应用，证明具有M=o(d²)持久比特的学习器需要T=Ω(d log(1/ε))次精确观测，才能在0<ε≤1/10和确定性有限时域下达到至少3/5的均匀球面角度成功率。",
+    "keyPoints": [
+      "研究替换高斯观测行对剩余条件信息的影响。",
+      "作者声称信息增加至多Cd。",
+      "应用给出M=o(d²)比特学习器需Ω(d log(1/ε))次观测。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

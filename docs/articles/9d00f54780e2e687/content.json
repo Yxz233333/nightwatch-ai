@@ -10,5 +10,16 @@
   "abstractEnglish": "Using the conformal and metric-measure companion results and the stated Brownian/Liouville quantum gravity inputs, we prove spectral convergence for critical spherical FK–Ising maps to Liouville Brownian motion on the ordinary unit-area $`\\sqrt3`$-quantum sphere. The discrete walk has total attempt rate one, uses every map edge including loops and multiplicities, and has the corner measure as its stationary law. Accelerating time by the number of map edges gives joint convergence of the metric-measure space, all ordered eigenvalues with multiplicities and padding, and the heat trace locally uniformly at strictly positive times. The conductivity and clock constant are one in these conventions.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Spectral convergence for critical FK–Ising planar maps",
+  "titleZh": "临界 FK–Ising 平面映射的谱收敛",
+  "details": {
+    "overview": "该稿件利用共形与度量-测度配套结果及所述 Brownian/Liouville 量子引力输入，证明临界球面 FK–Ising 映射到单位面积 √3-量子球面上 Liouville Brownian 运动的谱收敛。离散游走总尝试率为一，使用包括自环与重数在内的每条映射边，以角测度为平稳分布。作者声称按映射边数加速时间后，度量-测度空间、带重数与填充的所有有序特征值以及严格正时刻局部一致的热迹联合收敛，电导与时钟常数在此约定下为一。",
+    "keyPoints": [
+      "证明临界球面 FK–Ising 映射到 Liouville Brownian 运动的谱收敛。",
+      "离散游走使用全部映射边，以角测度为平稳分布。",
+      "加速时间后特征值、热迹与度量-测度空间联合收敛。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

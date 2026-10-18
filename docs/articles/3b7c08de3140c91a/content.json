@@ -1,7 +1,7 @@
 {
   "id": "3b7c08de3140c91a",
   "section": "papers",
-  "category": "数论与算术几何",
+  "category": "微分几何",
   "title": "Path selection and an elliptic inequality on degenerating Ricci-flat trees",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Path-selection-and-an-elliptic-inequality-on-degenerating-Ricci-flat-trees-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove a sequential elliptic inequality for the renormalized Einstein–Hilbert functional on a fixed finite tree of four-dimensional Ricci-flat spaces. As the joining lengths diverge and the scale-neutral weighted Ricci error M tends to zero, the functional satisfies $`E=o(M)`$. The root end has decay exponent greater than one, and every joined quotient group is nontrivial. We also prove the multivariable path-selection theorem for asymptotic expansions used to obtain this estimate.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Path selection and an elliptic inequality on degenerating Ricci-flat trees",
+  "titleZh": "退化Ricci平坦树上的路径选择与一个椭圆不等式",
+  "details": {
+    "overview": "稿件研究固定有限棵四维Ricci平坦空间构成的树上的重整化Einstein–Hilbert泛函。作者声称：当连接长度发散、尺度中性加权Ricci误差M趋于零时，该泛函满足E=o(M)；根端衰减指数大于一，且每个拼接商群非平凡。摘要还表示证明了用于得到该估计的多变量路径选择定理。研究意义在于为退化几何上的泛函渐近控制提供工具，但结果尚未经独立审查。",
+    "keyPoints": [
+      "在固定有限四维Ricci平坦空间树上证明重整化Einstein–Hilbert泛函的序列椭圆不等式",
+      "当连接长度发散且加权Ricci误差M趋零时，泛函满足E=o(M)",
+      "根端衰减指数大于一，每个拼接商群非平凡；另证多变量路径选择定理"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

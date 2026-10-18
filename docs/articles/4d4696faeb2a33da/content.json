@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that planar first-passage percolation with independent identically distributed nonnegative nonatomic edge weights has almost surely no doubly infinite geodesic, provided the minimum of four independent weights has finite second moment. This resolves the planar no-bigeodesics conjecture under that moment assumption. The conclusion rules out all bigeodesics simultaneously, without any regularity assumption on the limit shape.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "No bigeodesics in planar first-passage percolation",
+  "titleZh": "平面第一通过渗流中不存在双测地线",
+  "details": {
+    "overview": "稿件研究平面第一通过渗流中的双无限测地线。作者声称证明：在独立同分布、非负且非原子边权下，若四个独立权的最小值具有有限二阶矩，则几乎必然不存在双无限测地线。摘要表示这在上述矩条件下解决平面无大测地线猜想，且结论同时排除所有大测地线，不要求极限形状的任何正则性假设。",
+    "keyPoints": [
+      "在四权最小值有限二阶矩下证明几乎必然无大测地线",
+      "结论同时排除所有双无限测地线",
+      "不依赖极限形状的正则性假设"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

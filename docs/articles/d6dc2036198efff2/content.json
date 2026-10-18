@@ -1,7 +1,7 @@
 {
   "id": "d6dc2036198efff2",
   "section": "papers",
-  "category": "代数几何",
+  "category": "算子代数",
   "title": "Vanishing of higher bounded Hochschild cohomology",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Vanishing-of-higher-bounded-Hochschild-cohomology-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every bounded Hochschild cocycle of degree at least two on a complex von Neumann algebra, with values in the algebra itself, has a bounded primitive. Together with the established degree-one inner-derivation theorem, this resolves the Kadison–Ringrose cohomology conjecture positively.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Vanishing of higher bounded Hochschild cohomology",
+  "titleZh": "高阶有界Hochschild上同调的消没",
+  "details": {
+    "overview": "稿件研究复von Neumann代数上取值于自身的有界Hochschild上同调。作者声称证明了次数至少为2的每个有界Hochschild余循环都有有界原语，并结合已有的次数1内导子定理，正面解决了Kadison–Ringrose上同调猜想。该结果若成立，将统一处理高阶上同调的消没问题，对算子代数上同调理论有重要意义。摘要未给出证明细节或独立验证信息。",
+    "keyPoints": [
+      "证明复von Neumann代数上次数≥2的有界Hochschild余循环均有有界原语。",
+      "结合次数1内导子定理，声称正面解决Kadison–Ringrose上同调猜想。",
+      "研究对象为取值于代数自身的有界Hochschild上同调。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

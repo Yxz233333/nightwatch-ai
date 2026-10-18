@@ -10,5 +10,16 @@
   "abstractEnglish": "For every integer d ≥ 3 and inverse temperature β ≥ 0, the free zero-field ferromagnetic Ising measure on the infinite d-regular tree is a factor of IID exactly when $`\\tanh\\beta\\le(d-1)^{-1/2}`$. We prove the positive implication, including equality, resolving the conjecture of Nam, Sly and Zhang; the strict converse is known. The spin factor can be chosen to commute with every tree automorphism on every label input.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The sharp factor-of-IID threshold for the free Ising model on regular trees",
+  "titleZh": "正则树上自由Ising模型的IID因子精确阈值",
+  "details": {
+    "overview": "稿件研究无限d正则树上零场铁磁Ising测度能否表示为独立同分布随机变量的因子。作者声称对每个整数d≥3和逆温度β≥0，该性质成立当且仅当tanhβ≤(d-1)^{-1/2}；证明包含等号的正面方向，解决Nam、Sly与Zhang的猜想，严格反向已知。作者还称自旋因子可与每个标签输入上的树自同构交换。属AI产生手稿，未经独立审查。",
+    "keyPoints": [
+      "阈值精确为tanhβ≤(d-1)^{-1/2}",
+      "证明含等号的正面方向",
+      "自旋因子可与树自同构交换"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

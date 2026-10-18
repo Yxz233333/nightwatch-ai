@@ -10,5 +10,16 @@
   "abstractEnglish": "Every sequence of generalized log canonical flips on a normal irreducible globally Weil ℚ-factorial compact Kähler fourfold terminates, provided the flips are projective small diagrams with the stated opposite ample signs. The boundary is rational, and the nef b-divisor is fixed and represented by an analytically nef ℚ-Cartier divisor on a projective modification. No scaling rule or pseudo-effectivity assumption is required. The theorem concerns existing flip sequences; it does not assert the existence of all contractions or flips.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Termination of generalized log canonical flips on compact Kähler fourfolds",
+  "titleZh": "紧凯勒四维流形上广义对数典范翻转的终止性",
+  "details": {
+    "overview": "稿件讨论正规不可约、整体Weil ℚ-分解的紧凯勒四维流形上的广义对数典范翻转序列。作者声称，在翻转为具有所述相反丰沛符号的射影小图表、边界为有理且nef b-除子固定并由射影修正上的解析nef ℚ-Cartier除子表示的条件下，任意这样的翻转序列都会终止，且不需要缩放规则或伪有效性假设。摘要强调定理只涉及已存在的翻转序列，不断言所有收缩或翻转的存在性。该手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象是紧凯勒四维流形上的广义对数典范翻转序列。",
+      "作者声称在给定射影小图表与符号条件下翻转序列终止。",
+      "摘要明确不主张所有收缩或翻转的存在性。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

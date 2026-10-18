@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every complex C∗-algebra in which each positive element is properly infinite is strongly purely infinite. This answers the ordinary-to-strong part of Kirchberg–Rørdam's comparison question. For exact algebras, we also prove that proper infiniteness of one fixed finite amplification of every positive element implies proper infiniteness of each positive element. Consequently, every separable nuclear algebra with this fixed-amplification property absorbs $`\\mathcal O_\\infty`$, without assumptions of unitality or simplicity.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Weak pure infiniteness and O-infinity absorption",
+  "titleZh": "弱纯无限性与O_∞吸收",
+  "details": {
+    "overview": "该稿件研究C*-代数中正元素的真无限性与强纯无限性之间的关系。作者声称证明了每个正元素都真无限的复C*-代数是强纯无限的，回答了Kirchberg–Rørdam比较问题的普通到强部分。对于精确代数，作者还声称每个正元素的某个固定有限放大具有真无限性蕴含每个正元素真无限。因此，具有该固定放大性质的可分核代数吸收O_∞，无需单位性或单性假设。",
+    "keyPoints": [
+      "作者声称每个正元素都真无限的复C*-代数是强纯无限的，回答Kirchberg–Rørdam比较问题的一部分。",
+      "对精确代数，固定有限放大的真无限性蕴含每个正元素的真无限性。",
+      "具有该固定放大性质的可分核代数吸收O_∞，无需单位性或单性假设。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "da1ba81e45257062",
   "section": "papers",
-  "category": "数学论文",
+  "category": "调和分析",
   "title": "The maximal triangular Hilbert transform at the symmetric point",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-maximal-triangular-Hilbert-transform-at-the-symmetric-point-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For arbitrary complex inputs in $`L^3(\\mathbb R^2)`$, we prove the pointwise maximal $`L^3\\times L^3\\to L^{3/2}`$ estimate for the triangular Hilbert transform, with the supremum over both hard truncation endpoints. The estimate yields joint almost-everywhere and L3/2 convergence as the lower endpoint tends to zero and the upper endpoint tends to infinity. This also proves the conjectured scalar estimate at the symmetric point.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The maximal triangular Hilbert transform at the symmetric point",
+  "titleZh": "对称点处的极大三角希尔伯特变换",
+  "details": {
+    "overview": "稿件研究三角希尔伯特变换在对称点处的极大估计。作者声称对 L^3(ℝ^2) 中任意复值输入，证明了逐点极大 L^3×L^3→L^{3/2} 估计，其中上确界取遍两个硬截断端点。该估计可推出当下端趋于零、上端趋于无穷时的联合几乎处处收敛和 L^{3/2} 收敛，并证明对称点处的标量猜想。研究意义在于推进该变换的极大算子理论。",
+    "keyPoints": [
+      "对 L^3(ℝ^2) 复值输入建立逐点极大 L^3×L^3→L^{3/2} 估计。",
+      "上确界同时取遍硬截断的下端和上端两个端点。",
+      "由此得到联合几乎处处收敛与 L^{3/2} 收敛，并证明对称点标量猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

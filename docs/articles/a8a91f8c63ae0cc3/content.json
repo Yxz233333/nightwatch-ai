@@ -1,7 +1,7 @@
 {
   "id": "a8a91f8c63ae0cc3",
   "section": "papers",
-  "category": "数学论文",
+  "category": "量子信息与计算复杂性",
   "title": "Polynomial PEPS approximation of gapped square-grid ground states",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Polynomial-PEPS-approximation-of-gapped-square-grid-ground-states-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the unique ground state of a uniformly gapped nearest-neighbor Hamiltonian on an $`L\\times L`$ square lattice admits a projected entangled-pair state approximation with bond dimension polynomial in L and global vector error at most L−1 after normalization. Only the gap of the full Hamiltonian is assumed. The result is an existence theorem, with constants uniform over Hamiltonians of fixed local dimension, interaction strength, and gap.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Polynomial PEPS approximation of gapped square-grid ground states",
+  "titleZh": "带隙方格基态的Polynomial PEPS近似",
+  "details": {
+    "overview": "该稿件研究方格晶格上带一致能隙的近邻哈密顿量基态的投影纠缠对态（PEPS）近似。作者声称唯一基态可用键维数关于L多项式的PEPS近似，归一化后全局向量误差至多L^{-1}；仅假设完整哈密顿量有能隙，且常数在固定局域维数、相互作用强度与能隙的哈密顿量类上一致。摘要强调这是存在性定理。若成立，将为带隙量子多体态的PEPS表示提供理论保证。",
+    "keyPoints": [
+      "带一致能隙的近邻方格哈密顿量唯一基态有多项式键维PEPS近似。",
+      "归一化后全局向量误差至多L^{-1}，仅假设完整哈密顿量有能隙。",
+      "结果为存在性定理，常数在固定参数类上一致。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

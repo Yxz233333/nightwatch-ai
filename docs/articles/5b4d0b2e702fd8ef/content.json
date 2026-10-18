@@ -1,7 +1,7 @@
 {
   "id": "5b4d0b2e702fd8ef",
   "section": "papers",
-  "category": "组合数学与图论",
+  "category": "数学物理",
   "title": "Boundary graph deformations for the spacetime Penrose inequality",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Boundary-graph-deformations-for-the-spacetime-Penrose-inequality-September-27-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct graph and conformal deformations of trapped initial-data exteriors in three and four spatial dimensions. The resulting metrics have nonnegative scalar curvature, strictly negative inner mean curvature, a lower bound protecting every enclosing cut, and an arbitrarily small upper error in ADM energy. We also give a direct four-dimensional maximal vacuum construction that retains a noncompact decaying second fundamental form. These constructions give boundary routes to the corresponding numerical Penrose inequalities.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Boundary graph deformations for the spacetime Penrose inequality",
+  "titleZh": "时空Penrose不等式的边界图变形",
+  "details": {
+    "overview": "稿件构造了三维和四维空间中 trapped 初始数据外部的图变形与共形变形。作者声称所得度量具有非负标量曲率、严格负的内平均曲率、保护每个包围切面的下界，以及ADM能量的任意小上误差。还给出一个直接的四维最大真空构造，保持非紧衰减的第二基本形式。这些构造为相应的数值Penrose不等式提供边界途径，但摘要未涉及数值验证细节。",
+    "keyPoints": [
+      "在三维和四维构造 trapped 初始数据外部的图与共形变形。",
+      "所得度量满足非负标量曲率、负内平均曲率及ADM能量小误差。",
+      "给出四维最大真空构造，保持非紧衰减的第二基本形式。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

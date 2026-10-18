@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the bounded-data Fourier restriction conjecture for the sphere in three dimensions: the Fourier extension operator maps $`L^\\infty(S^2)`$ boundedly into $`L^p(\\mathbb R^3)`$ for every p > 3. This is the full conjectured open range, and the threshold p = 3 is sharp.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Elliptic capacity propagation and Fourier restriction to the sphere",
+  "titleZh": "椭圆容量传播与球面Fourier限制",
+  "details": {
+    "overview": "稿件研究三维球面的Fourier限制猜想。作者声称证明了有界数据情形：Fourier延拓算子将L^∞(S²)有界地映入L^p(ℝ³)，对所有p>3成立；这是猜想中完整的开放范围，且阈值p=3是尖锐的。摘要未提供证明方法、技术细节或独立审查信息。",
+    "keyPoints": [
+      "证明三维球面有界数据Fourier限制猜想。",
+      "Fourier延拓算子将L^∞(S²)有界映入L^p(ℝ³)，对所有p>3。",
+      "阈值p=3尖锐，覆盖猜想中完整开放范围。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

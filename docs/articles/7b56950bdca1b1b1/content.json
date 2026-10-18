@@ -1,7 +1,7 @@
 {
   "id": "7b56950bdca1b1b1",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数几何",
   "title": "An explicit failure of complex affine-space cancellation",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct an explicit integral complex affine fourfold X with $`X\\times\\mathbb A^1\\cong\\mathbb A^5`$ but $`X\\not\\cong\\mathbb A^4`$. This gives a negative answer to Zariski's affine-space cancellation problem over ℂ in dimension four. The same construction disproves the Stable Coordinate Conjecture in ambient dimension five and yields smooth 𝔸3-fibrations over 𝔸1 and 𝔸2 that are not Zariski-locally trivial. These fibrations disprove the Dolgachev–Weisfeiler affine-fibration conjecture over these bases.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An explicit failure of complex affine-space cancellation",
+  "titleZh": "复仿射空间消去性的一个显式失败",
+  "details": {
+    "overview": "该稿件构造了一个显式的整复仿射四维簇X，满足X×A^1同构于A^5但X不同构于A^4，声称由此否定Zariski仿射空间消去问题在ℂ上维数四的情形。摘要还表示同一构造否证五维环境下的稳定坐标猜想，并给出在A^1与A^2上非Zariski局部平凡的平滑A^3纤维化，从而否定这些基上的Dolgachev–Weisfeiler仿射纤维化猜想。手稿为AI产生，未经独立审查。",
+    "keyPoints": [
+      "构造X×A^1≅A^5而X≇A^4的复仿射四维簇",
+      "声称否定ℂ上维数四的Zariski消去问题",
+      "同一构造否证稳定坐标猜想与Dolgachev–Weisfeiler猜想"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

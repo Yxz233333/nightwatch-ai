@@ -1,7 +1,7 @@
 {
   "id": "a44e395ab4283e5a",
   "section": "papers",
-  "category": "代数几何",
+  "category": "代数学",
   "title": "An algebra of infinite little finitistic dimension",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a finite-dimensional complex algebra whose finite-dimensional modules have unbounded finite projective dimensions. This disproves the little finitistic-dimension conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An algebra of infinite little finitistic dimension",
+  "titleZh": "无限小有限投射维数的代数",
+  "details": {
+    "overview": "稿件构造了一个有限维复代数，其有限维模具有无界的有限投射维数。摘要表示，这一构造否证了小有限投射维数猜想。该猜想关注有限维代数上有限维模的有限投射维数是否有统一上界；若作者声称成立，则说明该上界并非普遍存在。材料仅给出摘要级结论，未提供构造细节或验证过程。",
+    "keyPoints": [
+      "构造有限维复代数，其有限维模的有限投射维数无界。",
+      "摘要称该结果否证小有限投射维数猜想。",
+      "仅见摘要结论，未给出构造与证明细节。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

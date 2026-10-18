@@ -10,5 +10,16 @@
   "abstractEnglish": "For every fixed integer r ≥ 3, we prove that every relabeling-invariant Boolean property of simple r-uniform hypergraphs on n vertices satisfies $`\\mathop{\\mathrm{Var}}\\nolimits _p(f)\\le C_r I_p(f)/(\\log n)^{r/(r-1)}`$. The constant depends only on r, and the bound holds uniformly for all $`0\\lt p\\lt 1`$ without a monotonicity assumption. For increasing properties, it gives the corresponding threshold-width bound with exponent $`r/(r-1)`$, proving the hypergraph threshold-width conjecture of Friedgut and Kalai.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A uniform influence bound for hypergraph properties",
+  "titleZh": "超图性质的一致影响界",
+  "details": {
+    "overview": "稿件研究简单r-一致超图上重标号不变的布尔性质，提出其p-影响方差的上界，形式为常数乘以影响量除以(logn)的r/(r-1)次方，常数只依赖r，且对所有0<p<1一致成立、无需单调性假设。摘要表示，对递增性质可得到相应阈值宽度界，并据此声称证明了Friedgut与Kalai的超图阈值宽度猜想。该结果若成立，将把图上的影响与阈值宽度结论推广到超图情形。",
+    "keyPoints": [
+      "对固定r≥3，给出重标号不变布尔性质的一致方差上界",
+      "上界对所有0<p<1成立，不要求性质单调",
+      "对递增性质导出阈值宽度指数r/(r-1)，声称解决超图阈值宽度猜想"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

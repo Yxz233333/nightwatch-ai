@@ -1,7 +1,7 @@
 {
   "id": "b74121001fa00c2e",
   "section": "papers",
-  "category": "数学论文",
+  "category": "调和分析",
   "title": "Diagonal Fourier extension for positively curved surfaces in three dimensions",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Diagonal-Fourier-extension-for-positively-curved-surfaces-in-three-dimensions-September-24-2026/Diagonal-Fourier-extension-for-positively-curved-surfaces-in-three-dimensions-September-24-2026.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the diagonal Fourier extension conjecture for compact smooth positively curved surfaces $`\\Sigma\\subset\\mathbb R^3`$, including surfaces with smooth boundary. For every $`3\\lt p\\lt \\infty`$, the extension operator maps $`L^p(\\Sigma)`$ boundedly into $`L^p(\\mathbb R^3)`$. The compact paraboloid case also yields free Schrödinger local smoothing in two spatial dimensions for every $`3\\lt p\\lt \\infty`$ and Sobolev order $`s\\gt 2-6/p`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Diagonal Fourier extension for positively curved surfaces in three dimensions",
+  "titleZh": "三维正曲率曲面的对角Fourier延拓",
+  "details": {
+    "overview": "稿件研究三维空间中紧光滑正曲率曲面（含光滑边界）的对角Fourier延拓猜想。作者声称对每个3<p<∞，延拓算子将L^p(Σ)有界地映射到L^p(R^3)。对于紧抛物面情形，还得到二维空间自由Schrödinger局部光滑性，p>3且Sobolev阶s>2-6/p。该结果对调和分析与色散方程的研究具有意义。摘要未说明证明技术。",
+    "keyPoints": [
+      "对紧光滑正曲率曲面证明对角Fourier延拓猜想。",
+      "延拓算子对3<p<∞有界从L^p(Σ)到L^p(R^3)。",
+      "抛物面情形推出二维Schrödinger局部光滑性。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

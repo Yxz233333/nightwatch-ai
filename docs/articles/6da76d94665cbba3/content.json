@@ -10,5 +10,16 @@
   "abstractEnglish": "Let Hn be the index of the first unsatisfiable prefix in random k-SAT on n variables, with independent uniformly signed clauses using k distinct variables and sampled with replacement. For every fixed k ≥ 4, we prove $`\\mathop{\\mathrm{Var}}\\nolimits (H_n)=\\Theta_k(n)`$. For k = 3, the variance is bounded below by a positive multiple of n and above by a constant multiple of $`n\\log n`$; the companion paper on random 3-SAT sharpens this to $`\\Theta(n)`$. The same upper bounds proved here hold after clipping at any fixed positive multiple of n.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Variance of the Random k-SAT Hitting Time",
+  "titleZh": "随机k-SAT命中时间的方差",
+  "details": {
+    "overview": "稿件研究随机k-SAT中首个不可满足前缀索引Hn的方差。模型为n个变量、独立均匀符号、使用k个不同变量且放回抽样的子句。作者声称，对每个固定k≥4，Var(Hn)=Θ_k(n)；对k=3，方差下界为正的n倍数，上界为n log n的常数倍，伴随的随机3-SAT论文将其改进为Θ(n)。文中证明的上界在截断于任意固定正n倍数后仍成立。",
+    "keyPoints": [
+      "对固定k≥4，证明Var(Hn)=Θ_k(n)。",
+      "对k=3，给出下界Ω(n)与上界O(n log n)。",
+      "上界在截断于任意固定正n倍数后仍成立。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

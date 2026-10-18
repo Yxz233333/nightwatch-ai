@@ -10,5 +10,16 @@
   "abstractEnglish": "We classify all equality cases in the sharp one-dimensional Lieb–Thirring inequality for every finite matrix size and $`1/2\\lt \\gamma\\lt 3/2`$. For measurable Hermitian positive semidefinite potentials W with $`\\int_\\mathbb R\\mathop{\\mathrm{tr}}\\nolimits (W^{\\gamma+1/2})\\lt \\infty`$, equality holds precisely for direct sums, in one constant unitary basis, of scalar one-bound-state solitons and zero channels. The nonzero solitons may have independent scales and centers.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Equality cases in the sharp one-dimensional matrix Lieb–Thirring inequality",
+  "titleZh": "一维矩阵Lieb–Thirring不等式取等情形",
+  "details": {
+    "overview": "该稿件研究一维矩阵Lieb–Thirring不等式在尖锐常数下的等号成立条件。作者声称，对每个有限矩阵维数和 1/2<γ<3/2，在势函数满足 tr(W^{γ+1/2}) 可积时，等号恰由单束缚态标量孤子与零通道在某一常数酉基下的直和实现，非零孤子可有独立尺度与中心。摘要表示完成了所有等号情形的分类。该分类若成立，将加深对一维矩阵不等式结构极值元的理解；但稿件为AI产生的研究手稿，未经独立审查或同行评议。",
+    "keyPoints": [
+      "覆盖每个有限矩阵维数与 1/2<γ<3/2 的尖锐一维矩阵Lieb–Thirring不等式。",
+      "作者声称等号情形恰为单束缚态标量孤子与零通道的直和。",
+      "非零孤子允许各自独立的尺度与中心参数。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

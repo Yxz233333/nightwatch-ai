@@ -10,5 +10,16 @@
   "abstractEnglish": "We realize finite positive diagonal affine maps of determinant one by effective smooth incompressible flows on neighborhoods of entire closed rational solid boxes. The source and target families are each disjoint, but may overlap each other. The construction uses localized curls, evacuation to storage and obstacle detours. A balanced three-stack recorder then assigns every machine and finite input a smooth Navier–Stokes force with one compact spatial support, periodic after a loading interval, at any fixed positive computable viscosity. The fluid starts at rest, and one fixed particle enters one fixed open cube exactly when the machine halts. Further constructions give fixed torus charts, periodicity from time zero, alternative history guards and bounded or slab observers. Onto slow clocks yield separate decaying forces. Each construction includes an all-time observation proof, effective derivative bounds and a stated pressure comparison class.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Incompressible Box Transport and Finite Computation",
+  "titleZh": "不可压缩盒子输运与有限计算",
+  "details": {
+    "overview": "稿件研究如何用不可压缩流实现有限计算。作者声称可用整闭有理实心盒子邻域上的有效光滑不可压缩流实现行列式为1的有限正对角仿射映射，并借助局部旋度、疏散到储存区和绕障构造，为每台机器和有限输入指定具有单一紧空间支撑的Navier–Stokes力；流体从静止开始，当且仅当机器停机时某固定粒子进入某固定开立方体。摘要还提到环面图表、从零时刻起周期性和有界观察者等变体，并称每种构造都含全时观察证明与有效导数界。该手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "用局部旋度与绕障构造实现行列式为1的有限正对角仿射映射。",
+      "为机器与输入构造单一紧支撑的Navier–Stokes力，以粒子进入立方体编码停机。",
+      "摘要称各构造含全时观察证明、有效导数界与压力比较类。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

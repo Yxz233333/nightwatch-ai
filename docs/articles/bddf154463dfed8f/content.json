@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove arithmetic exhaustion for bifinite correspondences between arbitrarily scalar-twisted group factors of ICC groups commensurable with property-$`(T)`$ lattices over characteristic-zero local fields and twisted group factors of arbitrary countable ICC groups. Every such correspondence is a closed summand of a finite direct sum of models obtained from actual finite-index subgroup isomorphisms and finite-dimensional projective representations of the matched cocycle ratio. The proof includes reducible products, mixed real and finite places, and quaternionic and Cayley rank-one factors.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Arithmeticity of twisted finite correspondences for lattices over local fields",
+  "titleZh": "局部域格的双有限对应算术性",
+  "details": {
+    "overview": "稿件研究ICC群的双有限对应与标量扭曲群因子。作者声称证明算术穷尽性：对与特征零局部域上性质(T)格可公度的ICC群，其标量扭曲群因子与任意可数ICC群扭曲群因子之间的双有限对应，都是有限个由实际有限指数子群同构及匹配上闭链比的有限维射影表示所得模型的闭直和项。证明涵盖可约乘积、混合实与有限位点及四元数与Cayley秩一因子。手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为ICC群双有限对应与标量扭曲群因子",
+      "作者声称证明算术穷尽性，对应为有限个具体模型的闭直和项",
+      "证明涵盖可约乘积、混合位点及四元数与Cayley秩一因子"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "31a17bbcfc8d57ea",
   "section": "papers",
-  "category": "数学论文",
+  "category": "组合数学",
   "title": "Integral and fractional expectation thresholds are equivalent",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Integral-and-fractional-expectation-thresholds-are-equivalent-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove Talagrand's conjecture that integral and fractional expectation thresholds are within a universal constant factor, with the same covering budget.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Integral and fractional expectation thresholds are equivalent",
+  "titleZh": "整期望阈值与分数期望阈值等价",
+  "details": {
+    "overview": "稿件证明Talagrand的猜想：整期望阈值与分数期望阈值之间相差一个通用常数因子，且具有相同的覆盖预算。摘要表示这解决了该猜想。该结果若成立将统一组合学中两类期望阈值概念，对随机结构阈值分析具有基础意义。",
+    "keyPoints": [
+      "研究对象是整期望阈值与分数期望阈值的关系。",
+      "作者声称两者在相同覆盖预算下相差一个通用常数因子。",
+      "摘要表示这证明了Talagrand的猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "53fee2ed9501fbef",
   "section": "papers",
-  "category": "组合数学与图论",
+  "category": "组合数学与离散几何",
   "title": "The weak pinned planar distance theorem",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-weak-pinned-planar-distance-theorem-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the weak pinned Erdős distinct-distance conjecture. For every fixed ε > 0, all but $`o(n)`$ points of any n-point planar set determine at least $`n^{1-\\varepsilon}`$ distinct nonzero distances.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The weak pinned planar distance theorem",
+  "titleZh": "弱钉扎平面距离定理",
+  "details": {
+    "overview": "稿件研究平面点集的距离计数问题，证明弱钉扎Erdős不同距离猜想。作者声称对每个固定ε>0，任意n点平面集中除o(n)个点外，其余点至少确定n^{1-ε}个不同的非零距离。该结果属于离散几何与组合几何中Erdős距离问题的弱化形式，若成立可推进对平面点集距离下界的理解；但作为AI产生的研究手稿，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "研究平面n点集的弱钉扎不同距离问题",
+      "作者声称除o(n)个点外，其余点至少确定n^{1-ε}个非零距离",
+      "结论对每个固定ε>0成立"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "a5e26a24cca6b65b",
   "section": "papers",
-  "category": "数学论文",
+  "category": "遍历论与动力系统",
   "title": "Rokhlin's multiple-mixing problem for one transformation",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Rokhlins-multiple-mixing-problem-for-one-transformation-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "Every invertible mixing probability-preserving transformation is mixing of every finite order. Thus Rokhlin's multiple-mixing problem for a single transformation has an affirmative answer.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Rokhlin's multiple-mixing problem for one transformation",
+  "titleZh": "单个变换的Rokhlin多重混合问题",
+  "details": {
+    "overview": "该稿件声称每个可逆混合保概率变换都是任意有限阶混合的，从而对单个变换的Rokhlin多重混合问题给出肯定回答。摘要仅给出这一结论，未说明证明方法或与多重混合层级的关系。若成立，将解决遍历论中关于混合阶数的经典问题。需注意这是AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "稿件声称每个可逆混合保概率变换都是任意有限阶混合的。",
+      "由此对单个变换的Rokhlin多重混合问题给出肯定回答。",
+      "摘要未提供证明思路或独立验证信息。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

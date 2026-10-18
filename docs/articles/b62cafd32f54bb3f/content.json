@@ -1,7 +1,7 @@
 {
   "id": "b62cafd32f54bb3f",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论与统计物理",
   "title": "The critical correlation exponent of the planar XY model",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-critical-correlation-exponent-of-the-planar-XY-model-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For the ordinary nearest-neighbor XY model on the square lattice, we prove the Berezinskii–Kosterlitz–Thouless prediction that the critical spin-correlation exponent is 1/4. More precisely, at the mass-defined critical inverse temperature, the infinite-volume correlation is $`n^{-1/4+o(1)}`$. The infinite-volume limit through free square boxes is taken before the separation limit.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The critical correlation exponent of the planar XY model",
+  "titleZh": "平面XY模型的临界关联指数",
+  "details": {
+    "overview": "稿件研究方格上最近邻XY模型。作者声称证明Berezinskii–Kosterlitz–Thouless预测的临界自旋关联指数为1/4，即在质量定义的临界逆温度下，无穷体积关联满足n^{-1/4+o(1)}，其中无穷体积极限通过自由方盒先于分离极限取。该结果对统计物理中XY模型的临界行为提供了严格数学依据。摘要未说明证明方法。",
+    "keyPoints": [
+      "证明临界自旋关联指数为1/4。",
+      "无穷体积关联满足n^{-1/4+o(1)}。",
+      "极限顺序为自由方盒先于分离极限。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

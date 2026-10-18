@@ -10,5 +10,16 @@
   "abstractEnglish": "We resolve the three-dimensional Ball–Evans approximation problem for $`1\\le p\\le2`$. Every $`W^{1,p}`$ homeomorphism between arbitrary bounded domains in ℝ3 is a strong $`W^{1,p}`$ limit of smooth diffeomorphisms onto the same target.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Strong diffeomorphic approximation in three dimensions for 1≤p≤2",
+  "titleZh": "三维中1≤p≤2的强微分同胚逼近",
+  "details": {
+    "overview": "稿件研究三维中Ball–Evans逼近问题。摘要表示，作者对1≤p≤2解决了该问题：任意ℝ³中有界区域之间的W^{1,p}同胚，都是到同一目标的光滑微分同胚的强W^{1,p}极限。该结果若成立，将把强微分同胚逼近的适用范围扩展到临界及次临界指数区间。手稿为AI产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "对1≤p≤2解决三维Ball–Evans逼近问题。",
+      "任意有界区域间W^{1,p}同胚是光滑微分同胚的强W^{1,p}极限。",
+      "逼近中的光滑微分同胚映到同一目标区域。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

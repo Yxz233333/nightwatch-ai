@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a closed connected orientable smooth three-manifold that admits a smooth Riemannian metric without conjugate points but admits no smooth Riemannian metric of nonpositive sectional curvature.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Three-Manifold Without Conjugate Points and Without a Nonpositively Curved Metric",
+  "titleZh": "一个无共轭点且无非正曲率度量的三维流形",
+  "details": {
+    "overview": "稿件构造了一个闭连通可定向光滑三维流形，作者声称该流形允许一个无共轭点的光滑黎曼度量，但不允许任何非正截面曲率的光滑黎曼度量。该结果在几何与拓扑领域具有意义，因为它区分了无共轭点条件与非正曲率条件在三维流形上的关系。摘要未提供构造细节或证明思路。",
+    "keyPoints": [
+      "构造闭连通可定向光滑三维流形。",
+      "该流形存在无共轭点的黎曼度量。",
+      "该流形不存在非正截面曲率的黎曼度量。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

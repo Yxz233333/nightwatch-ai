@@ -10,5 +10,16 @@
   "abstractEnglish": "For every fixed integer k ≥ 3, random k-SAT with independent uniformly signed clauses on distinct variables, sampled with replacement, has a finite positive limiting satisfiability threshold. We credit Gaia Carenini [[5]](https://eccc.weizmann.ac.il/report/2026/229/) with priority for resolving the satisfiability conjecture. This paper gives an alternative proof, using concentration of a capped last satisfiable index and a comparison between different system sizes.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Limiting Satisfiability Threshold for Every Fixed Clause Size",
+  "titleZh": "每个固定子句大小的极限可满足阈值",
+  "details": {
+    "overview": "稿件研究随机 k-SAT 的可满足阈值，其中子句独立均匀符号、变量不同、有放回抽样。作者声称，对每个固定整数 k ≥ 3，该模型具有有限正极限可满足阈值。摘要表示，作者将可满足性猜想的解决优先权归于 Gaia Carenini，本文给出替代证明，使用截断的最后可满足下标的集中性以及不同系统规模之间的比较。",
+    "keyPoints": [
+      "对每个固定 k ≥ 3，随机 k-SAT 具有有限正极限可满足阈值。",
+      "作者将可满足性猜想的优先权归于 Gaia Carenini。",
+      "替代证明使用截断最后可满足下标的集中性和系统规模比较。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

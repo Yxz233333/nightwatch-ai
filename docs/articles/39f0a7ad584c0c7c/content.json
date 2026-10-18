@@ -10,5 +10,16 @@
   "abstractEnglish": "We give a uniform randomized classical algorithm for Subset Sum with bounded error and worst-case running time $`O(2^{0.49n})`$ on polynomial-bit inputs in a word-RAM model, where n is the number of input integers. The time bound holds on every random execution.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Subset Sum in Time $`O(2^{0.49n})`$ ",
+  "titleZh": "子集和问题的时间O(2^{0.49n})算法",
+  "details": {
+    "overview": "稿件研究子集和问题的精确算法。摘要称给出一个统一随机经典算法，在多项式比特输入的字RAM模型下具有有界错误，最坏情况运行时间为O(2^{0.49n})，其中n为输入整数个数；该时间界在每次随机执行中都成立。若成立，这将改进子集和问题的指数时间上界。这是AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "给出子集和问题的统一随机经典算法，具单边有界错误。",
+      "最坏情况运行时间为O(2^{0.49n})，n为输入整数个数。",
+      "时间界在每次随机执行中均成立。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

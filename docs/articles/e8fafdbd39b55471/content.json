@@ -1,7 +1,7 @@
 {
   "id": "e8fafdbd39b55471",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数论与算术几何",
   "title": "Positivity of Serre's Intersection Multiplicity",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Positivity-of-Serres-Intersection-Multiplicity-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove Serre's positivity conjecture, including ramified mixed characteristic. If two nonzero finitely generated modules over a regular local ring have tensor product of finite length and complementary dimensions, then their intersection multiplicity is strictly positive.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Positivity of Serre's Intersection Multiplicity",
+  "titleZh": "Serre相交重数的正性",
+  "details": {
+    "overview": "稿件研究正则局部环上两个非零有限生成模的相交重数正性问题。作者声称证明了Serre正性猜想，包括分歧混合特征情形。摘要给出的条件是：若两模的张量积具有有限长度且维数互补，则其相交重数严格为正。该猜想是交换代数与代数几何交叉中的重要问题；若证明成立，将把正性结论推广到此前未覆盖的分歧混合特征情形。需注意这是AI产生的手稿，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "作者声称证明Serre正性猜想，覆盖分歧混合特征情形。",
+      "条件为两模张量积有限长且维数互补，结论为相交重数严格正。",
+      "问题位于交换代数与代数几何交叉处。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

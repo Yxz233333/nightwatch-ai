@@ -1,7 +1,7 @@
 {
   "id": "66a35d9ea1396901",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数学物理",
   "title": "Hard-sphere fluctuations on the regular Boltzmann lifespan",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Hard-sphere-fluctuations-on-the-regular-Boltzmann-lifespan-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove a finite-dimensional central limit theorem away from equilibrium for a deterministic grand-canonical hard-sphere gas in three dimensions. The initial probability density is smooth, with spatially summable Gaussian velocity bounds on the density and its spatial gradient. The limit holds on every finite interval on which the classical Boltzmann solution has uniform Gaussian velocity decay. The empirical measure is centered by its exact microscopic expectation. Its fluctuations converge to the Gaussian solution of the linear fluctuating Boltzmann equation.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Hard-sphere fluctuations on the regular Boltzmann lifespan",
+  "titleZh": "正则Boltzmann寿命下的硬球涨落",
+  "details": {
+    "overview": "稿件研究三维确定性巨正则硬球气体在非平衡态下的涨落。作者声称证明有限维中心极限定理：初始概率密度光滑，密度及其空间梯度满足空间可和的高斯速度界；在经典Boltzmann解具有一致高斯速度衰减的每个有限区间上，经验测度以其精确微观期望为中心，其涨落收敛到线性涨落Boltzmann方程的高斯解。研究意义在于连接硬球动力学与涨落Boltzmann理论，但结果尚未经独立审查。",
+    "keyPoints": [
+      "研究三维确定性巨正则硬球气体的非平衡涨落。",
+      "在经典Boltzmann解一致高斯速度衰减的有限区间上证明有限维中心极限定理。",
+      "经验测度以精确微观期望为中心，涨落收敛到线性涨落Boltzmann方程的高斯解。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

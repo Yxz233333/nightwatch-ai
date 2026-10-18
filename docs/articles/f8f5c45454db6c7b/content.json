@@ -10,5 +10,16 @@
   "abstractEnglish": "Let An be a symmetric $`n\\times n`$ matrix whose entries on and above the diagonal are independent uniform signs. We prove\n\n$`\\displaystyle \\Pr(\\det A_n=0)=\\left(\\frac12+o(1)\\right)^n.`$",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The sharp exponential rate of singularity for symmetric Bernoulli matrices",
+  "titleZh": "对称Bernoulli矩阵奇异性的精确指数速率",
+  "details": {
+    "overview": "稿件研究对称Bernoulli随机矩阵的奇异性概率。设A_n为n×n对称矩阵，对角线上及以上的元素为独立均匀符号。摘要称证明Pr(det A_n=0)=(1/2+o(1))^n，即奇异性概率以底数1/2的精确指数速率衰减。这是AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为对角及以上元素独立均匀符号的对称Bernoulli矩阵。",
+      "作者声称奇异性概率为(1/2+o(1))^n。",
+      "该式给出奇异性的精确指数速率。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the simple-undirected form of the Kannan–Tetali–Vempala conjecture: the switch chain on simple undirected graphs mixes in polynomial time for every graphical degree sequence. For a lazy chain that proposes switches uniformly on four vertices, the total-variation mixing time at distance 1/4 is at most $`2n^8`$. We also give an exactly uniform sampler for every graphical labeled degree vector. It uses unbiased random bits, terminates almost surely, and has expected polynomial bit running time.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Polynomial mixing of the switch chain for every graphical degree sequence",
+  "titleZh": "任意图度序列下交换链的多项式混合",
+  "details": {
+    "overview": "该稿件研究 Kannan–Tetali–Vempala 猜想中简单无向图的情形。作者声称，对每个图度序列，简单无向图上的交换链都在多项式时间内混合；对在四个顶点上均匀提议交换的惰性链，距离 1/4 的总变差混合时间至多 2n⁸。摘要还称给出对每个图度向量的精确均匀采样器，使用无偏随机比特、几乎必然终止，且期望比特运行时间为多项式。",
+    "keyPoints": [
+      "声称证明交换链对每个图度序列都在多项式时间内混合。",
+      "惰性链在距离 1/4 处的总变差混合时间上界为 2n⁸。",
+      "另给出精确均匀采样器，使用无偏随机比特且期望多项式比特时间。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

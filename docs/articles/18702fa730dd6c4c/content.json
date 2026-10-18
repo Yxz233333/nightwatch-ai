@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove sharp contraction of the information carried by a binary channel under independent symmetric noise on a uniform discrete cube. At fixed initial information, a noisy coordinate retains the most information. The Boolean specialization resolves the Courtade–Kumar conjecture and gives an output-entropy refinement. We also establish a stronger mean-dependent entropy-production bound. The proof combines an explicit three-point optimizer for the local joining problem, two entropy capacities, and a common-output thinning inequality, followed by dimension induction and integration along the noise semigroup.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Sharp binary-information contraction on the discrete cube",
+  "titleZh": "离散立方体上二值信息的尖锐收缩",
+  "details": {
+    "overview": "该稿件研究均匀离散立方体上二值信道在独立对称噪声下的信息收缩。作者声称证明尖锐收缩：在初始信息固定时，含噪坐标保留信息最多；其布尔特例解决Courtade–Kumar猜想并给出输出熵细化，还建立更强的均值依赖熵产生界。摘要称证明结合局部连接问题的三点优化器、两个熵容量、共同输出稀疏不等式及维数归纳与噪声半群积分。",
+    "keyPoints": [
+      "证明均匀离散立方体上二值信道在独立对称噪声下的尖锐信息收缩。",
+      "布尔特例解决Courtade–Kumar猜想并给出输出熵细化。",
+      "另建立更强的均值依赖熵产生上界。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

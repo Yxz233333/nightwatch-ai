@@ -10,5 +10,16 @@
   "abstractEnglish": "An integer polynomial is intersective if it has a root modulo every positive integer. For each degree k ≥ 2, we prove that there is an exponent $`c_k\\gt 0`$ such that every set $`A\\subseteq\\{1,\\ldots,N\\}`$ whose differences avoid all nonzero values $`h(1),h(2),\\ldots`$, where h is an intersective polynomial of degree k with positive leading coefficient, satisfies $`|A|=O_h(N^{1-c_k})`$. The implied constant may depend on h, but the power-saving exponent depends only on its degree.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A power saving for intersective polynomial differences with an exponent depending only on the degree",
+  "titleZh": "交多项式差集的幂节省指数仅依赖次数",
+  "details": {
+    "overview": "该稿件研究整数多项式为交多项式时，差集避开其非零值的集合大小上界。摘要表示，对每个次数k≥2，存在指数c_k>0，使得若A⊆{1,…,N}的差避开次数k、首项系数为正的交多项式h的所有非零值h(1),h(2),…，则|A|=O_h(N^{1-c_k})。隐含常数可依赖h，但幂节省指数只依赖其次数。手稿为AI产生，未经独立审查或同行评议，结论属作者声称。",
+    "keyPoints": [
+      "对每个次数k≥2，作者声称存在仅依赖次数的幂节省指数c_k>0。",
+      "差集避开交多项式h的非零值时，集合大小上界为O_h(N^{1-c_k})。",
+      "隐含常数可依赖具体多项式h，但幂节省指数只依赖其次数。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

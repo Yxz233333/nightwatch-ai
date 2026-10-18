@@ -1,7 +1,7 @@
 {
   "id": "3c9d4fef82f56381",
   "section": "papers",
-  "category": "数学论文",
+  "category": "泛函分析",
   "title": "Nontrivial Markov Type Forces Superreflexivity",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Nontrivial-Markov-Type-Forces-Superreflexivity-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every real Banach space with Markov type p > 1 is superreflexive. Together with the known converse, this characterizes superreflexivity by nontrivial Markov type. This answers Naor's question: every real Banach space with nontrivial Markov type admits an equivalent uniformly smooth norm.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Nontrivial Markov Type Forces Superreflexivity",
+  "titleZh": "非平凡Markov型蕴含超自反性",
+  "details": {
+    "overview": "该稿件研究Banach空间的Markov型与超自反性之间的关系。作者声称证明每个具有Markov型p>1的实Banach空间都是超自反的；结合已知逆命题，可用非平凡Markov型刻画超自反性。作者还称这回答了Naor的问题：每个具有非平凡Markov型的实Banach空间都容许等价的一致光滑范数。该结果若成立，将连接度量嵌入性质与Banach空间几何。但手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "作者声称Markov型p>1的实Banach空间均为超自反。",
+      "结合已知逆命题，以非平凡Markov型刻画超自反性。",
+      "作者称由此回答Naor关于等价一致光滑范数的问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "32b76f5fed144b80",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论",
   "title": "A Capacity Criterion for Four-State Potts Reconstruction on Trees",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-Capacity-Criterion-for-Four-State-Potts-Reconstruction-on-Trees-October-5-2026/four-state-capacity.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For the ferromagnetic four-state broadcast model with $`0\\lt \\lambda\\lt 1`$, we prove that reconstruction on a bounded-degree deterministic rooted tree occurs exactly when its L3 capacity with edge resistances $`\\lambda^{-2|e|}`$ is positive. This gives an exact criterion without regularity or growth-rate assumptions on the tree, including at the exponential critical boundary.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Capacity Criterion for Four-State Potts Reconstruction on Trees",
+  "titleZh": "树上四态Potts重构的容量判据",
+  "details": {
+    "overview": "稿件研究有界度确定性有根树上铁磁四态广播模型的重构问题，参数0<λ<1。作者声称重构恰好发生在其L3容量（边电阻取λ^{-2|e|}）为正时，给出不依赖树的正则性或增长率假设的精确判据，并覆盖指数临界边界。该结果将重构相变与容量型几何量直接对应，但摘要未说明证明方法，手稿亦未经独立审查。",
+    "keyPoints": [
+      "对象为有界度有根树上四态铁磁广播模型，0<λ<1。",
+      "重构等价于边电阻λ^{-2|e|}下的L3容量为正。",
+      "判据无需树的规律性或增长率假设，含临界边界。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

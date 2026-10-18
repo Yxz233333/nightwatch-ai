@@ -1,7 +1,7 @@
 {
   "id": "c878e792bc3d0ddc",
   "section": "papers",
-  "category": "数学论文",
+  "category": "泛函分析",
   "title": "The cotype–cotype conjecture under the approximation property",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-cotype-cotype-conjecture-under-the-approximation-property-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the cotype–cotype conjecture under the ordinary approximation property. A nonzero real Banach space with this property is K-convex if and only if both the space and its dual have finite Rademacher cotype, possibly with different exponents.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The cotype–cotype conjecture under the approximation property",
+  "titleZh": "逼近性质下的余型–余型猜想",
+  "details": {
+    "overview": "稿件研究Banach空间的余型–余型猜想。作者声称在通常逼近性质下证明了该猜想：具有该性质的非零实Banach空间是K凸的当且仅当空间本身与其对偶均具有有限Rademacher余型（指数可不同）。该结果若成立，将在逼近性质框架下建立K凸性与余型之间的等价刻画，对Banach空间几何理论有重要意义。摘要未提供证明细节或独立验证。",
+    "keyPoints": [
+      "在通常逼近性质下证明余型–余型猜想。",
+      "非零实Banach空间K凸当且仅当空间与其对偶均有有限Rademacher余型。",
+      "空间与对偶的余型指数可以不同。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

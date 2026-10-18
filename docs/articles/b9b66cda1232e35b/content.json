@@ -10,5 +10,16 @@
   "abstractEnglish": "We disprove Sidorenko's conjecture with a bipartite graph on 35 vertices and 66 edges: its homomorphism density in some finite simple graph is smaller than the conjectured lower bound. The same connected graph also disproves the forcing conjecture: at one fixed density, asymptotically matching the edge and pattern densities does not imply quasirandomness.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A counterexample to Sidorenko's conjecture",
+  "titleZh": "Sidorenko猜想的一个反例",
+  "details": {
+    "overview": "稿件针对Sidorenko猜想给出反例。作者声称构造一个35个顶点、66条边的二部图，其在某个有限简单图中的同态密度小于猜想下界，从而否定该猜想。摘要还称同一连通图否定forcing猜想：在某一固定密度下，边密度与模式密度渐近匹配并不蕴含拟随机性。若成立，将对极值图论与拟随机性理论产生重要影响。手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "构造35顶点66边的二部图，同态密度低于Sidorenko猜想下界",
+      "作者声称该图否定Sidorenko猜想",
+      "同一连通图还否定forcing猜想，挑战密度匹配蕴含拟随机性"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

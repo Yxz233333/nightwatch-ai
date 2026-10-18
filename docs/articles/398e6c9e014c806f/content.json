@@ -1,7 +1,7 @@
 {
   "id": "398e6c9e014c806f",
   "section": "papers",
-  "category": "数学论文",
+  "category": "泛函分析与度量几何",
   "title": "A doubling Hilbert subset with no finite-dimensional bi-Lipschitz embedding",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-doubling-Hilbert-subset-with-no-finite-dimensional-bi-Lipschitz-embedding-September-25-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "Every infinite-dimensional real Banach space contains a compact doubling subset that admits no bi-Lipschitz embedding into any finite-dimensional real normed space. The doubling constant has a universal bound, independent of the ambient Banach space. This answers the Lang–Plaut problem negatively, even for compact subsets of Hilbert space.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A doubling Hilbert subset with no finite-dimensional bi-Lipschitz embedding",
+  "titleZh": "一个无有限维双 Lipschitz 嵌入的加倍 Hilbert 子集",
+  "details": {
+    "overview": "该稿件研究 Banach 空间中的加倍子集与有限维双 Lipschitz 嵌入。作者声称每个无限维实 Banach 空间都含有一个紧加倍子集，不能双 Lipschitz 嵌入任何有限维实赋范空间，且加倍常数有与所在 Banach 空间无关的通用界。摘要表示这否定回答了 Lang–Plaut 问题，即使对 Hilbert 空间的紧子集也成立。",
+    "keyPoints": [
+      "每个无限维实 Banach 空间含紧加倍子集，不能双 Lipschitz 嵌入有限维空间。",
+      "加倍常数有与所在 Banach 空间无关的通用界。",
+      "摘要称这否定回答 Lang–Plaut 问题，对 Hilbert 空间紧子集亦成立。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

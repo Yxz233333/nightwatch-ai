@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the spacetime Penrose Inequality for smooth three-dimensional initial-data exteriors with one spherical asymptotically anti-de Sitter end, satisfying the stated decay and integrability assumptions, the dominant energy condition, and a compact weakly future outer trapped boundary. We assume that the hyperbolic metric four-flux is future timelike; its Lorentz norm is the mass, and the area is the infimum over full enclosing cuts. On the connected outermost, outer area-minimizing horizon subclass, equality characterizes the original data as a spacelike hypersurface in Schwarzschild–anti-de Sitter spacetime with matching metric mass. No maximality, evolution, or auxiliary solvability assumption is used.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The nonmaximal anti-de Sitter Penrose Inequality and original-data rigidity",
+  "titleZh": "非极大反de Sitter Penrose不等式与原始数据刚性",
+  "details": {
+    "overview": "该稿件研究渐近反de Sitter时空中三维初始数据外区域的Penrose不等式。摘要表示，在给定衰减与可积性假设、主能量条件及紧致弱未来外陷边界下，作者证明该不等式；假设双曲度量的四通量为未来类时，其Lorentz范数为质量，面积为所有包围割的infimum。在连通最外、外面积最小化视界子类上，等号刻画原始数据为Schwarzschild–anti-de Sitter时空的类空超曲面且质量匹配。手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "作者声称对满足主能量条件等假设的三维渐近反de Sitter初始数据外区域证明Penrose不等式。",
+      "质量取双曲度量四通量的Lorentz范数，面积为所有包围割的下确界。",
+      "在最外、外面积最小化视界子类上，等号刻画原始数据为Schwarzschild–anti-de Sitter超曲面。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

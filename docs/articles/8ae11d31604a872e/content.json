@@ -10,5 +10,16 @@
   "abstractEnglish": "Every nonexpansive selfmap of a nonempty closed bounded convex subset of a real reflexive Banach space has a fixed point. This resolves the reflexive-space fixed point problem for the given norm.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Fixed Points of Nonexpansive Maps in Reflexive Banach Spaces",
+  "titleZh": "自反Banach空间中非扩张映射的不动点",
+  "details": {
+    "overview": "稿件研究自反Banach空间中非扩张映射的不动点存在性。摘要声称证明：实自反Banach空间中非空闭有界凸子集上的每个非扩张自映射都有不动点，从而解决给定范数下的自反空间不动点问题。研究意义在于推广非扩张映射不动点理论，但该手稿为AI产生，尚未经独立审查或同行评议，结论需谨慎对待。",
+    "keyPoints": [
+      "证明实自反Banach空间中非空闭有界凸子集上的非扩张自映射必有不动点。",
+      "解决给定范数下的自反空间不动点问题。",
+      "手稿为AI产生，收录不表示已完成独立审查或同行评议。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

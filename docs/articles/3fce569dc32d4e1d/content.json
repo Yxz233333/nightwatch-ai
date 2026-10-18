@@ -1,7 +1,7 @@
 {
   "id": "3fce569dc32d4e1d",
   "section": "papers",
-  "category": "数学论文",
+  "category": "统计学习理论",
   "title": "Memory and precision in noiseless Gaussian regression",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Memory-and-precision-in-noiseless-Gaussian-regression-September-27-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For every fixed A > 0, a learner that retains at most $`Ad^2`$ bits between fresh exact Gaussian linear measurements needs $`\\Omega_A(d\\log(1/\\epsilon))`$ measurements to estimate a uniformly random unit vector to angular error at most ϵ, for any $`0\\lt \\epsilon\\le 1/10`$, with probability at least 2/3. The constant is absolute for $`o(d^2)`$ memory.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Memory and precision in noiseless Gaussian regression",
+  "titleZh": "无噪声高斯回归中的记忆与精度",
+  "details": {
+    "overview": "稿件研究无噪声高斯线性测量下的学习问题。作者声称：对任意固定A>0，若学习器在新精确高斯测量之间至多保留Ad²比特，则要以至少2/3概率将均匀随机单位向量估计到角度误差至多ε，需要Ω_A(d log(1/ε))次测量，其中0<ε≤1/10。对o(d²)记忆，常数是绝对的。该结果刻画了记忆约束对统计精度的影响，摘要未展开证明。",
+    "keyPoints": [
+      "研究记忆受限学习器在无噪声高斯线性测量下的估计问题。",
+      "作者声称Ad²比特记忆需Ω_A(d log(1/ε))次测量达到角度误差ε。",
+      "对o(d²)记忆，常数是绝对的。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

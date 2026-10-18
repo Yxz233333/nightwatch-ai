@@ -1,7 +1,7 @@
 {
   "id": "114083c6a0c6a415",
   "section": "papers",
-  "category": "数学论文",
+  "category": "凸几何与离散几何",
   "title": "Translative covering densities of order n log n",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Translative-covering-densities-of-order-n-log-n-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For every sufficiently large dimension n, we construct a centrally symmetric convex body whose translative covering density exceeds $`c n\\log n`$, where c > 0 is absolute. This disproves the existence of a universal linear upper bound and matches the order of Rogers' upper bound.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Translative covering densities of order n log n",
+  "titleZh": "阶为 n log n 的平移覆盖密度",
+  "details": {
+    "overview": "稿件针对充分大的维数 n，构造中心对称凸体，使其平移覆盖密度超过 c n log n，其中 c 为绝对常数。摘要表示这否定了存在通用线性上界的可能性，并与 Rogers 上界的阶相匹配。研究意义在于若成立，将刻画高维平移覆盖密度可达到的阶。该手稿为 AI 产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "对充分大维数 n，构造中心对称凸体使平移覆盖密度超过 c n log n。",
+      "该结果否定通用线性上界的存在。",
+      "所构造密度的阶与 Rogers 上界相匹配。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

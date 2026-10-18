@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every word-hyperbolic one-relator group is virtually compact special. Combined with the work of Kielak–Linton, this resolves Wise's virtual free-by-cyclic conjecture for hyperbolic one-relator groups: every such group is virtually free-by-cyclic, with the free kernel allowed to have infinite rank.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Virtual compact specialness of hyperbolic one-relator groups",
+  "titleZh": "双曲单关系群的虚拟紧特殊性与虚拟自由-by-循环性",
+  "details": {
+    "overview": "稿件研究字双曲单关系群。作者声称证明了每个字双曲单关系群是虚拟紧特殊的。摘要表示，结合 Kielak–Linton 的工作，这解决了 Wise 关于双曲单关系群的虚拟自由-by-循环猜想：每个这样的群是虚拟自由-by-循环的，允许自由核具有无限秩。",
+    "keyPoints": [
+      "每个字双曲单关系群是虚拟紧特殊的。",
+      "结合 Kielak–Linton 工作，解决 Wise 的虚拟自由-by-循环猜想。",
+      "自由核允许具有无限秩。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We resolve the finite spherical cases of Gwynne and Miller's graph-metric conjecture for critical Fortuin–Kasteleyn maps at each fixed $`q\\in(0,4)`$ and for uniform spanning-tree-decorated maps. After deterministic rescaling of graph distances, these maps, equipped with the vertex probability measure proportional to degree, converge in Gromov–Hausdorff–Prokhorov law to their ordinary unit-area Liouville quantum gravity spheres. Distances use every primal edge, and convergence holds through all positive integer edge counts.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Metric-measure limits of subcritical FK and spanning-tree planar maps",
+  "titleZh": "次临界FK平面图与生成树平面图的度量-测度极限",
+  "details": {
+    "overview": "稿件研究临界Fortuin–Kasteleyn平面图与均匀生成树装饰平面图的标度极限。摘要表示，作者对每个固定q∈(0,4)及生成树装饰情形，解决了Gwynne–Miller图度量猜想的有限球面情形：对图距离作确定性重标度后，配以正比于顶点度的顶点概率测度，这些图在Gromov–Hausdorff–Prokhorov意义下依分布收敛到单位面积Liouville量子引力球面。距离使用全部原始边，收敛对所有正整数边数成立。手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "对每个q∈(0,4)的临界FK图解决有限球面图度量猜想。",
+      "重标度后依GHP收敛到单位面积Liouville量子引力球面。",
+      "收敛覆盖所有正整数边数，距离计入全部原始边。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

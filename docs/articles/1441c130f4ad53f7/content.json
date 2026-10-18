@@ -10,5 +10,16 @@
   "abstractEnglish": "We disprove the Colin de Verdière chromatic conjecture by constructing graphs whose chromatic number exceeds their Colin de Verdière invariant by more than one. The examples have independence number at most two. In fact, their ordinary fractional chromatic number also exceeds their Colin de Verdière invariant by more than one.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A counterexample to the Colin de Verdière chromatic conjecture",
+  "titleZh": "Colin de Verdière 色数猜想的一个反例",
+  "details": {
+    "overview": "稿件提出构造反例否定 Colin de Verdière 色数猜想：所构造图的色数超过其 Colin de Verdière 不变量不止一。摘要还称这些例子的独立数至多为二，且普通分数色数也超过该不变量不止一。研究意义在于若成立，将推翻该猜想的一般形式，并涉及图不变量与色数之间的定量关系。该手稿为 AI 产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "作者构造图使色数超过 Colin de Verdière 不变量不止一，否定该猜想。",
+      "所构造例子的独立数至多为二。",
+      "其普通分数色数也超过该不变量不止一。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

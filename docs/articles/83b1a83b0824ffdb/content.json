@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the conjecture that the irrationality exponent of π is 2. As a consequence, the classical Flint–Hills series $`\\sum_{n\\ge1}1/(n^3\\sin^2 n)`$ converges, with angles in radians.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The irrationality exponent of pi is 2",
+  "titleZh": "π的无理性指数为2",
+  "details": {
+    "overview": "稿件研究圆周率π的无理性指数。摘要声称证明π的无理性指数为2，并由此推出经典Flint–Hills级数∑_{n≥1}1/(n^3 sin^2 n)（角度以弧度计）收敛。研究意义在于解决关于π无理性指数的猜想，但该手稿为AI产生，尚未经独立审查或同行评议，结论需进一步验证。",
+    "keyPoints": [
+      "证明π的无理性指数为2。",
+      "作为推论，Flint–Hills级数∑1/(n^3 sin^2 n)收敛。",
+      "手稿为AI产生，收录不表示已完成独立审查或同行评议。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

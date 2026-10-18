@@ -1,7 +1,7 @@
 {
   "id": "41ef6c2ebb5dcc24",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何分析",
   "title": "Power-law violations of Yau's nodal upper bound",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Power-law-violations-of-Yaus-nodal-upper-bound-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a smooth Riemannian metric on $`S^4\\times S^1`$ and a sequence of real Laplace eigenfunctions whose nodal four-volume grows faster than $`\\lambda^{1/2+\\epsilon_0}`$ for one fixed $`\\epsilon_0\\gt 0`$. This disproves the smooth upper-bound assertion in Yau's nodal-set conjecture and the proposed bound with an arbitrarily small positive power loss.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Power-law violations of Yau's nodal upper bound",
+  "titleZh": "Yau节点上界的多项式律违反",
+  "details": {
+    "overview": "该稿件研究黎曼流形上Laplace特征函数节点集体积的上界。作者声称在S^4×S^1上构造光滑黎曼度量及一列实Laplace特征函数，其节点四维体积增长快于λ^{1/2+ε0}，ε0为某固定正数。据此否定Yau节点集猜想中的光滑上界断言，以及允许任意小正幂损失的拟议上界。该结果若成立，将表明节点集体积可超出现有猜想上界。但手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "作者在S^4×S^1上构造度量与特征函数列，节点四维体积增长快于λ^{1/2+ε0}。",
+      "该构造否定Yau节点集猜想的光滑上界断言及带小幂损失的拟议上界。",
+      "手稿为AI产生，未经独立审查或同行评议。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

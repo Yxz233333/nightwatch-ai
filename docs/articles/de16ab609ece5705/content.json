@@ -1,7 +1,7 @@
 {
   "id": "de16ab609ece5705",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何与拓扑",
   "title": "A closed Ricci flow with bounded scalar curvature and finite-time curvature blowup",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-closed-Ricci-flow-with-bounded-scalar-curvature-and-finite-time-curvature-blowup-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We disprove the scalar-curvature extension conjecture in its unrestricted all-dimensions form. In sufficiently high dimension, we construct a Ricci flow on a closed manifold whose scalar curvature remains uniformly bounded while full curvature diverges at a finite maximal time. In one fixed sufficiently high dimension, the examples have two-sided power-law curvature blowup with arbitrarily large exponents.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A closed Ricci flow with bounded scalar curvature and finite-time curvature blowup",
+  "titleZh": "标量曲率有界且有限时刻曲率爆破的闭 Ricci 流",
+  "details": {
+    "overview": "稿件研究 Ricci 流中标量曲率与全曲率的关系。作者声称在无限制的全维数形式下否定标量曲率延拓猜想：在足够高维的闭流形上构造 Ricci 流，其标量曲率一致有界，而全曲率在有限最大时刻发散。摘要还表示，在某个固定的足够高维中，这些例子具有双侧幂律曲率爆破，且指数可任意大。",
+    "keyPoints": [
+      "作者在足够高维闭流形上构造标量曲率一致有界、全曲率有限时刻发散的 Ricci 流。",
+      "该构造否定无限制全维数形式的标量曲率延拓猜想。",
+      "在某个固定足够高维中，例子呈双侧幂律爆破且指数任意大。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

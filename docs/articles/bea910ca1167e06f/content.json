@@ -10,5 +10,16 @@
   "abstractEnglish": "We give a fully polynomial randomized approximation scheme (FPRAS) for counting perfect matchings in arbitrary finite simple undirected graphs, resolving the general-graph perfect-matching approximation problem. The algorithm returns zero with certainty when no perfect matching exists. Otherwise, it achieves relative error ε with failure probability at most δ in worst-case bit time polynomial in the input length, $`\\varepsilon ^{-1}`$, and $`\\log\\delta^{-1}`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Fully Polynomial Randomized Approximation Scheme for Perfect Matchings in General Graphs",
+  "titleZh": "一般图完美匹配的全多项式随机近似方案",
+  "details": {
+    "overview": "稿件研究任意有限简单无向图中完美匹配计数的近似算法。作者声称给出全多项式随机近似方案（FPRAS），解决一般图完美匹配近似问题：无完美匹配时确定返回零，否则以相对误差ε、失败概率至多δ运行，最坏情况位时间关于输入长度、ε^{-1}与logδ^{-1}多项式。若成立，这将把完美匹配计数近似从受限图类推广到一般图，对计数复杂性有重要意义。手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为任意有限简单无向图的完美匹配计数",
+      "作者声称给出全多项式随机近似方案FPRAS",
+      "无完美匹配时确定返回零，否则达到相对误差ε与失败概率δ"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

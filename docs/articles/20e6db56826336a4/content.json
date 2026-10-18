@@ -1,7 +1,7 @@
 {
   "id": "20e6db56826336a4",
   "section": "papers",
-  "category": "数学论文",
+  "category": "组合数学",
   "title": "The sharp logarithmic exponent of r(5,t)",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-Sharp-Logarithmic-Exponent-of-r-5-t-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We determine the sharp logarithmic exponent of the off-diagonal Ramsey number $`r(5,t)`$:\n\n$`\\displaystyle r(5,t)=\\frac{t^4}{(\\log t)^{3+o(1)}} \\qquad (t\\longrightarrow\\infty).`$",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The sharp logarithmic exponent of r(5,t)",
+  "titleZh": "r(5,t)的精确对数指数",
+  "details": {
+    "overview": "稿件研究非对角Ramsey数r(5,t)的渐近行为。摘要声称确定了其精确对数指数，即当t趋于无穷时r(5,t)=t^4/(log t)^{3+o(1)}。该结果刻画了r(5,t)在t^4量级下对数因子的幂次；材料未给出证明方法、上下界构造细节或独立验证信息。",
+    "keyPoints": [
+      "研究对象为非对角Ramsey数r(5,t)的渐近阶。",
+      "声称r(5,t)=t^4/(log t)^{3+o(1)}当t趋于无穷。",
+      "确定了对数因子的精确指数3。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

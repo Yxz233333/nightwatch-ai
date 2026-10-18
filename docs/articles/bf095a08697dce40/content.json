@@ -10,5 +10,16 @@
   "abstractEnglish": "For every fixed ε > 0, we give a sampling algorithm using at most $`C_\\varepsilon d^\\varepsilon`$ exact first-order queries on every execution for C2 potentials on ℝd with a known minimizer and Hessian between Id and $`2I_d`$. The output has total-variation distance at most 1/10 from the target Gibbs law. Computation between queries is unrestricted. We also prove an $`\\Omega(\\log d)`$ query lower bound for arbitrary randomized adaptive algorithms, determining the optimal dimension exponent to be zero.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Subpolynomial query complexity for well-conditioned log-concave sampling",
+  "titleZh": "良态对数凹采样的次多项式查询复杂度",
+  "details": {
+    "overview": "稿件研究在ℝ^d上对Hessian介于单位阵与2倍单位阵之间、已知最小点的C2势函数进行Gibbs分布采样的问题。作者声称：对任意固定ε>0，存在每次执行至多使用C_ε d^ε次精确一阶查询的算法，输出与目标Gibbs律的全变差距离不超过1/10，查询间计算不受限制；并给出任意随机自适应算法的Ω(log d)查询下界，从而确定最优维度指数为零。意义在于刻画良态对数凹采样的查询复杂度量级。",
+    "keyPoints": [
+      "给出每次执行至多C_ε d^ε次精确一阶查询的采样算法",
+      "输出与目标Gibbs律全变差距离至多1/10",
+      "证明任意随机自适应算法需Ω(log d)次查询，最优维度指数为零"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

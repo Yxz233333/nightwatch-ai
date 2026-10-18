@@ -1,7 +1,7 @@
 {
   "id": "38254ac4dbc7c2bc",
   "section": "papers",
-  "category": "几何与拓扑",
+  "category": "代数几何",
   "title": "Integrability of split tangent bundles on rationally connected manifolds",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Integrability-of-split-tangent-bundles-on-rationally-connected-manifolds-September-23-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that both summands of every specified holomorphic splitting of the tangent bundle of a smooth rationally connected projective complex manifold into two positive-rank subbundles are integrable. This proves Höring's conjecture on rationally connected projective manifolds. Höring's product theorem then gives a product decomposition compatible with the specified splitting.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Integrability of split tangent bundles on rationally connected manifolds",
+  "titleZh": "有理连通流形上分裂切丛的可积性",
+  "details": {
+    "overview": "稿件证明：光滑有理连通射影复流形的切丛若按指定方式全纯分裂为两个正秩子丛，则两个子丛均可积。摘要表示这证明了Höring关于有理连通射影流形的猜想，并结合Höring乘积定理得到与该分裂相容的乘积分解。该结果若成立将深化对有理连通流形切丛结构与乘积分解之间关系的理解。",
+    "keyPoints": [
+      "研究对象为光滑有理连通射影复流形切丛的全纯分裂。",
+      "作者声称分裂所得两个正秩子丛均可积，证明Höring猜想。",
+      "结合Höring乘积定理可得到与分裂相容的乘积分解。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "21fbfeef19f23b9b",
   "section": "papers",
-  "category": "数学论文",
+  "category": "常微分方程与动力系统",
   "title": "Two limit cycles for quintic Liénard systems",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/two-limit-cycles-for-quintic-lienard-systems-September-24-2026/two-limit-cycles-for-quintic-lienard-systems-September-24-2026.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "Every classical Liénard system $`\\dot x=y-F(x)`$, $`\\dot y=-x`$, with F an arbitrary real polynomial of degree at most five, has at most two geometrically distinct isolated periodic orbits, and the bound is attained. This proves the degree-five case of the Lins Neto–de Melo–Pugh conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Two limit cycles for quintic Liénard systems",
+  "titleZh": "五次Liénard系统的两个极限环",
+  "details": {
+    "overview": "稿件研究经典Liénard系统ẋ=y−F(x)、ẏ=−x，其中F为次数至多五的任意实多项式。摘要声称该系统至多有两个几何不同的孤立周期轨道，且该上界可达，从而证明Lins Neto–de Melo–Pugh猜想的五次情形。研究属于常微分方程极限环理论；材料未说明证明策略或与低次情形的比较。",
+    "keyPoints": [
+      "研究对象为F次数至多五的经典Liénard系统。",
+      "声称至多有两个几何不同的孤立周期轨道且上界可达。",
+      "据此证明Lins Neto–de Melo–Pugh猜想的五次情形。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

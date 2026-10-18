@@ -1,7 +1,7 @@
 {
   "id": "31cdcdee04611260",
   "section": "papers",
-  "category": "数学论文",
+  "category": "偏微分方程",
   "title": "The critical dimension for one-phase Bernoulli minimizers",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-critical-dimension-for-one-phase-Bernoulli-minimizers-September-24-2026/The-critical-dimension-for-one-phase-Bernoulli-minimizers-September-24-2026.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that seven is the critical dimension for the one-phase Bernoulli problem: every nonzero one-homogeneous global minimizer in dimensions at most six is flat, while a nonflat one-homogeneous global minimizer exists in dimension seven. It follows that the interior free boundary of a local minimizer is smooth in dimensions at most six. In dimension n ≥ 7, its singular set has Hausdorff dimension at most $`n-7`$, and this bound is sharp. In dimension seven, the singular set is locally finite.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The critical dimension for one-phase Bernoulli minimizers",
+  "titleZh": "单相Bernoulli极小元的临界维数",
+  "details": {
+    "overview": "稿件研究单相Bernoulli问题的临界维数。作者声称七是临界维数：维数至多六时，每个非零一阶齐次全局极小元是平坦的；维数七存在非平坦一阶齐次全局极小元。由此，局部极小元内部自由边界在维数至多六时光滑；n≥7时奇异集Hausdorff维数至多n-7且界是 sharp 的；维数七奇异集局部有限。摘要未展开证明，结果尚待独立审查。",
+    "keyPoints": [
+      "作者声称七是单相Bernoulli问题的临界维数",
+      "维数≤6时非零一阶齐次全局极小元平坦，维数7存在非平坦例子",
+      "n≥7时奇异集Hausdorff维数至多n-7且 sharp；维数7奇异集局部有限"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

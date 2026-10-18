@@ -1,7 +1,7 @@
 {
   "id": "b2d8d91743c042a3",
   "section": "papers",
-  "category": "数论与算术几何",
+  "category": "辛几何与拓扑",
   "title": "Sharpness of the Cyclic Integral Floer Bound Below the Stable Morse Number",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Sharpness-of-the-Cyclic-Integral-Floer-Bound-Below-the-Stable-Morse-Number-October-5-2026/sharp-cyclic-integral-floer-bound-below-stable-morse-number.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a simply connected closed Kähler manifold of real dimension 3332 and minimal Chern number one whose Hamiltonian fixed-point count attains the cyclic integral Floer bound while falling below the stable Morse number. The Hamiltonian diffeomorphism has exactly $`1\\,872\\,232`$ fixed points, all nondegenerate and with contractible orbit loops, whereas the stable Morse number is $`1\\,872\\,264`$. Thus the stronger stable Morse bound fails by exactly 32, even when the cyclic integral bound is sharp.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Sharpness of the Cyclic Integral Floer Bound Below the Stable Morse Number",
+  "titleZh": "稳定Morse数之下循环积分Floer界的尖锐性",
+  "details": {
+    "overview": "稿件研究Hamiltonian不动点计数中循环积分Floer界与稳定Morse界的关系。作者声称构造实维数3332、最小Chern数为1的单连通闭Kähler流形，其上Hamiltonian微分同胚恰有1,872,232个不动点，全部非退化且轨道环路可缩，而稳定Morse数为1,872,264。摘要表示循环积分界达到尖锐时，更强的稳定Morse界仍恰好差32而失效。",
+    "keyPoints": [
+      "构造实维数3332、最小Chern数为1的单连通闭Kähler流形",
+      "Hamiltonian微分同胚恰有1,872,232个非退化不动点，轨道环路可缩",
+      "稳定Morse数为1,872,264，更强界恰好差32而失效"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

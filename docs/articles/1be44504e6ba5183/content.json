@@ -10,5 +10,16 @@
   "abstractEnglish": "We realize finite reciprocal affine instruction maps by smooth incompressible shear flows on a flat three-torus. Applied to a reversible one-head recorder with a finite transition table, this gives a complete machine-to-fluid construction: a fixed particle enters a fixed open strip exactly when a given machine halts, with zero initial velocity, zero pressure, and a solenoidal mean-zero force that is periodic after initialization. The construction acts on full closed rectangles and controls every intermediate trajectory. Separate heights resolve overlap between sources and targets, and an endpoint-size estimate controls all excursions independently of the reciprocal scaling factor.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Finite Instructions and Solenoidal Shear Flows",
+  "titleZh": "有限指令与螺线管剪切流",
+  "details": {
+    "overview": "该稿件研究用平坦三维环面上的光滑不可压缩剪切流实现有限互反仿射指令映射。摘要表示，将其应用于具有有限转移表的可逆单头记录器，可得到完整的机器到流体构造：固定粒子恰在给定机器停机时进入固定开带，初始速度与压力为零，力为螺线管、均值为零并在初始化后周期。构造作用于完整闭矩形并控制所有中间轨迹，用分离高度处理源与目标的重叠，并用端点尺寸估计独立于互反缩放因子控制所有偏移。",
+    "keyPoints": [
+      "用三维环面上的光滑不可压缩剪切流实现有限互反仿射指令映射。",
+      "构造使固定粒子恰在机器停机时进入固定开带，初始速度与压力为零。",
+      "分离高度处理源目标重叠，端点尺寸估计控制所有偏移。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

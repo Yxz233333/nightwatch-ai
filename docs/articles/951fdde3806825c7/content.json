@@ -10,5 +10,16 @@
   "abstractEnglish": "We give a randomized algorithm that computes the complete zero-threshold winning set of a finite mean-payoff game with arbitrary signed integer edge weights encoded in binary. For total explicit input length L, it uses $`2^{O((\\log(L+2))^2)}`$ bit operations on every random tape and is correct with probability at least 7/8. A polynomial-time check certifies the winning regions and positional strategies for both players or reports failure. Independent repetition therefore gives an always-correct algorithm with the same expected quasipolynomial bit bound.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Randomized quasipolynomial-time mean-payoff games",
+  "titleZh": "随机拟多项式时间的平均收益博弈",
+  "details": {
+    "overview": "该稿件研究有限平均收益博弈，边权为任意带符号整数并以二进制编码。作者给出随机算法，对总显式输入长度L，在每条随机带上使用2^{O((log(L+2))²)}次比特运算，并以至少7/8的概率正确计算完整零阈值获胜集。摘要称有多项式时间检查可认证获胜区域与双方位置策略或报告失败，独立重复可得始终正确且期望拟多项式比特界的算法。",
+    "keyPoints": [
+      "随机算法以至少7/8概率求零阈值获胜集，每条随机带为拟多项式比特运算",
+      "多项式时间检查可认证获胜区域与双方位置策略，或报告失败",
+      "独立重复可得始终正确、期望拟多项式比特界的算法"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

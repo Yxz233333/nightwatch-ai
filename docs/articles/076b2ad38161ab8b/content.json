@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that witnessed symmetric choice strictly increases the expressive power of choiceless polynomial time with counting. A fixed sentence with one witnessed-choice occurrence defines a Boolean query on every finite input that is not definable in the original counting formalism.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Witnessed symmetric choice is strictly stronger than choiceless polynomial time with counting",
+  "titleZh": "见证对称选择严格强于带计数的无选择多项式时间",
+  "details": {
+    "overview": "该稿件研究带计数的无选择多项式时间（choiceless polynomial time with counting）的表达力。作者声称证明见证对称选择严格增强其表达力：存在一个含单次见证选择出现的固定句子，在每个有限输入上定义布尔查询，而该查询不能在原计数形式主义中定义。若成立，将为该计算模型增加选择算子后的表达力差异提供分离结果。",
+    "keyPoints": [
+      "比较带计数的无选择多项式时间与加入见证对称选择后的表达力。",
+      "作者声称存在固定句子定义的布尔查询无法在原形式主义中定义。",
+      "结论为见证对称选择严格增强该计数形式主义的表达力。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "1e087e47b09e4cf3",
   "section": "papers",
-  "category": "数学论文",
+  "category": "调和分析与偏微分方程",
   "title": "Endpoint pointwise convergence for the Schrodinger equation in higher dimensions",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Endpoint-pointwise-convergence-for-the-Schrodinger-equation-in-higher-dimensions-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We resolve the Sobolev endpoint of Carleson's pointwise convergence problem in every dimension n ≥ 3. For initial data in $`H^{n/(2(n+1))}(\\mathbb R^n)`$, the free Schrödinger evolution converges almost everywhere to the initial data as $`t\\downarrow0`$. The evolution is defined by removing Gaussian regularization on one full-measure spatial set, uniformly over the interval $`0\\lt t\\lt 1`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Endpoint pointwise convergence for the Schrodinger equation in higher dimensions",
+  "titleZh": "高维Schrödinger方程端点逐点收敛",
+  "details": {
+    "overview": "稿件研究Carleson逐点收敛问题在维数n≥3时的Sobolev端点。摘要声称对初值属于H^{n/(2(n+1))}(ℝ^n)，自由Schrödinger演化当t↓0时几乎处处收敛到初值。演化通过在一个满测度空间集上移除Gaussian正则化定义，并在0<t<1上一致成立。该结果属于调和分析与色散方程；材料未说明证明技术或端点最优性讨论。",
+    "keyPoints": [
+      "对每个n≥3解决Carleson逐点收敛问题的Sobolev端点。",
+      "初值空间为H^{n/(2(n+1))}(ℝ^n)，结论为几乎处处收敛。",
+      "收敛在满测度集上一致于0<t<1成立。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

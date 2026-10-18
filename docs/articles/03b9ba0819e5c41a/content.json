@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that there are absolute constants c > 0 and C < ∞ such that every set $`A\\subseteq\\{1,\\ldots,N\\}`$ with no nonzero square difference satisfies $`|A|\\le C N^{1-c}`$. This answers the fixed-power question posed by Green and Sawhney.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A power saving for square-difference-free sets",
+  "titleZh": "无平方差集合的幂次节省",
+  "details": {
+    "overview": "该稿件研究整数区间{1,…,N}中不含非零平方差的集合大小。作者声称证明存在绝对常数c>0与C<∞，使每个此类集合满足|A|≤C N^{1−c}，从而回答Green与Sawhney提出的固定幂次问题。若成立，将给出无平方差集合上界从次多项式型改进到固定幂次节省的定量结果。",
+    "keyPoints": [
+      "研究对象为{1,…,N}中不含非零平方差的集合。",
+      "作者声称证明|A|≤C N^{1−c}，其中c>0、C<∞为绝对常数。",
+      "称该结果回答Green与Sawhney的固定幂次问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

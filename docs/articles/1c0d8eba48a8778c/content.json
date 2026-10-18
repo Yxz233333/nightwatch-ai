@@ -10,5 +10,16 @@
   "abstractEnglish": "We give an exact uniform sampler for nonnegative integer contingency tables with arbitrary prescribed margins. It terminates almost surely and has expected bit complexity polynomial in both dimensions and the binary length of the margins. No positivity, balance, sparsity, or fixed-dimension assumption is required.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Exact Uniform Sampling of Contingency Tables with Arbitrary Margins",
+  "titleZh": "任意边际列联表的精确均匀采样",
+  "details": {
+    "overview": "该稿件研究非负整数列联表在任意给定边际下的精确均匀采样问题。作者声称给出一个精确均匀采样器，几乎必然终止，且期望比特复杂度在表的两个维度与边际二进制长度上均为多项式；不需要正性、平衡、稀疏或固定维数假设。若成立，可为统计与组合计数中依赖均匀抽样的算法提供一般性工具。",
+    "keyPoints": [
+      "给出任意指定边际下非负整数列联表的精确均匀采样器。",
+      "算法几乎必然终止，期望比特复杂度对维度与边际长度多项式。",
+      "不要求正性、平衡、稀疏或固定维数等额外假设。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

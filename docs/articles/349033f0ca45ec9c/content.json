@@ -1,7 +1,7 @@
 {
   "id": "349033f0ca45ec9c",
   "section": "papers",
-  "category": "数学论文",
+  "category": "微分几何",
   "title": "The affine Bernstein theorem in dimensions three through nine",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-affine-Bernstein-theorem-in-dimensions-three-through-nine-September-24-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Euclidean-complete affine Bernstein conjecture in dimensions three through nine: a smooth locally uniformly convex affine maximal graph is an elliptic paraboloid whenever its induced Euclidean metric is complete. The same conclusion holds, without an initial graph assumption, for connected smooth open (noncompact and without boundary) affine-complete locally uniformly convex immersed hypersurfaces that are classically affine maximal in these dimensions.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The affine Bernstein theorem in dimensions three through nine",
+  "titleZh": "三至九维的仿射Bernstein定理",
+  "details": {
+    "overview": "稿件研究仿射Bernstein猜想。作者声称在三维至九维证明欧氏完备情形：若光滑局部一致凸仿射极大图诱导的欧氏度量完备，则该图是椭圆抛物面。摘要还表示，在这些维数中，对连通光滑开（非紧无边界）仿射完备、局部一致凸且经典仿射极大的浸入超曲面，无需初始图假设也得到同一结论。该结果属仿射微分几何，尚未经独立审查。",
+    "keyPoints": [
+      "在三维至九维证明欧氏完备仿射Bernstein猜想",
+      "光滑局部一致凸仿射极大图若诱导欧氏度量完备，则为椭圆抛物面",
+      "对仿射完备局部一致凸经典仿射极大浸入超曲面，无需图假设得同一结论"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

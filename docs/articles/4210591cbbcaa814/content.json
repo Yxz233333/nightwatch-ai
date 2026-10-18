@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the unramified quantum geometric Langlands equivalence for every connected simple complex algebraic group G and every level $`c\\in\\mathbb C\\setminus\\mathbb Q`$, including non-real levels. For every smooth projective connected complex curve X, it identifies the full twisted D-module categories on $`\\mathop{\\mathrm{Bun}}\\nolimits _G(X)`$ and $`\\mathop{\\mathrm{Bun}}\\nolimits _{G^\\vee}(X)`$ at the dual shifted levels c and $`-1/(rc)`$, where r is the lacing number. The equivalence uses the given global forms and includes all connected components.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Global quantum geometric Langlands at irrational level",
+  "titleZh": "无理水平下的整体量子几何Langlands对应",
+  "details": {
+    "overview": "稿件研究整体量子几何Langlands对应。摘要称对每个连通单复代数群G及每个非有理复数水平c（包括非实水平）证明非分歧量子几何Langlands等价；对每条光滑射影连通复曲线X，该等价在Bun_G(X)与Bun_{G^∨}(X)上的完整扭曲D模范畴之间建立识别，对偶移位水平为c与-1/(rc)，r为lacing数。等价使用给定整体形式并包含所有连通分支。这是AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "对任意连通单复代数群与非有理水平c证明非分歧等价。",
+      "识别Bun_G与Bun_{G^∨}上的完整扭曲D模范畴。",
+      "对偶水平为-1/(rc)，r为lacing数，并含所有连通分支。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

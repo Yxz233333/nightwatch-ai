@@ -1,7 +1,7 @@
 {
   "id": "3ea6ec430c8603fc",
   "section": "papers",
-  "category": "数学论文",
+  "category": "调和分析",
   "title": "Almost-everywhere Fourier convergence in L log L",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Almost-everywhere-Fourier-convergence-in-L-log-L-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the ordinary symmetric Fourier partial sums of every complex-valued function in $`L\\log L`$ on the circle converge almost everywhere to the function along the full sequence. This establishes the classical $`L\\log L`$ sufficiency conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Almost-everywhere Fourier convergence in L log L",
+  "titleZh": "L log L中几乎处处Fourier收敛",
+  "details": {
+    "overview": "该稿件研究圆周上Fourier部分和的几乎处处收敛性。作者声称证明：圆周上每个L log L中的复值函数，其通常对称Fourier部分和沿完整序列几乎处处收敛于该函数，从而建立经典的L log L充分性猜想。该结果若成立，将给出Fourier级数几乎处处收敛的一个临界函数空间结论。但手稿为AI产生，收录不表示已完成独立审查或同行评议，结论尚待验证。",
+    "keyPoints": [
+      "作者声称证明L log L中函数的对称Fourier部分和几乎处处收敛。",
+      "该结果建立经典的L log L充分性猜想。",
+      "手稿为AI产生，未经独立审查或同行评议。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We resolve the three-dimensional Ball–Evans approximation problem for every finite p > 2. Every $`W^{1,p}`$ homeomorphism between arbitrary bounded domains in ℝ3 can be approximated strongly in $`W^{1,p}`$ by smooth diffeomorphisms onto the same target.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Strong diffeomorphic approximation in three dimensions for p>2",
+  "titleZh": "三维中 p>2 的强微分同胚逼近",
+  "details": {
+    "overview": "稿件研究三维 Ball–Evans 逼近问题。作者声称对每个有限 p>2 解决该问题：ℝ3 中任意有界区域之间的每个 W^{1,p} 同胚，都可在 W^{1,p} 中强逼近为到同一目标的光滑微分同胚。摘要未说明逼近构造的具体方法，也未讨论 p≤2 情形或更高维的对应问题。",
+    "keyPoints": [
+      "作者声称对每个有限 p>2 解决三维 Ball–Evans 逼近问题。",
+      "任意有界区域间的 W^{1,p} 同胚可在 W^{1,p} 中强逼近为光滑微分同胚。",
+      "逼近后的微分同胚映到同一目标区域。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

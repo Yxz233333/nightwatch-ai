@@ -1,7 +1,7 @@
 {
   "id": "6c51783888a6738e",
   "section": "papers",
-  "category": "数论与算术几何",
+  "category": "辛几何与动力系统",
   "title": "A nondegenerate counterexample to the Morse-number Arnold bound",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-nondegenerate-counterexample-to-the-Morse-number-Arnold-bound-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a smooth one-periodic Hamiltonian on a closed symplectic twelve-manifold whose time-one map has fewer fixed points than the manifold's ordinary Morse number. Every fixed point is nondegenerate and has a contractible Hamiltonian trajectory. This disproves the Morse-number form of the Arnold conjecture. The deficit can be arbitrarily large among twelve-dimensional examples.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A nondegenerate counterexample to the Morse-number Arnold bound",
+  "titleZh": "Morse数Arnold界的非退化反例",
+  "details": {
+    "overview": "稿件研究闭辛流形上哈密顿映射的固定点下界。作者声称在闭辛十二维流形上构造光滑单周期哈密顿量，其时间一映射的固定点数少于该流形的普通Morse数，且每个固定点非退化并具有可缩哈密顿轨道。摘要表示这反驳Arnold猜想的Morse数形式，且在十二维例子中亏缺可任意大。研究意义在于否定该形式的Arnold猜想，但结果尚未经独立审查。",
+    "keyPoints": [
+      "在闭辛十二维流形上构造单周期哈密顿量。",
+      "时间一映射固定点数少于流形普通Morse数，且固定点非退化。",
+      "摘要称这反驳Arnold猜想的Morse数形式，亏缺可任意大。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

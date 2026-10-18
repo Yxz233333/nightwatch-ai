@@ -10,5 +10,16 @@
   "abstractEnglish": "Every sequence of generalized-canonical flips on compact Kähler fourfolds with rational boundary and fixed rational analytically nef b-divisor terminates when the small morphisms are projective. We prove this for normal globally Weil ℚ-factorial models with boundary coefficients less than one, allowing exceptional log discrepancies equal to one. No scaling rule or pseudo-effectivity assumption is required. The theorem applies to existing projective small diagrams with the specified opposite ample signs.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Termination of generalized-canonical flips on compact Kähler fourfolds",
+  "titleZh": "紧Kähler四维流形上广义典范flip的终止性",
+  "details": {
+    "overview": "稿件研究紧Kähler四维流形上广义典范flip序列的终止性。作者声称，对具有有理边界和固定有理解析nef b-除子的情形，当小态射为射影时，每个广义典范flip序列终止。摘要表示该结论适用于正规全球Weil ℚ-分解模型，边界系数小于1，允许例外对数差异等于1，且不需要缩放规则或伪有效性假设。作者还称定理适用于具有指定相反丰沛符号的现有射影小图。摘要未展开证明技术。",
+    "keyPoints": [
+      "对象为紧Kähler四维流形上带有理边界的广义典范flip序列。",
+      "作者声称在小态射射影时序列终止，边界系数小于1。",
+      "无需缩放规则或伪有效性假设，允许例外对数差异等于1。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

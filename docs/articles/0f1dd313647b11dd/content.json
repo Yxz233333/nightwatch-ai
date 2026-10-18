@@ -1,7 +1,7 @@
 {
   "id": "0f1dd313647b11dd",
   "section": "papers",
-  "category": "数学论文",
+  "category": "偏微分方程与反问题",
   "title": "Nonuniqueness for bounded measurable scalar conductivities in three dimensions",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Nonuniqueness-for-Bounded-Measurable-Scalar-Conductivities-in-Three-Dimensions-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct two distinct uniformly positive bounded measurable scalar conductivities on a ball in ℝ3 with the same full Dirichlet-to-Neumann operator. Both conductivities equal one near the boundary. This gives nonuniqueness in the scalar Calderón problem at bounded measurable regularity.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Nonuniqueness for bounded measurable scalar conductivities in three dimensions",
+  "titleZh": "三维有界可测标量电导率的非唯一性",
+  "details": {
+    "overview": "稿件在 ℝ3 的球上构造两个不同的、一致正的有界可测标量电导率，它们具有相同的完整 Dirichlet-to-Neumann 算子，且在边界附近均等于一。摘要表示这给出了标量 Calderón 问题在有界可测正则性下的非唯一性。研究意义在于若成立，将说明该正则性下电导率不能由边界测量唯一确定。该手稿为 AI 产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "在 ℝ3 球上构造两个不同的一致正有界可测标量电导率。",
+      "两者具有相同的完整 Dirichlet-to-Neumann 算子，且在边界附近等于一。",
+      "摘要称这给出标量 Calderón 问题在有界可测正则性下的非唯一性。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

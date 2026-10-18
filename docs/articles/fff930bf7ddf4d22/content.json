@@ -1,7 +1,7 @@
 {
   "id": "fff930bf7ddf4d22",
   "section": "papers",
-  "category": "数学论文",
+  "category": "解析数论",
   "title": "The Quasi-Riemann Hypothesis: A Zero-Free Half-Plane $`\\Re s\\gt 7/8`$ ",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-Quasi-Riemann-Hypothesis-September-30-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that all finite-order Hecke L-functions over $`\\mathbb Q(\\sqrt{-3})`$ and all Dirichlet L-functions are zero-free in the half-plane $`\\Re s\\gt 7/8`$, with the principal pole at s = 1 allowed. In particular, the Riemann zeta function is zero-free in this half-plane, proving the quasi-Riemann hypothesis.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Quasi-Riemann Hypothesis: A Zero-Free Half-Plane $`\\Re s\\gt 7/8`$ ",
+  "titleZh": "拟黎曼猜想：无零点半平面 ℜs>7/8",
+  "details": {
+    "overview": "该稿件研究 L 函数在半平面内的无零点区域。作者在摘要中声称证明了 Q(√−3) 上所有有限阶 Hecke L 函数以及所有 Dirichlet L 函数在 ℜs>7/8 内无零点（允许 s=1 处的主极点），并由此得出黎曼 zeta 函数在该半平面无零点，称之为拟黎曼猜想。若成立，这将给出比经典结果更宽的无零点区域，但距完整的黎曼猜想仍有差距。这是 AI 产生的手稿，未经独立审查或同行评议，结论需谨慎对待。",
+    "keyPoints": [
+      "作者声称 Q(√−3) 上有限阶 Hecke L 函数在 ℜs>7/8 无零点。",
+      "同一结论被声称适用于所有 Dirichlet L 函数及黎曼 zeta 函数。",
+      "该结果被称为拟黎曼猜想，尚待独立审查。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We give a deterministic algorithm that computes the complete zero-threshold winning set of a finite mean-payoff game with arbitrary signed integer edge weights encoded in binary. For total explicit input length L, it uses $`2^{O((\\log(L+2))^2)}`$ bit operations. A reduction also computes the exact rational value at every vertex and globally optimal positional strategies for both players within the same quasipolynomial bound.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Deterministic quasipolynomial-time mean-payoff games",
+  "titleZh": "确定性拟多项式时间的平均收益博弈",
+  "details": {
+    "overview": "该稿件研究有限平均收益博弈：边权为任意带符号整数并以二进制编码。作者给出确定性算法，计算完整的零阈值获胜集，对总显式输入长度L使用2^{O((log(L+2))²)}次比特运算。摘要还称，通过归约可在同一拟多项式界内计算每个顶点的精确有理数值及双方全局最优位置策略。若成立，这为平均收益博弈提供了确定性拟多项式时间算法。",
+    "keyPoints": [
+      "对象为二进制编码任意带符号整数边权的有限平均收益博弈",
+      "确定性算法以2^{O((log(L+2))²)}比特运算求零阈值获胜集",
+      "归约可在同界内求精确有理值与双方最优位置策略"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

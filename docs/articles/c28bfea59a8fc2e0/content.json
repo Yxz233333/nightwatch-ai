@@ -1,7 +1,7 @@
 {
   "id": "c28bfea59a8fc2e0",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论",
   "title": "Cylinder amplitudes and logarithmic bridge-length windows on the honeycomb lattice",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Cylinder-amplitudes-and-logarithmic-bridge-length-windows-on-the-honeycomb-lattice-September-26-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove a logarithmic window of critical honeycomb bridge lengths: summed through height $`2h(\\log h)^{1/64}`$, bridges of lengths between $`h^{4/3}(\\log h)^{-1/8}`$ and $`2h^{4/3}(\\log h)^{1/2}`$ have mass at least $`h^{3/4}(\\log h)^{-C}`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Cylinder amplitudes and logarithmic bridge-length windows on the honeycomb lattice",
+  "titleZh": "蜂窝格上的圆柱振幅与对数桥长窗口",
+  "details": {
+    "overview": "稿件研究临界蜂窝桥长度的对数窗口。摘要表示，作者证明：对高度至多 2h(log h)^{1/64} 求和，长度介于 h^{4/3}(log h)^{-1/8} 与 2h^{4/3}(log h)^{1/2} 之间的桥，其质量至少为 h^{3/4}(log h)^{-C}。研究意义在于给出临界蜂窝桥在对数尺度窗口内的质量下界。",
+    "keyPoints": [
+      "证明临界蜂窝桥长度的一个对数窗口。",
+      "窗口内桥的质量至少为 h^{3/4}(log h)^{-C}。",
+      "求和高度至多 2h(log h)^{1/64}。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

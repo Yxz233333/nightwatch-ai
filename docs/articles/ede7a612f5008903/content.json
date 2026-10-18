@@ -1,7 +1,7 @@
 {
   "id": "ede7a612f5008903",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数几何",
   "title": "The generalized Mukai conjecture",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-Generalized-Mukai-Conjecture-September-24-2026/article.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the generalized Mukai conjecture: every positive-dimensional smooth complex Fano manifold of dimension n, Picard number ρ, and pseudoindex ι satisfies $`\\rho(\\iota-1)\\le n`$. Equality holds precisely for the product of ρ copies of $`\\mathbb P^{\\iota-1}`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The generalized Mukai conjecture",
+  "titleZh": "广义Mukai猜想",
+  "details": {
+    "overview": "稿件研究光滑复Fano流形的Picard数与伪指数关系。作者声称证明了广义Mukai猜想：任意n维、Picard数为ρ、伪指数为ι的正维光滑复Fano流形满足ρ(ι−1)≤n；等号恰在流形为ρ个P^{ι−1}的乘积时成立。摘要表示这解决了该猜想。该结果若成立，将为Fano流形的分类与不变量关系提供统一约束。",
+    "keyPoints": [
+      "证明ρ(ι−1)≤n对正维光滑复Fano流形成立",
+      "等号情形恰为ρ个P^{ι−1}的乘积",
+      "涉及Picard数、伪指数与维数的关系"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

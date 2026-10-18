@@ -1,7 +1,7 @@
 {
   "id": "e005d35da0a22e24",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数几何",
   "title": "Schnell fiber spaces and good canonical models",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Schnell-fiber-spaces-and-good-canonical-models-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Campana–Peternell inequality $`\\kappa(X)\\geq\\kappa(D)`$ for a smooth connected projective complex variety X and an effective Cartier divisor D whenever $`m_0K_X-D`$ is pseudo-effective for some positive integer m0. For an algebraic fiber space $`f\\colon X\\to Y`$ between smooth connected projective complex varieties, the hypothesis that $`m_0K_X-f^*H`$ is pseudo-effective with H ample Cartier gives $`\\kappa(X)=\\kappa(F)+\\dim Y`$ for a very general smooth fiber F, as well as nonzero sections of $`mK_X-f^*H`$ for all sufficiently large divisible m.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Schnell fiber spaces and good canonical models",
+  "titleZh": "Schnell 纤维空间与良好典范模型",
+  "details": {
+    "overview": "稿件研究射影簇上的典范维数不等式。作者声称，对光滑连通射影复簇 X 与有效 Cartier 除子 D，若存在正整数 m0 使 m0K_X−D 伪有效，则 Campana–Peternell 不等式 κ(X)≥κ(D) 成立。摘要还表示，对光滑连通射影复簇间的代数纤维空间 f:X→Y，若 m0K_X−f^*H 伪有效（H 为丰沛 Cartier 除子），则对非常一般的光滑纤维 F 有 κ(X)=κ(F)+dim Y，且对所有充分大的可除 m，mK_X−f^*H 有非零截面。",
+    "keyPoints": [
+      "作者声称在 m0K_X−D 伪有效条件下证明 κ(X)≥κ(D)。",
+      "对代数纤维空间，在 m0K_X−f^*H 伪有效时得到 κ(X)=κ(F)+dim Y。",
+      "同一假设下，充分大可除 m 的 mK_X−f^*H 有非零截面。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

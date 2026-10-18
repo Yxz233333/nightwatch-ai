@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a separable real Banach space Z that contains no linear copy of c0, yet is bi-Lipschitz equivalent to $`Z\\oplus_\\infty c_0`$. The same space contains a bi-Lipschitz image of every separable metric space.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Bi-Lipschitz Absorption of c0 Without a Linear Copy of c0",
+  "titleZh": "不含c0线性拷贝的c0双Lipschitz吸收",
+  "details": {
+    "overview": "稿件构造了一个可分实Banach空间Z，它不含c0的线性拷贝，却与Z⊕_∞ c0双Lipschitz等价；同一空间还包含每个可分度量空间的双Lipschitz像。作者据此声称在非线性几何意义下c0可被“吸收”，而线性结构上并不包含c0。研究意义在于区分Banach空间的线性同构与双Lipschitz等价两类结构，并涉及可分度量空间的嵌入性质。",
+    "keyPoints": [
+      "构造可分实Banach空间Z，不含c0的线性拷贝",
+      "Z与Z⊕_∞ c0双Lipschitz等价",
+      "该空间包含每个可分度量空间的双Lipschitz像"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

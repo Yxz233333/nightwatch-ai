@@ -1,7 +1,7 @@
 {
   "id": "f69542b5fdca4fef",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何与拓扑",
   "title": "An integral scalar curvature bound for real simplicial volume",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/An-integral-scalar-curvature-bound-for-real-simplicial-volume-October-5-2026/v126-proof.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the integral scalar-curvature inequality proposed by Gromov. For every dimension n ≥ 3, there is a constant $`a_n\\gt 0`$, depending only on n, such that\n\n$`\\displaystyle \\int_M(\\mathop{\\mathrm{Scal}}\\nolimits _g^-)^{n/2}\\,dV_g\\ge a_n\\|M\\|`$\n\nfor every closed connected oriented smooth n-manifold M and every smooth Riemannian metric g. Here $`\\mathop{\\mathrm{Scal}}\\nolimits _g^-:=\\max\\{0,-\\mathop{\\mathrm{Scal}}\\nolimits _g\\}`$, and $`\\|M\\|`$ is real simplicial volume. The proof uses the nonnegative-scalar-curvature vanishing theorem of the companion paper on rational inessentiality.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An integral scalar curvature bound for real simplicial volume",
+  "titleZh": "实单纯体积的积分数量曲率下界",
+  "details": {
+    "overview": "稿件研究闭可定向光滑流形上数量曲率负部积分与实单纯体积的关系。摘要表示，作者证明了Gromov提出的积分数量曲率不等式：对每个维数n≥3，存在仅依赖n的常数a_n>0，使得任意闭连通可定向光滑n维流形M与任意光滑黎曼度量g满足∫_M(Scal_g^-)^{n/2}dV_g≥a_n‖M‖，其中Scal_g^-为负数量曲率部分，‖M‖为实单纯体积。证明使用了配套论文关于有理非本质性的非负数量曲率消灭定理。手稿尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "证明Gromov提出的积分数量曲率不等式，常数仅依赖维数。",
+      "不等式将负数量曲率积分与实单纯体积联系起来。",
+      "证明依赖配套论文的非负数量曲率消灭定理。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

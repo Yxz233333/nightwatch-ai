@@ -10,5 +10,16 @@
   "abstractEnglish": "We show that a fixed deterministic Turing machine with one writable tape and head can be simulated in $`O(T^{2/5}\\mathop{\\mathrm{polylog}}\\nolimits (T+2))`$ work-space bits when a binary time cap T ≥ 2 is supplied. The simulator computes the finite-control and halting outcome by time T; its running time is unrestricted. The result allows a fixed number of read-only input heads and requires a fixed accessor that supplies every initial writable and read-only symbol within distance T of the relevant head origin in polylogarithmic space. This improves the square-root space exponent for one-tape machines, answering Williams's question for this model.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Simulating One-Tape Time in Two-Fifths-Power Space",
+  "titleZh": "以五分之二次方空间模拟单带时间",
+  "details": {
+    "overview": "该稿件研究单可写带图灵机的时间模拟所需工作空间。作者声称：给定二进制时间上界T≥2，固定确定性单可写带图灵机可在O(T^{2/5}polylog(T+2))工作空间比特内模拟，模拟器计算有限控制与停机结果，运行时间不受限；允许固定数量只读输入头，并需固定访问器在对数多项式空间内提供相关头原点距离T内的初始符号。摘要称这改进单带机器的平方根空间指数，回答Williams在该模型的问题。意义在于降低模拟空间指数，但结果尚未经独立审查。",
+    "keyPoints": [
+      "作者声称单可写带图灵机可在O(T^{2/5}polylog(T+2))工作空间内模拟。",
+      "模拟器输出有限控制与停机结果，运行时间不受限制，并允许固定数量只读输入头。",
+      "摘要称该结果改进单带机器的平方根空间指数，回答Williams的问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

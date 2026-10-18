@@ -1,7 +1,7 @@
 {
   "id": "3224c04a8ddc8fd9",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数几何",
   "title": "P=W in composite rank for fixed determinant",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/P-equals-W-in-composite-rank-for-fixed-determinant-September-24-2026/P-equals-W-in-composite-rank-for-fixed-determinant-September-24-2026.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the P = W conjecture on the full rational cohomology of fixed-determinant, trace-free Higgs moduli spaces in composite rank and coprime degree, for smooth projective complex curves of genus at least two. Together with the established prime-rank cases, this gives the equality in every coprime rank.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "P=W in composite rank for fixed determinant",
+  "titleZh": "固定行列式下合数秩的P=W",
+  "details": {
+    "overview": "稿件研究亏格至少二的平滑射影复曲线上固定行列式、无迹Higgs模空间的全有理上同调。作者声称在合数秩且度互素情形证明P=W猜想；结合已确立的素数秩情形，得到所有互素秩下的等式。该结果涉及Higgs丛模空间与非阿贝尔Hodge理论中的P=W对应，摘要仅给出陈述，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为亏格≥2平滑射影复曲线上固定行列式无迹Higgs模空间的全有理上同调",
+      "作者声称在合数秩且度互素时证明P=W猜想",
+      "结合素数秩情形，声称所有互素秩下等式成立"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

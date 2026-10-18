@@ -9,5 +9,14 @@
   "status": "",
   "recommended": false,
   "recommendedOn": null,
+  "details": {
+    "overview": "该新闻称 Gemini 的 macOS 版本集成了 Antigravity 编程代理，用户可从聊天中发起代码与原型任务，代理在后台完成构建和测试。摘要未说明支持的模型、可用范围或任务类型限制。其意义在于把编程代理接入聊天入口，减少在工具间切换；但材料不足以评估构建质量、测试覆盖或实际可用性。",
+    "keyPoints": [
+      "Gemini macOS 版集成 Antigravity 编程代理。",
+      "用户可从聊天发起代码与原型任务。",
+      "代理在后台执行构建和测试。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

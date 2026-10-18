@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the strict hot spots conjecture for smooth bounded simply connected planar domains. More precisely, every nonzero eigenfunction for the first positive Neumann eigenvalue has nonvanishing gradient in the interior, so all its global maxima and minima lie on the boundary. This holds even when the eigenvalue is multiple.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Strict hot spots and absence of interior critical points on smooth simply connected planar domains",
+  "titleZh": "光滑单连通平面区域上的严格热点猜想与内部临界点缺失",
+  "details": {
+    "overview": "稿件研究光滑有界单连通平面区域上Neumann特征值问题。作者声称证明了严格热点猜想：第一正Neumann特征值的每个非零特征函数在内部梯度非零，因此其全局最大值与最小值均位于边界；即使特征值重根时也成立。摘要表示这解决了该光滑区域类中的严格热点猜想。该结果若成立，将为热传导中的热点位置问题提供严格数学结论。",
+    "keyPoints": [
+      "证明光滑有界单连通平面区域的严格热点猜想",
+      "第一正Neumann特征函数内部梯度非零",
+      "全局极值均在边界，重特征值情形也成立"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

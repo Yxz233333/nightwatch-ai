@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove an exact variational formula for the limiting pressure of the spherical random perceptron with an arbitrary bounded continuous single-pattern potential. The formula holds at every fixed positive density and inverse temperature, with convergence in expectation and in probability.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The free energy of the spherical random perceptron",
+  "titleZh": "球面随机感知机的自由能",
+  "details": {
+    "overview": "稿件研究球面随机感知机模型，摘要声称对任意有界连续单模式势，证明了极限压力的精确变分公式。该公式在每个固定正密度和逆温度下成立，并具有依期望与依概率收敛。研究属于随机感知机与统计物理的概率分析；材料未说明证明方法、模型参数范围之外的假设或与已有文献的关系。",
+    "keyPoints": [
+      "研究对象为带任意有界连续单模式势的球面随机感知机。",
+      "给出极限压力的精确变分公式。",
+      "在固定正密度和逆温度下证明依期望与依概率收敛。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

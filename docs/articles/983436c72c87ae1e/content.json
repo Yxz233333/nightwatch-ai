@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the sharp Penrose inequality for three-dimensional maximal asymptotically hyperbolic initial data with spherical conformal infinity. Under the dominant energy condition, the stated decay and integrability assumptions, and a future-timelike mass covector, the invariant mass is bounded below by the Schwarzschild–anti-de Sitter mass associated with the minimum enclosing area of a weakly future outer-trapped boundary. The boundary may be disconnected, and no restriction is imposed on the compact topology.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Penrose inequality for maximal asymptotically hyperbolic initial data",
+  "titleZh": "极大渐近双曲初始数据的 Penrose 不等式",
+  "details": {
+    "overview": "该稿件证明三维极大渐近双曲初始数据在球面共形无穷远下的尖锐 Penrose 不等式。在主导能量条件、所述衰减与可积性假设以及未来类时质量余向量条件下，作者声称不变量质量下界由弱未来外陷边界的最小包围面积对应的 Schwarzschild–anti-de Sitter 质量给出。边界可以非连通，且对紧拓扑不加限制。",
+    "keyPoints": [
+      "证明球面共形无穷远下三维极大渐近双曲初始数据的尖锐 Penrose 不等式。",
+      "质量下界由弱未来外陷边界最小包围面积对应的 Schwarzschild–anti-de Sitter 质量给出。",
+      "边界可非连通，紧拓扑不受限制。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

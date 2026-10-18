@@ -1,7 +1,7 @@
 {
   "id": "eb2a80662b96aac9",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数几何",
   "title": "Virasoro Constraints under Projectivization",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Virasoro-Constraints-under-Projectivization-October-5-2026/virasoro-constraints-under-projectivization.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that full ordinary descendant Virasoro constraints pass from a smooth projective complex base to the projectivization of any algebraic vector bundle of rank at least two. The bundle need not split and satisfies no positivity requirement. Assuming the full constraints on the base, the conclusion includes every genus, each individual integral curve class, and all cohomology insertions, including primitive and odd classes. The result also applies successively to towers of projective bundles.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Virasoro Constraints under Projectivization",
+  "titleZh": "射影化下的Virasoro约束",
+  "details": {
+    "overview": "稿件研究Virasoro约束在射影丛上的传递性。摘要表示，作者证明完整的普通后代Virasoro约束可从光滑射影复基空间传递到任意秩至少为二的代数向量丛的射影化，且该丛无需可分裂、无需满足任何正性条件。在假设基空间满足完整约束的前提下，结论涵盖每个亏格、每个单独积分曲线类以及所有上同调插入，包括本原类与奇类。结果还可逐次应用于射影丛塔。手稿尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "证明Virasoro约束从基空间传递到秩至少二的向量丛射影化。",
+      "丛无需可分裂，也不要求正性条件。",
+      "结论涵盖所有亏格、曲线类与上同调插入，并可迭代到丛塔。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

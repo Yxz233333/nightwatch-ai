@@ -10,5 +10,16 @@
   "abstractEnglish": "We give a direct proof of the sharp constant-two numerical-range inequality for matrix-valued polynomials in all finite base and coefficient dimensions. This resolves the complete Crouzeix conjecture in its matrix formulation, including matrices whose numerical ranges are points or line segments.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A direct proof of the complete Crouzeix inequality",
+  "titleZh": "完全Crouzeix不等式的一个直接证明",
+  "details": {
+    "overview": "稿件对所有有限基维与系数维的矩阵值多项式给出数值域常数二不等式的直接证明，作者声称这解决了矩阵形式的完全Crouzeix猜想，包括数值域为点或线段的矩阵情形。研究对象是矩阵多项式在数值域上的算子范数界，结果若成立将为数值域与算子理论中的常数二问题提供统一处理。",
+    "keyPoints": [
+      "对所有有限维矩阵值多项式证明常数二数值域不等式",
+      "声称解决矩阵形式的完全Crouzeix猜想",
+      "涵盖数值域为点或线段的矩阵情形"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct smooth external forces for incompressible Navier–Stokes flow on a fixed flat three-torus at any fixed positive computable viscosity, from zero initial velocity, such that a fixed particle enters a fixed open set exactly when a prescribed Turing machine halts. Every mixed derivative of the force and velocity is bounded and square-integrable in time in spatial supremum norm. The construction uses the machine's ordinary instructions, records their history in a third coordinate, and compensates for finer spatial gates by longer time steps.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Fixed Particle Test for Computation in a Forced Viscous Flow",
+  "titleZh": "受迫黏性流中计算的一个固定粒子检验",
+  "details": {
+    "overview": "该稿件在固定平坦三维环面上、任意固定正可计算黏度下，从零初始速度构造光滑外力，使不可压缩纳维–斯托克斯流中的固定粒子恰在给定图灵机停机时进入固定开集。摘要表示，外力与速度的每个混合导数在空间上确界范数下有界且时间平方可积；构造使用机器的普通指令，在第三坐标记录其历史，并以更长的时间步补偿更细的空间门。",
+    "keyPoints": [
+      "构造光滑外力使固定粒子进入开集当且仅当给定图灵机停机。",
+      "外力与速度的混合导数有界且时间平方可积。",
+      "用第三坐标记录指令历史，以更长时间步补偿更细空间门。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "245ca8a17f16806f",
   "section": "papers",
-  "category": "组合数学与图论",
+  "category": "算法与复杂度",
   "title": "An Almost-Linear Approximation Scheme for Edit Distance",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/An-Almost-Linear-Approximation-Scheme-for-Edit-Distance-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We give a uniform randomized approximation scheme for unit-cost edit distance. For every fixed rational $`\\varepsilon\\in(0,1)`$, it estimates the distance between arbitrary explicitly stored strings of total length N within a factor $`1+\\varepsilon`$ with probability at least 2/3, in worst-case expected time $`N^{1+o(1)}`$ on a logarithmic-word RAM. The algorithm supports polynomially bounded integer alphabets and returns zero deterministically on equal strings.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An Almost-Linear Approximation Scheme for Edit Distance",
+  "titleZh": "编辑距离的近似线性时间近似方案",
+  "details": {
+    "overview": "稿件研究单位代价编辑距离的近似计算。摘要声称对每个固定有理数ε∈(0,1)，可在对数词RAM上以最坏情形期望时间N^{1+o(1)}，以至少2/3的概率给出总长N的任意显式存储字符串间距离的1+ε近似。算法支持多项式有界整数字母表，并在字符串相等时确定性返回零。该结果属于字符串算法与细粒度复杂度方向；材料未给出技术细节或实验评估。",
+    "keyPoints": [
+      "对固定ε给出单位代价编辑距离的1+ε随机近似方案。",
+      "最坏情形期望时间为N^{1+o(1)}，成功概率至少2/3。",
+      "支持多项式有界整数字母表，相等字符串确定性返回零。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

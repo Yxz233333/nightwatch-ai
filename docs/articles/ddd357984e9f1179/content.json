@@ -1,7 +1,7 @@
 {
   "id": "ddd357984e9f1179",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数学物理",
   "title": "Ground-state condensation in the dilute hard-sphere gas",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Ground-state-condensation-in-the-dilute-hard-sphere-gas-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove Bose–Einstein condensation in every ground state of a dilute three-dimensional hard-sphere Bose gas. At every sufficiently small fixed gas parameter, the constant orbital contains a positive fraction of the particles in the thermodynamic limit. The fraction can be chosen independently of the gas parameter, and the conclusion holds for arbitrary complex ground states.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Ground-state condensation in the dilute hard-sphere gas",
+  "titleZh": "稀薄硬球气体中的基态凝聚",
+  "details": {
+    "overview": "稿件研究稀薄三维硬球玻色气体的基态性质。作者声称证明该气体每个基态都发生玻色–爱因斯坦凝聚：在每个足够小的固定气体参数下，热力学极限中常数轨道含有正比例的粒子。摘要还表示，该比例可选取为与气体参数无关，且结论对任意复基态成立。",
+    "keyPoints": [
+      "作者声称稀薄三维硬球玻色气体的每个基态都发生玻色–爱因斯坦凝聚。",
+      "每个足够小固定气体参数下，常数轨道在热力学极限含正比例粒子。",
+      "该比例可与气体参数无关，结论对任意复基态成立。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "506a4785197ba715",
   "section": "papers",
-  "category": "数学论文",
+  "category": "计算复杂性",
   "title": "A Direct Proof of Optimal Max-Cut Hardness",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-Direct-Proof-of-Optimal-Max-Cut-Hardness-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that approximating Max-Cut on simple unweighted graphs within any fixed factor greater than the Goemans–Williamson constant is NP-hard.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Direct Proof of Optimal Max-Cut Hardness",
+  "titleZh": "最优Max-Cut硬度的直接证明",
+  "details": {
+    "overview": "稿件研究简单无权图上Max-Cut的近似硬度。作者声称证明：将Max-Cut近似到任何大于Goemans–Williamson常数的固定因子都是NP困难的。该结论若成立，将以直接证明方式确立Max-Cut的最优近似阈值，属于组合优化与计算复杂性中的经典问题；但作为AI产生的研究手稿，尚未经独立审查或同行评议，摘要也未给出归约或证明细节。",
+    "keyPoints": [
+      "研究对象为简单无权图上的Max-Cut近似",
+      "作者声称任何大于Goemans–Williamson常数的固定因子均NP困难",
+      "摘要称给出直接证明，未展开归约细节"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "6b541a087174fce9",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论",
   "title": "Thermal FK–Ising interfaces and massive SLE",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Thermal-FK-Ising-interfaces-and-massive-SLE-October-5-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove convergence of thermal FK–Ising interfaces, for every fixed nonzero mass of either sign, on uniformly angle-bounded isoradial lattices in bounded simply connected domains. The limit is independent of the lattice and the admissible domain approximation. For positive mass it is the unique massive SLE$`_{16/3}`$ law with locally finite-energy drift prescribed by a massive boundary value problem; negative mass follows by duality and reversal. The theorem also allows Carathéodory approximations whose diameters diverge.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Thermal FK–Ising interfaces and massive SLE",
+  "titleZh": "热FK–Ising界面与有质量SLE",
+  "details": {
+    "overview": "稿件研究热FK–Ising界面在有界单连通区域中一致角有界等径向格点上的标度极限。作者声称对每个固定非零质量（正或负）证明界面收敛，极限不依赖格点与容许区域逼近。正质量时极限为唯一的有质量SLE_{16/3}律，其局部有限能量漂移由有质量边值问题确定；负质量由对偶与反转得到。定理还允许直径发散的Carathéodory逼近。",
+    "keyPoints": [
+      "证明热FK–Ising界面在等径向格点上收敛到与格点无关的极限",
+      "正质量极限为唯一有质量SLE_{16/3}律，漂移由有质量边值问题确定",
+      "负质量由对偶与反转得到；允许直径发散的Carathéodory逼近"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

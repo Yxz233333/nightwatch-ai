@@ -1,7 +1,7 @@
 {
   "id": "b5151f21489a7d95",
   "section": "papers",
-  "category": "数论与算术几何",
+  "category": "图论与组合数学",
   "title": "The crossing number of complete graphs",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-crossing-number-of-complete-graphs-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Harary–Hill conjecture: for every positive integer n, the ordinary crossing number of the complete graph Kn is\n\n$`\\displaystyle \\frac14\\left\\lfloor\\frac n2\\right\\rfloor \\left\\lfloor\\frac{n-1}{2}\\right\\rfloor \\left\\lfloor\\frac{n-2}{2}\\right\\rfloor \\left\\lfloor\\frac{n-3}{2}\\right\\rfloor.`$",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The crossing number of complete graphs",
+  "titleZh": "完全图的交叉数",
+  "details": {
+    "overview": "该稿件声称证明了Harary–Hill猜想：对每个正整数n，完全图Kn的普通交叉数等于四分之一乘以⌊n/2⌋、⌊(n-1)/2⌋、⌊(n-2)/2⌋、⌊(n-3)/2⌋的连乘积。摘要仅给出这一公式，未说明证明方法或验证细节。若成立，将为图论中完全图交叉数这一长期问题给出统一闭式答案。需注意这是AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "稿件声称证明Harary–Hill猜想，给出完全图Kn交叉数的闭式公式。",
+      "公式为⌊n/2⌋⌊(n-1)/2⌋⌊(n-2)/2⌋⌊(n-3)/2⌋的四分之一。",
+      "摘要未提供证明思路或独立验证信息。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

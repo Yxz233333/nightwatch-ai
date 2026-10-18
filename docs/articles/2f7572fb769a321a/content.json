@@ -1,7 +1,7 @@
 {
   "id": "2f7572fb769a321a",
   "section": "papers",
-  "category": "数学论文",
+  "category": "群论",
   "title": "An infinite finitely presented residually finite 2-group",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/An-infinite-finitely-presented-residually-finite-2-group-October-5-2026/residually-finite-torsion.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the infinite, ordinarily finitely presented periodic Steinberg group $`\\Gamma=\\mathop{\\mathrm{St}}\\nolimits _{12}(R)`$ of a companion paper is residually finite. Its finite-index subgroup $`G=\\ker(\\Gamma\\to\\mathop{\\mathrm{St}}\\nolimits _{12}(\\mathbb F_2))`$ is infinite, ordinarily finitely presented, and residually finite, and every element of G has finite 2-power order. The orders of its elements are unbounded. Phases of long words in the companion's graded algebra allow finite degree truncations to detect all elements of Γ, including the central kernel.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An infinite finitely presented residually finite 2-group",
+  "titleZh": "一个无限有限呈示的剩余有限2-群",
+  "details": {
+    "overview": "稿件证明配套论文中无限、通常有限呈示的周期Steinberg群Γ=St₁₂(R)是剩余有限的。其有限指数子群G=ker(Γ→St₁₂(F₂))无限、通常有限呈示且剩余有限，每个元素具有有限2幂阶，且元素阶无界。作者称配套分次代数中长字的分阶段使有限次截断能检测Γ的所有元素，包括中心核。该结果回应无限周期群是否存在有限呈示的问题，但手稿未经独立审查。",
+    "keyPoints": [
+      "证明周期Steinberg群St₁₂(R)剩余有限。",
+      "子群G无限、通常有限呈示、剩余有限，元素阶为2的幂且无界。",
+      "用分次代数中长字分阶段与有限次截断检测全部元素。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

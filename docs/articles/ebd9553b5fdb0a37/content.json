@@ -10,5 +10,16 @@
   "abstractEnglish": "For the Thorp shuffle on $`2^d`$ cards, we prove that the worst-start total-variation distance after $`32800d`$ physical shuffles tends to zero as $`d\\to\\infty`$. Combining our fixed-list estimate with the companion Fourier transfer improves this bound to $`512d`$ shuffles. These results follow from bounds on partially observed permutation laws in random coordinate frames.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Random coordinate frames and partial permutation laws",
+  "titleZh": "随机坐标标架与部分置换律",
+  "details": {
+    "overview": "稿件研究 2^d 张牌上的 Thorp 洗牌。摘要表示，作者证明最坏初始分布下，经过 32800d 次物理洗牌后总变差距离随 d 趋于无穷而趋于零；结合固定列表估计与伴随傅里叶转移，可将界改进为 512d 次洗牌。这些结果来自随机坐标标架中部分观测置换律的界。研究意义在于为 Thorp 洗牌的混合时间提供显式线性于 d 的上界。",
+    "keyPoints": [
+      "证明 32800d 次物理洗牌后最坏总变差距离趋于零。",
+      "结合固定列表估计与傅里叶转移将界改进至 512d。",
+      "核心工具是随机坐标标架中部分观测置换律的界。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

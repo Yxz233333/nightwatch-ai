@@ -10,5 +10,16 @@
   "abstractEnglish": "We resolve the symmetric Mahler conjecture positively, including its equality classification. Every origin-symmetric convex body in ℝn has volume product at least $`4^n/n!`$, with equality exactly for invertible linear images of Hanner polytopes.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The symmetric Mahler conjecture and its equality cases",
+  "titleZh": "对称 Mahler 猜想及其等号情形",
+  "details": {
+    "overview": "稿件声称正面解决对称 Mahler 猜想并完成等号分类：任意原点对称凸体在 R^n 中的体积积至少为 4^n/n!，等号恰在 Hanner 多面体的可逆线性像处取得。摘要只给出结论与等号刻画，未展开证明。该结果针对凸几何中对称体积积的经典猜想，作者声称同时给出下界与等号情形。",
+    "keyPoints": [
+      "声称原点对称凸体体积积下界为 4^n/n!",
+      "等号恰为 Hanner 多面体的可逆线性像",
+      "摘要未提供证明细节"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

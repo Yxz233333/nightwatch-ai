@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that constant-depth quantum circuits with arbitrary one-qubit and unbounded-arity Toffoli gates cannot compute parity with any fixed positive worst-case advantage using polynomially many qubits. Ancillas start in zero, only one output qubit is measured, and all final garbage is unrestricted. This resolves Moore's parity conjecture in the measured-output model.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Product-projection localization and the QAC0 parity lower bound",
+  "titleZh": "乘积投影局域化与QAC0奇偶性下界",
+  "details": {
+    "overview": "稿件研究常量深度量子电路的计算能力下界。摘要表示，作者证明带任意单量子比特门和无界元Toffoli门的常量深度量子电路，在使用多项式多个量子比特时，不能以任何固定正最坏情形优势计算奇偶性；辅助比特从零开始，只测量一个输出比特，最终垃圾不受限制。作者称这解决了测量输出模型下Moore的奇偶性猜想。手稿为AI产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "证明常量深度量子电路加无界元Toffoli门无法以固定正优势计算奇偶性。",
+      "模型限定辅助比特初态为零、仅测一个输出比特。",
+      "作者声称解决测量输出模型下Moore的奇偶性猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

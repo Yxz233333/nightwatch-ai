@@ -10,5 +10,16 @@
   "abstractEnglish": "At any fixed positive computable viscosity, smooth forces can make a fixed fluid particle detect the halting of an arbitrary machine, starting from rest, while every mixed derivative of the force and velocity decreases faster than every inverse power of time. We give three complete memory constructions: compact moving curls, alternating fractional coordinates, and a periodic lattice on the flat three-torus. Each machine step takes one unit of physical time. The constructions retain earlier records at separated spatial scales and use an exact open detector with a shrinking signal.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Computation under Rapidly Vanishing Navier–Stokes Forcing",
+  "titleZh": "快速衰减Navier–Stokes强迫下的计算",
+  "details": {
+    "overview": "稿件研究在固定正可计算黏性下，光滑外力能否使固定流体质点从静止开始检测任意图灵机的停机。作者声称构造了三种完整记忆方案：紧致移动旋度、交替分数坐标及平坦三维环面上的周期格点，使每个机器步占一单位物理时间，且力与速度的所有混合导数比任意时间负幂衰减更快。构造在分离空间尺度上保留记录，并使用精确开放检测器与收缩信号。",
+    "keyPoints": [
+      "构造光滑外力使固定流体质点检测任意图灵机停机。",
+      "力与速度的所有混合导数比任意时间负幂衰减更快。",
+      "给出三种记忆构造，每机器步占一单位物理时间。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "a7915b35e8d54a46",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数几何",
   "title": "Lifting sections from the reduced support of an adjoint",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Lifting-sections-from-the-reduced-support-of-an-adjoint-September-27-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For a projective ℚ-factorial dlt pair with effective rational boundary over an algebraically closed field of characteristic zero, we prove that the adjoint has positive Iitaka dimension whenever a nonzero effective Cartier multiple is supported on the coefficient-one boundary and restricts to a semiample line bundle on its whole reduced support. This gives log abundance after nonvanishing in dimension at most four over ℂ.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Lifting sections from the reduced support of an adjoint",
+  "titleZh": "从伴随的约化支撑提升截面",
+  "details": {
+    "overview": "稿件研究代数闭域上特征零的射影ℚ-分解dlt对，边界为有效有理系数。作者声称：若伴随的一个非零有效Cartier倍子被系数一边界支撑，且在其整个约化支撑上限制为半丰沛线丛，则伴随具有正Iitaka维数。由此在复维数至多四时，非消没后可得对数丰沛性。该结果将丰沛性判定与边界线丛的半丰沛性联系起来，为高维双有理几何中的对数丰沛性猜想提供新途径。",
+    "keyPoints": [
+      "研究对象为射影ℚ-分解dlt对，边界有效有理，基域特征零。",
+      "作者声称在边界Cartier倍子半丰沛条件下，伴随Iitaka维数为正。",
+      "推论：复维数≤4时，非消没后可得对数丰沛性。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

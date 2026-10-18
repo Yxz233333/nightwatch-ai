@@ -10,5 +10,16 @@
   "abstractEnglish": "For normal projective log canonical pairs over algebraically closed fields of characteristic zero, of fixed dimension d ≥ 5 and with effective boundary coefficients in a fixed finite rational set, we prove that one complete rounded pluricanonical system generates the full Iitaka field whenever the ℚ-Cartier log canonical divisor has nonnegative Kodaira dimension. Its degree depends only on the dimension and coefficient set. For the paper's normalized canonical bundle formulae over ℂ, we also bound the Cartier denominators of the moduli divisors on smooth projective determining models in terms of the dimension and coefficient set.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Uniform log Iitaka fibrations and bounded moduli denominators",
+  "titleZh": "一致对数Iitaka纤维化与有界模分母",
+  "details": {
+    "overview": "稿件研究特征零代数闭域上固定维数d≥5、边界系数取自固定有限有理集的法射影对数典范对。摘要称证明：当ℚ-Cartier对数典范除子具有非负Kodaira维数时，一个完整的取整多重典范系统生成整个Iitaka域，其次数仅依赖维数与系数集。对文中在ℂ上的规范化典范丛公式，作者还以维数与系数集界定了光滑射影判定模型上模除子的Cartier分母。这是AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "对d≥5、系数集固定的对数典范对证明一致Iitaka生成。",
+      "生成系统的次数仅依赖维数与边界系数集。",
+      "另给出模除子Cartier分母的维数与系数集界。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

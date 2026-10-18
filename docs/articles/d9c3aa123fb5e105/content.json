@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every bounded complex-linear unital algebra homomorphism from a unital complex C∗-algebra into the bounded operators on an arbitrary Hilbert space is similar to a $`*`$-homomorphism. This resolves Kadison's similarity conjecture positively. We also obtain one universal hyperreflexivity constant for all unital von Neumann algebras on arbitrary complex Hilbert spaces.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Kadison's similarity theorem through uniform derivation estimates",
+  "titleZh": "通过一致导子估计证明Kadison相似定理",
+  "details": {
+    "overview": "稿件研究C∗-代数到任意Hilbert空间上有界算子的有界复线性单位代数同态。作者声称证明每个这样的同态都相似于一个∗-同态，从而肯定解决Kadison相似猜想。摘要还表示，对所有任意复Hilbert空间上的单位von Neumann代数，得到一个统一的超自反常数。该结果若成立，将把Kadison相似性问题与一致导子估计、超自反性联系起来。需注意这是AI产生的手稿，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "作者声称C∗-代数到有界算子的单位代数同态均相似于∗-同态。",
+      "由此肯定解决Kadison相似猜想。",
+      "另对所有单位von Neumann代数得到统一超自反常数。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

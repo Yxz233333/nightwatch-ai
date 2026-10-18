@@ -1,7 +1,7 @@
 {
   "id": "90135e989df23c65",
   "section": "papers",
-  "category": "代数几何",
+  "category": "群论与群代数",
   "title": "A Torsion-Free Group Algebra That Is Not Directly Finite",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-Torsion-Free-Group-Algebra-That-Is-Not-Directly-Finite-October-4-2026/direct-finiteness.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a finitely presented torsion-free counterexample to Kaplansky's direct finiteness conjecture over the field of two elements. The group admits a finite two-dimensional classifying complex.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Torsion-Free Group Algebra That Is Not Directly Finite",
+  "titleZh": "一个非直接有限的無挠群代数",
+  "details": {
+    "overview": "稿件研究Kaplansky直接有限性猜想在二元域上的情形。摘要声称构造一个有限表示的无挠群，作为该猜想在𝔽₂上的反例，即其群代数不是直接有限的；该群还容许一个有限二维分类复形。研究意义在于给出无挠群代数直接有限性猜想的反例，涉及群代数与群论性质之间的关系。",
+    "keyPoints": [
+      "构造有限表示无挠群作为Kaplansky直接有限性猜想反例",
+      "反例针对二元域上的群代数",
+      "该群容许有限二维分类复形"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "For each fixed bounded measurable, nonnegative, radial interaction of finite range in three dimensions that is not zero almost everywhere, we prove a positive lower bound on the constant-orbital condensate fraction that is uniform over all sufficiently small densities and all temperatures between zero and the square of the density. The interaction and density remain fixed in the thermodynamic limit.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A density-uniform condensate bound for dilute Bose gases",
+  "titleZh": "稀薄玻色气体的密度一致凝聚体界",
+  "details": {
+    "overview": "该稿件研究三维中有限程、有界可测、非负、径向且不几乎处处为零的固定相互作用。摘要表示，作者证明常数轨道凝聚体份额存在正下界，该下界在所有足够小的密度以及零到密度平方之间的所有温度上一致；在热力学极限中相互作用与密度保持固定。",
+    "keyPoints": [
+      "针对三维有限程非负径向固定相互作用研究稀薄玻色气体。",
+      "作者证明常数轨道凝聚体份额存在正下界。",
+      "该下界对足够小密度及零到密度平方间温度一致。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

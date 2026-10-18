@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the chromatic quasisymmetric function of every natural unit interval graph is elementary-positive over $`\\mathbb N[q]`$. This resolves the elementary-positivity part of the Shareshian–Wachs conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Elementary positivity of chromatic quasisymmetric functions",
+  "titleZh": "色拟对称函数的初等正性",
+  "details": {
+    "overview": "该稿件研究自然单位区间图的色拟对称函数。作者声称证明每个自然单位区间图的色拟对称函数在N[q]上是初等正的，即其初等基展开系数为非负整数。摘要称这解决了Shareshian–Wachs猜想的初等正性部分。若成立，将推进色拟对称函数正性研究与对称函数理论中的相关猜想。",
+    "keyPoints": [
+      "作者声称自然单位区间图的色拟对称函数在N[q]上初等正。",
+      "结果对应Shareshian–Wachs猜想的初等正性部分。",
+      "研究对象为自然单位区间图及其色拟对称函数。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

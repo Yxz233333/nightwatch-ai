@@ -1,7 +1,7 @@
 {
   "id": "94ccd8e223b1f0de",
   "section": "papers",
-  "category": "数学论文",
+  "category": "凸几何与离散几何",
   "title": "A single-lattice covering bound of order n log n",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-single-lattice-covering-bound-of-order-n-log-n-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "Every convex body in ℝn, n ≥ 2, admits a covering by translates along one full-rank lattice with density at most $`Cn\\log n`$, for an absolute constant C. No symmetry or boundary regularity is assumed.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A single-lattice covering bound of order n log n",
+  "titleZh": "n log n阶的单格覆盖界",
+  "details": {
+    "overview": "稿件研究ℝⁿ中凸体的格覆盖问题。摘要称对任意n≥2的凸体，存在沿一个满秩格平移的覆盖，密度至多Cn log n，其中C为绝对常数；不假设对称性或边界正则性。该结果给出单格覆盖密度的一个阶为n log n的上界。材料仅见摘要，未说明常数取值、证明方法或与已有界的比较细节。",
+    "keyPoints": [
+      "任意ℝⁿ凸体可沿一个满秩格平移覆盖。",
+      "覆盖密度上界为Cn log n，C为绝对常数。",
+      "不假设凸体对称性或边界正则性。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

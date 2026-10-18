@@ -1,7 +1,7 @@
 {
   "id": "2f25c962aa5901dd",
   "section": "papers",
-  "category": "数学论文",
+  "category": "算法与复杂性",
   "title": "The approximation threshold for metric k-median",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-Approximation-Threshold-for-Metric-k-Median-September-24-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For every fixed ε > 0, we give a deterministic polynomial-time $`(1+2/e+\\varepsilon)`$-approximation for finite rational metric k-median with specified candidate facilities, opening at most k facilities. Under $`P\\ne NP`$, the infimum approximation factor in this model is therefore $`1+2/e`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The approximation threshold for metric k-median",
+  "titleZh": "度量k-中位问题的近似阈值",
+  "details": {
+    "overview": "稿件研究带指定候选设施、至多开设k个设施的有限有理度量k-中位问题。作者声称：对每个固定ε>0，给出确定性多项式时间(1+2/e+ε)-近似算法；因此在P≠NP下，该模型中的近似因子下确界为1+2/e。该结果刻画了该模型的可近似阈值，摘要未给出算法与下界证明细节，稿件尚未经独立审查。",
+    "keyPoints": [
+      "研究对象为带指定候选设施、至多开设k个设施的有限有理度量k-中位",
+      "作者声称对每个固定ε>0给出确定性多项式时间(1+2/e+ε)-近似",
+      "在P≠NP下，该模型近似因子下确界为1+2/e"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

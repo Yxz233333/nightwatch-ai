@@ -1,7 +1,7 @@
 {
   "id": "b0cee3c9a27a7970",
   "section": "papers",
-  "category": "数学论文",
+  "category": "巴拿赫空间几何",
   "title": "Midpoint convexity from bounded tree potentials and path costs",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Midpoint-convexity-from-bounded-tree-potentials-and-path-costs-September-27-2026/manuscript.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "Four real Banach spaces defined by bounded tree potentials satisfy the averaged asymptotic midpoint bound $`\\widehat\\delta(t)\\ge\\sqrt{1+t^2/4}-1`$ for $`0\\lt t\\lt 1`$, while none admits an asymptotically uniformly convex (AUC) renorming. On finite-height trees, the globally constrained norm equals the least additive cost of a Hilbert vector and root paths. The quadratic path and segment-start outer Hilbert sums are reflexive and asymptotically midpoint uniformly convex, and admit no equivalent AUC norm.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Midpoint convexity from bounded tree potentials and path costs",
+  "titleZh": "有界树势与路径代价导出的中点凸性",
+  "details": {
+    "overview": "稿件研究由有界树势定义的四个实Banach空间，作者声称它们满足平均渐近中点界δ̂(t)≥√(1+t²/4)−1（0<t<1），但均不存在等价渐近一致凸（AUC）重范数。在有限高度树上，全局约束范数等于Hilbert向量与根路径的最小加性代价；二次路径与线段起点外Hilbert和自反且渐近中点一致凸，也无等价AUC范数。摘要未给证明细节，结论待独立审查。",
+    "keyPoints": [
+      "四个由有界树势定义的实Banach空间满足平均渐近中点下界",
+      "这些空间均不存在等价渐近一致凸（AUC）重范数",
+      "有限高度树上全局约束范数等于Hilbert向量与根路径的最小加性代价"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

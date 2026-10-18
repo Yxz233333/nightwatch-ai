@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Kollár–Pardon conjecture: the universal cover of a connected normal projective complex variety is biholomorphic to a semialgebraic open subset of a projective variety if and only if it is a product of a bounded symmetric domain, a complex affine space, and a simply connected normal projective variety.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Semialgebraic universal covers of normal projective varieties",
+  "titleZh": "正规射影簇的半代数万有覆盖",
+  "details": {
+    "overview": "该稿件研究连通正规射影复簇的万有覆盖。作者声称证明Kollár–Pardon猜想：万有覆盖双全纯于某个射影簇的半代数开子集，当且仅当它是有界对称域、复仿射空间与单连通正规射影簇的乘积。若成立，将刻画这类万有覆盖的半代数性，并给出其结构分解。",
+    "keyPoints": [
+      "研究连通正规射影复簇万有覆盖的半代数性。",
+      "作者声称证明Kollár–Pardon猜想，给出双全纯等价条件。",
+      "结构分解为有界对称域、复仿射空间与单连通正规射影簇之积。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

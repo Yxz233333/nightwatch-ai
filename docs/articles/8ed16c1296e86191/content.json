@@ -10,5 +10,15 @@
   "abstractEnglish": "We prove that the minimum possible maximum modulus on the unit circle of a polynomial with N consecutive real coefficients in $`\\{-1,1\\}`$ is $`(1+o(1))\\sqrt N`$, as N tends to infinity through all integers. This disproves the real-sign analogue of Erdős's fixed relative-gap conjecture. As a consequence, the largest binary merit factor at length N tends to infinity through all integer lengths, disproving Turyn's conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Asymptotically minimal maxima of real Littlewood polynomials",
+  "titleZh": "实Littlewood多项式的渐近极小极大值",
+  "details": {
+    "overview": "稿件研究具有N个连续实系数（取值于{-1,1}）的多项式在单位圆上的最大模，证明其最小可能值当N趋于无穷时渐近为(1+o(1))√N。摘要表示，这否定了Erdős固定相对间隙猜想的实符号类比，并推出最大二进制优值因子随长度趋于无穷，从而否定Turyn猜想。该工作涉及多项式极值问题与组合设计。",
+    "keyPoints": [
+      "证明最小最大模渐近为√N，否定Erdős猜想的实符号版本。",
+      "推出最大二进制优值因子趋于无穷，否定Turyn猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

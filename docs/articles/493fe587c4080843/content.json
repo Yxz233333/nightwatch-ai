@@ -1,7 +1,7 @@
 {
   "id": "493fe587c4080843",
   "section": "papers",
-  "category": "数学论文",
+  "category": "复几何",
   "title": "A surface counterexample to Shafarevich holomorphic convexity",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-surface-counterexample-to-Shafarevich-holomorphic-convexity-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a smooth connected projective complex surface whose universal cover is not holomorphically convex. This disproves the Shafarevich conjecture on holomorphic convexity in complex dimension two.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A surface counterexample to Shafarevich holomorphic convexity",
+  "titleZh": "Shafarevich全纯凸性的一则曲面反例",
+  "details": {
+    "overview": "该稿件研究复曲面万有覆叠的全纯凸性。作者声称构造了一个光滑连通射影复曲面，其万有覆叠不是全纯凸的，从而在复维数二否定Shafarevich关于全纯凸性的猜想。该结果若成立，将给出该猜想的反例。但手稿为AI产生，收录不表示已完成独立审查或同行评议，结论尚待独立验证。",
+    "keyPoints": [
+      "作者声称构造光滑连通射影复曲面，其万有覆叠非全纯凸。",
+      "该构造在复维数二否定Shafarevich全纯凸性猜想。",
+      "手稿为AI产生，未经独立审查或同行评议。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

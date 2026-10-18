@@ -10,5 +10,16 @@
   "abstractEnglish": "Let Y be smooth projective and let C be an effective integral divisor. If $`-K_Y+C`$ admits a metric with a global strict curvature lower bound for which the canonical section of C is locally square integrable, every pseudoeffective rational divisor becomes rationally effective after an effective correction supported on C. For a smooth projective X with smoothly semipositive $`L=-K_X`$, sections of $`m_jL-P`$ at unbounded positive exponents, with any fixed pseudoeffective Cartier error P, yield a section of a positive multiple of L.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Integrable metrics and effectivity with controlled boundary",
+  "titleZh": "具受控边界的可积度量与有效性",
+  "details": {
+    "overview": "稿件设Y光滑射影、C为有效整除子，若-K_Y+C具有全局严格曲率下界度量且C的典范截面局部平方可积，则每个伪有效有理除子在支撑于C的有效修正后变为有理有效。对光滑射影X与光滑半正L=-K_X，作者声称在无界正指数下m_jL-P的截面（P为任意固定伪有效Cartier误差）可给出L正倍数的截面。研究涉及可积度量与代数有效性的联系。",
+    "keyPoints": [
+      "在-K_Y+C具严格曲率下界且典范截面局部平方可积时讨论有效性",
+      "伪有效有理除子在支撑于C的有效修正后有理有效",
+      "由m_jL-P的截面得到L正倍数的截面"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

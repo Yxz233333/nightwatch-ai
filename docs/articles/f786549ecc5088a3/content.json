@@ -1,7 +1,7 @@
 {
   "id": "f786549ecc5088a3",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数学物理",
   "title": "A two-dimensional area law from a global spectral gap",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-two-dimensional-area-law-from-a-global-spectral-gap-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove an entropy area law for the unique ground state of a finite-range Hamiltonian on any finite induced subgraph of the square lattice. A lower bound on the spectral gap of the full Hamiltonian and fixed bounds on the local dimension, interaction range, and interaction strength suffice. For every set of sites, its entanglement entropy is bounded by a constant times the number of edges crossing its boundary, independently of the size and shape of the domain.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A two-dimensional area law from a global spectral gap",
+  "titleZh": "由全局谱隙导出的二维面积律",
+  "details": {
+    "overview": "稿件研究方格晶格有限诱导子图上有限程哈密顿量的唯一基态纠缠熵。作者声称，在完整哈密顿量谱隙有下界、且局部维数、相互作用范围与强度固定有界的条件下，任意站点集合的纠缠熵被其边界穿越边数乘以常数所界定，与区域大小和形状无关。摘要表示这建立了二维熵面积律。该结果若成立，将为量子多体系统的纠缠结构提供严格约束。",
+    "keyPoints": [
+      "对有限程哈密顿量唯一基态证明纠缠熵面积律",
+      "所需条件为全局谱隙下界及局部参数有界",
+      "熵上界正比于边界穿越边数，与区域大小形状无关"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

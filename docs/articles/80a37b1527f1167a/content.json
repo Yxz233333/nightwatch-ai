@@ -10,5 +10,15 @@
   "abstractEnglish": "For every fixed $`1\\lt p\\lt \\infty`$ and D > 1, every n-point subset of a real Lp space embeds into $`\\ell_p^d`$ with distortion at most D and subpolynomial dimension $`d=n^{o(1)}`$. The target has the same exponent p, and the embedding need not be linear.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Subpolynomial dimension reduction in Lp",
+  "titleZh": "Lp中的次多项式维数约化",
+  "details": {
+    "overview": "稿件研究实Lp空间的n点子集，证明对每个固定1<p<∞和D>1，可嵌入到ℓ_p^d，失真至多D且维数d=n^{o(1)}。摘要表示，目标空间具有相同指数p，且嵌入不必线性。该结果属于度量几何与泛函分析中的维数约化。",
+    "keyPoints": [
+      "证明n点Lp子集可嵌入ℓ_p^d，失真至多D且d=n^{o(1)}。",
+      "目标空间指数p相同，嵌入不必线性。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "4f1c54d9e9bcc41f",
   "section": "papers",
-  "category": "数学论文",
+  "category": "复几何与代数几何",
   "title": "A projective fourfold with large fundamental group and non-Stein universal cover",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-projective-fourfold-with-large-fundamental-group-and-non-Stein-universal-cover-October-5-2026/large-fundamental-group-non-stein.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a smooth projective complex fourfold with large fundamental group whose universal cover is not Stein. The universal cover contains no positive-dimensional compact complex-analytic subvariety, so this disproves Shafarevich's holomorphic-convexity conjecture even under the large-fundamental-group hypothesis.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A projective fourfold with large fundamental group and non-Stein universal cover",
+  "titleZh": "具有大基本群且万有覆叠非Stein的射影四维簇",
+  "details": {
+    "overview": "稿件构造了一个光滑射影复四维簇，其基本群很大，而万有覆叠不是Stein的。摘要表示该万有覆叠不含任何正维紧复解析子簇，因此即使在“大基本群”假设下也否定了Shafarevich的全纯凸性猜想。研究意义在于给出该猜想的一个反例，并说明大基本群条件不足以保证全纯凸性。",
+    "keyPoints": [
+      "构造光滑射影复四维簇，基本群很大且万有覆叠非Stein",
+      "万有覆叠不含正维紧复解析子簇",
+      "据此否定Shafarevich全纯凸性猜想，即使附加了大基本群假设"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

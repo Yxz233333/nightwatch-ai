@@ -1,7 +1,7 @@
 {
   "id": "5875fdda9b2b3a2e",
   "section": "papers",
-  "category": "数学论文",
+  "category": "量子信息与计算",
   "title": "Threshold parallel repetition for finite-dimensional entangled games",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Threshold-parallel-repetition-for-finite-dimensional-entangled-games-September-25-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For every finite two-player game with entangled value v < 1, we prove exponential decay for the probability of winning at least a $`v+\\delta`$ fraction of k independent repetitions, uniformly over all finite-dimensional joint strategies. The result allows arbitrary correlated question distributions and holds for every $`0\\lt \\delta\\lt 1-v`$ and k ≥ 1. Its universal rate is proportional to $`\\delta^5/(1+\\log(|\\mathcal A||\\mathcal B|))`$, where $`\\mathcal A,\\mathcal B`$ are the answer alphabets. For each fixed question distribution, we also obtain an explicit cubic rate in δ.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Threshold parallel repetition for finite-dimensional entangled games",
+  "titleZh": "有限维纠缠博弈的阈值并行重复",
+  "details": {
+    "overview": "该稿件研究有限二人博弈在纠缠值 v<1 时的并行重复。作者声称，对任意有限维联合策略，k 次独立重复中获胜比例至少达到 v+δ 的概率呈指数衰减，允许任意相关问题分布，且对每个 0<δ<1-v 与 k≥1 成立。摘要给出与 δ⁵/(1+log(|A||B|)) 成正比的通用速率，并对每个固定问题分布给出 δ 的显式三次速率。",
+    "keyPoints": [
+      "对纠缠值 v<1 的有限二人博弈，k 次重复中超过 v+δ 的获胜概率指数衰减。",
+      "结果对所有有限维联合策略一致成立，并允许任意相关问题分布。",
+      "通用速率与 δ⁵/(1+log(|A||B|)) 成正比，固定分布下另有三次速率。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

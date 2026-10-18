@@ -1,7 +1,7 @@
 {
   "id": "1a7bf5ab6035cdf3",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何与拓扑",
   "title": "Entropy equality and local symmetry in negative curvature",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Entropy-equality-and-local-symmetry-in-negative-curvature-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For every closed connected smooth Riemannian manifold of dimension at least three with strictly negative sectional curvature, we prove that normalized Liouville measure has maximal entropy for the unit-speed geodesic flow if and only if the metric is locally symmetric. This resolves Katok's entropy rigidity conjecture positively in these dimensions, including all rank-one symmetric types at arbitrary scale.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Entropy equality and local symmetry in negative curvature",
+  "titleZh": "负曲率中的熵等式与局部对称性",
+  "details": {
+    "overview": "稿件研究维数至少三、截面曲率严格为负的闭连通光滑黎曼流形。作者声称证明：单位速度测地流的归一化Liouville测度具有最大熵，当且仅当度量为局部对称。这正面解决了这些维数下的Katok熵刚性猜想，并涵盖任意尺度的所有秩一对称类型。该手稿为AI产生，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "对象为维数至少三、严格负截面曲率的闭连通黎曼流形。",
+      "声称归一化Liouville测度熵最大当且仅当度量局部对称。",
+      "作者称正面解决Katok熵刚性猜想，涵盖所有秩一对称类型。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "eadea1e2b994959d",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何与拓扑",
   "title": "Infinitely many closed geodesic images on every Riemannian sphere",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Infinitely-many-closed-geodesic-images-on-every-Riemannian-sphere-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We resolve the sphere case of the closed-geodesic infinitude problem: every smooth Riemannian metric on the standard sphere Sn, n ≥ 2, has infinitely many prime closed geodesics with pairwise distinct images. The two-sphere case is classical; the result in higher dimensions includes degenerate metrics. Using finite covers and theorems of Perelman and Rademacher–Taimanov, we also obtain the same conclusion for every smooth Riemannian metric on a nonempty closed smooth three-manifold.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Infinitely many closed geodesic images on every Riemannian sphere",
+  "titleZh": "每个黎曼球面上都有无穷多条闭测地线像",
+  "details": {
+    "overview": "稿件研究闭测地线无穷性问题的球面情形。作者声称，标准球面 S^n（n≥2）上每个光滑黎曼度量都有无穷多条素闭测地线，且像两两不同；二维球面情形属经典结果，高维结果涵盖退化度量。摘要还表示，借助有限覆盖及 Perelman、Rademacher–Taimanov 的定理，对任意非空闭光滑三维流形上的每个光滑黎曼度量也得到相同结论。该工作若成立，将把闭测地线无穷性推广到高维球面与三维流形。",
+    "keyPoints": [
+      "作者声称标准球面 S^n（n≥2）上任意光滑黎曼度量都有无穷多条素闭测地线。",
+      "这些闭测地线的像两两不同，高维情形包含退化度量。",
+      "借助有限覆盖与已有定理，结论推广到非空闭光滑三维流形。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

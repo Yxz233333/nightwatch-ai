@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove a uniform L2 bound for the Hilbert transform along a Lipschitz unit vector field in the plane, with integration restricted to a fixed absolute multiple of the reciprocal Lipschitz seminorm. The bound is uniform in the inner truncation and holds for fields depending on both coordinates. This gives an affirmative answer to Stein's weak-$`(2,2)`$ conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A uniform Hilbert transform estimate for Lipschitz directions",
+  "titleZh": "Lipschitz 方向的 Hilbert 变换的一致估计",
+  "details": {
+    "overview": "稿件研究平面中沿 Lipschitz 单位向量场的 Hilbert 变换。作者声称证明了统一的 L2 界，积分限制在 Lipschitz 半范数倒数的固定绝对倍数内，且界对内截断一致，并对依赖两个坐标的向量场成立。摘要表示这肯定地回答了 Stein 的弱-(2,2) 猜想。",
+    "keyPoints": [
+      "沿 Lipschitz 单位向量场的 Hilbert 变换满足统一 L2 界。",
+      "积分限制在 Lipschitz 半范数倒数的固定绝对倍数内。",
+      "界对内截断一致，肯定回答 Stein 的弱-(2,2) 猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

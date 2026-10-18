@@ -1,7 +1,7 @@
 {
   "id": "6b3bd2ecfae1e5f6",
   "section": "papers",
-  "category": "数学论文",
+  "category": "复分析与共形几何",
   "title": "Removable Boundaries and Rigidity of Circle Domains",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Removable-Boundaries-and-Rigidity-of-Circle-Domains-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that a circle domain with conformally removable boundary is conformally rigid, with no restriction on the number of complementary components. This establishes the removability-to-rigidity direction of the He–Schramm Conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Removable Boundaries and Rigidity of Circle Domains",
+  "titleZh": "圆区域的可去边界与刚性",
+  "details": {
+    "overview": "稿件研究圆区域的共形刚性。作者声称证明具有共形可去边界的圆区域是共形刚性的，且对补分支数目不加限制。摘要表示这建立了He–Schramm猜想中从可去性到刚性的方向。研究意义在于推进圆区域刚性理论，但结果尚未经独立审查。",
+    "keyPoints": [
+      "研究对象是边界共形可去的圆区域。",
+      "作者声称此类圆区域共形刚性，补分支数不受限。",
+      "摘要称这建立了He–Schramm猜想的可去性到刚性方向。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

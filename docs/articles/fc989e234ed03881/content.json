@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the perfect-matching entropy conjecture of Anari, Oveis Gharan, and Vinzant. For every feasible vector x of perfect-matching edge marginals in a loopless labelled multigraph on $`2m\\ge2`$ vertices, the maximum entropy $`H(x)`$ of a matching law with marginals x satisfies\n\n$`\\displaystyle F(x)-(2-2/m)B(x)\\le H(x)\\le F(x),`$\n\nwhere $`F(x)=-\\sum_e x_e\\log x_e`$ and $`B(x)=-\\sum_e(1-x_e)\\log(1-x_e)`$. This bound holds throughout the polytope, including its boundary. We also prove the sharp bound $`|\\mathop{\\mathrm{supp}}\\nolimits x|-\\dim F_x\\le3m-2`$, where Fx is the minimal face of the perfect-matching polytope containing x.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Entropy and Face Dimension of the Perfect-Matching Polytope",
+  "titleZh": "完美匹配多面体的熵与面维数",
+  "details": {
+    "overview": "该稿件研究无环标号多重图上完美匹配边边缘向量的熵。作者声称证明了Anari、Oveis Gharan与Vinzant提出的完美匹配熵猜想：对每个可行边缘向量x，匹配律最大熵H(x)满足F(x)−(2−2/m)B(x)≤H(x)≤F(x)，其中F与B分别为基于x_e和1−x_e的熵型量，且界在多面体边界也成立。稿件还声称证明了支撑集大小与含x最小面维数之差的尖锐上界3m−2。手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "声称证明完美匹配熵猜想，给出H(x)的上下界。",
+      "界在整个完美匹配多面体上成立，包括边界。",
+      "另证支撑集大小与最小面维数之差的尖锐界3m−2。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

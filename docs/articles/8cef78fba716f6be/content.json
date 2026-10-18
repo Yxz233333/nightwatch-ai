@@ -7,5 +7,14 @@
   "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0",
   "date": "2026-10-15",
   "status": "这是 CLI 发布说明；桌面版是否包含同项能力需单独核对。",
+  "details": {
+    "overview": "该条目为 Codex CLI 0.163.0 的发布说明之一。摘要表示，/daemon 可在重启前提示可能受影响的工作，完成后自动重新连接。该说明属于 CLI 发布说明，桌面版是否包含同项能力需单独核对，摘要未说明后台服务的具体范围或重启耗时。",
+    "keyPoints": [
+      "/daemon 用于重启后台服务",
+      "重启前提示可能受影响的工作",
+      "完成后自动重新连接"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

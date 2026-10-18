@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the canonical topological cone of all extended lower-semicontinuous tracial weights determines a separable nuclear C∗-algebra after tensoring with the Razak–Jacelon algebra and the compact operators, answering Robert's trace-cone classification question positively. The isomorphism realizes the prescribed cone map, with arbitrary ideal structure and without a density assumption on the finite domains of the weights.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The trace cone classifies Razak–Jacelon stabilizations",
+  "titleZh": "迹锥分类Razak–Jacelon稳定化",
+  "details": {
+    "overview": "该稿件研究可分核C*-代数在张量Razak–Jacelon代数和紧算子后的分类问题。作者声称证明了所有扩展下半连续迹权重的规范拓扑锥决定了稳定化后的代数，正面回答了Robert的迹锥分类问题。摘要表示同构实现了给定的锥映射，允许任意理想结构，且不要求权重有限定义域的稠密性。研究意义在于为C*-代数的迹锥分类提供了新的稳定化结果。",
+    "keyPoints": [
+      "作者声称规范拓扑锥决定了张量Razak–Jacelon代数和紧算子后的可分核C*-代数。",
+      "该结果正面回答了Robert的迹锥分类问题，同构实现给定锥映射。",
+      "证明允许任意理想结构，且不要求权重有限定义域的稠密性假设。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

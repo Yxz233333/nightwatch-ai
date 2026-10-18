@@ -1,7 +1,7 @@
 {
   "id": "785cb93b7112f901",
   "section": "papers",
-  "category": "数论与算术几何",
+  "category": "量子信息与数学物理",
   "title": "The maximum number of mutually unbiased bases in dimension six",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-maximum-number-of-mutually-unbiased-bases-in-dimension-six-September-24-2026/The-maximum-number-of-mutually-unbiased-bases-in-dimension-six-September-24-2026.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the maximum number of mutually unbiased orthonormal bases in ℂ6 is three, resolving Zauner's dimension-six MUB conjecture. The upper bound is computer-assisted: under the stated binary64 arithmetic and compiler conditions, a complete execution of the documented verification pipeline excludes four arbitrary complex bases.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The maximum number of mutually unbiased bases in dimension six",
+  "titleZh": "六维中相互无偏基的最大数目",
+  "details": {
+    "overview": "稿件研究ℂ6中相互无偏正交基的最大数目，作者声称证明该最大数为三，从而解决Zauner的六维MUB猜想。摘要说明上界依赖计算机辅助：在所述binary64算术与编译器条件下，完整执行文档化的验证流程排除了四个任意复基。该结论若成立，将确定六维量子信息中MUB问题的答案，但其上界依赖计算验证条件。",
+    "keyPoints": [
+      "研究对象为ℂ6中相互无偏正交基的最大数目。",
+      "作者声称最大数为三，解决Zauner六维MUB猜想。",
+      "上界为计算机辅助，依赖binary64算术与编译器条件及验证流程。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

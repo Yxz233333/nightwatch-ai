@@ -1,7 +1,7 @@
 {
   "id": "d854382062c5f3a9",
   "section": "papers",
-  "category": "数学论文",
+  "category": "自动机理论与形式语言",
   "title": "An exponential two-way deterministic state lower bound for one-way liveness",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/An-exponential-two-way-deterministic-state-lower-bound-for-one-way-liveness-September-25-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "One-way liveness on h points accepts a word of binary relations when their ordered product is nonempty. For every h ≥ 2, it has a nondeterministic automaton with $`h+3`$ states and no left moves, whereas every equivalent s-state two-way deterministic automaton satisfies $`4(s+2)^2\\ge2^{\\lfloor(h-2)/31\\rfloor}`$. Partial transition rules, stay moves, and nonaccepting infinite computations are allowed. The alphabets are finite and grow with h, so the result rules out an alphabet-independent polynomial state bound for deterministic two-way simulation, already for one-way nondeterministic sources.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An exponential two-way deterministic state lower bound for one-way liveness",
+  "titleZh": "单向活性问题的指数双向确定状态下界",
+  "details": {
+    "overview": "该稿件研究单向活性语言在双向确定自动机下的状态复杂度。h点上的单向活性接受有序乘积非空的二元关系词。作者声称：对每个h≥2，存在h+3个状态且无左移的非确定自动机；而任何等价s状态双向确定自动机满足4(s+2)²≥2^{⌊(h−2)/31⌋}。摘要允许部分转移规则、停留移动与非接受无限计算，字母表随h增长，因此排除字母表无关的多项式状态界。",
+    "keyPoints": [
+      "声称单向活性有h+3状态无左移非确定自动机",
+      "证明等价双向确定自动机状态数满足指数下界",
+      "字母表随h增长，排除字母表无关多项式状态界"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

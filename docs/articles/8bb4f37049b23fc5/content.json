@@ -10,5 +10,16 @@
   "abstractEnglish": "We bound the information remaining after paths of specified cards in the Thorp shuffle on $`n=2^d`$ cards have been observed. After a fixed number of deterministic coordinate sweeps, the joint endpoint law of further cards is close to uniform on the available positions, on average over the observed paths, provided a fixed positive fraction of labels lies outside both lists. Combined with a Fourier transfer, these bounds give full-deck mixing after $`2048d`$ physical shuffles.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Conditional information under deterministic coordinate sweeps",
+  "titleZh": "确定性坐标扫描下的条件信息",
+  "details": {
+    "overview": "稿件研究Thorp洗牌在n=2^d张牌上的信息残留问题。作者声称，在观察指定牌路径后，若固定正比例的标签同时不在两个列表中，则经过固定次数的确定性坐标扫描，其余牌在可用位置上的联合端点分布平均接近均匀；结合傅里叶变换，得到整副牌在2048d次物理洗牌后混合的界。该结果的意义在于为Thorp洗牌的混合时间提供定量信息论分析，但属AI产生手稿，未经独立审查。",
+    "keyPoints": [
+      "给出观察指定牌路径后剩余信息量的上界",
+      "条件为固定正比例标签不在两个列表内",
+      "结合傅里叶变换得到2048d次洗牌后全牌混合"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that critical honeycomb bridges crossing a strip of width R have mean length $`R^{4/3+o(1)}`$, with the same exponent after confinement to a fixed multiple of the strip width. The initial boundary port is fixed, the terminal port is summed, and all finite lengths receive their critical weights. The bridge mass is comparable to R−1/4; the half-plane arch kernel at endpoint separation m is comparable to m−5/4.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Disk transfer representations and confined bridge mass",
+  "titleZh": "圆盘传递表示与受限桥质量",
+  "details": {
+    "overview": "稿件研究临界蜂窝格上跨越宽度R条带的桥。作者声称其平均长度约为R^{4/3+o(1)}，限制在条带宽度固定倍数内后指数不变；初始边界端口固定、终端端口求和，所有有限长度取临界权重。摘要还表示桥质量与R^{-1/4}相当，端点间距m的半平面拱核与m^{-5/4}相当。",
+    "keyPoints": [
+      "跨宽度R条带的临界蜂窝桥平均长度约为R^{4/3+o(1)}。",
+      "限制在条带宽度固定倍数内后，指数保持不变。",
+      "桥质量与R^{-1/4}相当，半平面拱核与m^{-5/4}相当。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

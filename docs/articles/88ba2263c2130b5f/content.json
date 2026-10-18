@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove critical diameter-tail exponents −2 for unrooted honeycomb polygons and −2/3 for length-weighted polygons, together with a truncated second-length-moment bound of exponent 2/3. Consequently, polygons conditioned to have length at least n have diameter $`n^{3/4+o(1)}`$ in probability under either weight.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Radial transfer estimates and polygon length laws for honeycomb walks",
+  "titleZh": "蜂窝游走的径向转移估计与多边形长度律",
+  "details": {
+    "overview": "稿件研究蜂窝格上自回避多边形游走的几何性质。作者声称证明了无根蜂窝多边形的临界直径尾指数为-2、长度加权多边形为-2/3，并给出截断的第二长度矩指数2/3的界；由此推出在两种权重下，条件长度至少为n的多边形直径以概率意义为n^{3/4+o(1)}。该结果刻画了蜂窝多边形直径与长度的标度关系，属AI产生手稿，未经独立审查。",
+    "keyPoints": [
+      "无根蜂窝多边形直径尾指数为-2",
+      "长度加权多边形尾指数为-2/3",
+      "条件长度至少n时直径约为n^{3/4+o(1)}"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

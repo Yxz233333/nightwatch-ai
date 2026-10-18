@@ -1,7 +1,7 @@
 {
   "id": "98ae5d212a1e058e",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论与统计物理",
   "title": "SLE3 universality for weak finite-range Ising interactions",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/SLE3-universality-for-weak-finite-range-Ising-interactions-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every sufficiently small, square-symmetric finite-range perturbation of the planar Ising contour energy has a domain-independent inverse temperature at which its spin interface converges to chordal SLE3. The result allows interactions of either sign, arbitrary admissible exterior contours, and uniformly approximated Jordan domains. Convergence holds for the full oriented curve law in uniform distance modulo increasing reparametrization.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "SLE3 universality for weak finite-range Ising interactions",
+  "titleZh": "弱有限程Ising相互作用的SLE₃普适性",
+  "details": {
+    "overview": "稿件研究平面Ising轮廓能量的充分小、平方对称有限程扰动。摘要称存在与区域无关的逆温度，使自旋界面收敛到弦SLE₃；结果允许相互作用取正负号、任意容许外轮廓及一致逼近的Jordan区域。收敛按完整定向曲线律在模递增重参数化的均匀距离下成立。材料仅见摘要，未给出证明细节或独立验证。",
+    "keyPoints": [
+      "对平面Ising轮廓能量的弱有限程扰动证明SLE₃收敛。",
+      "存在与区域无关的逆温度，允许正负相互作用。",
+      "收敛针对完整定向曲线律，模递增重参数化。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "c13537ce3b79bcc4",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何测度论",
   "title": "Finite cylinder approximation of ruled sets",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Finite-cylinder-approximation-of-ruled-sets-September-27-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We approximate compact ruled families of segments by finitely many cylinders with square intercept tiles and perpendicular-base area at most their integral projection cost plus any positive error. The velocity field is C1, and its differential has opposite real eigenvalues whose magnitudes are strictly below the inverse segment half-length; both eigenvalues may vanish. The result includes square-zero differentials with unrestricted shear and fields that pass between the two regimes. It holds for arbitrary compact label sets.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Finite cylinder approximation of ruled sets",
+  "titleZh": "直纹集的有限柱逼近",
+  "details": {
+    "overview": "稿件研究紧直纹线段族的有限柱逼近问题：作者声称可用有限多个方截瓦片柱逼近，其垂直底面积不超过积分投影代价加任意正误差。速度场为C1，其微分具有实部相反、模严格小于线段半长倒数的特征值，两特征值可为零；结果涵盖平方零微分与无限制剪切及介于两 regime 之间的场，并对任意紧标号集成立。摘要未给出证明思路，结论待独立审查。",
+    "keyPoints": [
+      "用有限方截瓦片柱逼近紧直纹线段族，面积受积分投影代价控制",
+      "速度场C1，微分特征值实部相反且模小于半长倒数，可为零",
+      "涵盖平方零微分、无限制剪切及两 regime 之间的场，标号集任意紧"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

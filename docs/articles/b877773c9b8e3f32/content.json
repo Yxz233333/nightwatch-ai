@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Eisenbud–Green–Harris and lex-plus-powers conjectures over every characteristic-zero field for homogeneous regular sequences of any positive length, with degrees at least two. For every homogeneous ideal containing such a sequence, the corresponding lex-plus-powers ideal has the same Hilbert function and at least as large a graded Betti number in every homological and internal degree.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Artinian Lex-Plus-Powers Betti Theorem",
+  "titleZh": "Artinian字典加幂Betti定理",
+  "details": {
+    "overview": "稿件研究齐次正则序列与字典加幂理想的分次Betti数。作者声称在任意特征零域上，对任意正长度、次数至少二的齐次正则序列证明Eisenbud–Green–Harris与字典加幂猜想：对包含该序列的每个齐次理想，对应字典加幂理想具有相同Hilbert函数，且在每个同调与内次数上分次Betti数不小于原理想。若成立，将推进交换代数中关于Betti数上界的经典问题。手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为特征零域上齐次正则序列与字典加幂理想",
+      "作者声称证明Eisenbud–Green–Harris与字典加幂猜想",
+      "对应字典加幂理想Hilbert函数相同且各分次Betti数不小于原理想"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

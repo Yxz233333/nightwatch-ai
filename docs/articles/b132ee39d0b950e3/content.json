@@ -10,5 +10,16 @@
   "abstractEnglish": "Every continuous, odd, absolutely irreducible two-dimensional 2-adic representation of $`G_{\\mathbb Q}`$ that is unramified outside finitely many finite primes occurs in the full completed Hecke algebra at some odd tame level. The level may contain auxiliary tame primes, and scalar and reducible residual representations are included. This is a completed-Hecke occurrence result, with no de Rham hypothesis; it does not assert classical modularity.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Unrestricted pro-modularity at the prime two",
+  "titleZh": "素数二处的无限制pro模性",
+  "details": {
+    "overview": "稿件研究G_ℚ的二维2进表示与完备Hecke代数的关系。作者声称每个连续、奇、绝对不可约、在有限多个有限素数外非分歧的二维2进表示，都在某个奇驯服水平的完备Hecke代数中出现；水平可含辅助驯服素数，标量与可约剩余表示也包含在内。摘要强调这是完备Hecke出现结果，不含de Rham假设，也不断言经典模性。该手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象是G_ℚ的连续奇绝对不可约二维2进表示。",
+      "作者声称此类表示在某个奇驯服水平的完备Hecke代数中出现。",
+      "摘要明确不断言经典模性，也不含de Rham假设。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

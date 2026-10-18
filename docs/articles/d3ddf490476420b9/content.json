@@ -1,7 +1,7 @@
 {
   "id": "d3ddf490476420b9",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数几何",
   "title": "A Gepner stability condition on every smooth quintic threefold",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-Gepner-stability-condition-on-every-smooth-quintic-threefold-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove Toda's normalized quintic Gepner conjecture. On every smooth complex quintic threefold, we construct a numerical Bridgeland stability condition for which tensoring by the hyperplane bundle, followed by the spherical twist at the structure sheaf, increases phase by 2/5.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Gepner stability condition on every smooth quintic threefold",
+  "titleZh": "每个光滑五次三维流形上的 Gepner 稳定性条件",
+  "details": {
+    "overview": "稿件研究 Toda 的归一化五次 Gepner 猜想。作者声称在每个光滑复五次三维流形上构造一个数值 Bridgeland 稳定性条件，使得先与超平面线丛张量、再在结构层处作球面扭转后，相位增加 2/5。摘要表示这证明了 Toda 的归一化五次 Gepner 猜想。研究意义在于将 Gepner 型稳定性条件实现于所有光滑五次三维流形。",
+    "keyPoints": [
+      "在每个光滑复五次三维流形上构造数值 Bridgeland 稳定性条件。",
+      "该条件下超平面张量后接结构层球面扭转使相位增加 2/5。",
+      "作者声称由此证明 Toda 的归一化五次 Gepner 猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

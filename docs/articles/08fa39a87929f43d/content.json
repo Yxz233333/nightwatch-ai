@@ -10,5 +10,16 @@
   "abstractEnglish": "Let L be an ample line bundle on a smooth integral projective variety X over an algebraically closed field of positive characteristic, with $`\\dim X=n\\ge3`$. We prove that there is a threshold $`r_0=r_0(X,L)`$ such that for every integer $`r\\ge r_0`$, the ordinary multipoint Seshadri constant at the geometric generic tuple of r points equals the volume bound $`(L^n/r)^{1/n}`$. The same conclusion holds in dimension two. This establishes the positive-characteristic form of the qualitative Nagata–Biran–Szemberg assertion at geometric generic tuples.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Maximal multipoint Seshadri constants in positive characteristic",
+  "titleZh": "正特征情形下的极大多点Seshadri常数",
+  "details": {
+    "overview": "稿件研究代数闭正特征域上光滑整射影簇X（维数n≥3）上丰沛线丛L的多点Seshadri常数。摘要表示，作者证明存在阈值r₀，使得当r≥r₀时，在r个点的几何一般元组处的普通多点Seshadri常数等于体积上界(L^n/r)^{1/n}；二维情形同样成立。作者声称由此在几何一般元组处建立了正特征形式的定性Nagata–Biran–Szemberg断言。该结果属于正特征代数几何研究；摘要未给出证明细节。",
+    "keyPoints": [
+      "研究对象为正特征光滑射影簇上丰沛线丛的多点Seshadri常数。",
+      "作者声称点数超过阈值r₀时该常数等于体积上界(L^n/r)^{1/n}。",
+      "结论在几何一般元组处成立，二维情形同样适用。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

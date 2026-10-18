@@ -9,5 +9,14 @@
   "status": "",
   "recommended": false,
   "recommendedOn": null,
+  "details": {
+    "overview": "该条为行业新闻，摘要仅称官方解释政策调整及模型能力变化带来的使用边界。材料未提供政策条款、生效范围或具体能力变化内容，无法进一步说明调整细节与影响。",
+    "keyPoints": [
+      "Anthropic 更新 2026 年使用政策",
+      "官方称涉及政策调整与模型能力变化",
+      "摘要未给出具体条款与适用范围"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove a sharp feasibility threshold and limiting gap and force laws for the spherical perceptron with margin −1 and quadratic penalty. The limits are taken successively in system size, inverse temperature, and density approaching the threshold from above. They agree for Gaussian coordinates and for the equal mixture of centered Gaussian coordinates with variances $`1-\\varepsilon`$ and $`1+\\varepsilon`$, for every sufficiently small fixed ε. The contact-removed gap cumulative law and the mean-one force cumulative law satisfy\n\n$`\\displaystyle G_J(u)=u^{1-\\gamma+o(1)},\\qquad F_J(s)=s^{1+\\theta+o(1)},`$\n\nas $`u\\downarrow0`$ and $`s\\downarrow0`$, with $`\\gamma=(2+\\theta)^{-1}`$, $`0.4126930\\lt \\gamma\\lt 0.4126934`$, and $`0.4231063\\lt \\theta\\lt 0.4231088`$. A finite numerical certificate for these exponent intervals, together with its mathematical error bounds, is included.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Microscopic jamming in the negative spherical perceptron",
+  "titleZh": "负球形感知机中的微观阻塞",
+  "details": {
+    "overview": "稿件研究带间隔−1与二次惩罚的球形感知机，作者声称证明了尖锐的可行性阈值以及极限间隙律与力律。极限按系统规模、逆温度和密度依次取，密度从阈值上方逼近；结果对高斯坐标及方差为1−ε与1+ε的等混合高斯坐标一致。摘要给出接触移除间隙累积律与均值一力累积律的幂律形式及指数区间，并附有限数值证书与误差界。材料未提供证明细节与独立审查。",
+    "keyPoints": [
+      "作者声称给出负球形感知机的尖锐可行性阈值与极限间隙、力律。",
+      "极限依次取系统规模、逆温度与从上方逼近阈值的密度。",
+      "摘要给出指数γ与θ的窄区间及配套有限数值证书和误差界。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

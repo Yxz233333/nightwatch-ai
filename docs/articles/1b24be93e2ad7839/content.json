@@ -10,5 +10,16 @@
   "abstractEnglish": "Assuming the stated deterministic critical-reference estimates, we prove that the relative second moment of the quenched critical spin correlation in the square-lattice Ising model with independent fair bonds $`1\\pm\\varepsilon`$ grows as $`(\\log r)^{1/4+o(1)}`$ for each sufficiently small fixed ε > 0. The correlation is evaluated at the physical critical temperature, with the thermodynamic limit taken before the disorder moments and the large-distance limit.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Logarithmic Relative Fluctuations in the Weakly Disordered Planar Ising Model",
+  "titleZh": "弱无序平面Ising模型中相对涨落的对数行为",
+  "details": {
+    "overview": "稿件研究方格Ising模型在独立公平键1±ε（ε>0充分小且固定）下的淬火临界自旋关联。摘要表示，在假定所述确定性临界参考估计成立的前提下，作者证明该关联的相对二阶矩随距离r按(log r)^{1/4+o(1)}增长。关联在物理临界温度处取值，热力学极限先于无序矩与大距离极限。作者声称给出了对数型相对涨落行为；结果以特定假设为前提，摘要未说明假设的验证情况，也未涉及独立审查。",
+    "keyPoints": [
+      "研究对象为弱无序方格Ising模型在临界温度下的淬火自旋关联。",
+      "作者声称相对二阶矩按(log r)^{1/4+o(1)}增长。",
+      "结论以所述确定性临界参考估计为假设前提。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the bond-percolation nonuniqueness conjecture of Benjamini and Schramm: every infinite connected, locally finite, nonamenable quasi-transitive graph has a nonempty interval of parameters for which Bernoulli bond percolation almost surely has infinitely many infinite clusters. We also prove Hutchcroft's stronger operator-threshold conjecture, establishing $`p_c\\lt p_{2\\to2}\\le p_u`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Nonuniqueness of percolation on nonamenable quasi-transitive graphs",
+  "titleZh": "非 amenable 拟传递图上渗流的非唯一性",
+  "details": {
+    "overview": "稿件研究非 amenable 拟传递图上的Bernoulli键渗流。作者声称证明了Benjamini–Schramm的键渗流非唯一性猜想：每个无限连通、局部有限、非 amenable 的拟传递图都存在一个非空参数区间，使渗流几乎必然有无穷多个无限簇。摘要还称证明了Hutchcroft更强的算子阈值猜想，建立p_c<p_{2→2}≤p_u。材料仅提供摘要，未展开证明与独立审查。",
+    "keyPoints": [
+      "作者声称证明Benjamini–Schramm键渗流非唯一性猜想。",
+      "结论给出非 amenable 拟传递图上无穷多无限簇的非空参数区间。",
+      "摘要称同时证明Hutchcroft算子阈值猜想，即p_c<p_{2→2}≤p_u。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

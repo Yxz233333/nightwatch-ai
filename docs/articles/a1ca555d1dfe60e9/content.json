@@ -1,7 +1,7 @@
 {
   "id": "a1ca555d1dfe60e9",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数学物理",
   "title": "The Boltzmann–Grad limit for stable radial potentials on regular kinetic intervals",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-Boltzmann-Grad-limit-for-stable-radial-potentials-on-regular-kinetic-intervals-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We derive the nonlinear Boltzmann equation from a grand-canonical Newtonian gas with initial pair exclusion. We treat stable, finite-range radial potentials that are C2 except for an allowed repulsive singularity at the origin, and C1 initial probability densities with spatially summable Gaussian bounds on the density and its spatial gradient. All fixed-order rescaled factorial marginals converge in L1, uniformly throughout every finite interval on which the classical kinetic solution has a uniform Gaussian bound. The result allows attractive wells and dynamically formed clusters, without restrictions on the differential scattering cross-section.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Boltzmann–Grad limit for stable radial potentials on regular kinetic intervals",
+  "titleZh": "正则动力学区间上稳定径向势的Boltzmann–Grad极限",
+  "details": {
+    "overview": "稿件从具有初始成对排斥的大正则牛顿气体出发推导非线性Boltzmann方程。摘要称处理稳定、有限程径向势，除原点允许排斥奇点外为C²，初值概率密度为C¹并满足空间可和的高斯界；在所有经典动力学解具有一致高斯界的有限区间上，固定阶重标度阶乘边缘分布L¹收敛。结果允许吸引势阱和动力学形成的团簇，且不限制微分散射截面。材料仅见摘要，未给出证明细节。",
+    "keyPoints": [
+      "从大正则牛顿气体推导非线性Boltzmann方程。",
+      "允许吸引势阱、动力学团簇及一般微分散射截面。",
+      "固定阶重标度阶乘边缘分布在L¹中一致收敛。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

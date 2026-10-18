@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the finite-volume continuum-random-tree prediction for critical Fortuin–Kasteleyn planar maps at every fixed q > 4. After rescaling graph distances by a constant times n−1/2, an n-edge map with normalized degree measure converges to the Brownian continuum random tree in the Gromov–Hausdorff–Prokhorov topology. The convergence holds through all positive integer sizes.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Brownian continuum random tree limits of finite Fortuin–Kasteleyn maps above four",
+  "titleZh": "q大于四时有限Fortuin–Kasteleyn地图的布朗连续随机树极限",
+  "details": {
+    "overview": "稿件研究临界Fortuin–Kasteleyn平面地图在固定q>4时的尺度极限。作者声称证明了有限体积的布朗连续随机树预测：将图距离按常数倍n^{-1/2}缩放后，含n条边且度测度归一化的地图在Gromov–Hausdorff–Prokhorov拓扑下收敛到布朗连续随机树，且对所有正整数规模成立。材料仅给出摘要，未提供证明细节或独立验证。",
+    "keyPoints": [
+      "研究对象为q>4的临界Fortuin–Kasteleyn平面地图。",
+      "图距离按n^{-1/2}缩放后在GHP拓扑下收敛到布朗连续随机树。",
+      "作者声称收敛对所有正整数边数规模成立。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

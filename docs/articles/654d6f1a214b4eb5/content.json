@@ -10,5 +10,16 @@
   "abstractEnglish": "We disprove the quadratic strengthening of the Sensitivity Conjecture by constructing nonconstant total Boolean functions whose block sensitivity grows faster than any constant multiple of sensitivity squared. In fact, for some fixed α > 2, our examples have unbounded block sensitivity and satisfy $`\\mathop{\\mathrm{bs}}\\nolimits (f)\\ge s(f)^\\alpha`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A superquadratic separation between sensitivity and block sensitivity",
+  "titleZh": "敏感性与块敏感性之间的超二次分离",
+  "details": {
+    "overview": "该稿件研究布尔函数的敏感性与块敏感性之间的关系。作者声称否定了敏感性猜想的二次强化，构造了非恒定全布尔函数，其块敏感性增长快于敏感性的任何常数倍平方。具体地，对于某个固定α>2，例子具有无界块敏感性且满足bs(f)≥s(f)^α。研究意义在于表明敏感性与块敏感性之间可以存在超二次的分离。",
+    "keyPoints": [
+      "作者声称否定了敏感性猜想的二次强化。",
+      "构造了非恒定全布尔函数，其块敏感性增长快于敏感性的任何常数倍平方。",
+      "对某个固定α>2，例子满足bs(f)≥s(f)^α且块敏感性无界。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

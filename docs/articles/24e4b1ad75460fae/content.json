@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove integral Donovan finiteness: for every prime p and positive integer M, the blocks of all finite groups with defect groups of order at most M have only finitely many Morita equivalence classes over $`W(\\overline{\\mathbb F}_p)`$. The defect groups need not be abelian, and the result includes p = 2. The same bounded-defect finiteness holds over each fixed complete discrete valuation ring of characteristic zero with algebraically closed residue field of characteristic p, including ramified rings.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Integral Donovan Finiteness over Witt Vectors",
+  "titleZh": "Witt向量上的整Donovan有限性",
+  "details": {
+    "overview": "该稿件研究有限群块在Witt向量环上的Morita等价类有限性问题。作者声称证明整Donovan有限性：对每个素数p和正整数M，亏群阶不超过M的所有有限群的块，在W(代数闭F_p)上只有有限多个Morita等价类；亏群不必交换，且包含p=2。摘要还称同样的有界亏群有限性对每个特征零、剩余域特征p代数闭的完备离散赋值环成立，包括分歧环。意义在于把Donovan有限性从域上推广到整环情形，但尚未经独立审查。",
+    "keyPoints": [
+      "作者声称对任意素数p和亏群阶上界M，Witt向量环上只有有限多个Morita等价类。",
+      "结果不要求亏群交换，并覆盖p=2及分歧的完备离散赋值环。",
+      "稿件为AI生成研究手稿，结论尚待同行评议与独立验证。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We determine the unassisted classical capacity of every qubit generalized amplitude-damping channel, for all damping strengths and thermal occupations. It equals the one-shot Holevo capacity and is given by a one-variable maximum. A binary pure-state ensemble attains the one-use optimum, and its independent products attain the optimum at every block length. We also prove that one-shot Holevo capacity, minimum output entropy, and regularized unassisted classical capacity are additive under tensor product with every finite-dimensional completely positive trace-preserving partner channel.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Classical capacity and entropy inequalities for generalized amplitude damping",
+  "titleZh": "广义振幅阻尼信道的经典容量与熵不等式",
+  "details": {
+    "overview": "稿件研究量子信道中广义振幅阻尼信道的经典容量。摘要表示，作者确定了每个量子比特广义振幅阻尼信道在全部阻尼强度和热占据数下的无辅助经典容量，它等于单次Holevo容量并由一元最大值给出；二元纯态系综达到单次最优，其独立乘积在任意块长达到最优。作者还证明单次Holevo容量、最小输出熵与正则化无辅助经典容量在与任意有限维完全正保迹伙伴信道张量积下可加。手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "确定所有量子比特广义振幅阻尼信道的无辅助经典容量。",
+      "容量等于单次Holevo容量，由一元最大值给出。",
+      "证明相关容量与熵在与任意有限维CPTP信道张量积下可加。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

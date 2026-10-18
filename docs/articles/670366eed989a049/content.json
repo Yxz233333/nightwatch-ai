@@ -1,7 +1,7 @@
 {
   "id": "670366eed989a049",
   "section": "papers",
-  "category": "数学论文",
+  "category": "微分几何",
   "title": "The Solomon–Yau least-volume theorem",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-Solomon-Yau-least-volume-theorem-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Solomon–Yau least-volume conjecture for minimal hypersurfaces of unit round spheres: in every dimension m ≥ 2, a closed connected minimal immersion with non-totally-geodesic image has volume at least the smallest m-dimensional minimal Clifford product. Volume is measured on the domain, so covering multiplicities are included.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Solomon–Yau least-volume theorem",
+  "titleZh": "Solomon–Yau最小体积定理",
+  "details": {
+    "overview": "稿件研究单位球面中极小超曲面的体积下界。作者声称证明Solomon–Yau最小体积猜想：对每个维数m≥2，像非全测地的闭连通极小浸入的体积至少等于最小的m维极小Clifford乘积；体积在定义域上度量，故包含覆盖重数。研究意义在于解决球面极小超曲面的最小体积问题，但结果尚未经独立审查。",
+    "keyPoints": [
+      "作者声称证明单位球面中极小超曲面的Solomon–Yau最小体积猜想。",
+      "对m≥2，非全测地闭连通极小浸入体积至少为最小m维极小Clifford乘积。",
+      "体积在定义域上计算，包含覆盖重数。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We disprove Kaplansky's direct-finiteness conjecture by constructing a finite field K of characteristic two, a finitely presented group G, and finite sums $`a,b\\in K[G]`$ with $`ab=1`$ but $`ba\\ne1`$. The group G is nonsofic. The same elements define a cellular automaton on KG that is injective but not surjective, disproving Gottschalk's surjunctivity conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Counterexample to Kaplansky's Direct-Finiteness Conjecture in Characteristic Two",
+  "titleZh": "特征二下Kaplansky直接有限性猜想的反例",
+  "details": {
+    "overview": "稿件针对Kaplansky直接有限性猜想构造反例。作者声称在特征二的有限域K上找到有限呈现群G及K[G]中有限和a、b，满足ab=1但ba≠1，且G为非sofic群。摘要还称同一组元素给出KG上单射非满射的元胞自动机，从而否定Gottschalk满射性猜想。该结果若成立将同时冲击群环直接有限性与符号动力系统两个方向，但手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "构造特征二有限域上有限呈现群及ab=1但ba≠1的群环元素",
+      "作者声称该群为非sofic群",
+      "同一元素给出单射非满射元胞自动机，否定Gottschalk猜想"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

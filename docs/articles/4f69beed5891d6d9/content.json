@@ -1,7 +1,7 @@
 {
   "id": "4f69beed5891d6d9",
   "section": "papers",
-  "category": "数学论文",
+  "category": "算子代数与群论",
   "title": "Unitarizability implies amenability for discrete groups",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Unitarizability-Implies-Amenability-for-Countable-Groups-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that a discrete group is amenable if and only if every uniformly bounded representation on a complex Hilbert space is similar to a unitary representation. This resolves Dixmier's unitarizability problem affirmatively for discrete groups.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Unitarizability implies amenability for discrete groups",
+  "titleZh": "离散群的可单位化蕴含顺从性",
+  "details": {
+    "overview": "稿件研究离散群上一致有界表示与酉表示的关系。作者声称证明：离散群顺从当且仅当其复Hilbert空间上每个一致有界表示都相似于酉表示。摘要表示这正面解决了离散群的Dixmier可单位化问题。该结果连接算子代数中的顺从性与表示论，若成立意义重大；但作为AI产生的研究手稿，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "研究离散群一致有界表示与酉表示的相似性",
+      "作者声称顺从当且仅当每个一致有界表示相似于酉表示",
+      "摘要表示正面解决离散群的Dixmier可单位化问题"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

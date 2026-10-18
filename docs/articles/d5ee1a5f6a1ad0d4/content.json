@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove a universal, scale-invariant L2 gap for the trace-free Ricci tensor on simply connected closed four-manifolds with nonnegative sectional curvature. If the trace-free Ricci energy is sufficiently small, the manifold is diffeomorphic to S4, $`\\mathbb{CP}^2`$, or $`S^2\\times S^2`$. The proof uses the classification of positive-Einstein, nonnegatively curved four-manifolds supplied by the companion zero-plane rigidity theorem, stated explicitly as the classification premise of our result. No auxiliary curvature, volume, diameter, injectivity-radius, or Sobolev bound is required. The conclusion concerns the smooth manifold, not an isometry of the original metric.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An L² Einstein Gap for Nonnegatively Curved Four-Manifolds",
+  "titleZh": "非负曲率四维流形上的L²爱因斯坦间隙",
+  "details": {
+    "overview": "该稿件研究具有非负截面曲率的单连通闭四维流形上无迹Ricci张量的L²间隙。作者声称证明了一个通用且尺度不变的间隙：若无迹Ricci能量足够小，则流形微分同胚于S⁴、CP²或S²×S²。证明依赖伴随的零平面刚性定理所提供的正爱因斯坦非负曲率四维流形分类，并明确将其作为分类前提。摘要表示无需额外曲率、体积、直径、单射半径或Sobolev界，结论针对光滑流形而非原度量的等距。稿件为AI产生的研究手稿，未经独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为非负截面曲率单连通闭四维流形上的无迹Ricci张量。",
+      "作者声称小能量下流形微分同胚于S⁴、CP²或S²×S²之一。",
+      "证明以正爱因斯坦非负曲率四维流形分类作为明确前提。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,15 @@
   "abstractEnglish": "We prove that almost-sure transience in a fixed direction implies a deterministic limiting velocity with positive projection in that direction for nearest-neighbor random walks in independent and identically distributed uniformly elliptic environments on ℤd, d ≥ 2. This resolves the ballisticity conjecture positively.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Directional transience implies ballisticity",
+  "titleZh": "方向暂态蕴含弹道性",
+  "details": {
+    "overview": "稿件研究ℤd（d≥2）上独立同分布均匀椭圆环境中的最近邻随机游走，证明若几乎必然在固定方向上暂态，则存在确定性极限速度且在该方向投影为正。摘要表示，这正面解决了弹道性猜想。该结果连接随机环境中的方向行为与渐近速度，属于概率论与数学物理。",
+    "keyPoints": [
+      "证明固定方向几乎必然暂态蕴含正投影的确定性极限速度。",
+      "适用于独立同分布均匀椭圆环境中的最近邻随机游走。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

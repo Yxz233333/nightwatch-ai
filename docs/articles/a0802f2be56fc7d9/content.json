@@ -10,5 +10,16 @@
   "abstractEnglish": "We determine the exponential scale of the least ℓ1 distortion of unit-cost edit distance on all strings of length at most d. For every sufficiently large d, uniformly over finite alphabets of size at least two, the distortion lies between $`\\exp(c\\sqrt{\\log d\\,\\log\\log d})`$ and $`\\exp(C\\sqrt{\\log d\\,\\log\\log d})`$ for absolute constants $`c,C\\gt 0`$. The lower bound already holds on binary strings of one common length. Thus the order of logarithmic distortion is sharp up to absolute constants.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Edit Distance in l1: Matching Bounds up to Constants in the Exponent",
+  "titleZh": "ℓ1中的编辑距离：指数中常数意义下的匹配界",
+  "details": {
+    "overview": "稿件研究单位代价编辑距离在长度至多d的所有字符串上的最小ℓ1扭曲的指数尺度。作者声称，对充分大的d，一致于大小至少为二的有限字母表，扭曲介于exp(c√(log d log log d))与exp(C√(log d log log d))之间，其中c,C为绝对常数。下界已在等长二进制字符串上成立。因此对数扭曲的阶在绝对常数意义下是紧的，解决了该问题指数尺度的上下界匹配。",
+    "keyPoints": [
+      "确定编辑距离ℓ1扭曲的指数尺度为exp(Θ(√(log d log log d)))。",
+      "下界已在等长二进制字符串上成立，上界对任意有限字母表一致。",
+      "结果将扭曲阶确定到绝对常数因子。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

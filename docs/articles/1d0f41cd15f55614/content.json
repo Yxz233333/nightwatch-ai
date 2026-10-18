@@ -1,7 +1,7 @@
 {
   "id": "1d0f41cd15f55614",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数学物理与谱理论",
   "title": "Pure-Point Spectrum for the Two-Dimensional Anderson Model at Every Positive Disorder",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Pure-Point-Spectrum-for-the-Two-Dimensional-Anderson-Model-at-Every-Positive-Disorder-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For each fixed positive disorder strength, we prove that the nearest-neighbor Anderson operator on the square lattice with independent uniform site potentials almost surely has pure-point spectral type throughout its spectrum. This resolves the pure-point assertion of the two-dimensional Anderson localization conjecture for the uniform single-site law.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Pure-Point Spectrum for the Two-Dimensional Anderson Model at Every Positive Disorder",
+  "titleZh": "二维Anderson模型在任意正无序下的纯点谱",
+  "details": {
+    "overview": "稿件研究正方形格点上带独立均匀格点势的最近邻Anderson算子。作者声称对每个固定正无序强度，该算子几乎必然在整个谱上具有纯点谱型，从而解决二维Anderson局域化猜想中关于均匀单格点分布的纯点断言。若成立，这将为二维无序系统的谱局域化提供完整描述。该手稿为AI产生，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "对每个固定正无序强度研究正方形格点上的最近邻Anderson算子。",
+      "声称几乎必然在整个谱上具有纯点谱型。",
+      "作者称这解决了二维Anderson局域化猜想的纯点断言（均匀单格点分布）。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

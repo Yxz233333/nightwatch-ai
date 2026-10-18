@@ -1,7 +1,7 @@
 {
   "id": "7619d8fe1516a876",
   "section": "papers",
-  "category": "代数几何",
+  "category": "群环理论",
   "title": "A Torsion-Free Group Algebra with Zero Divisors",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-Torsion-Free-Group-Algebra-with-Zero-Divisors-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We disprove Kaplansky's zero-divisor conjecture by constructing a finitely presented torsion-free group G for which $`\\mathbb F_2[G]`$ has nonzero zero divisors. The group admits a finite two-dimensional classifying space.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Torsion-Free Group Algebra with Zero Divisors",
+  "titleZh": "一个含零因子的无挠群代数",
+  "details": {
+    "overview": "该稿件声称否证了Kaplansky零因子猜想，构造了一个有限表示的无挠群G，使得𝔽2[G]含有非零零因子。摘要还表示该群具有有限二维分类空间。研究对象属于群环与零因子猜想；手稿为AI产生，收录不表示已完成独立审查或同行评议，摘要未给出构造细节。",
+    "keyPoints": [
+      "构造有限表示无挠群G使𝔽2[G]有零因子",
+      "声称否证Kaplansky零因子猜想",
+      "该群具有有限二维分类空间"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

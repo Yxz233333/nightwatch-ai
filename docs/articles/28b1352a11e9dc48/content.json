@@ -10,5 +10,16 @@
   "abstractEnglish": "Fix half the labels in a Thorp shuffle on $`2^d`$ positions and reveal their complete trajectories. We prove that, after an explicit absolute number of coordinate sweeps, the conditional permutation of the remaining labels approaches uniform in expected total variation as $`d\\to\\infty`$, uniformly in the initial layout. The resulting constructions give full-deck mixing in a constant multiple of d physical shuffles.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Conditional permutations in a revealed switching environment",
+  "titleZh": "揭示切换环境下的条件置换",
+  "details": {
+    "overview": "稿件研究Thorp洗牌在2^d个位置上固定一半标签并揭示其完整轨迹后的条件置换。作者声称，经过显式的绝对常数次坐标扫描，剩余标签的条件置换在期望全变差意义下随d趋于无穷趋近均匀，且对初始布局一致；由此可在d的常数倍次物理洗牌内实现整副牌混合。",
+    "keyPoints": [
+      "固定一半标签并揭示其完整轨迹，考察剩余标签的条件置换。",
+      "绝对常数次坐标扫描后，条件置换期望全变差趋近均匀。",
+      "由此整副牌在d的常数倍次物理洗牌内混合。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

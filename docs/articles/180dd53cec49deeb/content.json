@@ -10,5 +10,16 @@
   "abstractEnglish": "For k ≥ 4, we construct two uncolored graphs that are k-dimensional Weisfeiler–Leman equivalent exactly when a prescribed finite-domain choice system has no compatible choice. The system has $`k+1`$ domains for joint refinement and k for separate-coordinate refinement. A successful choice is detected after two joint rounds or one separate round. Applied to sparse satisfiability, the reduction gives fixed-dimension $`n^{\\Omega(k)}`$ time exclusions under positive-rate ETH, even for deciding equality of these early histograms.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Parity lifts and bounded-treewidth witnesses for Weisfeiler–Leman equivalence",
+  "titleZh": "Weisfeiler–Leman等价的奇偶提升与有界树宽见证",
+  "details": {
+    "overview": "该稿件研究k维Weisfeiler–Leman等价与有限域选择系统可满足性之间的归约。作者声称对k≥4构造两个无着色图，它们k维WL等价当且仅当某个指定有限域选择系统没有相容选择；该系统联合细化有k+1个域，分坐标细化有k个域，成功选择在两轮联合或一轮分坐标后被检测。摘要称应用于稀疏可满足性，在正速率ETH下给出固定维数n^{Ω(k)}时间排除，即使只判定这些早期直方图是否相等。意义在于把WL等价与有界树宽见证及细粒度复杂性联系，但尚未经独立审查。",
+    "keyPoints": [
+      "作者声称对k≥4构造无着色图，其k维WL等价当且仅当指定有限域选择系统无相容选择。",
+      "成功选择可在两轮联合细化或一轮分坐标细化后检测。",
+      "应用于稀疏SAT，在正速率ETH下给出固定维数n^{Ω(k)}时间排除。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

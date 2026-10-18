@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that a nonzero real Laplace eigenfunction with eigenvalue λ > 0 on a fixed smooth closed connected Riemannian surface has nodal length at most $`C\\sqrt\\lambda`$. Together with the known lower bound, this proves Yau's conjecture in this setting.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Sharp nodal length on smooth surfaces",
+  "titleZh": "光滑曲面上尖锐的节点长度",
+  "details": {
+    "overview": "稿件研究固定光滑闭连通黎曼曲面上非零实拉普拉斯特征函数的节点集长度。作者声称证明特征值λ>0时节点长度至多C√λ，并结合已知下界，在该设定下证明Yau猜想。若成立，这将给出节点长度关于特征值的尖锐上界，对谱几何与节点集研究有基础意义。需注意该手稿为AI产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为光滑闭连通黎曼曲面上拉普拉斯特征函数的节点长度",
+      "作者声称节点长度上界为C√λ",
+      "结合已知下界，声称在该设定下证明Yau猜想"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

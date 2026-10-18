@@ -1,7 +1,7 @@
 {
   "id": "6dab0c38a9a6158e",
   "section": "papers",
-  "category": "数学论文",
+  "category": "计算复杂性理论",
   "title": "Perfect completeness for 2-to-1 games",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Perfect-completeness-for-2-to-1-games-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the 2-to-1 Games Conjecture with perfect completeness. For every fixed rational $`\\delta\\in(0,1)`$, it is NP-hard to distinguish satisfiable 2-to-1 games from games of value at most δ, with a fixed alphabet and an explicitly listed unweighted multiset of constraints.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Perfect completeness for 2-to-1 games",
+  "titleZh": "2-to-1博弈的完美完备性",
+  "details": {
+    "overview": "稿件研究2-to-1博弈的近似不可区分性问题。作者声称证明带完美完备性的2-to-1博弈猜想：对每个固定有理数δ∈(0,1)，在固定字母表与显式列出的无权多重约束集下，区分可满足的2-to-1博弈与值至多δ的博弈是NP困难的。研究意义在于推进博弈的PCP型硬度结果，但结果尚未经独立审查。",
+    "keyPoints": [
+      "作者声称证明带完美完备性的2-to-1博弈猜想。",
+      "对每个固定δ∈(0,1)，区分可满足与值≤δ的博弈是NP困难的。",
+      "约束使用固定字母表和显式无权多重集。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

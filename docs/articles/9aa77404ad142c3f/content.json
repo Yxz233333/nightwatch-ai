@@ -1,7 +1,7 @@
 {
   "id": "9aa77404ad142c3f",
   "section": "papers",
-  "category": "数学论文",
+  "category": "泛函分析与集合论",
   "title": "Relative independence of the separable quotient problem",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Relative-independence-of-the-separable-quotient-problem-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "The separable quotient problem asks whether every infinite-dimensional Banach space has a separable infinite-dimensional quotient. We prove that this statement is independent of ZFC, relative to the consistency of ZFC with a measurable cardinal. This holds over both the real and complex fields. For spaces of norm density ℵ1, we obtain independence relative to the consistency of ZFC alone.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Relative independence of the separable quotient problem",
+  "titleZh": "可分商问题的相对独立性",
+  "details": {
+    "overview": "可分商问题问是否每个无限维Banach空间都有可分无限维商空间。稿件摘要称，在ZFC与可测基数一致的前提下，该命题独立于ZFC；实域与复域情形均如此。对于范数密度为ℵ₁的空间，作者声称仅需ZFC的一致性即可得到独立性。研究属于泛函分析与集合论交叉领域，材料仅见摘要，未展开力迫构造或证明。",
+    "keyPoints": [
+      "声称可分商问题相对ZFC独立，需可测基数一致性。",
+      "实域与复域情形均适用。",
+      "范数密度ℵ₁空间仅需ZFC一致性。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

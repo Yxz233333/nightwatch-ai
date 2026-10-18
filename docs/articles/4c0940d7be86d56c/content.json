@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the graph-decomposition conjecture of Ascoli, He, Park, and Talagrand. Every graph admits a partition into a universally bounded number of fixed edge pieces, each having ordinary containment threshold at most a universal constant times the original graph's integral expectation threshold. The partition is chosen before sampling the random host, and the separate embeddings of the pieces need not agree on shared vertices.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Graph Decompositions at the Integral Expectation Threshold",
+  "titleZh": "积分期望阈值处的图分解",
+  "details": {
+    "overview": "稿件证明Ascoli、He、Park与Talagrand提出的图分解猜想。作者声称：每个图都可分解为固定边块，块数有通用上界；每块的普通包含阈值不超过原图积分期望阈值的通用常数倍。分解在随机宿主抽样之前选定，各块的嵌入无需在共享顶点上一致。该结果把图的阈值行为归约到有限个固定边块上。",
+    "keyPoints": [
+      "证明Ascoli、He、Park与Talagrand的图分解猜想",
+      "每图可分成通用有界数量的固定边块，各块阈值受原图积分期望阈值常数倍控制",
+      "分解先于随机宿主抽样选定，各块嵌入无需在共享顶点上一致"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

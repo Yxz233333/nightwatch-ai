@@ -1,7 +1,7 @@
 {
   "id": "a965d79c02beaeab",
   "section": "papers",
-  "category": "数学论文",
+  "category": "拓扑群与变换群",
   "title": "The Hilbert–Smith conjecture in every finite dimension",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Hilbert–Smith conjecture in every finite dimension: every locally compact second-countable Hausdorff group acting faithfully and jointly continuously on a connected Hausdorff second-countable finite-dimensional topological manifold without boundary is a Lie group.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Hilbert–Smith conjecture in every finite dimension",
+  "titleZh": "每个有限维数下的Hilbert–Smith猜想",
+  "details": {
+    "overview": "该稿件声称在每个有限维数下证明了Hilbert–Smith猜想：任何局部紧、第二可数Hausdorff群，若忠实且联合连续地作用在连通、Hausdorff、第二可数、有限维、无边的拓扑流形上，则该群是Lie群。摘要仅给出这一陈述，未说明证明策略或关键步骤。若成立，将解决拓扑群作用理论中长期悬而未决的核心问题。需注意这是AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "稿件声称在每个有限维数证明Hilbert–Smith猜想。",
+      "结论为：满足给定作用条件的局部紧第二可数Hausdorff群必是Lie群。",
+      "摘要未交代证明方法，结论尚待独立审查。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

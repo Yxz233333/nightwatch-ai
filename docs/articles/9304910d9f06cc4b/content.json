@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove Quillen's conjecture for all finite groups and all primes. More precisely, if a finite group G has trivial largest normal p-subgroup $`O_p(G)`$, then the poset of nontrivial elementary abelian p-subgroups of G has nonzero augmented reduced rational homology. This establishes the stronger rational-homology form of the conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Rational homology and Quillen's conjecture",
+  "titleZh": "有理同调与Quillen猜想",
+  "details": {
+    "overview": "稿件提出证明Quillen猜想对所有有限群和所有素数成立。具体而言，若有限群G的最大正规p-子群O_p(G)平凡，则G的非平凡初等交换p-子群偏序集具有非零增广约化有理同调。摘要表示这建立了该猜想的更强有理同调形式。研究意义在于将Quillen猜想推广到有理同调层面，但需注意该手稿为AI产生，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "证明对所有有限群和素数，若O_p(G)平凡，则初等交换p-子群偏序集的有理同调非零。",
+      "建立Quillen猜想的更强有理同调形式，而非仅同调非零。",
+      "手稿为AI产生，收录不表示已完成独立审查或同行评议。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

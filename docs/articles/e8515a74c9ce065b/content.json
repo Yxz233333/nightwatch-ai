@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Gaussian free field and SLE$`_4`$ scaling limits for uniformly sampled real nearest-neighbor Lipschitz heights on the triangular lattice, resolving Schramm's Problem 2.3. On approximations of smooth simply connected domains, the centered height field converges as a random distribution to a multiple of the Dirichlet Gaussian free field. At one tuned two-arc boundary amplitude, the zero-height interface converges in uniform curve distance to chordal SLE$`_4`$. We identify the relation between the field variance and the boundary height in terms of an implicit stationary tangent-flux coefficient.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Uniform real Lipschitz surfaces on the triangular lattice",
+  "titleZh": "三角格上的一致实Lipschitz曲面",
+  "details": {
+    "overview": "稿件研究三角格上均匀采样的实最近邻Lipschitz高度，作者声称证明了其Gaussian自由场与SLE4标度极限，并称解决Schramm问题2.3。在光滑单连通区域逼近上，中心化高度场作为随机分布收敛到Dirichlet Gaussian自由场的倍数；在某个调谐的双弧边界振幅下，零高度界面按一致曲线距离收敛到弦SLE4。摘要还称以隐式平稳切向通量系数刻画场方差与边界高度的关系。该手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象是三角格上均匀采样的实最近邻Lipschitz高度。",
+      "作者声称高度场收敛到Dirichlet Gaussian自由场倍数，界面收敛到弦SLE4。",
+      "摘要称解决Schramm问题2.3并给出方差与边界高度的隐式关系。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

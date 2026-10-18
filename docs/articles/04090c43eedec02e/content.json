@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that one independent sample per element suffices for a constant-competitive prophet inequality on every finite matroid. The guarantee holds even when the arrival-order adversary observes all samples, all online values, and the algorithm's entire random seed. The rule needs no description of the value distributions and achieves the absolute competitive ratio $`2^{-310}`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "One Sample Suffices for Matroid Prophet Inequalities against an Almighty Adversary",
+  "titleZh": "对抗全能对手的拟阵先知不等式：单样本即足够",
+  "details": {
+    "overview": "稿件研究拟阵上的先知不等式问题：每个元素只需一个独立样本，作者声称即可在任意有限拟阵上获得常数竞争比。摘要表示，即使到达顺序对手能看到全部样本、全部在线取值以及算法的整个随机种子，该保证仍成立；规则无需知道取值分布，绝对竞争比为2^{-310}。研究意义在于把样本需求降到每元素一个，并强化了对手能力假设。",
+    "keyPoints": [
+      "每个元素仅需一个独立样本即可构造规则",
+      "对手可观察样本、在线取值与算法随机种子",
+      "无需分布描述，声称绝对竞争比为2^{-310}"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

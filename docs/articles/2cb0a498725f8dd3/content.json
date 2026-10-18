@@ -10,5 +10,16 @@
   "abstractEnglish": "We determine the limiting free energy of the Ising perceptron with independent Gaussian patterns for every bounded Borel log-potential, at every fixed positive temperature and pattern density. We give an explicit variational formula for the limit and prove convergence in expectation and probability.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The free energy of the Ising random perceptron",
+  "titleZh": "Ising随机感知机的自由能",
+  "details": {
+    "overview": "稿件研究具有独立高斯模式的Ising感知机模型，摘要声称对任意有界Borel对数势、每个固定正温度和模式密度，确定了极限自由能。作者给出极限的显式变分公式，并证明依期望和依概率收敛。该结果属于随机感知机与统计物理交叉的概率分析，材料未涉及具体证明技术或与已有结果的比较。",
+    "keyPoints": [
+      "研究对象为独立高斯模式下的Ising感知机。",
+      "对任意有界Borel对数势给出极限自由能的显式变分公式。",
+      "证明在固定正温度和模式密度下依期望与依概率收敛。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

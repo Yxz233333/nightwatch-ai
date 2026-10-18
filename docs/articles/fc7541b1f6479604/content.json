@@ -1,7 +1,7 @@
 {
   "id": "fc7541b1f6479604",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论与统计物理",
   "title": "Canonical conformal limits of subcritical FK planar maps",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Canonical-conformal-limits-of-subcritical-FK-planar-maps-September-24-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For every fixed $`0\\lt q\\lt 4`$, we prove joint convergence of spherical Fortuin–Kasteleyn planar maps in their flag-triangle uniformization to the corresponding unit-area Liouville quantum gravity sphere decorated by an independent conformal loop ensemble. The convergence includes the area measure, deterministically rescaled graph distances between all vertex pairs, and the full nested interface collection, with interfaces converging uniformly up to reparameterization.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Canonical conformal limits of subcritical FK planar maps",
+  "titleZh": "次临界FK平面图的典范共形极限",
+  "details": {
+    "overview": "稿件研究球面Fortuin–Kasteleyn平面图在旗三角形均匀化下的极限。作者声称：对每个固定0<q<4，这类图联合收敛到单位面积Liouville量子引力球面，并独立装饰一个共形环集合。收敛包括面积测度、所有顶点对之间经确定性重标度的图距离，以及完整的嵌套界面集合，界面在重参数化意义下一致收敛。该结果连接随机平面图与Liouville量子引力。",
+    "keyPoints": [
+      "作者声称对每个固定0<q<4，球面FK平面图联合收敛到单位面积Liouville量子引力球面",
+      "收敛涵盖面积测度、重标度图距离与完整嵌套界面集合",
+      "界面在重参数化意义下一致收敛"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

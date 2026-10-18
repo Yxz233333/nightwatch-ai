@@ -10,5 +10,16 @@
   "abstractEnglish": "We solve the Kervaire invariant problem at the prime three for the standard Kervaire classes in the mod-three Adams spectral sequence. These classes survive precisely at indices 0, 2, and 3, and each surviving detection coset contains an element of additive order three. In particular, there is an order-three Kervaire element in stem 322.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Kervaire invariant problem at the prime three",
+  "titleZh": "素数三处的Kervaire不变量问题",
+  "details": {
+    "overview": "稿件研究模三Adams谱序列中标准Kervaire类的Kervaire不变量问题。作者声称这些类恰在指标0、2、3处存活，且每个存活检测陪集包含一个加法阶为三的元素；特别地，在stem 322中存在一个阶为三的Kervaire元素。摘要未给出证明细节或独立验证信息。",
+    "keyPoints": [
+      "研究模三Adams谱序列中标准Kervaire类的存活问题。",
+      "这些类恰在指标0、2、3处存活。",
+      "每个存活检测陪集含加法阶三元素，stem 322中有阶三Kervaire元素。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

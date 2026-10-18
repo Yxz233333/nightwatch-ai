@@ -1,7 +1,7 @@
 {
   "id": "a336558cd9e7248d",
   "section": "papers",
-  "category": "数学论文",
+  "category": "算子代数",
   "title": "An explicit obstruction to nuclear norm-ultrapower embeddings",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/An-explicit-obstruction-to-nuclear-norm-ultrapower-embeddings-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We give a negative answer to Kirchberg's norm-ultrapower embedding problem. We construct an explicit separable unital full group C∗-algebra that admits no unital embedding into Bω, for any nonzero unital nuclear C∗-algebra B and any free ultrafilter ω on ℕ. In particular, it does not embed unitally into $`\\mathcal O_2^\\omega`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An explicit obstruction to nuclear norm-ultrapower embeddings",
+  "titleZh": "核范数超幂嵌入的一个显式障碍",
+  "details": {
+    "overview": "稿件对Kirchberg的范数超幂嵌入问题给出否定回答。摘要称构造了一个显式可分的单位全群C*代数，使得对任意非零单位核C*代数B和ℕ上的任意自由超滤子ω，该代数都不能单位嵌入Bω；特别地，它不能单位嵌入O₂^ω。研究对象属于算子代数中的C*代数嵌入问题，作者声称的结果若成立，将为该嵌入问题提供具体反例。材料仅见摘要，未展开构造与论证。",
+    "keyPoints": [
+      "对Kirchberg范数超幂嵌入问题给出否定回答。",
+      "构造显式可分单位全群C*代数，不能单位嵌入任意Bω。",
+      "特别地不能单位嵌入O₂^ω，细节仅见摘要。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

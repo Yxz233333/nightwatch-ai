@@ -1,7 +1,7 @@
 {
   "id": "729e27761e2a0b56",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数几何",
   "title": "A singular normal affine surface with free tangent sheaf",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-singular-normal-affine-surface-with-free-tangent-sheaf-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a singular normal affine complex surface whose tangent sheaf is free of rank two. This disproves the Lipman–Zariski conjecture in characteristic zero.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A singular normal affine surface with free tangent sheaf",
+  "titleZh": "一个切层自由的奇异正规仿射曲面",
+  "details": {
+    "overview": "该稿件构造了一个奇异正规仿射复曲面，其切层是秩二的自由层，声称由此否证特征零下的Lipman–Zariski猜想。研究对象属于代数几何中正规曲面奇点与切层理论。摘要仅给出构造与否定结论，未展开验证细节；该手稿为AI产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "构造切层为秩二自由层的奇异正规仿射复曲面",
+      "声称否证特征零下的Lipman–Zariski猜想",
+      "反例位于复曲面情形"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

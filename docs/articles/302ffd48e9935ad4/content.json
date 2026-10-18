@@ -1,7 +1,7 @@
 {
   "id": "302ffd48e9935ad4",
   "section": "papers",
-  "category": "数学论文",
+  "category": "理论计算机科学",
   "title": "Hellinger contraction with arbitrary Boolean output bias",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Hellinger conjecture for Boolean functions on the uniform discrete cube, with arbitrary output bias. For a Boolean function of mean m and every $`\\rho\\in[-1,1]`$, the loss $`\\sqrt{1-m^2}-\\mathbb E\\sqrt{1-(T_\\rho f)^2}`$ is at most $`1-\\sqrt{1-\\rho^2}`$, with equality for signed coordinates. The proof combines asymmetric dimension induction, a calibrated noise-semigroup energy estimate, and finite exact arithmetic certificates. The Hellinger inequality also yields the Courtade–Kumar information bound.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Hellinger contraction with arbitrary Boolean output bias",
+  "titleZh": "任意布尔输出偏置下的Hellinger收缩",
+  "details": {
+    "overview": "稿件研究均匀离散立方体上布尔函数的Hellinger猜想，允许任意输出偏置。作者声称：对均值m的布尔函数及每个ρ∈[-1,1]，损失√(1-m²)-E√(1-(T_ρf)²)至多1-√(1-ρ²)，符号坐标取等。证明结合非对称维数归纳、校准噪声半群能量估计与有限精确算术证书；该不等式还推出Courtade–Kumar信息界。摘要未展开细节，结果尚待独立审查。",
+    "keyPoints": [
+      "研究均匀离散立方体上布尔函数在任意输出偏置下的Hellinger猜想",
+      "声称损失√(1-m²)-E√(1-(T_ρf)²)≤1-√(1-ρ²)，符号坐标取等",
+      "证明结合非对称维数归纳、噪声半群能量估计与有限精确算术证书；推出Courtade–Kumar信息界"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Gaussian moat conjecture: no infinite walk through distinct Gaussian primes can have bounded steps. More strongly, for each fixed finite step bound, the connected components of the Gaussian-prime graph have uniformly bounded size. This bound applies to every starting prime, including primes on the coordinate axes, and is nonexplicit. The proof constructs a finite periodic sieve obstruction using geometric sampling and information-theoretic estimates.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Bounded-Step Walks on Gaussian Primes",
+  "titleZh": "高斯素数上的有界步长行走",
+  "details": {
+    "overview": "稿件研究高斯素数图上的行走。摘要表示，作者证明高斯护城河猜想：不存在经过不同高斯素数的无限行走具有有界步长。更强地，对每个固定有限步长界，高斯素数图的连通分量大小一致有界；该界适用于每个起始素数，包括坐标轴上的素数，且是非显式的。证明通过几何采样和信息论估计构造有限周期筛障碍。研究意义在于解决高斯护城河猜想并给出连通分量的一致有界性。",
+    "keyPoints": [
+      "证明高斯护城河猜想：不同高斯素数间不存在有界步长无限行走。",
+      "对每个固定步长界，连通分量大小一致有界且适用于所有起始素数。",
+      "证明构造有限周期筛障碍，使用几何采样与信息论估计。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

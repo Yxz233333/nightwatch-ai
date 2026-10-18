@@ -1,7 +1,7 @@
 {
   "id": "cf03d6013879c3c4",
   "section": "papers",
-  "category": "数学论文",
+  "category": "计算复杂性理论",
   "title": "Uniform Matrix Hitting Points in Every Positive Characteristic",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Uniform-Matrix-Hitting-Points-in-Every-Positive-Characteristic-October-4-2026/uniform-matrix-hitting-points-positive-characteristic.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a single matrix substitution that detects every nonzero size-s division-free noncommutative formula in n variables over every field of a given positive characteristic. One deterministic machine, given a promised prime p in binary and n, s in unary, outputs matrices over 𝔽p of dimension $`O(n^3s^6)`$ in polynomial bit time. The same tuple works with arbitrary extension-field coefficients, including in characteristic two. The construction also applies to the stated acyclic algebraic path programs.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Uniform Matrix Hitting Points in Every Positive Characteristic",
+  "titleZh": "任意正特征域上的一致矩阵击中点",
+  "details": {
+    "overview": "稿件研究非交换无除法算术公式的非零性检测。摘要声称构造单一矩阵替换，可在给定正特征的任意域上检测每个非零的n变量、规模s的无除法非交换公式；一台确定性机器在二进制输入素数p、一元输入n与s时，以多项式比特时间输出𝔽p上维数O(n³s⁶)的矩阵。该构造对任意扩域系数同样适用，包括特征二，并适用于所述无环代数路径程序。",
+    "keyPoints": [
+      "构造单一矩阵替换检测非零无除法非交换公式",
+      "输出矩阵维数O(n³s⁶)，运行时间为多项式比特时间",
+      "适用于任意扩域系数，包括特征二"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

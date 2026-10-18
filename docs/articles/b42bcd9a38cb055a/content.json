@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a two-dimensional ramified regular local ring A in mixed characteristic $`(0,5)`$ for which the integral map $`K_3(A)\\to K_3(\\mathop{\\mathrm{Frac}}\\nolimits A)`$ has nonzero kernel. This gives a negative answer to the unrestricted integral Gersten conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An integral degree-three Gersten counterexample",
+  "titleZh": "一个整系数三次Gersten反例",
+  "details": {
+    "overview": "稿件在混合特征(0,5)下构造了一个二维分歧正则局部环A，使得整系数映射K_3(A)→K_3(Frac A)的核非零。作者据此对无限制的整系数Gersten猜想给出否定回答。研究对象是代数K理论中Gersten猜想的整系数版本，结果说明该猜想在二维分歧正则局部环、混合特征情形下不成立，对理解K理论局部—整体性质有参考意义。",
+    "keyPoints": [
+      "构造混合特征(0,5)下二维分歧正则局部环A",
+      "证明K_3(A)→K_3(Frac A)的核非零",
+      "据此否定无限制的整系数Gersten猜想"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

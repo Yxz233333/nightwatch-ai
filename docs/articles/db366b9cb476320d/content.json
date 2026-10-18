@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the rational Hodge conjecture in every codimension on every self-power of a complex abelian sixfold with an imaginary-quadratic action and a compatible polarization whose rational homological Hermitian form is hyperbolic of signature $`(3,3)`$. We also prove it in every codimension on every self-power of a complex abelian variety of dimension at most five admitting an imaginary-quadratic action. Both results include nonsimple varieties and special periods with additional endomorphisms. The proof uses the companion theorem on the rational Hodge conjecture for CM abelian varieties.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Weil classes and Hodge classes on abelian powers",
+  "titleZh": "阿贝尔幂上的Weil类与Hodge类",
+  "details": {
+    "overview": "稿件研究具有虚二次作用与相容极化的复阿贝尔六重体自幂上的有理Hodge猜想。作者声称当有理同调Hermitian形式为符号(3,3)的双曲形式时，在每个余维数上证明该猜想；还声称对维数至多5、容许虚二次作用的复阿贝尔簇的每个自幂也在每个余维数上证明。摘要称两结果均包含非单簇和带额外自同态的 special periods，证明使用CM阿贝尔簇有理Hodge猜想的伴随定理。该手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象是带虚二次作用与相容极化的阿贝尔六重体自幂。",
+      "作者声称在双曲(3,3)形式条件下每个余维数上有理Hodge猜想成立。",
+      "摘要称结果覆盖维数至多5的虚二次作用阿贝尔簇自幂。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

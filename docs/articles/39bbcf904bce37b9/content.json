@@ -10,5 +10,16 @@
   "abstractEnglish": "For every integer n ≥ 2 and every origin-symmetric convex body $`K\\subset\\mathbb R^n`$, we prove that the Gromov width of $`\\mathop{\\mathrm{int}}\\nolimits K\\times\\mathop{\\mathrm{int}}\\nolimits K^\\circ`$ is 4. We construct smooth symplectic embeddings of standard balls of every capacity $`0\\lt c\\lt 4`$ into this polar product. Volume preservation then resolves the symmetric Mahler conjecture positively in every dimension.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Symplectic Balls in Symmetric Polar Products",
+  "titleZh": "对称极积中的辛球",
+  "details": {
+    "overview": "稿件研究原点对称凸体 K 与其极体 K^∘ 的极积 int K × int K^∘ 的辛容量。作者声称对任意 n≥2 证明其 Gromov 宽度为 4，并构造容量在 0 到 4 之间每个标准球的平滑辛嵌入。摘要表示，借助体积保持可正面解决各维数的对称 Mahler 猜想。研究把辛嵌入与凸几何体积积不等式联系起来。",
+    "keyPoints": [
+      "声称极积 int K×int K^∘ 的 Gromov 宽度为 4",
+      "构造容量 0<c<4 的标准球平滑辛嵌入",
+      "摘要称由体积保持推出对称 Mahler 猜想"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

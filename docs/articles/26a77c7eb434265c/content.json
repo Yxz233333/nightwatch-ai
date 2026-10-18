@@ -10,5 +10,16 @@
   "abstractEnglish": "Every smooth normalized positive triple of closed two-forms on a closed connected oriented four-manifold admits a smooth deformation, with each cohomology class fixed, to a hyperkähler triple. This resolves Donaldson's hypersymplectic deformation conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Deforming hypersymplectic four-manifolds to hyperkähler triples",
+  "titleZh": "将超辛四维流形形变为超凯勒三元组",
+  "details": {
+    "overview": "稿件研究闭连通可定向四维流形上闭二维形式的“光滑规范化正三元组”，作者声称在保持各上同调类不变的前提下，可将任意这样的三元组光滑地形变为超凯勒三元组，并称这解决了Donaldson提出的超辛形变猜想。该结果若成立，将把超辛结构与超凯勒几何在四维情形下联系起来，属于四维几何与拓扑中的结构性结论。需注意这是AI产生的研究手稿，收录不代表已完成独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象是闭连通可定向四维流形上的光滑规范化正三元组。",
+      "作者声称可在固定各上同调类的情况下形变为超凯勒三元组。",
+      "摘要称该结果解决Donaldson的超辛形变猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

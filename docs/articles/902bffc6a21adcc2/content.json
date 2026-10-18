@@ -10,5 +10,16 @@
   "abstractEnglish": "We resolve the regular-point bi-Lipschitz conjecture in the noncollapsed setting. For every integer n ≥ 2 and every real K, every regular point of a noncollapsed $`\\mathrm{RCD}(K,n)`$ space has an open neighborhood bi-Lipschitz homeomorphic to an open subset of ℝn. The bi-Lipschitz constant depends only on n, and the neighborhood uses the restricted ambient distance.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Bi-Lipschitz Coordinates at Regular Points of Noncollapsed RCD Spaces",
+  "titleZh": "非塌缩RCD空间正则点处的双Lipschitz坐标",
+  "details": {
+    "overview": "该稿件研究非塌缩RCD(K,n)空间正则点附近的局部几何。作者声称解决了非塌缩情形下的正则点双Lipschitz猜想：对每个整数n≥2和每个实数K，非塌缩RCD(K,n)空间的每个正则点都有开邻域双Lipschitz同胚于ℝ^n的开子集，双Lipschitz常数仅依赖n，邻域使用限制的环境距离。若成立，这为RCD空间正则点提供统一的局部欧氏坐标。",
+    "keyPoints": [
+      "对象为非塌缩RCD(K,n)空间的正则点，n≥2、K任意实数",
+      "每个正则点有开邻域双Lipschitz同胚于ℝ^n的开子集",
+      "双Lipschitz常数仅依赖n，邻域使用限制的环境距离"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

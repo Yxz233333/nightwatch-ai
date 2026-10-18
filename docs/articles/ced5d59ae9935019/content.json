@@ -1,7 +1,7 @@
 {
   "id": "ced5d59ae9935019",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何群论",
   "title": "Quasi-isometric recognition of virtually polycyclic groups",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/quasi-isometric-recognition-of-virtually-polycyclic-groups-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every finitely generated group quasi-isometric to a finitely generated virtually polycyclic group is virtually polycyclic. This resolves the lattice-recognition conjecture of Eskin, Fisher and Whyte, which allows the ambient solvable Lie group in the conclusion to differ from the one in the hypothesis.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Quasi-isometric recognition of virtually polycyclic groups",
+  "titleZh": "虚拟多循环群的拟等距识别",
+  "details": {
+    "overview": "稿件研究虚拟多循环群的拟等距识别问题。作者声称证明：每个与有限生成虚拟多循环群拟等距的有限生成群本身是虚拟多循环群。这解决了 Eskin、Fisher 和 Whyte 的格识别猜想，该猜想允许结论中的环境可解李群与假设中的不同。研究意义在于确认虚拟多循环性在拟等距下的不变性。",
+    "keyPoints": [
+      "证明与有限生成虚拟多循环群拟等距的有限生成群仍是虚拟多循环群。",
+      "解决 Eskin–Fisher–Whyte 的格识别猜想。",
+      "结论允许环境可解李群与假设中的李群不同。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

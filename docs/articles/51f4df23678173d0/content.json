@@ -10,5 +10,16 @@
   "abstractEnglish": "For the planar Ising model with bonds $`J_e=1+\\varepsilon\\xi_e`$, where the ξe have any fixed bounded, nondegenerate, mean-zero iid law, we prove quenched chordal SLE3 convergence for sufficiently small ε > 0. The temperature is the spontaneous-magnetization threshold. Convergence holds in probability over environments for the full oriented curve law in deterministic Jordan-domain approximations.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Quenched SLE₃ limits for general weak random-bond Ising models",
+  "titleZh": "一般弱随机键Ising模型的淬火SLE₃极限",
+  "details": {
+    "overview": "稿件研究平面Ising模型，其键取J_e=1+εξ_e，ξ_e为任意固定的有界、非退化、均值为零的独立同分布随机变量。作者声称：当ε>0足够小时，在自发磁化阈值温度处，淬火意义下的弦SLE₃收敛成立；在确定性Jordan域逼近中，完整的定向曲线分布在环境上依概率收敛。该结果将随机键Ising界面的标度极限推广到一般弱无序情形。",
+    "keyPoints": [
+      "键取J_e=1+εξ_e，ξ_e为任意有界非退化零均值独立同分布随机变量",
+      "在自发磁化阈值温度证明淬火弦SLE₃收敛，ε需足够小",
+      "收敛在环境上依概率成立，覆盖确定性Jordan域逼近中的完整定向曲线分布"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

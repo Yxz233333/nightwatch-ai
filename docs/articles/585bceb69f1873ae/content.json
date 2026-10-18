@@ -10,5 +10,16 @@
   "abstractEnglish": "For random 3-SAT on n Boolean variables, with independent uniformly signed clauses on three distinct variables sampled with replacement, we prove that the first unsatisfiable prefix has variance $`\\Theta(n)`$. The upper bound removes the logarithmic loss in the earlier variance estimate; the matching lower bound follows from Wilson's transition-width theorem.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Linear Variance of the Random 3-SAT Hitting Time",
+  "titleZh": "随机3-SAT命中时间的线性方差",
+  "details": {
+    "overview": "该稿件研究随机3-SAT的不可满足前缀出现时间，即命中时间。摘要表示，在n个布尔变量、子句由三个不同变量独立均匀带符号且有放回抽样生成时，首个不可满足前缀的方差为Θ(n)。上界去掉了此前方差估计中的对数损失，匹配下界由Wilson的转移宽度定理得到。该手稿为AI产生，未经独立审查或同行评议，结论应视为作者声称。",
+    "keyPoints": [
+      "研究随机3-SAT首个不可满足前缀的方差，作者声称其为Θ(n)。",
+      "上界消除此前估计中的对数损失，下界由Wilson转移宽度定理给出。",
+      "模型为n个变量、三个不同变量独立均匀带符号且有放回抽样的子句。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

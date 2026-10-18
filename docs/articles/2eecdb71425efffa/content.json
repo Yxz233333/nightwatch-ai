@@ -1,7 +1,7 @@
 {
   "id": "2eecdb71425efffa",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数几何",
   "title": "Minimal models in numerical dimension one",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Minimal-models-in-numerical-dimension-one-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We resolve the numerical-dimension-one case of the minimal-model conjecture for smooth connected complex projective varieties of dimension at least three. If KX is pseudo-effective and $`\\kappa_\\sigma(X,K_X)=1`$, with κσ defined by section growth with a fixed ample twist, then X admits a projective ℚ-factorial terminal minimal model.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Minimal models in numerical dimension one",
+  "titleZh": "数值维数一中的极小模型",
+  "details": {
+    "overview": "稿件研究光滑连通复射影簇（维数至少三）的极小模型猜想中数值维数为一的情形。摘要表示，若KX伪有效且κσ(X,KX)=1（κσ由固定丰沛扭曲下的截面增长定义），则X存在射影ℚ-分解终端极小模型。该结果针对极小模型纲领中的边界情形，作者声称解决了该特定情形；材料未说明证明方法或与其他工作的关系。",
+    "keyPoints": [
+      "研究对象为维数至少三的光滑连通复射影簇。",
+      "在KX伪有效且κσ=1条件下声称存在射影ℚ-分解终端极小模型。",
+      "κσ由固定丰沛扭曲下的截面增长定义。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

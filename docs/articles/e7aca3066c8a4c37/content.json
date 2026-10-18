@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a finite three-electron Coulomb molecule whose spin-summed ground-state density cannot be reproduced by any ground-state ensemble of noninteracting electrons in a single real, spin-independent local potential in $`L^{3/2}(\\mathbf R^3)+L^\\infty(\\mathbf R^3)`$. The molecule has two equal positive integer nuclear charges, specified by an exact finite nonnumerical formula.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Coulomb ground-state density without Kohn-Sham ensemble representation",
+  "titleZh": "一个没有Kohn-Sham系综表示的Coulomb基态密度",
+  "details": {
+    "overview": "稿件构造了一个有限三电子Coulomb分子，其自旋求和基态密度不能由任何非相互作用电子在单个实自旋无关局部势（属于L^{3/2}(ℝ3)+L^∞(ℝ3)）中的基态系综重现。该分子具有两个相等的正整数核电荷，由精确有限非数值公式指定。该结果属于量子化学与密度泛函理论领域。",
+    "keyPoints": [
+      "构造三电子Coulomb分子，其基态密度不能由非相互作用电子系综重现。",
+      "局部势属于L^{3/2}(ℝ3)+L^∞(ℝ3)，且为实自旋无关。",
+      "分子具有两个相等的正整数核电荷，由精确有限非数值公式指定。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

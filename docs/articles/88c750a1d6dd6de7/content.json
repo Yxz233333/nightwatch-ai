@@ -1,7 +1,7 @@
 {
   "id": "88c750a1d6dd6de7",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数学物理",
   "title": "Area-controlled end replacement and the Bondi Penrose inequality in the CKS class",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Area-controlled-end-replacement-and-the-Bondi-Penrose-inequality-in-the-CKS-class-September-27-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We replace a three-dimensional Cha–Khuri–Sakovich hyperboloidal end by an asymptotically flat end while preserving the dominant energy condition and each fixed compact interior. For strictly future-timelike CKS initial-data charge, the replacements lose asymptotically no enclosing area and their ADM masses tend to the invariant Bondi mass. Combining this construction with the companion numerical spacetime Penrose theorem yields the sharp Bondi bound for possibly disconnected weakly future trapped boundaries in this class. Horizon-regular Schwarzschild exteriors attain equality at every positive mass.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Area-controlled end replacement and the Bondi Penrose inequality in the CKS class",
+  "titleZh": "面积控制的端替换与CKS类中的Bondi-Penrose不等式",
+  "details": {
+    "overview": "稿件在Cha–Khuri–Sakovich（CKS）类中研究三维双曲端与渐近平坦端的替换。作者声称，在保持主导能量条件及每个固定紧内部的前提下，可将CKS双曲端替换为渐近平坦端；对严格未来类时CKS初值电荷，替换渐近不损失包围面积，且ADM质量趋于不变的Bondi质量。结合伴随的数值时空Penrose定理，得到该类的尖锐Bondi界，且Schwarzschild外部在正质量时取等。",
+    "keyPoints": [
+      "构造保持主导能量条件的端替换，ADM质量趋于Bondi质量。",
+      "对严格未来类时CKS电荷，替换渐近不损失包围面积。",
+      "结合数值Penrose定理得到尖锐Bondi界，Schwarzschild外部取等。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct, in some sufficiently large fixed finite complex dimension m, a domain in ℂm diffeomorphic to $`\\mathbb R^{2m}`$ that admits a complete Kähler metric with real sectional curvature at most −1 and has only constant bounded holomorphic functions. Its sectional curvatures are unbounded below. The construction gives a negative answer to the one-sided bounded-holomorphic-function question.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "One-sided negative sectional curvature and the holomorphic Liouville property",
+  "titleZh": "单侧负截面曲率与全纯Liouville性质",
+  "details": {
+    "overview": "该稿件研究负曲率流形上的有界全纯函数问题。作者声称在某个足够大的固定有限复维数m中，构造了ℂ^m内微分同胚于ℝ^{2m}的区域，它容许实截面曲率至多−1的完备Kähler度量，且仅有常数有界全纯函数，其截面曲率下方无界。摘要称这否定单侧有界全纯函数问题。若成立，这给出负曲率与全纯Liouville性质关系的一个反例。",
+    "keyPoints": [
+      "在足够大固定复维数中构造微分同胚于ℝ^{2m}的区域",
+      "该区域有截面曲率至多−1的完备Kähler度量，曲率下方无界",
+      "区域仅有常数有界全纯函数，否定单侧有界全纯函数问题"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

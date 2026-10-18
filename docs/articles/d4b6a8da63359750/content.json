@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove Cardy's formula for annealed crossing probabilities in critical planar Poisson–Voronoi percolation in every bounded Jordan quadrilateral. This proves the annealed crossing-probability form of the conformal-invariance conjecture for this model.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Cardy’s formula for critical Poisson–Voronoi percolation",
+  "titleZh": "临界Poisson–Voronoi渗流的Cardy公式",
+  "details": {
+    "overview": "稿件研究临界平面Poisson–Voronoi渗流在任意有界Jordan四边形中的退火穿越概率。作者声称证明了Cardy公式，从而验证了该模型共形不变性猜想的退火穿越概率形式。该结果将Cardy公式从其他平面渗流模型推广到Poisson–Voronoi模型，对理解临界渗流的共形不变性有重要意义。摘要未提供证明方法或独立审查信息。",
+    "keyPoints": [
+      "证明临界平面Poisson–Voronoi渗流在任意有界Jordan四边形中的Cardy公式。",
+      "结果针对退火穿越概率，验证共形不变性猜想的相应形式。",
+      "研究对象为临界Poisson–Voronoi渗流模型。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

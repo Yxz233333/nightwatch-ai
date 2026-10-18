@@ -1,7 +1,7 @@
 {
   "id": "3adadbbde5b6847a",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数学物理",
   "title": "The first lattice correction to Bloch's law",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/first-lattice-correction-bloch-law.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the first lattice correction to Bloch's law for the three-dimensional nearest-neighbor quantum Heisenberg ferromagnet at every fixed spin $`S=\\tfrac12,1,\\tfrac32,\\ldots`$. The spontaneous-magnetization deficit agrees with the full ideal-magnon density up to $`o(\\beta^{-5/2})`$. In addition to the leading Bloch term, this gives the correction $`3\\zeta(5/2)(\\beta S)^{-5/2}/(128\\pi^{3/2})`$. The magnetization is the right derivative at zero field of the thermodynamic pressure; the volume limit precedes the field derivative, and the low-temperature limit is taken last.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The first lattice correction to Bloch's law",
+  "titleZh": "Bloch定律的首个晶格修正",
+  "details": {
+    "overview": "稿件研究三维最近邻量子Heisenberg铁磁体，对每个固定自旋S=1/2,1,3/2,…证明Bloch定律的首个晶格修正。作者声称自发磁化亏损与完整理想磁振子密度相差o(β^{-5/2})，在主导Bloch项之外给出修正3ζ(5/2)(βS)^{-5/2}/(128π^{3/2})。磁化取热力学压强在零场处的右导数，先取体积极限再求场导数，最后取低温极限。",
+    "keyPoints": [
+      "对每个固定自旋S=1/2,1,3/2,…证明Bloch定律的首个晶格修正",
+      "自发磁化亏损与理想磁振子密度相差o(β^{-5/2})，并给出显式修正项",
+      "磁化为零场处压强右导数，体积极限先于场导数，低温极限最后取"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

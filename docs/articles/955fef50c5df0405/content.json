@@ -10,5 +10,16 @@
   "abstractEnglish": "There are separable real Banach spaces that are globally bi-Lipschitz equivalent but not linearly isomorphic. This gives a negative answer to the separable Banach-space Lipschitz-isomorphism problem.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Lipschitz Equivalent Separable Banach Spaces Need Not Be Linearly Isomorphic",
+  "titleZh": "Lipschitz等价的可分Banach空间未必线性同构",
+  "details": {
+    "overview": "稿件研究可分实Banach空间在全局双Lipschitz等价与线性同构之间的关系。作者声称构造了全局双Lipschitz等价但非线性同构的可分实Banach空间，从而对可分Banach空间的Lipschitz同构问题给出否定回答。材料仅提供摘要，未给出构造细节、证明过程或独立验证。",
+    "keyPoints": [
+      "研究对象为可分实Banach空间的全局双Lipschitz等价。",
+      "作者声称存在双Lipschitz等价但非线性同构的例子。",
+      "摘要称这否定回答了可分Banach空间Lipschitz同构问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

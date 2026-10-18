@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct closed connected aspherical topological four-manifolds that are homotopy equivalent but not homeomorphic, disproving the homeomorphism-existence formulation of the Borel conjecture in dimension four. Their common fundamental group is word-hyperbolic. One of the manifolds also has a self-homotopy equivalence not homotopic to a homeomorphism.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Nonhomeomorphic closed aspherical four-manifolds with the same homotopy type",
+  "titleZh": "同伦型相同但不同胚的闭非球面四维流形",
+  "details": {
+    "overview": "稿件构造了闭连通非球面拓扑四维流形，它们彼此同伦等价但不同胚，摘要称这否定了Borel猜想在四维的“同胚存在性”表述。作者指出这些流形的共同基本群是词双曲的，其中一个流形还存在不与任何同胚同伦的自同伦等价。该结果若成立，将触及四维拓扑中同伦型与同胚型关系这一核心问题；但这是AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "构造闭连通非球面拓扑四维流形，彼此同伦等价但不同胚。",
+      "共同基本群为词双曲群，其中一个流形有非平凡自同伦等价。",
+      "摘要称否定Borel猜想四维同胚存在性表述。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

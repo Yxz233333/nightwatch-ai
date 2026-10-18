@@ -1,7 +1,7 @@
 {
   "id": "83788f9cb2077b9c",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数学物理",
   "title": "Quantum Depletion and Momentum Distribution in the Dilute Hard-Sphere Bose Gas",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Quantum-Depletion-and-Momentum-Distribution-in-the-Dilute-Hard-Sphere-Bose-Gas-October-5-2026/Quantum-Depletion-in-the-Dilute-Hard-Sphere-Bose-Gas.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the full scaled Bogoliubov momentum distribution for the depleted particles in the three-dimensional hard-sphere Bose gas at zero temperature. The thermodynamic limit is taken at each fixed density before the dilute limit, uniformly over all pure and mixed ground states. All thermodynamic accumulation values have the same dilute asymptotic: the limiting nonzero-momentum occupation measure has total mass $`8/(3\\sqrt\\pi)`$, giving the depletion fraction $`\\frac{8}{3\\sqrt\\pi}\\sqrt{\\rho a^3}+o(\\sqrt{\\rho a^3})`$ for density ρ and hard-sphere exclusion distance a.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Quantum Depletion and Momentum Distribution in the Dilute Hard-Sphere Bose Gas",
+  "titleZh": "稀薄硬球玻色气体中的量子耗尽与动量分布",
+  "details": {
+    "overview": "稿件研究零温三维硬球玻色气体中耗尽粒子的动量分布。作者声称证明了完整的标度Bogoliubov动量分布：在每个固定密度下先取热力学极限，再取稀薄极限，且对所有纯态与混合基态一致。所有热力学累积值具有相同稀薄渐近，非零动量占据测度的总质量为8/(3√π)，耗尽分数为(8/(3√π))√(ρa³)+o(√(ρa³))，其中ρ为密度、a为硬球排斥距离。该结果刻画了稀薄玻色气体量子耗尽的普适标度行为。",
+    "keyPoints": [
+      "证明零温硬球玻色气体耗尽粒子的完整标度Bogoliubov动量分布",
+      "非零动量占据测度总质量为8/(3√π)",
+      "耗尽分数渐近为(8/(3√π))√(ρa³)量级"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

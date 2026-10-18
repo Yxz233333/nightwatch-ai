@@ -1,7 +1,7 @@
 {
   "id": "6c653ff305746368",
   "section": "papers",
-  "category": "组合数学与图论",
+  "category": "概率论与组合数学",
   "title": "No percolation at criticality on quasi-transitive graphs",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/No-percolation-at-criticality-on-quasi-transitive-graphs-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that critical Bernoulli bond percolation has no infinite cluster on any infinite connected locally finite quasi-transitive graph with critical probability less than one. This resolves the bond form of the criticality conjecture of Benjamini and Schramm.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "No percolation at criticality on quasi-transitive graphs",
+  "titleZh": "拟传递图上临界渗流不发生",
+  "details": {
+    "overview": "稿件研究无限连通局部有限拟传递图上的临界Bernoulli键渗流。作者声称当临界概率小于一时，临界渗流不存在无限簇，从而解决Benjamini–Schramm临界性猜想的键形式。摘要未给出证明策略或对点渗流情形的说明。该结果若成立，表明一大类具有传递性对称的图上临界点处渗流不贯通，是渗流临界性理论的核心问题之一。",
+    "keyPoints": [
+      "对象为无限连通局部有限拟传递图上的临界Bernoulli键渗流。",
+      "假设临界概率小于一，作者声称临界时无无限簇。",
+      "由此解决Benjamini–Schramm临界性猜想的键形式。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

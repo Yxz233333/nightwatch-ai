@@ -10,5 +10,16 @@
   "abstractEnglish": "Deciding joint-update k-dimensional Weisfeiler–Leman equivalence is $`\\mathsf{EXPTIME}`$-complete when the two graphs are given by explicit adjacency matrices and k ≥ 2 is encoded in binary. The result holds even for connected simple uncolored graphs of equal positive order and maximum degree at most three.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Variable-dimension Weisfeiler–Leman equivalence on general and subcubic graphs",
+  "titleZh": "一般图与次三次图上的变维Weisfeiler–Leman等价",
+  "details": {
+    "overview": "稿件研究联合更新k维Weisfeiler–Leman等价的判定复杂度。作者声称：当两个图以显式邻接矩阵给出、且k≥2以二进制编码时，该问题为EXPTIME完全；该结论即使在连通、简单、无着色、阶数相同且最大度不超过三的图上仍成立。这刻画了变维WL等价判定的计算难度，对图同构与描述复杂性研究有理论意义。",
+    "keyPoints": [
+      "判定联合更新k维WL等价在显式邻接矩阵与二进制k下为EXPTIME完全",
+      "结论对连通简单无着色、同阶且最大度≤3的图仍成立",
+      "研究变维WL等价的判定复杂度"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

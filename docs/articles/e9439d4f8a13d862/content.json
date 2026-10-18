@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the weak Ma–Trudinger–Wang condition on a fixed smooth connected compact boundaryless Riemannian manifold of dimension at least two implies a common Hölder estimate for optimal transport maps and their inverses over the entire class of probability densities with fixed positive upper and lower bounds. The maps have homeomorphic representatives, conjugate cut points are allowed, and no density regularity is assumed.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Uniform Bi-Holder Transport from Weak MTW",
+  "titleZh": "从弱MTW条件到一致双Hölder输运",
+  "details": {
+    "overview": "稿件证明在固定光滑连通紧致无边黎曼流形（维数至少2）上，弱Ma–Trudinger–Wang条件蕴含最优输运映射及其逆在全体具有固定正上下界的概率密度类上的一致Hölder估计。映射具有同胚代表，允许共轭割点，且不假设密度正则性。该结果属于最优输运理论领域。",
+    "keyPoints": [
+      "弱MTW条件蕴含最优输运映射及其逆的一致Hölder估计。",
+      "估计适用于具有固定正上下界的全体概率密度，无需密度正则性。",
+      "映射有同胚代表，允许共轭割点。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

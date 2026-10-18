@@ -1,7 +1,7 @@
 {
   "id": "146902b179cd3d7e",
   "section": "papers",
-  "category": "数学论文",
+  "category": "交换代数",
   "title": "Lech's multiplicity conjecture",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Lechs-multiplicity-conjecture-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove Lech's multiplicity conjecture: Hilbert–Samuel multiplicity cannot decrease under a flat local homomorphism of nonzero Noetherian local rings. The result holds in arbitrary dimension, with no restrictions on the residue fields or characteristics.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Lech's multiplicity conjecture",
+  "titleZh": "Lech 重数猜想",
+  "details": {
+    "overview": "稿件提出证明 Lech 重数猜想：在非零 Noether 局部环的平坦局部同态下，Hilbert–Samuel 重数不会下降。摘要表示该结果在任意维数下成立，且对剩余域或特征没有限制。研究意义在于若成立，将为交换代数中重数沿平坦形变的单调性提供一般性结论。需注意该手稿为 AI 产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "作者声称证明 Lech 重数猜想：平坦局部同态下 Hilbert–Samuel 重数不下降。",
+      "结果声称适用于任意维数，且不限制剩余域或特征。",
+      "手稿为 AI 产生，尚未完成独立审查或同行评议。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

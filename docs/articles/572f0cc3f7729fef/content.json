@@ -1,7 +1,7 @@
 {
   "id": "572f0cc3f7729fef",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论与泛函不等式",
   "title": "A dimension-free logarithmic Sobolev inequality for subgaussian log-concave measures",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-dimension-free-logarithmic-Sobolev-inequality-for-subgaussian-log-concave-measures-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every centered log-concave probability measure with a Lebesgue density on ℝn and linear subgaussian parameter a satisfies $`\\mathop{\\mathrm{Ent}}\\nolimits _\\mu(f^2)\\le Ca^2\\int|Df|^2\\,d\\mu`$ for compactly supported smooth f, with one universal constant C. This resolves positively the dimension-free logarithmic Sobolev conjecture for subgaussian log-concave measures.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A dimension-free logarithmic Sobolev inequality for subgaussian log-concave measures",
+  "titleZh": "次高斯对数凹测度的无量纲对数Sobolev不等式",
+  "details": {
+    "overview": "稿件研究ℝⁿ上具Lebesgue密度的中心化对数凹概率测度，设其线性次高斯参数为a。作者声称对紧支撑光滑函数f有Ent_μ(f²)≤Ca²∫|Df|²dμ，其中C为通用常数，从而正面解决次高斯对数凹测度的无量纲对数Sobolev猜想。该结果涉及高维概率与泛函不等式中的维数无关性，但作为AI产生的研究手稿，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为ℝⁿ上中心化对数凹概率测度，线性次高斯参数a",
+      "作者声称Ent_μ(f²)≤Ca²∫|Df|²dμ，C为通用常数",
+      "摘要表示由此正面解决次高斯对数凹测度的无量纲对数Sobolev猜想"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

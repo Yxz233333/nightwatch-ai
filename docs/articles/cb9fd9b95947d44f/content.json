@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct in ZFC a unital infinite-dimensional simple complex C∗-algebra with a faithful tracial state whose nonzero irreducible representations are all unitarily equivalent. This gives a negative answer to Naimark's problem without additional set-theoretic assumptions.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A counterexample to Naimark's problem in ZFC",
+  "titleZh": "ZFC中Naimark问题的一个反例",
+  "details": {
+    "overview": "稿件研究C∗代数中Naimark问题。摘要表示，作者在ZFC集合论内构造了一个单位无限维单复C∗代数，它带有忠实迹态，且其非零不可约表示全部酉等价，从而在不附加额外集合论假设的情况下对Naimark问题给出否定回答。该结果若成立，将说明该问题的答案独立于通常集合论框架之外的额外公理。手稿为AI产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "在ZFC内构造单位无限维单复C∗代数反例。",
+      "该代数有忠实迹态，非零不可约表示均酉等价。",
+      "无需额外集合论假设即否定Naimark问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

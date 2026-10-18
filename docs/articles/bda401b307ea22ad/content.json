@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove quenched chordal SLE3 convergence for the planar Ising model with sufficiently weak independent symmetric two-valued ferromagnetic bonds. The temperature is the critical point defined by spontaneous magnetization. Convergence holds in probability over environments for the full oriented curve law in deterministic Jordan-domain approximations.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Quenched SLE₃ Universality for the Weak Random-Bond Ising Model",
+  "titleZh": "弱随机键Ising模型的淬火SLE₃普适性",
+  "details": {
+    "overview": "稿件研究带弱随机键的平面Ising模型的界面极限。作者声称对足够弱的独立对称二值铁磁键，证明淬火弦SLE₃收敛；温度取由自发磁化定义的临界点。摘要表示收敛在环境上依概率成立，针对确定性Jordan区域逼近中的完整有向曲线律。研究意义在于把SLE₃普适性从确定性模型推广到弱随机键情形。",
+    "keyPoints": [
+      "考察弱独立对称二值铁磁键的平面Ising模型",
+      "声称淬火弦SLE₃收敛在环境上依概率成立",
+      "收敛针对确定性Jordan区域逼近中的完整有向曲线律"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

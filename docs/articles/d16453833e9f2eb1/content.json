@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that stationary random walks on critical spherical FK–Ising planar maps converge to Liouville Brownian motion on the ordinary unit-area $`\\sqrt3`$-quantum sphere, using the geometric and electrical results of the spectral companion. The walk chooses uniformly among all incident half-edges, retaining loops and multiple edges. With the corner measure as the stationary law, the deterministic time acceleration is exactly the number of map edges. For any deterministic metric scale giving the metric-measure limit, convergence retains that same surface and any fixed finite number of conditionally independent walks with their time parameters.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Random Walks on Critical FK–Ising Maps and Liouville Brownian Motion",
+  "titleZh": "临界FK–Ising地图上的随机游走与Liouville布朗运动",
+  "details": {
+    "overview": "该稿件研究临界球面FK–Ising平面地图上的平稳随机游走。作者声称，利用谱伴随稿件的几何与电学结果，这些游走收敛到单位面积√3量子球面上的Liouville布朗运动。游走在所有关联半边上均匀选择，保留环与多重边；以角测度为平稳律时，确定性时间加速恰为地图边数。对任何给出度量-测度极限的确定性度量尺度，收敛保留同一曲面及任意固定有限个条件独立游走及其时间参数。稿件为AI产生的研究手稿，未经独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为临界球面FK–Ising平面地图上的平稳随机游走。",
+      "作者声称其收敛到单位面积√3量子球面上的Liouville布朗运动。",
+      "时间加速等于地图边数，并保留有限个条件独立游走。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

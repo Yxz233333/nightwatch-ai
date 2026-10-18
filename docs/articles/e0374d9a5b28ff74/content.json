@@ -10,5 +10,16 @@
   "abstractEnglish": "We give an arithmetic classification of singular and absolutely continuous unbiased Bernoulli convolutions for every parameter $`\\lambda\\in(0,1)`$. The criterion is expressed through one-sided approximation by explicitly defined finite sets of algebraic units; it is an infinite approximation condition, not a finite membership algorithm. We also establish singular examples beyond reciprocals of Pisot numbers: singularity holds at the reciprocal of every quartic Salem number in $`(1,2)`$ and at the reciprocal of a specified non-Pisot root of an explicit degree-31 polynomial.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Arithmetic classification and non-Pisot singularity for Bernoulli convolutions",
+  "titleZh": "Bernoulli卷积的算术分类与非Pisot奇异性",
+  "details": {
+    "overview": "稿件研究无偏Bernoulli卷积的奇异与绝对连续性质。摘要称对每个参数λ∈(0,1)给出算术分类，判据通过显式定义的代数单位有限集的一侧逼近表达，是无限逼近条件而非有限成员判定算法。作者还给出Pisot数倒数之外的奇异例子：区间(1,2)内每个四次Salem数的倒数处奇异，以及一个显式31次多项式的特定非Pisot根的倒数处奇异。这是AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "对每个λ∈(0,1)给出Bernoulli卷积的算术分类判据。",
+      "判据为无限逼近条件，非有限成员判定算法。",
+      "给出四次Salem数倒数及31次多项式非Pisot根倒数处的奇异例。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

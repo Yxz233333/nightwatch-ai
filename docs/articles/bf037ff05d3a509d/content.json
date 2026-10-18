@@ -1,7 +1,7 @@
 {
   "id": "bf037ff05d3a509d",
   "section": "papers",
-  "category": "代数几何",
+  "category": "数学论文",
   "title": "Finite algebraic envelopes and the Boone–Higman conjecture",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Finite-algebraic-envelopes-and-the-Boone-Higman-conjecture-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Boone–Higman conjecture. A finitely generated group has decidable word problem if and only if it embeds in a finitely presented simple group.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Finite algebraic envelopes and the Boone–Higman conjecture",
+  "titleZh": "有限代数包络与Boone–Higman猜想",
+  "details": {
+    "overview": "稿件研究有限生成群的字问题可判定性与嵌入有限呈现单群之间的关系。作者声称证明了Boone–Higman猜想：一个有限生成群有可判定字问题，当且仅当它可嵌入某个有限呈现单群。该结论若成立，将在群论可计算性与单群嵌入之间建立精确对应，对组合群论有基础性意义。需注意该手稿为AI产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为有限生成群的字问题与有限呈现单群嵌入",
+      "作者声称证明Boone–Higman猜想",
+      "建立字问题可判定性与嵌入有限呈现单群的等价关系"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

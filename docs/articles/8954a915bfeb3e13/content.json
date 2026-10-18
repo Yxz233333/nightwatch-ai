@@ -10,5 +10,15 @@
   "abstractEnglish": "We construct an infinite finitely presented simple amenable group, giving a positive answer to the finite-presentation existence question for simple amenable groups.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An infinite finitely presented simple amenable group",
+  "titleZh": "一个无限有限表示单可均群",
+  "details": {
+    "overview": "稿件构造了一个无限、有限表示、单且可均的群，摘要表示这正面回答了单可均群有限表示存在性问题。该结果属于群论，若成立将连接可均性、单性与有限表示性等群论性质。",
+    "keyPoints": [
+      "构造无限有限表示单可均群。",
+      "正面回答单可均群有限表示存在性问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

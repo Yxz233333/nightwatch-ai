@@ -1,7 +1,7 @@
 {
   "id": "7d1ff206cfec2cfc",
   "section": "papers",
-  "category": "数学论文",
+  "category": "组合数学",
   "title": "The circulant Hadamard conjecture",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-circulant-Hadamard-conjecture-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the circulant Hadamard conjecture: a real circulant Hadamard matrix has order 1 or 4. As a consequence, Barker sequences of length greater than one exist exactly at lengths 2, 3, 4, 5, 7, 11, 13, proving the Barker-sequence conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The circulant Hadamard conjecture",
+  "titleZh": "循环Hadamard猜想",
+  "details": {
+    "overview": "该稿件声称证明了循环Hadamard猜想：实循环Hadamard矩阵的阶只能是1或4。摘要表示，由此可推出长度大于1的Barker序列恰好存在于长度2、3、4、5、7、11、13，从而证明Barker序列猜想。研究对象是组合设计与序列理论中的经典猜想，若成立将统一解决两个长期问题；但该手稿为AI产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "稿件声称实循环Hadamard矩阵的阶仅为1或4",
+      "由此推出Barker序列长度限于2、3、4、5、7、11、13",
+      "结论同时覆盖循环Hadamard猜想与Barker序列猜想"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct, in deterministic polynomial bit time, a polynomial-size list of rational matrix tuples for noncommutative rational formulas over ℚ of bounded tree size. Every nonzero admissible formula has a defined, invertible value at one tuple, with no separate bounds on inverse nesting or rational constant heights. Matrix dimensions, entry bit lengths, and total output length are polynomially bounded.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Polynomial Hitting Lists for Noncommutative Rational Formulas",
+  "titleZh": "非交换有理公式的多项式命中列表",
+  "details": {
+    "overview": "稿件研究非交换有理公式的命中集问题。作者声称在确定性多项式比特时间内，为ℚ上树大小有界的非交换有理公式构造多项式大小的有理矩阵元组列表；每个非零可容许公式在某个元组处有定义且可逆，且不额外限制逆嵌套或有理常数高度。矩阵维数、元素比特长度和总输出长度均多项式有界。该结果若成立，可为非交换有理公式提供统一的非零求值见证。",
+    "keyPoints": [
+      "构造多项式大小的有理矩阵元组列表，覆盖所有非零可容许公式。",
+      "每个非零公式在某个元组处取值有定义且可逆。",
+      "不额外限制逆嵌套深度或有理常数高度。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

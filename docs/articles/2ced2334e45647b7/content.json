@@ -1,7 +1,7 @@
 {
   "id": "2ced2334e45647b7",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何测度论",
   "title": "Finite triangular approximation of radial sweeps",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Finite-triangular-approximation-of-radial-sweeps-September-27-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that radially aligned segment sweeps admit finite cylinder covers with one triangular base for each interval of any tagged partition. As the mesh tends to zero, the total perpendicular base area converges to a weighted parameter area. An explicit application covers every regular tetrahedron with total base area below half its minimum projection area, giving negative answers to the half-area question and the directionwise normalized 1-Codimensional Cylinder Covering Conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Finite triangular approximation of radial sweeps",
+  "titleZh": "径向扫掠的有限三角逼近",
+  "details": {
+    "overview": "稿件研究径向对齐线段扫掠的有限圆柱覆盖。作者声称对任意标记划分的每个区间，存在以单个三角形为底的有限圆柱覆盖；当网格趋于零时，总垂直底面积收敛到加权参数面积。一个显式应用以总底面积低于最小投影面积一半覆盖每个正四面体，从而否定半面积问题和方向归一化1-余维圆柱覆盖猜想。",
+    "keyPoints": [
+      "证明径向线段扫掠可被有限圆柱覆盖，每区间一个三角底。",
+      "网格趋于零时总垂直底面积收敛到加权参数面积。",
+      "构造覆盖正四面体，否定半面积问题和相关猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

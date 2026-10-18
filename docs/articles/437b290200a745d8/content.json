@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that a closed Einstein four-manifold with positive Einstein constant, nonnegative sectional curvature, and a zero-curvature plane has universal Riemannian cover isometric to a product of two round two-spheres. Under the normalization $`\\mathop{\\mathrm{Ric}}\\nolimits =3g`$, both spheres have radius $`1/\\sqrt3`$. The proof extends coupled estimates for the two Weyl curvature blocks to the boundary of the sectional-curvature cone and determines their equality case.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Zero-Plane Rigidity for Einstein Four-Manifolds",
+  "titleZh": "爱因斯坦四维流形的零平面刚性",
+  "details": {
+    "overview": "稿件研究具有正爱因斯坦常数、非负截面曲率且存在零曲率平面的闭爱因斯坦四维流形。摘要称证明其通用黎曼覆盖等距于两个圆球面二球面的乘积；在Ric=3g归一化下，两球半径均为1/√3。证明将两个Weyl曲率块的耦合估计推广到截面曲率锥的边界，并确定等号情形。这是AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为具零曲率平面的正爱因斯坦常数四维流形。",
+      "作者声称通用覆盖等距于两个半径1/√3的圆球面乘积。",
+      "方法为将Weyl曲率块耦合估计推广至截面曲率锥边界。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove Patterson's first-moment conjecture for normalized cubic Gauss sums over all primary Eisenstein primes, unconditionally. The sharp-cutoff main term is $`(6/5)c_*X^{5/6}/\\log X`$, where $`c_*=(2\\pi)^{2/3}/(3\\Gamma(2/3))`$. For every fixed nonzero angular Fourier mode of the prime argument, we also prove cancellation at the first-moment scale.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An unconditional first moment for cubic Gauss sums",
+  "titleZh": "三次Gauss和的无条件一阶矩",
+  "details": {
+    "overview": "该稿件研究主Eisenstein素数上归一化三次Gauss和的一阶矩。作者声称无条件证明Patterson的一阶矩猜想，并给出锐截断主项(6/5)c_*X^{5/6}/log X，其中c_*=(2π)^{2/3}/(3Γ(2/3))。摘要还称对素数幅角的每个固定非零角向Fourier模式，也证明在一阶矩尺度上的抵消。意义在于把三次Gauss和的矩估计从条件性推进到无条件，并给出显式主项与角向抵消，但结果尚未经独立审查。",
+    "keyPoints": [
+      "作者声称无条件证明Patterson关于归一化三次Gauss和的一阶矩猜想。",
+      "锐截断主项为(6/5)c_*X^{5/6}/log X，常数c_*由Gamma函数显式给出。",
+      "对每个固定非零角向Fourier模式，摘要称证明一阶矩尺度上的抵消。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

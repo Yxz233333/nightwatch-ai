@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove a pointwise 2-converse for elliptic curves over $`\\mathbf Q`$ with nonzero rational two-torsion: if the $`2^\\infty`$-Selmer corank is zero or one, then the analytic rank and Mordell–Weil rank equal that corank, and the Shafarevich–Tate group is finite. The result allows arbitrary reduction at 2.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A pointwise 2-converse for elliptic curves with rational two-torsion",
+  "titleZh": "带有理二扭点的椭圆曲线的逐点 2-逆定理",
+  "details": {
+    "overview": "该稿件研究有理数域上具有非零有理二扭点的椭圆曲线，提出逐点 2-逆定理：若 2^∞-Selmer 群的余秩为零或一，则解析秩与 Mordell–Weil 秩等于该余秩，且 Shafarevich–Tate 群有限，并允许在 2 处任意约化。摘要表示该结果放宽了约化条件；稿件为 AI 产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "对象为 ℚ 上具非零有理二扭点的椭圆曲线。",
+      "若 2^∞-Selmer 余秩为 0 或 1，则解析秩与 Mordell–Weil 秩等于该余秩。",
+      "结论同时给出 Shafarevich–Tate 群有限，并允许 2 处任意约化。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

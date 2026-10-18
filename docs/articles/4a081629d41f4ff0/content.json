@@ -1,7 +1,7 @@
 {
   "id": "4a081629d41f4ff0",
   "section": "papers",
-  "category": "数学论文",
+  "category": "量子计算",
   "title": "Regular trajectories, pruning and quantum parity",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Regular-trajectories-pruning-and-quantum-parity-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that constant-depth quantum circuits with arbitrary one-qubit gates and unbounded-arity Toffoli gates cannot compute parity with any fixed positive worst-case advantage using polynomially many total qubits. Ancillary qubits are initialized to $`|0\\rangle`$, one output qubit is measured, and all other final registers may be discarded without restriction. This resolves Moore's parity conjecture in the measured-output model.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Regular trajectories, pruning and quantum parity",
+  "titleZh": "正则轨迹、剪枝与量子奇偶性",
+  "details": {
+    "overview": "稿件研究常数深度量子线路计算奇偶性的能力。作者声称证明：使用任意单量子比特门与无界元Toffoli门、总量子比特数为多项式的常数深度量子线路，无法以任何固定正的最坏情形优势计算奇偶性；辅助比特初始化为 |0⟩，测量一个输出比特，其余末态寄存器可任意丢弃。摘要表示这在测量输出模型中解决Moore的奇偶性猜想。",
+    "keyPoints": [
+      "常数深度量子线路配任意单比特门与无界元Toffoli门",
+      "多项式总量子比特下无法以固定正最坏情形优势计算奇偶性",
+      "在测量输出模型中解决Moore的奇偶性猜想"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

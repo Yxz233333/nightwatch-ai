@@ -1,7 +1,7 @@
 {
   "id": "3c791ab1ca25521d",
   "section": "papers",
-  "category": "数学论文",
+  "category": "组合博弈论",
   "title": "Snaky in 21 Maker moves",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Snaky-in-21-Maker-moves-September-25-2026/article.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that Maker can achieve the Snaky hexomino within 21 actual Maker moves against arbitrary legal Breaker play on the initially empty infinite square board. The same bound holds on a $`17\\times17`$ square; in fact, Maker can confine its claims to a fixed 251-cell board.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Snaky in 21 Maker moves",
+  "titleZh": "21 步 Maker 走法实现 Snaky",
+  "details": {
+    "overview": "该稿件研究无限方格棋盘上的 Maker–Breaker 游戏。作者声称，在初始空棋盘上，无论 Breaker 如何合法落子，Maker 都能在 21 次实际走法内完成 Snaky 六格骨牌。摘要还称同样的界在 17×17 方格上成立，并且 Maker 可以把落子限制在一个固定的 251 格棋盘内。",
+    "keyPoints": [
+      "Maker 可在 21 次实际走法内完成 Snaky 六格骨牌。",
+      "该界对任意合法 Breaker 走法成立，棋盘初始为空。",
+      "同样界在 17×17 方格上成立，且可限制在固定 251 格棋盘内。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

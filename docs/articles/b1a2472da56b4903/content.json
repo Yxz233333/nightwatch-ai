@@ -1,7 +1,7 @@
 {
   "id": "b1a2472da56b4903",
   "section": "papers",
-  "category": "组合数学与图论",
+  "category": "微分几何",
   "title": "A Smooth Nonquadratic Entire Affine Maximal Graph in Dimension Ten",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Smooth-Nonquadratic-Affine-Maximal-Graph-in-Dimension-Ten-October-5-2026/affine-maximal-dimension-ten.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a smooth nonquadratic entire graph in dimension ten that solves the classical affine maximal equation and has positive-definite Hessian everywhere. This gives a smooth counterexample to the entire-graph affine Bernstein assertion in dimension ten. Hessian positivity is pointwise; no global uniform lower bound or completeness of the Berwald–Blaschke metric is asserted.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Smooth Nonquadratic Entire Affine Maximal Graph in Dimension Ten",
+  "titleZh": "十维中一个光滑非二次整仿射极大图",
+  "details": {
+    "overview": "稿件研究经典仿射极大方程在整图情形下的Bernstein型断言。作者声称在维数十构造一个光滑非二次整图，处处满足经典仿射极大方程且Hessian正定，从而给出十维整图仿射Bernstein断言的光滑反例。摘要强调Hessian正定是逐点的，未断言Berwald–Blaschke度量的全局一致下界或完备性。",
+    "keyPoints": [
+      "在维数十构造光滑非二次整图，处处满足经典仿射极大方程",
+      "Hessian处处正定，构成十维整图仿射Bernstein断言的光滑反例",
+      "正定性为逐点，未断言Berwald–Blaschke度量的全局下界或完备性"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every weakly β-normalizing pure type system is strongly β-normalizing. Both properties quantify over all legal expressions in all valid contexts, and reduction acts inside type annotations. No functionality hypothesis is required. This resolves the β-Barendregt–Geuvers–Klop conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Weak and strong normalization in pure type systems",
+  "titleZh": "纯类型系统中的弱规范性与强规范性",
+  "details": {
+    "overview": "该稿件研究纯类型系统中的β归约规范性。作者声称证明了每个弱β规范的纯类型系统都是强β规范的，其中两种性质都量化所有合法上下文中的合法表达式，归约作用于类型标注内部，且不需要功能性假设。摘要称这解决了β-Barendregt–Geuvers–Klop猜想。若成立，这将在不假设功能性的条件下统一纯类型系统的弱与强规范性。",
+    "keyPoints": [
+      "研究对象为纯类型系统中所有合法表达式的β弱规范性与强规范性",
+      "作者声称弱β规范蕴含强β规范，且无需功能性假设",
+      "归约作用于类型标注内部，摘要称解决Barendregt–Geuvers–Klop猜想"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

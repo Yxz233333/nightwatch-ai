@@ -1,7 +1,7 @@
 {
   "id": "fec21ece0fe3e3a7",
   "section": "papers",
-  "category": "数学论文",
+  "category": "泛函分析",
   "title": "Distortion of countably branching diamonds from midpoint and tree energies",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Diamond-distortion-from-midpoint-and-tree-energies-September-27-2026/manuscript.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We derive quantitative distortion bounds for countably branching diamond graphs from midpoint estimates and direct tree energies. In the dual of a finite-height segment forest, every distortion-D embedding of the depth-k diamond satisfies $`D^2\\ge1+k/4`$. The same bound holds in the infinite-height coordinate predual. We also obtain power-type distortion bounds for path-cost and recursive tree norms.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Distortion of countably branching diamonds from midpoint and tree energies",
+  "titleZh": "由中点与树能量导出的可数分叉菱形畸变",
+  "details": {
+    "overview": "该稿件研究可数分叉菱形图在赋范空间及其对偶中的双 Lipschitz 畸变。作者声称由中点估计与直接树能量得到定量畸变下界：在有限高度段森林的对偶中，深度 k 菱形的任意畸变 D 嵌入满足 D² ≥ 1+k/4，同一界在无限高度坐标前对偶中成立；此外还得到路径代价范数与递归树范数的幂型畸变界。这类结果与度量嵌入的畸变下界及非线性 Banach 空间理论相关。这是 AI 产生的手稿，未经独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为可数分叉菱形图在段森林对偶中的畸变。",
+      "作者声称深度 k 菱形满足 D² ≥ 1+k/4，并推广到无限高度情形。",
+      "另给出路径代价与递归树范数的幂型畸变界。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

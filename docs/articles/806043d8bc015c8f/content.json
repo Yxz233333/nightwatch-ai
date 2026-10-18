@@ -1,7 +1,7 @@
 {
   "id": "806043d8bc015c8f",
   "section": "papers",
-  "category": "数学论文",
+  "category": "优化与控制",
   "title": "An Exact Semidefinite Lift of a Nonspectrahedral Hyperbolicity Cone",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/An-Exact-Semidefinite-Lift-of-a-Nonspectrahedral-Hyperbolicity-Cone-October-5-2026/Exact-Semidefinite-Lift-of-a-Nonspectrahedral-Hyperbolicity-Cone.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct an exact semidefinite lift of the explicit nonspectrahedral hyperbolicity cone in twenty-three variables defined in the companion paper. The lift is a homogeneous real symmetric pencil of size 100 with 307 auxiliary variables and represents the entire closed cone, including every point with singular X. Thus, although this cone has no semidefinite representation in its original coordinates, it admits one when auxiliary variables are allowed. The stated sizes are not claimed to be minimal.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An Exact Semidefinite Lift of a Nonspectrahedral Hyperbolicity Cone",
+  "titleZh": "一个非谱双曲锥的精确半定提升",
+  "details": {
+    "overview": "稿件研究伴随论文中给出的23变量显式非谱双曲锥的半定表示问题。作者声称构造了该锥的精确半定提升：一个大小为100的齐次实对称矩阵束，含307个辅助变量，表示整个闭锥，包括所有X奇异的点。摘要指出，尽管该锥在原坐标下没有半定表示，但允许辅助变量后可以表示。作者明确不声称所述尺寸是最小的。该结果说明非谱双曲锥在半定规划中的可表示性边界。",
+    "keyPoints": [
+      "构造23变量非谱双曲锥的精确半定提升",
+      "提升为100阶齐次实对称矩阵束，含307个辅助变量",
+      "覆盖整个闭锥，包括X奇异的点；不声称尺寸最小"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

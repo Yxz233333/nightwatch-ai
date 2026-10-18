@@ -10,5 +10,16 @@
   "abstractEnglish": "Fix d ≥ 1 and t > 0. Let $`(X,B)`$ be an ordinary projective log canonical ℚ-pair of dimension d over a characteristic-zero field k, with X normal and integral, $`H^0(X,\\mathcal O_X)=k`$, B effective, and $`K_X+B\\sim_{\\mathbb Q}0`$. We prove that every prime component S of B with coefficient at least t satisfies $`[k_S:k]\\leq N(d,t)`$, where kS is the relative algebraic closure of k in $`k(S)`$. This also bounds the Stein degree of S over k, proving the contraction-to-a-point formulation of Birkar's Stein-degree conjecture for ordinary ℚ-pairs.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Arithmetic Stein-degree bounds for log Calabi–Yau pairs",
+  "titleZh": "对数Calabi–Yau对的算术Stein度界",
+  "details": {
+    "overview": "该稿件研究特征零域上普通射影对数典范ℚ对(X,B)的算术性质。作者声称证明了对于维数d和系数下界t>0，B中系数至少为t的每个素分支S满足[k_S:k]≤N(d,t)，其中k_S是k在k(S)中的相对代数闭包。该结果也界定了S在k上的Stein度，从而证明Birkar Stein度猜想在普通ℚ对上的收缩到点表述。研究意义在于为对数Calabi–Yau对提供了统一的算术度界。",
+    "keyPoints": [
+      "作者声称对普通射影对数典范ℚ对，系数至少t的素分支S满足[k_S:k]≤N(d,t)。",
+      "该界同时控制了S在k上的Stein度。",
+      "由此证明了Birkar Stein度猜想在普通ℚ对上的收缩到点表述。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "be6390a91e7c9e38",
   "section": "papers",
-  "category": "数学论文",
+  "category": "巴拿赫空间几何",
   "title": "Independent products in real L1: asymptotic midpoint convexity without AUC renormings",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Independent-products-in-real-L1-asymptotic-midpoint-convexity-without-AUC-renormings-September-27-2026/manuscript.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For a countably branching tree, the closed real L1 spans of products of independent exponential or Gaussian-square multipliers along its paths have positive averaged asymptotic midpoint moduli and admit no equivalent asymptotically uniformly convex norm. The renorming obstruction holds for every positive nonconstant mean-one multiplier with finite second moment.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Independent products in real L1: asymptotic midpoint convexity without AUC renormings",
+  "titleZh": "实L1中的独立乘积：无AUC重范数的渐近中点凸性",
+  "details": {
+    "overview": "稿件研究可数分支树上沿路径的独立指数或高斯平方乘子乘积，作者声称其闭实L1张成具有正的平均渐近中点模，且不存在等价渐近一致凸（AUC）范数。该重范数障碍对每个有限二阶矩、均值一的正非恒定乘子成立。这揭示了L1型空间在渐近凸性上的结构限制，摘要未给出证明细节，结论待独立审查。",
+    "keyPoints": [
+      "沿可数分支树路径取独立指数或高斯平方乘子乘积的闭实L1张成",
+      "具有正的平均渐近中点模，但不存在等价AUC范数",
+      "障碍对每个有限二阶矩、均值一的正非恒定乘子成立"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

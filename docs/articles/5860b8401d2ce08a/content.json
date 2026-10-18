@@ -1,7 +1,7 @@
 {
   "id": "5860b8401d2ce08a",
   "section": "papers",
-  "category": "数论与算术几何",
+  "category": "代数拓扑",
   "title": "Finite Smith–Toda Complexes at Varying Primes",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Finite-Smith-Toda-Complexes-at-Varying-Primes-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For every nonnegative integer n, we construct a Smith–Toda complex $`V(n)`$ at some prime p depending on n. It is a finite p-local spectrum whose Brown–Peterson homology is $`\\mathrm{BP}_*/(p,v_1,\\ldots,v_n)`$ with its canonical comodule structure and generator in degree zero. Each listed generator is killed to its first power.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Finite Smith–Toda Complexes at Varying Primes",
+  "titleZh": "变化素数下的有限Smith–Toda复形",
+  "details": {
+    "overview": "稿件对每个非负整数n，在某个依赖于n的素数p处构造Smith–Toda复形V(n)。作者声称它是有限p局部谱，其Brown–Peterson同调为BP_*/(p,v_1,…,v_n)，带有典范余模结构且生成元位于零次；所列每个生成元均被杀死到其一次幂。该构造涉及稳定同伦论中Smith–Toda复形的经典问题，但作为AI产生的研究手稿，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "对每个n在依赖n的素数p处构造有限p局部谱V(n)",
+      "作者声称其Brown–Peterson同调为BP_*/(p,v_1,…,v_n)",
+      "生成元位于零次，且每个所列生成元被杀死到一次幂"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

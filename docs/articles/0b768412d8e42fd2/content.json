@@ -10,5 +10,16 @@
   "abstractEnglish": "For every fixed integer d ≥ 3, we prove that every set of n ≥ 2 distinct points in ℝd determines at least $`c_d n^{2/d}`$ distinct distances, where $`c_d\\gt 0`$ depends only on d. This resolves the higher-dimensional Erdős distinct-distances conjecture positively.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The higher-dimensional Erdős distinct-distances conjecture",
+  "titleZh": "高维 Erdős 不同距离猜想",
+  "details": {
+    "overview": "稿件对每个固定整数 d≥3，证明 ℝd 中任意 n≥2 个不同点至少确定 c_d n^{2/d} 个不同距离，其中 c_d>0 仅依赖于 d。摘要表示这正面解决了高维 Erdős 不同距离猜想。研究意义在于若成立，将为高维点集的不同距离数量提供与维数相关的下界。该手稿为 AI 产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "对每个固定 d≥3，证明 ℝd 中 n 个不同点至少确定 c_d n^{2/d} 个不同距离。",
+      "常数 c_d 仅依赖于维数 d。",
+      "摘要称这正面解决高维 Erdős 不同距离猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

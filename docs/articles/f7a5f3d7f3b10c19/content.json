@@ -1,7 +1,7 @@
 {
   "id": "f7a5f3d7f3b10c19",
   "section": "papers",
-  "category": "数学论文",
+  "category": "理论计算机科学",
   "title": "An FPRAS for Cell-Bounded Contingency Tables",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/An-FPRAS-for-Cell-Bounded-Contingency-Tables-September-24-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We give a fully polynomial randomized approximation scheme for counting nonnegative integer matrices with prescribed row sums, column sums, and individual entry bounds. Both dimensions vary, all numerical data are encoded in binary, and zero bounds are allowed. The algorithm uses only unbiased random bits and has a polynomial bound on its bit operations on every execution.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An FPRAS for Cell-Bounded Contingency Tables",
+  "titleZh": "有界单元格列联表的FPRAS",
+  "details": {
+    "overview": "稿件研究带逐项上界的非负整数矩阵计数问题：给定行和、列和及每个元素的上界，计数满足条件的矩阵。作者声称给出完全多项式随机近似方案（FPRAS），两个维度均可变化，所有数值以二进制编码，允许零上界。算法仅使用无偏随机比特，且每次执行的比特运算量有 polynomial 界。该结果若成立，将为列联表计数这一组合计数难题提供高效近似算法。",
+    "keyPoints": [
+      "为带行列和及逐项上界的整数矩阵计数给出FPRAS",
+      "维度可变、数据二进制编码、允许零上界",
+      "仅用无偏随机比特，每次执行比特运算多项式有界"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

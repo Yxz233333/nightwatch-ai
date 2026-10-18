@@ -1,7 +1,7 @@
 {
   "id": "7884affe86ff82c9",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数论与算术几何",
   "title": "Open Homomorphisms of Global Solvably Closed Galois Groups",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Open-Homomorphisms-of-Global-Solvably-Closed-Galois-Groups-October-5-2026/open-homomorphisms-solvably-closed-galois-groups.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove Uchida's conjecture on open homomorphisms of Galois groups. Every continuous open homomorphism between Galois groups of solvably closed Galois extensions of number fields is induced by a unique equivariant field embedding in the opposite direction. No restriction on the kernel or additional compatibility hypothesis is required.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Open Homomorphisms of Global Solvably Closed Galois Groups",
+  "titleZh": "全局可解闭伽罗瓦群的开同态",
+  "details": {
+    "overview": "稿件研究数域上可解闭伽罗瓦扩张的伽罗瓦群之间的开连续同态。作者声称证明了Uchida关于伽罗瓦群开同态的猜想：任意此类连续开同态都由唯一一个反方向的等变域嵌入诱导。摘要强调不需要对核施加限制，也不需要额外的相容性假设。该结果刻画了可解闭伽罗瓦群开同态的刚性，属于伽罗瓦群重建理论。",
+    "keyPoints": [
+      "证明Uchida关于伽罗瓦群开同态的猜想",
+      "同态由唯一反方向等变域嵌入诱导",
+      "不要求核限制或额外相容性假设"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

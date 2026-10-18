@@ -10,5 +10,16 @@
   "abstractEnglish": "Let X be a projective ℚ-factorial terminal threefold over an algebraically closed field of characteristic p > 3. We prove the numerical-dimension-one case of abundance: if KX is nef with $`\\nu(K_X)=1`$, then KX is semiample and $`\\kappa(X,K_X)=1`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Abundance in numerical dimension one for terminal threefolds in positive characteristic",
+  "titleZh": "正特征终端三维簇数值维数一中的丰沛性",
+  "details": {
+    "overview": "稿件研究正特征代数闭域上射影ℚ-阶乘终端三维簇X的丰沛性。摘要声称，当特征p>3时，若K_X nef且数值维数ν(K_X)=1，则K_X半丰沛且κ(X,K_X)=1，即证明丰沛性的数值维数一情形。研究意义在于推进正特征极小模型纲领中的丰沛性猜想，但该手稿为AI产生，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "设X为特征p>3的射影ℚ-阶乘终端三维簇。",
+      "若K_X nef且ν(K_X)=1，则证明K_X半丰沛且κ(X,K_X)=1。",
+      "手稿为AI产生，收录不表示已完成独立审查或同行评议。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

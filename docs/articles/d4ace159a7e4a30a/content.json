@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that deciding whether Weisfeiler–Leman refinement of an input dimension identifies a given graph is EXPTIME-complete. The input is a nonempty finite simple uncolored graph in adjacency-matrix form and a positive binary-encoded dimension. Identification quantifies over every comparison graph.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The complexity of identifying a graph by Weisfeiler–Leman refinement",
+  "titleZh": "用Weisfeiler–Leman精化识别图的复杂性",
+  "details": {
+    "overview": "该稿件研究Weisfeiler–Leman精化识别图问题的计算复杂性。作者声称：判定给定维数的Weisfeiler–Leman精化是否识别输入图是EXPTIME完全的。摘要说明输入为非空有限简单无权图（邻接矩阵形式）与正二进制编码维数，识别量化对所有比较图进行。该结果刻画了图识别问题的复杂度上界与下界，属于组合数学与图论中的算法复杂性研究。",
+    "keyPoints": [
+      "声称判定WL精化是否识别给定图是EXPTIME完全的",
+      "输入为邻接矩阵图与二进制编码维数",
+      "识别定义量化对所有比较图"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "4c78ce330475d47b",
   "section": "papers",
-  "category": "代数几何",
+  "category": "算子代数",
   "title": "Approximation Paving over Arbitrary Maximal Abelian Subalgebras",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the approximation-paving conjecture of Popa and Vaes for every maximal abelian subalgebra of a complex von Neumann algebra. For each $`0\\lt \\varepsilon\\lt 1`$, every self-adjoint operator is a strong limit of self-adjoint operators of norm at most three times its norm, each admitting a norm paving with error at most ε times the approximant's own norm. The number of projections is at most $`C\\varepsilon^{-6}`$ for a universal constant C. No separability or conditional-expectation hypothesis is required.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Approximation Paving over Arbitrary Maximal Abelian Subalgebras",
+  "titleZh": "任意极大交换子代数上的近似铺砌",
+  "details": {
+    "overview": "该稿件研究 Popa 与 Vaes 提出的近似铺砌猜想。作者声称对复 von Neumann 代数的每个极大交换子代数证明了该猜想：对每个 0<ε<1，每个自伴算子都是范数不超过其三倍的自伴算子的强极限，而每个逼近算子都容许误差至多 ε 倍自身范数的范数铺砌，投影数至多 Cε⁻⁶（C 为通用常数）。摘要称不需要可分性或条件期望假设。",
+    "keyPoints": [
+      "对任意极大交换子代数证明 Popa–Vaes 近似铺砌猜想。",
+      "每个自伴算子可由范数至多三倍的自伴算子强逼近，并具 ε 误差铺砌。",
+      "投影数上界为 Cε⁻⁶，且不需可分性或条件期望假设。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

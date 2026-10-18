@@ -1,7 +1,7 @@
 {
   "id": "759a7c175db5963e",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数学分析",
   "title": "Triangular minimality for planar Coulomb renormalized energy",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Triangular-minimality-for-planar-Coulomb-renormalized-energy-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Sandier–Serfaty conjecture: the triangular lattice of covolume one minimizes planar Coulomb renormalized energy over all admissible curl-free fields with a unit uniform background. Combined with Bétermin and Sandier's asymptotic formula, this also proves the Brauchart–Hardin–Saff conjecture for the linear term of optimal ordered-pair logarithmic energy on the unit two-sphere. The proof uses a direct Voronoi-cell comparison with rigorous interval arithmetic.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Triangular minimality for planar Coulomb renormalized energy",
+  "titleZh": "平面Coulomb重整化能量的三角极小性",
+  "details": {
+    "overview": "该稿件声称证明了Sandier–Serfaty猜想：在具有单位均匀背景的所有容许无旋场中，余体积为一的三角格点使平面Coulomb重整化能量最小。摘要表示，结合Bétermin与Sandier的渐近公式，还可证明单位二维球面上最优有序对对数能量线性项的Brauchart–Hardin–Saff猜想。证明采用直接的Voronoi胞腔比较与严格区间算术。手稿为AI产生，未经独立审查。",
+    "keyPoints": [
+      "三角格点在容许无旋场中最小化重整化能量",
+      "结合渐近公式推出Brauchart–Hardin–Saff猜想",
+      "证明方法为Voronoi胞腔比较加区间算术"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

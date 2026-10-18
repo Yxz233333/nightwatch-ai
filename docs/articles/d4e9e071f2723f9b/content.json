@@ -1,7 +1,7 @@
 {
   "id": "d4e9e071f2723f9b",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何群论",
   "title": "Baumslag-Solitar-free one-relator groups are hyperbolic",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Baumslag-Solitar-free-one-relator-groups-are-hyperbolic-September-25-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove Gersten's conjecture: every finitely generated one-relator group containing no subgroup isomorphic to a Baumslag–Solitar group $`\\mathop{\\mathrm{BS}}\\nolimits (m,n)`$, for nonzero integers m, n, is word-hyperbolic.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Baumslag-Solitar-free one-relator groups are hyperbolic",
+  "titleZh": "无Baumslag–Solitar子群的单关系群是双曲的",
+  "details": {
+    "overview": "该稿件研究Gersten猜想。作者声称证明：每个有限生成单关系群，若不含同构于Baumslag–Solitar群BS(m,n)（m,n为非零整数）的子群，则是词双曲的。摘要未给出证明细节。若成立，该结果将单关系群的双曲性与排除Baumslag–Solitar子群联系起来，是几何群论中关于单关系群结构的重要断言。",
+    "keyPoints": [
+      "声称证明Gersten猜想",
+      "对象为不含BS(m,n)子群的有限生成单关系群",
+      "结论为该群是词双曲的"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

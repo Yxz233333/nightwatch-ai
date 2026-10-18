@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct uniform sparsest-cut instances whose Goemans–Linial semidefinite integrality gap is at least $`c\\sqrt{\\log n}/(\\log\\log n)^3`$ along a sequence $`n\\to\\infty`$. The demand is one between every pair of distinct vertices, and the capacities are nonnegative real numbers. This matches the Arora–Rao–Vazirani upper bound up to a power of $`\\log\\log n`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Near-square-root logarithmic integrality gaps for uniform sparsest cut",
+  "titleZh": "均匀最稀疏割的近平方根对数积分间隙",
+  "details": {
+    "overview": "稿件研究均匀最稀疏割问题的Goemans–Linial半正定松弛积分间隙。作者构造了一列n趋于无穷的实例，需求为每对不同顶点之间为一、容量为非负实数，声称其积分间隙至少为c√(log n)/(log log n)^3。摘要表示这与Arora–Rao–Vazirani上界在log log n的幂次范围内相匹配。材料仅提供摘要，未给出构造细节与独立验证。",
+    "keyPoints": [
+      "构造均匀最稀疏割实例，需求为每对不同顶点间为一。",
+      "作者声称Goemans–Linial积分间隙至少为c√(log n)/(log log n)^3。",
+      "该下界与Arora–Rao–Vazirani上界相差log log n的幂次。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

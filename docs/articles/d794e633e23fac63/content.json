@@ -1,7 +1,7 @@
 {
   "id": "d794e633e23fac63",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论",
   "title": "Strict convexity and differentiability of the planar exponential first-passage limit shape",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Strict-convexity-and-differentiability-of-the-planar-exponential-first-passage-limit-shape-September-24-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the limit shape of undirected nearest-neighbor first-passage percolation on ℤ2 with independent exponential edge weights is strictly convex and has a C1 boundary. This resolves the strict convexity and differentiability conjectures for the planar exponential model. More generally, we prove differentiability of the time-constant norm for every Gamma edge-weight law with positive shape and rate.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Strict convexity and differentiability of the planar exponential first-passage limit shape",
+  "titleZh": "平面指数一通道极限形状的严格凸性与可微性",
+  "details": {
+    "overview": "稿件研究 ℤ^2 上无向最近邻一通道渗流在独立指数边权下的极限形状。作者声称证明该极限形状严格凸且边界为 C^1，从而解决平面指数模型的严格凸性与可微性猜想。更一般地，作者声称对每个具有正形状和速率的 Gamma 边权律，证明时间常数范数的可微性。研究意义在于推进一通道渗流极限形状的正则性理论。",
+    "keyPoints": [
+      "研究对象为 ℤ^2 上独立指数边权的一通道渗流极限形状。",
+      "作者声称证明极限形状严格凸且具有 C^1 边界。",
+      "对正形状和速率的 Gamma 边权律证明时间常数范数可微。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

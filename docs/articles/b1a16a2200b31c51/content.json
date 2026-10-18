@@ -1,7 +1,7 @@
 {
   "id": "b1a16a2200b31c51",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论与统计物理",
   "title": "Critical slowing down in the Sherrington–Kirkpatrick model",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Critical-slowing-down-in-the-Sherrington-Kirkpatrick-model-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "At the critical inverse temperature β = 1, we prove slow mixing for zero-field Gaussian Sherrington–Kirkpatrick heat-bath dynamics from typical equilibrium configurations held fixed as initial states. For every deterministic sequence $`t_n=o(n^{2/3})`$ in rate-one-per-site time, the Gibbs mass of initial states whose time-tn total-variation distance from equilibrium exceeds 1/4 tends to one in probability over the disorder. The same statement holds for every deterministic integer sequence $`k_n=o(n^{5/3})`$ of uniform-site update attempts.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Critical slowing down in the Sherrington–Kirkpatrick model",
+  "titleZh": "Sherrington–Kirkpatrick模型中的临界慢化",
+  "details": {
+    "overview": "稿件研究零场高斯Sherrington–Kirkpatrick模型在临界逆温度β=1时的热浴动力学混合行为。作者声称从典型平衡构型固定为初始态出发，对每个确定性序列t_n=o(n^{2/3})（每站点速率一时间），初始态中时间t_n总变差距离超过1/4的Gibbs质量以趋于1的概率在无序上成立；对均匀站点更新尝试的整数序列k_n=o(n^{5/3})也有相同结论。该结果对自旋玻璃临界动力学提供了数学描述。",
+    "keyPoints": [
+      "在β=1证明从典型平衡态出发的慢混合。",
+      "对t_n=o(n^{2/3})，距离超过1/4的初始态质量趋于1。",
+      "对更新尝试k_n=o(n^{5/3})有相同结论。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "e8a5442b85c5cc4c",
   "section": "papers",
-  "category": "数学论文",
+  "category": "统计学习理论",
   "title": "Subsphere methods for memory-sample lower bounds in noiseless Gaussian regression",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Subsphere-methods-for-memory-sample-lower-bounds-in-noiseless-Gaussian-regression-September-27-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "Let a finite-state streaming learner estimate a uniformly random unit vector from independent exact Gaussian linear measurements. We prove that $`o(d^2)`$ bits of persistent memory and angular success probability at least 2/3 require at least $`2^{-16}d\\log_2(1/\\epsilon)`$ samples for all sufficiently large d, uniformly for $`0\\lt \\epsilon\\le1/10`$. The proof conditions each batch on its observed projection and controls the resulting random residual subsphere.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Subsphere methods for memory-sample lower bounds in noiseless Gaussian regression",
+  "titleZh": "无噪声高斯回归中内存—样本下界的子球面方法",
+  "details": {
+    "overview": "该稿件研究有限状态流式学习器从独立精确高斯线性测量中估计均匀随机单位向量的问题。作者声称证明：对充分大的维数 d，若持久内存为 o(d²) 比特且角成功率至少 2/3，则对 0<ε≤1/10 一致地至少需要 2^{−16} d log₂(1/ε) 个样本。证明方法是对每批数据以其观测投影为条件，并控制由此产生的随机残差子球面。该结果属于内存受限统计估计的样本复杂度下界研究。这是 AI 产生的手稿，未经独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为内存受限流式学习器的高斯回归估计。",
+      "作者声称 o(d²) 比特内存与 2/3 成功率需至少 2^{−16}d log₂(1/ε) 样本。",
+      "证明对每批数据按观测投影取条件并控制残差子球面。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

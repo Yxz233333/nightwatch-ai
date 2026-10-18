@@ -10,5 +10,16 @@
   "abstractEnglish": "On a smooth connected projective complex variety with smoothly semipositive anticanonical bundle, we prove that asymptotically zero valuation on the curvature-null face is attained by an effective rational anticanonical divisor. The fixed auxiliary line bundle is arbitrary.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Exact orders and invariant anticanonical linear systems",
+  "titleZh": "精确阶与不变反规范线性系统",
+  "details": {
+    "overview": "稿件在光滑连通射影复簇上研究反规范丛光滑半正的情形。作者声称，曲率零面上的渐近零赋值可由一个有效有理反规范除子达到，且固定的辅助线丛可任意选取。摘要未展开证明思路，也未说明该结论是否经过同行评议。",
+    "keyPoints": [
+      "设定为反规范丛光滑半正的光滑连通射影复簇。",
+      "曲率零面上的渐近零赋值由有效有理反规范除子达到。",
+      "辅助线丛任意，结论不依赖其选取。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

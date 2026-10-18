@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every coloring of the Euclidean plane with five colors has a monochromatic unit-distance pair, with no regularity assumption on the color classes. Consequently, the chromatic number of the plane is either six or seven.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Euclidean plane is not five-colorable",
+  "titleZh": "欧几里得平面不可五着色",
+  "details": {
+    "overview": "稿件研究欧几里得平面染色问题。摘要称证明平面任意五染色必存在同色单位距离点对，且不对色类作正则性假设；由此平面色数只能为六或七。该结果针对单位距离图的染色数，作者声称将此前已知下界推进到六。材料仅提供摘要级陈述，未给出证明构造或独立验证信息。",
+    "keyPoints": [
+      "证明平面任意五染色存在同色单位距离点对。",
+      "不假设色类具有任何正则性。",
+      "推论平面色数为六或七。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

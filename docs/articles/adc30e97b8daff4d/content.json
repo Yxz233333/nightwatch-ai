@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the unit-speed billiard flow in every nondegenerate Euclidean triangle with at least one angle irrational relative to π is ergodic for normalized area times uniform angular measure. No genericity or Diophantine condition is required. The flow is considered outside the null set of trajectories that hit a vertex.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Ergodicity of triangular billiards with an irrational angle",
+  "titleZh": "含无理角三角台球的遍历性",
+  "details": {
+    "overview": "该稿件研究欧氏平面中非退化三角形的单位速度台球流。作者声称，只要三角形至少有一个角相对于π是无理数，该流在归一化面积乘均匀角度测度下就是遍历的，且不需要一般性假设或Diophantine条件；流定义在避开顶点的零测轨迹集之外。若成立，这将把遍历性从特殊情形推广到一大类三角形，是台球动力系统的基础性问题。",
+    "keyPoints": [
+      "研究对象为非退化欧氏三角形的单位速度台球流",
+      "作者声称至少一角相对π无理即遍历，无需Diophantine条件",
+      "遍历性相对于归一化面积乘均匀角度测度，排除击中顶点的零测轨迹"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

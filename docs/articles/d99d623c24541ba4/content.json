@@ -1,7 +1,7 @@
 {
   "id": "d99d623c24541ba4",
   "section": "papers",
-  "category": "数学论文",
+  "category": "算法与复杂性",
   "title": "A Polynomial-Time 2-Approximation for Shortest Common Superstring",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-Polynomial-Time-2-Approximation-for-Shortest-Common-Superstring-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We give a deterministic algorithm that, for every finite family of explicitly represented ordinary strings, outputs a common superstring of length at most twice the optimum in time polynomial in the total encoded input size, including symbol labels. The guarantee applies to the algorithm constructed here, not the classical maximum-overlap Greedy procedure.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Polynomial-Time 2-Approximation for Shortest Common Superstring",
+  "titleZh": "最短公共超串的多项式时间2-近似算法",
+  "details": {
+    "overview": "稿件研究最短公共超串问题，目标是为有限个显式表示的普通字符串寻找公共超串。作者声称给出一个确定性算法，在总编码输入规模（包括符号标签）的多项式时间内，输出长度不超过最优解两倍的公共超串。摘要强调该保证适用于所构造的算法，而非经典的最大重叠贪心过程。研究意义在于为最短公共超串提供具有明确近似比的多项式时间算法。",
+    "keyPoints": [
+      "针对有限族显式普通字符串构造公共超串。",
+      "算法为确定性，运行时间关于总编码输入规模多项式。",
+      "输出长度不超过最优解两倍，且保证不适用于经典贪心过程。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

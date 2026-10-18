@@ -1,7 +1,7 @@
 {
   "id": "b45632e8e02781ef",
   "section": "papers",
-  "category": "数学论文",
+  "category": "微分几何与广义相对论",
   "title": "Conformal flow and the Riemannian Penrose inequality with minimizing frontiers",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Conformal-flow-and-the-Riemannian-Penrose-inequality-with-minimizing-frontiers-September-27-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We give a detailed conformal-flow proof of the numerical Riemannian Penrose inequality in every dimension n ≥ 3 for complete asymptotically flat exteriors with nonnegative scalar curvature and full compact frontiers that are outer minimizing and locally perimeter minimizing. The metric extends smoothly through the possibly singular frontier; neither spin nor frontier connectedness is assumed. The proof follows the conformal-flow approach of Bray, Bray–Lee, and Bi–Zhu.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Conformal flow and the Riemannian Penrose inequality with minimizing frontiers",
+  "titleZh": "共形流与带极小前沿的Riemannian Penrose不等式",
+  "details": {
+    "overview": "稿件对每个维数n≥3，对具非负标量曲率、完整紧前沿且前沿外极小并局部周长极小的完备渐近平坦外部区域，给出数值Riemannian Penrose不等式的详细共形流证明。作者称度量可光滑穿过可能奇异的前沿，不假设自旋结构或前沿连通性，证明沿用Bray、Bray–Lee与Bi–Zhu的共形流方法。摘要未展开技术细节，结论待独立审查。",
+    "keyPoints": [
+      "对n≥3完备渐近平坦外部区域证明数值Riemannian Penrose不等式",
+      "前沿完整紧、外极小且局部周长极小，不假设自旋或连通性",
+      "度量光滑穿过可能奇异前沿，沿用Bray等人的共形流方法"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

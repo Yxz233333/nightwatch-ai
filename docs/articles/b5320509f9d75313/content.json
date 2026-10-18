@@ -1,7 +1,7 @@
 {
   "id": "b5320509f9d75313",
   "section": "papers",
-  "category": "数论与算术几何",
+  "category": "数学论文",
   "title": "The hypercube Ramsey number has linear order",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-hypercube-Ramsey-number-has-linear-order-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the two-color Ramsey number of the n-dimensional binary cube is at most $`C2^n`$, where C is an absolute constant. This resolves positively the hypercube Ramsey conjecture of Burr and Erdős.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The hypercube Ramsey number has linear order",
+  "titleZh": "超立方体Ramsey数具有线性阶",
+  "details": {
+    "overview": "稿件研究n维二元超立方体的双色Ramsey数。作者声称证明该Ramsey数至多C2^n，其中C为绝对常数，从而正面解决Burr与Erdős提出的超立方体Ramsey猜想。若成立，这将把超立方体Ramsey数从已知的指数上界改进为线性阶，对Ramsey理论与超立方体组合结构有重要意义。需注意该手稿为AI产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为n维二元超立方体的双色Ramsey数",
+      "作者声称其上界为C2^n，C为绝对常数",
+      "声称正面解决Burr与Erdős的超立方体Ramsey猜想"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

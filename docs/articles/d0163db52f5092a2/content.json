@@ -10,5 +10,16 @@
   "abstractEnglish": "We resolve the Mahler conjecture for general convex bodies positively. For every convex body $`K\\subset\\mathbb R^n`$, n ≥ 1, with Santaló point $`s(K)`$, $`|K|\\,|(K-s(K))^\\circ|\\ge (n+1)^{n+1}/(n!)^2`$, with equality exactly for simplices.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Mahler Conjecture for General Convex Bodies",
+  "titleZh": "一般凸体的 Mahler 猜想",
+  "details": {
+    "overview": "稿件声称正面解决一般凸体的 Mahler 猜想：对任意 n≥1 的凸体 K⊂R^n，以 Santaló 点 s(K) 为基准，体积与其极体体积之积不小于 (n+1)^{n+1}/(n!)^2，且等号恰在单纯形时成立。摘要仅陈述结论与等号情形，未说明证明路线。该问题属凸几何中的经典体积积不等式，作者声称给出完整解答。",
+    "keyPoints": [
+      "声称对任意维数的一般凸体证明体积积下界",
+      "下界为 (n+1)^{n+1}/(n!)^2",
+      "等号情形恰为单纯形"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

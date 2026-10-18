@@ -1,7 +1,7 @@
 {
   "id": "eb0e590595940ea8",
   "section": "papers",
-  "category": "数学论文",
+  "category": "动力系统",
   "title": "Rigidity of Smooth Billiards with a Continuous Caustic Collar",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Rigidity-of-Smooth-Billiards-with-a-Continuous-Caustic-Collar-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that a smooth strictly convex planar billiard with positive curvature is an ellipse whenever a full neighborhood of its boundary is continuously foliated by smooth closed convex caustics. No differentiability across the leaves is assumed. This resolves the near-boundary Birkhoff conjecture in the stated smooth class.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Rigidity of Smooth Billiards with a Continuous Caustic Collar",
+  "titleZh": "具有连续焦散领的光滑台球的刚性",
+  "details": {
+    "overview": "稿件研究光滑严格凸平面台球。作者声称，若其边界的一个完整邻域被光滑闭凸焦散连续叶层化，且不假设叶间可微性，则正曲率台球必为椭圆。摘要表示这解决了所述光滑类中的近边界Birkhoff猜想。该结果若成立，将为台球动力系统的可积性与刚性研究提供新的几何判据。",
+    "keyPoints": [
+      "正曲率光滑严格凸平面台球在连续焦散领条件下为椭圆",
+      "不假设叶层间可微性",
+      "摘要称解决所述光滑类中的近边界Birkhoff猜想"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

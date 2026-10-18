@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the asymptotically hyperbolic Penrose inequality for sufficiently small maximal vacuum conformal perturbations of a positive-mass Schwarzschild–anti-de Sitter exterior, for every fixed decaying transverse-traceless seed and every solution branch satisfying the stated decay and mass assumptions. The bound uses the area of the marginally outer trapped boundary itself; it requires neither outermostness nor outer area-minimization, and no bulk-versus-boundary domination condition. For sufficiently small positive parameters, equality holds for radial seeds and the inequality is strict otherwise.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A local Penrose inequality for conformal perturbations of Schwarzschild–anti-de Sitter data",
+  "titleZh": "Schwarzschild–anti-de Sitter 数据共形扰动的一个局部 Penrose 不等式",
+  "details": {
+    "overview": "该稿件对正质量 Schwarzschild–anti-de Sitter 外部的足够小极大真空共形扰动证明渐近双曲 Penrose 不等式，适用于每个固定衰减横纵无迹种子及满足所述衰减与质量假设的每个解分支。作者声称界使用边缘外陷边界自身的面积，不要求最外性或外面积最小化，也不需要体与边界支配条件。对足够小的正参数，径向种子取等号，其余情形不等式严格。",
+    "keyPoints": [
+      "对正质量 Schwarzschild–anti-de Sitter 外部的足够小极大真空共形扰动证明 Penrose 不等式。",
+      "界使用边缘外陷边界自身面积，不要求最外性或外面积最小化。",
+      "小正参数下径向种子取等号，其余情形严格。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

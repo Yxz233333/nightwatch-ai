@@ -1,7 +1,7 @@
 {
   "id": "7c59edce0c1e6472",
   "section": "papers",
-  "category": "数论与算术几何",
+  "category": "组合数学与图论",
   "title": "Balanced counterexamples to Ryser's conjecture at prime orders",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Balanced-Counterexamples-to-Rysers-Conjecture-at-Prime-Orders-September-27-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For every sufficiently large prime q, we construct a finite intersecting $`(q+1)`$-partite $`(q+1)`$-uniform hypergraph with covering number $`q+1`$ and exactly $`q+1`$ nonisolated vertices in each part. This disproves Ryser's covering conjecture, even for intersecting hypergraphs with equally sized parts.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Balanced counterexamples to Ryser's conjecture at prime orders",
+  "titleZh": "素数阶下Ryser猜想的平衡反例",
+  "details": {
+    "overview": "稿件研究Ryser覆盖猜想。作者声称，对每个充分大的素数q，构造一个有限相交的(q+1)-部(q+1)-一致超图，其覆盖数为q+1，且每部分恰有q+1个非孤立顶点。该构造否定了Ryser覆盖猜想，甚至对部分等大的相交超图也成立。这一反例表明猜想在素数阶情形下不成立，对超图覆盖理论有重要意义。",
+    "keyPoints": [
+      "对充分大素数q构造相交(q+1)-部(q+1)-一致超图。",
+      "覆盖数为q+1，每部分恰有q+1个非孤立顶点。",
+      "否定Ryser覆盖猜想，即使部分等大的相交超图也不成立。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

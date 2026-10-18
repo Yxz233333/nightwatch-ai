@@ -1,7 +1,7 @@
 {
   "id": "40362631b0aa9eec",
   "section": "papers",
-  "category": "数学论文",
+  "category": "算法与计算复杂性",
   "title": "Mean-payoff parity games in quasipolynomial time",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Mean-payoff-parity-games-in-quasipolynomial-time-October-5-2026/mean-payoff-parity.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We give a uniform deterministic quasipolynomial-time algorithm for mean-payoff parity games. It computes all vertices from which a player can enforce both nonnegative liminf mean payoff and the parity condition, with arbitrary signed binary rewards and unrestricted binary priorities. The running time is $`2^{O((\\log(L+2))^2)}`$ bit operations, where L is the complete input length.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Mean-payoff parity games in quasipolynomial time",
+  "titleZh": "拟多项式时间的平均支付奇偶博弈",
+  "details": {
+    "overview": "稿件给出平均支付奇偶博弈的统一确定性拟多项式时间算法。算法计算玩家能同时强制非负liminf平均支付与奇偶条件的全部顶点，允许任意带符号二进制奖励与无限制二进制优先级。运行时间为2^{O((log(L+2))²)}次位运算，其中L为完整输入长度。该结果改进此类博弈的算法复杂度上界。",
+    "keyPoints": [
+      "给出平均支付奇偶博弈的统一确定性拟多项式时间算法",
+      "计算能同时强制非负liminf平均支付与奇偶条件的全部顶点",
+      "运行时间为2^{O((log(L+2))²)}次位运算，L为完整输入长度"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

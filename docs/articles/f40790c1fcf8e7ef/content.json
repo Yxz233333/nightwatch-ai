@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that two-way nondeterministic finite automata cannot be complemented with a polynomial number of states independent of the alphabet. For each n ≥ 4 we construct an n-state automaton over a finite alphabet whose complement requires at least $`\\tfrac12 2^{\\lfloor(n-4)/127\\rfloor}-1`$ states.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An exponential state lower bound for two-way nondeterministic complementation",
+  "titleZh": "双向非确定性补全的指数状态下界",
+  "details": {
+    "overview": "稿件证明双向非确定性有限自动机不能以独立于字母表的多项式状态数进行补全。对于每个n≥4，构造一个有限字母表上的n状态自动机，其补全至少需要(1/2)2^{⌊(n-4)/127⌋}-1个状态。该结果属于自动机理论与计算复杂性领域，揭示了双向非确定性补全的状态复杂度下界。",
+    "keyPoints": [
+      "证明双向非确定性有限自动机补全不能使用独立于字母表的多项式状态数。",
+      "对每个n≥4构造n状态自动机，其补全至少需要(1/2)2^{⌊(n-4)/127⌋}-1个状态。",
+      "给出指数状态下界的具体构造。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

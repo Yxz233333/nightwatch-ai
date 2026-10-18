@@ -1,7 +1,7 @@
 {
   "id": "7aeea889fc1c4d28",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何测度论",
   "title": "A Codimension-One Bound for the Singular Set of a Stationary Integral Varifold",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-Codimension-One-Bound-for-the-Singular-Set-of-a-Stationary-Integral-Varifold-October-5-2026/varifold-singular-dimension.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "The singular set of every stationary integral m-varifold in an open Euclidean set has Hausdorff dimension at most $`m-1`$, in every positive dimension and codimension. This sharp bound proves the Euclidean singular-set conjecture recorded by Brena, Decio, and De Lellis.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Codimension-One Bound for the Singular Set of a Stationary Integral Varifold",
+  "titleZh": "稳定整变量流形奇异集的余维一界",
+  "details": {
+    "overview": "稿件研究欧氏开集中稳定整m-变量流形的奇异集维数。作者声称证明了该奇异集的Hausdorff维数至多为m−1，对所有正维数与余维数均成立。摘要称这一界是尖锐的，并证明了Brena、Decio与De Lellis记录的欧氏奇异集猜想。该结果给出几何测度论中稳定整变量流形正则性理论的一个基本维数上界。",
+    "keyPoints": [
+      "稳定整m-变量流形奇异集的Hausdorff维数至多为m−1",
+      "对所有正维数与余维数成立，且界为尖锐",
+      "作者声称证明了Brena–Decio–De Lellis记录的欧氏奇异集猜想"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

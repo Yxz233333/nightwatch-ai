@@ -1,7 +1,7 @@
 {
   "id": "b38ea80a6222ba52",
   "section": "papers",
-  "category": "数论与算术几何",
+  "category": "代数拓扑",
   "title": "A finite Smith–Toda complex V(4) at the prime 1009",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-finite-Smith-Toda-complex-V4-at-the-prime-1009-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a Smith–Toda complex $`V(4)`$ at the prime 1009. It is an ordinary finite 1009-local spectrum whose Brown–Peterson homology is $`BP_*/(1009,v_1,v_2,v_3,v_4)`$, with its canonical comodule structure and generator in degree zero.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A finite Smith–Toda complex V(4) at the prime 1009",
+  "titleZh": "素数1009处的有限Smith–Toda复形V(4)",
+  "details": {
+    "overview": "该稿件声称在素数1009处构造了一个Smith–Toda复形V(4)。摘要说明它是一个普通的有限1009局部谱，其Brown–Peterson同调为BP*/(1009,v1,v2,v3,v4)，带有标准余模结构且生成元位于零次。摘要未给出构造细节或验证过程。若成立，将为稳定同伦论中Smith–Toda复形在较大素数处的存在性提供实例。需注意这是AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "稿件声称在素数1009处构造有限1009局部谱V(4)。",
+      "其Brown–Peterson同调为BP*/(1009,v1,v2,v3,v4)，生成元在零次。",
+      "摘要未提供构造方法或独立验证。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

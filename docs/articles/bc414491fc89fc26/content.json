@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that minimum Vertex Cover is NP-hard to approximate within every fixed factor below two, even on simple unweighted graphs.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Factor-Two Hardness Threshold for Vertex Cover",
+  "titleZh": "顶点覆盖的二倍硬度阈值",
+  "details": {
+    "overview": "稿件研究最小顶点覆盖问题的近似硬度。作者声称证明：即使限制在简单无权图上，对任意固定小于二的近似因子，最小顶点覆盖都是NP难的。该结论若成立，将把顶点覆盖的近似下界推到经典二倍近似算法所对应的阈值，说明该算法在常数因子意义下已最优。需注意该手稿为AI产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为简单无权图上的最小顶点覆盖近似",
+      "作者声称任意固定小于二的因子均NP难近似",
+      "结果对应经典二倍近似算法的硬度阈值"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

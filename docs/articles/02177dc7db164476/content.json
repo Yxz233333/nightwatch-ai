@@ -1,7 +1,7 @@
 {
   "id": "02177dc7db164476",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数论与算术几何",
   "title": "Short Egyptian fractions",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Short-Egyptian-fractions-September-25-2026/Short-Egyptian-fractions-September-25-2026.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove a conjecture of Erdős: for every sufficiently large integer b, every rational number $`a/b`$ with $`1\\le a\\lt b`$ is a sum of $`O(\\log\\log b)`$ distinct positive unit fractions, with an absolute implied constant. This order is best possible when the numerator varies. We also show that both the number of expansions of 1 with exactly k distinct terms and the least integer at least 2 that never occurs as a denominator in such an expansion grow doubly exponentially in k: their double logarithms have order k.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Short Egyptian fractions",
+  "titleZh": "短埃及分数",
+  "details": {
+    "overview": "稿件研究有理数表示为互异单位分数之和的项数问题。作者声称证明了Erdős的一个猜想：对充分大的整数b，每个满足1≤a<b的有理数a/b都可写成O(log log b)个互异正单位分数之和，隐含常数绝对；当分子变化时该阶最优。作者还称，恰含k个互异项的1的展开个数，以及至少为2且从不出现在此类展开分母中的最小整数，均随k双指数增长，其双对数阶为k。",
+    "keyPoints": [
+      "作者声称证明Erdős猜想：a/b可写成O(log log b)个互异单位分数之和",
+      "该阶在分子变化时最优",
+      "1的k项展开个数与最小缺席分母均随k双指数增长"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

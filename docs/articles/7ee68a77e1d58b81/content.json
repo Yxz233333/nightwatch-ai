@@ -10,5 +10,16 @@
   "abstractEnglish": "For each fixed $`0\\lt \\kappa\\lt 8`$, let $`d=1+\\kappa/8`$. The gauge $`h(r)=r^d(\\log\\log(1/r))^{(2-d)/2}`$ at sufficiently small radii almost surely gives positive finite Hausdorff measure to every nontrivial positive-time compact segment of chordal SLEκ. This gives an explicit solution to Schramm's Hausdorff-measure problem in this parameter range. The entire trace has finite expected measure in every bounded disk. The exponent-one iterated-logarithm gauge suggested by Schramm is not sigma-finite on any such segment.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An explicit exact Hausdorff gauge for SLE",
+  "titleZh": "SLE的一个显式精确Hausdorff规范",
+  "details": {
+    "overview": "稿件研究弦SLEκ轨迹的Hausdorff测度问题。对固定0<κ<8，令d=1+κ/8，作者声称规范h(r)=r^d(log log(1/r))^{(2-d)/2}在充分小半径下几乎必然使每条非平凡正时间紧线段具有正有限Hausdorff测度，从而在该参数范围显式解决Schramm的Hausdorff测度问题；整条轨迹在每个有界圆盘内期望测度有限，而Schramm建议的指数一迭代对数规范在任何此类线段上非σ有限。属AI产生手稿，未经独立审查。",
+    "keyPoints": [
+      "给出SLEκ轨迹的显式Hausdorff规范",
+      "该规范使正时间紧线段测度正且有限",
+      "指数一迭代对数规范非σ有限"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

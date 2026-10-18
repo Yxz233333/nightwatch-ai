@@ -10,5 +10,16 @@
   "abstractEnglish": "Every prescribed-order finite sequence of vectors in the Euclidean unit ball of ℝd has one signing for which every signed prefix has norm at most $`C\\sqrt d`$, with C absolute and independent of the sequence length. Consequently, every indexed zero-sum family of unit-ball vectors admits an ordering with the same bound for its unsigned partial sums. This determines the Euclidean Steinitz constant up to absolute factors, $`S_2(d)=\\Theta(\\sqrt d)`$, and resolves the Euclidean Steinitz–Bergström conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Euclidean Steinitz–Bergström theorem",
+  "titleZh": "欧几里得Steinitz–Bergström定理",
+  "details": {
+    "overview": "稿件研究欧几里得单位球中向量序列的符号选择问题。摘要声称，对任意给定顺序的有限向量序列，存在一种符号选择使得每个带符号前缀的范数不超过C√d，其中C为绝对常数且与序列长度无关；并由此得到零和族排序的无符号部分和同界。这确定了欧几里得Steinitz常数S_2(d)=Θ(√d)，并解决欧几里得Steinitz–Bergström猜想。手稿为AI产生，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "证明单位球向量序列存在符号选择，使所有带符号前缀范数不超过C√d。",
+      "确定欧几里得Steinitz常数S_2(d)=Θ(√d)，解决相关猜想。",
+      "手稿为AI产生，收录不表示已完成独立审查或同行评议。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

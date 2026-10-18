@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Margulis–Platonov conjecture over number fields. For an absolutely almost simple simply connected group, every noncentral abstract normal subgroup of its rational points is the inverse image of an open normal subgroup of the product of its anisotropic nonarchimedean local groups.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Margulis–Platonov conjecture over number fields",
+  "titleZh": "数域上的Margulis–Platonov猜想",
+  "details": {
+    "overview": "稿件声称证明数域上的Margulis–Platonov猜想。摘要表示：对于绝对几乎单且单连通的群，其有理点中的每个非中心抽象正规子群都是某个开正规子群的原像，该开正规子群位于其各向异性非阿基米德局部群乘积中。该结果若成立，将深化对算术群正规子群结构的理解。手稿为AI产生，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "声称对绝对几乎单单连通群证明数域上的Margulis–Platonov猜想。",
+      "结论刻画有理点中非中心抽象正规子群为开正规子群的原像。",
+      "开正规子群位于各向异性非阿基米德局部群乘积中。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

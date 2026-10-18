@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every finite connected planar graph with arbitrary positive real edge lengths embeds into real L1 with a universal distortion bound. This resolves the planar embedding conjecture positively.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Planar Graph Metrics Embed into L1 with Constant Distortion",
+  "titleZh": "平面图度量以常数失真嵌入L1",
+  "details": {
+    "overview": "该稿件研究带任意正实边长度的有限连通平面图度量嵌入实L1空间的问题。作者声称证明了每个这样的平面图度量都能以通用常数失真嵌入L1，从而正面解决平面嵌入猜想。若成立，这意味着平面图的最短路径度量在L1中可由常数因子近似保持，联系了图度量与泛函分析中的嵌入理论。手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "对象为带任意正实边长度的有限连通平面图度量。",
+      "声称以通用常数失真嵌入实L1空间。",
+      "作者称由此正面解决平面嵌入猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -7,5 +7,14 @@
   "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0",
   "date": "2026-10-15",
   "status": "这是 CLI 发布说明；桌面版是否包含同项能力需单独核对。",
+  "details": {
+    "overview": "该条目为 Codex CLI 0.163.0 的发布说明之一。摘要表示，/config 支持跨分类搜索设置，并区分立即生效和需要重启的修改。该说明属于 CLI 发布说明，桌面版是否包含同项能力需单独核对，摘要未说明具体设置项或生效机制细节。",
+    "keyPoints": [
+      "/config 支持跨分类搜索设置",
+      "区分立即生效与需重启的修改",
+      "桌面版是否具备同项能力需单独核对"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

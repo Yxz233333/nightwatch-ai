@@ -1,7 +1,7 @@
 {
   "id": "79f5530fbf5029b9",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何群论",
   "title": "A finitely generated counterexample to the Eilenberg–Ganea conjecture",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-finitely-generated-counterexample-to-the-Eilenberg-Ganea-conjecture-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a finitely generated residually finite group of integral cohomological dimension two and geometric dimension three, disproving the Eilenberg–Ganea conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A finitely generated counterexample to the Eilenberg–Ganea conjecture",
+  "titleZh": "Eilenberg–Ganea猜想的一个有限生成反例",
+  "details": {
+    "overview": "该稿件构造了一个有限生成、剩余有限的群，其整系数上同调维数为二而几何维数为三，声称由此否证Eilenberg–Ganea猜想。研究对象涉及群的同调维数与几何维数之间的关系。摘要仅给出反例的基本性质，未说明构造方法或验证细节；该手稿为AI产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "构造有限生成剩余有限群作为反例",
+      "该群上同调维数为二、几何维数为三",
+      "声称否证Eilenberg–Ganea猜想"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

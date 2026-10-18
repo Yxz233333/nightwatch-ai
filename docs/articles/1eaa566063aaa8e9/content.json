@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove nonuniqueness for the three-dimensional periodic hard-sphere Boltzmann equation among global entropy solutions satisfying exact local conservation of mass, momentum, and kinetic energy. We construct one nonnegative initial density with bounded velocity support and finite mass, energy, and absolute entropy that gives rise to two distinct such solutions. Both are strongly continuous in L1, and their collision gain and loss terms are integrable with every polynomial velocity weight on every bounded time interval.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Nonuniqueness with local conservation for the hard-sphere Boltzmann equation",
+  "titleZh": "硬球Boltzmann方程在局部守恒下的非唯一性",
+  "details": {
+    "overview": "稿件研究三维周期硬球Boltzmann方程整体熵解的非唯一性问题。摘要表示，作者构造了一个非负初始密度，其速度支撑有界、质量、能量与绝对熵有限，却产生两个不同的整体熵解；两者均满足质量、动量与动能的确切局部守恒，在L1中强连续，且碰撞增益项与损失项在每个有界时间区间上对任意多项式速度权可积。作者声称由此证明了在满足精确局部守恒的整体熵解类中非唯一性成立。该结果属于动理学方程理论；摘要未说明证明方法细节。",
+    "keyPoints": [
+      "研究对象为三维周期硬球Boltzmann方程的整体熵解。",
+      "作者构造单一初始密度对应两个不同解，二者均满足精确局部守恒。",
+      "两个解在L1中强连续，碰撞项对多项式速度权可积。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

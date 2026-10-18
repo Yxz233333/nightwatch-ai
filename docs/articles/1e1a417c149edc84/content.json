@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the weak inhomogeneous Duffin–Schaeffer conjecture. For every fixed γ ∈ ℝ and finite-valued $`\\psi:\\mathbb N\\to[0,\\infty)`$, divergence of $`\\sum_{q\\ge1}\\phi(q)\\psi(q)/q`$ implies $`\\|qx-\\gamma\\|\\lt \\psi(q)`$ for infinitely many q, for almost every x. Here ϕ is Euler's totient and $`\\|\\cdot\\|`$ is distance to the nearest integer. Numerators need not be reduced, and the shift satisfies no Diophantine restriction.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Weak Inhomogeneous Duffin–Schaeffer Conjecture",
+  "titleZh": "弱非齐次Duffin–Schaeffer猜想",
+  "details": {
+    "overview": "该稿件研究非齐次丢番图逼近中的Duffin–Schaeffer型猜想。作者声称证明弱非齐次Duffin–Schaeffer猜想：对每个固定实数γ和有限值函数ψ:N→[0,∞)，若∑φ(q)ψ(q)/q发散，则对几乎每个x，不等式‖qx−γ‖<ψ(q)对无穷多个q成立；其中φ为Euler示性函数，‖·‖为到最近整数距离。摘要强调分子不必既约，平移γ不受丢番图限制。意义在于把经典猜想推广到带任意平移的非齐次情形，但结果尚未经独立审查。",
+    "keyPoints": [
+      "作者声称证明弱非齐次Duffin–Schaeffer猜想，平移γ为任意固定实数。",
+      "发散条件为∑φ(q)ψ(q)/q，结论是对几乎每个x有无穷多q满足逼近不等式。",
+      "摘要强调分子不需既约，且对平移不加丢番图限制。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

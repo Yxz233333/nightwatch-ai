@@ -1,7 +1,7 @@
 {
   "id": "55d68ade6ea51d03",
   "section": "papers",
-  "category": "数学论文",
+  "category": "计算复杂性",
   "title": "Constant-factor hardness of Min-UnCut",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Constant-factor-hardness-of-Min-UnCut-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For every fixed C > 1, approximating Min-UnCut within factor C is NP-hard, even on simple undirected unweighted graphs.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Constant-factor hardness of Min-UnCut",
+  "titleZh": "Min-UnCut的常数因子硬度",
+  "details": {
+    "overview": "稿件研究Min-UnCut问题的近似硬度。作者声称对每个固定常数C>1，即使在简单无向无权图上，将Min-UnCut近似到因子C以内也是NP困难的。该结论若成立，说明该问题不存在优于某常数因子的多项式时间近似，属于组合优化与计算复杂性中的不可近似性结果；但作为AI产生的研究手稿，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为简单无向无权图上的Min-UnCut",
+      "作者声称对每个固定C>1，C因子近似均为NP困难",
+      "摘要未给出具体常数或归约细节"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

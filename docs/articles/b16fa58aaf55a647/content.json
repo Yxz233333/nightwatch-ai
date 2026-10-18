@@ -1,7 +1,7 @@
 {
   "id": "b16fa58aaf55a647",
   "section": "papers",
-  "category": "数学论文",
+  "category": "图论与组合数学",
   "title": "A counterexample to Hadwiger's conjecture",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-counterexample-to-Hadwigers-conjecture-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We disprove Hadwiger's conjecture by constructing arbitrarily large graphs whose chromatic number exceeds their Hadwiger number. The examples have independence number at most two, and even their ordinary fractional chromatic number exceeds their Hadwiger number. Thus they also disprove the fractional-coloring weakening discussed by Reed and Seymour.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A counterexample to Hadwiger's conjecture",
+  "titleZh": "Hadwiger猜想的一个反例",
+  "details": {
+    "overview": "该稿件声称否证了Hadwiger猜想：构造出任意大的图，使其色数超过Hadwiger数。摘要称这些例子的独立数至多为二，甚至其普通分数色数也超过Hadwiger数，因而也否证了Reed与Seymour讨论的分数着色弱化版本。摘要未给出构造细节或规模估计。若成立，将对图着色与图子式理论中的核心猜想产生重大影响。需注意这是AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "稿件声称构造任意大图，使色数超过Hadwiger数，从而否证Hadwiger猜想。",
+      "例子独立数至多为二，分数色数也超过Hadwiger数。",
+      "同时声称否证Reed–Seymour讨论的分数着色弱化版本。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

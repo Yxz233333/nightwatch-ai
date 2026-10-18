@@ -1,7 +1,7 @@
 {
   "id": "bbe5fdba7ebbd6d5",
   "section": "papers",
-  "category": "数学论文",
+  "category": "算子代数",
   "title": "Equivariant Jiang–Su Stability for Amenable Actions in the Unital Stably Finite Case",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Equivariant-Jiang-Su-Stability-for-Amenable-Actions-in-the-Unital-Stably-Finite-Case-October-5-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "Every action of a countable discrete amenable group on a simple, separable, unital, infinite-dimensional, nuclear, stably finite complex C∗-algebra that is already Jiang–Su stable absorbs the trivial action on the Jiang–Su algebra up to cocycle conjugacy. No restriction is imposed on the action on the tracial-state simplex. This proves the unital, stably finite case of Szabó's Conjecture A on automatic equivariant Jiang–Su stability.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Equivariant Jiang–Su Stability for Amenable Actions in the Unital Stably Finite Case",
+  "titleZh": "可数离散顺从群作用在单位稳定有限情形下的等变Jiang–Su稳定性",
+  "details": {
+    "overview": "稿件研究顺从群在C*-代数上作用的等变Jiang–Su稳定性。作者声称：可数离散顺从群在单的、可分的、单位的、无限维、核的、稳定有限复C*-代数上的每个作用，若已Jiang–Su稳定，则在上循环共轭意义下吸收Jiang–Su代数上的平凡作用，且对迹态单纯形上的作用不加限制。摘要表示这证明了Szabó猜想A的单位稳定有限情形。",
+    "keyPoints": [
+      "对象为顺从群在单位稳定有限核C*-代数上的作用",
+      "声称已Jiang–Su稳定的作用吸收Jiang–Su代数上的平凡作用",
+      "对迹态单纯形上的作用不加限制，证明Szabó猜想A的单位稳定有限情形"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

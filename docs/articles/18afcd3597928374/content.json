@@ -10,5 +10,16 @@
   "abstractEnglish": "For every fixed integer d ≥ 3, we give a deterministic algorithm that constructs a simple nonbipartite d-regular Ramanujan graph on every sufficiently large even number n of vertices. It outputs the full adjacency list in polynomially many bit operations, with an exponent that may depend on d. Every nonconstant adjacency eigenvalue lies strictly between $`-2\\sqrt{d-1}`$ and $`2\\sqrt{d-1}`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Deterministic nonbipartite Ramanujan graphs in every fixed degree",
+  "titleZh": "每个固定度数下的确定性非二部Ramanujan图",
+  "details": {
+    "overview": "稿件研究Ramanujan图的确定性构造。作者声称对每个固定整数d≥3，给出确定性算法，在每个足够大的偶数顶点数n上构造简单非二部d正则Ramanujan图，并以多项式位运算输出完整邻接表，指数可依赖于d；每个非平凡邻接特征值严格位于-2√(d-1)与2√(d-1)之间。该手稿为AI产生，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "对每个固定d≥3，声称确定性构造简单非二部d正则Ramanujan图。",
+      "构造覆盖每个足够大的偶数顶点数n，输出完整邻接表。",
+      "非平凡邻接特征值严格落在±2√(d-1)之间。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

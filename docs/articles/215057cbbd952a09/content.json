@@ -10,5 +10,16 @@
   "abstractEnglish": "We study tree norms computed by two least nonnegative fields whose difference is the vector. For Euclidean child aggregation, two root-sum spaces have an averaged asymptotic midpoint modulus of at least $`t^3/128`$ for $`0\\lt t\\lt 1`$, including a reflexive joining-root space. A reflexive construction with a fixed zero root also satisfies a homogeneous cubic estimate. These spaces admit no equivalent asymptotically uniformly convex norm. We also obtain sixth-power and cubic estimates when the aggregation exponent depends on the height of a finite component.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Midpoint convexity from two recursive potentials",
+  "titleZh": "由两个递归势得到的中点凸性",
+  "details": {
+    "overview": "该稿件研究由两个最小非负域计算出的树范数，二者之差即为向量。摘要表示，在欧氏子节点聚合下，两个根和空间具有至少 t^3/128（0<t<1）的平均渐近中点模，其中包括一个自反的连接根空间；带固定零根的自反构造还满足齐次三次估计。作者声称这些空间不存在等价的渐近一致凸范数，并在聚合指数依赖有限分量高度时得到六次与三次估计。",
+    "keyPoints": [
+      "研究两个最小非负域之差所定义的树范数及其中点凸性。",
+      "作者声称所得空间不存在等价的渐近一致凸范数。",
+      "聚合指数依赖有限分量高度时给出六次与三次估计。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

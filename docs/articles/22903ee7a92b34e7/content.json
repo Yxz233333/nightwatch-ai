@@ -1,7 +1,7 @@
 {
   "id": "22903ee7a92b34e7",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数学物理",
   "title": "A continuum temperature singularity for a radial pair potential",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-continuum-temperature-singularity-for-a-radial-pair-potential-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a stable radial pair potential in three dimensions whose canonical free energy has a strict downward derivative jump at one common finite positive inverse temperature throughout an open interval of positive densities. The potential has a divergent repulsive core, a nontrivial attractive interval, and an integrable tail satisfying $`\\phi(r)=o(r^{-3})`$. Its free-cube canonical free energy is finite at every positive inverse temperature and density.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A continuum temperature singularity for a radial pair potential",
+  "titleZh": "径向对势的连续温度奇异性",
+  "details": {
+    "overview": "稿件研究三维中稳定径向对势的规范自由能。摘要声称构造了一个势，使规范自由能在某个共同有限正逆温度处、沿一个正密度开区间出现严格向下的导数跳跃。该势具有发散排斥核、非平凡吸引区间及满足φ(r)=o(r^{-3})的可积尾部，且自由立方体规范自由能在每个正逆温度和密度下有限。研究属于数学统计物理；材料未说明构造方法或物理解释。",
+    "keyPoints": [
+      "构造三维稳定径向对势，其规范自由能在共同逆温度处出现导数跳跃。",
+      "势具有发散排斥核、非平凡吸引区间和可积尾部φ(r)=o(r^{-3})。",
+      "自由立方体规范自由能在所有正逆温度和密度下有限。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

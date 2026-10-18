@@ -10,5 +10,15 @@
   "abstractEnglish": "We resolve affirmatively the remaining cases of the scalar one-dimensional Lieb–Thirring conjecture: for every $`\\frac12\\lt \\gamma\\lt \\frac32`$, the optimal constant is the one-bound-state constant. The estimate holds for every nonnegative potential in $`L^{\\gamma+1/2}(\\mathbb R)`$, with all negative eigenvalues included.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Sharp one-dimensional Lieb–Thirring constants",
+  "titleZh": "尖锐一维Lieb–Thirring常数",
+  "details": {
+    "overview": "稿件研究一维标量Lieb–Thirring猜想，声称对每个1/2<γ<3/2，最优常数是单束缚态常数。摘要表示，该估计对L^{γ+1/2}(ℝ)中每个非负势成立，并包含所有负特征值。这解决了该猜想剩余情形，属于泛函分析与数学物理中的谱不等式。",
+    "keyPoints": [
+      "对1/2<γ<3/2证明最优常数为单束缚态常数。",
+      "估计适用于L^{γ+1/2}(ℝ)中非负势并包含所有负特征值。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

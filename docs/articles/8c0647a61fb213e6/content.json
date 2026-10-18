@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the relative $`\\mathop{\\mathrm{SU}}\\nolimits (2)`$ BFSS Hamiltonian has infinitely many positive eigenvalues tending to infinity, with square-integrable eigenvectors. The operator is defined by closing the gauge-invariant supercharge form. This refutes, at N = 2, the exclusion of normalizable positive-energy states stated in the original BFSS paper.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Positive eigenvalues of the relative SU(2) BFSS Hamiltonian",
+  "titleZh": "相对 SU(2) BFSS 哈密顿量的正特征值",
+  "details": {
+    "overview": "该稿件证明相对 SU(2) BFSS 哈密顿量具有无穷多个趋于无穷的正特征值，并具平方可积特征向量。作者称该算子通过闭包化规范不变超荷形式定义。摘要表示这一结果在 N=2 时反驳了原始 BFSS 论文中关于排除可归一化正能量态的陈述。",
+    "keyPoints": [
+      "证明相对 SU(2) BFSS 哈密顿量有无穷多个趋于无穷的正特征值。",
+      "正特征值对应平方可积特征向量，算子由规范不变超荷形式闭包定义。",
+      "作者声称在 N=2 时反驳原始 BFSS 论文排除可归一化正能量态的陈述。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

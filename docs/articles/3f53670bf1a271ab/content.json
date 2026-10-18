@@ -1,7 +1,7 @@
 {
   "id": "3f53670bf1a271ab",
   "section": "papers",
-  "category": "数学论文",
+  "category": "黎曼几何",
   "title": "Generalized Cartan–Hadamard isoperimetry and Euclidean equality rigidity",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We resolve the generalized Cartan–Hadamard isoperimetric conjecture in every dimension. In a complete simply connected smooth manifold with sectional curvature at most κ ≤ 0, every finite-volume set of finite ambient perimeter has perimeter at least that of the equal-volume ball in curvature κ. For bounded positive-volume sets, equality in the Euclidean comparison holds precisely when the set agrees up to null sets with an open region isometric, with its induced metric, to a round Euclidean ball.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Generalized Cartan–Hadamard isoperimetry and Euclidean equality rigidity",
+  "titleZh": "广义Cartan–Hadamard等周不等式与欧氏等号刚性",
+  "details": {
+    "overview": "该稿件研究截面曲率非正完备单连通流形中的等周不等式。作者声称在所有维数解决广义Cartan–Hadamard等周猜想：曲率至多κ≤0时，每个有限体积、有限周边长的集合，其周长至少不小于曲率κ下同体积球的周长；对有界正体积集合，欧氏比较中的等号成立当且仅当该集合（至零测集）与一个欧氏球等距。该结果给出等周比较及刚性刻画。但手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "作者声称在所有维数解决广义Cartan–Hadamard等周猜想。",
+      "曲率≤0时集合周长不小于同体积模型球周长。",
+      "欧氏比较等号成立当且仅当集合与欧氏球等距。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

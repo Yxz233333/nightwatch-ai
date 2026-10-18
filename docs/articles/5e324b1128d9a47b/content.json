@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove a uniform index theorem for connected projective semi-log-canonical log Calabi–Yau pairs in every fixed dimension at least four over an algebraically closed field of characteristic zero. For boundary coefficients in a fixed finite rational set, a single multiple of the log canonical divisor is Cartier and linearly trivial. The multiple depends only on the dimension and coefficient set, not on the number of irreducible components. Together with the established theorem in dimensions at most three, this resolves the finite-rational-coefficient semi-log-canonical index conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Uniform indices for semi-log-canonical log Calabi–Yau pairs",
+  "titleZh": "半对数典范对数Calabi–Yau对的一致指数",
+  "details": {
+    "overview": "该稿件研究特征零代数闭域上连通射影半对数典范对数Calabi–Yau对的一致指数问题。摘要表示，在每一固定维数至少四时，若边界系数取自固定有限有理数集，则对数典范除子的某个统一倍数既为Cartier又线性平凡，且该倍数只依赖维数与系数集，不依赖不可约分支数。结合至多三维的已有定理，作者声称解决了有限有理系数半对数典范指数猜想。手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "作者声称在维数至少四时证明半对数典范对数Calabi–Yau对的一致指数定理。",
+      "统一倍数仅依赖维数与边界系数集，不随不可约分支数增长。",
+      "与至多三维已有定理合并，声称解决有限有理系数半对数典范指数猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

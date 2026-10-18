@@ -1,7 +1,7 @@
 {
   "id": "b907ea8336671189",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数学物理",
   "title": "Generalized ionization energies for full Coulomb atoms",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Generalized-ionization-energies-for-full-Coulomb-atoms-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the energy part of the generalized ionization conjecture for full nonrelativistic Coulomb atoms with two electron spin states. The energy needed to remove m electrons is asymptotic to $`a_{\\mathrm{TF}}m^{7/3}`$ whenever $`m\\to\\infty`$ and $`Z/m\\to\\infty`$, with the Thomas–Fermi constant in atomic units. We also obtain both conjectured iterated limits.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Generalized ionization energies for full Coulomb atoms",
+  "titleZh": "全Coulomb原子的广义电离能",
+  "details": {
+    "overview": "稿件研究全非相对论Coulomb原子（含两个电子自旋态）的广义电离猜想中的能量部分。作者声称当m→∞且Z/m→∞时，移除m个电子所需能量渐近于a_TF m^{7/3}，其中a_TF为原子单位下的Thomas–Fermi常数，并得到两个猜想的迭代极限。该结果对多电子原子电离能的数学理论具有意义。摘要未提供证明方法及常数具体值。",
+    "keyPoints": [
+      "证明移除m个电子所需能量渐近于a_TF m^{7/3}。",
+      "条件为m→∞且Z/m→∞。",
+      "得到两个猜想的迭代极限。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

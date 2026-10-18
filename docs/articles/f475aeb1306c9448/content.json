@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a uniform randomized k-server algorithm on finite rational metrics with competitive ratio $`O(\\log^2(k+1))`$ against oblivious request sequences. Preprocessing is polynomial in the input length, and per-request bit complexity is polynomial in that length and the binary request-counter length. The additive movement constant is finite and instance-dependent, but may be enormous. The construction uses the companion squared-logarithmic existence theorem.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Uniform computation of the squared-logarithmic k-server bound",
+  "titleZh": "平方对数k服务器界的统一计算",
+  "details": {
+    "overview": "稿件研究有限有理度量上的k服务器问题。作者声称构造了一个统一随机算法，针对 oblivious 请求序列的竞争比为O(log^2(k+1))；预处理时间为输入长度的多项式，每次请求的比特复杂度为该长度与二进制请求计数器长度的多项式。加法移动常数为有限且依赖实例，但可能极大。构造依赖配套的平方对数存在性定理。该结果若成立，将把k服务器问题的理论界推进到可计算形式。",
+    "keyPoints": [
+      "构造统一随机k服务器算法，竞争比O(log^2(k+1))",
+      "预处理与每请求比特复杂度均为多项式",
+      "加法移动常数有限但依赖实例，可能极大"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

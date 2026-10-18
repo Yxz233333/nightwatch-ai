@@ -1,7 +1,7 @@
 {
   "id": "72a9ccd0af98ece8",
   "section": "papers",
-  "category": "数学论文",
+  "category": "微分几何",
   "title": "Positive scalar curvature forces rational inessentiality",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Positive-scalar-curvature-forces-rational-inessentiality-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every closed connected oriented smooth manifold admitting strictly positive scalar curvature is rationally inessential: its rational fundamental class maps to zero under the classifying map. No spin or fundamental-group hypothesis is needed, and there is no upper dimension bound. This proves the Gromov–Lawson aspherical conjecture; moreover, every nonnegative-scalar-curvature metric on a closed aspherical manifold is flat. We also show that every closed oriented smooth manifold of positive dimension with nonnegative scalar curvature has zero real simplicial volume, proving the qualitative vanishing consequence of Gromov's conjectural comparison.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Positive scalar curvature forces rational inessentiality",
+  "titleZh": "正标量曲率迫使有理非本质性",
+  "details": {
+    "overview": "该稿件声称证明了每个容许严格正标量曲率的闭连通可定向光滑流形都是有理非本质的：其有理基本类在分类映射下为零，无需自旋或基本群假设，也无维数上界。摘要表示由此证明Gromov–Lawson非球面猜想，并推出闭非球面流形上任何非负标量曲率度量都是平坦的；还证明正维数、非负标量曲率的闭可定向光滑流形实单纯体积为零，即Gromov比较猜想中的定性消失结论。手稿为AI产生，未经独立审查。",
+    "keyPoints": [
+      "正标量曲率流形的有理基本类在分类映射下为零",
+      "证明Gromov–Lawson非球面猜想及非球面流形度量平坦性",
+      "非负标量曲率流形实单纯体积为零"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

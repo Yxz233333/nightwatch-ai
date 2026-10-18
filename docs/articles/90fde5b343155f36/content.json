@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that, at each singular point of the first singular time of the mean-curvature flow of a smooth compact connected embedded surface without boundary in ℝ3, all fixed-center rescalings converge locally smoothly on compact negative-time intervals to one multiplicity-one homothetic self-shrinker flow. The limit is unique in the original ambient coordinates, including its position and axes. No mean-convexity assumption or prescribed tangent model is required.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Uniqueness of tangent flows at the first singular time of embedded surface mean-curvature flow",
+  "titleZh": "嵌入曲面平均曲率流首次奇异时刻切流的唯一性",
+  "details": {
+    "overview": "稿件研究 R^3 中光滑紧连通无边嵌入曲面平均曲率流的首次奇异时刻。作者声称在每个奇异点处，所有固定中心重标度在紧负时间区间上局部光滑收敛到同一个重数为一的位似自收缩流，且极限在原始环境坐标中唯一，包括位置与轴。摘要表示不需要平均凸性假设，也不需要预先指定切模型。该结果针对曲面平均曲率流奇点分析的切流唯一性问题。",
+    "keyPoints": [
+      "研究嵌入曲面平均曲率流首次奇异时刻的切流",
+      "声称所有固定中心重标度收敛到同一自收缩流",
+      "极限在原始坐标中唯一，不需平均凸性假设"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We give a uniform deterministic polynomial-time algorithm for scheduling unit-length jobs with arbitrary precedence constraints on three identical parallel machines. The algorithm constructs a schedule of minimum makespan and decides exactly whether all jobs can finish by a specified deadline. The proof reorganizes feasible schedules into intervals whose job sets have descriptions of bounded size. A dynamic program searches a family containing polynomially many such descriptions. Global boundary conditions and simplification of inherited information keep the descriptions bounded throughout the decomposition.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Polynomial-Time Algorithm for Three-Machine Unit-Job Scheduling",
+  "titleZh": "三机单位作业调度的多项式时间算法",
+  "details": {
+    "overview": "稿件研究三台同型并行机上带任意优先约束的单位长度作业调度。作者声称给出统一的确定性多项式时间算法，能构造最小完工时间的调度，并精确判定所有作业能否在给定截止期前完成。证明将可行调度重组为区间，其作业集具有有界大小的描述；动态规划搜索含多项式多个此类描述的族，并通过全局边界条件与继承信息化简保持描述有界。",
+    "keyPoints": [
+      "作者声称给出三机单位作业调度的统一确定性多项式时间算法",
+      "算法构造最小完工时间调度并判定截止期可行性",
+      "证明基于有界描述区间的动态规划与信息化简"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

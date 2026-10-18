@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every complete connected noncompact Kähler manifold with strictly positive holomorphic bisectional curvature is biholomorphic to complex Euclidean space. This resolves Yau's uniformization conjecture positively in every complex dimension.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Uniformization of complete Kähler manifolds with positive bisectional curvature",
+  "titleZh": "正双截曲率完备Kähler流形的单值化",
+  "details": {
+    "overview": "稿件研究完备连通非紧Kähler流形，假设其全纯双截曲率严格为正。作者声称证明该流形双全纯于复欧氏空间，从而在所有复维数上正面解决Yau的单值化猜想。该结果若成立，将为正曲率Kähler几何提供基本分类结论。该手稿为AI产生，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "对象为完备连通非紧Kähler流形，全纯双截曲率严格正。",
+      "声称该流形双全纯于复欧氏空间。",
+      "作者称在所有复维数上正面解决Yau的单值化猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

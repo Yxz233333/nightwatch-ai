@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct smooth forces of fixed compact spatial support for three-dimensional incompressible Navier–Stokes flow from rest whose particle at the origin detects halting by entering a fixed half-space. Every mixed derivative of the force and velocity decays at rate $`O((1+t)^{-1-j})`$ for time order j. Three scalar potentials lift a coded rectangle, perform its instruction, and lower its image; an unbounded logarithmic clock supplies the decay. We also realize area-changing prefix instructions on an invariant torus plane, and construct a planar Hamiltonian processor admitting periodic forcing, stationary forcing after startup, and a velocity-field detector through a companion diffusion theorem.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Scalar Potentials and Slow Clocks for Forced Fluid Computation",
+  "titleZh": "受迫流体计算的标量势与慢钟",
+  "details": {
+    "overview": "稿件构造三维不可压Navier–Stokes流从静止出发的紧支撑光滑外力，使原点粒子通过进入固定半空间来检测停机。作者声称力的所有混合导数与速度以O((1+t)^{-1-j})速率衰减（时间阶j）。三个标量势提升编码矩形、执行指令并降低像；无界对数钟提供衰减。还实现在不变环面平面上的变面积前缀指令，以及通过伴随扩散定理构造平面Hamilton处理器。",
+    "keyPoints": [
+      "构造紧支撑光滑外力，使原点粒子检测停机。",
+      "力与速度的混合导数以O((1+t)^{-1-j})衰减。",
+      "用三个标量势和无界对数钟实现计算与衰减。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Margulis–Platonov conjecture over every global function field, including characteristic two. For an absolutely almost simple simply connected algebraic group, every noncentral abstract normal subgroup of its rational points is the inverse image of an open normal subgroup of the finite product of its anisotropic local groups.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Margulis–Platonov conjecture over global function fields",
+  "titleZh": "整体函数域上的Margulis–Platonov猜想",
+  "details": {
+    "overview": "该稿件研究整体函数域上的Margulis–Platonov猜想。摘要表示，作者在每个整体函数域上证明该猜想，包括特征二情形。设G为绝对几乎单且单连通的代数群，其有理点群的每个非中心抽象正规子群，都是某个有限各向异性局部群乘积中开正规子群的原像。该结果把猜想推广到全部整体函数域；但手稿为AI产生，尚未经独立审查或同行评议，结论属作者声称。",
+    "keyPoints": [
+      "作者声称在每个整体函数域上证明Margulis–Platonov猜想，包括特征二。",
+      "对象为绝对几乎单、单连通代数群的有理点群。",
+      "非中心抽象正规子群等于有限各向异性局部群乘积中开正规子群的原像。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

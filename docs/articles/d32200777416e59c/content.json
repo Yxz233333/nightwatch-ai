@@ -10,5 +10,16 @@
   "abstractEnglish": "For every fixed $`1\\le q\\le4`$, critical square-lattice random-cluster Dobrushin interfaces converge to chordal $`\\mathop{\\mathrm{SLE}}\\nolimits _{\\kappa(q)}`$, where $`\\kappa(q)=4\\pi/\\arccos(-\\sqrt q/2)`$, and the complete nested plane loop collections converge to whole-plane $`\\mathop{\\mathrm{CLE}}\\nolimits _{\\kappa(q)}`$. The results hold under uniform marked Jordan boundary approximation and retain loop multiplicities and traversals. At q = 1 we obtain Cardy's formula for square-lattice bond percolation with free boundary edges.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Conformal Limits of Critical Square-Lattice Random-Cluster Interfaces",
+  "titleZh": "临界方格随机簇界面的共形极限",
+  "details": {
+    "overview": "该稿件研究临界方格随机簇模型的Dobrushin界面与嵌套平面圈集合的共形极限。作者声称，对每个固定 1≤q≤4，临界界面收敛到弦形SLE_{κ(q)}，其中 κ(q)=4π/arccos(-√q/2)，完整嵌套平面圈集合收敛到全平面CLE_{κ(q)}。结果在一致标记Jordan边界逼近下成立，并保留圈的重数与遍历信息；q=1时得到自由边界边渗流的Cardy公式。摘要表示这些收敛结论。稿件为AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "对每个固定 1≤q≤4，临界随机簇Dobrushin界面收敛到弦形SLE_{κ(q)}。",
+      "嵌套平面圈集合收敛到全平面CLE_{κ(q)}，并保留圈重数与遍历。",
+      "q=1时给出方格边渗流自由边界下的Cardy公式。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

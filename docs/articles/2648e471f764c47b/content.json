@@ -1,7 +1,7 @@
 {
   "id": "2648e471f764c47b",
   "section": "papers",
-  "category": "数学论文",
+  "category": "群论",
   "title": "Simple F∞ overgroups of groups with decidable word problem",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Simple-F-infinity-overgroups-of-groups-with-decidable-word-problem-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "Every finitely generated group with decidable word problem embeds in a simple group of type F∞. This resolves the higher-finiteness strengthening of the Boone–Higman conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Simple F∞ overgroups of groups with decidable word problem",
+  "titleZh": "具有可判定字问题的群的简单F∞超群",
+  "details": {
+    "overview": "稿件声称证明每个有限生成且字问题可判定的群都可嵌入一个F∞型简单群，从而解决Boone–Higman猜想的高阶有限性加强版本。摘要未给出构造细节或证明思路。若成立，该结果将把可判定字问题与高阶有限性性质联系起来，对几何群论和算法群论有潜在意义。该手稿为AI产生，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "声称每个有限生成且字问题可判定的群嵌入一个简单群。",
+      "嵌入目标群具有F∞型，即高阶有限性性质。",
+      "作者称这解决了Boone–Higman猜想的高阶有限性加强版。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

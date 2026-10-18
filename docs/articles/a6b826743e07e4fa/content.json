@@ -1,7 +1,7 @@
 {
   "id": "a6b826743e07e4fa",
   "section": "papers",
-  "category": "数学论文",
+  "category": "信息论与理论计算机科学",
   "title": "Quantitative lower bounds for trace reconstruction",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/quantitative-lower-bounds-for-trace-reconstruction-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "Exact worst-case reconstruction of a binary word from independent deletion traces requires $`n^{\\Omega(\\log\\log n)}`$ samples for every fixed deletion probability $`q\\in(0,1)`$, even with unrestricted computation and any fixed positive success probability. This gives a negative answer to the polynomial-sample question for binary trace reconstruction. More generally, when $`q^3\\log n\\to\\infty`$, we prove a lower bound of $`n^{c\\log(q^3\\log n)}`$ samples for every fixed $`0\\lt c\\lt 1/(4\\log2)`$. Here q is the known deletion probability, and all logarithms are natural.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Quantitative lower bounds for trace reconstruction",
+  "titleZh": "迹重构的定量下界",
+  "details": {
+    "overview": "该稿件研究二元字从独立删除迹中的最坏情况精确重构。作者声称对每个固定删除概率q∈(0,1)，即使计算不受限且成功概率为任意固定正数，也需n^{Ω(log log n)}个样本；这否定二元迹重构的多项式样本问题。更一般地，当q^3 log n趋于无穷时，证明对每个固定0<c<1/(4 log 2)需n^{c log(q^3 log n)}个样本。若成立，将给出迹重构样本复杂度的强下界。",
+    "keyPoints": [
+      "二元迹重构最坏情况需n^{Ω(log log n)}样本，否定多项式样本可能。",
+      "下界对任意固定删除概率与任意固定正成功概率成立。",
+      "更一般地给出n^{c log(q^3 log n)}形式的样本下界。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

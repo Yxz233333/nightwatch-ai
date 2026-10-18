@@ -1,7 +1,7 @@
 {
   "id": "36a9fde4b4829ea2",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论与统计物理",
   "title": "Square-lattice FK interfaces and nested loops for 1 <= q < 4",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Square-lattice-FK-interfaces-and-nested-loops-for-1-leq-q-lt-4-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For every fixed $`1\\le q\\lt 4`$, critical square-lattice random-cluster Dobrushin interfaces converge as ordered curves to chordal $`\\mathop{\\mathrm{SLE}}\\nolimits _{\\kappa(q)}`$, where $`\\kappa(q)=4\\pi/\\arccos(-\\sqrt q/2)`$, confirming the Rohde–Schramm prediction in this parameter range. This holds in every bounded Jordan domain under uniform marked boundary approximation. The complete nested plane loop collections converge to whole-plane $`\\mathop{\\mathrm{CLE}}\\nolimits _{\\kappa(q)}`$ in a spherical matching topology retaining multiplicities and traversals. At q = 1 we obtain Cardy's formula for square-lattice bond percolation with free boundary edges.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Square-lattice FK interfaces and nested loops for 1 <= q < 4",
+  "titleZh": "1 ≤ q < 4 时方格FK界面与嵌套环",
+  "details": {
+    "overview": "稿件研究临界方格随机簇模型的Dobrushin界面，对每个固定1≤q<4，证明其在有界Jordan域及一致标记边界逼近下按有序曲线收敛到弦形SLE_{κ(q)}，其中κ(q)=4π/arccos(-√q/2)，从而在该参数范围确认Rohde–Schramm预测。摘要还称完整嵌套平面环集合在保留重数和遍历的球面匹配拓扑下收敛到全平面CLE_{κ(q)}，并在q=1时得到自由边界边键渗流的Cardy公式。",
+    "keyPoints": [
+      "对每个固定1≤q<4，临界方格随机簇Dobrushin界面收敛到弦形SLE_{κ(q)}。",
+      "κ(q)=4π/arccos(-√q/2)，摘要称确认了Rohde–Schramm预测。",
+      "嵌套环集合收敛到全平面CLE_{κ(q)}，q=1时得到Cardy公式。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "b2cd9d9175846019",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论与几何",
   "title": "The Gaussian propeller bound in every dimension",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-Gaussian-Propeller-Bound-in-Every-Dimension-September-24-2026/main.pdf",
@@ -10,5 +10,15 @@
   "abstractEnglish": "We prove the Gaussian propeller conjecture: for every finite measurable partition of a Euclidean space, the sum of the squared lengths of its Gaussian first moments is at most $`9/(8\\pi)`$. For dimension at least two and at least three cells, three planar sectors of angle $`2\\pi/3`$, extended by an orthogonal Euclidean factor, attain the bound.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Gaussian propeller bound in every dimension",
+  "titleZh": "任意维数的高斯螺旋桨界",
+  "details": {
+    "overview": "稿件研究高斯螺旋桨猜想。作者声称对欧几里得空间的任意有限可测分割，其高斯一阶矩的平方长度之和至多为9/(8π)。对于维数至少为2且至少三个胞元的情形，三个角度为2π/3的平面扇形经正交欧几里得因子扩展可达到该界。该结果对高斯测度下的几何不等式研究具有意义。摘要未说明证明方法。",
+    "keyPoints": [
+      "证明高斯一阶矩平方长度之和至多为9/(8π)。",
+      "维数≥2且至少三胞元时，三个2π/3扇形扩展达到该界。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

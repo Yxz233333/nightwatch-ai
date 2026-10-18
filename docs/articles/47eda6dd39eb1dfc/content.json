@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that an absolute number of coordinate sweeps of the Thorp shuffle on $`n=2^d`$ positions brings the full permutation to total-variation distance at most $`\\frac12n^{-5}`$ from uniform, uniformly over the initial deck. Thus $`O(d)`$ physical shuffles suffice, which is optimal in order.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Random-subspace tests and trace smoothing for coordinate sweeps",
+  "titleZh": "坐标扫描的随机子空间检验与迹平滑",
+  "details": {
+    "overview": "稿件研究Thorp洗牌在n=2^d个位置上的混合行为。作者声称，绝对常数次坐标扫描即可使完整置换与均匀分布的全变差距离至多12n^{-5}，且对初始牌序一致成立；因此O(d)次物理洗牌足够，并在阶数上最优。摘要给出的是上界与最优性声称，未涉及独立验证。",
+    "keyPoints": [
+      "绝对常数次坐标扫描使全变差距离至多12n^{-5}。",
+      "由此O(d)次物理洗牌足够，且阶数最优。",
+      "结论对任意初始牌序一致成立。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

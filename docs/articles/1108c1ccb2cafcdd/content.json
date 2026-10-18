@@ -10,5 +10,16 @@
   "abstractEnglish": "For every degree, we prove that the number of isolated periodic orbits of a real planar polynomial vector field is bounded by a finite constant depending only on that degree. This establishes the uniform boundedness assertion in the second part of Hilbert's sixteenth problem. The proof uses separation of asymptotic expansions on nested complex domains and a finite-dimensional counting argument.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Uniform bounds for planar polynomial limit cycles",
+  "titleZh": "平面多项式极限环的一致界",
+  "details": {
+    "overview": "该稿件研究实平面多项式向量场的孤立周期轨道数目。作者声称对每个次数，极限环数被仅依赖该次数的有限常数所界，从而建立Hilbert第十六问题第二部分的“一致有界性”断言。摘要称证明使用嵌套复区域上渐近展开的分离与有限维计数论证。若成立，将给出极限环计数的一般上界框架。",
+    "keyPoints": [
+      "研究实平面多项式向量场孤立周期轨道数目的上界。",
+      "作者声称对每个次数存在仅依赖次数的有限一致界。",
+      "称该结果建立Hilbert第十六问题第二部分的一致有界性断言。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

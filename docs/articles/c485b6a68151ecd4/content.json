@@ -1,7 +1,7 @@
 {
   "id": "c485b6a68151ecd4",
   "section": "papers",
-  "category": "数学论文",
+  "category": "复代数几何",
   "title": "Abundance after nonvanishing for compact Kähler fourfolds",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Abundance-after-nonvanishing-for-compact-Kahler-fourfolds-September-27-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove semiampleness of the actual ℚ-Cartier adjoint $`K_X+\\Delta`$ of a normal connected compact Kähler klt fourfold whenever it is analytically nef and some positive Cartier multiple has a nonzero section. The boundary is effective and rational; the fourfold need not be projective or ℚ-factorial. In Iitaka dimension zero, a positive Cartier multiple is the trivial holomorphic line bundle.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Abundance after nonvanishing for compact Kähler fourfolds",
+  "titleZh": "紧Kähler四维流形非消没后的丰沛性",
+  "details": {
+    "overview": "稿件研究正规连通紧Kähler klt四维流形，作者声称当实际ℚ-Cartier伴随除子K_X+Δ解析nef且某正Cartier倍有非零截面时，该伴随除子半丰沛。边界为有效有理除子，四维流形不必射影或ℚ-分解；在Iitaka维数为零时，正Cartier倍即平凡全纯线束。这推广了高维极小模型理论中的丰沛性结论到非射影Kähler情形，摘要未展开证明，结论待审查。",
+    "keyPoints": [
+      "对象为正规连通紧Kähler klt四维流形，边界有效有理",
+      "伴随除子解析nef且正Cartier倍有非零截面时，作者称其半丰沛",
+      "不假设射影或ℚ-分解；Iitaka维数零时正Cartier倍为平凡线束"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

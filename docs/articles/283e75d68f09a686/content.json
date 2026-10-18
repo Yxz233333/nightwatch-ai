@@ -10,5 +10,16 @@
   "abstractEnglish": "We disprove the Gopalan–Servedio square-root conjecture, even up to an arbitrary constant factor. For every real C > 0, there is a nonconstant Boolean function $`f:\\{-1,1\\}^n\\to\\{-1,1\\}`$ on a finite sign cube such that\n\n$`\\displaystyle \\sum_{i=1}^n \\widehat f(\\{i\\})\\gt C\\sqrt{\\deg(f)}.`$\n\nHere $`\\widehat f(\\{i\\})`$ is the linear Fourier coefficient associated with the ith input, and $`\\deg(f)`$ is the degree of the real multilinear polynomial representing f.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Unbounded Violations of the Square-Root Degree Bound",
+  "titleZh": "平方根次数界的无界违反",
+  "details": {
+    "overview": "稿件研究布尔函数线性Fourier系数之和与多项式次数的关系。作者声称否定Gopalan–Servedio平方根猜想，且可差任意常数倍：对每个实数C>0，存在非恒定布尔函数f:{-1,1}^n→{-1,1}，使Σ_i f̂({i})>C√(deg(f))。摘要给出构造性否定声称，未涉及独立复核。",
+    "keyPoints": [
+      "对任意C>0构造非恒定布尔函数使线性Fourier系数和超过C√(deg f)。",
+      "作者声称否定Gopalan–Servedio平方根猜想，且差任意常数倍。",
+      "结论针对有限符号立方体上的布尔函数。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

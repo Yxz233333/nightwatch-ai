@@ -1,7 +1,7 @@
 {
   "id": "1d07cb8db971f227",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数拓扑",
   "title": "Finite generation for the K(n)-local sphere",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Finite-generation-for-the-Kn-local-sphere-September-24-2026/Finite-generation-for-the-Kn-local-sphere-September-24-2026.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the homotopy groups of the $`K(n)`$-local sphere are finitely generated ℤp-modules in every integer degree, for every prime p and positive height n. Equivalently, the same conclusion holds after $`K(n)`$-localizing any finite p-local spectrum. This answers the degreewise finiteness question of Hovey and Hovey–Strickland.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Finite generation for the K(n)-local sphere",
+  "titleZh": "K(n)-局部球面的有限生成",
+  "details": {
+    "overview": "稿件研究K(n)-局部球面的同伦群。摘要声称对每个素数p和正高度n，K(n)-局部球面在每个整数次数的同伦群都是有限生成ℤp模；等价地，对任意有限p-局部谱作K(n)-局部化后结论相同。作者称这回答了Hovey以及Hovey–Strickland提出的逐次有限性问题。研究属于稳定同伦论；材料未说明证明方法。",
+    "keyPoints": [
+      "声称K(n)-局部球面的各次数同伦群为有限生成ℤp模。",
+      "结论对任意素数p和正高度n成立。",
+      "等价地适用于任意有限p-局部谱的K(n)-局部化。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

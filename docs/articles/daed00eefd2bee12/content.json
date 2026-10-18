@@ -1,7 +1,7 @@
 {
   "id": "daed00eefd2bee12",
   "section": "papers",
-  "category": "数学论文",
+  "category": "算法与计算复杂性",
   "title": "An explicit power saving for the exact discrete Fourier transform",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/An-explicit-power-saving-for-the-exact-discrete-Fourier-transform-September-25-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We give a deterministic algorithm that computes the discrete Fourier transform at every length n in $`O(n(\\log n)^{1-10^{-13}})`$ operations. The model uses exact complex arithmetic, unrestricted coefficients, specified Fourier roots, and unit-cost logarithmic-size indexing; scalar preparation and array organization are included.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An explicit power saving for the exact discrete Fourier transform",
+  "titleZh": "精确离散傅里叶变换的一个显式幂次节省",
+  "details": {
+    "overview": "该稿件研究精确复数算术下离散傅里叶变换的计算复杂度。作者声称给出一个确定性算法，对每个长度n在O(n(log n)^{1−10⁻¹³})次操作内计算DFT。摘要说明模型采用精确复算术、无限制系数、指定傅里叶根与单位成本对数规模索引，并计入标量准备与数组组织。其意义在于对经典快速傅里叶变换复杂度给出显式幂次改进，但常数极小且尚未经独立审查。",
+    "keyPoints": [
+      "声称对每个长度n给出确定性DFT算法",
+      "复杂度为O(n(log n)^{1−10⁻¹³})次操作",
+      "模型含精确复算术与单位成本对数规模索引"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "Let $`(W,D)`$ be a projective ℚ-factorial klt pair with effective rational boundary. We prove that a positive Cartier multiple of $`-(K_W+D)`$ has a nonzero section if this divisor is nef, its pullback to a resolution admits a semipositive metric with locally bounded weights, and the resolution has nonzero structure-sheaf Euler characteristic. Consequently a smooth rationally connected projective variety with smoothly semipositive anticanonical bundle has a nonzero naturally invariant anticanonical plurisection for every algebraic torus action.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Bounded anticanonical metrics on klt pairs and torus quotients",
+  "titleZh": "klt对上的有界反典范度量与环面商",
+  "details": {
+    "overview": "稿件研究射影ℚ阶乘klt对(W,D)的反典范除子。作者声称，若-(K_W+D)为nef、其拉回到解消具有局部有界权重的半正度量，且解消的结构层欧拉示性数非零，则某正Cartier倍数的该除子有非零截面；由此推出具有光滑半正反典范丛的光滑有理连通射影簇在任意代数环面作用下存在非零自然不变反典范多重截面。属AI产生手稿，未经独立审查。",
+    "keyPoints": [
+      "在klt对上给出反典范非消没条件",
+      "条件涉及有界半正度量与欧拉示性数",
+      "推出环面作用下不变反典范多重截面"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

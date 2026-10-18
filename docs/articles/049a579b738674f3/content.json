@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the infinitude assertion in Artin's primitive root conjecture: for every integer a that is neither −1 nor a square, there are at least $`c_a x/(\\log x)^2`$ primes in $`(x,2x)`$ with primitive root a, for some $`c_a\\gt 0`$ and every sufficiently large x.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Primitive roots for every admissible integer base",
+  "titleZh": "每个可容许整数基的本原根",
+  "details": {
+    "overview": "稿件研究Artin本原根猜想中的无穷性断言。摘要称证明：对每个既不是−1也不是平方数的整数a，区间(x,2x)中至少有c_a x/(log x)^2个素数以a为本原根，其中c_a>0且x充分大。若成立，这将覆盖所有可容许整数基。这是AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "对非−1且非平方的整数a证明本原根素数的无穷性。",
+      "给出(x,2x)中至少c_a x/(log x)^2个素数的下界。",
+      "结论覆盖所有可容许整数基。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

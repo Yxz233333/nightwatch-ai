@@ -10,5 +10,15 @@
   "abstractEnglish": "We prove that the fundamental group of every special compact Kähler manifold is virtually abelian, resolving Campana's abelianity conjecture in all dimensions. In particular, every smooth compact connected Kähler manifold of Kodaira dimension zero has virtually abelian ordinary fundamental group.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The abelianity conjecture for special compact Kähler manifolds",
+  "titleZh": "特殊紧Kähler流形的阿贝尔性猜想",
+  "details": {
+    "overview": "稿件提出证明：每个特殊紧Kähler流形的基本群是几乎阿贝尔的，从而在所有维数上解决了Campana的阿贝尔性猜想。摘要表示，作为推论，每个Kodaira维数为零的光滑紧连通Kähler流形具有几乎阿贝尔的普通基本群。该结果属于复几何与几何群论交叉领域，若成立将为特殊流形的拓扑结构提供统一描述。",
+    "keyPoints": [
+      "证明特殊紧Kähler流形的基本群几乎阿贝尔，解决Campana猜想。",
+      "推论：Kodaira维数为零的光滑紧连通Kähler流形基本群几乎阿贝尔。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

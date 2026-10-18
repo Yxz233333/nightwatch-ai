@@ -1,7 +1,7 @@
 {
   "id": "0b0405f5fa0924bb",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论与统计物理",
   "title": "The exact reconstruction threshold for the three-state symmetric channel",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-exact-reconstruction-threshold-for-the-three-state-symmetric-channel-September-25-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We determine the exact reconstruction threshold for the symmetric three-state broadcast process on every regular b-ary tree, b ≥ 2, and every observed Poisson Galton–Watson tree of mean d > 1. Reconstruction occurs exactly when $`d\\lambda^2\\gt 1`$, with d = b in the regular model; there is non-reconstruction at equality for either sign of the channel parameter. The Poisson advantage is averaged over trees and spins without conditioning on survival. This resolves the all-degree three-state regular-tree prediction. Combining the Poisson theorem with known tree-to-graph and algorithmic results gives the exact weak-recovery threshold for the symmetric three-community sparse stochastic block model with independent uniform labels, fixed within- and between-community rates $`a,b\\gt 0`$, and mean degree $`(a+2b)/3\\gt 1`$: recovery is possible exactly when $`(a-b)^2\\gt 3(a+2b)`$. Above this threshold it is achievable in $`O(n\\log n)`$ time; at or below it, weak recovery is information-theoretically impossible.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The exact reconstruction threshold for the three-state symmetric channel",
+  "titleZh": "三态对称信道的精确重构阈值",
+  "details": {
+    "overview": "稿件研究三态对称广播过程在正则b叉树（b≥2）与均值d>1的观测Poisson Galton–Watson树上的重构问题，作者声称重构恰在dλ²>1时发生，正则模型中d=b，且等号处无论信道参数符号如何均不重构；Poisson情形对树与自旋取平均而不以存活为条件。作者称这解决了全度数三态正则树预测，并结合已知树到图与算法结果，给出对称三社区稀疏随机块模型的精确弱恢复阈值。",
+    "keyPoints": [
+      "作者声称三态对称广播在正则树与Poisson Galton–Watson树上重构阈值均为dλ²>1",
+      "等号处对信道参数两种符号均不重构，Poisson优势不以存活为条件",
+      "结合已知结果给出三社区稀疏随机块模型的精确弱恢复阈值"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

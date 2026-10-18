@@ -1,7 +1,7 @@
 {
   "id": "49d2fcb753d9e5a8",
   "section": "papers",
-  "category": "概率论",
+  "category": "计算复杂性理论",
   "title": "Exact derandomization of logarithmic space: L = RL = BPL",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Exact-Derandomization-of-Logarithmic-Space-L-equals-RL-equals-BPL-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove $`\\mathsf L=\\mathsf{RL}=\\mathsf{BPL}`$, resolving the derandomization problem for polynomial-time randomized logarithmic space.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Exact derandomization of logarithmic space: L = RL = BPL",
+  "titleZh": "对数空间的精确去随机化：L = RL = BPL",
+  "details": {
+    "overview": "该稿件研究多项式时间随机对数空间（RL、BPL）能否去随机化。作者声称证明了 L = RL = BPL，即随机对数空间类与确定性对数空间类相等，从而解决该去随机化问题。若成立，将说明随机性在对数空间计算中不增加能力。但该手稿为AI产生，收录不表示已完成独立审查或同行评议，结论尚待验证。",
+    "keyPoints": [
+      "作者声称证明 L = RL = BPL，解决多项式时间随机对数空间的去随机化问题。",
+      "结果若成立，意味着随机对数空间计算可被确定性对数空间模拟。",
+      "手稿为AI产生，未经独立审查或同行评议，结论需谨慎看待。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

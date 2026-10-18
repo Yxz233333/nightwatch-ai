@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct an entangled state on $`\\mathbb C^{10}\\otimes\\mathbb C^{10}`$ with zero distillable secret key for the local-instrument protocols specified here. They allow joint processing of all copies and unlimited two-way public communication, with the input as the only shared private resource and an eavesdropper holding a purification and the complete public record. The construction also disproves the unrestricted two-map PPT-composition conjecture. A separate trace-preserving PPT channel on $`M_{21}(\\mathbb C)`$ has a square that is not entanglement breaking.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Entanglement with zero distillable secret key in local dimension ten",
+  "titleZh": "局域维数为十时零可蒸馏密钥的纠缠",
+  "details": {
+    "overview": "该稿件在 C^10⊗C^10 上构造一个纠缠态，摘要表示其针对文中指定的局域仪器协议具有零可蒸馏密钥。这些协议允许联合处理所有副本和无限双向公开通信，输入是唯一共享私有资源，窃听者持有纯化态和完整公开记录。作者还声称该构造否定了无限制双映射PPT复合猜想，并给出 M_21(C) 上一个保迹PPT信道的平方不是纠缠破坏的。",
+    "keyPoints": [
+      "在 C^10⊗C^10 上构造对指定局域仪器协议零可蒸馏密钥的纠缠态。",
+      "协议允许联合处理所有副本与无限双向公开通信。",
+      "作者声称该构造否定无限制双映射PPT复合猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

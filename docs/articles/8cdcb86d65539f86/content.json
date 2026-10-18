@@ -10,5 +10,16 @@
   "abstractEnglish": "Let K and L be finitely generated extensions of transcendence degree at least two over algebraically closed fields of characteristic p. We prove that every isomorphism of their first Milnor K-groups modulo p preserving the degree-two Steinberg relations is a nonzero scalar multiple of the map induced by a unique field isomorphism. The proof recovers projective lines over the subfields of pth powers by an elementary calculation with derivations.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Reconstruction from Milnor K-theory modulo the characteristic",
+  "titleZh": "从模特征的 Milnor K-理论重建",
+  "details": {
+    "overview": "该稿件设 K 与 L 为特征 p 的代数闭域上超越次数至少二的有限生成扩张。作者证明其第一 Milnor K-群模 p 之间保持二次 Steinberg 关系的每个同构，都是唯一域同构所诱导映射的非零纯量倍。证明通过对导子的初等计算恢复 p 次幂子域上的射影直线。",
+    "keyPoints": [
+      "证明第一 Milnor K-群模 p 间保持二次 Steinberg 关系的同构来自唯一域同构。",
+      "该同构是域同构诱导映射的非零纯量倍。",
+      "证明用导子的初等计算恢复 p 次幂子域上的射影直线。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

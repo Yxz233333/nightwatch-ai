@@ -10,5 +10,16 @@
   "abstractEnglish": "For each fixed Kerr spacetime with mass M > 0 and rotation $`0\\lt \\mathfrak a\\lt M`$, we prove that a dense Gδ set of nearby smooth, complete two-ended vacuum data has a maximal globally hyperbolic development with no future C1 extension. The neighborhood and genericity are defined in a weighted smooth topology, and ambient extensions may be nonvacuum.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Generic C1 Future Inextendibility Near Rotating Subextremal Kerr Spacetimes",
+  "titleZh": "旋转次极端Kerr时空附近的通用C1未来不可延拓性",
+  "details": {
+    "overview": "该稿件研究固定Kerr时空（质量M>0、旋转0<a<M）附近的真空初值演化。作者声称在加权光滑拓扑下存在稠密Gδ集，其中每个光滑完备双端真空初值数据的最大全局双曲发展都没有未来C1延拓，且环境延拓可非真空。若成立，表明在旋转次极端Kerr背景附近，未来C1不可延拓性是通用现象。手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "固定旋转次极端Kerr时空，考察附近光滑完备双端真空数据。",
+      "声称稠密Gδ集的数据其最大发展无未来C1延拓。",
+      "邻域与通用性在加权光滑拓扑下定义，延拓可非真空。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

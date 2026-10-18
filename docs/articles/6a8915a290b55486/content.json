@@ -1,7 +1,7 @@
 {
   "id": "6a8915a290b55486",
   "section": "papers",
-  "category": "数学论文",
+  "category": "算子代数",
   "title": "A torsion-free counterexample to the Kadison–Kaplansky projection conjecture",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-Torsion-Free-Counterexample-to-the-Kadison-Kaplansky-Projection-Conjecture-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a finitely generated torsion-free discrete group whose reduced group C∗-algebra contains a projection other than zero and the identity. This disproves the Kadison–Kaplansky projection conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A torsion-free counterexample to the Kadison–Kaplansky projection conjecture",
+  "titleZh": "Kadison–Kaplansky投影猜想的无挠反例",
+  "details": {
+    "overview": "稿件研究离散群约化C∗代数中的投影。作者声称构造一个有限生成无挠离散群，其约化群C∗代数含有非零非恒等的投影，从而反驳Kadison–Kaplansky投影猜想。研究意义在于否定群C∗代数中关于投影的经典猜想，但结果尚未经独立审查。",
+    "keyPoints": [
+      "作者构造有限生成无挠离散群。",
+      "其约化群C∗代数含非零非恒等投影。",
+      "摘要称这反驳Kadison–Kaplansky投影猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We give a negative answer to Hilbert's tenth problem over the rational numbers: no algorithm decides whether a polynomial with integer coefficients has a rational zero. The number of variables is part of the input.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Hilbert’s tenth problem over the rational numbers",
+  "titleZh": "有理数域上的希尔伯特第十问题",
+  "details": {
+    "overview": "稿件研究希尔伯特第十问题在有理数域上的版本。作者声称给出否定回答：不存在算法判定整系数多项式是否有有理零点，且变量个数是输入的一部分。摘要仅给出这一结论性陈述，未说明所采用的归约方法、构造细节或与已有不可判定性结果的依赖关系。该结果若成立，将把希尔伯特第十问题的否定答案从整数情形推进到有理数情形，是数论与可计算性交叉的重要问题；但稿件尚未经独立审查。",
+    "keyPoints": [
+      "作者声称有理数域上希尔伯特第十问题有否定答案。",
+      "即不存在算法判定整系数多项式是否有有理零点。",
+      "变量个数作为输入的一部分，摘要未给出证明细节。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a countable uniformly discrete metric space whose real Lipschitz-free space has the approximation property but fails the bounded approximation property, answering Kalton's question negatively. The identity can be approximated on every compact set by finite-rank operators, but no uniform bound on their norms is possible.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A uniformly discrete counterexample to bounded approximation in Lipschitz-free spaces",
+  "titleZh": "Lipschitz自由空间中关于有界逼近的一致离散反例",
+  "details": {
+    "overview": "稿件构造了一个可数一致离散度量空间，作者声称其实Lipschitz自由空间具有逼近性质但不具有有界逼近性质，从而否定地回答了Kalton的问题。摘要表示恒等算子可在每个紧集上由有限秩算子逼近，但无法对这些算子的范数给出统一界。该结果若成立，将区分逼近性质与有界逼近性质在Lipschitz自由空间中的边界。",
+    "keyPoints": [
+      "构造可数一致离散度量空间，其Lipschitz自由空间仅有逼近性质。",
+      "恒等算子可在紧集上被有限秩算子逼近，但范数无统一界。",
+      "作者声称否定回答Kalton关于有界逼近性质的问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

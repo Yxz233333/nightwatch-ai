@@ -1,7 +1,7 @@
 {
   "id": "46b17b220ed36e17",
   "section": "papers",
-  "category": "数学论文",
+  "category": "复分析",
   "title": "Koebe's Circle-Domain Conjecture",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Koebes-Circle-Domain-Conjecture-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every domain in the Riemann sphere is conformally equivalent to a circle domain, resolving Koebe's circle-domain conjecture positively.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Koebe's Circle-Domain Conjecture",
+  "titleZh": "Koebe圆域猜想",
+  "details": {
+    "overview": "该稿件研究黎曼球面上区域的全纯等价分类。作者声称证明了黎曼球面上每个区域都共形等价于一个圆域，从而正面解决Koebe圆域猜想。该猜想涉及区域边界由圆或点组成的标准形式。若成立，将为单复变函数论中的共形分类提供统一结论。但手稿为AI产生，收录不表示已完成独立审查或同行评议，结论尚待验证。",
+    "keyPoints": [
+      "作者声称证明黎曼球面上每个区域共形等价于一个圆域。",
+      "该结果正面解决Koebe圆域猜想。",
+      "手稿为AI产生，未经独立审查或同行评议。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

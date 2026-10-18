@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Cartier-divisor conjecture of Birkar and Shokurov for rational boundaries in characteristic zero and for real boundaries over ℂ. For an ϵ-lc Fano type contraction with positive-dimensional base and nef negative log canonical class, a Cartier divisor through any prescribed base point can be chosen with pullback log canonical threshold bounded below in terms of the dimension and ϵ alone.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Uniform Cartier sections for Fano type contractions",
+  "titleZh": "Fano 型收缩的一致 Cartier 截面",
+  "details": {
+    "overview": "稿件研究 Fano 型收缩的 Cartier 除子猜想。作者声称在特征零的有理边界情形和 ℂ 上的实边界情形证明了 Birkar 和 Shokurov 的 Cartier 除子猜想。对于具有正维基和 nef 负对数典范类的 ϵ-lc Fano 型收缩，通过任意指定基点的 Cartier 除子可选取使其拉回对数典范阈值仅依赖维数和 ϵ 有下界。",
+    "keyPoints": [
+      "在特征零有理边界和 ℂ 上实边界情形证明 Cartier 除子猜想。",
+      "对 ϵ-lc Fano 型收缩，通过指定基点的 Cartier 除子拉回 lc 阈值有下界。",
+      "下界仅依赖维数和 ϵ。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

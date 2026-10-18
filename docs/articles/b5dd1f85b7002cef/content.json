@@ -10,5 +10,16 @@
   "abstractEnglish": "Approximating minimum directed feedback vertex set within any fixed constant factor is NP-hard, even on unweighted digraphs.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Constant-factor hardness of directed feedback vertex set",
+  "titleZh": "有向反馈顶点集的常数因子硬度",
+  "details": {
+    "overview": "稿件研究最小有向反馈顶点集问题的近似硬度。作者声称证明：即使限制在无权有向图上，在任意固定常数因子内近似该问题都是NP难的。该结论若成立，将说明有向反馈顶点集不存在常数因子近似算法（除非P=NP），对图论近似算法与硬度研究有重要意义。需注意该手稿为AI产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为无权有向图上的最小有向反馈顶点集",
+      "作者声称任意固定常数因子近似均NP难",
+      "结果意味着不存在常数因子近似算法，除非P=NP"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "On a full-support $`\\mathrm{RCD}(K,N)`$ space with $`1\\lt N\\lt \\infty`$, we prove that a bounded globally Lipschitz function whose distributional Hessian is bounded above by a bounded continuous function satisfies the corresponding second-derivative inequality along every minimizing geodesic.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Weak Hessian bounds along every geodesic in RCD spaces",
+  "titleZh": "RCD空间中沿每条测地线的弱Hessian界",
+  "details": {
+    "overview": "稿件研究满支撑RCD(K,N)空间（1<N<∞）上的二阶微分不等式。作者声称证明：若一个有界全局Lipschitz函数的分布Hessian被某个有界连续函数从上控制，则该函数沿每条极小测地线满足相应的二阶导数不等式。这为RCD空间的弱Hessian估计提供了沿测地线的逐点形式。材料仅提供摘要，未给出证明细节与独立审查。",
+    "keyPoints": [
+      "研究对象为满支撑RCD(K,N)空间，1<N<∞。",
+      "分布Hessian有上界的有界Lipschitz函数沿每条极小测地线满足二阶导数不等式。",
+      "作者声称给出沿测地线的弱Hessian逐点估计。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

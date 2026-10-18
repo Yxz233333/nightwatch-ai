@@ -1,7 +1,7 @@
 {
   "id": "e662a79a1315f979",
   "section": "papers",
-  "category": "数学论文",
+  "category": "遍历理论与动力系统",
   "title": "Pointwise convergence of fourfold ergodic averages for mixing transformations",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Pointwise-convergence-of-fourfold-ergodic-averages-for-mixing-transformations-October-4-2026/fourfold-ergodic-averages.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that fourfold ergodic averages along the times $`n,2n,3n,4n`$ converge almost everywhere to the product of the integrals for every invertible, bimeasurable, mixing probability-preserving transformation and every fixed choice of bounded measurable inputs. Convergence holds along all positive integer averaging lengths. No quantitative mixing rate is assumed, and the probability space need not be standard.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Pointwise convergence of fourfold ergodic averages for mixing transformations",
+  "titleZh": "混合变换四重遍历平均的逐点收敛",
+  "details": {
+    "overview": "稿件研究可逆、双可测、混合的概率保持变换下，沿时间n,2n,3n,4n的四重遍历平均的逐点收敛性。摘要声称，对任意有界可测输入函数，这些平均沿所有正整数平均长度几乎处处收敛到各函数积分的乘积。作者强调不需要任何定量混合速率假设，概率空间也不必是标准的。该结果属于多重遍历平均逐点收敛方向，关注混合系统下线性时间多项式的收敛问题。",
+    "keyPoints": [
+      "研究混合概率保持变换下沿n,2n,3n,4n的四重遍历平均",
+      "声称对任意有界可测输入几乎处处收敛到积分之积",
+      "不假设定量混合速率，概率空间无需标准"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "ecfed4c722e2d21d",
   "section": "papers",
-  "category": "数学论文",
+  "category": "泛函分析",
   "title": "Exact asymptotic moduli in a Daugavet subspace of L1",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Exact-asymptotic-moduli-in-a-Daugavet-subspace-of-L1-September-27-2026/manuscript.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For an infinite-dimensional real subspace of L1 whose unit ball is totally bounded in measure and whose norm has the Daugavet property, we compute the averaged midpoint and one-sided asymptotic moduli at every unit center. They are $`\\max\\{t/2,t-1\\}`$ and $`\\max\\{0,t-2\\}`$, respectively. The same weak-neighborhood geometry excludes every equivalent asymptotically uniformly convex norm. A quantitative realization of the Kadets–Werner construction supplies a space with both hypotheses.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Exact asymptotic moduli in a Daugavet subspace of L1",
+  "titleZh": "L1 中 Daugavet 子空间的精确渐近模",
+  "details": {
+    "overview": "该稿件研究 L1 的一个无限维实子空间，其单位球在测度意义下全有界且范数具有 Daugavet 性质。作者声称在每个单位中心处计算出平均中点渐近模与单侧渐近模，分别为 max{t/2,t−1} 与 max{0,t−2}；并称同样的弱邻域几何排除了任何等价的一致渐近凸范数。作者还给出 Kadets–Werner 构造的定量实现，得到同时满足两个假设的空间。这是 AI 产生的手稿，未经独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为 L1 中单位球测度全有界且具 Daugavet 性质的子空间。",
+      "作者声称平均中点与单侧渐近模分别为 max{t/2,t−1} 与 max{0,t−2}。",
+      "同一几何排除任何等价的一致渐近凸范数。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

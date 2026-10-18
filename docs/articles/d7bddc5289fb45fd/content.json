@@ -10,5 +10,16 @@
   "abstractEnglish": "We disprove rational injectivity of the coefficient-free reduced Baum–Connes assembly map for torsion-free groups. Specifically, we construct a finitely generated torsion-free discrete group whose degree-zero assembly map has a kernel class of infinite order.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A torsion-free counterexample to reduced Baum–Connes injectivity",
+  "titleZh": "无挠群上约化Baum–Connes单射性的反例",
+  "details": {
+    "overview": "稿件研究无系数约化Baum–Connes装配映射的有理单射性。作者声称给出反例：构造一个有限生成、无挠的离散群，其零次装配映射的核中含有一个无限阶类，从而否定无挠群情形下的有理单射性。摘要未说明群的其余性质或构造方法。该结果若成立，将推翻此前对无挠群上约化Baum–Connes单射性的普遍预期。需注意这是AI产生的手稿，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "作者声称否定无挠群上无系数约化Baum–Connes装配映射的有理单射性。",
+      "构造有限生成无挠离散群，其零次装配映射核含无限阶类。",
+      "反例针对有理单射性，而非整数单射性。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

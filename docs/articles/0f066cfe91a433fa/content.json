@@ -10,5 +10,16 @@
   "abstractEnglish": "At the critical weight of the regular honeycomb lattice, the total weight of self-avoiding paths crossing a strip of height N is comparable to N−1/4. The first horizontal-displacement moment of return paths is comparable to N3/4.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Critical strip-crossing mass on the honeycomb lattice",
+  "titleZh": "蜂窝格上的临界跨条带质量",
+  "details": {
+    "overview": "稿件研究正则蜂窝格在临界权重下跨越高度N条带的自避路径总权重。作者声称该总权重与N^{-1/4}相当，返回路径的第一水平位移矩与N^{3/4}相当。摘要给出的是可比性估计，未说明证明方法或是否经过独立审查。",
+    "keyPoints": [
+      "临界权重下跨高度N条带的自避路径总权重与N^{-1/4}相当。",
+      "返回路径的第一水平位移矩与N^{3/4}相当。",
+      "研究对象为正则蜂窝格上的临界自避路径。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

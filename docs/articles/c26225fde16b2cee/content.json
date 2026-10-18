@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that ellipsoids uniquely minimize the volume of the projection body among convex bodies of fixed volume in every dimension at least four. This proves Petty's projection-volume conjecture in these dimensions.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Petty’s projection-volume conjecture in dimensions at least four",
+  "titleZh": "维数至少四时的Petty投影体积猜想",
+  "details": {
+    "overview": "稿件研究凸体几何中的Petty投影体积猜想。摘要表示，作者证明在每一维数至少四时，固定体积的凸体中椭球唯一地极小化投影体的体积，从而在这些维数上证明了Petty投影体积猜想。该结果若成立，将为凸几何中关于投影体体积极值问题的长期猜想提供高维解答。手稿为AI产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "证明维数至少四时椭球唯一极小化固定体积凸体的投影体体积。",
+      "作者声称由此证明这些维数下的Petty投影体积猜想。",
+      "研究对象为凸体投影体体积的极值问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

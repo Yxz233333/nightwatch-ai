@@ -10,5 +10,16 @@
   "abstractEnglish": "For every fixed finite set of distinct positive primes, we prove that at least $`cx/(\\log x)^2`$ primes in $`(x,2x)`$ have every member of the set as a primitive root, for some c > 0 and all sufficiently large x. The result assumes four explicitly stated analytic and sieve inputs from the companion paper on primitive roots for admissible integer bases.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Simultaneous primitive roots: a conditional lower bound for prime bases",
+  "titleZh": "同时本原根：素数基下的条件性下界",
+  "details": {
+    "overview": "稿件研究同时以一组固定素数为本原根的素数分布。摘要称，对每个固定的有限个互异正素数集合，证明区间(x,2x)中至少有cx/(log x)^2个素数使集合中每个元素都是本原根，其中c>0且x充分大。该结论依赖伴随论文中关于可容许整数基本原根的四项明确陈述的解析与筛法输入，因此是条件性结果。这是AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "对固定有限互异正素数集合，给出同时本原根素数的下界。",
+      "下界形如cx/(log x)^2，依赖四项解析与筛法输入。",
+      "结论为条件性，输入来自伴随论文。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

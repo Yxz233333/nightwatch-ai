@@ -10,5 +10,16 @@
   "abstractEnglish": "Assuming orbifold Iitaka subadditivity and abundance for nef fourfold adjoints of nonnegative Kodaira dimension, we prove the existence of good minimal models for globally strongly ℚ-factorial compact Kähler klt fourfold pairs with effective rational boundary and analytically pseudo-effective actual ℚ-Cartier adjoint. The ordinary fourfold minimal model program supplies the nef endpoint. We prove nonvanishing by fibration arguments and, in algebraic dimension zero, by singular metrics, holomorphic foliations, and extension from a reduced boundary. The projective abundance argument used in the proof is included in full.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Conditional good minimal models for compact Kähler fourfolds",
+  "titleZh": "紧凯勒四维流形的条件好极小模型",
+  "details": {
+    "overview": "稿件在假设非负Kodaira维数nef四维伴随的orbifold Iitaka次可加性与丰沛性的前提下，研究整体强ℚ-分解紧凯勒klt四维对的好极小模型存在性。作者声称对具有有效有理边界和解析伪有效实际ℚ-Cartier伴随的对证明存在好极小模型；普通四维极小模型纲领提供nef端点，非消没通过纤维化论证证明，代数维数为零时借助奇异度量、全纯叶层和从约化边界的延拓。摘要称证明中使用的射影丰沛性论证已完整给出。该手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "在orbifold Iitaka次可加性与丰沛性假设下研究四维klt对。",
+      "作者声称证明整体强ℚ-分解紧凯勒四维对存在好极小模型。",
+      "代数维数为零时用奇异度量、全纯叶层与边界延拓证明非消没。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

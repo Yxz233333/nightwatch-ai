@@ -1,7 +1,7 @@
 {
   "id": "6c77c598a27327f9",
   "section": "papers",
-  "category": "数学论文",
+  "category": "微分几何与几何分析",
   "title": "A finite-time singularity of Calabi flow on projective space",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-finite-time-singularity-of-Calabi-flow-on-projective-space-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a smooth Kähler metric in the Fubini–Study class of $`\\mathbb{CP}^{10}`$ whose Calabi flow develops unbounded scalar curvature in finite time. This disproves Chen's smooth long-time existence conjecture, even in a class containing a constant-scalar-curvature metric.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A finite-time singularity of Calabi flow on projective space",
+  "titleZh": "射影空间上Calabi流的有限时间奇点",
+  "details": {
+    "overview": "稿件研究ℂP¹⁰的Fubini–Study类中Calabi流的长时间行为。作者声称构造该类的光滑Kähler度量，使Calabi流在有限时间内标量曲率无界，从而否定Chen的光滑长期存在猜想，即使所在类含常标量曲率度量。摘要未给出构造细节或奇点类型分析。该结果说明Calabi流即便从良好初始类出发也可能在有限时间爆破。",
+    "keyPoints": [
+      "在ℂP¹⁰的Fubini–Study类中构造光滑Kähler度量。",
+      "作者声称其Calabi流在有限时间内标量曲率无界。",
+      "由此否定Chen光滑长期存在猜想，即使该类含常标量曲率度量。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

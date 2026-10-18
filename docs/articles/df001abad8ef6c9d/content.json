@@ -1,7 +1,7 @@
 {
   "id": "df001abad8ef6c9d",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何与拓扑",
   "title": "The strong hyperkähler SYZ conjecture",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-Strong-Hyperkahler-SYZ-Conjecture-September-23-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the strong hyperkähler SYZ conjecture: every holomorphic line bundle with nonzero nef isotropic first Chern class on a compact irreducible holomorphic symplectic Kähler manifold is semiample.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The strong hyperkähler SYZ conjecture",
+  "titleZh": "强hyperkähler SYZ猜想",
+  "details": {
+    "overview": "稿件研究紧致不可约全纯辛Kähler流形上的全纯线束。作者声称证明了强hyperkähler SYZ猜想：若全纯线束的第一陈类非零、nef且迷向，则该线束半丰沛。摘要只给出这一核心陈述，未展开证明细节或附加条件。该猜想联系hyperkähler几何中的Lagrange纤维化与丰沛性理论；若成立，将为相关线束的半丰沛性提供统一判据。需注意这是AI产生的手稿，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为紧致不可约全纯辛Kähler流形上的全纯线束。",
+      "作者声称第一陈类非零、nef且迷向的线束必半丰沛。",
+      "该陈述即强hyperkähler SYZ猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "For every integer d ≥ 3, we construct arbitrarily large finite d-dimensional simplicial complexes with uniformly bounded vertex degrees and uniform 𝔽2 coboundary expansion in every degree below d. Together with the known graph and two-dimensional cases, this establishes the existence of bounded-degree 𝔽2 coboundary expanders in every positive dimension.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Bounded-degree coboundary expanders in every dimension",
+  "titleZh": "每个维度的有界度上边缘扩张子",
+  "details": {
+    "overview": "稿件研究高维单纯复形的上边缘扩张性质。摘要声称，对每个整数d≥3，构造任意大的有限d维单纯复形，其顶点度一致有界，且在低于d的每个度上具有一致的𝔽2上边缘扩张。结合已知的图和二维情形，这建立了每个正维度上有界度𝔽2上边缘扩张子的存在性。研究意义在于将扩张子理论推广到高维，但手稿为AI产生，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "对每个d≥3，构造任意大有限d维单纯复形，顶点度一致有界。",
+      "在低于d的每个度上具有一致𝔽2上边缘扩张。",
+      "结合已知低维情形，建立每个正维度有界度𝔽2上边缘扩张子的存在性。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

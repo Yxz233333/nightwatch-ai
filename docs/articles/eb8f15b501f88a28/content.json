@@ -1,7 +1,7 @@
 {
   "id": "eb8f15b501f88a28",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数理逻辑",
   "title": "Eventual categoricity for abstract elementary classes",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Eventual-Categoricity-for-Abstract-Elementary-Classes-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove Shelah's eventual categoricity conjecture for abstract elementary classes in ZFC. For each infinite bound on the Löwenheim–Skolem number there is a uniform threshold such that categoricity in any one cardinal at or above that threshold implies categoricity in every cardinal at or above the same threshold.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Eventual categoricity for abstract elementary classes",
+  "titleZh": "抽象初等类的最终范畴性",
+  "details": {
+    "overview": "稿件研究抽象初等类（AEC）的范畴性传播问题。作者声称在ZFC中证明了Shelah的最终范畴性猜想：对每个Löwenheim–Skolem数的无限上界，存在统一阈值，使得在该阈值及以上任一基数中的范畴性蕴含同一阈值及以上所有基数中的范畴性。摘要表示这解决了该猜想。该结果若成立，将为模型论中AEC的分类理论提供基础性结论。",
+    "keyPoints": [
+      "在ZFC中证明Shelah最终范畴性猜想（对AEC）",
+      "对每个LS数无限上界存在统一阈值",
+      "一个基数的范畴性传播至阈值以上所有基数"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

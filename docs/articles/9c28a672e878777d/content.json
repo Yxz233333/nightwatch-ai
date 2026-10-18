@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every maximal ordinary negative-ray program starting from a compact Kähler klt fourfold pair with effective rational boundary in the global Weil-divisor ℚ-factorial category terminates. It ends at a nef model when the adjoint is pseudo-effective and at a projective Mori fibre space otherwise.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Finite ordinary minimal model programs on compact Kähler fourfolds",
+  "titleZh": "紧Kähler四维流形上的有限普通极小模型程序",
+  "details": {
+    "overview": "稿件研究紧Kähler四维流形上的极小模型程序终止性。作者声称，从具有有效有理边界的紧Kähler klt四维对出发，在全球Weil除子ℚ-分解范畴内，每个极大的普通负射线程序都会终止。摘要表示终止终点分两种：当伴随为伪有效时止于nef模型，否则止于射影Mori纤维空间。该结果的意义在于把极小模型程序的终止性结论推进到Kähler四维的特定设定，但摘要未展开证明方法与技术细节。",
+    "keyPoints": [
+      "对象为紧Kähler klt四维对，边界有效有理，工作于全球Weil除子ℚ-分解范畴。",
+      "作者声称每个极大普通负射线程序终止。",
+      "终止终点为nef模型或射影Mori纤维空间，取决于伴随是否伪有效。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

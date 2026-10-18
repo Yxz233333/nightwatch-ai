@@ -10,5 +10,16 @@
   "abstractEnglish": "There are absolute constants $`\\eta,c_1\\gt 0`$ such that, for every sufficiently large integer n, one can choose n points in the unit square so that every triangle they determine has area at least $`c_1n^{-2+\\eta}`$. Thus the almost n−2 upper-bound formulation of Heilbronn's triangle problem is false. The exponent η is fixed but extremely small.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A power improvement in the Heilbronn triangle lower bound",
+  "titleZh": "Heilbronn三角形下界的一个幂次改进",
+  "details": {
+    "overview": "该稿件研究Heilbronn三角形问题：在单位正方形中放置n个点，使它们确定的三角形面积尽可能大。作者声称存在绝对常数η、c₁>0，对充分大的n可选取n个点使每个三角形面积至少为c₁n^(−2+η)，从而否定Heilbronn三角形问题中近乎n^(−2)的上界表述。作者说明指数η固定但极小。若成立，这改进了该经典离散几何问题的下界幂次。",
+    "keyPoints": [
+      "在单位正方形中选取n个点，使所有确定三角形面积有下界",
+      "作者声称下界为c₁n^(−2+η)，η为固定但极小的绝对常数",
+      "由此否定Heilbronn三角形问题近乎n^(−2)的上界表述"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

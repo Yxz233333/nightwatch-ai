@@ -1,7 +1,7 @@
 {
   "id": "321bf694d7559b70",
   "section": "papers",
-  "category": "数学论文",
+  "category": "泛函分析",
   "title": "Metric Markov Cotype Two of <i>ℓ</i><sub>1</sub> ",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Metric-Markov-Cotype-Two-of-l1-October-5-2026/l1-markov-cotype.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the real Banach space ℓ1 has metric Markov cotype two, answering a question of Mendel and Naor. As a consequence, every Lipschitz map from an arbitrary subset of a real Hilbert space into ℓ1 extends to the whole Hilbert space with a universal multiplicative loss in its Lipschitz constant, resolving Ball's extension problem for this target.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Metric Markov Cotype Two of <i>ℓ</i><sub>1</sub> ",
+  "titleZh": "ℓ₁的度量Markov余型二",
+  "details": {
+    "overview": "稿件证明实Banach空间ℓ₁具有度量Markov余型二，作者称这回答了Mendel与Naor提出的问题。作为推论，从实Hilbert空间任意子集到ℓ₁的每个Lipschitz映射都可延拓到整个Hilbert空间，且Lipschitz常数只有通用乘性损失，从而对该目标空间解决Ball的延拓问题。摘要未展开证明，手稿未经独立审查。",
+    "keyPoints": [
+      "证明实Banach空间ℓ₁具有度量Markov余型二。",
+      "作者称回答Mendel–Naor的问题。",
+      "推出Hilbert空间子集到ℓ₁的Lipschitz延拓，解决Ball延拓问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

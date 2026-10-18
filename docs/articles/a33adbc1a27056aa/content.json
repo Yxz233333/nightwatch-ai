@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a fixed $`66\\times66`$ binary matrix for which ordered matrix removal has no polynomial bound. This disproves the polynomial ordered binary matrix-removal conjecture. Ordered copies preserve the separate row and column orders and match both zeros and ones; removal permits changing entries in either direction.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Polynomial removal fails for ordered binary matrices",
+  "titleZh": "有序二元矩阵的多项式移除不成立",
+  "details": {
+    "overview": "该稿件研究有序二元矩阵的移除问题：有序副本同时保持行序与列序并匹配0和1，移除允许双向改变条目。作者构造了一个固定的66×66二元矩阵，声称其有序矩阵移除没有多项式界，从而否定有序二元矩阵移除的多项式猜想。若成立，这给出该组合学猜想的一个具体反例，说明移除规模可能超出任何多项式上界。",
+    "keyPoints": [
+      "研究对象为保持行列序并匹配0和1的有序二元矩阵移除",
+      "作者构造固定66×66二元矩阵，声称其移除无多项式界",
+      "据此否定有序二元矩阵移除的多项式猜想"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

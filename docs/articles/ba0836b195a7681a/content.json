@@ -1,7 +1,7 @@
 {
   "id": "ba0836b195a7681a",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数论",
   "title": "The joint Dickman law for consecutive integers",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-joint-Dickman-law-for-consecutive-integers-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "Let $`P^+(n)`$ denote the largest prime factor of n. We prove that $`\\log P^+(n)/\\log n`$ and $`\\log P^+(n+1)/\\log n`$ are asymptotically independent in ordinary natural density, with Dickman marginals. This resolves the Erdős–Pomerance joint Dickman conjecture positively and implies that the ordering $`P^+(n)\\lt P^+(n+1)`$ has natural density 1/2.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The joint Dickman law for consecutive integers",
+  "titleZh": "相邻整数的联合Dickman律",
+  "details": {
+    "overview": "稿件研究相邻整数最大素因子的联合分布。设P^+(n)为n的最大素因子，作者声称证明log P^+(n)/log n与log P^+(n+1)/log n在自然密度意义下渐近独立，且边缘分布为Dickman分布。这正面解决了Erdős–Pomerance联合Dickman猜想，并推出P^+(n)<P^+(n+1)的自然密度为1/2。该结果对数论中素因子分布的研究具有重要意义。",
+    "keyPoints": [
+      "证明相邻整数最大素因子的对数比渐近独立。",
+      "边缘分布为Dickman分布。",
+      "推出P^+(n)<P^+(n+1)的自然密度为1/2。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "317a844fec18ad54",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何拓扑",
   "title": "A marked tensor obstruction to four-dimensional disk embedding",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-marked-tensor-obstruction-to-four-dimensional-disk-embedding-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We disprove the unrestricted four-dimensional disk-embedding conjecture. We construct immersed disks in a compact oriented smooth four-manifold with framed algebraic dual spheres satisfying the usual equivariant intersection and reduced self-intersection conditions, but with no pairwise disjoint locally flat replacements that preserve the boundary maps and induced normal framings. The obstruction holds even when the replacement disks' relative homotopy classes are not prescribed.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A marked tensor obstruction to four-dimensional disk embedding",
+  "titleZh": "四维圆盘嵌入的一个带标记张量障碍",
+  "details": {
+    "overview": "稿件研究四维圆盘嵌入猜想。作者声称否定无限制版本：在紧致有向光滑四维流形中构造浸入圆盘，配有标架代数对偶球，满足通常等变相交与约化自交条件，但不存在两两不交的局部平坦替换圆盘同时保持边界映射与诱导法标架；即使不规定替换圆盘的相对同伦类，障碍仍成立。摘要未给出证明细节，稿件尚未经独立审查。",
+    "keyPoints": [
+      "作者声称否定无限制的四维圆盘嵌入猜想",
+      "构造满足等变相交与约化自交条件的浸入圆盘及标架代数对偶球",
+      "不存在保持边界映射与诱导法标架的两两不交局部平坦替换；不规定相对同伦类仍有障碍"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

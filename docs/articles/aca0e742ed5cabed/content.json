@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the density-one triangular lattice minimizes the lower energy per particle for every nonnegative completely monotone function of squared distance, among all locally finite planar configurations of centered disk density one. The comparison includes infinite energies. The proof constructs sharp Gaussian Fourier minorants using an atomic interpolation certificate.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An atomic certificate for triangular-lattice universal optimality",
+  "titleZh": "三角格普适最优性的原子证书",
+  "details": {
+    "overview": "稿件证明：在密度为1的局部有限平面构型中，密度为1的三角格对任意非负完全单调的平方距离函数都使每粒子下能量最小，比较涵盖无限能量情形。证明通过原子插值证书构造尖锐的高斯Fourier minorant。研究对象是平面点构型的能量极小化与普适最优性，作者声称给出三角格普适最优性的证明，对晶体与最优构型问题有理论意义。",
+    "keyPoints": [
+      "三角格对非负完全单调平方距离函数最小化每粒子下能量",
+      "比较范围包括无限能量情形",
+      "证明借助原子插值证书构造尖锐高斯Fourier minorant"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

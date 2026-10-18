@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every smooth almost complex structure on a closed four-manifold which is tamed by a symplectic form is compatible with a symplectic form. This gives a positive solution to Donaldson's tamed-to-compatible conjecture. We also characterize the compatible cone by strict intersection positivity on the closure of the invariant part of the taming cone.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Taming implies compatibility on four-manifolds",
+  "titleZh": "四维流形上驯服蕴含相容",
+  "details": {
+    "overview": "稿件研究闭四维流形上被辛形式驯服的近复结构。作者声称证明了每个这样的光滑近复结构都与某个辛形式相容，从而正面解决Donaldson的“驯服到相容”猜想；摘要还称用驯服锥不变部分闭包上的严格相交正性刻画相容锥。该结果若成立，将在四维辛几何中建立驯服与相容两种条件之间的等价联系。需注意这是AI产生的研究手稿，收录不代表已完成独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象是闭四维流形上被辛形式驯服的近复结构。",
+      "作者声称驯服近复结构必与某辛形式相容，正面解决Donaldson猜想。",
+      "摘要称以严格相交正性刻画相容锥。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

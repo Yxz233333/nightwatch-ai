@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the trilinear Hilbert transform with fixed slopes 1, 2, 3 maps $`L^3(\\mathbb R)\\times L^3(\\mathbb R)\\times L^3(\\mathbb R)`$ to $`L^1(\\mathbb R)`$, resolving this case of the trilinear Hilbert transform conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An <i>L</i><sup>3</sup> bound for the trilinear Hilbert transform",
+  "titleZh": "三线性Hilbert变换的L³界",
+  "details": {
+    "overview": "该稿件研究固定斜率1、2、3的三线性Hilbert变换的有界性。作者声称证明该变换将 L³(R)×L³(R)×L³(R) 映射到 L¹(R)，从而解决三线性Hilbert变换猜想中的这一情形。摘要表示该L³到L¹的界成立。该结果若成立，将推进多线性调和分析中关于三线性Hilbert变换的核心问题；但稿件为AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为固定斜率1、2、3的三线性Hilbert变换。",
+      "作者声称其从三个L³空间映射到L¹空间。",
+      "摘要表示这解决了三线性Hilbert变换猜想的该情形。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

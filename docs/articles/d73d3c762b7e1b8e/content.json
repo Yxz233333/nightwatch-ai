@@ -10,5 +10,16 @@
   "abstractEnglish": "Let X be a smooth projective complex variety with smoothly semipositive anticanonical bundle. For any torus linearization of that bundle, we show that invariant sections in unbounded degrees with one fixed negative pseudoeffective error yield an invariant section in a positive untwisted degree. Combining the natural invariant index with compact-monodromy structure, we deduce that every such X has a nonzero section of some positive anticanonical power.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Cohomological transfer and equivariant anticanonical sections",
+  "titleZh": "上同调转移与等变反典范截面",
+  "details": {
+    "overview": "稿件研究具有光滑半正反典范丛的光滑射影复簇 X。摘要表示，对该丛的任意环面线性化，作者证明：在无界次数中带一个固定负伪有效误差的不变截面，可产生一个正无扭次数的不变截面。结合自然不变指标与紧单值化结构，推出每个这样的 X 都有某个正反典范幂的非零截面。研究意义在于通过上同调转移方法建立反典范丛正幂截面的存在性。",
+    "keyPoints": [
+      "对光滑半正反典范丛的环面线性化证明不变截面的次数转移。",
+      "结合不变指标与紧单值化结构推出正反典范幂有非零截面。",
+      "研究对象为光滑射影复簇及其反典范丛。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

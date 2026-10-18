@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that maximum-cardinality matching in a simple undirected graph with n vertices and m edges can be found by one uniform randomized algorithm in $`(n+m)^{1+o(1)}`$ time. The bound holds on every computation path in a logarithmic-word model, and the algorithm returns an explicit maximum matching with probability at least 2/3. An explicit reduction gives the same time and probability guarantees for deciding whether a simple host graph has a spanning subgraph with prescribed valid vertex degrees, and for finding one when it exists.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Almost-Linear-Time Maximum-Cardinality Matching in General Graphs",
+  "titleZh": "一般图中近线性时间的最大基数匹配",
+  "details": {
+    "overview": "稿件研究一般简单无向图的最大基数匹配算法。作者声称，对 n 个顶点、m 条边的简单无向图，存在一个统一的随机算法在 (n+m)^{1+o(1)} 时间内求出最大基数匹配，该界在每条计算路径上成立（对数词模型），并以至少 2/3 的概率返回显式最大匹配。摘要还表示，通过显式归约，判定简单宿主图是否存在具有指定有效顶点度的生成子图并在存在时找出它，也获得相同时间与概率保证。",
+    "keyPoints": [
+      "作者声称一般简单图的最大基数匹配可在 (n+m)^{1+o(1)} 时间内随机求解。",
+      "时间界在每条计算路径上成立，成功概率至少 2/3。",
+      "经显式归约，指定有效顶点度的生成子图判定与构造获得同样保证。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

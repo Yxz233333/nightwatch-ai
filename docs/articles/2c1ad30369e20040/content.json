@@ -1,7 +1,7 @@
 {
   "id": "2c1ad30369e20040",
   "section": "papers",
-  "category": "数学论文",
+  "category": "理论计算机科学与组合优化",
   "title": "The Unique Games Theorem",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-Unique-Games-Theorem-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Unique Games Conjecture. For every fixed $`\\varepsilon,\\delta\\in(0,1/2)`$, we give a deterministic polynomial-time reduction from 3SAT to Unique Games over a fixed finite alphabet, with completeness at least $`1-\\varepsilon`$ and soundness at most δ.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Unique Games Theorem",
+  "titleZh": "唯一游戏定理",
+  "details": {
+    "overview": "稿件声称证明唯一游戏猜想。摘要表示：对每个固定ε,δ∈(0,1/2)，给出从3SAT到固定有限字母表上唯一游戏的确定性多项式时间归约，完备性至少1-ε，可靠性至多δ。若成立，这将确立唯一游戏猜想，并对近似算法复杂性理论产生重大影响。该手稿为AI产生，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "声称对每个固定ε,δ∈(0,1/2)构造从3SAT到唯一游戏的确定性多项式时间归约。",
+      "归约的完备性至少1-ε，可靠性至多δ，字母表固定有限。",
+      "若成立则证明唯一游戏猜想，但稿件未经同行评议。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

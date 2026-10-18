@@ -1,7 +1,7 @@
 {
   "id": "4acbc9d000531aaf",
   "section": "papers",
-  "category": "数学论文",
+  "category": "自守表示与Langlands纲领",
   "title": "Ramanujan-Arthur Decompositions of Cuspidal Functions at Full Finite Level",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Ramanujan-Arthur-Decompositions-of-Cuspidal-Functions-at-Full-Finite-Level-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove rational and $`\\overline{\\mathbb Q}_\\ell`$ decompositions of cuspidal automorphic functions for split semisimple groups over global function fields into subspaces indexed by nilpotent orbits of the dual group. The decompositions hold at every full finite level, with arbitrary divisor multiplicities. Each summand is governed by the same orbit at every unramified place and every complex embedding. At trivial level this proves Conjectures 3.4.5 and 3.4.6 of Gaitsgory–Lafforgue–Raskin. For split connected adjoint absolutely simple groups, we also prove that a cuspidal automorphic representation with one generic unramified local component is tempered at every unramified place. Thus globally generic cuspidal representations in this scope satisfy the unramified part of the generalized Ramanujan conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Ramanujan-Arthur Decompositions of Cuspidal Functions at Full Finite Level",
+  "titleZh": "全有限层上尖点函数的Ramanujan–Arthur分解",
+  "details": {
+    "overview": "稿件研究整体函数域上分裂半单群的尖点自守函数分解。作者声称在每个全有限层、任意除子重数下，将其分解为以对偶群幂零轨道为指标的子空间，且每个直和项在所有非分歧位与复嵌入下由同一轨道支配；平凡层情形证明Gaitsgory–Lafforgue–Raskin的猜想3.4.5与3.4.6。对分裂连通伴随绝对单群，还证明具有一个一般非分歧局部分量的尖点自守表示在所有非分歧位为tempered，从而满足广义Ramanujan猜想的非分歧部分。",
+    "keyPoints": [
+      "在全有限层给出尖点函数按对偶群幂零轨道的分解",
+      "平凡层情形证明Gaitsgory–Lafforgue–Raskin猜想3.4.5与3.4.6",
+      "对分裂连通伴随绝对单群证明一般非分歧分量的尖点表示处处tempered"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

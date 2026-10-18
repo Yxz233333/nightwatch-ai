@@ -1,7 +1,7 @@
 {
   "id": "4d5bf21f673eb1a4",
   "section": "papers",
-  "category": "数学论文",
+  "category": "交换代数与代数几何",
   "title": "An explicit noncoordinate polynomial with affine three-space zero fibre",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/An-explicit-noncoordinate-polynomial-with-affine-three-space-zero-fibre-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct an explicit counterexample to the Abhyankar–Sathaye conjecture: a noncoordinate polynomial in four complex variables whose zero fibre is affine three-space. Adjoining variables gives counterexamples in every ambient dimension at least four.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An explicit noncoordinate polynomial with affine three-space zero fibre",
+  "titleZh": "一个零纤维为仿射三维空间的显式非坐标多项式",
+  "details": {
+    "overview": "稿件研究Abhyankar–Sathaye猜想。作者构造显式反例：四元复变量上的一个非坐标多项式，其零纤维为仿射三维空间；通过添加变量，可在每个至少四维的环境中得到反例。摘要表示这否定该猜想，说明存在零纤维为仿射空间的非坐标多项式，对多项式自同构与纤维化问题具有意义。",
+    "keyPoints": [
+      "构造四元复变量上零纤维为仿射三维空间的非坐标多项式",
+      "通过添加变量推广到所有至少四维的环境",
+      "构成对Abhyankar–Sathaye猜想的显式反例"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

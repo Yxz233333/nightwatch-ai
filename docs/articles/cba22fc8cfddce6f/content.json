@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove Donovan's conjecture over every algebraically closed field K of characteristic p > 0. For each fixed K and bound on defect-group order, blocks of finite groups represent only finitely many K-linear Morita equivalence classes. The defect groups need not be abelian, and the result includes p = 2.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Donovan's Conjecture over Algebraically Closed Fields",
+  "titleZh": "代数闭域上的Donovan猜想",
+  "details": {
+    "overview": "稿件研究有限群块在代数闭域上的Morita等价分类。摘要表示，作者对每个特征p>0的代数闭域K证明了Donovan猜想：当K固定且亏群阶有界时，有限群的块只给出有限多个K-线性Morita等价类。摘要强调亏群不必交换，且结果包含p=2。该结论若成立，将把模表示论中关于块分类的猜想推广到一般亏群情形。手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "对任意特征p>0的代数闭域证明Donovan猜想。",
+      "固定域与亏群阶上界时，块仅有有限多个Morita等价类。",
+      "结果不要求亏群交换，并涵盖p=2情形。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

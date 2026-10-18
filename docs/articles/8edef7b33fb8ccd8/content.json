@@ -10,5 +10,16 @@
   "abstractEnglish": "We determine the limiting pressure of an Ising spin glass with Haar orthogonal eigenvectors, a compact limiting spectral law, and no asymptotic outliers, at every fixed temperature. The pressure converges in expectation and almost surely to a variational formula. We also give the limiting pressure with deterministic external fields whose empirical laws converge in first-moment transport distance, and derive a formula for the zero-field ground-state energy by taking temperature to zero.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "All-temperature pressure for orthogonally invariant Ising spin glasses",
+  "titleZh": "正交不变Ising自旋玻璃的全温度压强",
+  "details": {
+    "overview": "该稿件研究具有Haar正交特征向量、紧致极限谱律且无渐近离群点的Ising自旋玻璃。作者声称在每个固定温度下确定了极限压强，它在期望与几乎必然意义下收敛到变分公式；还给出确定外场下（经验律在一阶矩传输距离下收敛）的极限压强，并通过温度趋于零得到零场基态能量公式。若成立，这统一了该类模型全温度下的压强刻画。",
+    "keyPoints": [
+      "对象为正交不变Ising自旋玻璃，特征向量为Haar正交且无渐近离群点",
+      "每个固定温度下极限压强收敛到变分公式，期望与几乎必然均成立",
+      "给出确定外场下的极限压强，并由零温极限得零场基态能量公式"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

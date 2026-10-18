@@ -10,5 +10,16 @@
   "abstractEnglish": "For every n ≥ 1 and $`1\\le d\\le n`$, we prove that a polynomial threshold function of degree at most d on the uniform Boolean cube has average sensitivity at most $`8d\\sqrt n`$. This proves the asymptotic form of the Gotsman–Linial conjecture. The bound is uniform in both parameters and uses the convention $`\\mathop{\\mathrm{sgn}}\\nolimits (0)=1`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Average sensitivity of polynomial threshold functions",
+  "titleZh": "多项式阈值函数的平均敏感度",
+  "details": {
+    "overview": "稿件研究均匀布尔立方体上次数至多 d 的多项式阈值函数的平均敏感度。作者声称证明了平均敏感度至多 8d√n，对任意 n ≥ 1 和 1 ≤ d ≤ n 一致成立，采用 sgn(0)=1 的约定。摘要表示这证明了 Gotsman–Linial 猜想的渐近形式。该结果给出了平均敏感度关于次数和维数的统一上界。",
+    "keyPoints": [
+      "次数至多 d 的多项式阈值函数平均敏感度至多 8d√n。",
+      "上界对 n 和 d 一致，采用 sgn(0)=1 约定。",
+      "证明了 Gotsman–Linial 猜想的渐近形式。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the Hausdorff dimension of every finite real self-similar measure equals the minimum of one and its random-walk entropy rate divided by its Lyapunov exponent. Exact overlaps are allowed, and the contraction ratios may be unequal and negative. This resolves the entropy-rate dimension conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The entropy-rate dimension formula for self-similar measures on the line",
+  "titleZh": "直线上自相似测度的熵率维数公式",
+  "details": {
+    "overview": "稿件研究直线上有限实自相似测度的Hausdorff维数。作者声称证明了该维数等于1与其随机游走熵率除以Lyapunov指数二者中的较小值；允许精确重叠，压缩比可不等且可为负。摘要表示这解决了熵率维数猜想。该结果若成立，将为自相似测度的维数计算提供统一公式，并覆盖此前难以处理的精确重叠情形。",
+    "keyPoints": [
+      "证明自相似测度Hausdorff维数等于min(1,熵率/Lyapunov指数)",
+      "允许精确重叠及不等、负压缩比",
+      "摘要称解决熵率维数猜想"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

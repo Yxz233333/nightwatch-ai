@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the Thorp shuffle on $`N=2^d`$ labeled cards has full-permutation total-variation mixing time $`\\Theta(\\log N)`$ in physical shuffles. An absolute number of coordinate sweeps suffices for the upper bound.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Row–column symmetry and contraction of coordinate sweeps",
+  "titleZh": "行列对称性与坐标扫描的收缩",
+  "details": {
+    "overview": "稿件研究N=2^d张带标号牌上的Thorp洗牌，证明其全排列全变差混合时间为物理洗牌次数的Θ(log N)，并指出上界只需绝对常数次坐标扫描。研究对象是Thorp洗牌的混合性质，作者声称给出与log N同阶的混合时间估计，说明固定次数的坐标扫描即可达到混合，对洗牌算法的复杂度分析有参考意义。",
+    "keyPoints": [
+      "Thorp洗牌全排列全变差混合时间为Θ(log N)次物理洗牌",
+      "上界只需绝对常数次坐标扫描",
+      "研究N=2^d张带标号牌的洗牌过程"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

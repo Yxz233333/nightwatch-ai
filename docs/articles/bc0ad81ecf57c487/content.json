@@ -1,7 +1,7 @@
 {
   "id": "bc0ad81ecf57c487",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论与统计物理",
   "title": "The low-temperature Sherrington–Kirkpatrick fluctuation scale",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-low-temperature-Sherrington-Kirkpatrick-fluctuation-scale-September-24-2026/The-low-temperature-Sherrington-Kirkpatrick-fluctuation-scale-September-24-2026.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For the zero-field Gaussian Sherrington–Kirkpatrick model at every fixed inverse temperature β > 1, we prove that the standard deviation of the log partition function is $`n^{1/6+o(1)}`$. The same exponent describes its typical centered absolute fluctuations, establishing the predicted one-sixth exponent in this regime.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The low-temperature Sherrington–Kirkpatrick fluctuation scale",
+  "titleZh": "低温Sherrington–Kirkpatrick涨落尺度",
+  "details": {
+    "overview": "稿件研究零场高斯Sherrington–Kirkpatrick模型在固定逆温度β>1时的涨落行为。作者声称证明了对数配分函数的标准差为n^{1/6+o(1)}，且典型中心绝对涨落具有相同指数，从而在该区域建立预测的六分之一指数。该结果涉及自旋玻璃模型的涨落尺度，若成立将为SK模型的低温统计物理提供精确的数学描述。摘要未说明证明技术细节。",
+    "keyPoints": [
+      "对每个固定β>1证明对数配分函数标准差为n^{1/6+o(1)}。",
+      "典型中心绝对涨落具有相同指数。",
+      "建立了预测的六分之一指数。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

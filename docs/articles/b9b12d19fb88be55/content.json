@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the full Birch–Swinnerton-Dyer leading-term formula for every elliptic curve over ℚ whose full q-power Selmer group has corank zero or one at some prime q. The analytic and Mordell–Weil ranks equal that corank, and the Tate–Shafarevich group is finite. The formula includes all prime factors and requires no additional hypotheses on reduction, rational torsion, isogenies, complex multiplication, or residual Galois representations.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Exact Birch–Swinnerton-Dyer Formula from Low Selmer Corank",
+  "titleZh": "由低 Selmer 余秩得到的精确 Birch–Swinnerton-Dyer 公式",
+  "details": {
+    "overview": "该稿件声称对 ℚ 上每条椭圆曲线证明完整的 Birch–Swinnerton-Dyer 首项公式，条件是在某个素数 q 处完整 q 幂 Selmer 群的余秩为零或一。此时解析秩与 Mordell–Weil 秩等于该余秩，Tate–Shafarevich 群有限。摘要表示公式包含全部素因子，且不额外假设约化、有理扭点、同源、复乘或剩余 Galois 表示。稿件为 AI 产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "条件为某素数 q 处完整 q 幂 Selmer 群余秩为 0 或 1。",
+      "结论包括 BSD 首项公式、两种秩相等与 Tate–Shafarevich 群有限。",
+      "声称公式含全部素因子，且不附加约化、扭点、同源、复乘等假设。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

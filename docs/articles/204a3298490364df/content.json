@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the equivariant cohomological Hikita conjecture for arbitrary finite quivers, including loops and multiple arrows. For any dimension and framing vectors, any commuting flavor torus, and a stability character whose semistable locus is stable and has free gauge action, the equivariant cohomology of the Nakajima variety is canonically isomorphic to the coordinate ring of the scheme-theoretic fixed locus of the stability cocharacter on the flavor-deformed Coulomb branch. This is an isomorphism of graded algebras over the common coefficient ring, retaining nilpotents and including the empty case.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The equivariant cohomological Hikita conjecture for arbitrary quivers",
+  "titleZh": "任意箭图的等变上同调Hikita猜想",
+  "details": {
+    "overview": "稿件研究任意有限箭图（含环与多重箭）的等变上同调Hikita猜想。摘要声称对任意维数与框架向量、任意交换flavor环面，以及半稳定轨迹稳定且规范作用自由的稳定性特征，Nakajima簇的等变上同调与flavor形变Coulomb分支上稳定性余特征簇理论不动点的坐标环典范同构。该同构为共同系数环上的分次代数同构，保留幂零元并包含空情形。",
+    "keyPoints": [
+      "对含环和多重箭的任意有限箭图证明等变上同调Hikita猜想。",
+      "在同构中保留幂零元，并覆盖空情形。",
+      "同构为共同系数环上的分次代数同构。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

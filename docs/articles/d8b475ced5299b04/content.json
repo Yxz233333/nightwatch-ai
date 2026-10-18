@@ -1,7 +1,7 @@
 {
   "id": "d8b475ced5299b04",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论与随机图",
   "title": "The free uniform spanning forest is a factor of IID",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-free-uniform-spanning-forest-is-a-factor-of-IID-September-25-2026/The-free-uniform-spanning-forest-is-a-factor-of-IID-September-25-2026.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the free uniform spanning forest is a factor of IID on every infinite connected locally finite simple unweighted graph. One Borel rule works for all such graphs and uses no root, answering affirmatively the general factor question for unimodular random graphs. We also show that every translation-invariant strongly Rayleigh process indexed by a countable group is a factor of IID, including invariant determinantal processes with Hermitian positive-contraction kernels. This group-action conclusion requires no amenability.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The free uniform spanning forest is a factor of IID",
+  "titleZh": "自由均匀生成森林是IID的因子",
+  "details": {
+    "overview": "该稿件研究自由均匀生成森林的可测构造性。作者声称证明：在每一无限连通局部有限简单无权图上，自由均匀生成森林是IID的因子，且一个Borel规则适用于所有此类图、不使用根，从而正面回答幺模随机图的一般因子问题。摘要还表示，可数群上每个平移不变强Rayleigh过程都是IID的因子，包括具有Hermitian正压缩核的不变行列式过程，且该群作用结论不要求顺从性。",
+    "keyPoints": [
+      "声称自由均匀生成森林在任意无限连通局部有限简单无权图上是IID因子",
+      "单一Borel规则适用于所有此类图且不使用根",
+      "群作用结论覆盖强Rayleigh过程且不要求顺从性"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

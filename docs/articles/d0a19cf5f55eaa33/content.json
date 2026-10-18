@@ -1,7 +1,7 @@
 {
   "id": "d0a19cf5f55eaa33",
   "section": "papers",
-  "category": "数学论文",
+  "category": "离散几何与组合几何",
   "title": "A power saving for planar halving lines",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-power-saving-for-planar-halving-lines-September-25-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "There are absolute constants ε > 0 and C such that every sufficiently large even n-point set in the plane with no three collinear has at most $`Cn^{4/3-\\varepsilon}`$ unordered halving pairs. This gives a power saving over the classical $`O(n^{4/3})`$ bound for planar halving lines. The proof is nonquantitative and does not supply explicit constants.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A power saving for planar halving lines",
+  "titleZh": "平面平分线的一个幂次节省",
+  "details": {
+    "overview": "该稿件研究平面点集的平分线对数上界。作者声称：存在绝对常数ε>0与C，使得每个足够大的偶数n点平面点集（无三点共线）至多有Cn^{4/3−ε}个无序平分对，从而相对经典O(n^{4/3})界给出幂次节省。摘要说明证明是非定量的，不提供显式常数。该结果属于离散几何中平分线问题的改进。",
+    "keyPoints": [
+      "声称无三点共线的n点平面集至多Cn^{4/3−ε}个无序平分对",
+      "相对经典O(n^{4/3})界给出幂次节省",
+      "证明非定量，不提供显式常数"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

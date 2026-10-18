@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the boundedness and persistence conjectures for finite weakly reversible mass-action systems with positive constant reaction rates. For every positive initial condition, the solution exists for all forward time, and every concentration remains bounded above and bounded away from zero. The bounds may depend on the initial condition, and no boundedness assumption is imposed on its stoichiometric compatibility class.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Boundedness and persistence of weakly reversible mass-action systems",
+  "titleZh": "弱可逆质量作用系统的有界性与持久性",
+  "details": {
+    "overview": "稿件证明具有正常数反应速率的有限弱可逆质量作用系统的有界性与持久性猜想。对于每个正初始条件，解在所有前向时间存在，且每个浓度既有上界又远离零。界可能依赖于初始条件，且未对化学计量相容类施加有界性假设。该结果属于动力系统与化学反应网络理论领域。",
+    "keyPoints": [
+      "证明有限弱可逆质量作用系统（正常数反应速率）的有界性与持久性猜想。",
+      "对每个正初始条件，解全局存在且各浓度有上界并远离零。",
+      "界可依赖于初始条件，无需化学计量相容类的有界性假设。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

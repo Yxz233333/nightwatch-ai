@@ -1,7 +1,7 @@
 {
   "id": "3c05f70b08aac2aa",
   "section": "papers",
-  "category": "代数几何",
+  "category": "算子代数",
   "title": "Quadratic Strong-Operator Paving over Arbitrary Maximal Abelian Subalgebras",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the quadratic strong-operator paving conjecture of Popa and Vaes. For every $`0\\lt \\varepsilon \\lt 1`$, every self-adjoint element of a von Neumann algebra admits strong-operator paving over each maximal abelian subalgebra with at most $`5\\times10^8\\varepsilon ^{-2}`$ projections. The bound is uniform over representations and requires no separability or conditional-expectation assumption.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Quadratic Strong-Operator Paving over Arbitrary Maximal Abelian Subalgebras",
+  "titleZh": "任意极大交换子代数上的二次强算子铺砌",
+  "details": {
+    "overview": "该稿件研究 Popa 与 Vaes 提出的二次强算子铺砌猜想。作者声称对 von Neumann 代数中每个自伴元素，在每个极大交换子代数上都可实现强算子铺砌，所用投影数至多 5×10⁸ε⁻²（对每个 0<ε<1）。摘要表示该界在所有表示下一致，且不需要可分性或条件期望假设。",
+    "keyPoints": [
+      "声称证明 Popa–Vaes 二次强算子铺砌猜想。",
+      "每个自伴元素在每个极大交换子代数上可用至多 5×10⁸ε⁻² 个投影铺砌。",
+      "该界在所有表示下一致，不需可分性或条件期望假设。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

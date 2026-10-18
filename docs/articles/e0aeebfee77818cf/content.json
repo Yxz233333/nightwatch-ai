@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the critical logarithmic correction for the nearest-neighbor cosine XY model on the square lattice. Let $`C_{b_c}(r)`$ be the two-point correlation at critical inverse temperature, obtained by taking the free-box thermodynamic limit while the two sites remain r lattice steps apart along a coordinate axis. Then\n\n$`\\displaystyle C_{b_c}(r)=B_{\\mathrm{XY}}r^{-1/4}(\\log r)^{1/8}(1+o(1)), \\qquad B_{\\mathrm{XY}}\\in(0,\\infty),`$\n\nas $`r\\to\\infty`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The critical logarithmic correction for the planar XY model",
+  "titleZh": "平面XY模型的关键对数修正",
+  "details": {
+    "overview": "该稿件研究正方格子上最近邻余弦XY模型在临界逆温度下的两点关联函数。作者声称，在自由盒热力学极限下，沿坐标轴相距r格点的关联满足 C_{b_c}(r)=B_{XY} r^{-1/4}(log r)^{1/8}(1+o(1))，其中 B_{XY} 为有限正数。摘要表示这证明了临界对数修正的存在。该结果若成立，将细化XY模型临界行为的定量刻画，但稿件为AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为正方格最近邻余弦XY模型在临界逆温度下的两点关联函数。",
+      "作者声称关联渐近为 r^{-1/4}(log r)^{1/8} 乘以趋于1的因子。",
+      "常数 B_{XY} 被断言为有限且严格为正。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

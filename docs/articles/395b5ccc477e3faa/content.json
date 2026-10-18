@@ -10,5 +10,16 @@
   "abstractEnglish": "Taking Cardy's crossing formula for critical Poisson–Voronoi percolation as an input, we prove a universal joint limit for the near-critical crossing thresholds of rational polygonal quadrilaterals under the monotone coupling. Conditional on the Poisson tessellation, the threshold law converges in probability over tessellations to the same law as on the triangular lattice. Each model is normalized by its own expected number of color-pivotal sites for a unit-square crossing.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "From critical crossings to quenched near-critical universality in Voronoi percolation",
+  "titleZh": "Voronoi渗流中从临界穿越到淬火近临界普适性",
+  "details": {
+    "overview": "稿件以临界Poisson–Voronoi渗流的Cardy穿越公式为输入，研究单调耦合下有理多边形四边形的近临界穿越阈值。作者声称这些阈值在给定Poisson剖分下，于剖分上依概率收敛到与三角晶格相同的联合极限律；每个模型用其自身单位正方形穿越的期望颜色枢轴点数归一化。该结果把临界穿越信息转化为近临界普适性。",
+    "keyPoints": [
+      "以临界Poisson–Voronoi渗流的Cardy穿越公式为输入",
+      "有理多边形四边形的近临界穿越阈值在剖分上依概率收敛到三角晶格同一联合极限律",
+      "每个模型用自身单位正方形穿越的期望颜色枢轴点数归一化"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

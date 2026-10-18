@@ -1,7 +1,7 @@
 {
   "id": "4867ae14d3925199",
   "section": "papers",
-  "category": "数学论文",
+  "category": "解析数论",
   "title": "Uniform exclusion of Landau–Siegel zeros",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Uniform-exclusion-of-Landau-Siegel-zeros-October-1-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the uniform exclusion of Landau–Siegel zeros. There is an absolute constant c > 0 such that every real zero $`\\beta\\in(0,1)`$ of every primitive nonprincipal real Dirichlet L-function of conductor q ≥ 3 satisfies $`(1-\\beta)\\log q\\ge c`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Uniform exclusion of Landau–Siegel zeros",
+  "titleZh": "Landau–Siegel 零点的统一排除",
+  "details": {
+    "overview": "该稿件研究 Dirichlet L 函数的实零点问题，即所谓 Landau–Siegel 零点。作者在摘要中声称证明了这类零点的统一排除：存在绝对常数 c>0，使得对任意导子 q≥3 的本原非主实 Dirichlet L 函数，其任意实零点 β∈(0,1) 都满足 (1−β)log q ≥ c。若成立，这将给出与导子无关的零点间隙下界，对数论中类数问题等有潜在意义。但这是 AI 产生的手稿，尚未经独立审查或同行评议，结论需谨慎看待。",
+    "keyPoints": [
+      "研究对象为本原非主实 Dirichlet L 函数的实零点。",
+      "作者声称存在绝对常数 c 使 (1−β)log q ≥ c 对所有 q≥3 成立。",
+      "该结论为统一零点间隙下界，尚待独立审查。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

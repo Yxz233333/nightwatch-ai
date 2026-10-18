@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that not every hyperbolicity cone is a spectrahedral shadow: some closed hyperbolicity cones admit no finite affine semidefinite lift, even with arbitrary real coefficients and any finite number of auxiliary variables. This disproves the Projected Lax Conjecture and hence the generalized Lax conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Hyperbolicity Cones Without Semidefinite Lifts",
+  "titleZh": "无需半定提升的双曲锥",
+  "details": {
+    "overview": "该稿件研究双曲锥与谱面体投影之间的关系。摘要表示，作者证明并非每个双曲锥都是谱面体投影：某些闭双曲锥不存在有限仿射半定提升，即使允许任意实系数与任意有限个辅助变量。这否证了投影Lax猜想，从而也否证广义Lax猜想。该手稿为AI产生，尚未经独立审查或同行评议，结论应视为作者声称而非已获独立验证。",
+    "keyPoints": [
+      "作者声称某些闭双曲锥不存在有限仿射半定提升，即使系数任意、辅助变量有限。",
+      "由此否证投影Lax猜想，并进而否证广义Lax猜想。",
+      "手稿为AI产生，收录不表示已完成独立审查或同行评议。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

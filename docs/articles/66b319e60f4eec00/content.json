@@ -1,7 +1,7 @@
 {
   "id": "66b319e60f4eec00",
   "section": "papers",
-  "category": "数学论文",
+  "category": "微分几何与偏微分方程",
   "title": "A Smooth Metric with No Local Isometric Immersion into Three-Space",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-Smooth-Metric-with-No-Local-Isometric-Immersion-into-Three-Space-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a smooth positive-definite Riemannian metric on $`(-1,1)^2`$ that agrees with the Euclidean metric to every order at the origin, yet no neighborhood of the origin admits a smooth isometric immersion into Euclidean three-space. This gives a negative answer to the unrestricted smooth local isometric realization problem for surfaces.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Smooth Metric with No Local Isometric Immersion into Three-Space",
+  "titleZh": "一个不能局部等距浸入三维空间的平滑度量",
+  "details": {
+    "overview": "稿件研究曲面在欧氏三维空间中的光滑局部等距实现问题。作者声称在(−1,1)²上构造光滑正定黎曼度量，它在原点与欧氏度量直到任意阶一致，但原点任何邻域都不能光滑等距浸入欧氏三维空间。摘要表示这否定无限制的光滑局部等距实现问题。该结果说明高阶接触欧氏度量不足以保证局部可嵌入性，涉及偏微分方程与几何的刚性现象。",
+    "keyPoints": [
+      "在(−1,1)²上构造光滑正定黎曼度量。",
+      "该度量在原点与欧氏度量直到任意阶一致。",
+      "作者声称原点任何邻域都不能光滑等距浸入欧氏三维空间。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

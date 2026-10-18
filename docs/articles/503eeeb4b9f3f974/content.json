@@ -1,7 +1,7 @@
 {
   "id": "503eeeb4b9f3f974",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何分析",
   "title": "The Isoperimetric Conjecture for the Cubic Flat Three-Torus",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-Isoperimetric-Conjecture-for-the-Cubic-Flat-Three-Torus-September-24-2026/article.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the isoperimetric conjecture for the cubic flat three-torus and classify all minimizers, including the equality cases at the transition volumes $`4\\pi/81`$ and $`1/\\pi`$. The minimizing regions are balls, circular tubes about shortest closed geodesics, coordinate slabs, and their complements.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Isoperimetric Conjecture for the Cubic Flat Three-Torus",
+  "titleZh": "立方平坦三维环面上的等周猜想",
+  "details": {
+    "overview": "稿件研究立方平坦三维环面上的等周问题。作者声称证明该环面的等周猜想，并对所有极小区域进行分类，包括过渡体积 4π/81 与 1/π 处的等号情形。摘要表示极小区域为球、围绕最短闭测地线的圆管、坐标板及其补集。该结果给出该环面上等周最优形状的完整刻画。",
+    "keyPoints": [
+      "证明立方平坦三维环面上的等周猜想",
+      "分类全部极小区域：球、圆管、坐标板及其补集",
+      "确定过渡体积 4π/81 与 1/π 处的等号情形"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

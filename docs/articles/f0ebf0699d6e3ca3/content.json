@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a compact subset of the unit interval, of measure arbitrarily close to one, that contains no affine copy of the dyadic sequence $`\\{2^{-n}:n\\ge1\\}`$. The conclusion holds for every translation and every nonzero real dilation, of either sign, proving the dyadic case of the Erdős similarity conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The dyadic case of the Erdős similarity conjecture",
+  "titleZh": "Erdős相似猜想的二进情形",
+  "details": {
+    "overview": "稿件构造了单位区间的一个紧子集，其测度任意接近1，但不包含二进序列{2^{-n}: n≥1}的任何仿射副本。该结论对任意平移和任意非零实数伸缩（无论正负）均成立，从而证明了Erdős相似猜想的二进情形。该结果属于几何测度论与组合几何领域。",
+    "keyPoints": [
+      "构造单位区间中测度任意接近1的紧子集，不含二进序列的仿射副本。",
+      "结论对任意平移和任意非零实数伸缩（正负均可）成立。",
+      "证明Erdős相似猜想的二进情形。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "Let T be an invertible mixing probability-preserving transformation. For every integer n ≥ 2 and every fixed tuple of bounded measurable functions, we prove that the consecutive multiple ergodic averages of length n converge almost everywhere to the product of the integrals, as the averaging length tends to infinity through all positive integers. The probability space need not be standard, and no rate of mixing is required.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Pointwise Multiple Ergodic Averages for Mixing Transformations",
+  "titleZh": "混合变换的逐点多重遍历平均",
+  "details": {
+    "overview": "稿件研究可逆混合保概率变换T的多重遍历平均。摘要称对每个整数n≥2及每固定有界可测函数元组，证明长度为n的连续多重遍历平均当平均长度沿所有正整数趋于无穷时几乎处处收敛到各积分的乘积。概率空间无需标准，也不要求混合速率。这是AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "对可逆混合保概率变换证明多重遍历平均几乎处处收敛。",
+      "极限为各函数积分的乘积，长度n任意固定。",
+      "概率空间无需标准，且不要求混合速率。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

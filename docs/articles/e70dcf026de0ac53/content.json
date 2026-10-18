@@ -1,7 +1,7 @@
 {
   "id": "e70dcf026de0ac53",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数",
   "title": "The Bass trace conjecture and the characteristic-zero Kaplansky idempotent conjecture",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-Bass-trace-conjecture-for-complex-group-rings-September-24-2026/The-Bass-trace-conjecture-for-complex-group-rings-September-24-2026.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the complex group-ring Bass trace conjecture for every discrete group: the Hattori–Stallings trace of a finitely generated projective module over its complex group ring is supported on conjugacy classes of finite-order elements. As a consequence, for every torsion-free group G and every commutative unital domain R of characteristic zero, the only idempotents in $`RG`$ are 0 and 1. This proves Kaplansky's idempotent conjecture in characteristic zero.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Bass trace conjecture and the characteristic-zero Kaplansky idempotent conjecture",
+  "titleZh": "Bass 迹猜想与特征零 Kaplansky 幂等元猜想",
+  "details": {
+    "overview": "稿件研究群环上的迹与幂等元问题。作者声称对每个离散群证明复群环上的 Bass 迹猜想：复群环上有限生成投射模的 Hattori–Stallings 迹支撑在有限阶元素的共轭类上。摘要表示，作为推论，对每个无挠群 G 和每个特征零的交换含幺整环 R，群环 RG 中只有 0 和 1 两个幂等元，从而证明特征零的 Kaplansky 幂等元猜想。",
+    "keyPoints": [
+      "作者声称对每个离散群证明复群环上的 Bass 迹猜想。",
+      "迹的支撑落在有限阶元素的共轭类上。",
+      "推论给出特征零下无挠群群环只有 0 和 1 两个幂等元。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

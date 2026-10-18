@@ -10,5 +10,16 @@
   "abstractEnglish": "We give a uniform algorithm that reconstructs every binary string from independent deletion traces when its length and rational retention probability are known. For each fixed retention probability, both the number of traces and the bit complexity are quasipolynomial in the string length. More generally, we give an explicit sample bound uniform over all rational retention probabilities, with running time polynomial in the sample budget and the binary input length. If the deletion probability is at most $`n^{-\\varepsilon}`$ for fixed ε > 0, the sample and running-time bounds are polynomial. Reconstruction succeeds with probability at least 2/3 for each input string.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Uniform quasipolynomial-time trace reconstruction",
+  "titleZh": "一致拟多项式时间的迹重建",
+  "details": {
+    "overview": "该稿件研究二进制字符串的迹重建问题。摘要表示，当字符串长度与有理保留概率已知时，作者给出统一算法，从独立删除迹中重建每个二进制串；对每个固定保留概率，迹数与比特复杂度均为字符串长度的拟多项式。更一般地，给出对所有有理保留概率一致显式的样本界，运行时间对样本预算与输入长度多项式。若删除概率至多n^{-ε}，样本与时间界为多项式，每个输入成功概率至少2/3。手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "给出统一算法，在长度与有理保留概率已知时从独立删除迹重建二进制串。",
+      "对固定保留概率，迹数与比特复杂度为字符串长度的拟多项式。",
+      "删除概率至多n^{-ε}时样本与运行时间为多项式，每个输入成功概率至少2/3。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

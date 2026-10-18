@@ -1,7 +1,7 @@
 {
   "id": "3402ec396ec2da9f",
   "section": "papers",
-  "category": "数学论文",
+  "category": "交换代数",
   "title": "Commuting Division-Coefficient Forms and the Artinian Eisenbud--Green--Harris Conjecture",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Commuting-Division-Coefficient-Forms-and-the-Artinian-Eisenbud-Green-Harris-Conjecture-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Eisenbud–Green–Harris conjecture over every characteristic-zero field for homogeneous regular sequences of any positive length, with degrees at least two. Thus every homogeneous ideal containing such a sequence has the Hilbert function of a monomial ideal containing the corresponding pure powers.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Commuting Division-Coefficient Forms and the Artinian Eisenbud--Green--Harris Conjecture",
+  "titleZh": "交换除系数形式与Artin型Eisenbud–Green–Harris猜想",
+  "details": {
+    "overview": "稿件证明：在任意特征零域上，对任意正长度且次数至少为二的齐次正则序列，Eisenbud–Green–Harris猜想成立。摘要表示由此每个包含此类序列的齐次理想，其Hilbert函数与某个包含相应纯幂单项式理想的Hilbert函数相同。该结果若成立将推进交换代数中理想Hilbert函数与单项式理想比较的研究。",
+    "keyPoints": [
+      "在特征零域上对任意正长度、次数至少二的齐次正则序列证明EGH猜想。",
+      "结论是含该序列的齐次理想具有与含对应纯幂的单项式理想相同的Hilbert函数。",
+      "摘要称该结果覆盖任意正长度的齐次正则序列。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

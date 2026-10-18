@@ -10,5 +10,16 @@
   "abstractEnglish": "For a holomorphic action of a compact torus on a compact complex manifold, we prove that the invariant Euler characteristic of naturally linearized anticanonical powers is polynomial on a divisible progression, with its actual value at exponent zero. Independently, on a smooth projective variety with smoothly semipositive anticanonical bundle, we remove a fixed pseudoeffective error from an unbounded sequence of effective twists. These results convert invariant cohomology into twisted differential forms and prove anticanonical nonvanishing on smooth projective varieties with smoothly semipositive anticanonical bundle, by descending the forms before conversion.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Invariant anticanonical indices and conversion of twisted differentials",
+  "titleZh": "不变反典范指数与扭曲微分形式的转换",
+  "details": {
+    "overview": "稿件研究紧致环面在紧致复流形上的全纯作用，证明自然线性化反典范幂的不变欧拉特征在可除递进上是多项式，并在指数零处取实际值。独立地，在具有光滑半正反典范丛的光滑射影簇上，作者从无界有效扭曲序列中移除固定伪有效误差。这些结果将不变上同调转换为扭曲微分形式，并通过先下降形式再转换，证明光滑半正反典范丛的光滑射影簇上反典范非消没。",
+    "keyPoints": [
+      "证明不变欧拉特征在可除递进上为多项式，并在零指数处取实际值。",
+      "在光滑半正反典范丛的射影簇上移除无界有效扭曲序列中的固定伪有效误差。",
+      "通过形式下降与转换证明反典范非消没。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

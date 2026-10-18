@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the unit-speed billiard flow in every nondegenerate Euclidean triangle with at least one angle irrational relative to π is weakly mixing for normalized Liouville measure. Equivalently, the product of the flow with itself is ergodic.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Weak mixing of triangular billiards with an irrational angle",
+  "titleZh": "含无理角三角形台球的弱混合性",
+  "details": {
+    "overview": "该稿件研究具有至少一个相对π为无理角的非退化欧氏三角形中的单位速度台球流。作者声称，对归一化Liouville测度，该流是弱混合的，等价地，流与自身的乘积是遍历的。摘要表示该弱混合结论对每个此类三角形成立。该结果若成立，将推进对无理角三角形台球长期行为的理解；但稿件为AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为至少一个角相对π无理的欧氏三角形台球流。",
+      "作者声称该单位速度台球流对归一化Liouville测度弱混合。",
+      "等价表述为流与自身的乘积是遍历的。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

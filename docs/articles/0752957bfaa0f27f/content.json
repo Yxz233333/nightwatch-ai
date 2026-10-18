@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the rational-boundary log abundance conjecture in every dimension over algebraically closed fields of characteristic zero: every nef ℚ-Cartier log canonical divisor on a projective log canonical pair with effective rational boundary is semiample. Over ℂ, the proof also establishes canonical nonvanishing for smooth projective varieties in every dimension.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Log abundance in characteristic zero",
+  "titleZh": "特征零中的对数丰沛性",
+  "details": {
+    "overview": "该稿件研究代数闭域上特征零的射影对数典范对。作者声称证明有理边界的对数丰沛性猜想在所有维数成立：有效有理边界对数典范对上的nef ℚ-Cartier对数典范除子是半丰沛的。摘要还表示在ℂ上该证明同时建立任意维光滑射影典范非消没。若成立，将为高维极小模型纲领中的丰沛性提供一般结论。",
+    "keyPoints": [
+      "研究特征零代数闭域上有效有理边界对数典范对的nef对数典范除子。",
+      "作者声称证明有理边界对数丰沛性猜想在所有维数成立。",
+      "称在ℂ上同时得到光滑射影簇的典范非消没。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

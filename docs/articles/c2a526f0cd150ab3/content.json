@@ -10,5 +10,16 @@
   "abstractEnglish": "We give a uniform deterministic polynomial-time algorithm for complete factorization over prime fields. For a prime p in binary and a nonzero polynomial $`f\\in\\mathbf F_p[x]`$ given by its dense coefficient list, the algorithm computes the irreducible factors and their multiplicities using a number of bit operations polynomial in $`(\\deg f+1)\\log p`$. The proof uses the uniform Hecke zero-free theorem from the companion paper *Primitive roots for every admissible integer base*.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Deterministic Polynomial Factorization over Prime Fields",
+  "titleZh": "素域上的确定性多项式分解",
+  "details": {
+    "overview": "稿件研究素域上多项式的完全分解算法。摘要声称给出一个一致的确定性多项式时间算法：输入二进制素数p与稠密系数表给出的非零多项式f∈𝔽p[x]，算法计算不可约因子及其重数，比特运算量关于(deg f+1)log p多项式。证明使用配套论文《每个可容许整数基的原根》中的一致Hecke无零点定理。研究意义在于素域多项式分解的确定性多项式时间复杂性。",
+    "keyPoints": [
+      "给出素域上完全分解的一致确定性多项式时间算法",
+      "输出不可约因子及重数，比特复杂度关于(deg f+1)log p多项式",
+      "证明依赖配套论文的一致Hecke无零点定理"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

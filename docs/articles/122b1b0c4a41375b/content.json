@@ -10,5 +10,16 @@
   "abstractEnglish": "For every elliptic curve over ℚ, we prove that the average analytic rank of its quadratic twists tends to 1/2 when signed squarefree twist parameters are ordered by absolute value. This resolves Goldfeld's mean analytic-rank conjecture in this counting convention.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The mean analytic rank of quadratic twists of elliptic curves",
+  "titleZh": "椭圆曲线二次扭的平均解析秩",
+  "details": {
+    "overview": "稿件研究椭圆曲线二次扭族的平均解析秩问题。摘要表示，作者对任意定义在有理数域上的椭圆曲线证明：当带符号的无平方因子扭参数按绝对值排序时，其二次扭的平均解析秩趋于1/2，并称这在该计数约定下解决了Goldfeld的平均解析秩猜想。该结果若成立，将把椭圆曲线解析秩的平均行为与猜想联系起来，但手稿尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "对任意有理数域上的椭圆曲线，考察其二次扭族的平均解析秩。",
+      "扭参数按带符号无平方因子数的绝对值排序计数。",
+      "摘要声称在该计数约定下解决Goldfeld平均解析秩猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

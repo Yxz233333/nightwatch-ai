@@ -1,7 +1,7 @@
 {
   "id": "d92c53f3318090ad",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数几何",
   "title": "Finite ordinary minimal model programs on compact Kähler fourfolds",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Finite-ordinary-minimal-model-programs-on-compact-Kahler-fourfolds-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that a globally Weil-ℚ-factorial compact Kähler klt fourfold pair with effective rational boundary and canonical rational line bundle admits a finite ordinary minimal model program starting on the given pair. It ends at a nef model when the adjoint class is pseudo-effective and at a Mori fibre space otherwise.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Finite ordinary minimal model programs on compact Kähler fourfolds",
+  "titleZh": "紧凯勒四维流形上的有限普通极小模型程序",
+  "details": {
+    "overview": "稿件研究紧凯勒四维流形上的极小模型程序。作者声称，对于全局 Weil-ℚ-阶乘的紧凯勒 klt 四维对，若边界为有效有理除子且典范有理线丛存在，则从给定对出发存在有限普通极小模型程序。该程序在伴随类伪有效时终止于 nef 模型，否则终止于 Mori 纤维空间。研究意义在于将极小模型程序推广到紧凯勒四维情形。",
+    "keyPoints": [
+      "对象为全局 Weil-ℚ-阶乘的紧凯勒 klt 四维对，带有效有理边界。",
+      "作者声称存在从给定对出发的有限普通极小模型程序。",
+      "程序依伴随类伪有效性终止于 nef 模型或 Mori 纤维空间。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

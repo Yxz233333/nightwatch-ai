@@ -10,5 +10,15 @@
   "abstractEnglish": "We construct a language in deterministic polynomial time whose n-bit membership function requires $`2^{\\omega(\\sqrt n)}`$ gates in an unbounded-fan-in OR–AND–OR circuit. The bound holds at every sufficiently large input length and counts all gates, including the bottom layer.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Beyond the Square-Root Exponent for Depth-Three Boolean Circuits",
+  "titleZh": "深度三布尔电路超越平方根指数",
+  "details": {
+    "overview": "稿件构造一个确定性多项式时间语言，其n位成员函数在无界扇入OR–AND–OR电路中需要2^{ω(√n)}个门。摘要表示，该界在每个充分大输入长度成立，并计数所有门包括底层。该结果属于计算复杂性理论中的电路下界。",
+    "keyPoints": [
+      "构造确定性多项式时间语言，其成员函数需2^{ω(√n)}个门。",
+      "下界适用于无界扇入OR–AND–OR电路并计数所有门。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

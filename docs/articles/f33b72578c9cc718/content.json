@@ -10,5 +10,16 @@
   "abstractEnglish": "We resolve the Falconer distance conjecture in every dimension. For every integer d ≥ 2, a compact subset of ℝd with Hausdorff dimension greater than $`d/2`$ determines a set of Euclidean distances of positive Lebesgue measure.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Falconer distance conjecture in all dimensions",
+  "titleZh": "所有维数中的Falconer距离猜想",
+  "details": {
+    "overview": "该稿件研究Falconer距离猜想。作者声称对所有整数d≥2，若ℝ^d中紧集的Hausdorff维数大于d/2，则其确定的欧几里得距离集具有正Lebesgue测度，从而在所有维数解决该猜想。若成立，这将把距离集测度下界与集合维数阈值d/2联系起来，是几何测度论与组合几何交叉的重要结果。手稿为AI产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "声称对所有维数d≥2解决Falconer距离猜想。",
+      "条件为紧集Hausdorff维数大于d/2。",
+      "结论为距离集具有正Lebesgue测度。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

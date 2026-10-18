@@ -1,7 +1,7 @@
 {
   "id": "d597b6ca584d21d8",
   "section": "papers",
-  "category": "数学论文",
+  "category": "泛函分析",
   "title": "Counterexamples to the duality conjecture for metric entropy",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Counterexamples-to-the-duality-conjecture-for-metric-entropy-September-24-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We disprove Pietsch's dimension-free duality conjecture for metric entropy. For every proposed pair of universal constants, we construct origin-symmetric convex bodies that violate the corresponding covering-entropy inequality, already when the covering body is a cube.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Counterexamples to the duality conjecture for metric entropy",
+  "titleZh": "度量熵对偶猜想的反例",
+  "details": {
+    "overview": "稿件研究 Pietsch 关于度量熵的无维数对偶猜想。作者声称否证该猜想：对每一组所提出的通用常数，都构造原点对称凸体，使相应的覆盖熵不等式不成立，且覆盖体取立方体时已出现违反。研究意义在于否定度量熵对偶猜想的一般形式，并表明反例可在覆盖体为立方体的情形下实现。",
+    "keyPoints": [
+      "否证 Pietsch 的度量熵无维数对偶猜想。",
+      "对任意提出的通用常数构造原点对称凸体作为反例。",
+      "反例在覆盖体为立方体时即违反覆盖熵不等式。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

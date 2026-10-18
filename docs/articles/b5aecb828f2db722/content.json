@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct an infinite group with an ordinary finite presentation in which every element has finite order, answering the finitely presented Burnside question negatively. We also construct an infinite-dimensional finitely presented nonunital nil associative algebra over 𝔽2 that is Jacobson radical but not nilpotent. Its unitization is finitely presented, algebraic, and infinite-dimensional. These algebras answer the finitely presented nil- and radical-algebra nilpotence questions and the finite-presentation version of Kurosh's algebraic finiteness question negatively.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An infinite finitely presented periodic group",
+  "titleZh": "一个无限有限呈现周期群",
+  "details": {
+    "overview": "稿件研究有限呈现Burnside问题及相关代数结构。作者声称构造一个具有普通有限呈现且每个元素阶有限的无限群，从而否定有限呈现Burnside问题；还构造𝔽2上无限维有限呈现非单位零结合代数，为Jacobson根但非幂零，其单位化有限呈现、代数且无限维。摘要称这些代数否定有限呈现零代数与根代数幂零问题及Kurosh代数有限性问题的有限呈现版本。手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "构造无限、有限呈现且每元素有限阶的群，否定有限呈现Burnside问题",
+      "构造𝔽2上无限维有限呈现非单位零结合代数，Jacobson根但非幂零",
+      "作者声称这些结果否定若干有限呈现版本的代数幂零与有限性问题"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

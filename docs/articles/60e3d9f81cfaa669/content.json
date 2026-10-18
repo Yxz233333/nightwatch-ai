@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the ℓ1-Bass conjecture for every discrete group. The Hattori–Stallings trace of every idempotent matrix over the complex ℓ1 group algebra is supported on finitely many conjugacy classes of finite-order elements.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The ℓ¹-Bass Conjecture for Discrete Groups",
+  "titleZh": "离散群的ℓ¹-Bass猜想",
+  "details": {
+    "overview": "该稿件声称证明了任意离散群上的ℓ¹-Bass猜想。摘要表示，复ℓ¹群代数上任意幂等矩阵的Hattori–Stallings迹，其支撑集只落在有限多个有限阶元素的共轭类上。这一结果把Bass猜想从特定群类推广到所有离散群，若成立将统一此前分散的结论；但该手稿为AI产生，尚未经独立审查或同行评议，结论应视为作者声称而非已获验证。",
+    "keyPoints": [
+      "作者声称对每个离散群证明ℓ¹-Bass猜想，覆盖范围从特定群类扩展到全体离散群。",
+      "核心结论：复ℓ¹群代数上幂等矩阵的Hattori–Stallings迹仅支撑于有限多个有限阶元素共轭类。",
+      "手稿为AI产生，收录不表示已完成独立审查或同行评议。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

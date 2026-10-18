@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a smooth compactly supported probability density on ℝ3, with a smooth compactly supported square root, for which the three-marginal Coulomb transport minimum is not attained by any pair of measure-preserving Borel maps. Nevertheless, the Monge and Kantorovich infima agree: we construct preserving maps whose costs approach the Kantorovich minimum. For every d ≥ 2 and s > 0, we also construct a smooth identical marginal with the same nonattainment and equality-of-infima properties for the inverse-power interaction $`\\sum_{i\\lt j}|x_i-x_j|^{-s}`$ on ℝd.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A counterexample to the Monge ansatz for the three-marginal Coulomb cost",
+  "titleZh": "三边际Coulomb代价的Monge拟设反例",
+  "details": {
+    "overview": "稿件在ℝ3上构造了一个光滑紧支撑概率密度，其平方根也光滑紧支撑，使得三边际Coulomb输运最小值不能由任何一对保测Borel映射达到。尽管如此，Monge和Kantorovich下确界相等：作者构造了代价趋近Kantorovich最小值的保测映射。对于每个d≥2和s>0，还构造了光滑同边际，在ℝd上对逆幂交互∑_{i<j}|x_i-x_j|^{-s}具有相同的非达到性和下确界相等性质。",
+    "keyPoints": [
+      "构造ℝ3上光滑紧支撑密度，使三边际Coulomb输运最小值不能由保测映射对达到。",
+      "证明Monge与Kantorovich下确界相等，并构造逼近映射。",
+      "推广到任意d≥2和s>0的逆幂交互情形。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

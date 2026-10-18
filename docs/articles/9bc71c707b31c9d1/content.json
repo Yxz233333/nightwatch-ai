@@ -1,7 +1,7 @@
 {
   "id": "9bc71c707b31c9d1",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数学物理",
   "title": "An Isolated Particle Pole for the Two-Dimensional O(3) Spin Field",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/An-Isolated-Particle-Pole-for-the-Two-Dimensional-O3-Spin-Field-October-4-2026/o3-particle-pole.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We consider the continuum spin field constructed from the nearest-neighbor two-dimensional $`O(3)`$ model by the fixed prescription of the companion paper. We prove that its vector two-point spectral measure has a positive atom corresponding to the lowest mass, separated by a positive gap from all remaining mass support.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An Isolated Particle Pole for the Two-Dimensional O(3) Spin Field",
+  "titleZh": "二维O(3)自旋场的孤立粒子极点",
+  "details": {
+    "overview": "稿件研究由二维最近邻O(3)模型按配套论文固定方案构造的连续自旋场。摘要声称证明其矢量两点谱测度具有一个正原子，对应最低质量，并与其余质量支撑之间存在正间隙。研究意义在于为二维O(3)自旋场的谱性质提供孤立粒子极点的数学刻画，属于构造性量子场论方向。",
+    "keyPoints": [
+      "研究对象为二维O(3)模型构造的连续自旋场",
+      "声称矢量两点谱测度有对应最低质量的正原子",
+      "该原子与其余质量支撑之间存在正间隙"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

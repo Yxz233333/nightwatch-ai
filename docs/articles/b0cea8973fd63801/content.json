@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove Barnette's conjecture: every finite simple cubic bipartite planar 3-vertex-connected graph has a Hamiltonian cycle.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Paired states and Hamiltonian cycles in cubic bipartite planar graphs",
+  "titleZh": "立方二部平面图中的配对态与哈密顿圈",
+  "details": {
+    "overview": "该稿件研究立方二部平面图的结构性质。作者声称证明了Barnette猜想：每个有限简单、三顶点连通的立方二部平面图都含有哈密顿圈。摘要仅给出这一结论，未说明证明方法或中间步骤。若成立，将解决图论中长期悬而未决的哈密顿圈存在性问题，对平面图与结构图论有重要意义。",
+    "keyPoints": [
+      "作者声称证明Barnette猜想：三连通立方二部平面图必有哈密顿圈。",
+      "研究对象为有限简单立方二部平面图，条件为三顶点连通。",
+      "摘要未披露证明技术或辅助结构细节。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "4ba91135feaa762a",
   "section": "papers",
-  "category": "数学论文",
+  "category": "量子计算与数学物理",
   "title": "Continuum Coulomb hardness with binary nuclear charges",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Continuum-Coulomb-hardness-with-binary-nuclear-charges-September-24-2026/Continuum-Coulomb-hardness-with-binary-nuclear-charges-September-24-2026.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that approximating the electronic Coulomb spectral infimum in three-dimensional space is QMA-hard when positive integer nuclear charges are encoded in binary. The nuclei have distinct rational positions, the electron number is unary, and the energy is minimized over all antisymmetric continuum states and spin sectors. A deterministic classical polynomial-time reduction produces instances with threshold separation at least one. The nuclear charges may be exponentially large, but every output has polynomial bit length.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Continuum Coulomb hardness with binary nuclear charges",
+  "titleZh": "二进核电荷的连续Coulomb硬度",
+  "details": {
+    "overview": "稿件研究三维空间中电子Coulomb谱下确近似的计算复杂度。作者声称当正整数核电荷以二进制编码时该问题为QMA-hard；核位于互异有理位置，电子数为一元编码，能量在所有反对称连续态与自旋扇区上取最小。摘要表示存在确定性经典多项式时间归约，产生阈值间隔至少为一的实例；核电荷可指数大，但每个输出具有多项式比特长度。",
+    "keyPoints": [
+      "核电荷二进制编码时电子Coulomb谱下确近似为QMA-hard",
+      "核位置互异有理、电子数一元编码，能量在连续反对称态上最小",
+      "确定性多项式时间归约给出阈值间隔至少一的实例"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

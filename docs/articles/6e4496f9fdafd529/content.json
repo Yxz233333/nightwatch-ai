@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the Thorp shuffle on $`n=2^d`$ cards mixes in $`\\Theta(d)`$ physical shuffles. After a sufficiently large fixed number of coordinate sweeps, the total-variation distance of the full permutation from uniform tends to zero as $`d\\to\\infty`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Compatibility entropy and the spectrum of a Thorp sweep",
+  "titleZh": "相容熵与Thorp扫描的谱",
+  "details": {
+    "overview": "稿件研究n=2^d张牌上Thorp洗牌的混合时间。作者声称证明该洗牌在Θ(d)次物理洗牌后混合；经过充分大的固定次数坐标扫描，当d→∞时整副排列与均匀分布的总变差距离趋于零。该结果给出Thorp洗牌混合时间的阶数刻画，属AI产生手稿，未经独立审查。",
+    "keyPoints": [
+      "Thorp洗牌在Θ(d)次物理洗牌后混合",
+      "固定次数坐标扫描后总变差距离趋零",
+      "结果以d→∞渐近表述"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

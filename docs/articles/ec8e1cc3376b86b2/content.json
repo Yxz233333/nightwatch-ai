@@ -1,7 +1,7 @@
 {
   "id": "ec8e1cc3376b86b2",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何拓扑",
   "title": "A boundary-only obstruction to four-dimensional disk embedding",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-boundary-only-obstruction-to-four-dimensional-disk-embedding-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We disprove the four-dimensional disc embedding conjecture without a fundamental-group hypothesis, even when no homotopy classes or output framings are prescribed. We construct a compact oriented smooth four-manifold containing finitely many disc maps with framed algebraic dual spheres whose boundary circles bound no disjoint locally flat discs. Consequently, the free group on two generators is not good in the sense of Freedman–Quinn, and neither is any group containing it as a subgroup.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A boundary-only obstruction to four-dimensional disk embedding",
+  "titleZh": "四维圆盘嵌入的纯边界障碍",
+  "details": {
+    "overview": "稿件研究四维圆盘嵌入猜想。作者声称在不加基本群假设、甚至不指定同伦类或输出标架的情况下否证该猜想：构造一个紧致定向光滑四维流形，含有限多个带标架代数对偶球的圆盘映射，其边界圆不界定任何不相交的局部平坦圆盘。摘要表示由此两个生成元的自由群在Freedman–Quinn意义下不是好的，任何包含它作为子群的群也不是好的。",
+    "keyPoints": [
+      "否证无基本群假设的四维圆盘嵌入猜想",
+      "构造边界圆不界定不相交局部平坦圆盘的圆盘映射",
+      "推出两个生成元自由群及含其子群的群非Freedman–Quinn好群"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

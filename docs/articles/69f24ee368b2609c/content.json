@@ -1,7 +1,7 @@
 {
   "id": "69f24ee368b2609c",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何学",
   "title": "Finite angular cylinder covers below the half-area bound",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Finite-angular-cylinder-covers-below-the-half-area-bound-September-27-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "A regular tetrahedron admits a finite cylinder covering with compact triangular perpendicular bases whose total area is less than half its minimum orthogonal projection area. This disproves the half-area cylinder-covering conjecture. By affine invariance, the same construction gives a counterexample to the directionwise normalized half-bound for every nondegenerate tetrahedron.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Finite angular cylinder covers below the half-area bound",
+  "titleZh": "低于半面积界的有限角圆柱覆盖",
+  "details": {
+    "overview": "稿件研究正四面体的圆柱覆盖。作者声称正四面体存在有限圆柱覆盖，其紧致三角形垂直底的总面积小于最小正交投影面积的一半。这否定了半面积圆柱覆盖猜想。由仿射不变性，同一构造对每个非退化四面体给出方向归一化半界的反例。该结果对圆柱覆盖的几何测度问题给出否定回答。",
+    "keyPoints": [
+      "构造正四面体有限圆柱覆盖，总底面积小于最小投影面积一半。",
+      "否定半面积圆柱覆盖猜想。",
+      "由仿射不变性，对每个非退化四面体给出方向归一化半界反例。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

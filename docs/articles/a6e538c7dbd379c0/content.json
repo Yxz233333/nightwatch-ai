@@ -10,5 +10,16 @@
   "abstractEnglish": "Under the finite-level Ramanujan–Arthur decomposition stated in Theorem 1.1, we construct a global Arthur enhancement for every occurring cuspidal excursion parameter at a specified full finite level for a split connected semisimple group over a global function field. A single algebraic SL2 and a commuting Weil centralizer map recover the given parameter by diagonal specialization on the entire Weil group, including inertia. The result does not assert ellipticity, Arthur-packet classification, or a multiplicity formula.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Global Arthur Enhancements of Cuspidal Excursion Parameters",
+  "titleZh": "尖点游走参数的全局 Arthur 增强",
+  "details": {
+    "overview": "该稿件在全局函数域上的分裂连通半单群情形下，依据定理 1.1 所述的有限层级 Ramanujan–Arthur 分解，为指定完整有限层级上出现的每个尖点游走参数构造全局 Arthur 增强。作者声称单个代数 SL2 与交换 Weil 中心化子映射通过在整个 Weil 群（包括惯性群）上的对角特殊化恢复给定参数。摘要明确不声称椭圆性、Arthur 包分类或重数公式。",
+    "keyPoints": [
+      "在全局函数域分裂半单群上为尖点游走参数构造全局 Arthur 增强。",
+      "用单个代数 SL2 与交换 Weil 中心化子映射恢复原参数。",
+      "不声称椭圆性、Arthur 包分类或重数公式。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

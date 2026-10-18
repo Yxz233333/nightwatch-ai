@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the ordinary Iitaka subadditivity conjecture for surjective projective morphisms with connected fibers between smooth connected projective varieties over algebraically closed fields of characteristic zero. If F is the geometric generic fiber of $`f:X\\to Z`$, then $`\\kappa(X)\\geq\\kappa(F)+\\kappa(Z)`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Projective Hodge lines and ordinary Iitaka subadditivity",
+  "titleZh": "射影Hodge线与普通Iitaka次可加性",
+  "details": {
+    "overview": "稿件研究代数几何中的Iitaka次可加性猜想。作者声称证明了：对于代数闭域（特征零）上光滑连通射影簇之间的满射射影态射（纤维连通），若F为几何一般纤维，则Kodaira维数满足κ(X) ≥ κ(F) + κ(Z)。该结果若成立，将为高维双有理几何中的纤维化研究提供重要工具，但摘要未给出证明细节，且稿件尚未经独立审查。",
+    "keyPoints": [
+      "研究对象为光滑射影簇间的满射射影态射，纤维连通，基域特征零。",
+      "作者声称证明κ(X) ≥ κ(F) + κ(Z)，即普通Iitaka次可加性。",
+      "结果涉及几何一般纤维的Kodaira维数比较。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

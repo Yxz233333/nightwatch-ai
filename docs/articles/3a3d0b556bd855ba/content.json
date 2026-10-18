@@ -1,7 +1,7 @@
 {
   "id": "3a3d0b556bd855ba",
   "section": "papers",
-  "category": "数学论文",
+  "category": "图论",
   "title": "The strong thin tree conjecture",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-strong-thin-tree-conjecture-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every finite loopless k-edge-connected multigraph on at least two vertices, with k ≥ 1, has a spanning tree meeting each cut in at most $`C/k`$ times the size of the cut, where C is a universal constant. This resolves the strong thin tree conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The strong thin tree conjecture",
+  "titleZh": "强细树猜想",
+  "details": {
+    "overview": "稿件提出证明强细树猜想：每个至少两个顶点的有限无环k边连通多重图（k≥1）都存在一棵生成树，使得该树与任一割的交集大小不超过该割大小的C/k倍，其中C为通用常数。摘要表示这一结果解决了强细树猜想。该猜想属于图论中生成树与割结构关系的研究，若成立将深化对边连通图稀疏子图性质的理解。",
+    "keyPoints": [
+      "研究对象为有限无环k边连通多重图，k≥1且顶点数至少为二。",
+      "作者声称存在生成树，其与每个割的交集不超过割大小的C/k倍。",
+      "摘要表示该结果解决了强细树猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

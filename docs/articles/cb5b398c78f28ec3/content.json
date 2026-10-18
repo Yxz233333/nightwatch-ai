@@ -1,7 +1,7 @@
 {
   "id": "cb5b398c78f28ec3",
   "section": "papers",
-  "category": "数学论文",
+  "category": "泛函分析",
   "title": "A positive solution to Tingley’s problem",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-positive-solution-to-Tingleys-problem-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "Every surjective isometry between the unit spheres of real Banach spaces extends uniquely to a surjective real-linear isometry, giving an affirmative solution to Tingley's problem. If distances between different radii are not preserved, we realize the positive maximal defect in a possibly enlarged pair of Banach spaces. We then align extremal chords using common supports and Darbo's fixed-point theorem and obtain a contradiction from support and convexity estimates.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A positive solution to Tingley’s problem",
+  "titleZh": "Tingley问题的肯定解决",
+  "details": {
+    "overview": "稿件研究实Banach空间单位球面间的满等距映射。作者声称证明了任意两个实Banach空间单位球面间的满等距映射可唯一延拓为满实线性等距，从而肯定解决Tingley问题。若不同半径间距离不被保持，作者在可能扩大的Banach空间对中实现正的最大缺陷，并利用公共支撑、Darbo不动点定理及支撑与凸性估计导出矛盾。摘要未提供完整证明或独立验证。",
+    "keyPoints": [
+      "证明实Banach空间单位球面间的满等距唯一延拓为满实线性等距。",
+      "肯定解决Tingley问题。",
+      "对距离不保持情形，在扩大空间对中实现正最大缺陷并导出矛盾。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "For critical honeycomb self-avoiding walk, we prove spatial exponent 3/4 for the infinite irreducible-bridge law and for bridges of every sufficiently large compatible even length. We establish the corresponding thermal laws at every large discount scale, including all positive length and spatial moments. For unrestricted uniform walks, the endpoint lower law holds on a common set of lengths of natural density one. We also determine the near-critical exponential correlation scale and small-force free-energy exponent, and prove spatial local lower bounds that permit conditioning on a prescribed terminal vertex.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Renewal and changes of law for critical honeycomb walks",
+  "titleZh": "临界蜂窝游走的更新与律变换",
+  "details": {
+    "overview": "稿件研究临界蜂窝自回避游走。作者声称证明无限不可约桥律及每个充分大相容偶长度的桥具有空间指数3/4，并在每个大折扣尺度建立相应热力学律，包括所有正长度与空间矩；对无限制均匀游走，端点下律在自然密度为一的长度集上成立。作者还确定近临界指数相关尺度与小力自由能指数，并证明可条件于指定终点的空间局部下界。属AI产生手稿，未经独立审查。",
+    "keyPoints": [
+      "桥律空间指数为3/4",
+      "建立各折扣尺度的热力学律与矩",
+      "确定近临界相关尺度与小力自由能指数"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

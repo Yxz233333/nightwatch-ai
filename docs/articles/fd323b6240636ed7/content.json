@@ -1,7 +1,7 @@
 {
   "id": "fd323b6240636ed7",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数论与算术几何",
   "title": "The E×CM component of Zilber–Pink for curves in A2",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-E-times-CM-Component-of-Zilber-Pink-for-Curves-in-A2-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the $`E\\times\\mathrm{CM}`$ component of Zilber–Pink for Hodge-generic algebraic curves in $`\\mathcal A_2`$ over $`\\overline{\\mathbb Q}`$. Each such curve contains only finitely many points whose abelian surface is isogenous to a product of elliptic curves with at least one factor having complex multiplication.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The E×CM component of Zilber–Pink for curves in A2",
+  "titleZh": "A²中曲线的Zilber–Pink的E×CM分量",
+  "details": {
+    "overview": "稿件研究模空间A₂上曲线的Zilber–Pink型问题。作者声称证明了：对A₂上定义在Q̄上的Hodge一般代数曲线，其E×CM分量成立，即每条这样的曲线只含有限多个点，使得对应的阿贝尔曲面同源于椭圆曲线之积，且至少一个因子具有复乘。该结果属于算术几何与阿贝尔簇特殊点理论中的有限性研究。",
+    "keyPoints": [
+      "作者声称证明A₂上Hodge一般代数曲线的Zilber–Pink的E×CM分量",
+      "每条此类曲线仅含有限多个对应阿贝尔曲面为E×CM型的点",
+      "研究对象为定义在Q̄上的曲线"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

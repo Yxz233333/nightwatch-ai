@@ -10,5 +10,16 @@
   "abstractEnglish": "We determine the limiting free energy of a spherical perceptron with a bounded continuous activation and a bi-orthogonally invariant disorder matrix. The singular values may have any compact limiting distribution, provided there are no outliers. We give an explicit variational formula for this limit.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The spherical perceptron with bi-orthogonally invariant disorder",
+  "titleZh": "双正交不变无序的球面感知机",
+  "details": {
+    "overview": "该稿件研究具有有界连续激活函数与双正交不变无序矩阵的球面感知机。作者声称确定其极限自由能：奇异值可服从任意紧支撑极限分布，只要没有离群值；并给出该极限的显式变分公式。若成立，可将感知机自由能分析从独立同分布型无序推广到更一般的双正交不变矩阵系综。",
+    "keyPoints": [
+      "研究对象为有界连续激活与双正交不变无序矩阵的球面感知机。",
+      "作者声称确定极限自由能并给出显式变分公式。",
+      "奇异值允许任意紧支撑极限分布，但要求无离群值。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

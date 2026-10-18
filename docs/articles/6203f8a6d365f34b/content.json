@@ -1,7 +1,7 @@
 {
   "id": "6203f8a6d365f34b",
   "section": "papers",
-  "category": "数学论文",
+  "category": "微分几何",
   "title": "A counterexample to integer-degree harmonic dimension comparison",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-counterexample-to-integer-degree-harmonic-dimension-comparison-September-25-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For some even n ≥ 8 and integer k ≥ 2, we construct a complete smooth metric on ℝn with nonnegative Ricci curvature whose space of real harmonic functions of pointwise polynomial growth at most k has dimension larger than the Euclidean harmonic-polynomial dimension. The metric is Euclidean near the origin, has asymptotic volume ratio strictly between zero and one, and has nonunique tangent cones at infinity. This answers the integer-degree form of Yau's dimension comparison question in the negative.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A counterexample to integer-degree harmonic dimension comparison",
+  "titleZh": "整数次调和维数比较的一个反例",
+  "details": {
+    "overview": "该稿件研究 Yau 的调和函数维数比较问题在整数次数下的形式。作者声称对某些偶数 n ≥ 8 与整数 k ≥ 2，构造了 ℝⁿ 上完备光滑、Ricci 曲率非负的度量，使其点态多项式增长不超过 k 的实调和函数空间维数大于欧氏调和多项式维数。摘要还称该度量在原点附近为欧氏、渐近体积比严格介于 0 与 1 之间，且无穷远处切锥不唯一，从而对整数次形式给出否定回答。",
+    "keyPoints": [
+      "构造 Ricci 非负的完备光滑度量，使低次多项式增长调和函数空间维数超过欧氏情形。",
+      "该度量在原点附近为欧氏，渐近体积比严格介于 0 与 1 之间。",
+      "摘要称无穷远处切锥不唯一，并据此否定整数次维数比较。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every smooth connected complex projective Fano sixfold with nef tangent bundle is rational homogeneous, resolving the Campana–Peternell conjecture in complex dimension six. As a consequence, a connected compact Kähler manifold X with nef holomorphic tangent bundle and $`\\dim_{\\mathbb C}X-\\widetilde q(X)\\leq6`$ has ordinary universal cover $`F\\times\\mathbb C^{\\widetilde q(X)}`$, where F is a rational homogeneous manifold and $`\\widetilde q(X)`$ is the maximal irregularity of a connected finite étale cover.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Campana–Peternell conjecture in dimension six",
+  "titleZh": "六维中的Campana–Peternell猜想",
+  "details": {
+    "overview": "该稿件研究复射影Fano流形在切丛为nef时的结构问题。作者声称证明了：每个光滑连通复射影Fano六维流形若切丛nef，则是有理齐性流形，从而在复维数六解决Campana–Peternell猜想。摘要还给出推论：满足nef全纯切丛且复维数减最大不规则度不超过6的紧Kähler流形，其普通万有覆盖为有理齐性流形与复环面的乘积。意义在于把该猜想推进到六维并给出Kähler情形推论，但尚未经独立审查。",
+    "keyPoints": [
+      "作者声称证明六维光滑Fano流形切丛nef即有理齐性，解决该维数猜想。",
+      "推论涉及nef切丛紧Kähler流形，万有覆盖分解为有理齐性流形与复环面乘积。",
+      "稿件为AI生成研究手稿，收录不表示已完成同行评议或独立验证。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

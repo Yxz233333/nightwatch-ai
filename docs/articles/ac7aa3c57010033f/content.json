@@ -1,7 +1,7 @@
 {
   "id": "ac7aa3c57010033f",
   "section": "papers",
-  "category": "数学论文",
+  "category": "计算复杂性与代数算法",
   "title": "One Rational Matrix Hitting Point for Noncommutative Formulas",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/One-Rational-Matrix-Hitting-Point-for-Noncommutative-Formulas-September-24-2026/One-Rational-Matrix-Hitting-Point-for-Noncommutative-Formulas-September-24-2026.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct, in deterministic polynomial bit time, one tuple of rational matrices that detects every nonzero polynomial computed by a noncommutative division-free formula of a prescribed size. The matrices have dimension $`O(ns^2)`$ for n variables and formula size s, and the same tuple works over every field of characteristic zero.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "One Rational Matrix Hitting Point for Noncommutative Formulas",
+  "titleZh": "非交换公式的单一有理矩阵击中点",
+  "details": {
+    "overview": "该稿件研究非交换无除法公式的非零性检测。作者声称在确定性多项式比特时间内构造一组有理矩阵，能检测给定规模非交换无除法公式计算出的每个非零多项式；矩阵维数为O(ns^2)，其中n为变量数、s为公式规模，且同一组矩阵在任意特征零域上均有效。若成立，将为非交换计算模型提供统一的恒等测试工具。",
+    "keyPoints": [
+      "构造一组有理矩阵，可检测非交换无除法公式的非零多项式。",
+      "矩阵维数为O(ns^2)，构造时间为确定性多项式比特时间。",
+      "同一矩阵组在任意特征零域上通用。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

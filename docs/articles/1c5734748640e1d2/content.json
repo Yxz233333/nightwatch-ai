@@ -10,5 +10,16 @@
   "abstractEnglish": "Let $`\\mathop{\\mathrm{IMM}}\\nolimits _{n,n}`$ be the $`(1,1)`$ entry of a product of n independent $`n\\times n`$ matrices of variables. Over every field of characteristic zero, every syntactically homogeneous $`\\Sigma\\Pi\\Sigma\\Pi\\Sigma`$ circuit computing $`\\mathop{\\mathrm{IMM}}\\nolimits _{n,n}`$ has at least $`n^{\\sqrt n/400}`$ gates for all sufficiently large n, with an absolute threshold independent of the field. Bottom linear forms may have arbitrary support, and arbitrary finite fan-in, fan-out, and gate sharing are allowed. Over every field, a block expansion gives such circuits with at most $`n^{\\sqrt n+4}`$ gates for n ≥ 2. Thus the gate complexity over characteristic-zero fields is $`n^{\\Theta(\\sqrt n)}`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Homogeneous depth-five lower bounds for iterated matrix multiplication",
+  "titleZh": "迭代矩阵乘法的齐次深度五下界",
+  "details": {
+    "overview": "该稿件研究迭代矩阵乘法IMM_{n,n}在齐次深度五算术电路中的门复杂度。作者声称：在任意特征零域上，每个语法齐次ΣΠΣΠΣ电路计算IMM_{n,n}至少需要n^{√n/400}个门（n充分大，阈值与域无关）；底层线性形式可任意支撑，允许任意有限扇入、扇出与门共享。摘要还称在任意域上块展开给出至多n^{√n+4}个门的电路，故特征零域上门复杂度为n^{Θ(√n)}。意义在于给出接近紧的深度五下界，但尚未经独立审查。",
+    "keyPoints": [
+      "作者声称特征零域上齐次深度五电路计算IMM_{n,n}至少需n^{√n/400}个门。",
+      "下界允许底层线性形式任意支撑及任意有限扇入、扇出和门共享。",
+      "摘要称任意域上存在至多n^{√n+4}门的电路，故复杂度为n^{Θ(√n)}。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

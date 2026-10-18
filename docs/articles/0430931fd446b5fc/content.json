@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove uniform denominator and effective-system bounds for log Calabi-Yau fibrations from projective log canonical complex pairs of dimension at most four onto positive-dimensional bases, with boundary coefficients in a fixed finite rational set. The bounds give a uniform trivializing degree and a uniform b-Cartier multiple of the moduli b-divisor. When the base divisor is big, a uniform complete rounded adjoint system has section ratios generating the full base function field.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Relative denominators and effective systems for log Calabi-Yau fibrations",
+  "titleZh": "对数卡拉比–丘纤维化的相对分母与有效系统",
+  "details": {
+    "overview": "该稿件研究维数至多四、边界系数取自固定有限有理数集的射影对数典范复对到正维基底的纤维化。摘要表示，作者证明一致的分母界与有效系统界，给出统一平凡化次数和模双除子的统一 b-Cartier 倍数；当基底除子丰大时，一个统一完整圆整伴随系统的截面比生成整个基底函数域。",
+    "keyPoints": [
+      "研究维数至多四的对数卡拉比–丘纤维化的一致分母与有效系统界。",
+      "给出统一平凡化次数和模双除子的统一 b-Cartier 倍数。",
+      "基底除子丰大时，圆整伴随系统的截面比生成基底函数域。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "4f7929b0fbc7bebb",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何群论",
   "title": "A universal group of type F∞",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-universal-group-of-type-F-infinity-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a single group of type F∞ containing every finitely presented group. Its finitely generated subgroups, up to isomorphism, are exactly the finitely generated recursively presented groups. This answers the F∞ form of the higher-dimensional Higman embedding question.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A universal group of type F∞",
+  "titleZh": "一个通用的F∞型群",
+  "details": {
+    "overview": "稿件构造了一个单一的F∞型群，作者声称它包含每个有限呈现群，且其有限生成子群在同构意义下恰好是所有有限生成递归呈现群。摘要表示这回答了Higman嵌入问题的F∞形式。该结果属于几何群论与可计算群论，若成立将统一嵌入有限呈现群与递归呈现群的框架；但作为AI产生的研究手稿，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "构造单一F∞型群，作者声称包含每个有限呈现群",
+      "其有限生成子群同构类恰为有限生成递归呈现群",
+      "摘要表示回答Higman嵌入问题的F∞形式"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "Starting from the complete graph on n vertices, repeatedly remove the three edges of a uniformly chosen remaining triangle. We prove that the number of edges left at termination, divided by n3/2, converges in L2 to $`1/(2\\sqrt2)`$. This proves the triangle case of the sharp-constant conjecture of Joos and Kühn. In particular, the same limit holds in probability and for the normalized expectation.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The sharp terminal leave in random triangle removal",
+  "titleZh": "随机三角形移除中的精确终端剩余边数",
+  "details": {
+    "overview": "该稿件研究从完全图开始，反复随机移除剩余三角形三条边的过程。作者声称证明了终止时剩余边数除以n^{3/2}在L2中收敛到1/(2√2)，从而证明了Joos和Kühn的精确常数猜想在三角形情形下的正确性。摘要表示该结果也意味着依概率收敛和归一化期望的相同极限。研究意义在于为随机图删除过程的终端行为提供了精确的常数刻画。",
+    "keyPoints": [
+      "过程从n个顶点的完全图开始，每次均匀随机选择一个剩余三角形并移除其三条边。",
+      "作者声称剩余边数除以n^{3/2}在L2中收敛到常数1/(2√2)。",
+      "该结果证明了Joos和Kühn精确常数猜想的三角形情形，并蕴含依概率收敛和期望收敛。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

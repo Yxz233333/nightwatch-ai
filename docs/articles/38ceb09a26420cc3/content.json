@@ -1,7 +1,7 @@
 {
   "id": "38ceb09a26420cc3",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论与数学物理",
   "title": "The Mézard–Parisi formula for diluted spin glasses",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-Mezard-Parisi-formula-for-diluted-spin-glasses-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Mézard–Parisi hierarchical cavity formula for diluted even-arity Ising models in the Panchenko–Talagrand class. This resolves the variational equality conjecture for that class: the limiting pressure equals the infimum of the trial functional over all finite hierarchy depths and trial laws. Only first moments of the interaction and external field are required.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Mézard–Parisi formula for diluted spin glasses",
+  "titleZh": "稀释自旋玻璃的Mézard–Parisi公式",
+  "details": {
+    "overview": "稿件针对Panchenko–Talagrand类中的稀释偶数元Ising模型，证明Mézard–Parisi分层空腔公式。摘要表示这解决了该类的变分等式猜想：极限压强等于在所有有限层级深度和试验律上试验泛函的下确界，且仅需相互作用与外场的一阶矩。该结果若成立，将为稀释自旋玻璃的平均场理论提供严格数学基础。",
+    "keyPoints": [
+      "研究对象是Panchenko–Talagrand类中的稀释偶数元Ising模型。",
+      "作者声称证明Mézard–Parisi分层空腔公式并解决变分等式猜想。",
+      "结果仅要求相互作用和外场的一阶矩。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

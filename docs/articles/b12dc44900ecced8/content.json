@@ -1,7 +1,7 @@
 {
   "id": "b12dc44900ecced8",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数理逻辑与集合论",
   "title": "The Partition Principle does not imply Choice",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-Partition-Principle-does-not-imply-Choice-September-24-2026/partition-principle-without-choice.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the Partition Principle does not imply the Axiom of Choice: if ZF is consistent, then so is ZF with the Partition Principle, Choice for ordinal-indexed families, and the negation of the Axiom of Choice. Separately, over every countable transitive model of ZFC, we construct a transitive symmetric model of this theory with the same ordinals and no new countable sequences of ground elements.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Partition Principle does not imply Choice",
+  "titleZh": "分拆原则不蕴含选择公理",
+  "details": {
+    "overview": "该稿件研究集合论中分拆原则与选择公理的关系。作者声称证明：若ZF相容，则ZF加上分拆原则、序数索引族的选择以及选择公理的否定仍相容，即分拆原则不能推出选择公理；此外，在每个ZFC的可数传递模型上构造了具有相同序数、且不新增基元素可数序列的传递对称模型。若成立，将厘清分拆原则在选择公理体系中的强度地位。",
+    "keyPoints": [
+      "作者声称分拆原则与选择公理否定可同时相容，从而分拆原则不蕴含选择。",
+      "构造的对称模型保持原模型序数且不引入新的基元素可数序列。",
+      "结果依赖ZF相容性假设，属相对相容性结论。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "ac887038ae9301ab",
   "section": "papers",
-  "category": "数学论文",
+  "category": "量子信息与计算复杂性",
   "title": "QMA-hardness of continuum Coulomb energy with unit nuclear charges",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/QMA-hardness-of-continuum-Coulomb-energy-with-unit-nuclear-charges-September-24-2026/QMA-hardness-of-continuum-Coulomb-energy-with-unit-nuclear-charges-September-24-2026.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that approximating the electronic ground-energy infimum for clamped unit-charge nuclei is QMA-hard on the full spinful fermionic continuum space. A deterministic classical polynomial-time reduction produces polynomially many nuclei at distinct rational positions and polynomially many electrons, with polynomial rational bit lengths and threshold separation at least one. No orbital basis, magnetic field, or additional external potential is supplied, and no binding assumption is imposed.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "QMA-hardness of continuum Coulomb energy with unit nuclear charges",
+  "titleZh": "单位核电荷连续库仑能量的QMA困难性",
+  "details": {
+    "overview": "该稿件研究连续空间中固定单位电荷原子核的电子基态能量近似问题。作者声称在完整自旋费米子连续空间上，该问题近似求解是QMA困难的；并给出确定性经典多项式时间归约，产生多项式多个位于不同有理位置的单位电荷核与多项式多个电子，具有多项式有理比特长度且阈值间隔至少为一。摘要强调不提供轨道基、磁场或额外外势，也不假设束缚。若成立，将强化量子多体问题的计算复杂性认识。",
+    "keyPoints": [
+      "作者声称单位核电荷连续库仑基态能量近似为QMA困难。",
+      "归约产生多项式规模的有理位置核与电子，阈值间隔至少一。",
+      "不假设轨道基、磁场、外势或束缚条件。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

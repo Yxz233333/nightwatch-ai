@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the rational Hodge and generalized Hodge conjectures in every cohomological degree of every self-power of a projective complex K3 surface whose transcendental quadratic space, with its cup-product form, admits a rational isometric embedding in $`\\mathbb U_{\\mathbb Q}^{\\oplus2}\\perp\\langle-1\\rangle^4`$. This includes every ample P-polarized K3 surface, including all Picard jumps, for $`P=\\mathbb U\\oplus D_8(-1)\\oplus D_4(-1)`$. On this locus we construct algebraic correspondences inducing every prescribed standard even-Clifford Kuga–Satake tensor. More generally, for any projective complex K3 surface, algebraicity of one exact standard even-Clifford Kuga–Satake tensor implies both conjectures for every self-power.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Algebraic Kuga–Satake correspondences and Hodge conjectures on a K3 quadratic locus",
+  "titleZh": "代数 Kuga–Satake 对应与 K3 二次轨迹上的 Hodge 猜想",
+  "details": {
+    "overview": "该稿件研究射影复 K3 曲面自幂的 Hodge 猜想。作者声称，对超越二次空间（配杯积形式）可有理等距嵌入 U_Q^{⊕2}⊥⟨−1⟩^4 的 K3 曲面，证明了其每个自幂在每个上同调次数上的有理 Hodge 猜想与广义 Hodge 猜想；该轨迹包含 P=U⊕D_8(−1)⊕D_4(−1) 的所有丰沛 P-极化 K3 曲面及全部 Picard 跳跃。作者还在该轨迹上构造代数对应，实现任意指定的标准偶 Clifford Kuga–Satake 张量，并称对一般 K3 曲面，一个精确标准张量的代数性可推出所有自幂的两个猜想。这是 AI 产生的手稿，未经独立审查。",
+    "keyPoints": [
+      "作者声称在特定二次轨迹上证明 K3 曲面自幂各次上同调的 Hodge 猜想。",
+      "该轨迹涵盖 P=U⊕D_8(−1)⊕D_4(−1) 的全部丰沛极化 K3 曲面。",
+      "构造代数对应实现标准偶 Clifford Kuga–Satake 张量。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

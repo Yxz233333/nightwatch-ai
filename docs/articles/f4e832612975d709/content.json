@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a contractible domain in complex dimension three with a complete Kähler metric whose real sectional curvatures lie between two finite negative constants. It admits no bounded holomorphic map to ℂ3 with nowhere-vanishing Jacobian and is therefore not biholomorphic to a bounded domain. This gives a negative answer to the negatively pinched Kähler uniformization question.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A negatively pinched Kähler threefold without bounded holomorphic coordinates",
+  "titleZh": "一个没有有界全纯坐标的负拼挤Kähler三维流形",
+  "details": {
+    "overview": "稿件构造了复三维中的一个可缩区域，配备完备Kähler度量，其实截面曲率介于两个有限负常数之间。该区域不存在到ℂ3的有界全纯映射且雅可比处处非零，因此不双全纯于有界域。这为负拼挤Kähler单值化问题给出了否定回答。",
+    "keyPoints": [
+      "构造复三维可缩区域，具有完备Kähler度量且实截面曲率负拼挤。",
+      "该区域不存在到ℂ3的有界全纯映射且雅可比非零。",
+      "否定负拼挤Kähler单值化问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

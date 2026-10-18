@@ -10,5 +10,16 @@
   "abstractEnglish": "For $`N=2^d`$ cards, we prove that an absolute number of coordinate sweeps of the Thorp shuffle brings the full permutation law to total-variation distance tending to zero from uniform. The mixing time therefore has optimal order $`\\Theta(\\log N)`$ in physical shuffles.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Routing densities and representation contraction for Thorp sweeps",
+  "titleZh": "Thorp扫描的路由密度与表示收缩",
+  "details": {
+    "overview": "稿件研究N=2^d张牌上Thorp洗牌的混合时间。作者声称，绝对常数次坐标扫描即可使完整置换律与均匀分布的全变差距离趋于零，因此物理洗牌下的混合时间为最优阶Θ(log N)。摘要给出的是上界与下界匹配的声称，未说明证明技术细节或独立验证情况。",
+    "keyPoints": [
+      "绝对常数次坐标扫描使全变差距离趋于零。",
+      "物理洗牌混合时间为Θ(log N)，阶数最优。",
+      "研究对象为N=2^d张牌上的Thorp洗牌。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

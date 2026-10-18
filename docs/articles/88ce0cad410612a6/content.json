@@ -10,5 +10,15 @@
   "abstractEnglish": "We prove Fujita's freeness conjecture. If X is a smooth complex projective variety of dimension n and L is an ample line bundle, then $`K_X+mL`$ is globally generated for every integer $`m\\geq n+1`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Fujita's freeness conjecture",
+  "titleZh": "Fujita自由性猜想",
+  "details": {
+    "overview": "稿件研究光滑复射影簇X（维数n）上的丰沛线丛L，证明K_X+mL对每个整数m≥n+1全局生成。摘要表示，这证明了Fujita自由性猜想。该结果属于代数几何中的正性理论，若成立将给出伴随线丛全局生成的一般维数界。",
+    "keyPoints": [
+      "证明K_X+mL对m≥n+1全局生成。",
+      "解决Fujita自由性猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

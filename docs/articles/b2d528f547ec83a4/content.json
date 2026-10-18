@@ -1,7 +1,7 @@
 {
   "id": "b2d528f547ec83a4",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数论与算术几何",
   "title": "Equidistribution of primitive quartic torus packets for arbitrary orders",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Equidistribution-of-Primitive-Quartic-Torus-Packets-for-Arbitrary-Orders-October-5-2026/quartic-torus-packets.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "Let K range over totally real quartic fields with no proper intermediate field, and let $`\\mathcal O`$ be any order in K. We prove that the packets of periodic diagonal orbits attached to invertible $`\\mathcal O`$-ideal classes, weighted by orbit volume, equidistribute with no escape of mass as $`|\\mathop{\\mathrm{Disc}}\\nolimits (\\mathcal O)|`$ tends to infinity. The proof combines measure rigidity with a cubic-resolvent estimate that remains uniform at primes dividing the order index.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Equidistribution of primitive quartic torus packets for arbitrary orders",
+  "titleZh": "任意阶本原四次环面丛的等分布",
+  "details": {
+    "overview": "稿件研究全实四次域中任意阶的本原四次环面丛的等分布。作者声称：当K取遍无真中间域的全实四次域、O为K中任意阶时，附着于可逆O理想类的周期对角轨道丛按轨道体积加权，在|Disc(O)|趋于无穷时等分布且无质量逃逸。摘要表示证明结合测度刚性，以及在整除阶指数的素数处保持一致的三次预解式估计。",
+    "keyPoints": [
+      "对象为无真中间域的全实四次域中任意阶O的周期对角轨道丛",
+      "按轨道体积加权，在|Disc(O)|趋于无穷时等分布且无质量逃逸",
+      "证明结合测度刚性与在整除阶指数素数处一致的三次预解式估计"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

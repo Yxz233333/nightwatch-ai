@@ -10,5 +10,16 @@
   "abstractEnglish": "We give a negative answer to Wall's finite $`D(2)`$ problem. We construct a finite connected three-dimensional CW complex satisfying the $`D(2)`$ finiteness condition but not homotopy equivalent to any finite CW complex of dimension at most two. The example has infinite fundamental group.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Counterexample to Wall's D(2) Problem",
+  "titleZh": "Wall D(2)问题的一个反例",
+  "details": {
+    "overview": "稿件研究Wall的有限D(2)问题。作者声称给出否定回答：构造了一个有限连通三维CW复形，它满足D(2)有限性条件，但不同伦等价于任何维数至多2的有限CW复形。摘要表示该例子具有无限基本群。该结果的意义在于否定Wall关于D(2)条件下可约化到低维的猜测；但稿件尚未经独立审查，摘要未说明构造方法与验证细节，也未讨论该反例对相关同伦维数问题的进一步影响。",
+    "keyPoints": [
+      "作者声称对Wall有限D(2)问题给出否定回答。",
+      "构造的有限连通三维CW复形满足D(2)条件但不同伦于≤2维有限CW复形。",
+      "该反例的基本群为无限群，摘要未给出构造细节。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

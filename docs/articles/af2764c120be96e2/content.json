@@ -10,5 +10,16 @@
   "abstractEnglish": "For a prime p chosen uniformly from $`3\\le p\\le x`$, list the prime factors of $`p-1`$ in decreasing order, with multiplicity. As $`x\\to\\infty`$, their logarithms, divided by $`\\log(p-1)`$, converge in every finite joint distribution to the Poisson–Dirichlet distribution with parameter one. This proves the conjecture of Ford, Konyagin and Luca.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Poisson-Dirichlet law for prime predecessors",
+  "titleZh": "素数前驱的Poisson-Dirichlet律",
+  "details": {
+    "overview": "该稿件研究素数p−1的素因子分布。对从3到x均匀选取的素数p，将p−1的素因子按降序带重数列出；作者声称当x趋于无穷时，这些因子的对数除以log(p−1)在所有有限联合分布上收敛到参数为1的Poisson–Dirichlet分布。摘要称这证明了Ford、Konyagin与Luca的猜想。若成立，将揭示素数前驱因子结构的统计规律。",
+    "keyPoints": [
+      "研究对象为均匀选取素数p的p−1的素因子降序排列。",
+      "作者声称对数归一化后有限维分布收敛到参数1的Poisson–Dirichlet律。",
+      "摘要称该结果证明Ford–Konyagin–Luca猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

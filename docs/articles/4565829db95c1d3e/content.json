@@ -1,7 +1,7 @@
 {
   "id": "4565829db95c1d3e",
   "section": "papers",
-  "category": "组合数学与图论",
+  "category": "代数拓扑",
   "title": "Counterexamples to weak chromatic splitting: sphere kernels and descent exponents",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Counterexamples-to-weak-chromatic-splitting-sphere-kernels-and-descent-exponents-September-27-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For the derived p-completion of the sphere, the canonical weak chromatic splitting map has no homotopy retraction at height p for every prime p ≥ 5, and at height $`p+1`$ for every prime p ≥ 7. The classical sphere product $`\\beta_1^{(p-1)^2}`$ gives a nonzero kernel class in both ranges.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Counterexamples to weak chromatic splitting: sphere kernels and descent exponents",
+  "titleZh": "弱色分裂的反例：球核与下降指数",
+  "details": {
+    "overview": "稿件研究球谱的导出p-完备化中的弱色分裂映射。作者声称对每个素数p≥5，在高度p处该映射没有同伦收缩；对每个素数p≥7，在高度p+1处也没有。经典球积β₁^{(p-1)²}在两个范围内给出非零核类。这些反例涉及稳定同伦论中的色分裂问题，摘要未提供构造细节，稿件尚未经同行评议。",
+    "keyPoints": [
+      "研究球谱导出p-完备化中弱色分裂映射的同伦收缩。",
+      "作者声称在高度p（p≥5）和p+1（p≥7）处无同伦收缩。",
+      "经典球积β₁^{(p-1)²}给出非零核类。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

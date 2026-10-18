@@ -10,5 +10,16 @@
   "abstractEnglish": "Let X be a smooth projective complex threefold with trivial canonical bundle. We construct numerical Bridgeland stability conditions with the exact ordinary and square-root-Todd central charges at every sufficiently large volume. One volume threshold works on an open set of real twists and ample directions. The resulting stability conditions have the support property on the full numerical Grothendieck group and stable point sheaves. Separately, on every smooth projective complex threefold we prove a strong tilt inequality above a volume threshold uniform in the object and twist along a fixed polarization.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Prescribed large-volume charges on threefolds with trivial canonical bundle",
+  "titleZh": "平凡典范丛三维簇上的指定大体积电荷",
+  "details": {
+    "overview": "稿件研究光滑射影复三维簇上数值Bridgeland稳定性条件的构造。摘要声称，对平凡典范丛的三维簇X，在任意足够大体积下构造具有精确普通和平方根Todd中心电荷的稳定性条件，一个体积阈值适用于实扭曲和丰沛方向的开集；所得稳定性条件在完整数值Grothendieck群上具有支撑性质，且稳定点层。另外，对每个光滑射影复三维簇，证明在固定极化下沿对象和扭曲一致体积阈值以上的强倾斜不等式。研究意义在于推进高维稳定性条件理论，但手稿为AI产生，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "对平凡典范丛三维簇，在足够大体积下构造具有精确中心电荷的数值Bridgeland稳定性条件。",
+      "所得稳定性条件在完整数值Grothendieck群上具有支撑性质，且稳定点层。",
+      "对每个光滑射影复三维簇，证明固定极化下一致体积阈值以上的强倾斜不等式。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

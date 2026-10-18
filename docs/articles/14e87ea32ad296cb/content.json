@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Kirchberg–Rørdam character criterion: for every free ultrafilter on ℕ, a nonzero unital separable complex C∗-algebra absorbs the Jiang–Su algebra if and only if its norm central-sequence algebra has no characters. We also prove that the infinite minimal tensor power of every nonzero unital separable complex C∗-algebra without characters is $`\\mathcal Z`$-stable and contains a unital copy of $`\\mathcal Z`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Kirchberg–Rørdam character criterion",
+  "titleZh": "Kirchberg–Rørdam特征标准则",
+  "details": {
+    "overview": "该稿件研究可分C∗-代数吸收Jiang–Su代数𝒵的特征标刻画。作者声称证明Kirchberg–Rørdam特征标准则：对ℕ上每个自由超滤子，非零单位可分复C∗-代数吸收𝒵当且仅当其范数中心序列代数没有特征标。摘要还称每个无特征标的非零单位可分复C∗-代数的无限极小张量幂是𝒵稳定的，并包含𝒵的单位拷贝。意义在于给出𝒵稳定性的特征标判据并推出张量幂结论，但结果尚未经独立审查。",
+    "keyPoints": [
+      "作者声称对每个自由超滤子，非零单位可分复C∗-代数吸收𝒵当且仅当范数中心序列代数无特征标。",
+      "摘要称无特征标代数的无限极小张量幂是𝒵稳定的。",
+      "该张量幂还包含Jiang–Su代数𝒵的单位拷贝。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

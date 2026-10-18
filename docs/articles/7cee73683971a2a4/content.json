@@ -1,7 +1,7 @@
 {
   "id": "7cee73683971a2a4",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何群论",
   "title": "A torsion-free hyperbolic group that is not residually finite",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/a-torsion-free-hyperbolic-group-that-is-not-residually-finite-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a torsion-free word-hyperbolic group that is not residually finite, answering the residual-finiteness question for hyperbolic groups negatively.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A torsion-free hyperbolic group that is not residually finite",
+  "titleZh": "一个非剩余有限的无挠双曲群",
+  "details": {
+    "overview": "该稿件构造了一个无挠的字双曲群，并声称它不是剩余有限的，从而对双曲群的剩余有限性问题给出否定回答。研究对象属于几何群论中的双曲群与剩余有限性。摘要仅给出构造与否定结论，未展开构造细节或验证方式；该手稿为AI产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "构造无挠字双曲群作为反例",
+      "声称该群不是剩余有限的",
+      "否定双曲群剩余有限性的一般问题"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

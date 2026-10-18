@@ -1,7 +1,7 @@
 {
   "id": "d14bba660a347200",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论与随机过程",
   "title": "An exact Hausdorff gauge for SLE",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/An-exact-Hausdorff-gauge-for-SLE-September-25-2026/An-exact-Hausdorff-gauge-for-SLE-September-25-2026.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For each $`0\\lt \\kappa\\lt 8`$, we construct a deterministic Hausdorff gauge that almost surely assigns positive finite measure to every nontrivial compact positive-time segment of chordal Schramm–Loewner evolution. This answers Schramm's Hausdorff-measure existence problem in this parameter range. The entire trace has finite expected gauge measure in each bounded box.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An exact Hausdorff gauge for SLE",
+  "titleZh": "SLE的一个精确Hausdorff规范",
+  "details": {
+    "overview": "该稿件研究弦Schramm–Loewner演化（SLE）的Hausdorff测度存在性问题。作者声称：对每个0<κ<8，构造一个确定性Hausdorff规范，几乎必然给SLE的每个非平凡紧正时间段赋予正有限测度，从而在该参数范围回答Schramm的Hausdorff测度存在问题。摘要还表示，整条迹在每个有界盒中具有有限期望规范测度。",
+    "keyPoints": [
+      "对每个0<κ<8构造确定性Hausdorff规范",
+      "几乎必然给每个非平凡紧正时间段正有限测度",
+      "整条迹在每个有界盒中具有有限期望规范测度"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "b5fffd6a9bfb7bc9",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论与统计物理",
   "title": "A spectral gap throughout the high-temperature Sherrington–Kirkpatrick phase",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-spectral-gap-throughout-the-high-temperature-Sherrington-Kirkpatrick-phase-September-24-2026/main.pdf",
@@ -10,5 +10,15 @@
   "abstractEnglish": "For every fixed inverse temperature $`0\\lt \\beta\\lt 1`$, we prove that the unscaled spectral gap of single-site heat-bath dynamics for the zero-field Gaussian Sherrington–Kirkpatrick model is bounded away from zero with probability tending to one over the disorder. Equivalently, the Gibbs law satisfies a dimension-free Poincaré inequality for all functions.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A spectral gap throughout the high-temperature Sherrington–Kirkpatrick phase",
+  "titleZh": "高温Sherrington–Kirkpatrick相中的谱隙",
+  "details": {
+    "overview": "稿件研究零场高斯Sherrington–Kirkpatrick模型在高温相（0<β<1）的单点热浴动力学。作者声称对每个固定0<β<1，未缩放谱隙以趋于1的概率在无序上远离零，等价地Gibbs测度对所有函数满足无量纲Poincaré不等式。该结果对自旋玻璃模型的高温混合性质提供了数学依据。摘要未说明证明细节。",
+    "keyPoints": [
+      "对每个固定0<β<1，单点热浴动力学的未缩放谱隙远离零。",
+      "等价于Gibbs测度满足无量纲Poincaré不等式。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

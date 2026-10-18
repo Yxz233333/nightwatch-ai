@@ -1,7 +1,7 @@
 {
   "id": "34ca6adb7f07ea43",
   "section": "papers",
-  "category": "数学论文",
+  "category": "粗几何与指标理论",
   "title": "A counterexample to the coarse Novikov conjecture",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-counterexample-to-the-coarse-Novikov-conjecture-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We disprove the coarse Novikov conjecture: ordinary coarse assembly need not be rationally injective for uniformly discrete spaces of bounded geometry. We construct a coarse disjoint union of finite graphs of uniformly bounded degree and an infinite-order class in its degree-one coarse K-homology whose image under ordinary coarse assembly in the K-theory of the reduced, locally compact Roe algebra vanishes.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A counterexample to the coarse Novikov conjecture",
+  "titleZh": "粗Novikov猜想的反例",
+  "details": {
+    "overview": "稿件否定粗Novikov猜想：摘要称对一致离散的有界几何空间，普通粗装配不必有理单射。作者构造有限图的粗不交并（度一致有界），并在其一次粗K同调中给出一个无限阶类，该类的像在约化局部紧Roe代数的K理论中经普通粗装配后为零。该结果若成立将对粗几何与指标理论中的Novikov型问题产生重大影响。",
+    "keyPoints": [
+      "构造度一致有界的有限图粗不交并作为反例空间。",
+      "给出一次粗K同调中的无限阶类，其粗装配像为零。",
+      "作者声称这否定粗Novikov猜想中有理单射性的一般陈述。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

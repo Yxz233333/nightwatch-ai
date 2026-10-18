@@ -1,7 +1,7 @@
 {
   "id": "27af8d236d21c45f",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数几何",
   "title": "The normalized-volume gap in dimension four",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-normalized-volume-gap-in-dimension-four-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every singular complex algebraic klt fourfold germ with zero boundary has normalized volume at most 162, with equality precisely for an analytic ordinary double point. This resolves the ordinary-double-point volume-gap conjecture in dimension four.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The normalized-volume gap in dimension four",
+  "titleZh": "四维中的正规化体积间隙",
+  "details": {
+    "overview": "稿件研究四维中边界为零的奇异复代数klt芽。摘要声称证明其正规化体积至多为162，且等号恰在解析普通二重点处取得，从而解决四维的普通二重点体积间隙猜想。该结果涉及极小模型纲领中的体积不变量与奇点分类；材料未给出证明思路、构造细节或独立验证信息。",
+    "keyPoints": [
+      "对象为四维零边界奇异复代数klt芽。",
+      "声称正规化体积上界为162，等号仅在解析普通二重点取得。",
+      "据此声称解决四维普通二重点体积间隙猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

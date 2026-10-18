@@ -1,7 +1,7 @@
 {
   "id": "ddb7a8d0267c7e40",
   "section": "papers",
-  "category": "数学论文",
+  "category": "计算复杂性理论",
   "title": "Existential–universal real sentences in the counting hierarchy",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Existential-universal-real-sentences-in-the-counting-hierarchy-October-4-2026/etr-counting-hierarchy.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the existential theory of the reals lies in the counting hierarchy. More generally, we show that the truth of existential–universal sentences over the reals can be decided in a fixed level of the counting hierarchy, even when the integer polynomials are given by arithmetic circuits.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Existential–universal real sentences in the counting hierarchy",
+  "titleZh": "计数层级中的存在-全称实数语句",
+  "details": {
+    "overview": "稿件研究实数存在理论及其更一般的存在-全称语句的判定复杂性。摘要声称，实数存在理论属于计数层级，并且存在-全称实数语句的真值可在计数层级的某一固定层内判定，即使整数多项式由算术电路给出。研究意义在于把实数语句判定问题定位到计数层级这一复杂性类中，并覆盖算术电路表示多项式的情形。",
+    "keyPoints": [
+      "声称实数存在理论位于计数层级内",
+      "存在-全称实数语句可在计数层级固定层判定",
+      "多项式可由算术电路给出时结论仍成立"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

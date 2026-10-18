@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a separable reflexive real Banach space whose given norm is asymptotically midpoint uniformly convex but which admits no asymptotically uniformly convex equivalent norm. Its averaged midpoint modulus is at least $`\\sqrt{1+t^2/12}-1`$, and the countably branching diamond of depth k has distortion at least $`\\sqrt{1+k/12}`$ in this space. This gives a negative answer to the reflexive diamond converse for asymptotic uniform convexifiability.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Asymptotic midpoint uniform convexity and unbounded diamond distortion in a reflexive tree space",
+  "titleZh": "自反树空间中的渐近中点一致凸性与无界菱形扭曲",
+  "details": {
+    "overview": "该稿件构造一个可分自反实巴拿赫空间，摘要表示其给定范数是渐近中点一致凸的，但不存在等价的渐近一致凸范数。其平均中点模至少为 sqrt(1+t^2/12)-1，深度为 k 的可数分叉菱形在该空间中的扭曲至少为 sqrt(1+k/12)。作者据此对渐近一致凸化问题的自反菱形逆命题给出否定回答。",
+    "keyPoints": [
+      "构造给定范数渐近中点一致凸但无等价渐近一致凸范数的可分自反空间。",
+      "平均中点模至少为 sqrt(1+t^2/12)-1。",
+      "深度 k 的可数分叉菱形扭曲至少为 sqrt(1+k/12)。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

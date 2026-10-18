@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the sixth-symmetric-power case of Foulkes' conjecture. For every integer b ≥ 6 and every finite-dimensional complex vector space V, there is a $`\\mathop{\\mathrm{GL}}\\nolimits (V)`$-equivariant injection $`\\mathop{\\mathrm{Sym}}\\nolimits ^6(\\mathop{\\mathrm{Sym}}\\nolimits ^b V)\\hookrightarrow\\mathop{\\mathrm{Sym}}\\nolimits ^b(\\mathop{\\mathrm{Sym}}\\nolimits ^6 V)`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Foulkes' conjecture for the sixth symmetric power",
+  "titleZh": "第六对称幂的Foulkes猜想",
+  "details": {
+    "overview": "该稿件研究Foulkes猜想在第六对称幂情形下的成立性。作者声称对每个整数b≥6和每个有限维复向量空间V，存在GL(V)-等变单射Sym⁶(Sym^b V) → Sym^b(Sym⁶ V)，从而证明Foulkes猜想的第六对称幂情形。若成立，这推进了该表示论与组合学中长期公开的猜想，为其特定指数情形提供等变嵌入。",
+    "keyPoints": [
+      "研究对象为Foulkes猜想在第六对称幂情形的等变嵌入",
+      "作者声称对每个b≥6和有限维复向量空间V存在GL(V)-等变单射",
+      "证明Sym⁶(Sym^b V)嵌入Sym^b(Sym⁶ V)，即第六对称幂情形"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

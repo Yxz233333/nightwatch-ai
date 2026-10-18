@@ -10,5 +10,16 @@
   "abstractEnglish": "Every connected complete smooth Riemannian three-manifold without boundary satisfying $`-4\\Delta+\\mathop{\\mathrm{Scal}}\\nolimits \\ge\\lambda\\gt 0`$ as a quadratic-form inequality admits a continuous map to a graph whose entire fibers have diameter at most $`500/\\sqrt\\lambda`$ in the original metric. No orientability, spin, compactness, or bounded-geometry assumption is required.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Spectral scalar curvature and Urysohn width in dimension three",
+  "titleZh": "三维谱标量曲率与Urysohn宽度",
+  "details": {
+    "overview": "该稿件研究三维完备连通无边光滑黎曼流形在谱标量曲率条件下到图的连续映射。作者声称，若 −4Δ+Scal ≥ λ>0 作为二次型不等式成立，则存在到图的连续映射，其所有纤维在原度量下直径至多 500/√λ。摘要表示无需可定向性、自旋、紧性或有界几何假设。该结果若成立，将把谱标量曲率下界与Urysohn宽度型拓扑结论联系起来；但稿件为AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为满足 −4Δ+Scal ≥ λ>0 的三维完备黎曼流形。",
+      "作者声称存在到图的连续映射，纤维直径至多 500/√λ。",
+      "结论不要求可定向、自旋、紧性或任何有界几何假设。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

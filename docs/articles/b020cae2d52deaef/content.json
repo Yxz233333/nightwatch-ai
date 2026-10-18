@@ -1,7 +1,7 @@
 {
   "id": "b020cae2d52deaef",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何与拓扑",
   "title": "Positive scalar curvature and uniform codimension-two width",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Positive-scalar-curvature-and-uniform-codimension-two-width-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the quantitative continuous form of Gromov's scalar-curvature conjecture in every dimension n ≥ 4. Every complete connected smooth boundaryless n-manifold with scalar curvature at least one admits a continuous map to a simplicial complex of dimension at most $`n-2`$ whose entire fibers have diameter bounded only in terms of n. We also obtain the continuous macroscopic-dimension conclusion for universal covers of closed manifolds with positive scalar curvature in every dimension n ≥ 2.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Positive scalar curvature and uniform codimension-two width",
+  "titleZh": "正标量曲率与一致余维二宽度",
+  "details": {
+    "overview": "该稿件声称在每一维数n≥4证明了Gromov标量曲率猜想的定量连续形式：每个标量曲率至少为1的完备连通无边光滑n维流形，都存在到维数至多n−2的单纯复形的连续映射，且所有纤维的直径仅依赖于n而有界。摘要还称对正标量曲率闭流形的万有覆盖，在每一维数n≥2得到连续宏观维数结论。摘要未说明证明方法。若成立，将推进标量曲率与宏观维数方向的几何研究。需注意这是AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "稿件声称证明Gromov标量曲率猜想的定量连续形式，适用于n≥4。",
+      "存在到至多n−2维单纯复形的连续映射，纤维直径仅由n控制。",
+      "另称对正标量曲率闭流形万有覆盖得到连续宏观维数结论。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

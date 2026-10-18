@@ -10,5 +10,15 @@
   "abstractEnglish": "We prove that the standard Salvetti complex of every Artin group with finitely many standard generators is aspherical. This resolves the Artin $`K(\\pi,1)`$ conjecture in finite rank.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Harmonic heights and the Artin K(pi,1) conjecture",
+  "titleZh": "调和高度与Artin K(π,1)猜想",
+  "details": {
+    "overview": "稿件研究有限多个标准生成元的Artin群，证明其标准Salvetti复形是 aspherical 的。摘要表示，这解决了有限秩的Artin K(π,1)猜想。该结果属于几何群论与拓扑学，若成立将为Artin群的分类空间性质提供一般性结论。",
+    "keyPoints": [
+      "证明有限生成Artin群的标准Salvetti复形是aspherical。",
+      "解决有限秩的Artin K(π,1)猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

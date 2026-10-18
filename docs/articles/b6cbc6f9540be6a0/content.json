@@ -9,5 +9,14 @@
   "status": "",
   "recommended": false,
   "recommendedOn": null,
+  "details": {
+    "overview": "该条目为工具动态类信息，主题是 Gemini Skills 逐步替代 Gems。已有简介称其支持保存和组合任务指令，迁移方式以官方说明为准。原文未提供摘要，具体功能差异、迁移时间表与适用范围均不明确，需以官方说明为准。本条不涉及研究结论，仅描述一项产品功能演进动态。",
+    "keyPoints": [
+      "主题为 Gemini Skills 逐步替代 Gems。",
+      "简介称支持保存和组合任务指令。",
+      "迁移方式与适用范围以官方说明为准。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

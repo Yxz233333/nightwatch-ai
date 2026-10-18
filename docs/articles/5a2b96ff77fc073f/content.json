@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct an explicit degree-five polynomial over $`\\mathbf C`$ that is not a coordinate in four variables but becomes one after adjoining a single variable. This gives a counterexample to the stable coordinate conjecture in four variables. Every fiber is isomorphic to affine three-space, yet its embedding in affine four-space is not rectifiable. Thus the example also disproves the Abhyankar–Sathaye embedding conjecture in ambient dimension four.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A stable coordinate that is not a coordinate in four variables",
+  "titleZh": "四变量中一个稳定但非坐标的坐标",
+  "details": {
+    "overview": "该稿件在四变量多项式环中构造显式五次多项式，研究稳定坐标问题。摘要表示，该多项式在四变量中不是坐标，但添加一个变量后成为坐标，从而给出四变量稳定坐标猜想的反例。其每个纤维同构于仿射三维空间，但在仿射四空间中的嵌入不可矫正，因此也否证了环境维数为四的Abhyankar–Sathaye嵌入猜想。手稿为AI产生，未经独立审查或同行评议，结论应视为作者声称。",
+    "keyPoints": [
+      "构造显式五次多项式，在四变量中非坐标，添加一个变量后成为坐标。",
+      "给出四变量稳定坐标猜想的反例。",
+      "每个纤维同构于仿射三维空间但嵌入不可矫正，同时否证四维Abhyankar–Sathaye嵌入猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

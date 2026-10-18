@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the finite-rational-coefficient case of the effective log Iitaka conjecture in dimension four. For normal projective log canonical complex fourfolds with boundary coefficients in a fixed finite rational set and pseudo-effective rational Cartier adjoint, one uniform degree makes the complete rounded reflexive system nonempty and its section ratios generate the full Iitaka field. We also prove a uniform canonical index bound for projective klt complex fourfolds with rationally trivial canonical divisor.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Uniform effective log Iitaka fibrations for fourfolds",
+  "titleZh": "四维一致有效对数Iitaka纤维化",
+  "details": {
+    "overview": "稿件证明四维有效对数Iitaka猜想的有理系数有限情形。对于边界系数属于固定有限有理数集、伴随除子为伪有效有理Cartier除子的正规射影对数典范复四维簇，作者声称存在一致次数使得完全舍入自反系统的截面非空，且截面比生成整个Iitaka域。此外，还证明了具有有理平凡典范除子的射影klt复四维簇的一致典范指数界。",
+    "keyPoints": [
+      "证明四维有效对数Iitaka猜想在有限有理系数集下的情形。",
+      "一致次数使完全舍入自反系统非空且截面比生成Iitaka域。",
+      "给出有理平凡典范除子的射影klt复四维簇的一致典范指数界。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove a uniform upper bound for inverse-first-power integral means of normalized univalent disk maps with exponent strictly below 1/4. Consequently, the bounded universal integral-means spectrum satisfies $`B_b(-1)\\lt 1/4`$, disproving Kraetzer's conjectured spectrum at p = −1.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A strict inverse-first-power bound for univalent functions",
+  "titleZh": "单叶函数的严格逆一次幂界",
+  "details": {
+    "overview": "稿件研究归一化单叶圆盘映射的逆一次幂积分平均。作者声称，对指数严格小于1/4的情形证明了统一上界；由此有界通用积分平均谱满足B_b(-1)<1/4，从而在p=−1处否定了Kraetzer猜想的谱。摘要未给出证明细节或独立验证信息。",
+    "keyPoints": [
+      "对指数严格小于1/4的逆一次幂积分平均证明统一上界。",
+      "推出有界通用积分平均谱满足B_b(-1)<1/4。",
+      "在p=−1处否定Kraetzer猜想的谱。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "For every fixed $`0\\lt q\\lt 1`$, we prove that the Dobrushin interface of the square-lattice random-cluster model at its self-dual parameter converges to chordal SLEκ, where $`\\kappa=4\\pi/\\arccos(-\\sqrt q/2)\\in(6,8)`$. The approximating domains are simple closed nearest-neighbor lattice polygons with distinct marked vertices, whose marked boundary parametrizations converge uniformly to those of a bounded smooth Jordan domain. Convergence holds along the full mesh sequence in the uniform metric on oriented curves modulo increasing reparametrization. The proof combines finite connection comparisons below one, localization in irregular tiled disks, and a boundary observable that determines the limiting Loewner driver.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Self-dual random-cluster interfaces below one",
+  "titleZh": "q 小于 1 时的自对偶随机簇界面",
+  "details": {
+    "overview": "稿件对每个固定 0<q<1，证明方格随机簇模型在自对偶参数处的 Dobrushin 界面收敛到弦 SLEκ，其中 κ=4π/arccos(−√q/2)∈(6,8)。摘要称逼近区域为带不同标记点的简单闭最近邻格多边形，其标记边界参数化一致收敛到有界光滑 Jordan 域的参数化；收敛沿整个网格序列在定向曲线模递增重参数化的统一度量下成立。证明结合 q<1 的有限连接比较、不规则铺砌圆盘中的局部化以及确定极限 Loewner 驱动的边界可观测量。该手稿为 AI 产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "对每个固定 0<q<1，证明自对偶随机簇 Dobrushin 界面收敛到弦 SLEκ。",
+      "κ=4π/arccos(−√q/2)，取值在 (6,8) 内。",
+      "证明结合有限连接比较、局部化与确定 Loewner 驱动的边界可观测量。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

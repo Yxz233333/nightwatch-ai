@@ -1,7 +1,7 @@
 {
   "id": "bf377079595fda3a",
   "section": "papers",
-  "category": "组合数学与图论",
+  "category": "代数拓扑",
   "title": "The height-three chromatic overlap: an explicit filtration and its attachments",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-height-three-chromatic-overlap-an-explicit-filtration-and-its-attachments-September-27-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For every prime p ≥ 5, we construct an explicit eight-stage filtration of $`L_2L_{K(3)}\\mathbb S_p^\\wedge`$ by the local-sphere layers in the height-three chromatic-splitting pattern. The map from its first stage to the overlap is the canonical unit, and two signed fracture formulas identify all attachments for the chosen local maps and compatibility homotopy. A companion canonical-map theorem further implies that the first height-one attachment is nonzero.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The height-three chromatic overlap: an explicit filtration and its attachments",
+  "titleZh": "高度三色层重叠：显式滤过及其附着映射",
+  "details": {
+    "overview": "稿件对每个素数p≥5，构造L_2L_{K(3)}S_p^∧按高度三色层分裂模式局部球层的显式八阶段滤过。作者称第一阶段到重叠的映射是典范单位，两个带符号断裂公式在所选局部映射与相容同伦下确定所有附着；配套典范映射定理进一步蕴含第一个高度一附着非零。该工作属稳定同伦论中色层分裂计算，摘要未展开证明，结论待独立审查。",
+    "keyPoints": [
+      "对每个素数p≥5构造八阶段显式滤过，按高度三色层分裂局部球层",
+      "第一阶段到重叠的映射为典范单位，两个带符号断裂公式确定所有附着",
+      "配套典范映射定理蕴含第一个高度一附着非零"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

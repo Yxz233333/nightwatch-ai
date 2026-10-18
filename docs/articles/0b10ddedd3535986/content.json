@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the spherical magnetization law for the three-dimensional nearest-neighbor isotropic quantum Heisenberg ferromagnet at every fixed positive quantum spin and every sufficiently low fixed positive temperature. As the even periodic cubes grow, the symmetric zero-field magnetization converges in moments to a uniform direction with a deterministic positive magnitude. This magnitude equals the right derivative at zero field of the infinite-volume pressure. The law is expressed through self-adjoint linear combinations of the spin components and requires no joint measurement of noncommuting observables.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The spherical magnetization law for the three-dimensional quantum Heisenberg ferromagnet",
+  "titleZh": "三维量子Heisenberg铁磁体的球面磁化定律",
+  "details": {
+    "overview": "稿件研究三维最近邻各向同性量子Heisenberg铁磁体在固定正量子自旋与足够低固定正温度下的磁化行为。摘要表示，随偶周期立方体增大，对称零场磁化在矩意义下收敛到具有确定性正大小的均匀方向，该大小等于无穷体积压强在零场的右导数；定律通过自旋分量的自伴线性组合表述，无需联合测量非对易可观测量。作者声称证明了球面磁化定律。该结果属于量子统计力学研究；摘要未给出证明细节。",
+    "keyPoints": [
+      "研究对象为三维最近邻各向同性量子Heisenberg铁磁体的零场磁化。",
+      "作者声称磁化在矩意义下收敛到确定性正大小的均匀方向。",
+      "该大小等于无穷体积压强在零场的右导数。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

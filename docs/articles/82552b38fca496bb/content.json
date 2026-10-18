@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove potential Zariski density of integral points on SLr-character varieties of smooth complex curves in every rank. The result allows prescribed quasi-unipotent boundary monodromy, including exact nonsemisimple conjugacy classes, and holds on every component over the full ring of integers of one finite extension. Here integrality is measured in the ambient character variety, while the exact boundary conditions are imposed on the complex representation.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Integral points on character varieties of curves",
+  "titleZh": "曲线特征簇上的整点",
+  "details": {
+    "overview": "该稿件研究光滑复曲线SL_r特征簇上的整点。作者声称在每个秩上证明整点具有潜在Zariski稠密性，允许指定准单幂边界单值性，包括精确非半单共轭类，并在某个有限扩张的完整整数环上于每个分支成立。摘要说明整性在环境特征簇中度量，而精确边界条件施加于复表示。若成立，这推广了特征簇整点稠密性的适用范围。",
+    "keyPoints": [
+      "对象为光滑复曲线SL_r特征簇上的整点，覆盖每个秩",
+      "作者声称整点潜在Zariski稠密，允许指定准单幂边界单值性",
+      "结果在某个有限扩张的完整整数环上于每个分支成立"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

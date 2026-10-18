@@ -10,5 +10,16 @@
   "abstractEnglish": "We give an exact-budget recovery algorithm for metric k-median with single-exponential dependence on the number of comparison clusters without accurate, distinct proxies in a supplied anchor solution. On positive integral metrics of polynomially bounded diameter, a sufficiently small total proxy error and logarithmically many such clusters yield a $`(1+2/e+\\varepsilon)`$ approximation in polynomial time with arbitrarily high success probability. We also prove bounded-price strictness for one compatible execution of the logarithmic-surplus construction. Together the recovery and payment arguments give a randomized $`(2-\\sigma)`$ approximation, for an absolute σ > 0, on arbitrary finite rational metrics, both with high probability and in expectation, while opening at most k facilities on every output.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Single-exponential recovery and bounded-price strictness for metric k-median",
+  "titleZh": "度量k-中位数的单指数恢复与有界价格严格性",
+  "details": {
+    "overview": "稿件研究度量k-中位数问题的近似算法。摘要提出一种精确预算恢复算法，其对比较簇数量的依赖为单指数，且无需锚解中准确相异的代理。在多项式有界直径的正整数度量上，足够小的总代理误差和对数个簇可在多项式时间内得到(1+2/e+ε)近似，成功概率任意高。作者还证明对数剩余构造的相容执行具有有界价格严格性，结合恢复与支付论证，在任意有限有理度量上给出随机(2-σ)近似，高概率和期望均成立，且每个输出至多开设k个设施。手稿为AI产生，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "提出精确预算恢复算法，对比较簇数量呈单指数依赖，无需准确相异代理。",
+      "在正整数度量上得到(1+2/e+ε)近似，并证明有界价格严格性。",
+      "结合恢复与支付论证，在任意有限有理度量上给出随机(2-σ)近似。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

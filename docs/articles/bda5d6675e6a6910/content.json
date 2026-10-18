@@ -1,7 +1,7 @@
 {
   "id": "bda5d6675e6a6910",
   "section": "papers",
-  "category": "数论与算术几何",
+  "category": "辛几何与拓扑",
   "title": "Hamiltonian Fixed Points Below the Stable Morse Number in Dimension Twenty-Two",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Hamiltonian-Fixed-Points-Below-the-Stable-Morse-Number-in-Dimension-Twenty-Two-October-5-2026/hamiltonian-fixed-points-below-stable-morse-number.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We disprove the stable Morse lower bound for nondegenerate Hamiltonian fixed points with examples in fixed real dimension twenty-two. For every integer m ≥ 1, we construct a simply connected closed Kähler manifold with stable Morse number $`80+1968m`$ and a Hamiltonian diffeomorphism with exactly $`80+1952m`$ fixed points, all nondegenerate and with contractible orbit loops. The deficit is therefore unbounded, and the fixed-point count is at most 127/128 of the stable Morse number.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Hamiltonian Fixed Points Below the Stable Morse Number in Dimension Twenty-Two",
+  "titleZh": "二十二维中低于稳定Morse数的Hamiltonian不动点",
+  "details": {
+    "overview": "稿件研究非退化Hamiltonian不动点计数与稳定Morse数之间的关系。作者声称在固定实维数二十二中构造反例，推翻稳定Morse下界：对每个整数m≥1，给出稳定Morse数为80+1968m的单连通闭Kähler流形，以及恰有80+1952m个不动点的Hamiltonian微分同胚，所有不动点非退化且轨道环路可缩。摘要表示亏量无界，不动点数至多为稳定Morse数的127/128。",
+    "keyPoints": [
+      "在实维数二十二构造单连通闭Kähler流形上的Hamiltonian微分同胚反例",
+      "不动点数为80+1952m，稳定Morse数为80+1968m",
+      "所有不动点非退化且轨道环路可缩，亏量无界"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "43bb16a115f6a43a",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论与组合数学",
   "title": "Talagrand’s discrete-convexity conjecture",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Talagrands-discrete-convexity-conjecture-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove Talagrand's discrete-convexity conjecture. There is a universal integer k such that, whenever an arbitrary family has Bernoulli product measure at least $`1-1/k`$, the sets not contained in a union of k members admit a cover of total cost at most 1/2 at the same density.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Talagrand’s discrete-convexity conjecture",
+  "titleZh": "Talagrand离散凸性猜想",
+  "details": {
+    "overview": "该稿件研究Talagrand提出的离散凸性猜想。作者声称证明该猜想：存在通用整数k，使得当任意族在Bernoulli乘积测度下密度至少为1−1/k时，不被k个成员之并包含的集合可在相同密度下以总成本不超过1/2的方式被覆盖。该结果涉及离散凸性与覆盖成本的关系。但手稿为AI产生，收录不表示已完成独立审查或同行评议，结论尚待验证。",
+    "keyPoints": [
+      "作者声称证明Talagrand离散凸性猜想。",
+      "结论给出通用整数k，并涉及相同密度下总成本不超过1/2的覆盖。",
+      "手稿为AI产生，未经独立审查或同行评议。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

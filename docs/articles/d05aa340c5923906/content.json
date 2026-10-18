@@ -1,7 +1,7 @@
 {
   "id": "d05aa340c5923906",
   "section": "papers",
-  "category": "数学论文",
+  "category": "遍历论与动力系统",
   "title": "A zero-entropy system without a smooth positive-volume model",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-finite-entropy-system-without-a-smooth-positive-volume-model-September-25-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct an ergodic invertible transformation of a standard nonatomic probability space with zero Kolmogorov–Sinai entropy that has no smooth positive-volume model. More precisely, it is not measurably conjugate to any C∞ diffeomorphism preserving a strictly positive smooth probability density on a compact finite-dimensional manifold. A single example excludes every finite dimension, including models on nonorientable manifolds and manifolds with smooth boundary.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A zero-entropy system without a smooth positive-volume model",
+  "titleZh": "一个没有光滑正体积模型的零熵系统",
+  "details": {
+    "overview": "该稿件研究零熵系统的光滑模型存在性。作者声称构造一个标准非原子概率空间上的遍历可逆变换，其Kolmogorov–Sinai熵为零，但没有光滑正体积模型；更精确地说，它不可测共轭于任何紧有限维流形上保持严格正光滑概率密度的C∞微分同胚。摘要表示单个例子排除所有有限维，包括不可定向流形与带光滑边界流形上的模型。",
+    "keyPoints": [
+      "构造零Kolmogorov–Sinai熵的遍历可逆变换",
+      "该变换没有光滑正体积模型",
+      "单个例子排除所有有限维，含不可定向与带边界流形"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

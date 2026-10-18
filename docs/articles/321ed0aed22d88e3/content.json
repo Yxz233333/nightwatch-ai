@@ -1,7 +1,7 @@
 {
   "id": "321ed0aed22d88e3",
   "section": "papers",
-  "category": "数学论文",
+  "category": "粗几何",
   "title": "Failure of rational injectivity for maximal coarse assembly",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Failure-of-rational-injectivity-for-maximal-coarse-assembly-October-5-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a uniformly discrete bounded-geometry space whose maximal coarse assembly map has an infinite-order element in its kernel. The space is a coarse disjoint union of finite connected graphs of uniformly bounded degree, so maximal coarse assembly need not be rationally injective even for such graph unions.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Failure of rational injectivity for maximal coarse assembly",
+  "titleZh": "极大粗装配映射有理单射性的失效",
+  "details": {
+    "overview": "稿件构造了一个一致离散、有界几何的空间，其极大粗装配映射的核中含有无限阶元素。该空间是有限连通、度一致有界的图的粗不交并，因此作者声称极大粗装配映射即使对此类图并也未必有理单射。这一反例针对粗几何与算子代数中装配映射单射性问题，摘要未给出构造细节，手稿尚未经独立审查。",
+    "keyPoints": [
+      "构造一致离散有界几何空间，其装配映射核含无限阶元素。",
+      "空间为有限连通、度一致有界图的粗不交并。",
+      "结论：极大粗装配映射对此类图并也未必有理单射。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

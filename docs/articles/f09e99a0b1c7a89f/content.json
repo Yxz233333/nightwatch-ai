@@ -1,7 +1,7 @@
 {
   "id": "f09e99a0b1c7a89f",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论",
   "title": "Cap-selected amplitudes and triangle chords for honeycomb walks",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Cap-selected-amplitudes-and-triangle-chords-for-honeycomb-walks-September-26-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "At the critical honeycomb fugacity, self-avoiding port-to-port chords in an equilateral lattice triangle of side R, summed over both boundary endpoints and restricted to diameter at least $`R/100`$, have partition sum comparable to R3/4 and mean length $`R^{4/3+o(1)}`$. We also determine the amplitude selected by two vacuum caps on a cylinder of circumference N and prove that it grows as $`N^{1/6+o(1)}`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Cap-selected amplitudes and triangle chords for honeycomb walks",
+  "titleZh": "蜂窝行走的帽选择振幅与三角形弦",
+  "details": {
+    "overview": "稿件在临界蜂窝逸度下研究边长为 R 的等边格三角形中端口到端口的自避弦，对两端边界点求和并限制直径至少 R/100。摘要表示，其配分和与 R^{3/4} 可比，平均长度为 R^{4/3+o(1)}。作者还确定了周长为 N 的圆柱上由两个真空帽选择的振幅，并证明其增长为 N^{1/6+o(1)}。研究意义在于给出三角形弦的配分与长度标度，以及圆柱帽选择振幅的定量增长。",
+    "keyPoints": [
+      "三角形端口弦配分和与 R^{3/4} 可比，平均长度 R^{4/3+o(1)}。",
+      "对两端边界点求和且限制直径至少 R/100。",
+      "圆柱上两真空帽选择的振幅增长为 N^{1/6+o(1)}。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

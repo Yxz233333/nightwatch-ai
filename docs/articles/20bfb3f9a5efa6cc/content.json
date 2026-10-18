@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that, in sufficiently large smash powers, an $`MU`$-null restriction to a finite pointed subcomplex becomes stably null on the entire union of products with a fixed positive proportion of restricted factors. This coherent vanishing theorem yields boundary-preserving compression of cube-valued maps on every compact metrizable input space. When the torus slot bundle embeds continuously into a trivial bundle of rank less than twice the source rank, the compression places a positive proportion of slots on their boundaries in arbitrarily large powers and fixes every original boundary slot exactly. An example at equality shows that the strict rank inequality cannot be removed.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Filtered products and boundary-preserving compression in complex cobordism",
+  "titleZh": "复配边中的滤积与保边界压缩",
+  "details": {
+    "overview": "该稿件研究复配边MU理论中限制映射在smash幂下的稳定消失与保边界压缩。作者声称证明：在足够大的smash幂中，对有限点化子复形的MU-null限制，在固定正比例受限因子的乘积并集上变为稳定null；由此对每个紧致可度量化输入空间上的立方体值映射得到保边界压缩。摘要还称当环面槽丛连续嵌入秩小于源秩两倍的平凡丛时，可在任意大幂中把正比例槽置于边界并精确固定原边界槽；等号处例子表明严格秩不等式不能去掉。",
+    "keyPoints": [
+      "作者声称在足够大smash幂中，MU-null限制在固定正比例受限因子的乘积并集上稳定消失。",
+      "由此得到紧致可度量化空间上立方体值映射的保边界压缩。",
+      "摘要称严格秩不等式不可去掉，等号处给出反例。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

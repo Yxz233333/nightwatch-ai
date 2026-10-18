@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Friedgut–Kalai sharp-threshold conjecture. For every integer n ≥ 2, every nontrivial increasing family of graphs on n vertices invariant under all vertex permutations, and every $`0\\lt \\varepsilon\\lt 1/2`$, the edge probabilities at which its probability equals ε and $`1-\\varepsilon`$ differ by at most $`C\\log(1/(2\\varepsilon))/(\\log n)^2`$, for a universal constant C.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Sharp Threshold Bound for Monotone Graph Properties",
+  "titleZh": "单调图性质的精确阈值界",
+  "details": {
+    "overview": "该稿件研究单调图性质的阈值宽度。作者声称证明了Friedgut–Kalai精确阈值猜想：对于每个整数n≥2、每个在顶点置换下不变的非平凡递增图族以及每个0<ε<1/2，其概率等于ε和1-ε处的边概率之差至多为C log(1/(2ε))/(log n)^2，其中C为通用常数。研究意义在于为一大类图性质提供了统一的精确阈值上界。",
+    "keyPoints": [
+      "作者声称证明了Friedgut–Kalai精确阈值猜想。",
+      "对顶点置换不变的非平凡递增图族，ε与1-ε概率处的边概率差至多为C log(1/(2ε))/(log n)^2。",
+      "该界对每个n≥2和0<ε<1/2一致成立，C为通用常数。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

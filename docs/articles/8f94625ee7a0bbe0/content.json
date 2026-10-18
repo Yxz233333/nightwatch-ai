@@ -10,5 +10,16 @@
   "abstractEnglish": "For every positive integer n other than 2, 4, and 9, we prove that some irreducible complex representation of Sn has a tensor square containing every irreducible representation. This resolves the tensor square conjecture for symmetric groups affirmatively.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Universal Tensor Squares for Symmetric Groups",
+  "titleZh": "对称群的通用张量平方",
+  "details": {
+    "overview": "稿件研究对称群S_n的复不可约表示张量平方性质。摘要声称，对除2、4、9外的每个正整数n，存在某个不可约复表示，其张量平方包含所有不可约表示，从而肯定解决张量平方猜想。研究意义在于揭示对称群表示张量积的普遍性，但该手稿为AI产生，尚未经独立审查或同行评议，结论需谨慎对待。",
+    "keyPoints": [
+      "对除2、4、9外的正整数n，存在S_n的不可约复表示，其张量平方包含所有不可约表示。",
+      "肯定解决对称群的张量平方猜想。",
+      "手稿为AI产生，收录不表示已完成独立审查或同行评议。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

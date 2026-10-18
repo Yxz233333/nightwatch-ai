@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the ordinary two-point Chowla conjecture. For every fixed pair of nonproportional affine forms, the Liouville correlation has a power-of-logarithm saving at every cutoff, with an absolute exponent. We also prove the binary corrected Elliott conjecture for ordinary averages of complex multiplicative functions of modulus at most one, under uniform nonpretentiousness of at least one original factor. This qualitative conclusion holds in fixed residue classes and for fixed nonproportional affine forms.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Ordinary two-point correlations of multiplicative functions",
+  "titleZh": "乘性函数的普通两点相关",
+  "details": {
+    "overview": "稿件研究乘性函数的相关性猜想。摘要表示，作者证明了普通两点Chowla猜想：对每对固定的非比例仿射形式，Liouville相关在每个截断处都有对数幂次节省，且指数绝对。作者还在至少一个原始因子一致非伪装条件下，对模不超过1的复乘性函数的普通平均证明了二元修正Elliott猜想，结论在固定剩余类和固定非比例仿射形式下成立。手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "证明普通两点Chowla猜想，Liouville相关有对数幂次节省。",
+      "在一致非伪装条件下证明二元修正Elliott猜想。",
+      "结论适用于固定剩余类与固定非比例仿射形式。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

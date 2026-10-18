@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a canonical interacting massive continuum limit of the two-dimensional nearest-neighbor $`O(3)`$ model with unit-length spins, no external field, and no topological term. Normalized by susceptibility and second-moment correlation length, the limit exists as the bare coupling tends to infinity through all positive real values, without selecting subsequences. The limiting fields satisfy the Osterwalder–Schrader axioms and have a nonzero connected four-point correlation on separated time supports. Their reconstructed theory has a unique vacuum, a nonzero vacuum complement, and a positive Hamiltonian gap on that entire complement.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The canonical massive continuum limit of the two-dimensional O(3) model",
+  "titleZh": "二维O(3)模型的典范大质量连续极限",
+  "details": {
+    "overview": "稿件研究二维最近邻O(3)模型，自旋取单位长度，无外场、无拓扑项。摘要称构造其典范相互作用大质量连续极限：以磁化率和第二矩关联长度归一化后，当裸耦合沿所有正实值趋于无穷时极限存在，无需选取子列。极限场满足Osterwalder–Schrader公理，在分离时间支撑上有非零连通四点关联；重构理论有唯一真空、非零真空补集，并在整个补集上有正Hamiltonian间隙。这是AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "构造O(3)模型沿所有正实裸耦合的典范大质量连续极限。",
+      "极限场满足Osterwalder–Schrader公理并有非零连通四点关联。",
+      "重构理论具唯一真空与正Hamiltonian间隙。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

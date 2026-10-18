@@ -10,5 +10,16 @@
   "abstractEnglish": "We give an independent proof that every complex linear representation of the ordinary fundamental group of a connected smooth special complex quasi-projective variety has virtually nilpotent image of class at most two. This conclusion was previously announced by Cao–Deng–Hacon–Păun. We also construct special open surfaces whose general quasi-Albanese fibres are not special.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Two-step monodromy of special quasi-projective varieties",
+  "titleZh": "特殊拟射影簇的两步单值性",
+  "details": {
+    "overview": "稿件研究特殊复拟射影簇基本群线性表示的单值性。摘要表示，作者独立证明了连通光滑特殊复拟射影簇的普通基本群的每个复线性表示，其像虚拟幂零且幂零类至多二；该结论此前由Cao–Deng–Hacon–Păun宣布。作者还构造了特殊开曲面，其一般拟Albanese纤维不特殊。手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "独立证明特殊光滑拟射影簇基本群线性表示像虚拟幂零、类至多二。",
+      "该结论此前由Cao–Deng–Hacon–Păun宣布。",
+      "构造一般拟Albanese纤维不特殊的特殊开曲面。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

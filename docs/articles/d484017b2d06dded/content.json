@@ -1,7 +1,7 @@
 {
   "id": "d484017b2d06dded",
   "section": "papers",
-  "category": "数学论文",
+  "category": "调和分析",
   "title": "Bochner–Riesz multipliers in three dimensions",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Bochner-Riesz-Multipliers-in-Three-Dimensions-September-24-2026/Bochner-Riesz-Multipliers-in-Three-Dimensions-September-24-2026.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the three-dimensional Bochner–Riesz conjecture in its strict-order formulation. The main result is boundedness of the Bochner–Riesz multipliers on $`L^3(\\mathbb R^3)`$ for every positive order. Interpolation and duality then give the full conjectured strict range.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Bochner–Riesz multipliers in three dimensions",
+  "titleZh": "三维 Bochner–Riesz 乘子",
+  "details": {
+    "overview": "稿件研究三维 Bochner–Riesz 猜想。作者声称证明该猜想的严格阶形式，主要结果是 Bochner–Riesz 乘子在 L^3(ℝ^3) 上对每个正阶有界。摘要表示，通过插值与对偶可得到完整的猜想严格范围。研究意义在于解决三维情形下 Bochner–Riesz 乘子的有界性问题。",
+    "keyPoints": [
+      "证明三维 Bochner–Riesz 猜想的严格阶形式。",
+      "核心结果为乘子在 L^3(ℝ^3) 上对每个正阶有界。",
+      "由插值与对偶推出完整的猜想严格范围。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

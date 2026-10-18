@@ -1,7 +1,7 @@
 {
   "id": "060c181b6e574554",
   "section": "papers",
-  "category": "数学论文",
+  "category": "组合数学与图论",
   "title": "A proof of Seymour’s second-neighborhood conjecture",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-proof-of-Seymours-second-neighborhood-conjecture-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every nonempty finite oriented graph has a vertex with at least as many vertices at directed distance two as at directed distance one. This resolves Seymour's second neighborhood conjecture positively.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A proof of Seymour’s second-neighborhood conjecture",
+  "titleZh": "Seymour 第二邻域猜想的一个证明",
+  "details": {
+    "overview": "稿件提出证明每个非空有限有向图都存在一个顶点，其有向距离二的顶点数至少不少于有向距离一的顶点数。摘要表示这正面解决了 Seymour 第二邻域猜想。研究意义在于若成立，将为有向图中第二邻域与第一邻域的计数关系提供一般性结论。该手稿为 AI 产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "作者声称证明每个非空有限有向图存在顶点，其距离二顶点数不少于距离一顶点数。",
+      "摘要称这正面解决 Seymour 第二邻域猜想。",
+      "手稿为 AI 产生，尚未完成独立审查或同行评议。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

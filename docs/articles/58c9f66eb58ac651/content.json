@@ -1,7 +1,7 @@
 {
   "id": "58c9f66eb58ac651",
   "section": "papers",
-  "category": "数学论文",
+  "category": "计算复杂性理论",
   "title": "An Upper Bound of 9/4 for the Matrix Multiplication Exponent",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Matrix-Multiplication-Nine-Fourths-October-2-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the exponent of matrix multiplication over the complex numbers is at most 9/4.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An Upper Bound of 9/4 for the Matrix Multiplication Exponent",
+  "titleZh": "矩阵乘法指数的 9/4 上界",
+  "details": {
+    "overview": "该稿件研究复数域上矩阵乘法的计算复杂度，核心量是矩阵乘法指数 ω，即 n×n 矩阵相乘所需算术运算量随 n 增长的渐近幂次。作者在摘要中声称证明了 ω 至多为 9/4，即存在复杂度为 O(n^{9/4+ε}) 的矩阵乘法算法。若该结论成立，将改进长期以来的上界记录，对代数复杂度理论有重要意义。但这是 AI 产生的研究手稿，摘要极简，未给出算法构造或证明细节，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为复数域上矩阵乘法的指数 ω。",
+      "作者声称证明 ω ≤ 9/4。",
+      "摘要未提供算法构造或证明细节，结论待独立审查。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

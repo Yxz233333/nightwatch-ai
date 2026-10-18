@@ -1,7 +1,7 @@
 {
   "id": "c3980adb31f096e9",
   "section": "papers",
-  "category": "数学论文",
+  "category": "调和分析",
   "title": "Annular variation of the triangular Hilbert transform at the symmetric point",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Annular-variation-of-the-triangular-Hilbert-transform-at-the-symmetric-point-October-5-2026/annular-variation.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the annular r-variation estimate for the triangular Hilbert transform from complex $`L^3\\times L^3`$ to L3/2 for every r > 2. The partitions may depend on the output point and range over all positive scales. The estimate yields the two-endpoint maximal bound and joint almost-everywhere and norm principal values, and resolves the symmetric scalar triangular Hilbert transform problem.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Annular variation of the triangular Hilbert transform at the symmetric point",
+  "titleZh": "对称点处三角Hilbert变换的环形变差",
+  "details": {
+    "overview": "稿件研究三角Hilbert变换在对称点处的环形r-变差估计。作者声称对每个r>2，证明了从复L³×L³到L³ᐟ²的环形变差估计，其中划分可依赖输出点并覆盖所有正尺度。摘要表示该估计可推出两端点极大界以及联合几乎处处与范数主值，并解决对称标量三角Hilbert变换问题。研究意义在于为这一双线性算子的收敛与极大估计提供变差层面的刻画。",
+    "keyPoints": [
+      "对每个r>2建立复L³×L³到L³ᐟ²的环形r-变差估计",
+      "划分可依赖输出点，并覆盖所有正尺度",
+      "由此推出两端点极大界与联合几乎处处、范数主值"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

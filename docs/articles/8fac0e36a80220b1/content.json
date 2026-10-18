@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the rational Hodge conjecture on every self-power of the Jacobian at each tensor Hodge-generic point of the full marked variation of a connected abelian cover of curves. This holds in every base genus and for every compatible branching pattern. For any CM abelian variety, the conclusion also holds for every self-power of its product with the Jacobian, on the same Hodge-generic locus. We also prove the conjecture on every self-power of a very general member of the full smooth labelled family of diagonal complete intersections cut out by at most two equations of a common degree, in every dimension and every degree at least two.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Abelian covers, Gale correspondences, and the Hodge conjecture for powers",
+  "titleZh": "阿贝尔覆盖、Gale对应与幂的Hodge猜想",
+  "details": {
+    "overview": "稿件研究若干族代数簇自幂上的有理Hodge猜想。作者声称，在曲线的连通阿贝尔覆盖的全标记变形的每个张量Hodge-generic点处，其Jacobian的每个自幂上有理Hodge猜想成立，适用于任意基亏格与相容分支模式。对任意CM阿贝尔簇，作者还声称其与上述Jacobian乘积的每个自幂在同一Hodge-generic轨迹上成立。此外，对由至多两个同次方程切出的对角完全交的光滑标记族的一般成员，其每个自幂上猜想亦成立。摘要未给出证明细节。",
+    "keyPoints": [
+      "作者声称阿贝尔覆盖Jacobian自幂在张量Hodge-generic点处满足有理Hodge猜想。",
+      "对CM阿贝尔簇与Jacobian乘积的自幂，同一轨迹上结论亦成立。",
+      "对角完全交族的一般成员自幂上，任意维数与次数≥2时猜想成立。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "Let $`h(k)`$ be the least integer such that every interval of $`h(k)`$ consecutive integers contains an integer coprime to any prescribed positive integer having at most k distinct prime divisors. We prove $`h(k)\\ll k^2/(\\log\\log(3k))^2`$, giving an affirmative answer to Jacobsthal's quadratic-bound question.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A quadratic bound for Jacobsthal's function",
+  "titleZh": "Jacobsthal 函数的二次上界",
+  "details": {
+    "overview": "稿件研究 Jacobsthal 函数 h(k)，即最小的整数使得任意 h(k) 个连续整数中包含与任意至多 k 个不同素因子的给定正整数互素的整数。作者声称证明了 h(k) ≪ k^2/(log log(3k))^2，从而肯定地回答了 Jacobsthal 的二次上界问题。摘要表示该上界比二次略强。",
+    "keyPoints": [
+      "定义 h(k) 为最小长度使得任意连续 h(k) 个整数含与给定数互素的整数。",
+      "证明 h(k) ≪ k^2/(log log(3k))^2。",
+      "肯定回答 Jacobsthal 的二次上界问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

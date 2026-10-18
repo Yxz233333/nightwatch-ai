@@ -1,7 +1,7 @@
 {
   "id": "6318120c447ac6c5",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何群论",
   "title": "An Artin group with no geometric CAT(0) action",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/An-Artin-group-with-no-geometric-CAT-0-action-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct an Artin group on 116 generators that admits no proper, cocompact isometric action on a nonempty proper CAT(0) space. This refutes the CAT(0) conjecture for Artin groups.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An Artin group with no geometric CAT(0) action",
+  "titleZh": "一个没有几何CAT(0)作用的Artin群",
+  "details": {
+    "overview": "稿件研究Artin群在CAT(0)空间上的等距作用。作者声称构造一个116个生成元的Artin群，它不存在在非空真CAT(0)空间上的真、余紧等距作用，从而反驳Artin群的CAT(0)猜想。研究意义在于否定该猜想的一般形式，但结果尚未经独立审查。",
+    "keyPoints": [
+      "作者构造116个生成元的Artin群。",
+      "该群无真、余紧等距作用于非空真CAT(0)空间。",
+      "摘要称这反驳Artin群的CAT(0)猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

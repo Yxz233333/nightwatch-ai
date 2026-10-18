@@ -1,7 +1,7 @@
 {
   "id": "aed7f6661590edb6",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数与表示论",
   "title": "Fiber functors for finite symmetric tensor categories in positive characteristic",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Fiber-functors-for-finite-symmetric-tensor-categories-in-positive-characteristic-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the finite case of the Benson–Etingof–Ostrik conjecture: every finite symmetric tensor category over an algebraically closed field k of characteristic p > 0 admits a k-linear exact faithful strong symmetric monoidal functor to a finite higher Verlinde category $`\\mathop{\\mathrm{Ver}}\\nolimits _{p^n}(k)`$. The result includes characteristic two, and the level n may depend on the category.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Fiber functors for finite symmetric tensor categories in positive characteristic",
+  "titleZh": "正特征有限对称张量范畴的纤维函子",
+  "details": {
+    "overview": "该稿件研究正特征代数闭域上有限对称张量范畴的纤维函子。作者声称证明Benson–Etingof–Ostrik猜想的有限情形：每个这样的范畴都存在到某个有限高阶Verlinde范畴Ver_{p^n}(k)的k线性、精确、忠实强对称幺半函子。摘要称结果包含特征二，且层级n可依赖于范畴。若成立，将为正特征张量范畴的分类提供统一框架。",
+    "keyPoints": [
+      "作者声称证明Benson–Etingof–Ostrik猜想的有限情形。",
+      "纤维函子取值于有限高阶Verlinde范畴，层级n可随范畴变化。",
+      "结果覆盖特征二情形。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

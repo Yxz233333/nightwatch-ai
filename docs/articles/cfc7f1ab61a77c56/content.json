@@ -10,5 +10,16 @@
   "abstractEnglish": "For the uniform probability measure ρ on a compact convex body in ℝd, d ≥ 2, quadratic optimal transport maps are one-third Hölder continuous in $`L^2(\\rho)`$ with respect to the target's 2-Wasserstein distance. The constant is uniform over all targets supported in a fixed compact set, and the exponent is optimal. A three-atom family on a fixed cube disproves Letrouit's conjectured uniform square-root estimate.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Sharp One-Third Stability of Brenier Maps",
+  "titleZh": "Brenier 映射的尖锐三分之一稳定性",
+  "details": {
+    "overview": "稿件研究紧凸体上均匀概率测度的二次最优传输映射（Brenier 映射）的稳定性。作者声称，在 L^2(ρ) 中相对于目标测度的 2-Wasserstein 距离，该映射是三分之一 Hölder 连续的，常数对所有支撑在固定紧集上的目标一致，且指数最优。摘要表示，固定立方体上的三原子族反例否定了 Letrouit 猜测的一致平方根估计。该结果给出了最优的稳定性定量刻画。",
+    "keyPoints": [
+      "Brenier 映射在 L^2 中相对 2-Wasserstein 距离满足三分之一 Hölder 连续性。",
+      "常数对所有支撑在固定紧集上的目标一致，且 Hölder 指数最优。",
+      "三原子族反例否定 Letrouit 猜测的一致平方根估计。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

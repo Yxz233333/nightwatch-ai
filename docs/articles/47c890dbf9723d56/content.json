@@ -1,7 +1,7 @@
 {
   "id": "47c890dbf9723d56",
   "section": "papers",
-  "category": "数学论文",
+  "category": "泛函分析",
   "title": "Midpoint lenses in segment spaces",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Midpoint-lenses-in-segment-spaces-September-27-2026/manuscript.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For a real segment-forest dual with unbounded finite component heights and the real infinite-height coordinate predual, we bound the tail of an arbitrary displacement in a symmetric lens by $`2\\sqrt{R^2-\\|x\\|^2}`$, where R is the lens radius and x is its finitely supported center. Both given norms are asymptotically midpoint uniformly convex, although neither space admits an equivalent asymptotically uniformly convex norm. The finite-height forest dual is reflexive.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Midpoint lenses in segment spaces",
+  "titleZh": "线段空间中的中点透镜",
+  "details": {
+    "overview": "稿件研究实线段森林对偶及其无限高度坐标预对偶中的对称透镜。作者声称对任意位移的尾部给出上界2√(R²-‖x‖²)，其中R为透镜半径，x为有限支撑中心。两个给定范数均渐近中点一致凸，但都不存在等价渐近一致凸范数；有限高度森林对偶是自反的。这些结果属于泛函分析与度量几何交叉领域，摘要未说明证明方法。",
+    "keyPoints": [
+      "研究实线段森林对偶与无限高度坐标预对偶中的对称透镜。",
+      "作者声称位移尾部上界为2√(R²-‖x‖²)。",
+      "两个范数渐近中点一致凸，但无等价渐近一致凸范数。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

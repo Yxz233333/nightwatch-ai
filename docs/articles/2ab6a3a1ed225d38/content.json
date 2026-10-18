@@ -1,7 +1,7 @@
 {
   "id": "2ab6a3a1ed225d38",
   "section": "papers",
-  "category": "数学论文",
+  "category": "分析学",
   "title": "Ultraflat real Littlewood polynomials",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Ultraflat-real-Littlewood-polynomials-October-5-2026/ultraflat-real-littlewood-polynomials.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For every $`\\varepsilon\\in(0,1)`$ and every sufficiently large integer N, there is a polynomial of length N with coefficients in $`\\{-1,1\\}`$ whose modulus lies between $`(1-\\varepsilon)\\sqrt N`$ and $`(1+\\varepsilon)\\sqrt N`$ everywhere on the unit circle. Thus real Littlewood polynomials can be ultraflat through every sufficiently large integer length. The signs may be chosen separately at each length.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Ultraflat real Littlewood polynomials",
+  "titleZh": "超平坦实Littlewood多项式",
+  "details": {
+    "overview": "稿件研究系数取±1的Littlewood多项式在单位圆上的模长分布。作者声称对每个ε∈(0,1)及每个充分大的整数N，存在长度N的±1系数多项式，其模长在单位圆上处处介于(1-ε)√N与(1+ε)√N之间，即实Littlewood多项式可在每个充分大长度上实现超平坦，且各长度符号可分别选取。摘要未给出构造，手稿未经独立审查。",
+    "keyPoints": [
+      "对象为系数±1的Littlewood多项式在单位圆上的模长。",
+      "对每个ε>0与充分大N，模长落在(1±ε)√N之间。",
+      "各长度可独立选取符号，实现逐长度超平坦。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every intersection of parabolic subgroups of any finite-rank Artin group, with arbitrary finite or infinite Coxeter labels, is parabolic. This resolves the Parabolic Intersection Conjecture affirmatively.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Parabolic intersections in Artin groups",
+  "titleZh": "Artin群中的抛物交",
+  "details": {
+    "overview": "稿件研究任意有限秩Artin群的抛物子群交。作者声称证明了：任意有限秩Artin群（Coxeter标号可有限或无限）中，任意多个抛物子群的交仍是抛物子群，从而肯定解决抛物交猜想。摘要未给出证明方法或对无限标号情形的额外限制。该问题属于Artin群与Coxeter群结构理论；若成立，将统一处理有限与无限Coxeter标号下的抛物交封闭性。",
+    "keyPoints": [
+      "研究对象为任意有限秩Artin群的抛物子群交。",
+      "作者声称任意多个抛物子群的交仍为抛物子群。",
+      "结果覆盖有限与无限Coxeter标号，肯定解决抛物交猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

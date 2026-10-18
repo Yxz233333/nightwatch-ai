@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove a power saving for the planar unit-distance problem: for some absolute $`\\beta\\lt 4/3`$, every set of n points in the Euclidean plane determines $`O(n^\\beta)`$ unordered pairs at unit distance.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A power saving for planar unit distances",
+  "titleZh": "平面单位距离问题的一个幂次节省",
+  "details": {
+    "overview": "该稿件研究欧几里得平面上的单位距离问题：给定n个点，能确定多少个无序点对恰相距1。作者声称证明了存在绝对常数β<4/3，使任意n点集的单位距离点对数不超过O(n^β)，即相对平凡上界取得幂次节省。若成立，这将推进组合几何中关于单位距离数量的经典问题。需注意该手稿为AI产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为平面n点集的单位距离无序点对数量。",
+      "作者声称存在绝对常数β<4/3，使单位距离点对数为O(n^β)。",
+      "结果形式为相对平凡上界的幂次节省，属组合几何问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

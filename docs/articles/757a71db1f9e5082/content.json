@@ -7,5 +7,14 @@
   "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0",
   "date": "2026-10-15",
   "status": "CLI 稳定版本。",
+  "details": {
+    "overview": "该条目为 Codex CLI 0.163.0 稳定版本的发布公告。摘要仅说明官方已发布该版本，修复和详细变化需查阅原始发布说明，未列出具体功能或修复项。该版本被标注为 CLI 稳定版本，但摘要不足以概括其完整变更内容。",
+    "keyPoints": [
+      "Codex CLI 0.163.0 稳定版本已发布",
+      "具体修复与变化见原始发布说明",
+      "摘要未列出具体功能或修复项"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

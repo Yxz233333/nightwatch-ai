@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a finite translational tile in ℤ3 that admits tilings but no fully periodic tiling. Its unit-cube thickening has the same property in ℝ3, even when arbitrary real translations are allowed. This gives a negative resolution of the periodic tiling conjecture in dimension three.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A translational tile with no fully periodic tiling in dimension three",
+  "titleZh": "三维中一个无完全周期铺砌的平移铺砌块",
+  "details": {
+    "overview": "该稿件研究离散与连续空间中的平移铺砌。作者声称在ℤ³中构造了一个有限平移铺砌块，它允许铺砌但不存在完全周期铺砌；其单位立方体加厚在ℝ³中即使允许任意实平移也保持该性质。摘要表示这给出了三维周期铺砌猜想的否定解决。若成立，将说明高维中“可铺砌必可周期铺砌”的直觉不普遍成立。手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "在ℤ³构造有限平移铺砌块，可铺砌但无完全周期铺砌。",
+      "单位立方体加厚在ℝ³中允许任意实平移仍具该性质。",
+      "作者声称由此否定解决三维周期铺砌猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

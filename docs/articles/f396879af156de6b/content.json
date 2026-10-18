@@ -10,5 +10,16 @@
   "abstractEnglish": "Let h be a fixed integer polynomial of degree at least two with positive leading coefficient, having a unit root modulo every positive integer. We prove that any set $`A\\subseteq\\{1,\\ldots,N\\}`$ whose differences avoid all nonzero values $`h(p)`$ at primes satisfies $`|A|\\le C_hN^{1-c_h}`$, where $`c_h\\gt 0`$ and $`C_h\\ge1`$ depend only on h. Thus the local unit-root condition gives a fixed power saving even when polynomial arguments are restricted to primes. The proof uses the companion zero-free half-plane theorem for Dirichlet L-functions to obtain the required prime-distribution estimates.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Power Saving for Polynomial Differences at Prime Arguments",
+  "titleZh": "素数自变量处多项式差的幂节省",
+  "details": {
+    "overview": "稿件研究整数集合在差集避开素数处多项式取值时的规模上界。摘要表示，设h为次数至少为二、首项系数为正且对每个正整数都有单位根的固定整数多项式；作者证明，若集合A⊆{1,…,N}的差避开所有素数p处的非零值h(p)，则|A|≤C_h N^{1-c_h}，其中c_h>0、C_h≥1仅依赖h。作者称即使多项式自变量限制在素数上，局部单位根条件仍给出固定幂节省。证明使用配套的Dirichlet L函数无零点半平面定理获得素数分布估计。手稿尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "研究差集避开素数处多项式取值的集合规模上界。",
+      "在局部单位根条件下得到固定幂节省N^{1-c_h}。",
+      "证明依赖配套的Dirichlet L函数无零点半平面定理。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

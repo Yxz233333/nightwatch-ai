@@ -1,7 +1,7 @@
 {
   "id": "568bb796335b8527",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数几何",
   "title": "Irrational cubic fourfolds with geometric K3 categories",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Irrational-cubic-fourfolds-with-geometric-K3-categories-September-24-2026/Irrational-cubic-fourfolds-with-geometric-K3-categories-September-24-2026.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For every sufficiently large admissible Hassett discriminant, we prove that a very general cubic fourfold of that discriminant is irrational, although its Kuznetsov component is equivalent to the ordinary derived category of a projective K3 surface. The discriminant threshold is ineffective. This disproves Kuznetsov's rationality conjecture. The same cubics have associated untwisted polarized K3 surfaces in the Hodge-theoretic sense, so they also disprove the sufficiency direction of the associated-K3 rationality prediction.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Irrational cubic fourfolds with geometric K3 categories",
+  "titleZh": "具有几何K3范畴的无理三次四维簇",
+  "details": {
+    "overview": "稿件研究Hassett判别式充分大的三次四维簇的有理性。作者声称对每个充分大的容许Hassett判别式，该判别式的非常一般三次四维簇不可理，尽管其Kuznetsov分量等价于某个射影K3曲面的通常导出范畴；判别式阈值非有效。摘要表示这否定Kuznetsov有理性猜想，并因这些三次簇在Hodge理论意义下对应无扭极化K3曲面，也否定关联K3有理性预测的充分性方向。",
+    "keyPoints": [
+      "对充分大容许Hassett判别式的非常一般三次四维簇证明不可理",
+      "其Kuznetsov分量仍等价于射影K3曲面的导出范畴",
+      "判别式阈值非有效，并据此否定Kuznetsov有理性猜想"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

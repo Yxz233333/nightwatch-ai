@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the rational Hodge conjecture for complex abelian varieties with complex multiplication: every rational Hodge class on such a variety is a rational linear combination of algebraic cycle classes. As consequences, we obtain the generalized Hodge conjecture for CM abelian varieties, the Tate conjecture for abelian varieties over finite fields, and the Hodge standard conjecture for abelian varieties in arbitrary characteristic.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The rational Hodge conjecture for CM abelian varieties",
+  "titleZh": "CM阿贝尔簇的有理Hodge猜想",
+  "details": {
+    "overview": "稿件研究具有复乘（CM）的复阿贝尔簇上的有理Hodge猜想。作者声称已证明：此类簇上每个有理Hodge类都是代数闭链类的有理线性组合。摘要表示由此可得若干推论，包括CM阿贝尔簇的广义Hodge猜想、有限域上阿贝尔簇的Tate猜想，以及任意特征下阿贝尔簇的Hodge标准猜想。该结果若成立，将把多个经典猜想在CM情形下统一处理；但摘要未给出证明思路与验证细节，且稿件尚未经独立审查。",
+    "keyPoints": [
+      "作者声称CM复阿贝尔簇上每个有理Hodge类为代数闭链类的有理线性组合。",
+      "摘要称由此推出CM阿贝尔簇的广义Hodge猜想。",
+      "摘要还称推出有限域上阿贝尔簇的Tate猜想及任意特征的Hodge标准猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "7808215132c3579c",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数表示论",
   "title": "An explicit counterexample to the Auslander-Reiten conjecture",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/An-explicit-counterexample-to-the-Auslander-Reiten-conjecture-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We disprove the Auslander–Reiten conjecture for Artin algebras. We construct a finite-dimensional algebra Λ over $`k=\\mathbb F_2(q,H_1,H_2)`$ and a finite-dimensional nonprojective left module Z such that $`\\mathop{\\mathrm{Ext}}\\nolimits ^i_\\Lambda(Z,Z)=\\mathop{\\mathrm{Ext}}\\nolimits ^i_\\Lambda(Z,\\Lambda)=0`$ for every i > 0. The module is Gorenstein-projective, so the same example also disproves the Gorenstein-projective conjecture. Both counterexamples persist after every extension of k.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An explicit counterexample to the Auslander-Reiten conjecture",
+  "titleZh": "Auslander–Reiten猜想的一个显式反例",
+  "details": {
+    "overview": "该稿件声称否证了Artin代数上的Auslander–Reiten猜想。摘要表示，在域k=𝔽2(q,H1,H2)上构造有限维代数Λ及有限维非投射左模Z，使得对所有i>0都有Ext^i_Λ(Z,Z)=0与Ext^i_Λ(Z,Λ)=0；该模是Gorenstein投射的，因此同一例子也否证Gorenstein投射猜想，且两个反例在k的任意扩张后仍成立。手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "构造满足所有正次Ext消失的非投射模Z",
+      "同一例子否证Auslander–Reiten与Gorenstein投射猜想",
+      "反例在基域任意扩张后仍成立"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

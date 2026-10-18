@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a finitely generated group with two essentially free probability-measure-preserving actions of different costs. This gives a negative answer to Gaboriau's general fixed-price problem. The group is an amalgam of a free group of rank 100 with a direct product. Its Bernoulli action has cost bounded away from one, whereas finite height extensions have costs tending to one.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A group without fixed price",
+  "titleZh": "一个没有固定价格的群",
+  "details": {
+    "overview": "稿件研究群的保测作用成本问题。摘要表示，作者构造了一个有限生成群，它具有两个本质自由保概率测度作用且成本不同，从而对Gaboriau的一般固定价格问题给出否定回答。该群是秩100自由群与一个直积的 amalgam；其Bernoulli作用的成本有界远离1，而有限高度扩张的成本趋于1。作者声称由此得到反例。该结果属于遍历论与群论交叉方向；摘要未说明构造与证明细节，也未涉及独立审查。",
+    "keyPoints": [
+      "作者构造有限生成群，具有两个成本不同的本质自由保测作用。",
+      "该群是秩100自由群与直积的amalgam。",
+      "Bernoulli作用成本有界远离1，有限高度扩张成本趋于1。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

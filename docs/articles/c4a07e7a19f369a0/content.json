@@ -10,5 +10,16 @@
   "abstractEnglish": "Assume logarithmic Iitaka subadditivity for surjective morphisms with connected fibers between smooth projective complex varieties with compatible reduced simple normal crossing boundaries. We prove log abundance for normal irreducible compact Kähler spaces in every dimension: for a log canonical pair $`(X,\\Delta)`$ with effective rational boundary and $`K_X+\\Delta`$ ℚ-Cartier, analytic nefness of $`K_X+\\Delta`$ implies semiampleness.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Log abundance for compact Kähler spaces under logarithmic Iitaka subadditivity",
+  "titleZh": "对数Iitaka次可加性下紧凯勒空间的对数丰沛性",
+  "details": {
+    "overview": "稿件在对数Iitaka次可加性假设下研究紧凯勒空间的对数丰沛性。作者假设光滑射影复簇间具有连通纤维的满射态射在相容约化简单正规交叉边界下满足该次可加性，并声称由此对任意维数的正规不可约紧凯勒空间证明对数丰沛性：若(X,Δ)为对数典范对、边界有效有理、KX+Δ为ℚ-Cartier，则KX+Δ的解析nef性蕴含半丰沛性。该结果若成立，将把射影情形下的Iitaka理论工具推广到紧凯勒空间。需注意这是AI产生的研究手稿，未经独立审查或同行评议。",
+    "keyPoints": [
+      "在对数Iitaka次可加性假设下研究紧凯勒空间的对数丰沛性。",
+      "作者声称对有效有理边界的对数典范对，解析nef性蕴含半丰沛性。",
+      "结果覆盖任意维数的正规不可约紧凯勒空间。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

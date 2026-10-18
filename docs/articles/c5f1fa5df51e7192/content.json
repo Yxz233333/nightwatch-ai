@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the modularity conjecture for elliptic curves over imaginary quadratic fields: every such curve is modular, with matching local parameters at every place.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Modularity of elliptic curves over imaginary quadratic fields",
+  "titleZh": "虚二次域上椭圆曲线的模性",
+  "details": {
+    "overview": "稿件研究虚二次域上椭圆曲线的模性猜想。摘要声称证明该猜想：虚二次域上的每条椭圆曲线都是模的，并且在每个位点具有匹配的局部参数。研究意义在于把模性结果从有理数域推广到虚二次域这一数论与算术几何中的重要情形，涉及椭圆曲线与自守表示之间的对应。",
+    "keyPoints": [
+      "声称证明虚二次域上椭圆曲线的模性猜想",
+      "结论称每条此类椭圆曲线均为模的",
+      "局部参数在每个位点匹配"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

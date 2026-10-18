@@ -1,7 +1,7 @@
 {
   "id": "18316f3c21b6946a",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数学物理与谱理论",
   "title": "Absolutely Continuous Spectrum for Weak-Disorder Anderson Models in Dimensions at Least Three",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Absolutely-Continuous-Spectrum-for-Weak-Disorder-Anderson-Models-in-Dimensions-at-Least-Three-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For each fixed dimension d ≥ 3 and each fixed sufficiently small positive disorder strength, we prove that the Anderson operator on ℤd with independent uniform site potentials almost surely has purely absolutely continuous spectrum with nonzero weight on an open energy interval. The interval may depend on d but is independent of the disorder strength. This settles the purely absolutely continuous energy-range question in Simon's Problem 1 for this model.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Absolutely Continuous Spectrum for Weak-Disorder Anderson Models in Dimensions at Least Three",
+  "titleZh": "维数至少三的弱无序Anderson模型的绝对连续谱",
+  "details": {
+    "overview": "稿件研究ℤd上带独立均匀格点势的Anderson算子。作者声称对每个固定维数d≥3和每个固定足够小的正无序强度，该算子几乎必然在一个开能量区间上具有非零权重的纯绝对连续谱；该区间可依赖于d但与无序强度无关。作者称这解决了Simon问题1中关于该模型的纯绝对连续能量范围问题。该手稿为AI产生，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "对d≥3和足够小正无序强度研究ℤd上Anderson算子。",
+      "声称几乎必然在开能量区间上具有非零权重的纯绝对连续谱。",
+      "区间可依赖d但与无序强度无关，作者称解决Simon问题1的相关问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

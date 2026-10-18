@@ -1,7 +1,7 @@
 {
   "id": "bf1a2e64519ea576",
   "section": "papers",
-  "category": "数学论文",
+  "category": "凸几何",
   "title": "A product counterexample to the simplex maximum for projection-body volume",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-product-counterexample-to-the-simplex-maximum-for-projection-body-volume-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "The product of two ten-dimensional simplices has larger normalized projection-body volume than a twenty-dimensional simplex. This gives a counterexample to Brannen's proposed simplex maximum.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A product counterexample to the simplex maximum for projection-body volume",
+  "titleZh": "关于投影体体积单纯形最大值的一个乘积反例",
+  "details": {
+    "overview": "稿件研究投影体体积的极值问题。作者声称构造了两个十维单纯形的乘积，其归一化投影体体积大于二十维单纯形的相应体积，从而对Brannen提出的单纯形最大值猜想给出反例。该结果若成立，将否定该猜想在乘积空间中的推广形式，对凸几何中投影体体积不等式的研究具有意义。摘要未提供具体构造细节与验证过程。",
+    "keyPoints": [
+      "构造两个十维单纯形的乘积作为反例。",
+      "该乘积的归一化投影体体积大于二十维单纯形。",
+      "据此否定Brannen提出的单纯形最大值猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

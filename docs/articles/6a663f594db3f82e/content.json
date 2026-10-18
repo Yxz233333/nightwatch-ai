@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a hyperbolic group with a finite classifying space that admits no geometric action on a proper complete CAT(0) space. Consequently, a finite aspherical simplicial complex with a linear combinatorial disk-filling inequality need not have a finite locally CAT(0) homotopy model, and hence need not have a finite locally CAT(−1) model. Here metric models carry geodesic length metrics inducing the given complex topology.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A hyperbolic group with no geometric CAT(0) action",
+  "titleZh": "一个没有几何CAT(0)作用的双曲群",
+  "details": {
+    "overview": "该稿件研究双曲群在CAT(0)空间上的几何作用。作者声称构造了一个具有有限分类空间的双曲群，它不存在到真完备CAT(0)空间上的几何作用。因此，一个具有线性组合圆盘填充不等式的有限非球面单纯复形不必有有限局部CAT(0)同伦模型，也不必有一个有限局部CAT(-1)模型。研究意义在于给出了双曲群与CAT(0)几何之间分离的具体例子。",
+    "keyPoints": [
+      "作者构造了具有有限分类空间的双曲群，它没有到真完备CAT(0)空间的几何作用。",
+      "由此推出具有线性组合圆盘填充不等式的有限非球面复形不必有有限局部CAT(0)同伦模型。",
+      "该复形也不必有一个有限局部CAT(-1)模型。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

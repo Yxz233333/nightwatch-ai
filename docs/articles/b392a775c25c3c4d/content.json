@@ -1,7 +1,7 @@
 {
   "id": "b392a775c25c3c4d",
   "section": "papers",
-  "category": "数论与算术几何",
+  "category": "组合数论",
   "title": "Quasipolynomial Bounds for Arithmetic Progressions",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Quasipolynomial-Bounds-for-Arithmetic-Progressions-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove Erdős's conjecture that every set of positive integers with divergent reciprocal sum contains arithmetic progressions of every finite length. More quantitatively, for every fixed k ≥ 3, we show\n\n$`\\displaystyle r_k(N)\\le C_kN\\exp\\bigl(-c_k(\\log N)^{\\varepsilon_k}\\bigr)`$\n\nwith $`C_k,c_k,\\varepsilon_k\\gt 0`$, where $`r_k(N)`$ is the largest size of a subset of $`\\{1,\\ldots,N\\}`$ with no nonconstant k-term arithmetic progression.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Quasipolynomial Bounds for Arithmetic Progressions",
+  "titleZh": "算术级数的拟多项式界",
+  "details": {
+    "overview": "该稿件声称证明了Erdős猜想：倒数之和发散的任意正整数集合都包含任意有限长度的算术级数。摘要进一步给出定量估计：对每个固定k≥3，无k项算术级数的{1,…,N}子集最大规模rk(N)不超过CkN·exp(−ck(log N)^{εk})，其中Ck、ck、εk为正。摘要未说明证明技术。若成立，将同时推进组合数论中关于算术级数的经典问题。需注意这是AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "稿件声称证明Erdős猜想：倒数和发散的正整数集含任意有限长算术级数。",
+      "给出rk(N)的上界CkN·exp(−ck(log N)^{εk})，k≥3固定。",
+      "摘要未交代证明方法，结论尚待独立审查。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

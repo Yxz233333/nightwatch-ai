@@ -1,7 +1,7 @@
 {
   "id": "3af0c0fb7032afe8",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论",
   "title": "Natural Occupation Measures for Critical Square-Lattice FK Interfaces",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Natural-Occupation-Measures-for-Critical-Square-Lattice-FK-Interfaces-October-5-2026/natural-occupation-measures-critical-square-lattice-fk-interfaces.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the rescaled counting measure of a critical square-lattice Fortuin–Kasteleyn Dobrushin interface in the unit square converges to the Minkowski-content measure of its Schramm–Loewner limit, for every fixed cluster weight $`1\\le q\\lt 4`$. A single deterministic constant times the predicted power of the mesh gives the normalization. Convergence is joint with the ordered curve and includes the total mass, giving the scaling limit of the interface's total number of steps.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Natural Occupation Measures for Critical Square-Lattice FK Interfaces",
+  "titleZh": "临界方晶格FK界面的自然占据测度",
+  "details": {
+    "overview": "稿件研究单位正方形内临界方晶格Fortuin–Kasteleyn Dobrushin界面。作者声称对每个固定簇权1≤q<4，界面的重标计数测度收敛到其Schramm–Loewner极限的Minkowski内容测度；归一化由预测网格幂次的单个确定性常数给出。收敛与有序曲线联合成立并包含总质量，从而给出界面总步数的标度极限。",
+    "keyPoints": [
+      "对每个固定簇权1≤q<4，重标计数测度收敛到SL极限的Minkowski内容测度",
+      "归一化为预测网格幂次的单个确定性常数",
+      "收敛与有序曲线联合成立并包含总质量，给出界面总步数的标度极限"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

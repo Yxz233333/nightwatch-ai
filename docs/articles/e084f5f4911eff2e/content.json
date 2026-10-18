@@ -1,7 +1,7 @@
 {
   "id": "e084f5f4911eff2e",
   "section": "papers",
-  "category": "数学论文",
+  "category": "泛函分析与算子理论",
   "title": "Backward intertwiners and a transitive commutant",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Backward-intertwiners-and-a-transitive-commutant-September-27-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We give a negative answer to the hyperinvariant-subspace problem by constructing, on every infinite-dimensional separable complex Hilbert space, a nonzero bounded norm-quasinilpotent operator with no nonzero proper closed hyperinvariant subspace. Its commutant is a proper strongly closed unital transitive complex operator algebra.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Backward intertwiners and a transitive commutant",
+  "titleZh": "反向 intertwiner 与传递交换子",
+  "details": {
+    "overview": "稿件针对超不变子空间问题给出否定回答：作者声称在每个无限维可分复 Hilbert 空间上构造了非零有界范数拟幂零算子，且该算子没有非零真闭超不变子空间；其交换子是真正强闭含单位传递复算子代数。若成立，这将直接推翻长期悬而未决的超不变子空间猜想，并给出传递算子代数的具体例子。摘要未说明构造细节与验证方式，结论尚待独立审查。",
+    "keyPoints": [
+      "在每个无限维可分复Hilbert空间上构造非零有界范数拟幂零算子",
+      "该算子无非零真闭超不变子空间，否定超不变子空间问题",
+      "其交换子为真正强闭含单位传递复算子代数"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

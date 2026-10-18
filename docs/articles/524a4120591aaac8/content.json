@@ -1,7 +1,7 @@
 {
   "id": "524a4120591aaac8",
   "section": "papers",
-  "category": "数学论文",
+  "category": "算子代数",
   "title": "An irrational-trace counterexample to reduced Baum–Connes",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/An-Irrational-Trace-Counterexample-to-Reduced-Baum-Connes-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a finitely generated discrete group whose reduced group C∗-algebra contains a projection of irrational canonical trace. Its K0-class lies outside the image of the coefficient-free reduced Baum–Connes assembly map. This disproves the coefficient-free reduced Baum–Connes conjecture for countable discrete groups.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An irrational-trace counterexample to reduced Baum–Connes",
+  "titleZh": "约化Baum–Connes的无理迹反例",
+  "details": {
+    "overview": "稿件构造了一个有限生成离散群，作者声称其约化群C*-代数含有一个具有无理典范迹的投影，该投影的K₀类不在无系数约化Baum–Connes装配映射的像中。摘要表示这否定了可数离散群的无系数约化Baum–Connes猜想。该结果涉及算子代数与非交换几何中的核心猜想，若成立影响深远；但作为AI产生的研究手稿，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "构造有限生成离散群，其约化群C*-代数含无理典范迹投影",
+      "作者声称该投影K₀类不在无系数约化装配映射像中",
+      "摘要表示由此否定可数离散群的无系数约化Baum–Connes猜想"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

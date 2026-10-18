@@ -10,5 +10,16 @@
   "abstractEnglish": "We determine the growth exponent, at every fixed positive loop fugacity, of the critical honeycomb partition function for disjoint polygons separating two prescribed markers on a balanced cylinder. At fugacity two the cylinder exponent is 1/6; the corresponding planar nesting exponent and middle-strip nesting exponent are 1/12.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Cylinder loop weights and planar nesting",
+  "titleZh": "圆柱环权重与平面嵌套",
+  "details": {
+    "overview": "稿件研究平衡圆柱上分离两个标记点的互不相交多边形的临界蜂窝配分函数。作者声称确定了在任意固定正环逸度下的增长指数：逸度为2时圆柱指数为1/6，相应的平面嵌套指数和中带嵌套指数为1/12。该结果属于统计物理与组合数学交叉领域，为理解多边形嵌套的临界行为提供了定量刻画。",
+    "keyPoints": [
+      "确定平衡圆柱上分离两标记点的互不相交多边形配分函数的增长指数。",
+      "在环逸度为2时，圆柱指数为1/6，平面嵌套和中带嵌套指数为1/12。",
+      "结果适用于每个固定正环逸度，推广了临界蜂窝模型的分析。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

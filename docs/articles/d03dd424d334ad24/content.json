@@ -10,5 +10,16 @@
   "abstractEnglish": "For every fixed integer r ≥ 4, we prove that every Kr-free graph of sufficiently large maximum degree Δ has correspondence chromatic number $`O_r(\\Delta/\\log\\Delta)`$. This resolves the Alon–Krivelevich–Sudakov coloring conjecture in the stronger correspondence-coloring form. The same bound, with a constant depending on F, holds when any fixed graph F is excluded as an ordinary subgraph. Ordinary and list coloring satisfy the same bounds.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Correspondence coloring graphs with a forbidden clique",
+  "titleZh": "禁止团的对应着色图",
+  "details": {
+    "overview": "该稿件研究禁止固定团Kr的图的对应着色数上界。作者声称，对每个固定整数 r≥4，最大度Δ足够大的Kr-free图具有对应色数 O_r(Δ/logΔ)，从而以更强的对应着色形式解决了Alon–Krivelevich–Sudakov着色猜想。摘要表示，当禁止任意固定图F作为普通子图时，同样界成立但常数依赖F；普通着色与列表着色满足相同界。稿件为AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "对每个固定 r≥4，大最大度Kr-free图的对应色数为 O_r(Δ/logΔ)。",
+      "作者声称以对应着色形式解决了Alon–Krivelevich–Sudakov猜想。",
+      "禁止任意固定子图F时同型界成立，常数依赖F。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

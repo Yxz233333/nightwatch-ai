@@ -1,7 +1,7 @@
 {
   "id": "7173d49217e83eaf",
   "section": "papers",
-  "category": "数学论文",
+  "category": "算子代数",
   "title": "Nuclear dimension and Jiang–Su stability without elementary subquotients",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Nuclear-dimension-and-Jiang-Su-stability-without-elementary-subquotients-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For separable nuclear C∗-algebras with no nonzero elementary ideal subquotients, finite nuclear dimension is equivalent to Jiang–Su stability. More generally, $`\\dim_{\\mathrm{nuc}}(A_0\\otimes\\mathcal Z)\\le1`$ for every separable nuclear A0. This proves Robert and Tikuisis's Conjecture (C1) and the nuclear-dimension equivalence in the nonsimple Toms–Winter regularity question.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Nuclear dimension and Jiang–Su stability without elementary subquotients",
+  "titleZh": "无初等子商情形的核维数与Jiang–Su稳定性",
+  "details": {
+    "overview": "稿件研究可分核C∗代数在无非零初等理想子商时的结构性质。作者声称，对此类代数，有限核维数等价于Jiang–Su稳定性；更一般地，对任意可分核A0，有dim_nuc(A0⊗Z)≤1。摘要表示这证明了Robert–Tikuisis猜想(C1)及非单Toms–Winter正则性问题中的核维数等价部分。研究意义在于将核维数与Z-稳定性联系起来，但结果尚未经独立审查。",
+    "keyPoints": [
+      "对无初等子商的可分核C∗代数，有限核维数等价于Jiang–Su稳定性。",
+      "作者声称对任意可分核A0，dim_nuc(A0⊗Z)≤1。",
+      "摘要称这证明了Robert–Tikuisis猜想(C1)及非单Toms–Winter问题中的等价性。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

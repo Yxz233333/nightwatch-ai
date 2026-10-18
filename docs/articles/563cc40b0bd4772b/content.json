@@ -10,5 +10,16 @@
   "abstractEnglish": "For a polarized K3 surface whose primitive cohomology has full orthogonal Hodge group, one algebraic correspondence inducing a nonzero map from that cohomology to the second cohomology of an abelian variety suffices to recover the prescribed full Kuga–Satake correspondence. We give an equivalent condition using holomorphic one-forms on a generically finite surface cover. If this input holds very generally in a polarized component, the prescribed correspondence is algebraic throughout that component, for every choice of standard data on the transcendental part. The existence of the initial correspondence remains a hypothesis.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Conditional Reduction for Algebraic Kuga–Satake Correspondences",
+  "titleZh": "代数 Kuga–Satake 对应的一个条件性归约",
+  "details": {
+    "overview": "稿件研究极化 K3 曲面的 Kuga–Satake 对应代数性。作者考虑本原上同调具有完整正交 Hodge 群的 K3 曲面，声称只要存在一个代数对应，从该上同调诱导非零映射到某阿贝尔簇第二上同调，就能恢复指定的完整 Kuga–Satake 对应；并给出用一般有限曲面覆盖上全纯 1-形式的等价条件。若该输入在极化分支中很一般地成立，则指定对应在整个分支上代数，且对超越部分标准数据的任意选择成立。初始对应的存在性仍是假设。",
+    "keyPoints": [
+      "以单个非零代数对应为输入恢复完整 Kuga–Satake 对应",
+      "给出基于全纯 1-形式的等价条件",
+      "初始对应存在性仍为假设，结论有条件"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

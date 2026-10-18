@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove sharp mass bounds for the two-dimensional nearest-neighbor $`O(4)`$ model. For all sufficiently large inverse couplings β, the full transfer gap, including rotation-invariant local-observable sectors, is bounded above and below by positive multiples of $`\\sqrt\\beta e^{-\\pi\\beta}`$. We also prove that the model has a unique periodic local limit and a positive full gap at every finite β > 0, resolving the all-temperature lattice mass-generation conjecture for this periodic state. Under the stated cutoff scaling, the mass bounds are uniform in independently fixed physical units. A continuum spectral interpretation requires separate convergence hypotheses for the transfer semigroup and the block observables.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Sharp mass bounds for the two-dimensional O(4) model",
+  "titleZh": "二维O(4)模型的尖锐质量界",
+  "details": {
+    "overview": "该稿件研究二维最近邻O(4)模型。作者声称对充分大的逆耦合β，完整转移间隙（含旋转不变局部可观测量扇区）被√β e^{−πβ}的正倍数上下夹住；并证明模型有唯一周期局部极限，且每个有限β>0处完整间隙为正，从而解决该周期态的全温度格点质量生成猜想。摘要还说明质量界在给定截断标度下对独立固定的物理单位一致，连续谱解释需额外收敛假设。手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "声称大β时完整转移间隙由√β e^{−πβ}的正倍数上下界控制。",
+      "证明唯一周期局部极限及每个有限β>0处完整间隙为正。",
+      "作者称由此解决该周期态的全温度格点质量生成猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

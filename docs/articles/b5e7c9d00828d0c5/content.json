@@ -1,7 +1,7 @@
 {
   "id": "b5e7c9d00828d0c5",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数学广义相对论",
   "title": "The spacetime Penrose inequality with charge and original-data rigidity",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-spacetime-Penrose-inequality-with-charge-and-original-data-rigidity-October-5-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "Under the stated energy, decay, and trapping hypotheses, we prove the sharp charged spacetime Penrose upper-area inequality for one-ended three-dimensional initial data with source-free electric and magnetic fields. The theorem allows arbitrary second fundamental form, nonzero ADM momentum, and disconnected boundary. Writing m for invariant ADM mass, Q for total charge magnitude, and rA for the minimum-enclosing-area radius, the bound is m ≥ Q and $`r_A\\le m+\\sqrt{m^2-Q^2}`$. The polynomial mass bound $`m\\ge(r_A+Q^2/r_A)/2`$ is asserted only when $`r_A\\gt Q`$. When m > Q, equality under the stated connected, outermost, outer-area-minimizing future-horizon hypotheses identifies the original data as a smooth spacelike slice of dyonic Reissner–Nordström, including smooth attachment at the future horizon.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The spacetime Penrose inequality with charge and original-data rigidity",
+  "titleZh": "带电荷的时空Penrose不等式与原始数据刚性",
+  "details": {
+    "overview": "稿件研究带电荷的三维单端初始数据的尖锐时空Penrose上面积不等式。作者声称在所述能量、衰减与陷阱假设下，允许任意第二基本形式、非零ADM动量与非连通边界；以m为不变ADM质量、Q为总荷大小、r_A为最小包围面积半径，得到m≥Q与r_A≤m+√(m²-Q²)，多项式质量界仅在r_A>Q时断言。摘要表示当m>Q且满足连通、最外、外面积最小化未来视界假设时，等号把原始数据识别为双荷Reissner–Nordström的光滑类空切片。",
+    "keyPoints": [
+      "对三维单端带电源无初始数据证明尖锐上面积不等式",
+      "得到m≥Q与r_A≤m+√(m²-Q²)，多项式质量界仅在r_A>Q时断言",
+      "等号在所述视界假设下识别为双荷Reissner–Nordström的光滑类空切片"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

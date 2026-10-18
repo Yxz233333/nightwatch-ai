@@ -1,7 +1,7 @@
 {
   "id": "72bd98309334a601",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论与统计力学",
   "title": "The Gaussian free field limit of the balanced six-vertex model with variance multiplier 1/arcsin(c/2)",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-Gaussian-free-field-limit-of-the-balanced-six-vertex-model-with-variance-multiplier-1-over-arcsin-c-over-2-September-23-2026/The-Gaussian-free-field-limit-of-the-balanced-six-vertex-model-with-variance-multiplier-1-over-arcsin-c-over-2-September-23-2026.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the height function of the square-lattice six-vertex model with weights $`a=b=1`$ and $`0\\lt c\\le2`$, in the plane state obtained from balanced tori, converges to a multiple of the Gaussian free field. For unit height jumps and Green kernel $`-(2\\pi)^{-1}\\log|x-y|`$, the squared multiplier is $`1/\\arcsin(c/2)`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Gaussian free field limit of the balanced six-vertex model with variance multiplier 1/arcsin(c/2)",
+  "titleZh": "平衡六顶点模型的高斯自由场极限与方差乘子1/arcsin(c/2)",
+  "details": {
+    "overview": "该稿件研究方格六顶点模型在权重a=b=1、0<c≤2时，由平衡环面所得平面态的高度函数，声称其收敛到高斯自由场的倍数。摘要表示，对单位高度跳跃与Green核−(2π)^{-1}log|x−y|，平方乘子为1/arcsin(c/2)。研究对象属于统计力学中六顶点模型的高度函数涨落与高斯自由场极限；手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "研究a=b=1、0<c≤2的方格六顶点模型",
+      "声称高度函数收敛到高斯自由场的倍数",
+      "平方乘子为1/arcsin(c/2)"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

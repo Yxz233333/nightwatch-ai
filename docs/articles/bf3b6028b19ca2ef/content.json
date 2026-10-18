@@ -1,7 +1,7 @@
 {
   "id": "bf3b6028b19ca2ef",
   "section": "papers",
-  "category": "数学论文",
+  "category": "复代数几何",
   "title": "Minimal metrics and interior injectivity for nef adjoints",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Minimal-metrics-and-interior-injectivity-for-nef-adjoints-September-27-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "Let $`(H,\\Theta)`$ be a projective complex klt pair with effective rational boundary and nef ℚ-Cartier adjoint. On any projective log resolution, minimal semipositive metrics on the pulled-back adjoint exist and have zero Lelong numbers everywhere. On smooth projective complex varieties, we also prove an H1-injectivity theorem for rational interior boundaries with simple-normal-crossing support when both endpoint bundles carry zero-Lelong semipositive metrics.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Minimal metrics and interior injectivity for nef adjoints",
+  "titleZh": "nef伴随除子的极小度量与内部单射性",
+  "details": {
+    "overview": "稿件考虑射影复klt对(H,Θ)，边界有效有理、伴随除子为nef ℚ-Cartier。作者声称在任意射影对数消解上，拉回伴随除子的极小半正度量存在且Lelong数处处为零；并在光滑射影复簇上，对具有简单正规交叉支撑的有理内部边界，当两端线束均带零Lelong半正度量时证明H1单射性定理。这联系了极小模型理论与度量几何，摘要未给证明细节，结论待审查。",
+    "keyPoints": [
+      "射影klt对伴随除子nef时，对数消解上极小半正度量存在且Lelong数处处为零",
+      "光滑射影簇上对简单正规交叉内部边界证明H1单射性定理",
+      "条件为两端线束均带零Lelong半正度量"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

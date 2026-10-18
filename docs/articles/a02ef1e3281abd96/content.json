@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the sharp Kerr–Newman Penrose inequality\n\n$`\\displaystyle m^2\\ge \\frac{A}{16\\pi}+\\frac{Q^2}{2} +\\frac{\\pi(Q^4+4J^2)}{A}.`$\n\nHere $`Q^2=Q_e^2+Q_b^2`$, and J is the conserved total angular momentum, including its electromagnetic contribution. The result applies to smooth axisymmetric electrovacuum exteriors in the stated one-ended topological and decay class, with a connected outermost, outer-area-minimizing future marginally outer trapped boundary, Coulomb electromagnetic asymptotics, zero ADM momentum, and the explicitly assumed physical-area condition $`A\\ge4\\pi\\sqrt{Q^4+4J^2}`$. No maximality assumption is made. On the strict area branch, equality within this class characterizes the original data as an admissible spacelike exterior slice of a subextremal dyonic Kerr–Newman spacetime, with the boundary mapped smoothly to a future-horizon cross-section or the bifurcation sphere.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Kerr–Newman Penrose Inequality for Axisymmetric Electrovacuum Exteriors",
+  "titleZh": "轴对称电真空外部时空的 Kerr–Newman Penrose 不等式",
+  "details": {
+    "overview": "该稿件证明尖锐的 Kerr–Newman Penrose 不等式 m^2 ≥ A/(16π)+Q^2/2+π(Q^4+4J^2)/A，其中 Q^2 含电与磁荷，J 为含电磁贡献的总角动量。结果适用于所述单端拓扑与衰减类中的光滑轴对称电真空外部时空，边界为连通的最外、外面积最小化未来边缘外陷边界，并具 Coulomb 电磁渐近、零 ADM 动量及显式假设的物理面积条件。作者声称在严格面积分支上等号刻画亚极端双荷 Kerr–Newman 时空的容许类空外部切片。",
+    "keyPoints": [
+      "证明尖锐 Kerr–Newman Penrose 不等式，含电磁荷与总角动量贡献。",
+      "适用于指定拓扑与衰减类中的轴对称电真空外部时空，无需极大性假设。",
+      "严格面积分支上等号刻画亚极端双荷 Kerr–Newman 时空切片。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

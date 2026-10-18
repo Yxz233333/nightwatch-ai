@@ -10,5 +10,16 @@
   "abstractEnglish": "Every recursively enumerable set of natural-number tuples has a polynomial Diophantine representation with exactly one complete auxiliary tuple for each member. This proves the single-fold conjecture and, consequently, the finite-fold conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Single-fold Diophantine representations",
+  "titleZh": "单重丢番图表示",
+  "details": {
+    "overview": "稿件研究递归可枚举自然数元组的丢番图表示。作者声称证明了每个递归可枚举的自然数元组集合都有多项式丢番图表示，且对每个成员恰有一个完整辅助元组，从而证明单重猜想，并由此推出有限重猜想。材料仅提供摘要，未给出构造方法、证明细节或独立验证。",
+    "keyPoints": [
+      "研究对象为递归可枚举自然数元组集合的多项式丢番图表示。",
+      "作者声称每个成员恰有一个完整辅助元组，即单重表示。",
+      "摘要称由此证明单重猜想并推出有限重猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

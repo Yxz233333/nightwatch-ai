@@ -1,7 +1,7 @@
 {
   "id": "935d551f044eecfc",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论与统计物理",
   "title": "Exponential decay in two-dimensional classical O(n) models",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Exponential-decay-in-two-dimensional-classical-On-models-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove exponential decay of two-point correlations for the classical nearest-neighbor $`O(n)`$ model on the square lattice, for every n ≥ 3 and every finite positive inverse temperature. The estimate is uniform over finite free-boundary subgraphs and bounded nonnegative edge strengths. This resolves positively the all-temperature exponential spin-decay conjecture for these models.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Exponential decay in two-dimensional classical O(n) models",
+  "titleZh": "二维经典O(n)模型中的指数衰减",
+  "details": {
+    "overview": "稿件研究方格上经典最近邻O(n)模型。摘要称对每个n≥3和每个有限正逆温度，证明两点关联指数衰减；估计在有限自由边界子图和有界非负边强度上一致。作者声称这正面解决了这些模型的全温度指数自旋衰减猜想。材料仅见摘要，未给出证明方法或独立验证信息。",
+    "keyPoints": [
+      "对二维方格O(n)模型证明两点关联指数衰减。",
+      "适用于每个n≥3及每个有限正逆温度。",
+      "估计在有限自由边界子图与有界边强度上一致。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

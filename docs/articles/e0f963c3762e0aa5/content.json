@@ -1,7 +1,7 @@
 {
   "id": "e0f963c3762e0aa5",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数几何",
   "title": "Bloch’s conjecture for surfaces with p_g=0",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Blochs-Conjecture-for-Surfaces-with-pg-equals-q-equals-0-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove Bloch's conjecture for smooth connected projective complex surfaces with $`p_g=0`$: the Albanese homomorphism on integral degree-zero zero-cycles is an isomorphism.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Bloch’s conjecture for surfaces with p_g=0",
+  "titleZh": "p_g=0 曲面的 Bloch 猜想",
+  "details": {
+    "overview": "稿件研究复代数曲面的零环与 Albanese 映射。作者声称对满足 p_g=0 的光滑连通射影复曲面证明 Bloch 猜想：整系数零次零环上的 Albanese 同态是同构。摘要未给出证明方法、所用工具或与已有部分结果的比较，也未说明该结论是否覆盖此前已知的特殊曲面类。",
+    "keyPoints": [
+      "作者声称对 p_g=0 的光滑连通射影复曲面证明 Bloch 猜想。",
+      "结论为整系数零次零环上的 Albanese 同态是同构。",
+      "摘要未说明证明方法与所覆盖的曲面类型。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

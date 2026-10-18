@@ -1,7 +1,7 @@
 {
   "id": "ebfecae1d27d382b",
   "section": "papers",
-  "category": "数论与算术几何",
+  "category": "组合数学与图论",
   "title": "The crossing number of complete bipartite graphs",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-crossing-number-of-complete-bipartite-graphs-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Zarankiewicz crossing-number conjecture, resolving Turán's brickyard problem. For all positive integers m, n, the ordinary crossing number of the complete bipartite graph $`K_{m,n}`$ is\n\n$`\\displaystyle \\left\\lfloor\\frac m2\\right\\rfloor \\left\\lfloor\\frac{m-1}{2}\\right\\rfloor \\left\\lfloor\\frac n2\\right\\rfloor \\left\\lfloor\\frac{n-1}{2}\\right\\rfloor.`$",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The crossing number of complete bipartite graphs",
+  "titleZh": "完全二部图的交叉数",
+  "details": {
+    "overview": "稿件研究完全二部图K_{m,n}的普通交叉数，作者声称证明了Zarankiewicz交叉数猜想，并由此解决Turán的砖厂问题。摘要给出的公式为⌊m/2⌋⌊(m−1)/2⌋⌊n/2⌋⌊(n−1)/2⌋，对所有正整数m、n成立。该问题长期是拓扑图论中的核心猜想之一；若证明成立，将统一确定完全二部图的交叉数。需注意这是AI产生的手稿，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "作者声称证明Zarankiewicz交叉数猜想，解决Turán砖厂问题。",
+      "给出K_{m,n}交叉数的闭式公式，声称对所有正整数m、n成立。",
+      "结果属拓扑图论中长期未决的核心猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

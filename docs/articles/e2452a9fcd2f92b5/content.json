@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Fourier-vanishing conjecture of Matolcsi, Ruzsa, and Weiner: every complex Hadamard matrix of order six outside Tao's cubic equivalence class has a vanishing character sum at every permutation of $`(1,1,1,-1,-1,-1)`$. We also give an exact certificate excluding seven mutually unbiased bases in ℂ6; by Weiner's completion theorem, this yields an upper bound of five. Both certificates use only integer and rational arithmetic, and the complete verifier is included.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Exact Fourier certificates for complex Hadamard matrices of order six",
+  "titleZh": "六阶复 Hadamard 矩阵的精确 Fourier 证书",
+  "details": {
+    "overview": "稿件研究六阶复 Hadamard 矩阵与相互无偏基。作者声称证明 Matolcsi、Ruzsa 与 Weiner 的 Fourier 消失猜想：六阶复 Hadamard 矩阵若不在 Tao 的三次等价类中，则在 (1,1,1,-1,-1,-1) 的每个排列处特征和为零。摘要还表示给出精确证书，排除 ℂ6 中七个相互无偏基，并依 Weiner 的完备定理得到上界五。两项证书仅用整数与有理数运算，且附完整验证程序。",
+    "keyPoints": [
+      "作者声称证明六阶复 Hadamard 矩阵的 Fourier 消失猜想。",
+      "给出精确证书排除 ℂ6 中七个相互无偏基，得到上界五。",
+      "证书仅用整数与有理数运算，并附完整验证程序。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

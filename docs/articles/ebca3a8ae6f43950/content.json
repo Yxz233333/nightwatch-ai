@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the classification conjecture for connected smooth closed Einstein four-manifolds with strictly positive sectional curvature. Up to positive scaling and isometry, every such manifold is the round four-sphere, the complex projective plane with its Fubini–Study metric, or real projective four-space with its round metric. No orientability assumption is needed.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Positively curved Einstein four-manifolds",
+  "titleZh": "正曲率爱因斯坦四维流形",
+  "details": {
+    "overview": "稿件研究连通、光滑、闭的爱因斯坦四维流形，且截面曲率严格为正。作者声称证明了此类流形的分类猜想：在正缩放与等距意义下，每个这样的流形只能是标准四维球面、带Fubini–Study度量的复射影平面，或带圆度量的实射影四维空间，且无需可定向性假设。摘要表示该分类不依赖定向条件。该结论若成立，将完成正曲率爱因斯坦四维流形的分类。",
+    "keyPoints": [
+      "研究对象为截面曲率严格为正的连通闭光滑爱因斯坦四维流形。",
+      "作者声称分类仅有球面、复射影平面与实射影四维空间三类。",
+      "摘要强调分类无需可定向性假设，且允许正缩放与等距。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

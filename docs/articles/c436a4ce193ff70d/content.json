@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the normal projective base of a projective Lagrangian fibration from a compact irreducible holomorphic symplectic Kähler manifold is projective space. This resolves the projective-space base conjecture for such fibrations in every dimension and deformation type.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Projective-space bases of Lagrangian fibrations",
+  "titleZh": "拉格朗日纤维化的射影空间底",
+  "details": {
+    "overview": "稿件研究紧致不可约全纯辛凯勒流形上射影拉格朗日纤维化的正规射影底。作者声称证明了该底必为射影空间，从而在所有维数和形变类型上解决射影空间底猜想。若成立，这将统一刻画此类纤维化底空间的几何形态，对辛几何与代数几何交叉研究有重要意义。需注意该手稿为AI产生，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为紧致不可约全纯辛凯勒流形上的射影拉格朗日纤维化",
+      "作者声称其正规射影底必为射影空间",
+      "声称在所有维数与形变类型上解决射影空间底猜想"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

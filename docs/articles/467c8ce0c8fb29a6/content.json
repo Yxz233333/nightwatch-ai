@@ -10,5 +10,16 @@
   "abstractEnglish": "We resolve the existence form of the minimal-model conjecture for projective generalized log canonical ℚ-pairs over algebraically closed fields of characteristic zero. Such a pair admits a minimal model when its adjoint divisor is pseudo-effective, and a Mori fibre space otherwise, while keeping the nef ℚ-Cartier b-divisor fixed. Taking the nef part to be zero gives the corresponding result for ordinary log canonical ℚ-pairs.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Minimal models and Mori fibre spaces for generalized log canonical Q-pairs",
+  "titleZh": "广义对数典范ℚ对的最小模型与Mori纤维空间",
+  "details": {
+    "overview": "稿件研究特征零代数闭域上射影广义对数典范ℚ对的最小模型存在性。作者声称解决了该情形下最小模型猜想的存在形式：当伴随除子伪有效时存在最小模型，否则存在Mori纤维空间，并保持nef ℚ-Cartier b-除子固定。取nef部分为零即得普通对数典范ℚ对的相应结果。摘要未给出证明细节或独立验证信息。",
+    "keyPoints": [
+      "对射影广义对数典范ℚ对证明最小模型存在形式。",
+      "伴随除子伪有效时得最小模型，否则得Mori纤维空间。",
+      "保持nef ℚ-Cartier b-除子固定，并推出普通对数典范情形。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "c874261ca4dc20fb",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数学物理",
   "title": "Conformal universality of bulk Ising correlations under weak interactions",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Conformal-universality-of-bulk-Ising-correlations-under-weak-interactions-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove conformal universality of mixed bulk spin and energy correlations for the square-lattice Ising model with sufficiently small, square-symmetric, finite-range even multispin perturbations of either sign. One critical-temperature branch and two field normalizations apply in every bounded simply connected C2 Jordan domain with free, plus, or minus boundary conditions, and in the periodic thermodynamic plane state. Energies are centered in their actual states.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Conformal universality of bulk Ising correlations under weak interactions",
+  "titleZh": "弱相互作用下体Ising关联的共形普适性",
+  "details": {
+    "overview": "稿件研究方晶格Ising模型在足够小、平方对称、有限程偶多自旋扰动（符号任意）下的混合体自旋与能量关联。作者声称证明了共形普适性：在每个有界单连通C2 Jordan区域（自由、加、减边界条件）及周期热力学平面态中，适用同一临界温度分支和两种场归一化，能量在实际态中中心化。该结果若成立，将扩展Ising模型共形不变性的适用范围。摘要未提供证明细节或独立审查。",
+    "keyPoints": [
+      "研究方晶格Ising模型在足够小平方对称有限程偶多自旋扰动下的混合体关联。",
+      "证明在有界单连通C2 Jordan区域及周期平面态中的共形普适性。",
+      "适用同一临界温度分支和两种场归一化，能量在实际态中中心化。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We disprove the general C1 self-map formulation of Shub's entropy conjecture. We construct a noninvertible C1 self-map of a compact smooth manifold without boundary whose topological entropy is zero, while its action on second real homology has eigenvalue 2. Thus the topological entropy is strictly smaller than the logarithm of the homological spectral radius.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A C^1 Counterexample to the Entropy Conjecture",
+  "titleZh": "熵猜想的C^1反例",
+  "details": {
+    "overview": "该稿件研究Shub熵猜想在C^1自映射一般形式下的正确性。作者声称构造了一个紧致无边光滑流形上的非可逆C^1自映射，其拓扑熵为零，而在第二实同调上的作用有特征值2。因此拓扑熵严格小于同调谱半径的对数。研究意义在于否定了熵猜想在C^1非可逆情形下的一般表述。",
+    "keyPoints": [
+      "作者声称否定了Shub熵猜想的C^1自映射一般形式。",
+      "构造了非可逆C^1自映射，拓扑熵为零，但第二实同调作用有特征值2。",
+      "拓扑熵严格小于同调谱半径的对数。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "6d2051f1878aed11",
   "section": "papers",
-  "category": "数学论文",
+  "category": "算子代数",
   "title": "A counterexample to Kaplansky's quasitrace conjecture and failure of tensor-product stable finiteness",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-counterexample-to-Kaplanskys-quasitrace-conjecture-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We refute Kaplansky's quasitrace conjecture by constructing a separable unital complex C∗-algebra that admits normalized 2-quasitraces but has no tracial state. As a consequence, we show that the minimal tensor product of two unital simple stably finite complex C∗-algebras can be properly infinite, even when one factor is the reduced free-group algebra $`C_r^*(\\mathbb F_2)`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A counterexample to Kaplansky's quasitrace conjecture and failure of tensor-product stable finiteness",
+  "titleZh": "Kaplansky拟迹猜想的反例与张量积稳定有限性的失效",
+  "details": {
+    "overview": "稿件研究C∗代数中的拟迹与迹态关系。作者声称构造一个可分含单位复C∗代数，它具有归一化2-拟迹但没有迹态，从而反驳Kaplansky拟迹猜想。摘要表示由此可得两个含单位单稳定有限复C∗代数的最小张量积可以真无限，即使一个因子是约化自由群代数C_r^*(F2)。研究意义在于否定相关稳定有限性猜想，但结果尚未经独立审查。",
+    "keyPoints": [
+      "作者构造可分含单位复C∗代数，有归一化2-拟迹但无迹态。",
+      "该构造反驳Kaplansky拟迹猜想。",
+      "摘要称两个单稳定有限C∗代数的最小张量积可真无限。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

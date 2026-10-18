@@ -1,7 +1,7 @@
 {
   "id": "d88e81b7a67619e2",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数几何",
   "title": "A high-arity counterexample to Pixton completeness in Chow",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-high-arity-counterexample-to-Pixton-completeness-in-Chow-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We disprove the Chow and rational-cohomological forms of Pixton's completeness conjecture for his original relation system. We construct a formal tautological class outside the original Pixton relation span whose image is zero in the Chow ring and in rational cohomology. The example has genus $`10^{60}`$ and $`3\\binom{10^{60}}3`$ markings.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A high-arity counterexample to Pixton completeness in Chow",
+  "titleZh": "Chow 中 Pixton 完备性的高元反例",
+  "details": {
+    "overview": "稿件研究 Pixton 关于其原始关系系统的完备性猜想。作者声称否证该猜想在 Chow 环和有理上同调中的形式，构造了一个形式 tautological 类，它位于原始 Pixton 关系张成空间之外，但在 Chow 环和有理上同调中的像为零。该反例的亏格为 10^60，标记数为 3·C(10^60,3)。研究意义在于对 Pixton 完备性猜想给出高元反例。",
+    "keyPoints": [
+      "否证 Pixton 完备性猜想的 Chow 形式和有理上同调形式。",
+      "构造的形式 tautological 类不在原始 Pixton 关系张成空间内。",
+      "该类的 Chow 环像与有理上同调像均为零，反例亏格为 10^60。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

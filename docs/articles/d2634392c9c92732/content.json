@@ -1,7 +1,7 @@
 {
   "id": "d2634392c9c92732",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数几何",
   "title": "Nagata's conjecture for plane curves",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Nagatas-Conjecture-for-Plane-Curves-September-23-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that a nonzero effective plane curve of degree d at r ≥ 10 very general complex points has total multiplicity strictly less than $`d\\sqrt r`$. The inequality holds simultaneously for all curves, including reducible and nonreduced curves, and establishes Nagata's conjecture in its strict, nonhomogeneous form.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Nagata's conjecture for plane curves",
+  "titleZh": "平面曲线的Nagata猜想",
+  "details": {
+    "overview": "稿件研究平面代数曲线的Nagata猜想。作者声称证明了：对于r≥10个非常一般的复点，次数为d的非零有效平面曲线（包括可约与非约化曲线）的总重数严格小于d√r，从而建立了Nagata猜想的严格非齐次形式。该结果若成立，将解决代数几何中关于平面曲线重数下界的长期猜想。摘要未给出证明细节或独立验证。",
+    "keyPoints": [
+      "证明r≥10个非常一般复点上次数d的非零有效平面曲线总重数<d√r。",
+      "不等式对所有曲线同时成立，包括可约和非约化曲线。",
+      "声称建立Nagata猜想的严格非齐次形式。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

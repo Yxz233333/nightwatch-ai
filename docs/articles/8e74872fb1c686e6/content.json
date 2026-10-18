@@ -10,5 +10,15 @@
   "abstractEnglish": "We prove that the complete double-dimer loop ensemble for the Temperleyan square lattice in the upper half-plane converges to nested CLE4. The convergence holds along the full mesh limit and matches every macroscopic loop as an unparametrized curve. This resolves the half-plane Temperleyan form of the double-dimer CLE4 scaling-limit conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The curve scaling limit of half-plane double dimers",
+  "titleZh": "半平面双二聚体的曲线标度极限",
+  "details": {
+    "overview": "稿件研究上半平面Temperleyan方格上的完全双二聚体环系综，证明其收敛到嵌套CLE4。摘要表示，收敛沿完整网格极限成立，且每个宏观环作为无参数曲线匹配，从而解决了双二聚体CLE4标度极限猜想的半平面Temperleyan形式。该结果属于概率论与统计物理中的随机几何。",
+    "keyPoints": [
+      "证明半平面Temperleyan方格双二聚体环系综收敛到嵌套CLE4。",
+      "收敛沿完整网格极限，每个宏观环作为无参数曲线匹配。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

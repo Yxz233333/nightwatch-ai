@@ -1,7 +1,7 @@
 {
   "id": "ce8392c3d68d2593",
   "section": "papers",
-  "category": "数学论文",
+  "category": "泛代数",
   "title": "A negative solution to the finite lattice representation problem",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-Negative-Solution-to-the-Finite-Lattice-Representation-Problem-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We give a negative solution to the finite lattice representation problem. We prove that there is a finite nonempty lattice that is not the full congruence lattice of any finite nonempty algebra of any finite signature.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A negative solution to the finite lattice representation problem",
+  "titleZh": "有限格表示问题的否定解",
+  "details": {
+    "overview": "稿件研究有限格表示问题，即哪些有限格可实现为有限代数的全体同余格。作者声称给出该问题的否定解，证明存在一个有限非空格，它不是任何有限非空、任意有限签名代数的全体同余格。研究意义在于否定有限格表示问题的一般肯定回答。",
+    "keyPoints": [
+      "给出有限格表示问题的否定解。",
+      "构造一个有限非空格，使其不能实现为同余格。",
+      "该否定对所有有限签名和有限非空代数成立。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

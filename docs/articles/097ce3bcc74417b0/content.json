@@ -1,7 +1,7 @@
 {
   "id": "097ce3bcc74417b0",
   "section": "papers",
-  "category": "数学论文",
+  "category": "凸几何与离散几何",
   "title": "A nine-dimensional counterexample to Borsuk's covering assertion",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-nine-dimensional-counterexample-to-Borsuks-covering-assertion-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "The compact set of rank-one orthogonal projectors on ℝ4, with the Frobenius metric, cannot be covered by ten sets of strictly smaller diameter. It therefore gives a counterexample to Borsuk's conjecture in dimension nine.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A nine-dimensional counterexample to Borsuk's covering assertion",
+  "titleZh": "Borsuk 覆盖断言的一个九维反例",
+  "details": {
+    "overview": "稿件考虑 ℝ4 上秩一正交投影算子按 Frobenius 度量构成的紧集，声称该集合不能被十个直径严格更小的集合覆盖，因此给出 Borsuk 猜想在九维的反例。研究意义在于若成立，将否定 Borsuk 猜想在九维的覆盖断言。该手稿为 AI 产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "作者使用 ℝ4 上秩一正交投影算子的紧集构造反例。",
+      "该集合不能被十个直径严格更小的集合覆盖。",
+      "摘要称这给出 Borsuk 猜想在九维的反例。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

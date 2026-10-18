@@ -1,7 +1,7 @@
 {
   "id": "30ba493e1eec86b7",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数学物理",
   "title": "The spacetime Penrose inequality and enclosing area",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-spacetime-Penrose-inequality-and-enclosing-area-September-27-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the sharp spacetime Penrose inequality for smooth one-ended initial-data exteriors in every spatial dimension n ≥ 3, under the dominant energy condition, weak future trapping, the stated differentiated decay and positive enclosing area. These hypotheses force the ADM energy-momentum to be future timelike. Area is the infimum over full enclosing cuts in the original metric. In dimensions three and four, two metric derivatives and one tensor derivative suffice, and both positive enclosing area and future timelikeness follow from the hypotheses.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The spacetime Penrose inequality and enclosing area",
+  "titleZh": "时空Penrose不等式与包围面积",
+  "details": {
+    "overview": "稿件研究光滑单端初始数据外部的时空Penrose不等式。作者声称在空间维数n≥3、主导能量条件、弱未来捕获、所述微分衰减和正包围面积假设下，证明尖锐的时空Penrose不等式，并推出ADM能量-动量为未来类时。面积取原度量下所有完整包围切面的下确界。在三维和四维，两个度量导数和一阶张量导数足够，正包围面积和未来类时性由假设推出。",
+    "keyPoints": [
+      "在n≥3维证明尖锐时空Penrose不等式。",
+      "假设包括主导能量条件、弱未来捕获和正包围面积。",
+      "三维和四维仅需两个度量导数和一阶张量导数。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

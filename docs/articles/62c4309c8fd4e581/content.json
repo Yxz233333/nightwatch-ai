@@ -1,7 +1,7 @@
 {
   "id": "62c4309c8fd4e581",
   "section": "papers",
-  "category": "数学论文",
+  "category": "量子信息与计算",
   "title": "Polynomial-Time Unitary Synthesis from a Boolean Oracle",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Polynomial-Time-Unitary-Synthesis-from-a-Boolean-Oracle-October-5-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We give a positive answer to the constant-error formulation of the Aaronson–Kuperberg unitary synthesis problem. For every n, a quantum oracle circuit generated in polynomial time from n alone can approximate the channel of every n-qubit unitary to full diamond-norm error at most 1/2, after a suitable Boolean oracle is chosen. Using the fixed gates $`H,T,T^\\dagger,\\mathrm{CNOT}`$, the circuit has polynomially many qubits, elementary gates, and oracle calls, and its oracle queries have polynomial length. The oracle may depend on the target unitary; the theorem does not give an efficient classical procedure for constructing it.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Polynomial-Time Unitary Synthesis from a Boolean Oracle",
+  "titleZh": "从布尔预言机出发的多项式时间酉合成",
+  "details": {
+    "overview": "稿件研究Aaronson–Kuperberg酉合成问题的常数误差表述。作者声称给出肯定回答：对每个n，仅由n在多项式时间内生成的量子预言机电路，在选定合适布尔预言机后，可将任意n量子比特酉信道的全菱形范数误差逼近到至多1/2。使用固定门H、T、T†、CNOT，电路含多项式多个量子比特、基本门与预言机调用，查询长度为多项式。预言机可依赖目标酉，但定理不给出高效经典构造程序。",
+    "keyPoints": [
+      "对Aaronson–Kuperberg酉合成问题的常数误差表述给出肯定回答",
+      "用固定门H、T、T†、CNOT实现多项式规模电路与预言机调用",
+      "预言机可依赖目标酉，但不提供高效经典构造程序"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "44c50e2741ad7955",
   "section": "papers",
-  "category": "代数几何",
+  "category": "算子代数",
   "title": "Near Inclusions of von Neumann Algebras Without Small Spatial Embeddings",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Near-Inclusions-of-von-Neumann-Algebras-Without-Small-Spatial-Embeddings-October-5-2026/near-inclusions.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We give a negative answer to the unrestricted small-spatial-embedding problem for one-sided near inclusions of von Neumann algebras. On separable complex Hilbert spaces, we construct pairs of unital von Neumann algebras with common identity whose one-sided gaps tend to zero. Spatial embeddings of the source into the target exist, but every implementing unitary stays a fixed positive distance from the identity. The obstruction therefore concerns small implementing unitaries, rather than the existence of spatial embeddings.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Near Inclusions of von Neumann Algebras Without Small Spatial Embeddings",
+  "titleZh": "无小空间嵌入的von Neumann代数近包含",
+  "details": {
+    "overview": "稿件对von Neumann代数单侧近包含的无限制小空间嵌入问题给出否定回答。在可分复Hilbert空间上，作者构造具有公共单位元的单位von Neumann代数对，其单侧间隙趋于零；源到靶的空间嵌入存在，但每个实现酉元都与单位元保持固定正距离。摘要表示障碍在于小的实现酉元，而非空间嵌入的存在性。",
+    "keyPoints": [
+      "对单侧近包含的无限制小空间嵌入问题给出否定回答",
+      "构造单侧间隙趋于零的von Neumann代数对，空间嵌入存在",
+      "每个实现酉元都与单位元保持固定正距离，障碍在于小实现酉元"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

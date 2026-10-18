@@ -1,7 +1,7 @@
 {
   "id": "ecb3d6db8ef70f19",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何与拓扑",
   "title": "Spectral scalar curvature and uniform Urysohn width",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Spectral-scalar-curvature-and-uniform-Urysohn-width-October-5-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For every n ≥ 4, a complete connected smooth Riemannian n-manifold without boundary satisfying $`-4\\Delta+\\mathop{\\mathrm{Scal}}\\nolimits \\ge1`$ as a quadratic-form inequality admits a continuous map to a simplicial complex of dimension at most $`n-2`$ whose entire fibers have diameter bounded only in terms of n. The bound is measured in the original metric. This extends the uniform Urysohn width theorem from a pointwise scalar-curvature lower bound to a spectral lower bound.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Spectral scalar curvature and uniform Urysohn width",
+  "titleZh": "谱数量曲率与一致Urysohn宽度",
+  "details": {
+    "overview": "稿件研究满足谱数量曲率下界的完备黎曼流形的拓扑宽度。摘要表示，对每个n≥4，若完备连通无边光滑n维黎曼流形满足二次型不等式-4Δ+Scal≥1，则存在到维数至多n-2的单纯复形的连续映射，其所有纤维的直径仅由n界定，且以原度量测量。作者称这将一致Urysohn宽度定理从逐点数量曲率下界推广到谱下界。手稿尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "在谱数量曲率下界-4Δ+Scal≥1下研究流形到低维复形的映射。",
+      "纤维直径上界仅依赖维数n，并以原度量测量。",
+      "将一致Urysohn宽度定理从逐点下界推广到谱下界。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

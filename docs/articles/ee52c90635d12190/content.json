@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every inclusion $`N\\subset M`$ of von Neumann algebras with separable preduals and a faithful normal conditional expectation contains an expected amenable subalgebra $`P\\subset N`$ such that $`P'\\cap c(M)=N'\\cap c(M)`$, where $`c(M)`$ denotes the continuous core of M. This resolves the relative bicentralizer conjecture in this setting.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Expected amenable subalgebras preserving core commutants",
+  "titleZh": "保持核心交换子的期望顺从子代数",
+  "details": {
+    "overview": "该稿件研究具有可分预对偶与忠实正规条件期望的von Neumann代数包含N⊂M。作者声称存在期望顺从子代数P⊂N，使得P′∩c(M)=N′∩c(M)，其中c(M)为M的连续核心，并称由此在该设定下解决相对双中心化子猜想。若成立，这将在算子代数中把顺从子代数的存在性与核心交换子保持联系起来。手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "设定为可分预对偶、带忠实正规条件期望的包含N⊂M。",
+      "声称存在期望顺从子代数P⊂N保持连续核心交换子。",
+      "作者称由此解决该设定下的相对双中心化子猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

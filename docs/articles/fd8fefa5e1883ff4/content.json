@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove stable self-similar finite-time blowup for a supercritical defocusing nonlinear Schrödinger equation on the twelve-dimensional torus. For a sufficiently large odd power, the blowup initial data contain a nonempty open set in a high Sobolev space. As a consequence, Gaussian Fourier initial data of arbitrarily high Sobolev regularity can have positive probability of finite-time blowup.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Stable self-similar blowup for a supercritical defocusing Schrödinger equation on the torus",
+  "titleZh": "环面上超临界散焦Schrödinger方程的稳定自相似爆破",
+  "details": {
+    "overview": "稿件研究十二维环面上超临界散焦非线性Schrödinger方程。作者声称证明了稳定的自相似有限时间爆破：对充分大的奇次幂，爆破初值在高Sobolev空间中包含一个非空开集；由此，任意高Sobolev正则性的Gaussian Fourier初值可以以正概率发生有限时间爆破。该结果涉及色散型非线性演化方程中爆破现象的稳定性与概率视角。",
+    "keyPoints": [
+      "作者声称在十二维环面上证明超临界散焦NLS的稳定自相似有限时间爆破",
+      "对充分大奇次幂，爆破初值在高Sobolev空间中含非空开集",
+      "Gaussian Fourier初值可以正概率有限时间爆破"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

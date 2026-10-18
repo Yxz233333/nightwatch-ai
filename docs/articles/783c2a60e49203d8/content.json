@@ -1,7 +1,7 @@
 {
   "id": "783c2a60e49203d8",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何测度论",
   "title": "Almost-everywhere regularity of stationary integral varifolds",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Almost-everywhere-regularity-of-stationary-integral-varifolds-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We resolve the almost-everywhere regularity conjecture of Brena, Decio, and De Lellis for stationary integral varifolds of arbitrary positive dimension and codimension in Euclidean open sets. The singular set has zero measure in the dimension of the varifold: near almost every support point, the varifold is a constant positive integer multiple of a smooth embedded minimal submanifold. The corresponding statement also holds on round spheres.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Almost-everywhere regularity of stationary integral varifolds",
+  "titleZh": "稳定整变流形的几乎处处正则性",
+  "details": {
+    "overview": "该稿件声称解决了Brena、Decio与De Lellis关于欧氏开集中任意正维数与余维数的稳定整变流形的几乎处处正则性猜想。摘要表示，奇异集在变流形维数下测度为零：在几乎每个支撑点附近，变流形是光滑嵌入极小子流形的正常数正整数倍；相应结论在圆球面上也成立。研究对象属于几何测度论中的极小曲面与变流形正则性理论；手稿为AI产生，未经独立审查。",
+    "keyPoints": [
+      "奇异集在变流形维数下测度为零",
+      "几乎处处局部为光滑嵌入极小子流形的整数倍",
+      "结论同时推广到圆球面情形"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

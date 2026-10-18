@@ -1,7 +1,7 @@
 {
   "id": "e4136a83c41226ad",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论与凸几何",
   "title": "A sharp entropy bound and the simplex inequality for isotropic constants",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-sharp-entropy-bound-and-the-simplex-inequality-for-isotropic-constants-October-5-2026/isotropic-simplex.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the strong isotropic constant conjecture: in each dimension, simplices are the unique maximizers of the isotropic constant among convex bodies. We also prove the sharp entropy bound $`h(f)\\ge m+\\tfrac12\\log\\det\\mathop{\\mathrm{Cov}}\\nolimits (f)`$ for every log-concave probability density on ℝm, with equality precisely for invertible affine images of products of one-sided exponential laws.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A sharp entropy bound and the simplex inequality for isotropic constants",
+  "titleZh": "各向同性常数的尖锐熵界与单纯形不等式",
+  "details": {
+    "overview": "稿件研究凸体的各向同性常数与对数凹概率密度的熵下界。摘要表示，作者证明强各向同性常数猜想：在每个维数中，单纯形是凸体间各向同性常数的唯一最大化者。作者还证明对ℝ^m上每个对数凹概率密度f有尖锐熵界h(f)≥m+½log det Cov(f)，且等号恰在单侧指数律乘积的可逆仿射像处取得。手稿尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "证明单纯形在每个维数中唯一最大化凸体的各向同性常数。",
+      "给出对数凹密度的尖锐熵界h(f)≥m+½log det Cov(f)。",
+      "刻画熵界等号情形为单侧指数律乘积的可逆仿射像。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

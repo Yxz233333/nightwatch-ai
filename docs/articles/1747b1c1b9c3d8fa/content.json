@@ -1,7 +1,7 @@
 {
   "id": "1747b1c1b9c3d8fa",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数几何",
   "title": "Uniform Pluricanonical Iitaka Fibrations",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Uniform-Pluricanonical-Iitaka-Fibrations-October-3-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the effective Iitaka fibration conjecture in characteristic zero. For each dimension, one pluricanonical degree defines the Iitaka fibration of every smooth integral projective variety of that dimension and nonnegative Kodaira dimension over an algebraically closed field. The associated sections generate the full Iitaka function field.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Uniform Pluricanonical Iitaka Fibrations",
+  "titleZh": "一致多重典范 Iitaka 纤维化",
+  "details": {
+    "overview": "该稿件研究特征零域上光滑整射影簇的 Iitaka 纤维化，作者声称证明了有效 Iitaka 纤维化猜想：对每个固定维数，存在一个仅依赖该维数的多重典范次数，使得所有该维数、非负 Kodaira 维数的光滑整射影簇的 Iitaka 纤维化都由它确定，且相关截面生成完整的 Iitaka 函数域。若成立，这将把纤维化的定义次数统一化，是双有理几何中关于典范映射稳定性的重要进展。需注意这是 AI 产生的手稿，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "作者声称证明特征零下的有效 Iitaka 纤维化猜想。",
+      "每个维数存在统一的多重典范次数定义所有相应簇的 Iitaka 纤维化。",
+      "相关截面被声称生成完整的 Iitaka 函数域。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

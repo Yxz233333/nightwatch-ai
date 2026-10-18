@@ -10,5 +10,16 @@
   "abstractEnglish": "Equality in the spacetime Penrose inequality identifies the original initial data as a spacelike slice of a Schwarzschild–Tangherlini exterior, smoothly attached to its horizon, under the stated outermostness and decay hypotheses. We prove this in every spatial dimension n ≥ 3 for a strong-decay exterior class and for weaker decay in dimensions three and four. In dimension three the finite-component theorem forces a single spherical horizon and gives qualitative strictness for disconnected boundaries.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Equality and rigidity in the spacetime Penrose inequality",
+  "titleZh": "时空彭罗斯不等式中的等式与刚性",
+  "details": {
+    "overview": "该稿件研究时空彭罗斯不等式的等式情形。摘要表示，在所述最外性与衰减假设下，等式成立时原始初始数据可等同于施瓦西–坦格尔利尼外部时空的一个类空切片，并光滑连接到其视界。作者在每维 n≥3 的强衰减外部类中证明该结论，并在三维和四维对较弱衰减证明；三维中有限分量定理迫使单一球面视界，并对非连通边界给出定性严格性。",
+    "keyPoints": [
+      "在所述假设下，等式成立时初始数据是施瓦西–坦格尔利尼外部的类空切片。",
+      "结论在每维 n≥3 的强衰减外部类中证明，三维四维可放宽衰减。",
+      "三维中有限分量定理迫使单一球面视界。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

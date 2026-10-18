@@ -10,5 +10,16 @@
   "abstractEnglish": "For every $`4/9\\lt v\\lt 1`$ and $`1\\lt c\\lt 9v/4`$, all sufficiently large integers k admit a complete smooth metric on ℝ3 with nonnegative Ricci curvature, asymptotic volume ratio v, and at least $`c(k+1)^2`$ linearly independent real harmonic functions of pointwise growth at most k. This answers Yau's integer-degree dimension comparison question negatively in dimension three, with a fixed-factor excess over the Euclidean count. For each $`1\\lt c\\lt 9/4`$, these metrics can be chosen arbitrarily close to the Euclidean metric in global bi-Lipschitz distance. The metric may depend on k.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Three-Dimensional Counterexample to Integer-Degree Harmonic Dimension Comparison",
+  "titleZh": "整次调和维数比较的一个三维反例",
+  "details": {
+    "overview": "稿件声称：对每个4/9<v<1与1<c<9v/4，所有充分大的整数k都存在ℝ3上的完备光滑度量，Ricci曲率非负、渐近体积比为v，且至少有c(k+1)^2个线性无关、逐点增长不超过k的实调和函数。作者据此在三维对Yau的整次维数比较问题给出否定回答，并指出相对欧氏计数的固定倍数超出；对1<c<9/4，度量可在全局双Lipschitz距离下任意接近欧氏度量，且可依赖于k。",
+    "keyPoints": [
+      "构造Ricci非负、渐近体积比v的三维完备光滑度量",
+      "调和函数数量至少c(k+1)^2，超过欧氏计数固定倍数",
+      "对1<c<9/4可在双Lipschitz距离下任意接近欧氏度量"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

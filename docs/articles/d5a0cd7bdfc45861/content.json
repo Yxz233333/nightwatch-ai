@@ -1,7 +1,7 @@
 {
   "id": "d5a0cd7bdfc45861",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何拓扑",
   "title": "The Singer conjecture in dimension four",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-Singer-conjecture-in-dimension-four-September-25-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the four-dimensional Singer conjecture: the L2-Betti numbers of the universal cover of a closed connected aspherical topological four-manifold vanish outside degree two. More generally, the same vanishing holds for finite connected aspherical integral Poincaré complexes of formal dimension four, including nonorientable ones.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Singer conjecture in dimension four",
+  "titleZh": "四维Singer猜想",
+  "details": {
+    "overview": "该稿件研究四维Singer猜想。作者声称证明：闭连通非球面拓扑四维流形万有覆叠的L²-Betti数在二次以外消失。摘要进一步表示，同样的消失结论对形式维数为四的有限连通非球面整Poincaré复形成立，包括不可定向情形。若成立，这将把Singer猜想推进到四维，并推广到更一般的Poincaré复形。",
+    "keyPoints": [
+      "声称证明四维Singer猜想：L²-Betti数在二次以外消失",
+      "结论推广到形式维数四的有限连通非球面整Poincaré复形",
+      "涵盖不可定向情形"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

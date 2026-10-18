@@ -10,5 +10,16 @@
   "abstractEnglish": "For coordinate sweeps with near-uniform line laws and line sizes among powers of two in a suitable fixed interval, we prove a Schatten-moment bound after conditioning on any feasible collection of prescribed card trajectories. An analytic transfer to binary sweeps then shows that a fixed number of sweeps mixes the Thorp shuffle on $`2^d`$ cards in $`O(d)`$ physical steps, matching the order of the support lower bound.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Conditional coordinate sweeps and analytic transfer",
+  "titleZh": "条件坐标扫描与解析转移",
+  "details": {
+    "overview": "该稿件研究坐标扫描，其线律接近均匀、线大小取合适固定区间内二的幂。摘要表示，作者证明在任意可行的指定牌轨迹集合上条件化后仍有 Schatten 矩界；随后通过到二元扫描的解析转移，表明固定次数的扫描可在 O(d) 物理步内混合 2^d 张牌上的索普洗牌，与支撑下界的阶相匹配。",
+    "keyPoints": [
+      "对接近均匀线律的坐标扫描证明条件化后的 Schatten 矩界。",
+      "解析转移到二元扫描，表明固定次数扫描以 O(d) 物理步混合索普洗牌。",
+      "所得阶与支撑下界相匹配。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

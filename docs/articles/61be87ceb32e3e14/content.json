@@ -1,7 +1,7 @@
 {
   "id": "61be87ceb32e3e14",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何群论",
   "title": "A Modulus Proof of Cannon’s Conjecture",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-Modulus-Proof-of-Cannons-Conjecture-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every hyperbolic group whose boundary is homeomorphic to the two-sphere admits a proper cocompact isometric action on hyperbolic three-space with finite kernel. This resolves Cannon's conjecture positively.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Modulus Proof of Cannon’s Conjecture",
+  "titleZh": "Cannon猜想的模证明",
+  "details": {
+    "overview": "稿件研究边界同胚于二维球面的双曲群。作者声称证明每个此类群存在到双曲三维空间的真、余紧等距作用，核有限，从而正面解决Cannon猜想。研究意义在于将双曲群边界与三维双曲几何联系起来，但结果尚未经独立审查。",
+    "keyPoints": [
+      "研究对象是边界同胚于二维球面的双曲群。",
+      "作者声称该群有到双曲三维空间的真余紧等距作用，核有限。",
+      "摘要称这正面解决Cannon猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

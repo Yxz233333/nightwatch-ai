@@ -1,7 +1,7 @@
 {
   "id": "3b4f1e8185e0904a",
   "section": "papers",
-  "category": "数学论文",
+  "category": "算子代数",
   "title": "An isomorphism of the free group factors",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/An-isomorphism-of-the-free-group-factors-September-23-2026/An-isomorphism-of-the-free-group-factors-September-23-2026.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We solve the free group factor isomorphism problem affirmatively by proving that $`L(\\mathbb F_2)`$ and $`L(\\mathbb F_3)`$ are isomorphic as tracial von Neumann algebras. The classical free group factor alternative then implies that all interpolated free group factors, including $`L(\\mathbb F_\\infty)`$, are isomorphic and have fundamental group $`\\mathbb R_{\\gt 0}`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An isomorphism of the free group factors",
+  "titleZh": "自由群因子的一个同构",
+  "details": {
+    "overview": "该稿件研究自由群因子同构问题。作者声称证明L(F_2)与L(F_3)作为迹von Neumann代数同构，从而正面解决自由群因子同构问题；结合经典自由群因子二分法，作者称所有插值自由群因子（包括L(F_∞)）彼此同构且基本群为R_{>0}。该结果若成立，将统一自由群因子理论中的核心分类问题。但手稿为AI产生，收录不表示已完成独立审查或同行评议，结论尚待验证。",
+    "keyPoints": [
+      "作者声称L(F_2)与L(F_3)作为迹von Neumann代数同构。",
+      "作者称由此所有插值自由群因子同构，基本群为R_{>0}。",
+      "手稿为AI产生，未经独立审查或同行评议。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

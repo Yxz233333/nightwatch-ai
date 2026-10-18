@@ -1,7 +1,7 @@
 {
   "id": "d4ae22152dab51db",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论",
   "title": "Uniform marked-polygon estimates and sharp finite bridge moments",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Uniform-marked-polygon-estimates-and-sharp-finite-bridge-moments-September-26-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove a uniform bound for critical honeycomb polygons through two axial marks on a periodic staircase. The bound retains an explicit power of the ratio between the period and the marked separation. We also prove sharp finite strip estimates: bridge mass of order h−1/4, first-length mass at most $`Ch^{13/12}`$, and mass at least $`ch^{-1/4}`$ on bridges with length at least $`ch^{4/3}`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Uniform marked-polygon estimates and sharp finite bridge moments",
+  "titleZh": "一致标记多边形估计与尖锐有限桥矩",
+  "details": {
+    "overview": "稿件研究周期阶梯上通过两个轴向标记的临界蜂窝多边形。摘要表示，作者证明一个一致界，该界保留周期与标记间距之比的一个显式幂。作者还证明尖锐的有限条带估计：桥质量为 h^{-1/4} 阶，首长度质量至多 Ch^{13/12}，且在长度至少 ch^{4/3} 的桥上质量至少 ch^{-1/4}。研究意义在于给出标记多边形的一致估计和有限桥矩的尖锐上下界。",
+    "keyPoints": [
+      "证明周期阶梯上通过两轴向标记的临界蜂窝多边形的一致界。",
+      "该界显式保留周期与标记间距之比的幂。",
+      "有限条带桥质量 h^{-1/4}，首长度质量上界 Ch^{13/12}，长桥质量下界 ch^{-1/4}。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

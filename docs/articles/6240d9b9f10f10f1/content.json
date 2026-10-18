@@ -1,7 +1,7 @@
 {
   "id": "6240d9b9f10f10f1",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何分析",
   "title": "Determination of a metric and a unitary connection from one boundary patch",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Determination-of-a-metric-and-a-unitary-connection-from-one-boundary-patch-October-5-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that zero-frequency boundary measurements on any nonempty open boundary patch determine both a smooth Riemannian metric and a smooth unitary connection on the trivial Hermitian rank-two bundle over a compact connected smooth manifold of dimension at least three with smooth boundary. Both inputs and observations are restricted to the same patch. The metric and connection are determined up to a diffeomorphism and a unitary gauge that restrict to the identity on the measured patch.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Determination of a metric and a unitary connection from one boundary patch",
+  "titleZh": "由单个边界片确定度量与酉联络",
+  "details": {
+    "overview": "稿件研究紧致连通光滑流形上度量与酉联络的边界反问题。作者声称证明了：在维数至少三、具光滑边界的流形上，任意非空开边界片上的零频边界测量同时确定光滑黎曼度量与平凡Hermitian秩二丛上的光滑酉联络；输入与观测均限制在同一片上。确定程度为相差一个在测量片上限制为恒等的微分同胚与酉规范变换。该结果将边界刚性推广到单一片与联络耦合情形。",
+    "keyPoints": [
+      "单个非空开边界片上的零频测量同时确定度量与酉联络",
+      "流形维数至少三、具光滑边界，输入与观测限于同一片",
+      "确定到在测量片上为恒等的微分同胚与酉规范"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

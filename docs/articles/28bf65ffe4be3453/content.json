@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the endpoint gradient bound $`\\|\\nabla Mf\\|_1\\le C\\|\\nabla f\\|_1`$ for every real-valued $`f\\in W^{1,1}(\\mathbb R^2)`$, where $`Mf(x)`$ is the supremum of the averages of $`|f|`$ over disks centered at x, and C is an absolute constant. The maximal function belongs to $`W^{1,1}_{\\mathrm{loc}}(\\mathbb R^2)`$ and has a globally integrable weak gradient. This gives a positive resolution of the planar centered-disk case of the endpoint question of Hajłasz and Onninen.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An Endpoint Gradient Bound for the Centered Disk Maximal Operator",
+  "titleZh": "中心圆盘极大算子的端点梯度界",
+  "details": {
+    "overview": "稿件研究平面中心圆盘极大算子Mf的端点梯度估计。作者声称对每个实值f∈W^{1,1}(R^2)有‖∇Mf‖_1≤C‖∇f‖_1，其中C为绝对常数；极大函数属于W^{1,1}_{loc}(R^2)且具有全局可积弱梯度。摘要表示这正面解决了Hajłasz与Onninen端点问题的平面中心圆盘情形。",
+    "keyPoints": [
+      "证明‖∇Mf‖_1≤C‖∇f‖_1，C为绝对常数。",
+      "极大函数局部属于W^{1,1}且弱梯度全局可积。",
+      "作者声称正面解决Hajłasz–Onninen端点问题的平面中心圆盘情形。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

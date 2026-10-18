@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that, under the all-length critical measure, a honeycomb bridge crossing a strip of h layers, with its initial port fixed and its terminal port free, has mean length $`h^{4/3+o(1)}`$. We also obtain central visit probability $`R^{-2/3+o(1)}`$ and mean length $`R^{4/3+o(1)}`$ for macroscopic free-boundary chords in a regular hexagon.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Polynomial vacuum representations and bridge mass for honeycomb walks",
+  "titleZh": "蜂窝游走的多项式真空表示与桥质量",
+  "details": {
+    "overview": "稿件研究蜂窝格上临界自回避游走的桥与弦。作者声称在全长度临界测度下，跨越h层条带、初始端口固定而终端自由的蜂窝桥平均长度约为h^{4/3+o(1)}；并得到正六边形内宏观自由边界弦的中心访问概率R^{-2/3+o(1)}与平均长度R^{4/3+o(1)}。该结果刻画蜂窝游走桥与弦的标度行为，属AI产生手稿，未经独立审查。",
+    "keyPoints": [
+      "跨h层条带桥平均长度约h^{4/3+o(1)}",
+      "六边形内弦中心访问概率约R^{-2/3+o(1)}",
+      "宏观自由边界弦平均长度约R^{4/3+o(1)}"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

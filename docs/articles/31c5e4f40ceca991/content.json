@@ -10,5 +10,16 @@
   "abstractEnglish": "We show how information about partial permutations controls full permutation laws. Let n tend to infinity through multiples of eight. If the images of a uniformly chosen $`7n/8`$ labels approach the uniform injection law in average total variation, and the sign mean tends to zero, then the product of two independent permutations with the given law converges to uniform on Sn.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "From partial permutation information to Fourier bounds",
+  "titleZh": "从部分置换信息到Fourier界",
+  "details": {
+    "overview": "稿件研究部分置换信息如何控制完整置换律。作者设定n沿8的倍数趋于无穷，若均匀选取的7n/8个标签的像在平均全变差意义下趋近均匀单射律，且符号均值趋于零，则给定律下两个独立置换的乘积在S_n上收敛到均匀分布。摘要给出的是收敛性声称，未提供证明细节或独立验证。",
+    "keyPoints": [
+      "以7n/8个标签的部分置换信息控制完整置换律。",
+      "条件为平均全变差趋近均匀单射律且符号均值趋零。",
+      "两独立置换之积在S_n上收敛到均匀分布。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

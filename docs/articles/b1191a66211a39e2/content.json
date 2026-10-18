@@ -10,5 +10,16 @@
   "abstractEnglish": "We give an improved worst-case sample bound for reconstructing a string from independent deletion traces, with its length and retention probability known. For each fixed retention probability, the number of traces is quasipolynomial: the logarithm of the sample budget is $`O((\\log n)^3(1+\\log\\log(2n))^6)`$. If the deletion probability is at most $`n^{-\\varepsilon}`$ for fixed ε > 0, polynomially many traces suffice. These bounds apply to binary strings and to strings of general symbols observed exactly. They concern sample complexity and do not assert an efficient reconstruction algorithm or matching optimality.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A latest-anchor induction with spectrally compact masks for worst-case trace reconstruction",
+  "titleZh": "用于最坏情况轨迹重建的带谱紧致掩码的最新锚点归纳法",
+  "details": {
+    "overview": "该稿件研究从独立删除轨迹重建字符串的最坏情况样本复杂度，假设字符串长度与保留概率已知。作者声称对每个固定保留概率，所需轨迹数呈拟多项式规模，其对数上界为 O((log n)^3(1+log log(2n))^6)；若删除概率不超过 n^{-ε}，则多项式条轨迹足够。结果适用于二进制字符串及可精确观测的一般符号字符串。摘要明确表示只讨论样本复杂度，不声称给出高效重建算法或最优匹配。",
+    "keyPoints": [
+      "给出最坏情况删除轨迹重建的改进样本上界，对数预算为拟多项式量级。",
+      "删除概率不超过 n^{-ε} 时，多项式条轨迹即可满足重建需求。",
+      "适用于二进制与一般符号字符串，但不声称高效算法或最优性。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

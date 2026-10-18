@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove Goldfeld's analytic density conjecture: for every elliptic curve E over ℚ, the quadratic twists of E with analytic rank zero and one each have density 1/2 among signed squarefree twist parameters ordered by absolute value. We also prove the low-corank 2-converse: if the $`2^\\infty`$-Selmer corank of E is zero or one, then it equals the analytic and Mordell–Weil ranks, and the Tate–Shafarevich group is finite.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Goldfeld's analytic density conjecture and the 2-converse for elliptic curves",
+  "titleZh": "Goldfeld 解析密度猜想与椭圆曲线的 2-逆定理",
+  "details": {
+    "overview": "该稿件提出证明 Goldfeld 解析密度猜想：对 ℚ 上每条椭圆曲线 E，在按绝对值排序的有符号无平方因子扭参数中，解析秩为零和为一的二次扭各占密度 1/2。稿件还提出低余秩 2-逆定理：若 E 的 2^∞-Selmer 余秩为零或一，则其等于解析秩与 Mordell–Weil 秩，且 Tate–Shafarevich 群有限。稿件为 AI 产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "声称证明 Goldfeld 解析密度猜想。",
+      "解析秩 0 与 1 的二次扭各占密度 1/2。",
+      "低余秩 2-逆定理联系 Selmer 余秩、两种秩与 Tate–Shafarevich 群有限性。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

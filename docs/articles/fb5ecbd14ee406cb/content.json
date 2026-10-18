@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the centered uniform odd integer height function on triangular-lattice approximations of a smooth simply connected domain, with neighboring differences zero or two and boundary values +1 and −1 on two arcs, converges to a universal multiple of the Dirichlet Gaussian free field. This resolves the field part of Schramm's Problem 2.2. We give an absolutely convergent finite-volume formula for the normalization. The proof combines reflection positivity, a spectral sum rule, and boundary comparison with Gaussian moment identities.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Gaussian free field limit of integer Lipschitz heights with two-arc boundary data",
+  "titleZh": "带双弧边界数据的整数Lipschitz高度的Gaussian自由场极限",
+  "details": {
+    "overview": "稿件研究三角格逼近光滑单连通区域上中心化均匀奇整数高度函数，相邻差取0或2，边界值在两条弧上分别为+1和−1。作者声称该高度函数收敛到Dirichlet Gaussian自由场的某个普适倍数，并称这解决了Schramm问题2.2的场部分；摘要还给出绝对收敛的有限体积归一化公式，证明结合反射正性、谱求和规则以及与Gaussian矩恒等式的边界比较。该手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象是双弧±1边界下的中心化均匀奇整数高度函数。",
+      "作者声称其收敛到Dirichlet Gaussian自由场的普适倍数。",
+      "摘要称解决Schramm问题2.2的场部分并给出有限体积归一化公式。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

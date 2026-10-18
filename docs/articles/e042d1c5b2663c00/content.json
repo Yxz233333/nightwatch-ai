@@ -1,7 +1,7 @@
 {
   "id": "e042d1c5b2663c00",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数学物理",
   "title": "Scale and conformal symmetry in four-dimensional operational quantum field theory",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Scale-and-conformal-symmetry-in-four-dimensional-operational-quantum-field-theory-September-26-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that scale symmetry implies local conformal symmetry for a class of four-dimensional unitary, positive-energy quantum field theories with a Poincaré- and scale-invariant vacuum. The class has a discrete, bounded-below spectrum of scaling dimensions with finite multiplicities, and each original field has finite scaling support. The original fields and their adjoints have compatible affiliated realizations in a causally commuting bounded local net, and a physical local dilatation current generates scale transformations through its local Ward identities. The operational framework admits sharply localized reconstructed fields after their joint products and compatible affiliated realizations in the same net have been established. Under these hypotheses, the stress tensor admits a symmetric, conserved, traceless improvement with unchanged translation and Lorentz charges. The corresponding conformal currents satisfy unbroken local Ward identities on the physical field algebra. The conclusion is local; integration to a global conformal action on the whole bounded net remains a separate question.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Scale and conformal symmetry in four-dimensional operational quantum field theory",
+  "titleZh": "四维操作量子场论中的标度与共形对称性",
+  "details": {
+    "overview": "稿件研究一类四维幺正、正能量量子场论，其真空具有庞加莱与标度不变性，标度维数谱离散有下界且重数有限，每个原场有有限标度支撑。摘要表示，作者证明标度对称蕴含局部共形对称：原场及其伴随在因果交换的有界局部网中有相容的附属实现，物理局部伸缩流通过局部 Ward 恒等式生成标度变换；应力张量具有对称、守恒、无迹的改进且平移与洛伦兹荷不变，共形流满足未破缺局部 Ward 恒等式。结论是局部的，积分成全局共形作用仍是独立问题。",
+    "keyPoints": [
+      "在一类四维幺正正能量场论中证明标度对称蕴含局部共形对称。",
+      "应力张量存在对称守恒无迹改进，共形流满足局部 Ward 恒等式。",
+      "结论限于局部，全局共形作用的积分仍是未决问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

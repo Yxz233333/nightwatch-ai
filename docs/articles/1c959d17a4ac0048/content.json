@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the integer-action case of the Phillips–Toms conjecture: for every minimal homeomorphism of an infinite compact metrizable space, the radius of comparison of its crossed product equals one half of its mean dimension, including equality at infinity. For these systems, zero mean dimension and the small boundary property are equivalent to Jiang–Su stability and to finite nuclear dimension of the crossed product; in this case its nuclear dimension is at most one.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Radius of comparison equals half the mean dimension",
+  "titleZh": "比较半径等于平均维数的一半",
+  "details": {
+    "overview": "该稿件研究极小同胚交叉积的C∗-代数不变量。作者声称证明Phillips–Toms猜想的整数作用情形：对无限紧致可度量化空间上每个极小同胚，其交叉积的比较半径等于平均维数的一半，包括无穷处取等。摘要还称对这些系统，平均维数为零与小边界性质等价于Jiang–Su稳定和交叉积有限核维数，且此时核维数至多一。意义在于把比较半径与平均维数精确联系起来，并给出稳定性刻画，但结果尚待独立审查。",
+    "keyPoints": [
+      "作者声称对极小同胚交叉积，比较半径等于平均维数的一半，含无穷处取等。",
+      "摘要称零平均维数与小边界性质等价于Jiang–Su稳定及有限核维数。",
+      "该情形下交叉积的核维数至多为一。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

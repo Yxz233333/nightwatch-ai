@@ -1,7 +1,7 @@
 {
   "id": "b080bbe6e85e0baf",
   "section": "papers",
-  "category": "数学论文",
+  "category": "偏微分方程与反问题",
   "title": "Global Uniqueness for the Smooth Isotropic Elasticity Inverse Problem",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Global-Uniqueness-for-the-Smooth-Isotropic-Elasticity-Inverse-Problem-September-24-2026/article.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the full static displacement-to-traction map uniquely determines both real smooth Lamé moduli on every bounded connected smooth domain in ℝ3, provided μ > 0 and $`3\\lambda+2\\mu\\gt 0`$ on the closure. This resolves the smooth three-dimensional isotropic elastic Calderón uniqueness problem under these positivity assumptions.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Global Uniqueness for the Smooth Isotropic Elasticity Inverse Problem",
+  "titleZh": "光滑各向同性弹性反问题的全局唯一性",
+  "details": {
+    "overview": "该稿件研究三维有界连通光滑区域上的各向同性弹性反问题。作者声称证明完整的静态位移—牵引映射唯一确定两个实光滑Lamé模量，前提是闭包上μ>0且3λ+2μ>0。摘要称这解决了这些正性假设下光滑三维各向同性弹性Calderón唯一性问题。若成立，将为弹性成像类反问题的唯一性提供理论依据。",
+    "keyPoints": [
+      "位移—牵引映射被声称唯一确定两个光滑Lamé模量。",
+      "结论依赖μ>0与3λ+2μ>0的正性假设。",
+      "作者称解决光滑三维各向同性弹性Calderón唯一性问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

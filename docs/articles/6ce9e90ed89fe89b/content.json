@@ -10,5 +10,16 @@
   "abstractEnglish": "At every fixed positive computable viscosity, we construct smooth mean-zero forces on the flat three-torus that become stationary after time one and make a fixed particle, initially in a fluid at rest, enter a fixed open set exactly when a prescribed Turing machine halts. The force has bounded derivatives of every order and a finite effective description. A reversible recording table is realized on whole planar rectangles by Hamiltonian motions, then driven by a mean-zero spatial clock. Separate choices give periodic forcing from time zero or a force whose derivatives are square-integrable in time.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Universal Computation with Eventually Stationary Navier–Stokes Forcing",
+  "titleZh": "最终静止Navier–Stokes强迫下的通用计算",
+  "details": {
+    "overview": "稿件研究平坦三维环面上最终静止的Navier–Stokes强迫。作者声称，在每个固定正可计算黏性下，构造光滑零均值外力，在时间1后变为静止，使初始静止流体中的固定质点恰在给定图灵机停机时进入固定开集。外力各阶导数有界且具有有限有效描述。可逆记录表由哈密顿运动在平面矩形上实现，再由零均值空间时钟驱动；另可选择从零时刻起的周期强迫或时间平方可积导数。",
+    "keyPoints": [
+      "构造时间1后静止的光滑零均值外力，编码图灵机停机。",
+      "固定流体质点进入固定开集当且仅当给定图灵机停机。",
+      "外力各阶导数有界且具有有限有效描述。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

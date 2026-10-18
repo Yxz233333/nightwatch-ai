@@ -10,5 +10,15 @@
   "abstractEnglish": "We prove that every compact connected Kähler manifold of positive complex dimension containing no nonconstant entire curve has ample canonical bundle and is projective. This resolves positively Kobayashi's canonical-ampleness conjecture in the smooth compact Kähler category.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Canonical ampleness of compact hyperbolic Kähler manifolds",
+  "titleZh": "紧双曲Kähler流形的典范丰沛性",
+  "details": {
+    "overview": "稿件研究正复维数、不含非常数整曲线的紧连通Kähler流形，证明其典范丛丰沛且流形射影。摘要表示，这正面解决了光滑紧Kähler范畴中的Kobayashi典范丰沛性猜想。该结果属于复几何与双曲性理论。",
+    "keyPoints": [
+      "证明不含非常数整曲线的紧连通Kähler流形典范丛丰沛且射影。",
+      "正面解决光滑紧Kähler范畴的Kobayashi典范丰沛性猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

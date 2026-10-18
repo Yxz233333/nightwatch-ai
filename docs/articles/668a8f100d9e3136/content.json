@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove Milne's rationality conjecture for abelian varieties, including residue characteristic 2. After good reduction, the pairing of a rational Hodge class with any complementary product of divisor classes on the reduction is the same rational number in every prime-to-p realization and in crystalline cohomology. Using the Hodge theorem for CM abelian varieties, we also show that every such specialized Hodge class is represented by a single rational algebraic cycle in all these realizations.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Milne's rationality conjecture for abelian varieties",
+  "titleZh": "阿贝尔簇的 Milne 有理性猜想",
+  "details": {
+    "overview": "该稿件声称证明阿贝尔簇的 Milne 有理性猜想，包括剩余特征为 2 的情形。在好约化下，有理 Hodge 类与约化上任意互补除子类乘积的配对，在每个与 p 互素的实现及晶体上同调中给出相同有理数。借助 CM 阿贝尔簇的 Hodge 定理，稿件还称每个此类特殊化 Hodge 类在这些实现中由单个有理代数圈表示。稿件为 AI 产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "声称证明阿贝尔簇的 Milne 有理性猜想，含剩余特征 2。",
+      "好约化下配对在素-to-p 实现与晶体上同调中给出同一有理数。",
+      "借助 CM 阿贝尔簇 Hodge 定理，称特殊化 Hodge 类由单个有理代数圈表示。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

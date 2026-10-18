@@ -1,7 +1,7 @@
 {
   "id": "dcdff8a81118cbc6",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数拓扑与范畴论",
   "title": "Thomason Model Structures in Every Strict Higher Dimension",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Thomason-Model-Structures-in-Every-Strict-Higher-Dimension-September-25-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the higher-dimensional Thomason model-structure conjecture of Ara and Maltsiniotis. For every $`1\\le n\\le\\infty`$, the category of small strict globular n-categories admits a proper combinatorial model structure that is Quillen equivalent to simplicial sets. Its weak equivalences and fibrations are detected by the twice-extended Street nerve $`\\mathrm{Ex}^2N_n`$, and the Quillen equivalence is given by $`c_n\\mathrm{Sd}^2\\dashv\\mathrm{Ex}^2N_n`$. Thus strict higher categories model the homotopy theory of spaces in every positive finite dimension and in dimension ω.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Thomason Model Structures in Every Strict Higher Dimension",
+  "titleZh": "每个严格高维中的Thomason模型结构",
+  "details": {
+    "overview": "该稿件研究Ara与Maltsiniotis提出的高维Thomason模型结构猜想。作者声称，对每个1≤n≤∞，小严格球状n-范畴的范畴具有一个真组合模型结构，且Quillen等价于单纯集；弱等价与纤维化由二次扩张的Street神经Ex²Nₙ检测，Quillen等价由cₙSd²⊣Ex²Nₙ给出。若成立，则严格高范畴在每一正有限维及ω维中建模空间的同伦论。",
+    "keyPoints": [
+      "声称证明Ara–Maltsiniotis高维Thomason模型结构猜想",
+      "弱等价与纤维化由二次扩张Street神经Ex²Nₙ检测",
+      "Quillen等价由cₙSd²⊣Ex²Nₙ给出，覆盖1≤n≤∞"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

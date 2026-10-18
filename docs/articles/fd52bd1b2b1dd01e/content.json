@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the Thorp shuffle on $`2^d`$ cards mixes in $`\\Theta(d)`$ complete shuffles. The full permutation law after $`1600d`$ shuffles converges to uniform in total variation as $`d\\to\\infty`$, uniformly over the initial deck, while a support count gives a lower bound of $`2d-O(1)`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Optimal-order mixing of the Thorp shuffle",
+  "titleZh": "索普洗牌的最优阶混合",
+  "details": {
+    "overview": "该稿件研究 2^d 张牌上的索普洗牌。摘要表示，作者证明该洗牌在 Θ(d) 次完整洗牌内混合：经过 1600d 次洗牌后的完整置换律在 d→∞ 时以全变差收敛到均匀分布，且对初始牌序一致；同时支撑计数给出 2d-O(1) 的下界。",
+    "keyPoints": [
+      "作者证明 2^d 张牌上的索普洗牌在 Θ(d) 次完整洗牌内混合。",
+      "1600d 次洗牌后置换律以全变差收敛到均匀分布，且对初始牌序一致。",
+      "支撑计数给出 2d-O(1) 的混合下界。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

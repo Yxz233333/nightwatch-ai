@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every Hodge-generic algebraic curve in $`\\mathcal A_2`$ over $`\\overline{\\mathbb Q}`$ contains only finitely many points whose abelian surface is isogenous to the square of an elliptic curve without complex multiplication (CM). Combining this result with the companion $`E\\times\\mathrm{CM}`$ and quaternionic-division finiteness theorems, we prove the curve case of Zilber–Pink in $`\\mathcal A_2`$ over $`\\overline{\\mathbb Q}`$, without a boundary hypothesis.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Elliptic squares and Zilber–Pink for curves in A2",
+  "titleZh": "椭圆平方与 A2 中曲线的 Zilber–Pink",
+  "details": {
+    "overview": "稿件研究 A2 中曲线的 Zilber–Pink 型有限性。作者声称证明：Q 上每个Hodge一般的代数曲线只含有限多个点，其阿贝尔曲面同源于无复乘椭圆曲线的平方。结合关于 E×CM 与四元数除子的配套有限性定理，作者证明 Q 上 A2 中曲线情形的 Zilber–Pink，且无需边界假设。摘要表示这推进了该情形下的有限性结论。",
+    "keyPoints": [
+      "Hodge一般曲线中同源于无CM椭圆平方的点有限",
+      "结合 E×CM 与四元数除子有限性定理",
+      "证明 Q 上 A2 曲线情形的 Zilber–Pink，无需边界假设"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

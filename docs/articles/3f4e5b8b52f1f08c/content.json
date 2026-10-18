@@ -1,7 +1,7 @@
 {
   "id": "3f4e5b8b52f1f08c",
   "section": "papers",
-  "category": "数学论文",
+  "category": "微分几何",
   "title": "Smooth isometric immersions of closed surfaces into Euclidean four-space",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Smooth-isometric-immersions-of-closed-surfaces-into-Euclidean-four-space-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "Every closed smooth Riemannian surface admits a smooth isometric immersion into Euclidean four-space, without an orientability assumption. This resolves the closed-surface form of the classical four-dimensional isometric-immersion problem.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Smooth isometric immersions of closed surfaces into Euclidean four-space",
+  "titleZh": "闭曲面到欧氏四维空间的光滑等距浸入",
+  "details": {
+    "overview": "该稿件研究闭曲面到欧氏四维空间的等距浸入问题。作者声称每个闭光滑黎曼曲面都可光滑等距浸入欧氏四维空间，且不假设可定向性，从而解决经典四维等距浸入问题的闭曲面情形。该结果若成立，将把Nash型嵌入理论中的维数问题在闭曲面情形下推进到四维。但手稿为AI产生，收录不表示已完成独立审查或同行评议，结论尚待验证。",
+    "keyPoints": [
+      "作者声称每个闭光滑黎曼曲面均可光滑等距浸入欧氏四维空间。",
+      "结论不要求曲面可定向，解决闭曲面形式的四维等距浸入问题。",
+      "手稿为AI产生，未经独立审查或同行评议。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "7ac046fee6f0a3f8",
   "section": "papers",
-  "category": "数学论文",
+  "category": "调和分析与几何测度论",
   "title": "Riesz transforms and uniform rectifiability in higher codimension",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Riesz-transforms-and-uniform-rectifiability-in-higher-codimension-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that an n-Ahlfors–David regular Radon measure on ℝd is uniformly n-rectifiable if its n-dimensional Riesz transform is uniformly bounded from scalar $`L^2(\\mu)`$ to vector-valued $`L^2(\\mu)`$ over all positive hard truncations, for integers d ≥ 4 and $`2\\le n\\le d-2`$. This gives a positive answer to the David–Semmes Riesz-transform question in its remaining higher-codimension range. The conclusion gives uniform big pieces of Lipschitz images of Euclidean balls.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Riesz transforms and uniform rectifiability in higher codimension",
+  "titleZh": "高余维下的Riesz变换与一致可求长性",
+  "details": {
+    "overview": "稿件研究ℝd上n-Ahlfors–David正则Radon测度的一致n-可求长性，作者声称：当d≥4、2≤n≤d−2时，若n维Riesz变换在所有正硬截断上从标量L²(μ)到向量值L²(μ)一致有界，则测度一致n-可求长。摘要表示这正面回答了David–Semmes Riesz变换问题剩余的高余维情形，结论给出欧氏球Lipschitz像的一致大块。该工作把Riesz变换刻画从余维一推广到更高余维。",
+    "keyPoints": [
+      "设定为ℝd上n-Ahlfors–David正则测度，参数范围d≥4、2≤n≤d−2。",
+      "条件为n维Riesz变换在所有正硬截断上一致有界。",
+      "作者声称正面解决David–Semmes问题的高余维剩余情形。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "342ff5cfd116d294",
   "section": "papers",
-  "category": "数学论文",
+  "category": "辛几何与哈密顿动力学",
   "title": "Three fixed points on the symplectic quadric threefold",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-degenerate-counterexample-to-the-critical-number-Arnold-bound-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a smooth Hamiltonian diffeomorphism of the complex quadric threefold with exactly three fixed points, at least one of which is degenerate. The critical number and the unit-inclusive rational cup length of this manifold are both four. Thus the example disproves the unrestricted critical-number and rational cup-length forms of the Arnold conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Three fixed points on the symplectic quadric threefold",
+  "titleZh": "辛四维二次超曲面上的三个不动点",
+  "details": {
+    "overview": "稿件在复四维二次超曲面上构造一个光滑哈密顿微分同胚，恰有三个不动点，且至少一个退化。摘要指出该流形的临界数与含单位有理杯长均为四，因此该例子否定Arnold猜想中无限制的临界数形式和有理杯长形式。该结果若成立将揭示Arnold猜想在一般辛流形上的适用边界。",
+    "keyPoints": [
+      "在复四维二次超曲面上构造恰有三个不动点的光滑哈密顿微分同胚。",
+      "至少一个不动点是退化的，且临界数与有理杯长均为四。",
+      "作者声称该例子否定Arnold猜想的无限制临界数和有理杯长形式。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

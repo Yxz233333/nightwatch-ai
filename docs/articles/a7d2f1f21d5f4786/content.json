@@ -1,7 +1,7 @@
 {
   "id": "a7d2f1f21d5f4786",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数几何与远阿贝尔几何",
   "title": "The Bogomolov-Pop reconstruction theorem",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-Bogomolov-Pop-reconstruction-theorem-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Bogomolov–Pop reconstruction conjecture for function fields of transcendence degree at least two over arbitrary algebraically closed fields of characteristic different from ℓ. The pro-ℓ abelian-by-central datum determines the perfect closure and its constant field, with precisely the Frobenius and ℓ-adic unit ambiguities.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Bogomolov-Pop reconstruction theorem",
+  "titleZh": "Bogomolov–Pop重构定理",
+  "details": {
+    "overview": "该稿件声称对特征不等于ℓ的任意代数闭域上超越次数至少二的函数域，证明了Bogomolov–Pop重构猜想。摘要称pro-ℓ阿贝尔-by-中心数据决定完全闭包及其常数域，且恰好带有Frobenius与ℓ进单位的不确定性。摘要未说明证明技术。若成立，将为远阿贝尔几何中函数域的重构问题提供一般性结论。需注意这是AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "稿件声称证明超越次数至少二的函数域上的Bogomolov–Pop重构猜想。",
+      "pro-ℓ阿贝尔-by-中心数据决定完全闭包与常数域。",
+      "不确定性恰为Frobenius与ℓ进单位；摘要未给证明细节。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

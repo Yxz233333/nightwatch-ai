@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove Hindman's finite sums and products conjecture: for every finite coloring of the positive integers and every positive integer k, there is a k-element set whose nonempty subset sums and nonempty subset products all have the same color.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Monochromatic finite sums and products in the positive integers",
+  "titleZh": "正整数中的单色有限和与积",
+  "details": {
+    "overview": "稿件研究正整数有限着色下的单色有限和与积问题。作者声称证明了Hindman有限和与积猜想：对正整数的每个有限着色及每个正整数k，存在一个k元集合，其所有非空子集和与所有非空子集积均具有相同颜色。该结果若成立，将解决Ramsey理论中关于和与积联合结构的长期猜想。摘要未提供证明方法或独立审查信息。",
+    "keyPoints": [
+      "证明Hindman有限和与积猜想。",
+      "对任意有限着色和任意k，存在k元集合使非空子集和与积同色。",
+      "研究对象为正整数的有限着色。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

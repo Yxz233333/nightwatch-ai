@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every holomorphic one-parameter family of isolated hypersurface singularities in ℂ3 with constant Milnor number is topologically right-trivial. This gives a positive answer to the surface case of the μ-constant problem. The trivialization fixes the parameter and the origin section, and preserves the defining functions.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Topological triviality of mu-constant families of surface singularities",
+  "titleZh": "曲面奇点μ常数族的拓扑平凡性",
+  "details": {
+    "overview": "该稿件研究ℂ³中孤立超曲面奇点的单参数全纯族。作者声称证明：当Milnor数保持常数时，该族是拓扑右平凡的，从而对μ常数问题的曲面情形给出肯定回答。摘要还表示平凡化固定参数与原点截面并保持定义函数。若成立，将刻画曲面奇点在形变中Milnor数不变时的拓扑稳定性。",
+    "keyPoints": [
+      "研究对象为ℂ³中孤立超曲面奇点的单参数全纯族。",
+      "作者声称Milnor数恒定时该族拓扑右平凡，回答曲面情形。",
+      "平凡化固定参数与原点截面，并保持定义函数。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

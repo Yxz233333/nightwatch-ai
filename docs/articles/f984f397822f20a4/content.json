@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a two-dimensional ramified regular local ring A of mixed characteristic $`(0,5)`$ for which $`K_5(A)\\to K_5(\\mathop{\\mathrm{Frac}}\\nolimits A)`$ has a nonzero kernel. This disproves Gersten's conjecture in its unrestricted integral form.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "An integral counterexample to Gersten's conjecture",
+  "titleZh": "Gersten猜想的整系数反例",
+  "details": {
+    "overview": "稿件构造了一个混合特征(0,5)的二维分歧正则局部环A，使得K_5(A)到K_5(Frac A)的映射具有非零核。这否定了Gersten猜想在无限制整形式下的表述。该反例属于代数K理论领域，对理解局部环的K理论性质具有重要意义。",
+    "keyPoints": [
+      "构造混合特征(0,5)的二维分歧正则局部环A。",
+      "证明K_5(A)到K_5(Frac A)的映射有非零核。",
+      "否定Gersten猜想的无限制整形式。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

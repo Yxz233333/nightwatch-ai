@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the packet form of the higher-dimensional Duke equidistribution problem for totally real fields of any fixed prime degree at least five, allowing arbitrary local homothety types of full lattices. As the multiplier-order discriminant tends to infinity, the volume-weighted packet measures converge to Haar probability measure, with no escape of mass.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Equidistribution of Prime-Degree Torus Packets with Arbitrary Local Type",
+  "titleZh": "任意局部类型的素数次数环面包的等分布",
+  "details": {
+    "overview": "该稿件研究全实域上高维Duke等分布问题的“包”形式。作者声称对任意固定素数次数至少五的全实域，允许满格任意局部同缩类型，证明当乘子阶判别式趋于无穷时，体积加权包测度收敛到Haar概率测度且无质量逃逸。若成立，将把高维环面包等分布推广到任意局部类型。",
+    "keyPoints": [
+      "研究素数次数至少五的全实域上高维环面包的等分布。",
+      "允许满格任意局部同缩类型，不限制局部类型。",
+      "作者声称体积加权包测度收敛到Haar概率测度且无质量逃逸。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the quaternionic-division component of Zilber–Pink for curves in $`\\mathcal A_2`$ over $`\\overline{\\mathbb Q}`$. A Hodge-generic algebraic curve contains only finitely many points whose full geometric rational endomorphism algebra is an indefinite quaternion division algebra over ℚ. No boundary or reduction hypothesis is required.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Quaternionic division points on curves in the Siegel threefold",
+  "titleZh": "Siegel三折中曲线上的四元数除点",
+  "details": {
+    "overview": "稿件研究Siegel三折𝒜₂中曲线上的四元数除点，属于Zilber–Pink型问题的一个分量。作者声称在ℚ上证明了曲线情形下的四元数除分量：Hodge一般的代数曲线只含有限多个点，其完整几何有理自同态代数是ℚ上的不定四元数除代数，且不需要边界或约化假设。材料仅提供摘要，未给出证明细节与独立验证。",
+    "keyPoints": [
+      "研究对象为𝒜₂中曲线上的四元数除点。",
+      "作者声称Hodge一般曲线只含有限多个此类点。",
+      "结论不需要边界或约化假设。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

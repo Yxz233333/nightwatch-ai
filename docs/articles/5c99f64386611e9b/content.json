@@ -1,7 +1,7 @@
 {
   "id": "5c99f64386611e9b",
   "section": "papers",
-  "category": "数论与算术几何",
+  "category": "代数拓扑",
   "title": "Failure of finite assembly for a chromatic overlap at the prime three",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Failure-of-finite-assembly-for-a-chromatic-overlap-at-the-prime-three-September-25-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "At the prime three and height three, the chromatic overlap cannot be constructed from the rational, height-one, and height-two local spheres by finitely many sums, shifts, cofibers, and retracts in the category of $`E(2)`$-local modules over the derived 3-complete sphere. This gives a negative answer to the ordinary finite-assembly question for chromatic overlaps.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Failure of finite assembly for a chromatic overlap at the prime three",
+  "titleZh": "素数三处色重叠的有限装配失败",
+  "details": {
+    "overview": "该稿件在素数 p=3、高度 3 的设定下研究色重叠（chromatic overlap）的有限装配问题。作者声称，在派生 3-完备球谱上的 E(2)-局部模范畴中，该色重叠不能由有理局部球、高度一局部球与高度二局部球经过有限多次和、平移、余纤维与收缩构造得到。摘要表示这给出了色重叠的普通有限装配问题的否定答案。",
+    "keyPoints": [
+      "研究对象是素数 3、高度 3 的色重叠在 E(2)-局部模范畴中的构造。",
+      "作者声称有理、高度一、高度二局部球经有限运算无法装配出该对象。",
+      "摘要称这否定回答了色重叠的普通有限装配问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

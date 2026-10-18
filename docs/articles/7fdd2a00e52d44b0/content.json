@@ -10,5 +10,16 @@
   "abstractEnglish": "We resolve De Giorgi's conjecture positively in dimension eight: every entire C2 solution $`u:\\mathbb R^8\\to(-1,1)`$ of $`\\Delta u=u^3-u`$ with an everywhere positive directional derivative is a planar heteroclinic. We prove that every stable solution $`v:\\mathbb R^7\\to[-1,1]`$ of this equation is a constant well or a planar heteroclinic, without an energy-growth assumption.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A positive resolution of De Giorgi's conjecture in dimension eight",
+  "titleZh": "八维De Giorgi猜想的一个正面解决",
+  "details": {
+    "overview": "稿件研究Allen-Cahn型方程Δu=u^3-u在整个空间上的解。作者声称在八维情形正面解决De Giorgi猜想：若u:ℝ^8→(-1,1)为C²解且某方向导数处处为正，则u为平面异宿解；并证明ℝ^7上该方程的所有稳定解为常数井或平面异宿解，无需能量增长假设。该结果若成立将推进De Giorgi猜想的维数边界，但属AI产生手稿，未经独立审查。",
+    "keyPoints": [
+      "八维中方向导数处处为正的解为平面异宿解",
+      "七维稳定解分类无需能量增长假设",
+      "声称正面解决八维De Giorgi猜想"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

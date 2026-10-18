@@ -1,7 +1,7 @@
 {
   "id": "45dcf1b259954c9b",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论",
   "title": "The Reconstruction Threshold for the Ferromagnetic Four-State Potts Model",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-Reconstruction-Threshold-for-the-Ferromagnetic-Four-State-Potts-Model-October-5-2026/four-state-potts.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We establish the exact Kesten–Stigum reconstruction threshold for the ferromagnetic four-state Potts broadcast model on every regular d-ary tree with d ≥ 2 and every Poisson Galton–Watson tree of mean d > 0. Reconstruction occurs exactly when $`d\\lambda^2\\gt 1`$; we prove nonreconstruction at and below the threshold, including equality. In the Poisson model the whole tree is observed and the reconstruction advantage is averaged without conditioning on survival. The proof uses reproducible exact-arithmetic verification of polynomial inequalities.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Reconstruction Threshold for the Ferromagnetic Four-State Potts Model",
+  "titleZh": "铁磁四态Potts模型的重构阈值",
+  "details": {
+    "overview": "稿件研究铁磁四态Potts广播模型在正则d叉树（d≥2）和均值d>0的Poisson Galton–Watson树上的重构阈值。作者声称精确Kesten–Stigum阈值为dλ²>1，并证明在阈值处及以下（含等号）不发生重构。Poisson模型中观测整棵树，重构优势不条件于存活而取平均。证明使用多项式不等式的可复现精确算术验证。",
+    "keyPoints": [
+      "在正则d叉树与Poisson Galton–Watson树上确定精确Kesten–Stigum重构阈值",
+      "重构恰在dλ²>1时发生，阈值处及以下（含等号）证明不发生重构",
+      "Poisson模型观测整棵树，重构优势不条件于存活而取平均"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a finitely presented integral Poincaré duality group of dimension four that has a finite classifying space but is not the fundamental group of any closed aspherical topological four-manifold. This gives a negative answer to Wall's manifold-realization question in dimension four.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A PD4 group without an aspherical manifold model",
+  "titleZh": "一个没有非球流形模型的PD4群",
+  "details": {
+    "overview": "稿件研究四维Poincaré对偶群的流形实现问题。摘要表示，作者构造了一个有限表示的四维整Poincaré对偶群，它有有限分类空间，但不是任何闭非球拓扑四维流形的基本群，从而在四维对Wall的流形实现问题给出否定回答。该结果若成立，将说明有限分类空间的存在不足以保证四维非球流形模型的存在。手稿为AI产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "构造有限表示的四维整Poincaré对偶群，具有限分类空间。",
+      "该群不是任何闭非球拓扑四维流形的基本群。",
+      "作者声称否定Wall流形实现问题在四维的答案。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

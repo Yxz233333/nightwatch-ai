@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct smooth solenoidal mean-zero forces, periodic from time zero, for which a fixed particle on a flat three-torus reaches a fixed open strip exactly when a given machine halts. The initial fluid velocity and the pressure are zero. We also realize positive diagonal maps on coding sheets by incompressible shears, with explicit normal compensation for changes of planar area, and reciprocal maps on whole boxes of positive thickness. Complete local inverses, initialization rules, and intermediate trajectory bounds connect these geometric constructions to finite computations.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Geometric Programs for Solenoidal Forcing",
+  "titleZh": "螺线管驱动的几何程序",
+  "details": {
+    "overview": "该稿件构造光滑、螺线管、均值为零且从零时刻起周期的力，使平坦三维环面上的固定粒子恰在给定机器停机时到达固定开带，初始流体速度与压力均为零。摘要表示，作者还用不可压缩剪切在编码片上实现正对角映射，并对平面面积变化给出显式法向补偿，以及在正厚度整盒上实现互反映射；完整的局部逆、初始化规则和中间轨迹界把这些几何构造与有限计算连接起来。",
+    "keyPoints": [
+      "构造从零时刻周期、均值为零的光滑螺线管力，使粒子到达开带当且仅当机器停机。",
+      "用不可压缩剪切实现编码片上的正对角映射并显式补偿面积变化。",
+      "局部逆、初始化规则与轨迹界把几何构造连接到有限计算。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove a uniform spectral gap for odd open spin-one antiferromagnetic Heisenberg chains with the same fixed magnetic field at both endpoints. The field $`h=3/5`$ gives a gap greater than $`\\log(10)/392`$ on every chain of $`2L+1`$ sites with L ≥ 960. Tasaki's index theorem then gives index −1 for every subsequential local limit of these boundary-selected ground states.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A boundary-field gap for the spin-one Heisenberg chain",
+  "titleZh": "自旋1海森堡链的边界-场间隙",
+  "details": {
+    "overview": "该稿件研究奇数长度开边界自旋1反铁磁海森堡链，两端施加相同固定磁场。作者声称证明一致谱间隙：当磁场h=3/5时，在2L+1个格点且L≥960的每条链上间隙大于log(10)/392；并称结合Tasaki指标定理，这些边界选择基态的每个子列局部极限指标为−1。若成立，可为该边界条件下基态性质提供定量间隙估计。",
+    "keyPoints": [
+      "研究两端同场、奇数长度的开边界自旋1反铁磁海森堡链。",
+      "作者声称h=3/5时对L≥960的链给出一致谱间隙下界。",
+      "结合Tasaki指标定理，称子列局部极限指标为−1。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

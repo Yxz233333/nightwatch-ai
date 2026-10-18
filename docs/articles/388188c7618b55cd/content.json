@@ -1,7 +1,7 @@
 {
   "id": "388188c7618b55cd",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数表示论",
   "title": "A counterexample to Tachikawa's second conjecture",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-counterexample-to-Tachikawas-second-conjecture-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We disprove Tachikawa's second conjecture by constructing a finite-dimensional symmetric algebra over $`k=\\mathbb F_2(q,H_1,H_2)`$ with a finite-dimensional nonprojective module whose self-extension groups vanish in every positive degree. The associated endomorphism algebra also gives counterexamples to the classical, generalized, and strong Nakayama conjectures, the Auslander–Gorenstein conjecture, and the Wakamatsu tilting conjecture. These conclusions persist after every extension of k.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A counterexample to Tachikawa's second conjecture",
+  "titleZh": "Tachikawa第二猜想的反例",
+  "details": {
+    "overview": "稿件通过构造k=F_2(q,H_1,H_2)上的有限维对称代数，给出一个有限维非投射模，其各正次自扩张群均为零，从而否定Tachikawa第二猜想。摘要还称相关自同态代数同时构成经典、广义和强Nakayama猜想、Auslander–Gorenstein猜想及Wakamatsu倾斜猜想的反例，且这些结论在k的任意扩域后仍成立。该结果若成立将对代数表示论中多个长期猜想产生冲击。",
+    "keyPoints": [
+      "构造有限维对称代数上的非投射模，其所有正次自扩张群为零。",
+      "作者声称该构造否定Tachikawa第二猜想。",
+      "摘要表示同一构造还给出多个Nakayama型及倾斜猜想的反例。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

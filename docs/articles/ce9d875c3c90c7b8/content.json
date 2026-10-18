@@ -1,7 +1,7 @@
 {
   "id": "ce9d875c3c90c7b8",
   "section": "papers",
-  "category": "组合数学与图论",
+  "category": "数学论文",
   "title": "A rational obstruction to strong chromatic splitting at height three",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-rational-obstruction-to-strong-chromatic-splitting-at-height-three-September-25-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For every prime p ≥ 5, the canonical map $`L_0L_{K(3)}S\\to L_0L_{K(2)}L_{K(3)}S`$ for the sphere spectrum S is nonzero on π−3. Consequently, the height-three strong chromatic splitting formula is false in this range, even as an equivalence of underlying $`E(2)`$-local spectra without specified summand maps.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A rational obstruction to strong chromatic splitting at height three",
+  "titleZh": "高度三强色分裂的有理障碍",
+  "details": {
+    "overview": "稿件研究球谱 S 在高度三的强色分裂公式。作者声称，对每个素数 p ≥ 5，典范映射 L_0L_{K(3)}S → L_0L_{K(2)}L_{K(3)}S 在 π_{-3} 上非零。因此，高度三强色分裂公式在该范围内不成立，即使作为底层 E(2)-局部谱的等价（未指定分拆映射）也不成立。摘要表示这给出了一个有理障碍。",
+    "keyPoints": [
+      "对 p ≥ 5，典范映射在 π_{-3} 上非零。",
+      "高度三强色分裂公式在该范围不成立。",
+      "即使作为底层 E(2)-局部谱的等价也不成立。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

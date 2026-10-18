@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove Ostmann's inverse Goldbach conjecture: no set differing from the primes by finitely many elements can be written as $`A+B`$, where A and B are sets of nonnegative integers with at least two elements each.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The additive indecomposability of the primes",
+  "titleZh": "素数的加法不可分解性",
+  "details": {
+    "overview": "稿件研究Ostmann逆Goldbach猜想。摘要声称证明：任何与素数集仅相差有限个元素的集合，都不能写成A+B的形式，其中A和B均为至少含两个元素的非负整数集。研究意义在于揭示素数集在加法分解下的不可约性，但该手稿为AI产生，尚未经独立审查或同行评议，结论需进一步验证。",
+    "keyPoints": [
+      "证明与素数集相差有限元素的集合不能分解为两个非负整数集之和。",
+      "解决Ostmann逆Goldbach猜想。",
+      "手稿为AI产生，收录不表示已完成独立审查或同行评议。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

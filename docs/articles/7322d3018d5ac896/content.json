@@ -1,7 +1,7 @@
 {
   "id": "7322d3018d5ac896",
   "section": "papers",
-  "category": "组合数学与图论",
+  "category": "群论与同伦论",
   "title": "Cyclic length and chromatic fixed-point loss",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Cyclic-Length-and-Chromatic-Fixed-Point-Loss-September-24-2026/Cyclic-Length-and-Chromatic-Fixed-Point-Loss-September-24-2026.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For a finite p-group G and a subgroup H, we prove that the optimal chromatic fixed-point loss equals the shortest length of a subnormal chain from H to G with cyclic quotients. The equality holds at every prime and every nonnegative height, resolving positively the equality proposed by Kuhn and Lloyd.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Cyclic length and chromatic fixed-point loss",
+  "titleZh": "循环长度与染色不动点损失",
+  "details": {
+    "overview": "稿件研究有限p-群G及其子群H的染色不动点损失。作者声称最优染色不动点损失等于从H到G、商为循环群的最短次正规链长度，该等式在每个素数及每个非负高度成立，从而正面解决Kuhn与Lloyd提出的等式。摘要未展开染色不动点损失的定义与证明方法。该结果把群论中的循环链长度与同伦论中的染色不动点不变量联系起来。",
+    "keyPoints": [
+      "对象为有限p-群G与子群H的染色不动点损失。",
+      "作者声称最优损失等于H到G商为循环群的最短次正规链长度。",
+      "等式在每个素数与每个非负高度成立，正面解决Kuhn–Lloyd等式。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

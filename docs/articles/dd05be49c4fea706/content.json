@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the four-dimensional Hausdorff-dimension Kakeya conjecture: every subset of ℝ4 containing a unit line segment in every direction has Hausdorff dimension four. No compactness or regularity assumption is imposed on the set or its witnessing line family.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Every four-dimensional Kakeya set has full Hausdorff dimension",
+  "titleZh": "每个四维 Kakeya 集都具有满 Hausdorff 维数",
+  "details": {
+    "overview": "稿件研究四维 Kakeya 集的 Hausdorff 维数。作者声称证明四维 Hausdorff 维数 Kakeya 猜想：ℝ4 中每个在每一方向都含单位线段的子集，其 Hausdorff 维数为四。摘要强调不对该集合或其见证线族施加紧性或正则性假设。该结果若成立，将解决 Kakeya 问题在四维的 Hausdorff 维数情形。",
+    "keyPoints": [
+      "作者声称证明四维 Hausdorff 维数 Kakeya 猜想。",
+      "ℝ4 中每个各方向含单位线段的子集 Hausdorff 维数为四。",
+      "结论不依赖集合或见证线族的紧性与正则性假设。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

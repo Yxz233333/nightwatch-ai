@@ -1,7 +1,7 @@
 {
   "id": "b933d5e1ea3a7e38",
   "section": "papers",
-  "category": "数学论文",
+  "category": "信息论与统计推断",
   "title": "Localization costs and information growth for exact Gaussian observations",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Localization-costs-and-information-growth-for-exact-Gaussian-observations-September-27-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For the image of a uniform cube under a spherical coordinate map, we prove that finite messages from t blocks of $`\\Theta(d)`$ exact Gaussian measurements reveal only $`O_A(dt)`$ information when each message has at most $`\\exp(Ad^2)`$ values, for fixed A. The same bound holds when each message is supplemented with a nested cell that restores the required geometric spread.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Localization costs and information growth for exact Gaussian observations",
+  "titleZh": "精确高斯观测的局部化代价与信息增长",
+  "details": {
+    "overview": "稿件研究球坐标映射下均匀立方体像的精确高斯观测信息量：作者声称来自t个块、每块Θ(d)个精确高斯测量的有限消息，在每条消息至多exp(Ad²)个取值（A固定）时只揭示O_A(dt)信息；当每条消息附加一个恢复所需几何散布的嵌套单元时，同界仍成立。这刻画了局部化消息对信息增长的限制，摘要未给证明细节，结论待独立审查。",
+    "keyPoints": [
+      "对象为球坐标映射下均匀立方体像的精确高斯观测",
+      "t块Θ(d)个测量、消息至多exp(Ad²)值时，信息量仅O_A(dt)",
+      "附加恢复几何散布的嵌套单元后同界仍成立"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

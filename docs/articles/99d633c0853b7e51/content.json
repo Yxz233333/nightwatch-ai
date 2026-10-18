@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Selmer converse in coranks zero and one for every elliptic curve over ℚ and every prime p: if the full p-power Selmer group has ℤp-corank $`r\\in\\{0,1\\}`$, then the analytic and Mordell–Weil ranks both equal r, and the entire Tate–Shafarevich group is finite. As an application at the additive prime 3, we prove that for every prime $`\\ell\\equiv4,7,8\\pmod9`$, the cubic $`X^3+Y^3=\\ell Z^3`$ has analytic and Mordell–Weil rank one and finite Tate–Shafarevich group. In particular, every such ℓ is a sum of two rational cubes.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Selmer converse for elliptic curves at every prime",
+  "titleZh": "椭圆曲线在每个素数处的 Selmer 逆定理",
+  "details": {
+    "overview": "该稿件声称对 ℚ 上每条椭圆曲线和每个素数 p，证明余秩零与一时的 Selmer 逆定理：若完整 p 幂 Selmer 群具有 ℤp-余秩 r∈{0,1}，则解析秩与 Mordell–Weil 秩均等于 r，且整个 Tate–Shafarevich 群有限。作为加性素数 3 的应用，稿件称对每个 ℓ≡4,7,8 (mod 9) 的素数，三次曲线 X³+Y³=ℓZ³ 的两种秩均为一、Tate–Shafarevich 群有限，因而 ℓ 为两个有理数立方之和。稿件为 AI 产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "对每个素数 p 声称证明余秩 0 与 1 的 Selmer 逆定理。",
+      "结论给出解析秩与 Mordell–Weil 秩等于余秩，且 Tate–Shafarevich 群有限。",
+      "在 p=3 应用于 X³+Y³=ℓZ³，称 ℓ≡4,7,8 (mod 9) 时为两有理立方之和。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

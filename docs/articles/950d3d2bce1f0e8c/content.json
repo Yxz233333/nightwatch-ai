@@ -1,7 +1,7 @@
 {
   "id": "950d3d2bce1f0e8c",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何群论",
   "title": "Thompson's group F is nonamenable",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Thompsons-group-F-is-nonamenable-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that Thompson's group F is nonamenable. This confirms Geoghegan's conjecture and resolves the amenability problem for F.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Thompson's group F is nonamenable",
+  "titleZh": "Thompson群F非顺从",
+  "details": {
+    "overview": "稿件研究Thompson群F的顺从性问题。摘要称证明F非顺从，从而确认Geoghegan猜想并解决F的顺从性问题。该群是几何群论中的经典对象，其顺从性长期未决；作者声称的结果若成立，将给出否定答案。材料仅提供摘要级陈述，未给出证明思路、构造或独立验证信息。",
+    "keyPoints": [
+      "摘要称证明Thompson群F非顺从。",
+      "声称确认Geoghegan猜想并解决F的顺从性问题。",
+      "仅见摘要结论，未提供证明细节。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

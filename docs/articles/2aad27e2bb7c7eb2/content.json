@@ -1,7 +1,7 @@
 {
   "id": "2aad27e2bb7c7eb2",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数几何",
   "title": "A conditional abelianity theorem for special fourfold pairs with a half-weight divisor",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-conditional-abelianity-theorem-for-special-fourfold-pairs-with-a-half-weight-divisor-October-5-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "Using the abelianity theorem for special compact Kähler manifolds in every dimension, we prove virtual abelianity of the entire orbifold fundamental group of the special order-two root orbifold associated with a pair $`(X,\\tfrac12D)`$, where X is a smooth projective fourfold and D is a nonempty smooth connected divisor. We construct a special smooth projective eightfold whose fundamental group surjects onto the required group.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A conditional abelianity theorem for special fourfold pairs with a half-weight divisor",
+  "titleZh": "带半权除子的特殊四重对的条件交换性定理",
+  "details": {
+    "overview": "稿件研究光滑射影四重簇X与非空光滑连通除子D构成的配对(X,½D)及其二阶根orbifold。作者利用任意维特殊紧Kähler流形的交换性定理，证明该orbifold的整个orbifold基本群虚拟交换，并构造一个特殊光滑射影八重簇，使其基本群满射到所需群。该结果连接特殊簇几何与orbifold基本群结构，摘要未给出证明细节，手稿未经独立审查。",
+    "keyPoints": [
+      "对象为四重簇配对(X,½D)的二阶根orbifold。",
+      "作者声称其orbifold基本群虚拟交换。",
+      "构造特殊光滑射影八重簇，基本群满射到所需群。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

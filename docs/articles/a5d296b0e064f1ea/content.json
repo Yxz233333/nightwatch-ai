@@ -7,5 +7,14 @@
   "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0",
   "date": "2026-10-15",
   "status": "这是 CLI 发布说明；桌面版是否包含同项能力需单独核对。",
+  "details": {
+    "overview": "该条目为 Codex CLI 0.163.0 的发布说明之一。摘要表示，用户可以配置快捷键前导键，默认值为 Ctrl+X；语音静音使用 F9。该说明属于 CLI 发布说明，桌面版是否包含同项能力需单独核对，摘要未提供更多按键映射或冲突处理细节。",
+    "keyPoints": [
+      "可配置快捷键前导键，默认 Ctrl+X",
+      "语音静音使用 F9",
+      "桌面版是否具备同项能力需单独核对"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

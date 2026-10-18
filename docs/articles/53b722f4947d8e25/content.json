@@ -1,7 +1,7 @@
 {
   "id": "53b722f4947d8e25",
   "section": "papers",
-  "category": "数学论文",
+  "category": "复分析",
   "title": "Brennan's conjecture and sharp inverse-square integral means",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Brennans-conjecture-and-sharp-inverse-square-integral-means-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove Brennan's conjecture: if a simply connected plane domain admits a conformal bijection φ onto the unit disk, then $`|\\varphi'|^s`$ is area-integrable for every $`4/3\\lt s\\lt 4`$. We also prove the sharp inverse-square integral-means exponent $`B_{\\mathcal S}(-2)=1`$ for the normalized schlicht class $`\\mathcal S`$.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Brennan's conjecture and sharp inverse-square integral means",
+  "titleZh": "Brennan猜想与尖锐平方反比积分平均",
+  "details": {
+    "overview": "稿件研究单连通平面区域到单位圆盘的全纯双射φ的导数可积性。作者声称证明Brennan猜想：对每个 4/3<s<4，|φ'|^s 均区域可积；同时证明归一化单叶函数类 S 的尖锐平方反比积分平均指数 B_S(-2)=1。摘要表示这两项结果分别给出Brennan猜想的完整证明与相应积分平均指数的尖锐值。",
+    "keyPoints": [
+      "证明Brennan猜想：|φ'|^s 对每个 4/3<s<4 区域可积",
+      "证明归一化单叶类 S 的 B_S(-2)=1",
+      "给出平方反比积分平均指数的尖锐值"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "61e25e0911c0e879",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数论与算术几何",
   "title": "Temperedness at ramified places for globally generic exceptional groups",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Temperedness-at-ramified-places-for-globally-generic-exceptional-groups-October-5-2026/ramified-ramanujan.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the generalized Ramanujan conjecture for globally generic cuspidal automorphic representations of split connected adjoint exceptional groups over global function fields. Every local component is tempered, without restrictions on characteristic or ramification depth. The proof extends the unramified Ramanujan theorem of a companion paper to all ramified places.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Temperedness at ramified places for globally generic exceptional groups",
+  "titleZh": "全局一般例外群在分歧处的温和性",
+  "details": {
+    "overview": "稿件研究全局函数域上分裂连通伴随例外群的全局一般尖点自守表示。作者声称证明了此类表示的广义Ramanujan猜想：每个局部分量都是温和的，且不限制特征或分歧深度。证明将伴随论文中的非分歧Ramanujan定理推广到所有分歧处。该结果对例外群自守表示的局部性质给出统一结论。",
+    "keyPoints": [
+      "证明全局函数域上分裂连通伴随例外群的广义Ramanujan猜想",
+      "每个局部分量温和，不限制特征或分歧深度",
+      "将伴随论文的非分歧Ramanujan定理推广到所有分歧处"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

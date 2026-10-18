@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that critical FK–Ising interfaces with sufficiently weak, symmetric, independent two-valued bond disorder converge to chordal SLE16/3. The disorder strength is fixed as the mesh tends to zero, and convergence of the conditional curve laws holds in probability over the environment.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Quenched SLE Universality for Weakly Disordered FK–Ising Interfaces",
+  "titleZh": "弱无序FK–Ising界面的淬火SLE普适性",
+  "details": {
+    "overview": "稿件研究临界FK–Ising模型在足够弱、对称、独立二值键无序下的界面。摘要表示，作者证明当网格趋于零而无序强度固定时，界面条件曲线律在环境上依概率收敛到弦SLE_{16/3}。作者声称给出了淬火意义下的SLE普适性结果。该工作属于随机几何与统计物理界面研究；摘要未说明证明方法，也未涉及独立验证或同行评议。",
+    "keyPoints": [
+      "研究对象为弱二值键无序下临界FK–Ising模型的界面。",
+      "作者声称界面条件曲线律依概率收敛到弦SLE_{16/3}。",
+      "无序强度在网格趋于零时保持固定。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

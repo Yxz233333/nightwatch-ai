@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove Curtis's conjecture: in every positive degree, the mod-two stable Hurewicz image of the sphere is spanned by the images of η, ν, σ and the Kervaire-invariant-one classes that exist. Consequently, Eccles's conjecture holds for every sphere Sn with n > 0.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Stable Hurewicz Image of the Sphere at Two",
+  "titleZh": "球谱在素数二处的稳定 Hurewicz 像",
+  "details": {
+    "overview": "稿件研究球谱在素数二处的模二稳定 Hurewicz 像。作者声称证明了 Curtis 猜想：在每个正次数，球谱的模二稳定 Hurewicz 像由 η、ν、σ 的像以及存在的 Kervaire 不变量一类的像张成。摘要表示，由此 Eccles 猜想对每个 n > 0 的球面 S^n 成立。",
+    "keyPoints": [
+      "证明 Curtis 猜想：模二稳定 Hurewicz 像由 η、ν、σ 及 Kervaire 不变量一类张成。",
+      "该结论在每个正次数成立。",
+      "由此 Eccles 猜想对每个 n > 0 的球面 S^n 成立。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

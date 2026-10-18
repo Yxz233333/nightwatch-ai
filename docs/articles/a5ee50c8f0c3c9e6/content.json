@@ -1,7 +1,7 @@
 {
   "id": "a5ee50c8f0c3c9e6",
   "section": "papers",
-  "category": "数学论文",
+  "category": "组合数学",
   "title": "A counterexample to Ryser's covering conjecture",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-Counterexample-to-Rysers-Covering-Conjecture-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For every sufficiently large prime $`s\\equiv2\\pmod3`$ and every sufficiently large odd integer n, with the threshold depending on s, we construct an intersecting $`(s^n+1)`$-partite $`(s^n+1)`$-uniform hypergraph with covering number $`s^n+1`$. This disproves Ryser's covering conjecture in its intersecting case.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A counterexample to Ryser's covering conjecture",
+  "titleZh": "Ryser覆盖猜想的一个反例",
+  "details": {
+    "overview": "该稿件声称对每个充分大的素数s≡2 (mod 3)和每个充分大的奇数n（阈值依赖于s），构造了一个相交的(s^n+1)部、(s^n+1)一致超图，其覆盖数为s^n+1，从而在相交情形下否证Ryser覆盖猜想。摘要未给出构造细节或阈值估计。若成立，将对超图覆盖数与相交族研究产生重要影响。需注意这是AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "稿件对充分大素数s≡2 (mod 3)与充分大奇数n构造相交超图。",
+      "该超图为(s^n+1)部、(s^n+1)一致，覆盖数为s^n+1。",
+      "据此声称在相交情形下否证Ryser覆盖猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

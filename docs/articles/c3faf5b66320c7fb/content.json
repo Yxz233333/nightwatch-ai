@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove a Gaussian free field scaling limit for weighted integer Lipschitz heights on the triangular lattice. With zero boundary values and a factor x for each edge on which the height changes, the field converges after division by a positive constant depending only on x to the zero-Dirichlet Gaussian free field, for every fixed $`x\\in[1/\\sqrt2,1]`$. The convergence holds as a random distribution on every bounded C2 Jordan domain under inside lattice approximations with uniformly convergent boundary parametrizations. This includes the uniform height model and the predicted critical endpoint.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Gaussian free-field limits of weighted integer Lipschitz heights",
+  "titleZh": "加权整数Lipschitz高度的Gaussian自由场极限",
+  "details": {
+    "overview": "稿件研究三角格上加权整数Lipschitz高度的标度极限。作者声称在零边界值下，对每条高度发生变化的边赋权因子x，当x固定于[1/√2,1]时，高度场除以仅依赖x的正常数后收敛到零Dirichlet Gaussian自由场；收敛作为随机分布在每个有界C2 Jordan区域上、在边界参数一致收敛的内部格逼近下成立。摘要称该结果涵盖均匀高度模型与预测的临界端点。该手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象是三角格上带边权因子x的加权整数Lipschitz高度。",
+      "作者声称对x∈[1/√2,1]收敛到零Dirichlet Gaussian自由场。",
+      "摘要称结果涵盖均匀高度模型与预测的临界端点。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

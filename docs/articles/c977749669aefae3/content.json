@@ -10,5 +10,16 @@
   "abstractEnglish": "For every integer n ≥ 2 and κ ∈ ℝ, we prove that a complete separable metric space is an n-dimensional Alexandrov space of curvature at least κ if and only if, with reference measure $`\\mathcal H^n`$, it is a full-support $`\\mathrm{RCD}((n-1)\\kappa,n)`$ space whose distributional sectional curvature is at least κ in Gigli's original global test classes. This resolves Gigli's characterization conjecture in dimensions at least two.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Gigli’s distributional curvature characterization of Alexandrov spaces",
+  "titleZh": "Alexandrov空间的Gigli分布曲率刻画",
+  "details": {
+    "overview": "稿件研究Alexandrov空间与RCD空间之间的刻画关系。摘要表示，作者对每个整数n≥2和κ∈ℝ证明：完备可分度量空间是以ℋⁿ为参考测度的满支撑RCD((n−1)κ,n)空间、且在Gigli原始全局检验类中分布截面曲率至少为κ，当且仅当它是曲率至少为κ的n维Alexandrov空间。作者称这解决了Gigli在维数至少2时的刻画猜想。手稿为AI产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "建立Alexandrov空间与满支撑RCD((n−1)κ,n)空间的等价刻画。",
+      "分布截面曲率在Gigli原始全局检验类中定义。",
+      "作者声称解决Gigli刻画猜想在n≥2的情形。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

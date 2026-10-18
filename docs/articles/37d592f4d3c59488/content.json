@@ -1,7 +1,7 @@
 {
   "id": "37d592f4d3c59488",
   "section": "papers",
-  "category": "代数几何",
+  "category": "数学物理",
   "title": "A radial continuum phase transition with algebraic decay",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-radial-continuum-phase-transition-with-algebraic-decay-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a bounded, continuous, stable radial pair potential in three dimensions with $`|\\phi(r)|\\le Cr^{-3-1/32}`$ for r ≥ 1. Throughout an open interval of positive densities, its canonical thermodynamic free energy is finite at every positive inverse temperature and has a strict downward derivative jump at one common finite positive inverse temperature.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A radial continuum phase transition with algebraic decay",
+  "titleZh": "具有代数衰减的径向连续相变",
+  "details": {
+    "overview": "稿件在三维空间构造一个有界、连续、稳定的径向对势，满足r≥1时|φ(r)|≤Cr^{-3-1/32}。作者声称：在一个正密度的开区间上，其正则热力学自由能在每个正逆温度处有限，并在某个共同有限正逆温度处出现严格向下的导数跳跃。这给出代数衰减势下径向连续相变的例子，摘要未提供证明细节，结果尚待独立审查。",
+    "keyPoints": [
+      "在三维构造有界连续稳定径向对势，满足|φ(r)|≤Cr^{-3-1/32}（r≥1）",
+      "声称正密度开区间上正则自由能在每个正逆温度有限",
+      "在共同有限正逆温度处出现严格向下的导数跳跃"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

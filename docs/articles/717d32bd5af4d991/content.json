@@ -1,7 +1,7 @@
 {
   "id": "717d32bd5af4d991",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数拓扑与稳定同伦论",
   "title": "Stabilizer orbits and thick tensor ideals of dualizable K(n)-local spectra",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Stabilizer-Orbits-and-Thick-Tensor-Ideals-of-Dualizable-Kn-Local-Spectra-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We classify the prime and radical ideals of the Lubin–Tate deformation ring invariant under an open Morava stabilizer subgroup, at every prime and positive height. This proves Chai's invariant-ideal conjecture in the standard finite-residue-field formulation. It also proves the Hovey–Strickland conjecture: the dualizable $`K(n)`$-local category has exactly $`n+2`$ thick tensor ideals, and its Balmer spectrum is a chain of $`n+1`$ points.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Stabilizer orbits and thick tensor ideals of dualizable K(n)-local spectra",
+  "titleZh": "稳定子轨道与可对偶K(n)-局部谱的厚张量理想",
+  "details": {
+    "overview": "稿件研究Lubin–Tate变形环在开Morava稳定子子群下不变的本原与根理想分类，作者声称在每个素数与正高度完成分类，证明Chai的不变理想猜想的标准有限剩余域表述。摘要还表示证明了Hovey–Strickland猜想：可对偶K(n)-局部范畴恰有n+2个厚张量理想，其Balmer谱为n+1个点的链。该工作连接稳定同伦论中的局部化范畴与变形环的群作用不变量。",
+    "keyPoints": [
+      "分类开Morava稳定子子群不变的Lubin–Tate变形环本原与根理想。",
+      "作者声称证明Chai不变理想猜想的标准有限剩余域表述。",
+      "声称证明Hovey–Strickland猜想：厚张量理想数为n+2，Balmer谱为n+1点链。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

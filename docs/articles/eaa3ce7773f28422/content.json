@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the local p-adic section conjecture for smooth proper geometrically connected curves of genus at least two, over every finite extension of ℚp. Combined with established finite-descent theorems, this also yields the global section conjecture for smooth proper geometrically connected curves of genus at least two over number fields when their finite-cover descent locus equals their rational points; this includes $`X_0(N)`$ and $`X_1(N)`$ of genus at least two over ℚ.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The p-adic section conjecture",
+  "titleZh": "p进截面猜想",
+  "details": {
+    "overview": "稿件研究数域上光滑 proper 几何连通曲线的基本群截面问题。作者声称对任意ℚp有限扩域上亏格至少2的此类曲线证明了局部p进截面猜想；结合已有有限下降定理，还得到数域上亏格至少2曲线在有限覆盖下降轨迹等于有理点时的整体截面猜想，摘要称包括ℚ上亏格至少2的X0(N)与X1(N)。该结果若成立，将把p进局部方法与整体截面问题联系起来。需注意这是AI产生的研究手稿，收录不代表已完成独立审查或同行评议。",
+    "keyPoints": [
+      "作者声称对ℚp有限扩域上亏格至少2曲线证明局部p进截面猜想。",
+      "结合有限下降定理得到特定条件下的整体截面猜想。",
+      "摘要称覆盖ℚ上亏格至少2的X0(N)与X1(N)。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

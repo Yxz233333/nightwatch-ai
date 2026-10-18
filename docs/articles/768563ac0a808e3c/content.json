@@ -1,7 +1,7 @@
 {
   "id": "768563ac0a808e3c",
   "section": "papers",
-  "category": "数论与算术几何",
+  "category": "辛几何与动力系统",
   "title": "Hamiltonian Fixed Points Below the Stable Morse Number",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Hamiltonian-Fixed-Points-Below-the-Stable-Morse-Number-October-5-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We disprove the stable Morse lower bound for nondegenerate Hamiltonian fixed points by constructing a simply connected closed Kähler manifold with sixteen fewer fixed points than its stable Morse number. All the corresponding periodic orbits are contractible. The construction combines a Hamiltonian involution with integral homology torsion at two different primes; its proof uses finite-dimensional Morse theory and complex blowups.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Hamiltonian Fixed Points Below the Stable Morse Number",
+  "titleZh": "低于稳定Morse数的Hamiltonian不动点",
+  "details": {
+    "overview": "稿件研究非退化Hamiltonian不动点数的下界问题。作者声称构造了一个单连通闭Kähler流形，其非退化Hamiltonian不动点比稳定Morse数少十六个，从而否证稳定Morse下界；相应周期轨道均为可缩的。构造结合了一个Hamiltonian对合与两个不同素数处的整同调挠，证明使用有限维Morse理论与复爆破。该结果对Hamiltonian动力系统中的不动点计数下界提出反例。",
+    "keyPoints": [
+      "构造不动点数比稳定Morse数少十六个的单连通闭Kähler流形",
+      "否证非退化Hamiltonian不动点的稳定Morse下界",
+      "相应周期轨道均为可缩；构造结合对合与两素数整同调挠"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "For every fixed treewidth bound, the shortest-path metrics of finite connected graphs with arbitrary positive real edge lengths embed into real L1 with uniformly bounded distortion. This resolves the bounded-treewidth case of the Gupta–Newman–Rabinovich–Sinclair conjecture positively.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "L1 Embeddings of Graphs of Bounded Treewidth",
+  "titleZh": "有界树宽图的L1嵌入",
+  "details": {
+    "overview": "稿件研究有限连通图的最短路径度量在任意正实数边权下嵌入实L1空间的问题。作者声称，对每个固定树宽上界，此类度量可一致有界失真地嵌入L1。摘要表示这正面解决了Gupta–Newman–Rabinovich–Sinclair猜想的有界树宽情形。研究意义在于将图度量嵌入与树宽参数联系起来，但结果尚未经独立审查。",
+    "keyPoints": [
+      "研究对象是任意正实数边权的有限连通图的最短路径度量。",
+      "作者声称固定树宽上界下，L1嵌入失真一致有界。",
+      "摘要称这正面解决了GNR S猜想的有界树宽情形。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

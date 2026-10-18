@@ -10,5 +10,16 @@
   "abstractEnglish": "Let X be a smooth connected compact Kähler manifold, let B be an effective rational simple normal crossing divisor with coefficients less than one, and let M be a nef rational holomorphic line bundle on X. If $`K_X+B`$ is pseudo-effective and $`K_X+B+M`$ is nef, we prove that its first Chern class in real Bott–Chern cohomology is represented by a semiample rational line bundle. This numerical statement allows a flat change of line bundle; it does not assert semiampleness of the original adjoint.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Numerical semiampleness of nef adjoint classes on compact Kähler manifolds",
+  "titleZh": "紧Kähler流形上nef伴随类的数值半丰性",
+  "details": {
+    "overview": "稿件研究紧Kähler流形上的伴随线束问题：设X为光滑连通紧Kähler流形，B为系数小于1的有效有理简单正规交叉除子，M为nef有理全纯线束。作者声称，若K_X+B为伪有效且K_X+B+M为nef，则其在实Bott–Chern上同调中的第一陈类可由一个半丰有理线束代表。摘要强调这是数值性陈述，允许线束作平坦变换，并不断言原伴随线束本身半丰。该结果的意义在于把伴随型的半丰性推广到Kähler情形并弱化为数值形式。",
+    "keyPoints": [
+      "研究对象为紧Kähler流形上的伴随类K_X+B+M，边界系数小于1。",
+      "作者声称其第一陈类可由半丰有理线束代表，属数值层面结论。",
+      "摘要明确不推出原伴随线束半丰，仅允许平坦变换。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

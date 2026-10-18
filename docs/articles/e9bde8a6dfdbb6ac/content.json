@@ -1,7 +1,7 @@
 {
   "id": "e9bde8a6dfdbb6ac",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数几何",
   "title": "The reverse logarithmic Kodaira inequality and additivity",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-reverse-logarithmic-Kodaira-inequality-and-additivity-September-26-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the reverse logarithmic Kodaira inequality for a surjective connected-fiber morphism $`f:(X,E)\\to(Y,D)`$ of smooth projective reduced simple-normal-crossing pairs, with $`\\mathop{\\mathrm{Supp}}\\nolimits (f^*D)\\subseteq\\mathop{\\mathrm{Supp}}\\nolimits E`$, such that X and every boundary stratum are smooth over $`Y\\setminus\\mathop{\\mathrm{Supp}}\\nolimits D`$. Together with logarithmic subadditivity, the inequality gives additivity, including both negative-infinity cases. This resolves Popa's logarithmic additivity conjecture positively in the projective reduced-SNC, stratum-smooth setting.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The reverse logarithmic Kodaira inequality and additivity",
+  "titleZh": "反向对数小平不等式与可加性",
+  "details": {
+    "overview": "稿件研究光滑射影既约简单正规交叉对之间的满射连通纤维态射 f:(X,E)→(Y,D)，满足 Supp(f^*D)⊆Supp E，且 X 与每个边界层在 Y\\Supp D 上光滑。摘要表示，作者证明反向对数小平不等式，并结合对数次可加性得到可加性，包括两个负无穷情形。这正面解决了 Popa 的对数可加性猜想在射影既约 SNC、层光滑设定下的情形。研究意义在于建立该设定下的对数可加性。",
+    "keyPoints": [
+      "证明满足特定光滑性与支撑条件的态射的反向对数小平不等式。",
+      "结合对数次可加性推出可加性，含负无穷情形。",
+      "在射影既约 SNC、层光滑设定下正面解决 Popa 对数可加性猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

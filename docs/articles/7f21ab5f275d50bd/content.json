@@ -10,5 +10,16 @@
   "abstractEnglish": "We resolve the complete Crouzeix conjecture by proving the sharp constant-two numerical-range inequality for every bounded operator on a complex Hilbert space and every matrix-valued polynomial. No separability assumption is needed. The closure of the numerical range is a complete 2-spectral set, and the bound extends to finite matrix-valued functions holomorphic near that closure. For a finite matrix and a bounded convex domain containing its numerical range with regular real-analytic Jordan boundary, the optimal similarity making its conformal disk image contractive is attained with condition number at most two. For the similar matrix, one continuous positive boundary density of mass the identity represents the evaluation of every matrix-valued function holomorphic near the closed domain.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The complete Crouzeix theorem: optimal similarity and a common positive boundary representation",
+  "titleZh": "完整Crouzeix定理：最优相似与公共正边界表示",
+  "details": {
+    "overview": "稿件研究复Hilbert空间上有界算子和矩阵值多项式，证明尖锐常数二的数值域不等式，无需可分性假设。摘要表示，数值域闭包是完全2-谱集，界可延拓到闭包附近全纯的有限矩阵值函数；对有限矩阵和包含数值域的有界凸域，最优相似的条件数至多二，并存在连续正边界密度表示全纯函数取值。该工作解决完整Crouzeix猜想。",
+    "keyPoints": [
+      "证明常数二的数值域不等式对任意有界算子和矩阵值多项式成立。",
+      "数值域闭包是完全2-谱集，界延拓到全纯矩阵值函数。",
+      "最优相似条件数至多二，并给出公共正边界表示。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

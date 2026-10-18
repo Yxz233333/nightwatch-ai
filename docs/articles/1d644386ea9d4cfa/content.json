@@ -1,7 +1,7 @@
 {
   "id": "1d644386ea9d4cfa",
   "section": "papers",
-  "category": "数学论文",
+  "category": "偏微分方程与数学物理",
   "title": "Global classical solutions of the three-dimensional relativistic Vlasov–Maxwell system",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove global existence and uniqueness for arbitrary smooth admissible initial data in the three-dimensional, one-species relativistic Vlasov–Maxwell system. The particle density is initially compactly supported, and the electromagnetic fields have finite energy and bounded derivatives of all orders. The solution remains smooth on every finite time interval. This resolves the large-data global classical regularity problem for this model, without size or symmetry restrictions on the data.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Global classical solutions of the three-dimensional relativistic Vlasov–Maxwell system",
+  "titleZh": "三维相对论Vlasov–Maxwell系统的全局经典解",
+  "details": {
+    "overview": "稿件研究三维单 species 相对论Vlasov–Maxwell系统，声称对任意光滑容许初始数据证明全局存在唯一性。初始粒子密度紧支撑，电磁场有限能量且各阶导数有界；解在每个有限时间区间保持光滑。作者称这解决了该模型的大数据全局经典正则性问题，且无需对数据加尺寸或对称性限制。该手稿为AI产生，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "对三维单species相对论Vlasov–Maxwell系统声称全局存在唯一光滑解。",
+      "初始数据为任意光滑容许数据，粒子密度紧支撑，场有限能量且导数有界。",
+      "作者称解决大数据全局经典正则性问题，无需尺寸或对称性限制。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

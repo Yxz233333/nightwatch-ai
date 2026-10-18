@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Grothendieck homotopy hypothesis for every Grothendieck coherator in the Ara–Henry convention: its weak globular infinity-groupoids recover the homotopy theory of spaces. We also resolve Henry's pushout conjecture, showing that elementary expansions preserve components and all homotopy groups of cellular infinity-groupoids.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Grothendieck homotopy hypothesis via elementary expansions",
+  "titleZh": "经由初等扩张的 Grothendieck 同伦假设",
+  "details": {
+    "overview": "稿件研究 Grothendieck 同伦假设。作者声称在 Ara–Henry 约定下对每个 Grothendieck 相干子证明该假设：其弱球状无穷群胚恢复空间的同伦理论。摘要还表示解决了 Henry 的推出猜想，证明初等扩张保持胞腔无穷群胚的连通分支与所有同伦群。该结果若成立，将把高阶范畴与同伦论之间的对应推广到更一般的相干子框架。",
+    "keyPoints": [
+      "作者声称在 Ara–Henry 约定下对每个 Grothendieck 相干子证明同伦假设。",
+      "弱球状无穷群胚可恢复空间的同伦理论。",
+      "作者声称解决 Henry 推出猜想：初等扩张保持连通分支与所有同伦群。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

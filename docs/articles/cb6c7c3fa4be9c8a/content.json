@@ -10,5 +10,16 @@
   "abstractEnglish": "For every fixed C > 0, we prove that a positive proportion of consecutive prime gaps exceed $`C\\log p`$, where p is the smaller prime. The proportion is bounded below for every sufficiently large initial segment of the prime sequence, with a constant depending on C. It follows that the indices at which $`p_n/n`$ increases have positive lower asymptotic density, answering a question of Erdős and Prachar.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Positive lower density of large prime gaps",
+  "titleZh": "大素数间隙的正下密度",
+  "details": {
+    "overview": "稿件研究相邻素数间隙的分布。作者声称，对每个固定 C > 0，正比例的连续素数间隙超过 C log p（p 为较小素数），且该比例对充分大的素数序列初始段有仅依赖 C 的下界。摘要表示，由此可得 p_n/n 增加的下标具有正下渐近密度，回答了 Erdős 和 Prachar 的问题。",
+    "keyPoints": [
+      "对每个固定 C > 0，正比例的连续素数间隙超过 C log p。",
+      "比例下界对充分大的初始段成立，常数依赖 C。",
+      "p_n/n 增加的下标具有正下渐近密度，回答 Erdős–Prachar 问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

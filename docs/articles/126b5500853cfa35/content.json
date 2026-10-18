@@ -1,7 +1,7 @@
 {
   "id": "126b5500853cfa35",
   "section": "papers",
-  "category": "数学论文",
+  "category": "算子代数与群论",
   "title": "A Counterexample to the Group-Ring Determinant Conjecture",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-Counterexample-to-the-Group-Ring-Determinant-Conjecture-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We disprove the unrestricted group-ring Determinant Conjecture. We construct a finitely generated group G and a square matrix over $`\\mathbb Z[G]`$ that is invertible over $`\\mathbb Q[G]`$ and has Fuglede–Kadison determinant strictly between zero and one. The logarithmic integral defining the determinant is finite.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Counterexample to the Group-Ring Determinant Conjecture",
+  "titleZh": "群环行列式猜想的一个反例",
+  "details": {
+    "overview": "稿件提出否定无限制群环行列式猜想：构造一个有限生成群 G 以及 Z[G] 上的方阵，该矩阵在 Q[G] 上可逆，且其 Fuglede–Kadison 行列式严格介于零与一之间。摘要还称定义该行列式的对数积分有限。研究意义在于若成立，将表明该猜想在一般群环设定下不成立。该手稿为 AI 产生，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "作者构造有限生成群 G 与 Z[G] 上方阵，否定无限制群环行列式猜想。",
+      "该矩阵在 Q[G] 上可逆，Fuglede–Kadison 行列式严格在 0 与 1 之间。",
+      "摘要称定义行列式的对数积分有限。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

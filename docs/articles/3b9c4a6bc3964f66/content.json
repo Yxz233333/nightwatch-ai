@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove a uniform positive spectral gap for the pure antiferromagnetic spin-one Heisenberg chain on even periodic rings, establishing the positive even-periodic formulation of the spin-one Haldane conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The periodic spin-one Haldane gap",
+  "titleZh": "周期自旋一Haldane能隙",
+  "details": {
+    "overview": "稿件研究偶数周期环上纯反铁磁自旋一Heisenberg链的谱隙。作者声称证明了均匀正谱隙，从而建立自旋一Haldane猜想的正偶数周期表述。摘要未给出证明方法、技术细节或独立审查信息。",
+    "keyPoints": [
+      "研究偶数周期环上纯反铁磁自旋一Heisenberg链。",
+      "证明存在均匀正谱隙。",
+      "建立自旋一Haldane猜想的正偶数周期表述。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

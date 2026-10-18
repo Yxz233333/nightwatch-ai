@@ -1,7 +1,7 @@
 {
   "id": "f8ad5c1d6618f13d",
   "section": "papers",
-  "category": "数学论文",
+  "category": "统计学习理论",
   "title": "Projection moments, positive cap domination, and Riesz estimates on the sphere",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Projection-moments-positive-cap-domination-and-Riesz-estimates-on-the-sphere-September-27-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove moment estimates for exact random projections of finite measures whose mass is controlled on Euclidean balls, and derive positive domination by countable sums of spherical cap measures. For learners with $`M=o(d^2)`$ bits of memory, these estimates give three proofs that uniform-sphere average success at least 2/3 at angular accuracy $`0\\lt \\epsilon\\le1/10`$ requires $`\\Omega(d\\log(1/\\epsilon))`$ noiseless Gaussian observations. The three proofs keep their different stopping and accuracy costs explicit.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Projection moments, positive cap domination, and Riesz estimates on the sphere",
+  "titleZh": "球面上的投影矩、正帽支配与 Riesz 估计",
+  "details": {
+    "overview": "该稿件研究有限测度的精确随机投影矩估计，以及用球冠测度可数和的正支配。作者声称，对内存为 M=o(d²) 比特的学习者，这些估计给出三种证明：在角精度 0<ε≤1/10 下，球面均匀平均成功率至少 2/3 需要 Ω(d log(1/ε)) 个无噪声高斯观测；三种证明各自显式保留不同的停止代价与精度代价。该工作连接测度投影几何与统计学习的内存—样本下界。这是 AI 产生的手稿，未经独立审查或同行评议。",
+    "keyPoints": [
+      "证明有限测度精确随机投影的矩估计与球冠测度正支配。",
+      "对 M=o(d²) 比特内存学习者给出三种样本下界证明。",
+      "下界为 Ω(d log(1/ε)) 个无噪声高斯观测。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

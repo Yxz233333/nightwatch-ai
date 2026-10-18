@@ -1,7 +1,7 @@
 {
   "id": "f3c2b81d5d7631b1",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论与随机矩阵",
   "title": "The sharp singularity rate for biased symmetric sign matrices",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/biased-symmetric-sign-singularity.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "Let An be a symmetric random matrix whose entries on and above the diagonal are independent signs, equal to 1 with fixed probability $`p\\in(0,1)\\setminus\\{1/2\\}`$. We prove that $`\\mathbb P(\\det A_n=0)=(p^2+(1-p)^2+o(1))^n`$. The rate is attained by the event that two rows agree.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The sharp singularity rate for biased symmetric sign matrices",
+  "titleZh": "有偏对称符号矩阵的精确奇异率",
+  "details": {
+    "overview": "稿件研究对角线上方元素为独立符号、取1概率为固定p（p∈(0,1)且p≠1/2）的对称随机矩阵A_n，考察其行列式为零的概率。摘要声称该概率等于(p²+(1-p)²+o(1))^n，即奇异率由底数p²+(1-p)²的n次方刻画，并指出该速率由两行相同的概率事件达到。研究意义在于给出有偏情形下对称符号矩阵奇异概率的精确指数速率，区别于无偏p=1/2的经典设定。",
+    "keyPoints": [
+      "研究对象为对角线上方独立、取1概率p≠1/2的对称符号矩阵",
+      "声称奇异概率为(p²+(1-p)²+o(1))^n",
+      "指出该速率由两行相同的事件达到"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

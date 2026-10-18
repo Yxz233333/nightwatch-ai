@@ -10,5 +10,16 @@
   "abstractEnglish": "Every simple unitary strongly rational vertex operator algebra generates a completely rational conformal net. All its simple grading-restricted modules are unitarizable, its canonical fusion forms are positive, and the Carpi–Weiner–Xu functor gives a braided unitary tensor equivalence from its grading-restricted finite-length module category onto the finite-index sectors of the net. Gui's extension theorems then identify normalized irreducible finite-index local extensions of these nets with simple CFT-type conformal extensions of the vertex operator algebras.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Strongly rational unitary vertex operator algebras and conformal nets",
+  "titleZh": "强有理酉顶点算子代数与共形网",
+  "details": {
+    "overview": "该稿件研究简单酉强有理顶点算子代数与共形网之间的关系。作者声称每个这样的顶点算子代数生成一个完全有理的共形网，其所有单的分次限制模可酉化，典范融合形式为正，且Carpi–Weiner–Xu函子给出从分次限制有限长度模范畴到网有限指标扇区的编织酉张量等价。结合Gui的扩张定理，这些网的归一化不可约有限指标局部扩张等同于顶点算子代数的简单CFT型共形扩张。",
+    "keyPoints": [
+      "作者声称每个简单酉强有理顶点算子代数生成完全有理共形网，且其单的分次限制模可酉化。",
+      "Carpi–Weiner–Xu函子给出从分次限制有限长度模范畴到网有限指标扇区的编织酉张量等价。",
+      "结合Gui扩张定理，网的局部扩张等同于顶点算子代数的简单CFT型共形扩张。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

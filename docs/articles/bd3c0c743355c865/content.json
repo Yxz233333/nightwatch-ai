@@ -1,7 +1,7 @@
 {
   "id": "bd3c0c743355c865",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数学物理",
   "title": "The unique threshold bound state of the SU(N) BFSS model",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-unique-threshold-bound-state-of-the-SU-N-BFSS-model-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For every finite N ≥ 2, we prove that undeformed $`\\mathop{\\mathrm{SU}}\\nolimits (N)`$ BFSS matrix quantum mechanics has exactly one normalizable zero-energy state after removing the center of mass. This establishes the threshold-bound-state conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The unique threshold bound state of the SU(N) BFSS model",
+  "titleZh": "SU(N) BFSS模型的唯一阈值束缚态",
+  "details": {
+    "overview": "稿件研究未形变的SU(N) BFSS矩阵量子力学模型。作者声称对每个有限N≥2，在去除质心后证明该模型恰好有一个可归一化的零能态，从而建立阈值束缚态猜想。该结果涉及矩阵量子力学与弦理论相关的量子力学模型，若成立将为BFSS模型的谱性质提供严格数学依据。摘要未说明证明方法及模型的具体定义细节。",
+    "keyPoints": [
+      "对每个有限N≥2的SU(N) BFSS模型进行证明。",
+      "去除质心后恰有一个可归一化零能态。",
+      "该结果建立了阈值束缚态猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

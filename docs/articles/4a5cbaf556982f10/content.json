@@ -1,7 +1,7 @@
 {
   "id": "4a5cbaf556982f10",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数论",
   "title": "Squarefree values of quartics and power-free values of polynomials",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/manuscript.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that every irreducible integer quartic with no fixed prime-square divisor takes squarefree values with the predicted positive Euler-product density. More generally, we obtain the corresponding $`(d-2)`$-power-free density in degrees $`4\\le d\\le8`$. The proof combines number-field factorization, determinant estimates with adaptive auxiliary primes, and explicit low-degree geometry. Together with Browning's theorem for higher degrees, this gives the $`(d-2)`$-power-free density for every d ≥ 4.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Squarefree values of quartics and power-free values of polynomials",
+  "titleZh": "四次多项式的无平方值与多项式的无幂值",
+  "details": {
+    "overview": "稿件研究整系数多项式的无平方值与无幂值分布。作者声称证明：每个无固定素数平方除子的不可约整系数四次多项式取无平方值，且具有预测的正Euler乘积密度；更一般地，在次数 4≤d≤8 得到相应的 (d-2)-无幂密度。摘要表示证明结合数域分解、带自适应辅助素数的行列式估计与显式低次几何；与Browning关于更高次数的定理合起来，对每个 d≥4 给出 (d-2)-无幂密度。",
+    "keyPoints": [
+      "不可约四次多项式在无固定平方除子时取无平方值并具预测密度",
+      "在 4≤d≤8 得到 (d-2)-无幂密度",
+      "与Browning定理合起来覆盖每个 d≥4"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

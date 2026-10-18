@@ -1,7 +1,7 @@
 {
   "id": "f940bcc1feab387b",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数论与算术几何",
   "title": "Frobenius Structures on Tame Hecke Eigensheaves",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Frobenius-Structures-on-Tame-Hecke-Eigensheaves-October-5-2026/tame-hecke-frobenius.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct nonzero perverse Weil Hecke eigensheaves for SLn with Borel level at one marked point, after a finite extension of the field of constants. The parameter is a geometrically dense arithmetic PGLn-local system with tame regular-unipotent monodromy on a once-punctured curve of genus at least two over a finite field of characteristic p > n. The full multi-leg eigenstructure is Frobenius compatible with the prescribed arithmetic eigenvalue, and the geometric sheaf has parabolic nilpotent singular support.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Frobenius Structures on Tame Hecke Eigensheaves",
+  "titleZh": "驯顺Hecke特征层的Frobenius结构",
+  "details": {
+    "overview": "稿件研究SLn在单标记点带Borel级情形下的Weil Hecke特征层构造。摘要表示，作者在常数域有限扩张后构造出非零的perverse Weil Hecke特征层；其参数是几何稠密的算术PGLn局部系统，在特征p>n的有限域上亏格至少为二的单点穿孔曲线上具有驯顺正则幂单幺正性。作者称完整多腿特征结构与给定算术特征值Frobenius相容，且几何层具有抛物幂零奇异支撑。手稿尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "在常数域有限扩张后构造SLn的非零perverse Weil Hecke特征层。",
+      "参数为具驯顺正则幂单幺正性的几何稠密算术PGLn局部系统。",
+      "声称多腿特征结构与给定算术特征值Frobenius相容。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

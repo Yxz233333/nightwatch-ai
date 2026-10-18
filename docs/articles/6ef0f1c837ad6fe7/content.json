@@ -10,5 +10,16 @@
   "abstractEnglish": "We answer the finite-entropy equality question for microstates and nonmicrostates free entropy negatively. We construct a bounded self-adjoint tuple X in a von Neumann algebra with faithful normal tracial state such that $`-\\infty\\lt \\chi(X)\\leq\\chi^*(X)-\\tfrac12\\lt \\infty`$. Here χ is the original microstates entropy with an operator-norm cutoff and a limsup over matrix sizes. The counterexample uses a large but fixed number of variables.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A finite-entropy separation of microstates and nonmicrostates free entropy",
+  "titleZh": "微观态与非微观态自由熵的有限熵分离",
+  "details": {
+    "overview": "该稿件研究微观态自由熵与非微观态自由熵在有限熵情形下的相等性问题。作者声称给出了否定回答，构造了具有忠实正规迹态的von Neumann代数中的一个有界自伴元组X，使得-∞<χ(X)≤χ*(X)-1/2<∞，其中χ是带算子范数截断和对矩阵大小取上极限的原始微观态熵。反例使用大但固定数目的变量。研究意义在于澄清了两类自由熵在有限熵范围内的差异。",
+    "keyPoints": [
+      "作者声称否定了微观态与非微观态自由熵在有限熵下的相等性问题。",
+      "构造了有界自伴元组X满足-∞<χ(X)≤χ*(X)-1/2<∞。",
+      "反例使用大但固定数目的变量，χ为带算子范数截断的微观态熵。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

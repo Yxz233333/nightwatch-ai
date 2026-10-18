@@ -1,7 +1,7 @@
 {
   "id": "ebeb11298e042ef6",
   "section": "papers",
-  "category": "数论与算术几何",
+  "category": "量子信息",
   "title": "The entropy photon-number inequality",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-entropy-photon-number-inequality-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the entropy photon-number inequality for two independent bosonic inputs with finite mean energy, for every finite number of modes. This resolves the entropy photon-number conjecture in this finite-energy setting while allowing arbitrary entanglement among the modes within either input. As a consequence, we determine the exact minimum output entropy at fixed input entropy for every finite tensor power of an identical thermal attenuator, over finite-energy inputs that may be entangled across modes. We also obtain the exact classical capacity region of the degraded two-receiver pure-loss bosonic broadcast channel under a mean photon constraint.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The entropy photon-number inequality",
+  "titleZh": "熵光子数不等式",
+  "details": {
+    "overview": "稿件研究两个独立玻色输入在有限平均能量、任意有限模式数下的熵光子数不等式。作者声称证明了该不等式，允许每个输入内部模式间任意纠缠。摘要表示由此确定了相同热衰减器任意有限张量幂在固定输入熵下的精确最小输出熵，并得到平均光子约束下退化双接收纯损耗玻色广播信道的精确经典容量区域。该结果若成立，将为量子信道容量分析提供关键工具。",
+    "keyPoints": [
+      "证明有限平均能量、有限模式数下的熵光子数不等式",
+      "允许输入内部模式间任意纠缠",
+      "导出热衰减器最小输出熵及退化双接收广播信道容量区域"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

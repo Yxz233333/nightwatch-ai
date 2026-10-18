@@ -1,7 +1,7 @@
 {
   "id": "1595f391aa265ff7",
   "section": "papers",
-  "category": "数学论文",
+  "category": "群论与表示论",
   "title": "The Blockwise Alperin Weight Conjecture",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-Blockwise-Alperin-Weight-Conjecture-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the numerical blockwise Alperin weight conjecture for every finite group and every prime p. For each p-block B, the number of irreducible Brauer characters in B equals the number of conjugacy classes of B-weights.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The Blockwise Alperin Weight Conjecture",
+  "titleZh": "分块Alperin权重猜想",
+  "details": {
+    "overview": "稿件研究有限群表示论中的分块Alperin权重猜想。作者声称对每个有限群和每个素数p证明该猜想的数值形式：对每个p-块B，B中不可约Brauer特征标的个数等于B-权重的共轭类个数。该结果若成立，将统一处理该猜想的所有情形。该手稿为AI产生，尚未经独立审查或同行评议。",
+    "keyPoints": [
+      "声称对每个有限群和每个素数p证明分块Alperin权重猜想的数值形式。",
+      "结论为每个p-块B中不可约Brauer特征标数等于B-权重共轭类数。",
+      "稿件为AI产生，尚未经独立审查或同行评议。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "For each fixed point on the critical Ashkin–Teller line, including the four-state Potts endpoint, we prove the conjectured joint scaling limit of the height and both current-cluster collections in every bounded Jordan domain, for every admissible polygonal approximation. The height converges to a Gaussian free field with the predicted coupling constant, and the clusters converge to canonical recursive two-valued local sets of that same field. The joint limit includes all nesting depths and the distinguished wired boundary cluster.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The joint scaling limit of critical Ashkin-Teller currents",
+  "titleZh": "临界Ashkin-Teller流的联合标度极限",
+  "details": {
+    "overview": "稿件研究临界Ashkin–Teller模型的高度与两类流簇的联合标度极限。作者声称，对临界Ashkin–Teller线上每个固定点（包括四态Potts端点），在任意有界Jordan区域及每种容许多边形逼近下，所猜想的联合极限成立：高度收敛到具有预测耦合常数的Gaussian自由场，流簇收敛到同一场的规范递归二值局部集。摘要表示联合极限包含所有嵌套深度及特殊的wired边界簇。该结果的意义在于把高度与流簇的极限统一到同一随机几何框架中。",
+    "keyPoints": [
+      "覆盖临界Ashkin–Teller线各固定点，含四态Potts端点。",
+      "作者声称高度收敛到预测耦合常数的Gaussian自由场。",
+      "流簇收敛到该场的规范递归二值局部集，含全部嵌套深度。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

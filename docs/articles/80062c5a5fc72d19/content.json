@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the Quantum Approximate Optimization Algorithm (QAOA) approaches the ground-state energy per spin of the Gaussian zero-field Sherrington–Kirkpatrick model when system size tends to infinity first and circuit depth then increases. For every accuracy, some finite depth and deterministic angles, independent of system size and disorder, achieve that accuracy in the limiting expected energy per spin using the standard cost Hamiltonian and transverse-field mixer. This proves the eventual Parisi-optimality conjecture of Basso, Farhi, Marwaha, Villalonga, and Zhou in its fixed-parameter thermodynamic formulation. We give no quantitative bound on the required depth or efficient angle-selection procedure.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "QAOA attains the SK ground-state energy in the thermodynamic-first limit",
+  "titleZh": "QAOA在热力学优先极限下达到SK基态能量",
+  "details": {
+    "overview": "该稿件研究量子近似优化算法（QAOA）与高斯零场Sherrington–Kirkpatrick模型。作者声称，当系统尺寸先趋于无穷、电路深度随后增加时，QAOA逼近每自旋基态能量；对每个精度，存在与系统尺寸和 disorder 无关的有限深度与确定性角度，在标准代价哈密顿量与横场混合器下达到该精度。摘要称这证明Basso等提出的固定参数热力学形式Parisi最优性猜想，但未给出深度定量界或高效选角方法。",
+    "keyPoints": [
+      "系统尺寸先趋于无穷、深度后增时，QAOA逼近SK每自旋基态能量",
+      "对每个精度存在与尺寸和disorder无关的有限深度与确定性角度",
+      "证明固定参数热力学形式的Parisi最优性猜想，但无深度定量界"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

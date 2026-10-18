@@ -1,7 +1,7 @@
 {
   "id": "e97784c263fb36ed",
   "section": "papers",
-  "category": "数学论文",
+  "category": "组合数学与图论",
   "title": "Additive hardness and unbounded configuration gaps in bin packing",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Additive-hardness-and-unbounded-configuration-gaps-in-bin-packing-September-24-2026/Additive-hardness-and-unbounded-configuration-gaps-in-bin-packing-September-24-2026.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We disprove the Modified Integer Round-Up Conjecture for bin packing by constructing instances with arbitrarily large additive gaps between the configuration-LP value and the integral optimum. We also prove that, for every fixed nonnegative integer c, distinguishing instances that fit in B bins from those requiring more than $`B+c`$ bins is NP-hard. Both results hold with rational item sizes greater than 1/6, so each bin contains at most five items.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Additive hardness and unbounded configuration gaps in bin packing",
+  "titleZh": "装箱问题中的加性困难性与无界配置间隙",
+  "details": {
+    "overview": "稿件研究装箱问题中配置线性规划值与整数最优值之间的加性间隙。作者声称构造出使该间隙任意大的实例，从而否定装箱的修正整数上取整猜想；并证明对每个固定非负整数 c，区分能装入 B 个箱子的实例与需要超过 B+c 个箱子的实例是 NP 难的。摘要表示两项结果均在物品尺寸为大于 1/6 的有理数时成立，因此每箱至多装五个物品。",
+    "keyPoints": [
+      "作者构造实例，使配置线性规划值与整数最优值的加性间隙任意大，否定修正整数上取整猜想。",
+      "对每个固定非负整数 c，区分可装入 B 箱与需超过 B+c 箱的实例是 NP 难的。",
+      "结果在物品尺寸为大于 1/6 的有理数时成立，每箱至多五个物品。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

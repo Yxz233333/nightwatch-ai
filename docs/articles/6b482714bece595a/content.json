@@ -10,5 +10,16 @@
   "abstractEnglish": "For a signal with density bounded by L relative to uniform probability on $`S^{d-1}`$, we bound the information in a finite message W formed from exact Gaussian measurements, conditional on an independent projection revealed only to the analyst. For explicit row counts proportional to d, the bound is $`O(H(W)/d+d+\\log(2+\\log L))`$. Consequently, a finite-state learner with $`o(d^2)`$ persistent bits and a deterministic sample horizon needs $`\\Omega(d\\log(1/\\epsilon))`$ fresh noiseless Gaussian measurements for constant-probability angular accuracy $`0\\lt \\epsilon\\le1/10`$ under the uniform spherical prior.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Posterior replicas and conditional information in Gaussian regression",
+  "titleZh": "高斯回归中的后验副本与条件信息",
+  "details": {
+    "overview": "稿件研究高斯回归中后验副本与条件信息。对密度相对S^{d-1}上均匀概率有界为L的信号，作者声称给出由精确高斯测量形成的有限消息W在独立投影（仅分析者可见）条件下的信息上界。对与d成正比的显式行数，界为O(H(W)/d+d+log(2+log L))。由此，在均匀球面先验下，具有o(d^2)持久位与确定性样本视界的有限状态学习器，为达到常数概率角度精度ε需Ω(d log(1/ε))个新鲜无噪声高斯测量。",
+    "keyPoints": [
+      "给出条件信息上界O(H(W)/d+d+log(2+log L))。",
+      "有限状态学习器需Ω(d log(1/ε))个新鲜无噪声高斯测量。",
+      "结果适用于密度有界为L的球面先验信号。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

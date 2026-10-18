@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove stable canonical recovery for scalar-twisted group factors of ICC groups commensurable with property-$`(T)`$ lattices over characteristic-zero local fields. Every specified stable isomorphism to a scalar-twisted factor of any countably infinite ICC group recovers the group, the cocycle up to a normalized cochain, and equal amplification scales, with an implementing partial isometry in the given matrix corners. We compute the arithmetic correspondence subcategory for arbitrary countable ICC groups, including all bounded maps, summands, conjugates, and Connes fusion, and combine it with the companion's arithmetic exhaustion theorem. Multiplication also recovers arbitrary finite-index factor neighbors, with the exact projective condition on the matched cocycle ratio.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The arithmetic category and stable recovery of lattice factors",
+  "titleZh": "算术范畴与格因子的稳定恢复",
+  "details": {
+    "overview": "该稿件研究ICC群标量扭曲群因子的稳定恢复。作者声称对与特征零局部域上性质(T)格可公度的ICC群，其标量扭曲群因子具有稳定典范恢复：每个到任意可数无限ICC群标量扭曲因子的指定稳定同构可恢复群、模正规上链的余圈及相同放大尺度，并在给定矩阵角中给出实现部分等距。稿件还计算任意可数ICC群的算术对应子范畴，并结合伴随的算术穷尽定理；乘法还恢复有限指数因子邻域及匹配余圈比的投影条件。手稿为AI产生，未经独立审查或同行评议。",
+    "keyPoints": [
+      "对象为与性质(T)格可公度的ICC群的标量扭曲群因子。",
+      "声称稳定同构可恢复群、余圈模正规上链及放大尺度。",
+      "计算任意可数ICC群的算术对应子范畴并处理有限指数邻域。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

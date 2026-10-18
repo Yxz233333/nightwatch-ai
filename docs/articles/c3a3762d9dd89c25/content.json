@@ -1,7 +1,7 @@
 {
   "id": "c3a3762d9dd89c25",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论",
   "title": "Mass and covering exponents for fixed-length honeycomb walks",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Mass-and-covering-exponents-for-fixed-length-honeycomb-walks-September-26-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "For uniform self-avoiding walks of every sufficiently large integer length on the honeycomb lattice, we prove diameter exponent 3/4 and simultaneous local-mass and covering exponent 4/3, with arbitrary positive exponent slack and arbitrary polynomial failure probability.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Mass and covering exponents for fixed-length honeycomb walks",
+  "titleZh": "固定长度蜂窝行走的质量与覆盖指数",
+  "details": {
+    "overview": "稿件研究蜂窝格上每个充分大整数长度的均匀自避行走。摘要表示，作者证明直径指数为 3/4，同时局部质量与覆盖指数为 4/3，允许任意正指数松弛和任意多项式失败概率。研究意义在于为固定长度自避行走的几何标度提供同时的直径与质量/覆盖指数估计。",
+    "keyPoints": [
+      "对每个充分大整数长度的均匀自避行走证明直径指数 3/4。",
+      "同时证明局部质量与覆盖指数 4/3。",
+      "结果允许任意正指数松弛与任意多项式失败概率。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

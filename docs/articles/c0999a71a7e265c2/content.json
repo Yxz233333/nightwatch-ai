@@ -1,7 +1,7 @@
 {
   "id": "c0999a71a7e265c2",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率论",
   "title": "A strict four-row permanent inequality and permutation moments",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-strict-four-row-permanent-inequality-and-permutation-moments-September-26-2026/main.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove a permanent inequality with exponent strictly below two for laws on S4 sufficiently close to uniform and with exactly uniform coordinate marginals. Applied to a four-row recursion, it shows that an absolute number of coordinate sweeps brings the full permutation of the Thorp shuffle on $`N=2^d`$ cards to total-variation distance tending to zero from uniform as $`N\\to\\infty`$. Thus the mixing time has the optimal order $`O(\\log N)`$ in physical shuffles.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A strict four-row permanent inequality and permutation moments",
+  "titleZh": "严格四行积不等式与置换矩",
+  "details": {
+    "overview": "稿件研究 S4 上充分接近均匀且坐标边缘恰为均匀的律。摘要表示，作者证明一个指数严格小于2的积不等式；应用于四行递归，表明绝对次数的坐标扫描使 N=2^d 张牌上 Thorp 洗牌的全置换与均匀分布的总变差距离随 N 趋于无穷而趋于零。因此混合时间在物理洗牌次数下具有最优阶 O(log N)。研究意义在于通过四行积不等式给出 Thorp 洗牌混合时间的最优阶。",
+    "keyPoints": [
+      "对 S4 上接近均匀且坐标边缘均匀的律证明指数严格小于2的积不等式。",
+      "应用于四行递归，证明绝对次数坐标扫描使总变差距离趋于零。",
+      "推出 Thorp 洗牌混合时间在物理洗牌下为最优阶 O(log N)。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

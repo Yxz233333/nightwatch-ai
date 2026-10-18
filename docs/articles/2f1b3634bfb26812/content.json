@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove a directional zero–one law for uniformly elliptic nearest-neighbor random walks in stationary, ergodic, finite-range-dependent environments on ℤd, d ≥ 3. For every fixed nonzero real direction, the probability of escape in that direction, averaged over the environment, is either zero or one. Finite-range dependence is imposed on the full transition rows: collections of rows at distance greater than a fixed range are independent, including collections indexed by infinite deterministic sets.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A directional zero–one law for finite-range-dependent random environments",
+  "titleZh": "有限程相依随机环境的方向零一律",
+  "details": {
+    "overview": "稿件在ℤ^d（d≥3）上研究平稳、遍历、有限程相依环境中的一致椭圆最近邻随机游走，证明方向零一律：对每个固定非零实方向，环境平均后的沿该方向逃逸概率非零即一。有限程相依施加于完整转移行：距离超过固定程的转移行集合相互独立，包括由无限确定性集索引的集合。摘要未给出证明细节，手稿未经独立审查。",
+    "keyPoints": [
+      "对象为ℤ^d上平稳遍历有限程相依环境中的一致椭圆随机游走。",
+      "对每个固定非零方向，平均逃逸概率为0或1。",
+      "有限程相依针对完整转移行，含无限确定性索引集。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "a9a518e229184581",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何分析与谱几何",
   "title": "Smooth counterexamples to Yau's nodal upper bound in dimensions three and four",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Smooth-counterexamples-to-Yaus-nodal-upper-bound-in-dimensions-three-and-four-September-23-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a smooth metric on the three-sphere, arbitrarily close to the round metric in the smooth topology, and a smooth metric on $`S^2\\times\\mathbb T^2`$ for which sequences of exact real Laplace eigenfunctions have unbounded nodal measure divided by the square root of the eigenvalue. Each sequence belongs to one fixed metric. Thus the upper-bound part of Yau's nodal conjecture fails for smooth metrics in dimensions three and four.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Smooth counterexamples to Yau's nodal upper bound in dimensions three and four",
+  "titleZh": "三维和四维中Yau节点上界的光滑反例",
+  "details": {
+    "overview": "该稿件声称构造了三维球面上的光滑度量，在光滑拓扑下可任意接近圆度量，以及S²×T²上的光滑度量，使得精确实Laplace特征函数序列的节点测度除以特征值平方根无界；每个序列属于一个固定度量。摘要据此称Yau节点猜想的上界部分在三维和四维的光滑度量情形下不成立。摘要未给出构造细节。若成立，将对特征函数节点集几何测度研究产生重要影响。需注意这是AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "稿件在S³上构造接近圆度量的光滑度量，使节点测度/√特征值无界。",
+      "在S²×T²上构造类似光滑度量反例。",
+      "据此声称Yau节点猜想上界部分在三维和四维光滑度量下失效。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Generalised Abundance Conjecture: if $`(X,B)`$ is a projective klt ℚ-pair over an algebraically closed field of characteristic zero, $`K_X+B`$ is pseudo-effective, M is a nef ℚ-Cartier divisor on X, and $`K_X+B+M`$ is nef, then $`K_X+B+M`$ is numerically equivalent to a semiample ℚ-Cartier divisor on X.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Numerical Semiampleness of Nef Adjoint Divisors",
+  "titleZh": "丰沛伴随除子的数值半丰沛性",
+  "details": {
+    "overview": "稿件研究广义丰沛性猜想。摘要称证明：若(X,B)是特征零代数闭域上的射影klt ℚ-对，K_X+B伪有效，M是X上的丰沛ℚ-Cartier除子，且K_X+B+M丰沛，则K_X+B+M在X上数值等价于某个半丰沛ℚ-Cartier除子。这是AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "keyPoints": [
+      "研究对象为特征零射影klt ℚ-对与丰沛除子M。",
+      "作者声称在K_X+B伪有效且K_X+B+M丰沛时得数值半丰沛性。",
+      "结论为K_X+B+M数值等价于半丰沛ℚ-Cartier除子。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

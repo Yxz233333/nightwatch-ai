@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the fixed-degree bulk-universality conjecture for random regular graphs. For every fixed integer d ≥ 3 and every fixed energy in the open Kesten–McKay bulk, the unfolded eigenvalue point process of the adjacency matrix of a uniform simple labelled d-regular graph converges to the GOE bulk process. The convergence holds along all admissible graph sizes, without additional conditioning.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "GOE bulk universality for fixed-degree random regular graphs",
+  "titleZh": "固定度随机正则图的GOE体普适性",
+  "details": {
+    "overview": "稿件研究固定度随机正则图的体普适性猜想。作者声称证明了：对每个固定整数d≥3及开Kesten–McKay体中的每个固定能量，均匀简单标号d-正则图邻接矩阵的展开特征值点过程收敛到GOE体过程，且沿所有可容许图规模收敛，无需额外条件。该结果若成立，将建立随机正则图与GOE系综在体区域的普适对应。摘要未提供证明细节或独立验证。",
+    "keyPoints": [
+      "证明固定度d≥3随机正则图在开Kesten–McKay体中的GOE体普适性。",
+      "展开特征值点过程收敛到GOE体过程，沿所有可容许图规模成立。",
+      "收敛无需额外条件。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }
