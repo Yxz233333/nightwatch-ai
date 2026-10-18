@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "title": "夜行 · AI 阅读入口",
-  "syncedAt": "2026-10-18T16:14:52.482Z",
+  "syncedAt": "2026-10-18T16:16:34.714Z",
   "contentUpdatedAt": "2026-10-19T00:04:31+08:00",
   "coverage": {
     "requestedFrom": "2025-09-01",
@@ -166,12 +166,7 @@
         "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
       },
       "sourceMaterial": "官方 RSS 所附摘要或正文节选",
-      "interest": [
-        {
-          "kind": "learn",
-          "markedAt": "2026-10-18T16:14:52.298Z"
-        }
-      ]
+      "interest": []
     },
     {
       "id": "f679446ac750e220",
