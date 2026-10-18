@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the second Kahn–Kalai conjecture. For every finite simple graph H with h ≥ 1 edges and at most n vertices, the threshold for $`G(n,p)`$ to contain an ordinary copy of H is at most $`C p_{\\mathrm E}(n,H)(1+\\log_2 h)`$, where C is universal. Here $`p_{\\mathrm E}(n,H)`$ is the least density at which every subgraph of H has expected copy count at least one half.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The second Kahn–Kalai conjecture",
+  "titleZh": "第二Kahn–Kalai猜想",
+  "details": {
+    "overview": "该稿件研究随机图G(n,p)包含给定有限简单图H的普通副本的阈值问题。作者声称证明第二Kahn–Kalai猜想：对每个有h≥1条边且顶点数至多n的有限简单图H，G(n,p)包含H普通副本的阈值至多约为C·p_E(n,H)(1+log₂h)，其中C为普适常数，p_E(n,H)是使H每个子图期望副本数至少一半的最小密度。摘要给出上界形式，但未说明证明方法；其意义在于为随机图子图出现阈值提供接近最优的通用上界。",
+    "keyPoints": [
+      "研究对象是G(n,p)包含有限简单图H普通副本的阈值。",
+      "作者声称阈值上界为C·p_E(n,H)(1+log₂h)，C为普适常数。",
+      "p_E(n,H)定义为使H每个子图期望副本数至少一半的最小密度。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

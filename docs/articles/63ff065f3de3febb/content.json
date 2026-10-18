@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that randomized k-server has competitive ratio $`O((\\log(k+1))^2)`$ on every metric space against oblivious request sequences, matching the known worst-case lower bound. For each metric and initial configuration, one policy works for all finite request sequences, including on infinite and unbounded spaces. When the initial server positions are distinct, no additive term is needed.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Squared-logarithmic randomized k-server on arbitrary metrics",
+  "titleZh": "任意度量空间上平方对数复杂度的随机k-服务器算法",
+  "details": {
+    "overview": "稿件研究随机k-服务器问题，作者声称在任意度量空间上针对 oblivious 请求序列取得 O((log(k+1))^2) 的竞争比，与已知最坏情形下界匹配。摘要表示对每个度量和初始配置存在一个策略，适用于所有有限请求序列，包括无限无界空间；初始服务器位置互异时无需加性项。该结果若成立，将改进随机k-服务器在一般度量上的竞争比上界。",
+    "keyPoints": [
+      "任意度量空间上竞争比为 O((log(k+1))^2)，与已知最坏情形下界匹配。",
+      "单一策略对给定度量与初始配置适用于所有有限请求序列。",
+      "初始服务器位置互异时无需额外加性项。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

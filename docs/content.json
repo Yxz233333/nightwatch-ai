@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "title": "夜行 · AI 阅读入口",
-  "syncedAt": "2026-10-18T15:23:40.713Z",
-  "contentUpdatedAt": "2026-10-18T23:22:54+08:00",
+  "syncedAt": "2026-10-18T15:24:12.829Z",
+  "contentUpdatedAt": "2026-10-18T23:23:53+08:00",
   "description": "完整资讯与论文库，interest字段准确标记用户喜欢和想深入了解的内容。仅公开内容与主动标记，不包含用户名、密码、会话或运行日志。",
   "articles": [
     {
@@ -12206,6 +12206,17 @@
       "abstractEnglish": "We construct a homogeneous polynomial of degree 16 in 23 real variables whose hyperbolicity cone has no representation by a finite homogeneous real symmetric linear matrix inequality. This disproves the geometric Generalized Lax conjecture.",
       "sourceRepository": "https://github.com/openai/math",
       "license": "Apache-2.0",
+      "titleEn": "A nonspectrahedral hyperbolicity cone",
+      "titleZh": "一个非谱面体的双曲锥",
+      "details": {
+        "overview": "稿件构造了23个实变量上的一个16次齐次多项式，作者声称其双曲锥不能由有限个齐次实对称线性矩阵不等式表示，从而否定几何广义Lax猜想。该结果若成立，将说明双曲锥这一凸锥类严格大于谱面体类，对凸代数几何与半定规划的可表示性研究具有意义。摘要未给出构造细节与证明思路，需查阅全文。",
+        "keyPoints": [
+          "构造23变量16次齐次多项式，其双曲锥无有限齐次实对称LMI表示。",
+          "作者据此声称否定几何广义Lax猜想。",
+          "结果涉及双曲锥与谱面体两类凸锥的包含关系。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
       "interest": []
     },
     {
@@ -12220,6 +12231,17 @@
       "abstractEnglish": "We prove that randomized k-server has competitive ratio $`O((\\log(k+1))^2)`$ on every metric space against oblivious request sequences, matching the known worst-case lower bound. For each metric and initial configuration, one policy works for all finite request sequences, including on infinite and unbounded spaces. When the initial server positions are distinct, no additive term is needed.",
       "sourceRepository": "https://github.com/openai/math",
       "license": "Apache-2.0",
+      "titleEn": "Squared-logarithmic randomized k-server on arbitrary metrics",
+      "titleZh": "任意度量空间上平方对数复杂度的随机k-服务器算法",
+      "details": {
+        "overview": "稿件研究随机k-服务器问题，作者声称在任意度量空间上针对 oblivious 请求序列取得 O((log(k+1))^2) 的竞争比，与已知最坏情形下界匹配。摘要表示对每个度量和初始配置存在一个策略，适用于所有有限请求序列，包括无限无界空间；初始服务器位置互异时无需加性项。该结果若成立，将改进随机k-服务器在一般度量上的竞争比上界。",
+        "keyPoints": [
+          "任意度量空间上竞争比为 O((log(k+1))^2)，与已知最坏情形下界匹配。",
+          "单一策略对给定度量与初始配置适用于所有有限请求序列。",
+          "初始服务器位置互异时无需额外加性项。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
       "interest": []
     },
     {
@@ -12234,6 +12256,17 @@
       "abstractEnglish": "At every fixed inverse temperature β > 1, we prove a stretched-exponential obstruction to mixing for the zero-field Sherrington–Kirkpatrick model from typical equilibrium configurations held fixed as initial states. The Gibbs mass of states whose total-variation distance from equilibrium at time $`\\exp(n^{1/10000})`$ exceeds 1/4 tends to one in probability over the disorder. This holds for rate-one-per-site heat-bath dynamics and after the same stated number of discrete update attempts.",
       "sourceRepository": "https://github.com/openai/math",
       "license": "Apache-2.0",
+      "titleEn": "Stretched-exponential barriers for typical SK initial states",
+      "titleZh": "典型SK初始态的拉伸指数混合障碍",
+      "details": {
+        "overview": "稿件研究零场Sherrington–Kirkpatrick模型在固定逆温度β>1下、从典型平衡构型出发的混合行为。作者声称证明拉伸指数型障碍：在时间 exp(n^{1/10000}) 时与平衡的总变差距离超过1/4的态，其Gibbs质量在无序上依概率趋于1；结论适用于每格点速率为1的热浴动力学及相同次数的离散更新尝试。摘要未说明证明方法。",
+        "keyPoints": [
+          "固定β>1，从典型平衡构型出发存在拉伸指数混合障碍。",
+          "时间 exp(n^{1/10000}) 时偏离平衡超过1/4的态Gibbs质量趋于1。",
+          "结论适用于每格点速率1的热浴动力学与离散更新。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
       "interest": []
     },
     {
@@ -12248,12 +12281,23 @@
       "abstractEnglish": "We prove the subcritical Hénon–Lane–Emden conjecture: for every dimension n ≥ 2, positive powers p, q, and real weights A, B, the system has no strictly positive entire solution when $`(n+A)/(p+1)+(n+B)/(q+1)\\gt n-2`$. Solutions need only be continuous at the origin and classical elsewhere, without a condition at infinity. For n ≥ 3 and $`A,B\\gt -2`$, combining this result with the radial existence theorem of Bidaut-Véron and Giacomini proves Phan's Conjecture C in full: a positive radial entire solution exists whenever the strict inequality fails.",
       "sourceRepository": "https://github.com/openai/math",
       "license": "Apache-2.0",
+      "titleEn": "The Subcritical Hénon–Lane–Emden Conjecture",
+      "titleZh": "次临界Hénon–Lane–Emden猜想",
+      "details": {
+        "overview": "稿件证明次临界Hénon–Lane–Emden猜想：对任意维数n≥2、正幂p、q与实权重A、B，当 (n+A)/(p+1)+(n+B)/(q+1)>n-2 时系统无严格正整解；解只需在原点连续、其余处经典，无需无穷远处条件。作者还称结合Bidaut-Véron与Giacomini的径向存在定理，在n≥3且A,B>-2时完整证明Phan猜想C。摘要未展开证明细节。",
+        "keyPoints": [
+          "证明次临界条件下Hénon–Lane–Emden系统无严格正整解。",
+          "解的正则性要求弱：原点连续、其余经典，无无穷远条件。",
+          "结合已有径向存在定理，声称完整证明Phan猜想C。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
       "interest": []
     },
     {
       "id": "63407a22baf720df",
       "section": "papers",
-      "category": "数学论文",
+      "category": "数理逻辑与集合论",
       "title": "A CH obstruction to a prescribed categoricity threshold",
       "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
       "url": "https://github.com/openai/math/blob/main/preprints/A-CH-Obstruction-to-a-Prescribed-Categoricity-Threshold-September-24-2026/paper.pdf",
@@ -12262,12 +12306,23 @@
       "abstractEnglish": "Assuming the continuum hypothesis, we construct an abstract elementary class with Löwenheim–Skolem number ℵ0 that is categorical in every sufficiently large cardinal but has at least two nonisomorphic models of cardinality $`\\beth_{\\omega_2}`$. Thus categoricity does not transfer down to the proposed bound $`\\beth_{(2^{\\aleph_0})^+}`$, which equals $`\\beth_{\\omega_2}`$ under CH. Consequently, if ZFC is consistent, the prescribed-threshold form of Shelah's categoricity conjecture is not provable in ZFC.",
       "sourceRepository": "https://github.com/openai/math",
       "license": "Apache-2.0",
+      "titleEn": "A CH obstruction to a prescribed categoricity threshold",
+      "titleZh": "连续统假设对给定范畴性阈值的阻碍",
+      "details": {
+        "overview": "该稿件在假设连续统假设（CH）的前提下，构造了一个Löwenheim–Skolem数为ℵ0的抽象初等类：它在所有足够大的基数上都是范畴的，但在基数ℶ_{ω2}上至少有两个不同构模型。作者据此声称，范畴性不能下传到所提议的界ℶ_{(2^{ℵ0})^+}（在CH下该界等于ℶ_{ω2}）。摘要进一步表示，若ZFC相容，则Shelah范畴性猜想的“给定阈值”形式在ZFC中不可证。研究意义在于给出该阈值形式的独立性阻碍，而非对猜想本身作出判定。",
+        "keyPoints": [
+          "在CH下构造Löwenheim–Skolem数为ℵ0的抽象初等类。",
+          "该类在足够大基数上范畴，但在ℶ_{ω2}上至少有两个不同构模型。",
+          "作者声称给定阈值形式的Shelah范畴性猜想在ZFC中不可证（若ZFC相容）。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
       "interest": []
     },
     {
       "id": "620a0d74c214d423",
       "section": "papers",
-      "category": "理论计算机科学",
+      "category": "计算复杂性理论",
       "title": "A cubic lower bound for border determinantal complexity of the permanent",
       "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
       "url": "https://github.com/openai/math/blob/main/preprints/A-cubic-lower-bound-for-border-determinantal-complexity-of-the-permanent-September-24-2026/A-cubic-lower-bound-for-border-determinantal-complexity-of-the-permanent-September-24-2026.pdf",
@@ -12276,12 +12331,23 @@
       "abstractEnglish": "We prove that the complex border determinantal complexity of the $`m\\times m`$ permanent is $`\\Omega(m^3)`$, allowing arbitrary affine-linear determinant representations and coefficientwise limits. It also gives cubic lower bounds for exact determinantal complexity and for the numbers of vertices and edges in affine-linear algebraic branching programs, including coefficientwise limits with a fixed vertex or edge budget.",
       "sourceRepository": "https://github.com/openai/math",
       "license": "Apache-2.0",
+      "titleEn": "A cubic lower bound for border determinantal complexity of the permanent",
+      "titleZh": "永久式的边界行列式复杂度的三次下界",
+      "details": {
+        "overview": "该稿件研究m×m永久式的复边界行列式复杂度，作者声称证明了Ω(m³)的下界，且允许任意仿射线性行列式表示以及逐系数极限。摘要还表示，这一结果同时给出精确行列式复杂度的三次下界，以及仿射线性代数分支程序中顶点数和边数的三次下界，包括在固定顶点或边预算下的逐系数极限情形。研究意义在于为永久式的行列式型复杂度提供更强的下界工具，但结论仍属作者声称，尚待独立审查。",
+        "keyPoints": [
+          "作者声称m×m永久式的复边界行列式复杂度为Ω(m³)。",
+          "结果允许任意仿射线性行列式表示及逐系数极限。",
+          "同时给出精确行列式复杂度与仿射线性代数分支程序规模的三次下界。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
       "interest": []
     },
     {
       "id": "6206c1def673374d",
       "section": "papers",
-      "category": "数学论文",
+      "category": "代数几何",
       "title": "The ordinary-double-point gap in every dimension",
       "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
       "url": "https://github.com/openai/math/blob/main/preprints/The-ordinary-double-point-gap-in-every-dimension-September-24-2026/paper.pdf",
@@ -12290,6 +12356,17 @@
       "abstractEnglish": "We prove the ordinary-double-point gap conjecture for boundary-zero complex algebraic klt germs in every dimension: a singular n-dimensional germ has normalized volume at most $`2(n-1)^n`$, with equality precisely at an analytic ordinary double point.",
       "sourceRepository": "https://github.com/openai/math",
       "license": "Apache-2.0",
+      "titleEn": "The ordinary-double-point gap in every dimension",
+      "titleZh": "任意维数下的普通二重点间隙",
+      "details": {
+        "overview": "该稿件研究边界为零的复代数klt芽，作者声称在任意维数下证明了普通二重点间隙猜想：一个n维奇异芽的归一化体积至多为2(n−1)^n，且等号恰在解析普通二重点处取得。摘要给出了上界与等号刻画，但未展开证明细节。研究意义在于把该间隙猜想从低维推广到所有维数，并为klt奇点的归一化体积提供精确极值描述；相关结论仍需独立验证。",
+        "keyPoints": [
+          "对象为边界为零的复代数klt芽，覆盖任意维数。",
+          "作者声称n维奇异芽归一化体积至多为2(n−1)^n。",
+          "等号恰在解析普通二重点处取得。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
       "interest": []
     },
     {
@@ -12304,6 +12381,17 @@
       "abstractEnglish": "We prove that an isomorphism of Bruhat intervals in arbitrary Coxeter systems preserves their equal-parameter Kazhdan–Lusztig polynomials. This resolves the full combinatorial invariance conjecture positively.",
       "sourceRepository": "https://github.com/openai/math",
       "license": "Apache-2.0",
+      "titleEn": "Combinatorial invariance of Kazhdan–Lusztig polynomials",
+      "titleZh": "Kazhdan–Lusztig多项式的组合不变性",
+      "details": {
+        "overview": "该稿件研究任意Coxeter系统中Bruhat区间的同构与等参数Kazhdan–Lusztig多项式之间的关系。作者声称证明了：任意Coxeter系统中Bruhat区间的同构保持其等参数Kazhdan–Lusztig多项式，从而正面解决了完整的组合不变性猜想。摘要仅给出这一总体结论，未展开具体证明方法。研究意义在于把组合不变性从特殊情形推进到任意Coxeter系统的完整表述；该结论属作者声称，尚待独立审查。",
+        "keyPoints": [
+          "研究对象为任意Coxeter系统中Bruhat区间的同构。",
+          "作者声称同构保持等参数Kazhdan–Lusztig多项式。",
+          "据此声称完整组合不变性猜想得到正面解决。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
       "interest": []
     },
     {
@@ -12318,6 +12406,17 @@
       "abstractEnglish": "For every staircase partition, we prove that the tensor square of the corresponding irreducible complex representation of the symmetric group contains every irreducible representation of that group. This proves Saxl's conjecture.",
       "sourceRepository": "https://github.com/openai/math",
       "license": "Apache-2.0",
+      "titleEn": "A Cyclic Polytabloid Proof of Saxl's Conjecture",
+      "titleZh": "Saxl猜想的循环多表证明",
+      "details": {
+        "overview": "该稿件研究对称群不可约复表示的张量平方分解问题。作者声称，对每个阶梯形分拆，相应不可约复表示的张量平方都包含该对称群的所有不可约表示，并由此证明Saxl猜想。摘要仅给出结论性陈述，未说明循环多表证明的具体构造与论证细节；其意义在于若成立，将为该表示论猜想提供统一证明路径。",
+        "keyPoints": [
+          "研究对象为对称群不可约复表示张量平方的分解。",
+          "作者声称对每个阶梯形分拆，张量平方包含全部不可约表示。",
+          "摘要表示该结果证明Saxl猜想，但未展开证明细节。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
       "interest": []
     },
     {
@@ -12332,6 +12431,17 @@
       "abstractEnglish": "We prove Gaussian scaling limits for the two-dimensional discrete Gaussian height model throughout its rough phase, including the physical roughening threshold, for every finite square-symmetric interaction set containing the nearest neighbors. After the natural lattice normalization, the critical effective temperature has the universal value $`8\\pi`$. For the ordinary nearest-neighbor Villain and XY models at sufficiently low fixed temperatures, we also prove that their Green-function-normalized spin fields converge to the imaginary exponential of a Dirichlet Gaussian free field.",
       "sourceRepository": "https://github.com/openai/math",
       "license": "Apache-2.0",
+      "titleEn": "BKT universality for height and planar spin fields",
+      "titleZh": "高度场与平面自旋场的BKT普适性",
+      "details": {
+        "overview": "该稿件研究二维离散高斯高度模型在粗糙相中的标度极限。作者声称，对每个包含最近邻的有限正方对称相互作用集，包括物理粗糙化阈值在内，均得到高斯标度极限；经自然格点归一化后，临界有效温度取普适值8π。摘要还表示，对普通最近邻Villain模型和XY模型，在足够低的固定温度下，格林函数归一化的自旋场收敛到狄利克雷高斯自由场的虚指数。研究意义在于为BKT相变普适性提供严格表述，但细节未在摘要中展开。",
+        "keyPoints": [
+          "覆盖含最近邻的有限正方对称相互作用集及物理粗糙化阈值。",
+          "作者声称临界有效温度经归一化后为普适值8π。",
+          "Villain与XY模型低固定温度下自旋场收敛到高斯自由场虚指数。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
       "interest": []
     },
     {
@@ -12346,6 +12456,17 @@
       "abstractEnglish": "We prove the second Kahn–Kalai conjecture. For every finite simple graph H with h ≥ 1 edges and at most n vertices, the threshold for $`G(n,p)`$ to contain an ordinary copy of H is at most $`C p_{\\mathrm E}(n,H)(1+\\log_2 h)`$, where C is universal. Here $`p_{\\mathrm E}(n,H)`$ is the least density at which every subgraph of H has expected copy count at least one half.",
       "sourceRepository": "https://github.com/openai/math",
       "license": "Apache-2.0",
+      "titleEn": "The second Kahn–Kalai conjecture",
+      "titleZh": "第二Kahn–Kalai猜想",
+      "details": {
+        "overview": "该稿件研究随机图G(n,p)包含给定有限简单图H的普通副本的阈值问题。作者声称证明第二Kahn–Kalai猜想：对每个有h≥1条边且顶点数至多n的有限简单图H，G(n,p)包含H普通副本的阈值至多约为C·p_E(n,H)(1+log₂h)，其中C为普适常数，p_E(n,H)是使H每个子图期望副本数至少一半的最小密度。摘要给出上界形式，但未说明证明方法；其意义在于为随机图子图出现阈值提供接近最优的通用上界。",
+        "keyPoints": [
+          "研究对象是G(n,p)包含有限简单图H普通副本的阈值。",
+          "作者声称阈值上界为C·p_E(n,H)(1+log₂h)，C为普适常数。",
+          "p_E(n,H)定义为使H每个子图期望副本数至少一半的最小密度。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
       "interest": []
     },
     {
@@ -12360,6 +12481,17 @@
       "abstractEnglish": "We prove the Virasoro conjecture for the ordinary descendant Gromov–Witten theory of smooth complete intersections in projective space, in every genus and curve class and with arbitrary cohomology insertions. This includes primitive and odd cohomology classes, with no semisimplicity assumption.",
       "sourceRepository": "https://github.com/openai/math",
       "license": "Apache-2.0",
+      "titleEn": "Virasoro Constraints for Projective Complete Intersections",
+      "titleZh": "射影完全交的Virasoro约束",
+      "details": {
+        "overview": "该稿件研究射影空间中光滑完全交的普通后代Gromov–Witten理论。作者声称证明其Virasoro猜想，覆盖每个亏格与曲线类，并允许任意上同调插入，包括本原类和奇上同调类，且不假设半单性。摘要仅陈述结论范围，未给出证明思路或技术细节；若成立，其意义在于把Virasoro约束从更受限情形推广到一般射影完全交。",
+        "keyPoints": [
+          "研究对象为射影空间光滑完全交的后代Gromov–Witten理论。",
+          "作者声称在每个亏格、曲线类及任意上同调插入下证明Virasoro猜想。",
+          "结果涵盖本原与奇上同调类，且不要求半单性假设。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
       "interest": []
     },
     {

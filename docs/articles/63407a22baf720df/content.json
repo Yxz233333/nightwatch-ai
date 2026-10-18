@@ -1,7 +1,7 @@
 {
   "id": "63407a22baf720df",
   "section": "papers",
-  "category": "数学论文",
+  "category": "数理逻辑与集合论",
   "title": "A CH obstruction to a prescribed categoricity threshold",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-CH-Obstruction-to-a-Prescribed-Categoricity-Threshold-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "Assuming the continuum hypothesis, we construct an abstract elementary class with Löwenheim–Skolem number ℵ0 that is categorical in every sufficiently large cardinal but has at least two nonisomorphic models of cardinality $`\\beth_{\\omega_2}`$. Thus categoricity does not transfer down to the proposed bound $`\\beth_{(2^{\\aleph_0})^+}`$, which equals $`\\beth_{\\omega_2}`$ under CH. Consequently, if ZFC is consistent, the prescribed-threshold form of Shelah's categoricity conjecture is not provable in ZFC.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A CH obstruction to a prescribed categoricity threshold",
+  "titleZh": "连续统假设对给定范畴性阈值的阻碍",
+  "details": {
+    "overview": "该稿件在假设连续统假设（CH）的前提下，构造了一个Löwenheim–Skolem数为ℵ0的抽象初等类：它在所有足够大的基数上都是范畴的，但在基数ℶ_{ω2}上至少有两个不同构模型。作者据此声称，范畴性不能下传到所提议的界ℶ_{(2^{ℵ0})^+}（在CH下该界等于ℶ_{ω2}）。摘要进一步表示，若ZFC相容，则Shelah范畴性猜想的“给定阈值”形式在ZFC中不可证。研究意义在于给出该阈值形式的独立性阻碍，而非对猜想本身作出判定。",
+    "keyPoints": [
+      "在CH下构造Löwenheim–Skolem数为ℵ0的抽象初等类。",
+      "该类在足够大基数上范畴，但在ℶ_{ω2}上至少有两个不同构模型。",
+      "作者声称给定阈值形式的Shelah范畴性猜想在ZFC中不可证（若ZFC相容）。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

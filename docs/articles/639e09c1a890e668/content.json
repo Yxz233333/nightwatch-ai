@@ -10,5 +10,16 @@
   "abstractEnglish": "At every fixed inverse temperature β > 1, we prove a stretched-exponential obstruction to mixing for the zero-field Sherrington–Kirkpatrick model from typical equilibrium configurations held fixed as initial states. The Gibbs mass of states whose total-variation distance from equilibrium at time $`\\exp(n^{1/10000})`$ exceeds 1/4 tends to one in probability over the disorder. This holds for rate-one-per-site heat-bath dynamics and after the same stated number of discrete update attempts.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Stretched-exponential barriers for typical SK initial states",
+  "titleZh": "典型SK初始态的拉伸指数混合障碍",
+  "details": {
+    "overview": "稿件研究零场Sherrington–Kirkpatrick模型在固定逆温度β>1下、从典型平衡构型出发的混合行为。作者声称证明拉伸指数型障碍：在时间 exp(n^{1/10000}) 时与平衡的总变差距离超过1/4的态，其Gibbs质量在无序上依概率趋于1；结论适用于每格点速率为1的热浴动力学及相同次数的离散更新尝试。摘要未说明证明方法。",
+    "keyPoints": [
+      "固定β>1，从典型平衡构型出发存在拉伸指数混合障碍。",
+      "时间 exp(n^{1/10000}) 时偏离平衡超过1/4的态Gibbs质量趋于1。",
+      "结论适用于每格点速率1的热浴动力学与离散更新。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

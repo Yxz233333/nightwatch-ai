@@ -1,7 +1,7 @@
 {
   "id": "620a0d74c214d423",
   "section": "papers",
-  "category": "理论计算机科学",
+  "category": "计算复杂性理论",
   "title": "A cubic lower bound for border determinantal complexity of the permanent",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-cubic-lower-bound-for-border-determinantal-complexity-of-the-permanent-September-24-2026/A-cubic-lower-bound-for-border-determinantal-complexity-of-the-permanent-September-24-2026.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that the complex border determinantal complexity of the $`m\\times m`$ permanent is $`\\Omega(m^3)`$, allowing arbitrary affine-linear determinant representations and coefficientwise limits. It also gives cubic lower bounds for exact determinantal complexity and for the numbers of vertices and edges in affine-linear algebraic branching programs, including coefficientwise limits with a fixed vertex or edge budget.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A cubic lower bound for border determinantal complexity of the permanent",
+  "titleZh": "永久式的边界行列式复杂度的三次下界",
+  "details": {
+    "overview": "该稿件研究m×m永久式的复边界行列式复杂度，作者声称证明了Ω(m³)的下界，且允许任意仿射线性行列式表示以及逐系数极限。摘要还表示，这一结果同时给出精确行列式复杂度的三次下界，以及仿射线性代数分支程序中顶点数和边数的三次下界，包括在固定顶点或边预算下的逐系数极限情形。研究意义在于为永久式的行列式型复杂度提供更强的下界工具，但结论仍属作者声称，尚待独立审查。",
+    "keyPoints": [
+      "作者声称m×m永久式的复边界行列式复杂度为Ω(m³)。",
+      "结果允许任意仿射线性行列式表示及逐系数极限。",
+      "同时给出精确行列式复杂度与仿射线性代数分支程序规模的三次下界。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

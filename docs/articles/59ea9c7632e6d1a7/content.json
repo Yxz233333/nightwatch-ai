@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the Virasoro conjecture for the ordinary descendant Gromov–Witten theory of smooth complete intersections in projective space, in every genus and curve class and with arbitrary cohomology insertions. This includes primitive and odd cohomology classes, with no semisimplicity assumption.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Virasoro Constraints for Projective Complete Intersections",
+  "titleZh": "射影完全交的Virasoro约束",
+  "details": {
+    "overview": "该稿件研究射影空间中光滑完全交的普通后代Gromov–Witten理论。作者声称证明其Virasoro猜想，覆盖每个亏格与曲线类，并允许任意上同调插入，包括本原类和奇上同调类，且不假设半单性。摘要仅陈述结论范围，未给出证明思路或技术细节；若成立，其意义在于把Virasoro约束从更受限情形推广到一般射影完全交。",
+    "keyPoints": [
+      "研究对象为射影空间光滑完全交的后代Gromov–Witten理论。",
+      "作者声称在每个亏格、曲线类及任意上同调插入下证明Virasoro猜想。",
+      "结果涵盖本原与奇上同调类，且不要求半单性假设。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove that an isomorphism of Bruhat intervals in arbitrary Coxeter systems preserves their equal-parameter Kazhdan–Lusztig polynomials. This resolves the full combinatorial invariance conjecture positively.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "Combinatorial invariance of Kazhdan–Lusztig polynomials",
+  "titleZh": "Kazhdan–Lusztig多项式的组合不变性",
+  "details": {
+    "overview": "该稿件研究任意Coxeter系统中Bruhat区间的同构与等参数Kazhdan–Lusztig多项式之间的关系。作者声称证明了：任意Coxeter系统中Bruhat区间的同构保持其等参数Kazhdan–Lusztig多项式，从而正面解决了完整的组合不变性猜想。摘要仅给出这一总体结论，未展开具体证明方法。研究意义在于把组合不变性从特殊情形推进到任意Coxeter系统的完整表述；该结论属作者声称，尚待独立审查。",
+    "keyPoints": [
+      "研究对象为任意Coxeter系统中Bruhat区间的同构。",
+      "作者声称同构保持等参数Kazhdan–Lusztig多项式。",
+      "据此声称完整组合不变性猜想得到正面解决。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

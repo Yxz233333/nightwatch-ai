@@ -1,7 +1,7 @@
 {
   "id": "6206c1def673374d",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数几何",
   "title": "The ordinary-double-point gap in every dimension",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/The-ordinary-double-point-gap-in-every-dimension-September-24-2026/paper.pdf",
@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove the ordinary-double-point gap conjecture for boundary-zero complex algebraic klt germs in every dimension: a singular n-dimensional germ has normalized volume at most $`2(n-1)^n`$, with equality precisely at an analytic ordinary double point.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "The ordinary-double-point gap in every dimension",
+  "titleZh": "任意维数下的普通二重点间隙",
+  "details": {
+    "overview": "该稿件研究边界为零的复代数klt芽，作者声称在任意维数下证明了普通二重点间隙猜想：一个n维奇异芽的归一化体积至多为2(n−1)^n，且等号恰在解析普通二重点处取得。摘要给出了上界与等号刻画，但未展开证明细节。研究意义在于把该间隙猜想从低维推广到所有维数，并为klt奇点的归一化体积提供精确极值描述；相关结论仍需独立验证。",
+    "keyPoints": [
+      "对象为边界为零的复代数klt芽，覆盖任意维数。",
+      "作者声称n维奇异芽归一化体积至多为2(n−1)^n。",
+      "等号恰在解析普通二重点处取得。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

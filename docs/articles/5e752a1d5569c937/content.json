@@ -10,5 +10,16 @@
   "abstractEnglish": "For every staircase partition, we prove that the tensor square of the corresponding irreducible complex representation of the symmetric group contains every irreducible representation of that group. This proves Saxl's conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A Cyclic Polytabloid Proof of Saxl's Conjecture",
+  "titleZh": "Saxl猜想的循环多表证明",
+  "details": {
+    "overview": "该稿件研究对称群不可约复表示的张量平方分解问题。作者声称，对每个阶梯形分拆，相应不可约复表示的张量平方都包含该对称群的所有不可约表示，并由此证明Saxl猜想。摘要仅给出结论性陈述，未说明循环多表证明的具体构造与论证细节；其意义在于若成立，将为该表示论猜想提供统一证明路径。",
+    "keyPoints": [
+      "研究对象为对称群不可约复表示张量平方的分解。",
+      "作者声称对每个阶梯形分拆，张量平方包含全部不可约表示。",
+      "摘要表示该结果证明Saxl猜想，但未展开证明细节。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

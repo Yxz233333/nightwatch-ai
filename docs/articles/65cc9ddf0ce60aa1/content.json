@@ -10,5 +10,16 @@
   "abstractEnglish": "We construct a homogeneous polynomial of degree 16 in 23 real variables whose hyperbolicity cone has no representation by a finite homogeneous real symmetric linear matrix inequality. This disproves the geometric Generalized Lax conjecture.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "A nonspectrahedral hyperbolicity cone",
+  "titleZh": "一个非谱面体的双曲锥",
+  "details": {
+    "overview": "稿件构造了23个实变量上的一个16次齐次多项式，作者声称其双曲锥不能由有限个齐次实对称线性矩阵不等式表示，从而否定几何广义Lax猜想。该结果若成立，将说明双曲锥这一凸锥类严格大于谱面体类，对凸代数几何与半定规划的可表示性研究具有意义。摘要未给出构造细节与证明思路，需查阅全文。",
+    "keyPoints": [
+      "构造23变量16次齐次多项式，其双曲锥无有限齐次实对称LMI表示。",
+      "作者据此声称否定几何广义Lax猜想。",
+      "结果涉及双曲锥与谱面体两类凸锥的包含关系。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }

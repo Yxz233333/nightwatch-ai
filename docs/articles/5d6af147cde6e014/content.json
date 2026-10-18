@@ -10,5 +10,16 @@
   "abstractEnglish": "We prove Gaussian scaling limits for the two-dimensional discrete Gaussian height model throughout its rough phase, including the physical roughening threshold, for every finite square-symmetric interaction set containing the nearest neighbors. After the natural lattice normalization, the critical effective temperature has the universal value $`8\\pi`$. For the ordinary nearest-neighbor Villain and XY models at sufficiently low fixed temperatures, we also prove that their Green-function-normalized spin fields converge to the imaginary exponential of a Dirichlet Gaussian free field.",
   "sourceRepository": "https://github.com/openai/math",
   "license": "Apache-2.0",
+  "titleEn": "BKT universality for height and planar spin fields",
+  "titleZh": "高度场与平面自旋场的BKT普适性",
+  "details": {
+    "overview": "该稿件研究二维离散高斯高度模型在粗糙相中的标度极限。作者声称，对每个包含最近邻的有限正方对称相互作用集，包括物理粗糙化阈值在内，均得到高斯标度极限；经自然格点归一化后，临界有效温度取普适值8π。摘要还表示，对普通最近邻Villain模型和XY模型，在足够低的固定温度下，格林函数归一化的自旋场收敛到狄利克雷高斯自由场的虚指数。研究意义在于为BKT相变普适性提供严格表述，但细节未在摘要中展开。",
+    "keyPoints": [
+      "覆盖含最近邻的有限正方对称相互作用集及物理粗糙化阈值。",
+      "作者声称临界有效温度经归一化后为普适值8π。",
+      "Villain与XY模型低固定温度下自旋场收敛到高斯自由场虚指数。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
   "interest": []
 }
