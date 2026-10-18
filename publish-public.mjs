@@ -1,5 +1,9 @@
-import {DatabaseSync} from 'node:sqlite';import {readFileSync,writeFileSync,mkdirSync,existsSync} from 'node:fs';import {execFileSync} from 'node:child_process';import path from 'node:path';import {fileURLToPath} from 'node:url';
+import {DatabaseSync} from 'node:sqlite';import {readFileSync,writeFileSync,mkdirSync,existsSync,openSync,closeSync,unlinkSync} from 'node:fs';import {execFileSync} from 'node:child_process';import path from 'node:path';import {fileURLToPath} from 'node:url';
 const root=path.dirname(fileURLToPath(import.meta.url)),docs=path.join(root,'docs');mkdirSync(docs,{recursive:true});
+const lock=path.join(root,'data','public-publish.lock');
+if(existsSync(lock)){let live=false;try{const pid=Number(readFileSync(lock,'utf8'));if(pid>0){process.kill(pid,0);live=true;}}catch{}if(live)process.exit(0);try{unlinkSync(lock);}catch{}}
+try{const fd=openSync(lock,'wx');writeFileSync(fd,String(process.pid));closeSync(fd);}catch(e){if(e.code==='EEXIST')process.exit(0);throw e;}
+process.on('exit',()=>{try{if(readFileSync(lock,'utf8')===String(process.pid))unlinkSync(lock);}catch{}});
 const content=JSON.parse(readFileSync(path.join(root,'public','content.json'),'utf8'));
 const db=new DatabaseSync(path.join(root,'data','nightwatch.sqlite'),{readOnly:true});const owner=db.prepare('SELECT id FROM users ORDER BY id LIMIT 1').get();
 const marks=owner?db.prepare('SELECT article,kind,created FROM marks WHERE user=? ORDER BY created DESC').all(owner.id):[];db.close();
