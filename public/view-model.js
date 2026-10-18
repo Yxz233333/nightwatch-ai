@@ -1,16 +1,21 @@
 export const PAGE_SIZE=10;
-export const CHOICES={chatgpt:['功能更新','功能预告'],codex:['功能更新','功能预告'],news:['全部','今日推荐','其他内容'],papers:['全部论文']};
-export const LABELS={chatgpt:'ChatGPT',codex:'Codex',news:'AI 资讯',papers:'OpenAI论文'};
+export const CHOICES={chatgpt:['功能更新','功能预告','时间线'],codex:['功能更新','功能预告','时间线'],news:['全部','今日推荐','其他内容','时间线'],papers:['全部论文'],breakthroughs:['时间线']};
+export const LABELS={chatgpt:'ChatGPT',codex:'Codex',news:'AI 资讯',papers:'OpenAI论文',breakthroughs:'AI 重大突破'};
 export function beijingToday(now=new Date()){return new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Shanghai',year:'numeric',month:'2-digit',day:'2-digit'}).format(now);}
 export function monthAgo(today){const [year,month,day]=today.split('-').map(Number);const d=new Date(Date.UTC(year,month-2,1));const max=new Date(Date.UTC(d.getUTCFullYear(),d.getUTCMonth()+1,0)).getUTCDate();return `${d.getUTCFullYear()}-${String(d.getUTCMonth()+1).padStart(2,'0')}-${String(Math.min(day,max)).padStart(2,'0')}`;}
+export function isTodayRecommendation(a,now=new Date()){if(a.section!=='news'||a.recommended!==true)return false;const timestamp=a.publishedAt;if(timestamp&&/T.*(?:Z|[+-]\d{2}:\d{2})$/.test(timestamp)){const age=now.getTime()-Date.parse(timestamp);return Number.isFinite(age)&&age>=0&&age<=86400000;}return a.date?.slice(0,10)===beijingToday(now);}
+export function isNewThisWeek(a,today=beijingToday(),now=new Date()){if(a.publishedAt&&/T.*(?:Z|[+-]\d{2}:\d{2})$/.test(a.publishedAt)){const age=now.getTime()-Date.parse(a.publishedAt);return Number.isFinite(age)&&age>=0&&age<7*86400000;}if(!/^\d{4}-\d{2}-\d{2}$/.test(a.date||''))return false;const age=(Date.parse(today+'T00:00:00Z')-Date.parse(a.date+'T00:00:00Z'))/86400000;return age>=0&&age<7;}
+export function inSection(a,section){return section==='breakthroughs'?a.breakthrough===true:a.section===section;}
+export function categoryFor(a,section){return section==='breakthroughs'?(a.breakthroughField||a.category):a.category;}
+export function quickMonths(today=beijingToday()){const [year,month]=today.split('-').map(Number);return [0,1,2].map(offset=>{const d=new Date(Date.UTC(year,month-1-offset,1));return {value:`${d.getUTCFullYear()}-${String(d.getUTCMonth()+1).padStart(2,'0')}`,label:`${d.getUTCMonth()+1}月`};});}
 export function readView(href){const url=new URL(href,'https://ai.zmh.icu');const parts=decodeURIComponent(url.pathname).split('/').filter(Boolean),q=url.searchParams;const detail=parts[0]==='articles'?parts[1]:null;const saved=parts[0]==='saved';if(saved)parts.shift();const section=CHOICES[parts[0]]?parts[0]:'chatgpt';let filter=CHOICES[section].includes(parts[1])?parts[1]:CHOICES[section][0];let category=q.get('category')||'all';if(section==='news'&&['行业新闻','模型动态','工具动态'].includes(parts[1])){filter='其他内容';category=parts[1];}return {section,filter,category,saved,detail,month:q.get('month')||'latest',q:q.get('q')||'',page:Math.max(1,parseInt(q.get('page'),10)||1),from:q.get('from')||''};}
 export function viewUrl(v){if(v.detail){const params=new URLSearchParams();if(v.from)params.set('from',v.from);return '/articles/'+encodeURIComponent(v.detail)+'/'+(params.size?'?'+params:'');}const p=new URLSearchParams();if(v.month!=='latest')p.set('month',v.month);if(v.category!=='all')p.set('category',v.category);if(v.q)p.set('q',v.q);if(v.page>1)p.set('page',v.page);return '/'+(v.saved?'saved/':'')+v.section+'/'+encodeURIComponent(v.filter)+'/'+(p.size?'?'+p:'');}
-export function filterArticles(articles,v,marks=[],today=beijingToday()){const cutoff=monthAgo(today),query=v.q.trim().toLowerCase();return articles.filter(a=>{
- if(a.section!==v.section)return false;if(v.saved&&!marks.some(m=>m.article===a.id))return false;
+export function filterArticles(articles,v,marks=[],today=beijingToday(),now=new Date()){const cutoff=monthAgo(today),query=v.q.trim().toLowerCase();return articles.filter(a=>{
+ if(!inSection(a,v.section))return false;if(v.saved&&!marks.some(m=>m.article===a.id))return false;
  const date=a.date?.slice(0,10);if(v.month==='latest'&&(!date||date<cutoff||date>today))return false;if(v.month==='undated'&&date)return false;if(!['latest','all','undated'].includes(v.month)&&date?.slice(0,7)!==v.month)return false;
- if(v.section==='chatgpt'||v.section==='codex'){if(a.category!==v.filter)return false;}
- if(v.section==='news'){if(v.filter==='今日推荐'&&(!a.recommended||(a.recommendedOn&&a.recommendedOn!==today)))return false;if(v.filter==='其他内容'&&a.recommended&&(!a.recommendedOn||a.recommendedOn===today))return false;}
- if(v.category!=='all'&&a.category!==v.category)return false;
+ if(v.section==='chatgpt'||v.section==='codex'){if(v.filter!=='时间线'&&a.category!==v.filter)return false;}
+ if(v.section==='news'){if(v.filter==='今日推荐'&&!isTodayRecommendation(a,now))return false;if(v.filter==='其他内容'&&isTodayRecommendation(a,now))return false;}
+ if(v.category!=='all'&&categoryFor(a,v.section)!==v.category)return false;
  if(query&&![a.title,a.titleZh,a.titleEn,a.summary,a.abstractEnglish,a.category,a.details?.overview].join(' ').toLowerCase().includes(query))return false;return true;
  }).sort((a,b)=>(b.date||'').localeCompare(a.date||'')||a.id.localeCompare(b.id));}
 export function paginate(items,page){const pages=Math.max(1,Math.ceil(items.length/PAGE_SIZE));page=Math.min(Math.max(1,page),pages);return {page,pages,total:items.length,items:items.slice((page-1)*PAGE_SIZE,page*PAGE_SIZE)};}

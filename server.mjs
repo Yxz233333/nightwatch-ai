@@ -22,6 +22,7 @@ http.createServer(async(req,res)=>{
  const reply=(status,data)=>{res.writeHead(status,{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store','X-Content-Type-Options':'nosniff'});res.end(JSON.stringify(data));};
  try{
  if(url.pathname==='/api/health')return reply(200,{ok:true,service:'nightwatch-ai',hosting:'local'});
+ if(url.pathname==='/api/content-version')return reply(200,{updatedAt:JSON.parse(readFileSync(path.join(root,'public','content.json'),'utf8')).updatedAt});
  if(req.method==='POST'&&req.headers.origin&&req.headers.origin!==`http://${req.headers.host}`&&req.headers.origin!==`https://${req.headers.host}`)return reply(403,{error:'来源不匹配'});
  let body={};if(req.method==='POST'){let text='';for await(const chunk of req){text+=chunk;if(text.length>16000)return reply(413,{error:'请求过大'});}body=JSON.parse(text||'{}');}
  if(url.pathname==='/api/setup'&&req.method==='POST'){
@@ -52,9 +53,10 @@ http.createServer(async(req,res)=>{
  if(url.pathname==='/api/logout'&&req.method==='POST'){if(token)db.prepare('DELETE FROM sessions WHERE token=?').run(digest(token));res.setHeader('Set-Cookie','nightwatch=; HttpOnly; SameSite=Strict; Path=/; Max-Age=0');return reply(200,{ok:true});}
  if(url.pathname==='/api/me')return reply(200,{loggedIn:!!session,needsSetup:db.prepare('SELECT count(*) AS n FROM users').get().n===0});
  const files={'/':'index.html','/app.js':'app.js','/view-model.js':'view-model.js','/style.css':'style.css','/content.json':'content.json'};
- const file=files[url.pathname]||(/^\/(chatgpt|codex|news|papers|saved|articles)(\/[^.]+)?\/?$/.test(url.pathname)?'index.html':null);if(!file||!existsSync(path.join(root,'public',file)))return reply(404,{error:'不存在'});
+ const file=files[url.pathname]||(/^\/(chatgpt|codex|news|papers|saved|articles|breakthroughs)(\/[^.]+)?\/?$/.test(url.pathname)?'index.html':null);if(!file||!existsSync(path.join(root,'public',file)))return reply(404,{error:'不存在'});
  res.writeHead(200,{'Cache-Control':'no-store','Content-Type':file.endsWith('.json')?'application/json; charset=utf-8':file.endsWith('.js')?'text/javascript; charset=utf-8':file.endsWith('.css')?'text/css; charset=utf-8':'text/html; charset=utf-8','X-Content-Type-Options':'nosniff','Content-Security-Policy':"default-src 'self'; style-src 'self'; script-src 'self'; frame-ancestors 'none'"});res.end(readFileSync(path.join(root,'public',file)));
  }catch(e){console.error(e.message);reply(500,{error:'服务暂时无法处理请求'});}
 }).listen(Number(process.env.PORT||8791),'127.0.0.1',()=>console.log('夜行 AI 服务 http://127.0.0.1:8791'));
+
 
 
