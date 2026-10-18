@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-18T15:26:07.828Z",
+  "syncedAt": "2026-10-18T15:27:36.587Z",
   "articles": [
     {
       "id": "fbfd5388d5181f79",
@@ -7762,7 +7762,7 @@
       "sourceRepository": "https://github.com/openai/math",
       "license": "Apache-2.0",
       "titleEn": "Virtual compact specialness of hyperbolic one-relator groups",
-      "titleZh": "双曲单关系群的虚拟紧特殊性与虚拟自由-by-循环性",
+      "titleZh": "双曲单关系群的虚拟紧特殊性",
       "details": {
         "overview": "稿件研究字双曲单关系群。作者声称证明了每个字双曲单关系群是虚拟紧特殊的。摘要表示，结合 Kielak–Linton 的工作，这解决了 Wise 关于双曲单关系群的虚拟自由-by-循环猜想：每个这样的群是虚拟自由-by-循环的，允许自由核具有无限秩。",
         "keyPoints": [
