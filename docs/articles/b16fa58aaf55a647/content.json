@@ -22,5 +22,7 @@
     "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
   },
   "subjectDetail": "图论与组合数学",
+  "breakthrough": true,
+  "breakthroughField": "AI 与数学",
   "interest": []
 }

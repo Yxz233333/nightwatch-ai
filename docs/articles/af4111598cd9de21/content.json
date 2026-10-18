@@ -7,8 +7,7 @@
   "url": "https://gemini.google/release-notes/",
   "date": "2026-10-13",
   "status": "",
-  "recommended": true,
-  "recommendedOn": "2026-10-18",
+  "recommended": false,
   "details": {
     "overview": "该新闻称，Google 在 10 月 13 日的发布说明中宣布新模型 Gemini 4 Argon，并开始向 Pro 与 Ultra 用户推送，定位面向复杂任务。现有材料仅包含发布时间、推送对象和任务定位，未提供模型能力细节、可用地区或具体功能说明，因此无法进一步评估其性能与影响。",
     "keyPoints": [

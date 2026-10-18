@@ -1,8 +1,8 @@
 {
   "schemaVersion": 3,
   "title": "夜行 · AI 阅读入口",
-  "syncedAt": "2026-10-18T15:27:36.587Z",
-  "contentUpdatedAt": "2026-10-18T23:23:53+08:00",
+  "syncedAt": "2026-10-18T15:36:07.874Z",
+  "contentUpdatedAt": "2026-10-18T23:36:00+08:00",
   "description": "完整资讯与论文库，interest字段准确标记用户喜欢和想深入了解的内容。仅公开内容与主动标记，不包含用户名、密码、会话或运行日志。",
   "articles": [
     {
@@ -256,8 +256,7 @@
       "url": "https://gemini.google/release-notes/",
       "date": "2026-10-13",
       "status": "",
-      "recommended": true,
-      "recommendedOn": "2026-10-18",
+      "recommended": false,
       "details": {
         "overview": "该新闻称，Google 在 10 月 13 日的发布说明中宣布新模型 Gemini 4 Argon，并开始向 Pro 与 Ultra 用户推送，定位面向复杂任务。现有材料仅包含发布时间、推送对象和任务定位，未提供模型能力细节、可用地区或具体功能说明，因此无法进一步评估其性能与影响。",
         "keyPoints": [
@@ -469,6 +468,8 @@
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       },
       "subjectDetail": "数论与算术几何",
+      "breakthrough": true,
+      "breakthroughField": "AI 与数学",
       "interest": []
     },
     {
@@ -1072,8 +1073,7 @@
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
       "date": "2026-10-06",
       "status": "官方来源；研究成果的审查状态请继续关注原始材料。",
-      "recommended": true,
-      "recommendedOn": "2026-10-18",
+      "recommended": false,
       "details": {
         "overview": "该条目为行业新闻，原题已是中文，故保留。现有材料仅说明：官方数学仓库公开了手稿、部分Lean证明及相关说明。材料未提供具体论文数量、涉及领域、Lean形式化覆盖范围或审查安排，因此无法进一步介绍公开内容的规模与验证程度。条目状态提示研究成果的审查状态需继续关注原始材料，读者不应将公开本身视为已获同行评议或独立验证。",
         "keyPoints": [
@@ -1083,6 +1083,8 @@
         ],
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       },
+      "breakthrough": true,
+      "breakthroughField": "AI 与数学",
       "interest": []
     },
     {
@@ -14558,6 +14560,8 @@
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       },
       "subjectDetail": "组合数学与图论",
+      "breakthrough": true,
+      "breakthroughField": "AI 与数学",
       "interest": []
     },
     {
@@ -15884,6 +15888,8 @@
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       },
       "subjectDetail": "图论与组合数学",
+      "breakthrough": true,
+      "breakthroughField": "AI 与数学",
       "interest": []
     },
     {
@@ -19108,8 +19114,7 @@
       "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "date": null,
       "status": "",
-      "recommended": true,
-      "recommendedOn": "2026-10-18",
+      "recommended": false,
       "details": {
         "overview": "该条为行业新闻，摘要仅称 Anthropic 发布生命科学研究进展，介绍通用 AI 辅助发现的实验。材料未提供具体酶系统、实验方法、结果数据或验证方式，无法进一步说明研究对象与结论。",
         "keyPoints": [
@@ -19166,6 +19171,52 @@
           "摘要未给出具体条款与适用范围"
         ],
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "6e75ae44e6bdf8c6",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Google Antigravity 辅助发现抗菌肽候选",
+      "date": "2026-10-15",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "summary": "AI 协助跨数据库筛选与结构分析，找到等待湿实验验证的抗菌肽候选。",
+      "status": "研究方法与候选发现进展；尚非完成验证的治疗方案。",
+      "recommended": false,
+      "breakthrough": true,
+      "breakthroughField": "AI 与生命科学",
+      "details": {
+        "overview": "Google DeepMind 的技术案例介绍，研究人员借助 Antigravity 编排数据库查询、蛋白质结构分析与文献梳理，识别新的抗菌肽候选。其价值在于把分散的研究工作集中在协作流程中；案例中的候选仍需湿实验验证，不能等同于已证实有效的药物。",
+        "keyPoints": [
+          "结合数据库、结构和基因组信息提出候选。",
+          "研究人员指导科学目标，代理执行跨工具分析。",
+          "候选进入湿实验验证阶段，实际效力尚待实验。"
+        ],
+        "editorialNote": "依据官方原始材料整理，研究结果的验证程度以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "717ed988a4e9d4ff",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "OpenAI 公布 Navier–Stokes 问题解答研究",
+      "date": "2026-09-08",
+      "url": "https://openai.com/index/navier-stokes-solution/",
+      "summary": "官方公布内部模型提出的流体方程证明与 Lean 形式化材料。",
+      "status": "官方研究报告；不将其描述为已获得千禧年大奖或已经完成全部独立审查。",
+      "recommended": false,
+      "breakthrough": true,
+      "breakthroughField": "AI 与数学",
+      "details": {
+        "overview": "OpenAI 发布关于 Navier–Stokes 存在性与光滑性问题的研究，表示内部模型构造了有限时间出现奇点的证明，并提供论文和 Lean 形式化材料。这是重大数学问题的研究报告，应结合原文及独立数学审查理解其范围。",
+        "keyPoints": [
+          "研究对象是流体方程解的光滑性。",
+          "官方提供书面证明与形式化验证材料。",
+          "区分模型提出的证明、形式化检查与数学界独立审查。"
+        ],
+        "editorialNote": "依据官方原始材料整理，研究结果的验证程度以原文为准。"
       },
       "interest": []
     }

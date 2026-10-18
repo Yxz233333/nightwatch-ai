@@ -7,8 +7,7 @@
   "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
   "date": null,
   "status": "",
-  "recommended": true,
-  "recommendedOn": "2026-10-18",
+  "recommended": false,
   "details": {
     "overview": "该条为行业新闻，摘要仅称 Anthropic 发布生命科学研究进展，介绍通用 AI 辅助发现的实验。材料未提供具体酶系统、实验方法、结果数据或验证方式，无法进一步说明研究对象与结论。",
     "keyPoints": [
