@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "title": "夜行 · AI 阅读入口",
-  "syncedAt": "2026-10-18T15:12:03.416Z",
+  "syncedAt": "2026-10-18T15:12:24.697Z",
   "contentUpdatedAt": "2026-10-18T23:01:33+08:00",
   "description": "完整资讯与论文库，interest字段准确标记用户喜欢和想深入了解的内容。仅公开内容与主动标记，不包含用户名、密码、会话或运行日志。",
   "articles": [
@@ -25,12 +25,7 @@
       "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
       "date": "2026-10-16",
       "status": "官方已宣布；账户、套餐、客户端和灰度范围以原文为准。",
-      "interest": [
-        {
-          "kind": "learn",
-          "markedAt": "2026-10-18T15:12:03.272Z"
-        }
-      ]
+      "interest": []
     },
     {
       "id": "0eb4b6a5c20c84a1",

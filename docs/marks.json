@@ -1,21 +1,4 @@
 {
-  "syncedAt": "2026-10-18T15:12:03.416Z",
-  "marks": [
-    {
-      "id": "ec2c4a3eaf0e49ce",
-      "section": "chatgpt",
-      "category": "功能更新",
-      "title": "ChatGPT 支持协作制作幻灯片",
-      "summary": "可以从对话、文件或提纲制作演示，并在 Space 中协作修改和导出。",
-      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-      "date": "2026-10-16",
-      "status": "官方已宣布；账户、套餐、客户端和灰度范围以原文为准。",
-      "interest": [
-        {
-          "kind": "learn",
-          "markedAt": "2026-10-18T15:12:03.272Z"
-        }
-      ]
-    }
-  ]
+  "syncedAt": "2026-10-18T15:12:24.697Z",
+  "marks": []
 }
