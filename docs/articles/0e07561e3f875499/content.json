@@ -1,0 +1,14 @@
+{
+  "id": "0e07561e3f875499",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Asymptotic midpoint uniform convexity and unbounded diamond distortion in a reflexive tree space",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Asymptotic-midpoint-uniform-convexity-and-unbounded-diamond-distortion-in-a-reflexive-tree-space-September-27-2026/manuscript.pdf",
+  "date": "2026-09-27",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct a separable reflexive real Banach space whose given norm is asymptotically midpoint uniformly convex but which admits no asymptotically uniformly convex equivalent norm. Its averaged midpoint modulus is at least $`\\sqrt{1+t^2/12}-1`$, and the countably branching diamond of depth k has distortion at least $`\\sqrt{1+k/12}`$ in this space. This gives a negative answer to the reflexive diamond converse for asymptotic uniform convexifiability.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

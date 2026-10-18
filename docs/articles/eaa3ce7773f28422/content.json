@@ -1,0 +1,14 @@
+{
+  "id": "eaa3ce7773f28422",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The p-adic section conjecture",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-p-adic-section-conjecture-October-6-2026/main.pdf",
+  "date": "2026-10-06",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the local p-adic section conjecture for smooth proper geometrically connected curves of genus at least two, over every finite extension of ℚp. Combined with established finite-descent theorems, this also yields the global section conjecture for smooth proper geometrically connected curves of genus at least two over number fields when their finite-cover descent locus equals their rational points; this includes $`X_0(N)`$ and $`X_1(N)`$ of genus at least two over ℚ.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

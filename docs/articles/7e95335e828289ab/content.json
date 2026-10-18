@@ -1,0 +1,14 @@
+{
+  "id": "7e95335e828289ab",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The sharp factor-of-IID threshold for the free Ising model on regular trees",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-sharp-factor-of-IID-threshold-for-the-free-Ising-model-on-regular-trees-September-26-2026/article.pdf",
+  "date": "2026-09-26",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every integer d ≥ 3 and inverse temperature β ≥ 0, the free zero-field ferromagnetic Ising measure on the infinite d-regular tree is a factor of IID exactly when $`\\tanh\\beta\\le(d-1)^{-1/2}`$. We prove the positive implication, including equality, resolving the conjecture of Nam, Sly and Zhang; the strict converse is known. The spin factor can be chosen to commute with every tree automorphism on every label input.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

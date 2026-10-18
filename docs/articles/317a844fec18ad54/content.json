@@ -1,0 +1,14 @@
+{
+  "id": "317a844fec18ad54",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A marked tensor obstruction to four-dimensional disk embedding",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-marked-tensor-obstruction-to-four-dimensional-disk-embedding-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We disprove the unrestricted four-dimensional disk-embedding conjecture. We construct immersed disks in a compact oriented smooth four-manifold with framed algebraic dual spheres satisfying the usual equivariant intersection and reduced self-intersection conditions, but with no pairwise disjoint locally flat replacements that preserve the boundary maps and induced normal framings. The obstruction holds even when the replacement disks' relative homotopy classes are not prescribed.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

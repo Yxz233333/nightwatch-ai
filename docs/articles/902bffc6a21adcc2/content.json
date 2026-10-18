@@ -1,0 +1,14 @@
+{
+  "id": "902bffc6a21adcc2",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Bi-Lipschitz Coordinates at Regular Points of Noncollapsed RCD Spaces",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Bi-Lipschitz-Coordinates-at-Regular-Points-of-Noncollapsed-RCD-Spaces-September-25-2026/paper.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We resolve the regular-point bi-Lipschitz conjecture in the noncollapsed setting. For every integer n ≥ 2 and every real K, every regular point of a noncollapsed $`\\mathrm{RCD}(K,n)`$ space has an open neighborhood bi-Lipschitz homeomorphic to an open subset of ℝn. The bi-Lipschitz constant depends only on n, and the neighborhood uses the restricted ambient distance.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

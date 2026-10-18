@@ -1,0 +1,14 @@
+{
+  "id": "2791ab9e20e87dbc",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Nearly minimal maxima and positive minima of Littlewood polynomials",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Nearly-minimal-maxima-and-positive-minima-of-Littlewood-polynomials-October-5-2026/littlewood-lower-envelope.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every η > 0 and every sufficiently large integer N, there is a polynomial with N consecutive coefficients in $`\\{-1,1\\}`$ whose modulus lies between $`\\sqrt N/16`$ and $`(1+\\eta)\\sqrt N`$ everywhere on the unit circle.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

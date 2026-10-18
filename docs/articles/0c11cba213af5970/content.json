@@ -1,0 +1,14 @@
+{
+  "id": "0c11cba213af5970",
+  "section": "papers",
+  "category": "概率论",
+  "title": "Self-dual random-cluster interfaces below one",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Self-dual-random-cluster-interfaces-below-one-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every fixed $`0\\lt q\\lt 1`$, we prove that the Dobrushin interface of the square-lattice random-cluster model at its self-dual parameter converges to chordal SLEκ, where $`\\kappa=4\\pi/\\arccos(-\\sqrt q/2)\\in(6,8)`$. The approximating domains are simple closed nearest-neighbor lattice polygons with distinct marked vertices, whose marked boundary parametrizations converge uniformly to those of a bounded smooth Jordan domain. Convergence holds along the full mesh sequence in the uniform metric on oriented curves modulo increasing reparametrization. The proof combines finite connection comparisons below one, localization in irregular tiled disks, and a boundary observable that determines the limiting Loewner driver.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fc989e234ed03881",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Entropy and Face Dimension of the Perfect-Matching Polytope",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/main.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the perfect-matching entropy conjecture of Anari, Oveis Gharan, and Vinzant. For every feasible vector x of perfect-matching edge marginals in a loopless labelled multigraph on $`2m\\ge2`$ vertices, the maximum entropy $`H(x)`$ of a matching law with marginals x satisfies\n\n$`\\displaystyle F(x)-(2-2/m)B(x)\\le H(x)\\le F(x),`$\n\nwhere $`F(x)=-\\sum_e x_e\\log x_e`$ and $`B(x)=-\\sum_e(1-x_e)\\log(1-x_e)`$. This bound holds throughout the polytope, including its boundary. We also prove the sharp bound $`|\\mathop{\\mathrm{supp}}\\nolimits x|-\\dim F_x\\le3m-2`$, where Fx is the minimal face of the perfect-matching polytope containing x.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

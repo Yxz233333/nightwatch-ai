@@ -1,0 +1,14 @@
+{
+  "id": "7aeea889fc1c4d28",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A Codimension-One Bound for the Singular Set of a Stationary Integral Varifold",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-Codimension-One-Bound-for-the-Singular-Set-of-a-Stationary-Integral-Varifold-October-5-2026/varifold-singular-dimension.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "The singular set of every stationary integral m-varifold in an open Euclidean set has Hausdorff dimension at most $`m-1`$, in every positive dimension and codimension. This sharp bound proves the Euclidean singular-set conjecture recorded by Brena, Decio, and De Lellis.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

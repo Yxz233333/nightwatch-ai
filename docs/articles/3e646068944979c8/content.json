@@ -1,0 +1,14 @@
+{
+  "id": "3e646068944979c8",
+  "section": "papers",
+  "category": "数论与算术几何",
+  "title": "The Kervaire invariant problem at the prime three",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-Kervaire-Invariant-Problem-at-the-Prime-Three-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We solve the Kervaire invariant problem at the prime three for the standard Kervaire classes in the mod-three Adams spectral sequence. These classes survive precisely at indices 0, 2, and 3, and each surviving detection coset contains an element of additive order three. In particular, there is an order-three Kervaire element in stem 322.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

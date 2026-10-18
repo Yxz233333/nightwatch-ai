@@ -1,0 +1,14 @@
+{
+  "id": "e812ce5472ef4b93",
+  "section": "papers",
+  "category": "代数几何",
+  "title": "Close Separable C*-Algebras Without Spatial Conjugacy",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Close-Separable-Cstar-Algebras-Without-Spatial-Conjugacy-October-5-2026/paper.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We disprove the separable C∗-algebraic spatial form of the Kadison–Kastler conjecture. For every ε > 0, we construct unital, norm-separable C∗-algebras on a common separable complex Hilbert space, with the same identity and Kadison–Kastler distance less than ε, that are not conjugate by any unitary. The two algebras have the same von Neumann closure.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

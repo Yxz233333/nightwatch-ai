@@ -1,0 +1,14 @@
+{
+  "id": "0dbde8f29a23c9c6",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Equality and rigidity in the spacetime Penrose inequality",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Equality-and-rigidity-in-the-spacetime-Penrose-inequality-September-27-2026/paper.pdf",
+  "date": "2026-09-27",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Equality in the spacetime Penrose inequality identifies the original initial data as a spacelike slice of a Schwarzschild–Tangherlini exterior, smoothly attached to its horizon, under the stated outermostness and decay hypotheses. We prove this in every spatial dimension n ≥ 3 for a strong-decay exterior class and for weaker decay in dimensions three and four. In dimension three the finite-component theorem forces a single spherical horizon and gives qualitative strictness for disconnected boundaries.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

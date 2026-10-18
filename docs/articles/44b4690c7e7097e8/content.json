@@ -1,0 +1,14 @@
+{
+  "id": "44b4690c7e7097e8",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Smooth anisotropic uniqueness in the Calderón problem from one boundary patch",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Smooth-Anisotropic-Uniqueness-in-the-Calderon-Problem-from-One-Boundary-Patch-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We resolve the smooth anisotropic Calderón uniqueness problem with arbitrary same-patch measurements. A smooth Riemannian metric on a compact connected manifold of dimension at least three is determined, up to a diffeomorphism fixing the measured patch, by its zero-frequency Dirichlet-to-Neumann energy form with both input and observation on any nonempty open boundary patch.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

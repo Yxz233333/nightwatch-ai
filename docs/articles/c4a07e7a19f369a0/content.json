@@ -1,0 +1,14 @@
+{
+  "id": "c4a07e7a19f369a0",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Log abundance for compact Kähler spaces under logarithmic Iitaka subadditivity",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Log-abundance-for-compact-Kahler-spaces-under-logarithmic-Iitaka-subadditivity-October-6-2026/main.pdf",
+  "date": "2026-10-06",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Assume logarithmic Iitaka subadditivity for surjective morphisms with connected fibers between smooth projective complex varieties with compatible reduced simple normal crossing boundaries. We prove log abundance for normal irreducible compact Kähler spaces in every dimension: for a log canonical pair $`(X,\\Delta)`$ with effective rational boundary and $`K_X+\\Delta`$ ℚ-Cartier, analytic nefness of $`K_X+\\Delta`$ implies semiampleness.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

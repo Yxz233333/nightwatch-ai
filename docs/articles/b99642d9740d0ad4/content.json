@@ -1,0 +1,14 @@
+{
+  "id": "b99642d9740d0ad4",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The geometric case of the Erdős similarity conjecture",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-geometric-case-of-the-Erdos-similarity-conjecture-October-5-2026/geometric-erdos-similarity.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the geometric-progression case of the Erdős similarity conjecture. For every fixed $`q\\in(0,1)`$ and every $`\\eta\\in(0,1)`$, we construct a compact set $`E_{q,\\eta}\\subseteq[0,1]`$ of measure greater than $`1-\\eta`$ containing no nontrivial affine copy of $`\\{q^n:n\\ge1\\}`$, for any translation and either sign of nonzero dilation. The set may depend on q; the result makes no simultaneous assertion for different ratios.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

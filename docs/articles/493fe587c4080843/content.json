@@ -1,0 +1,14 @@
+{
+  "id": "493fe587c4080843",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A surface counterexample to Shafarevich holomorphic convexity",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-surface-counterexample-to-Shafarevich-holomorphic-convexity-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct a smooth connected projective complex surface whose universal cover is not holomorphically convex. This disproves the Shafarevich conjecture on holomorphic convexity in complex dimension two.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

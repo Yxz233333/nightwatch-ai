@@ -1,0 +1,14 @@
+{
+  "id": "e0aec99487d3d38d",
+  "section": "papers",
+  "category": "数论与算术几何",
+  "title": "A directional zero–one law under strict ellipticity",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-directional-zero-one-law-under-strict-ellipticity-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the directional zero–one conjecture for nearest-neighbor random walks in independent and identically distributed strictly elliptic environments on ℤd, d ≥ 3: the probability of escape in each fixed nonzero real direction is zero or one. Only strict positivity of the transition probabilities is required; no uniform lower bound or moment assumption is imposed.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

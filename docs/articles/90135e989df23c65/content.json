@@ -1,0 +1,14 @@
+{
+  "id": "90135e989df23c65",
+  "section": "papers",
+  "category": "代数几何",
+  "title": "A Torsion-Free Group Algebra That Is Not Directly Finite",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-Torsion-Free-Group-Algebra-That-Is-Not-Directly-Finite-October-4-2026/direct-finiteness.pdf",
+  "date": "2026-10-04",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct a finitely presented torsion-free counterexample to Kaplansky's direct finiteness conjecture over the field of two elements. The group admits a finite two-dimensional classifying complex.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

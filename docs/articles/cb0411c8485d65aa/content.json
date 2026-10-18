@@ -1,0 +1,14 @@
+{
+  "id": "cb0411c8485d65aa",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Invariant-projection counterexamples for every irrational rotation",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Invariant-projection-counterexamples-for-every-irrational-rotation-September-27-2026/paper.pdf",
+  "date": "2026-09-27",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every irrational angle, we construct a continuous nonnegative circle weight with exactly one zero and logarithmic integral $`-\\infty`$ whose weighted rotation has no nontrivial invariant projection in the associated hyperfinite type II1 factor. This answers negatively the question of Zhu, Fang, and Shi, with the angle prescribed in advance. The resulting operator is nonzero and norm-quasinilpotent.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

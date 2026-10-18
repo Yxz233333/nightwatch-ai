@@ -1,0 +1,14 @@
+{
+  "id": "ce9d875c3c90c7b8",
+  "section": "papers",
+  "category": "组合数学与图论",
+  "title": "A rational obstruction to strong chromatic splitting at height three",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-rational-obstruction-to-strong-chromatic-splitting-at-height-three-September-25-2026/paper.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every prime p ≥ 5, the canonical map $`L_0L_{K(3)}S\\to L_0L_{K(2)}L_{K(3)}S`$ for the sphere spectrum S is nonzero on π−3. Consequently, the height-three strong chromatic splitting formula is false in this range, even as an equivalence of underlying $`E(2)`$-local spectra without specified summand maps.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

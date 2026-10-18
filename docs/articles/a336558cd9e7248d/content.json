@@ -1,0 +1,14 @@
+{
+  "id": "a336558cd9e7248d",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "An explicit obstruction to nuclear norm-ultrapower embeddings",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/An-explicit-obstruction-to-nuclear-norm-ultrapower-embeddings-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We give a negative answer to Kirchberg's norm-ultrapower embedding problem. We construct an explicit separable unital full group C∗-algebra that admits no unital embedding into Bω, for any nonzero unital nuclear C∗-algebra B and any free ultrafilter ω on ℕ. In particular, it does not embed unitally into $`\\mathcal O_2^\\omega`$.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

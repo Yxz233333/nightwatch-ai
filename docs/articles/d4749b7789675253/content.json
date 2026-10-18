@@ -1,0 +1,14 @@
+{
+  "id": "d4749b7789675253",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Constant-factor hardness of uniform sparsest cut",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Constant-factor-hardness-of-uniform-sparsest-cut-September-24-2026/Constant-factor-hardness-of-uniform-sparsest-cut-September-24-2026.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that, for every fixed C > 1, approximating Uniform Sparsest Cut within factor C is NP-hard. The output graphs have nonnegative rational capacities and unit demand between every pair of distinct vertices.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

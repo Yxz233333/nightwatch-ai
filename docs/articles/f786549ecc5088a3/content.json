@@ -1,0 +1,14 @@
+{
+  "id": "f786549ecc5088a3",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A two-dimensional area law from a global spectral gap",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-two-dimensional-area-law-from-a-global-spectral-gap-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove an entropy area law for the unique ground state of a finite-range Hamiltonian on any finite induced subgraph of the square lattice. A lower bound on the spectral gap of the full Hamiltonian and fixed bounds on the local dimension, interaction range, and interaction strength suffice. For every set of sites, its entanglement entropy is bounded by a constant times the number of edges crossing its boundary, independently of the size and shape of the domain.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

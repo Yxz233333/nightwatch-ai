@@ -1,0 +1,14 @@
+{
+  "id": "ede7a612f5008903",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The generalized Mukai conjecture",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-Generalized-Mukai-Conjecture-September-24-2026/article.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the generalized Mukai conjecture: every positive-dimensional smooth complex Fano manifold of dimension n, Picard number ρ, and pseudoindex ι satisfies $`\\rho(\\iota-1)\\le n`$. Equality holds precisely for the product of ρ copies of $`\\mathbb P^{\\iota-1}`$.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

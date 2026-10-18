@@ -1,0 +1,14 @@
+{
+  "id": "0dd44c7c319c5619",
+  "section": "papers",
+  "category": "理论计算机科学",
+  "title": "A Fixed Particle Test for Computation in a Forced Viscous Flow",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-Fixed-Particle-Test-for-Computation-in-a-Forced-Viscous-Flow-September-27-2026/manuscript.pdf",
+  "date": "2026-09-27",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct smooth external forces for incompressible Navier–Stokes flow on a fixed flat three-torus at any fixed positive computable viscosity, from zero initial velocity, such that a fixed particle enters a fixed open set exactly when a prescribed Turing machine halts. Every mixed derivative of the force and velocity is bounded and square-integrable in time in spatial supremum norm. The construction uses the machine's ordinary instructions, records their history in a third coordinate, and compensates for finer spatial gates by longer time steps.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

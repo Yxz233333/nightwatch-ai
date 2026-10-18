@@ -1,0 +1,14 @@
+{
+  "id": "2d540e72efb20d93",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Uniform Permanence in Weakly Reversible Mass-Action Systems",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Uniform-Permanence-in-Weakly-Reversible-Mass-Action-Systems-October-5-2026/permanence.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the permanence conjecture for finite weakly reversible mass-action systems with fixed positive reaction rates. Every positive stoichiometric compatibility class admits one compact convex forward-invariant set that every positive trajectory in that class enters in finite time, even when the class is unbounded. The set depends only on the network, the rates, and the class; the entry time may depend on the initial state. Thus, after its entry time, every concentration satisfies the same positive lower and finite upper bounds throughout that class.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

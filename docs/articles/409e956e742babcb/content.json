@@ -1,0 +1,14 @@
+{
+  "id": "409e956e742babcb",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Fourfold nonvanishing by minimal metrics and moving jets",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Fourfold-nonvanishing-by-minimal-metrics-and-moving-jets-September-27-2026/paper.pdf",
+  "date": "2026-09-27",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove canonical nonvanishing for smooth connected projective complex fourfolds: if KX is pseudo-effective, then $`H^0(X,mK_X)\\ne0`$ for some positive integer m.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "75a486a2db64a360",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Uniform excess charge for Coulomb molecules and the outer radius of neutral atoms",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Uniform-excess-charge-for-Coulomb-molecules-and-the-outer-radius-of-neutral-atoms-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that a molecule with M fixed nuclei of real charges at least one and total nuclear charge Z strictly binds at most $`Z+CM`$ electrons, where C is universal. The result holds for the full nonrelativistic Coulomb Hamiltonian with two spin states and arbitrary distinct nuclear positions. For neutral atoms with integer nuclear charge Z ≥ 1, the first ionization energy and, for every ground state, the radius outside which one half of an electron remains are each bounded above and below by positive universal constants.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

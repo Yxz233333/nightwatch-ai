@@ -1,0 +1,14 @@
+{
+  "id": "7bde8190a37b8bb4",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Bounded anticanonical metrics on klt pairs and torus quotients",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Bounded-anticanonical-metrics-on-klt-pairs-and-torus-quotients-September-26-2026/main.pdf",
+  "date": "2026-09-26",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Let $`(W,D)`$ be a projective ℚ-factorial klt pair with effective rational boundary. We prove that a positive Cartier multiple of $`-(K_W+D)`$ has a nonzero section if this divisor is nef, its pullback to a resolution admits a semipositive metric with locally bounded weights, and the resolution has nonzero structure-sheaf Euler characteristic. Consequently a smooth rationally connected projective variety with smoothly semipositive anticanonical bundle has a nonzero naturally invariant anticanonical plurisection for every algebraic torus action.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

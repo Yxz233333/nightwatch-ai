@@ -1,0 +1,14 @@
+{
+  "id": "f09e99a0b1c7a89f",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Cap-selected amplitudes and triangle chords for honeycomb walks",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Cap-selected-amplitudes-and-triangle-chords-for-honeycomb-walks-September-26-2026/main.pdf",
+  "date": "2026-09-26",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "At the critical honeycomb fugacity, self-avoiding port-to-port chords in an equilateral lattice triangle of side R, summed over both boundary endpoints and restricted to diameter at least $`R/100`$, have partition sum comparable to R3/4 and mean length $`R^{4/3+o(1)}`$. We also determine the amplitude selected by two vacuum caps on a cylinder of circumference N and prove that it grows as $`N^{1/6+o(1)}`$.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "7884affe86ff82c9",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Open Homomorphisms of Global Solvably Closed Galois Groups",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Open-Homomorphisms-of-Global-Solvably-Closed-Galois-Groups-October-5-2026/open-homomorphisms-solvably-closed-galois-groups.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove Uchida's conjecture on open homomorphisms of Galois groups. Every continuous open homomorphism between Galois groups of solvably closed Galois extensions of number fields is induced by a unique equivariant field embedding in the opposite direction. No restriction on the kernel or additional compatibility hypothesis is required.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

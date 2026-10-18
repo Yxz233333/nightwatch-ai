@@ -1,0 +1,14 @@
+{
+  "id": "12253d35cef87eeb",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A boundary-field gap for the spin-one Heisenberg chain",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-boundary-field-gap-for-the-spin-one-Heisenberg-chain-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove a uniform spectral gap for odd open spin-one antiferromagnetic Heisenberg chains with the same fixed magnetic field at both endpoints. The field $`h=3/5`$ gives a gap greater than $`\\log(10)/392`$ on every chain of $`2L+1`$ sites with L ≥ 960. Tasaki's index theorem then gives index −1 for every subsequential local limit of these boundary-selected ground states.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

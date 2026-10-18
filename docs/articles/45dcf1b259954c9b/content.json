@@ -1,0 +1,14 @@
+{
+  "id": "45dcf1b259954c9b",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The Reconstruction Threshold for the Ferromagnetic Four-State Potts Model",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-Reconstruction-Threshold-for-the-Ferromagnetic-Four-State-Potts-Model-October-5-2026/four-state-potts.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We establish the exact Kesten–Stigum reconstruction threshold for the ferromagnetic four-state Potts broadcast model on every regular d-ary tree with d ≥ 2 and every Poisson Galton–Watson tree of mean d > 0. Reconstruction occurs exactly when $`d\\lambda^2\\gt 1`$; we prove nonreconstruction at and below the threshold, including equality. In the Poisson model the whole tree is observed and the reconstruction advantage is averaged without conditioning on survival. The proof uses reproducible exact-arithmetic verification of polynomial inequalities.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

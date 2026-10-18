@@ -1,6 +1,7 @@
 {
+  "schemaVersion": 2,
   "title": "夜行 · AI 阅读入口",
-  "syncedAt": "2026-10-18T15:01:33.329Z",
+  "syncedAt": "2026-10-18T15:04:18.863Z",
   "contentUpdatedAt": "2026-10-18T23:01:33+08:00",
   "description": "完整资讯与论文库，interest字段准确标记用户喜欢和想深入了解的内容。仅公开内容与主动标记，不包含用户名、密码、会话或运行日志。",
   "articles": [

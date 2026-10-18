@@ -1,0 +1,14 @@
+{
+  "id": "af2764c120be96e2",
+  "section": "papers",
+  "category": "数论与算术几何",
+  "title": "The Poisson-Dirichlet law for prime predecessors",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-Poisson-Dirichlet-Law-for-Prime-Predecessors-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For a prime p chosen uniformly from $`3\\le p\\le x`$, list the prime factors of $`p-1`$ in decreasing order, with multiplicity. As $`x\\to\\infty`$, their logarithms, divided by $`\\log(p-1)`$, converge in every finite joint distribution to the Poisson–Dirichlet distribution with parameter one. This proves the conjecture of Ford, Konyagin and Luca.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

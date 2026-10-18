@@ -1,0 +1,14 @@
+{
+  "id": "05644fce6748e9d8",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A density-uniform condensate bound for dilute Bose gases",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-density-uniform-condensate-bound-for-dilute-Bose-gases-September-27-2026/paper.pdf",
+  "date": "2026-09-27",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For each fixed bounded measurable, nonnegative, radial interaction of finite range in three dimensions that is not zero almost everywhere, we prove a positive lower bound on the constant-orbital condensate fraction that is uniform over all sufficiently small densities and all temperatures between zero and the square of the density. The interaction and density remain fixed in the thermodynamic limit.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

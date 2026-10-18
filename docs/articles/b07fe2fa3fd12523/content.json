@@ -1,0 +1,14 @@
+{
+  "id": "b07fe2fa3fd12523",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Metric descent and rank-preserving contractions",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Metric-descent-and-rank-preserving-contractions-September-26-2026/main.pdf",
+  "date": "2026-09-26",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "From a smooth semipositive anticanonical metric on a smooth projective complex variety, we construct an unweighted integrable semipositive metric on a corrected anticanonical line of a smooth base, using a normal equidimensional toroidal model and full generic adjoint rank one at exponent zero. The explicit rational boundary correction pulls back to an exceptional divisor. On varieties without positive-degree holomorphic forms, two-metric transfer gives sections with prescribed boundary poles from a finite-volume log-anticanonical metric and a target line with bounded semipositive weights. In particular, a smooth projective complex variety with a smoothly semipositive anticanonical bundle and no such forms has a nonzero invariant section of a positive anticanonical multiple for every torus action with its natural linearization. On this class of varieties, generic section and adjoint-rank hypotheses give contractions of invariant fibrations that preserve both conditions unless an invariant global section already exists.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

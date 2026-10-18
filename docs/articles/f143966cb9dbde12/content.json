@@ -1,0 +1,14 @@
+{
+  "id": "f143966cb9dbde12",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Strong Ulam Stability Characterizes Amenability",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Strong-Ulam-Stability-Characterizes-Amenability-October-5-2026/strong-ulam-stability.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "A countable discrete group is amenable if and only if it is strongly Ulam stable: every sufficiently accurate unitary almost representation, on any complex Hilbert space, is uniformly close in operator norm to a genuine representation on the same space. We prove the converse to Kazhdan's amenable stability theorem, answering the question of Burger, Ozawa, and Thom. The inclusion of infinite-dimensional Hilbert spaces is essential.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

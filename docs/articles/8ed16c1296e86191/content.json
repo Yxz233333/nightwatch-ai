@@ -1,0 +1,14 @@
+{
+  "id": "8ed16c1296e86191",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Asymptotically minimal maxima of real Littlewood polynomials",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that the minimum possible maximum modulus on the unit circle of a polynomial with N consecutive real coefficients in $`\\{-1,1\\}`$ is $`(1+o(1))\\sqrt N`$, as N tends to infinity through all integers. This disproves the real-sign analogue of Erdős's fixed relative-gap conjecture. As a consequence, the largest binary merit factor at length N tends to infinity through all integer lengths, disproving Turyn's conjecture.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

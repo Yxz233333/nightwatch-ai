@@ -1,0 +1,14 @@
+{
+  "id": "6ef0f1c837ad6fe7",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A finite-entropy separation of microstates and nonmicrostates free entropy",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-finite-entropy-separation-of-microstates-and-nonmicrostates-free-entropy-September-25-2026/paper.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We answer the finite-entropy equality question for microstates and nonmicrostates free entropy negatively. We construct a bounded self-adjoint tuple X in a von Neumann algebra with faithful normal tracial state such that $`-\\infty\\lt \\chi(X)\\leq\\chi^*(X)-\\tfrac12\\lt \\infty`$. Here χ is the original microstates entropy with an operator-norm cutoff and a limsup over matrix sizes. The counterexample uses a large but fixed number of variables.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

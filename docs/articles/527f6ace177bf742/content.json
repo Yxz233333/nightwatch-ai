@@ -1,0 +1,14 @@
+{
+  "id": "527f6ace177bf742",
+  "section": "papers",
+  "category": "代数几何",
+  "title": "Algebraic Kuga–Satake correspondences and Hodge conjectures on a K3 quadratic locus",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Algebraic-Kuga-Satake-correspondences-and-Hodge-conjectures-on-a-K3-quadratic-locus-September-30-2026/paper.pdf",
+  "date": "2026-09-30",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the rational Hodge and generalized Hodge conjectures in every cohomological degree of every self-power of a projective complex K3 surface whose transcendental quadratic space, with its cup-product form, admits a rational isometric embedding in $`\\mathbb U_{\\mathbb Q}^{\\oplus2}\\perp\\langle-1\\rangle^4`$. This includes every ample P-polarized K3 surface, including all Picard jumps, for $`P=\\mathbb U\\oplus D_8(-1)\\oplus D_4(-1)`$. On this locus we construct algebraic correspondences inducing every prescribed standard even-Clifford Kuga–Satake tensor. More generally, for any projective complex K3 surface, algebraicity of one exact standard even-Clifford Kuga–Satake tensor implies both conjectures for every self-power.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

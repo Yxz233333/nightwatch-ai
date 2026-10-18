@@ -1,0 +1,14 @@
+{
+  "id": "0b10ddedd3535986",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The spherical magnetization law for the three-dimensional quantum Heisenberg ferromagnet",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026/spherical-magnetization.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the spherical magnetization law for the three-dimensional nearest-neighbor isotropic quantum Heisenberg ferromagnet at every fixed positive quantum spin and every sufficiently low fixed positive temperature. As the even periodic cubes grow, the symmetric zero-field magnetization converges in moments to a uniform direction with a deterministic positive magnitude. This magnitude equals the right derivative at zero field of the infinite-volume pressure. The law is expressed through self-adjoint linear combinations of the spin components and requires no joint measurement of noncommuting observables.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

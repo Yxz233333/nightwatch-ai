@@ -1,0 +1,14 @@
+{
+  "id": "16a265529e3d33a5",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Functional universality of critical SK autocorrelations",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Functional-universality-of-critical-SK-autocorrelations-October-5-2026/critical-sk-autocorrelations.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that the stationary spin autocorrelation of the zero-field Sherrington–Kirkpatrick model at inverse temperature β = 1 has a common functional scaling limit for Gaussian and Rademacher couplings. With rate-one heat-bath clocks at every site, time is scaled by n2/3 and the mean spin autocorrelation is multiplied by n1/3. The functions converge in law uniformly on compact positive-time intervals. Their limiting law is not a point mass: it retains sample-to-sample randomness, and its functions decay to zero at large times.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

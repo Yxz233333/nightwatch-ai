@@ -1,0 +1,14 @@
+{
+  "id": "ee52c90635d12190",
+  "section": "papers",
+  "category": "代数几何",
+  "title": "Expected amenable subalgebras preserving core commutants",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Expected-amenable-subalgebras-preserving-core-commutants-September-23-2026/Expected-amenable-subalgebras-preserving-core-commutants-September-23-2026.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that every inclusion $`N\\subset M`$ of von Neumann algebras with separable preduals and a faithful normal conditional expectation contains an expected amenable subalgebra $`P\\subset N`$ such that $`P'\\cap c(M)=N'\\cap c(M)`$, where $`c(M)`$ denotes the continuous core of M. This resolves the relative bicentralizer conjecture in this setting.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

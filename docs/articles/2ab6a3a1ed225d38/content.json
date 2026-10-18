@@ -1,0 +1,14 @@
+{
+  "id": "2ab6a3a1ed225d38",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Ultraflat real Littlewood polynomials",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Ultraflat-real-Littlewood-polynomials-October-5-2026/ultraflat-real-littlewood-polynomials.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every $`\\varepsilon\\in(0,1)`$ and every sufficiently large integer N, there is a polynomial of length N with coefficients in $`\\{-1,1\\}`$ whose modulus lies between $`(1-\\varepsilon)\\sqrt N`$ and $`(1+\\varepsilon)\\sqrt N`$ everywhere on the unit circle. Thus real Littlewood polynomials can be ultraflat through every sufficiently large integer length. The signs may be chosen separately at each length.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

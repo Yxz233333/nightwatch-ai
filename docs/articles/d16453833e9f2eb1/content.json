@@ -1,0 +1,14 @@
+{
+  "id": "d16453833e9f2eb1",
+  "section": "papers",
+  "category": "概率论",
+  "title": "Random Walks on Critical FK–Ising Maps and Liouville Brownian Motion",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Random-Walks-on-Critical-FK-Ising-Maps-and-Liouville-Brownian-Motion-October-5-2026/fk-ising-walk-limit.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that stationary random walks on critical spherical FK–Ising planar maps converge to Liouville Brownian motion on the ordinary unit-area $`\\sqrt3`$-quantum sphere, using the geometric and electrical results of the spectral companion. The walk chooses uniformly among all incident half-edges, retaining loops and multiple edges. With the corner measure as the stationary law, the deterministic time acceleration is exactly the number of map edges. For any deterministic metric scale giving the metric-measure limit, convergence retains that same surface and any fixed finite number of conditionally independent walks with their time parameters.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

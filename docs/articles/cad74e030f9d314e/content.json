@@ -1,0 +1,14 @@
+{
+  "id": "cad74e030f9d314e",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Quantitative Near-Kerr Evolution and Generic C2 Future Inextendibility",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Quantitative-Near-Kerr-Evolution-and-Generic-C2-Future-Inextendibility-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every fixed rotating subextremal Kerr bridge, we prove that smooth vacuum data admitting a C2 future extension of their full maximal globally hyperbolic development form a meagre set in a neighborhood defined by one finite-order seminorm. The topology allows arbitrary symbol-bounded asymptotically flat tails and imposes no symmetry.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

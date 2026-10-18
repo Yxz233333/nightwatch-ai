@@ -1,0 +1,14 @@
+{
+  "id": "e4136a83c41226ad",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A sharp entropy bound and the simplex inequality for isotropic constants",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-sharp-entropy-bound-and-the-simplex-inequality-for-isotropic-constants-October-5-2026/isotropic-simplex.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the strong isotropic constant conjecture: in each dimension, simplices are the unique maximizers of the isotropic constant among convex bodies. We also prove the sharp entropy bound $`h(f)\\ge m+\\tfrac12\\log\\det\\mathop{\\mathrm{Cov}}\\nolimits (f)`$ for every log-concave probability density on ℝm, with equality precisely for invertible affine images of products of one-sided exponential laws.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

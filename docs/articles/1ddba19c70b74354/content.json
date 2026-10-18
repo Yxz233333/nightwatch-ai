@@ -1,0 +1,14 @@
+{
+  "id": "1ddba19c70b74354",
+  "section": "papers",
+  "category": "数论与算术几何",
+  "title": "The Margulis–Platonov conjecture over number fields",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-Margulis-Platonov-conjecture-over-number-fields-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the Margulis–Platonov conjecture over number fields. For an absolutely almost simple simply connected group, every noncentral abstract normal subgroup of its rational points is the inverse image of an open normal subgroup of the product of its anisotropic nonarchimedean local groups.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

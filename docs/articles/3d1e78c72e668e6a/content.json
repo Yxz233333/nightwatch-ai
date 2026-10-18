@@ -1,0 +1,14 @@
+{
+  "id": "3d1e78c72e668e6a",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Nonsingular systems of equations over arbitrary groups",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/nonsingular-systems-over-arbitrary-groups.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Every finite nonsingular system of equations over an arbitrary group has a simultaneous solution in an overgroup. This proves Howie's conjecture on nonsingular systems.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

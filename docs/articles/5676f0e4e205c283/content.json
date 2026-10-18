@@ -1,0 +1,14 @@
+{
+  "id": "5676f0e4e205c283",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Uniform quasipolynomial-time trace reconstruction",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Uniform-quasipolynomial-time-trace-reconstruction-October-5-2026/uniform-trace-reconstruction.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We give a uniform algorithm that reconstructs every binary string from independent deletion traces when its length and rational retention probability are known. For each fixed retention probability, both the number of traces and the bit complexity are quasipolynomial in the string length. More generally, we give an explicit sample bound uniform over all rational retention probabilities, with running time polynomial in the sample budget and the binary input length. If the deletion probability is at most $`n^{-\\varepsilon}`$ for fixed ε > 0, the sample and running-time bounds are polynomial. Reconstruction succeeds with probability at least 2/3 for each input string.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

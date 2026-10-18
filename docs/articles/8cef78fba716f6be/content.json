@@ -1,0 +1,11 @@
+{
+  "id": "8cef78fba716f6be",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.163.0：通过 /daemon 重启后台服务",
+  "summary": "重启前提示可能受影响的工作，完成后自动重新连接。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0",
+  "date": "2026-10-15",
+  "status": "这是 CLI 发布说明；桌面版是否包含同项能力需单独核对。",
+  "interest": []
+}

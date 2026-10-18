@@ -1,0 +1,14 @@
+{
+  "id": "b73524d1805f6d04",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Electromagnetic tails and the Kerr–Newman Penrose inequality",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Electromagnetic-tails-and-the-Kerr-Newman-Penrose-inequality-October-5-2026/paper.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct smooth axisymmetric electrovacuum exteriors that violate the Kerr–Newman Penrose inequality when J is the bare gravitational ADM angular momentum and the electromagnetic fields have only $`O(r^{-2})`$ decay, allowing angularly varying leading tails. The examples have zero total electric and magnetic charge even though both electromagnetic fields are nonzero. They have a connected outermost, outer-area-minimizing future marginally outer trapped boundary and lie strictly on the physical area branch. We also obtain equality examples whose original data admit no Kerr–Newman spacelike realization with the corresponding mass, angular momentum, and charges. These counterexamples do not refute formulations using conserved total angular momentum with its electromagnetic correction or stronger Coulomb asymptotics.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

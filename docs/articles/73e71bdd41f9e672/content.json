@@ -1,0 +1,14 @@
+{
+  "id": "73e71bdd41f9e672",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Critical mixing in the Sherrington–Kirkpatrick model",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Critical-mixing-in-the-Sherrington-Kirkpatrick-model-September-25-2026/paper.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "At the critical inverse temperature β = 1, we determine the worst-start total-variation mixing exponent for single-site heat-bath dynamics in the zero-field Gaussian Sherrington–Kirkpatrick model. The mixing time is $`n^{2/3+o(1)}`$ when every site has rate one, or $`n^{5/3+o(1)}`$ attempted uniform-site updates, in probability over the disorder.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

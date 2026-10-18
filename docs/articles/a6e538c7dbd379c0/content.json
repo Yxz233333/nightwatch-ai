@@ -1,0 +1,14 @@
+{
+  "id": "a6e538c7dbd379c0",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Global Arthur Enhancements of Cuspidal Excursion Parameters",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Global-Arthur-Enhancements-of-Cuspidal-Excursion-Parameters-October-5-2026/manuscript.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Under the finite-level Ramanujan–Arthur decomposition stated in Theorem 1.1, we construct a global Arthur enhancement for every occurring cuspidal excursion parameter at a specified full finite level for a split connected semisimple group over a global function field. A single algebraic SL2 and a commuting Weil centralizer map recover the given parameter by diagonal specialization on the entire Weil group, including inertia. The result does not assert ellipticity, Arthur-packet classification, or a multiplicity formula.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

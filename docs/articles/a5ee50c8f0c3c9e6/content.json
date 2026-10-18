@@ -1,0 +1,14 @@
+{
+  "id": "a5ee50c8f0c3c9e6",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A counterexample to Ryser's covering conjecture",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-Counterexample-to-Rysers-Covering-Conjecture-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every sufficiently large prime $`s\\equiv2\\pmod3`$ and every sufficiently large odd integer n, with the threshold depending on s, we construct an intersecting $`(s^n+1)`$-partite $`(s^n+1)`$-uniform hypergraph with covering number $`s^n+1`$. This disproves Ryser's covering conjecture in its intersecting case.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

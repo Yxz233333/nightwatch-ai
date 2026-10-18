@@ -1,0 +1,14 @@
+{
+  "id": "b62cafd32f54bb3f",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The critical correlation exponent of the planar XY model",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-critical-correlation-exponent-of-the-planar-XY-model-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For the ordinary nearest-neighbor XY model on the square lattice, we prove the Berezinskii–Kosterlitz–Thouless prediction that the critical spin-correlation exponent is 1/4. More precisely, at the mass-defined critical inverse temperature, the infinite-volume correlation is $`n^{-1/4+o(1)}`$. The infinite-volume limit through free square boxes is taken before the separation limit.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

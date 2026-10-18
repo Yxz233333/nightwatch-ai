@@ -1,0 +1,14 @@
+{
+  "id": "f69542b5fdca4fef",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "An integral scalar curvature bound for real simplicial volume",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/An-integral-scalar-curvature-bound-for-real-simplicial-volume-October-5-2026/v126-proof.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the integral scalar-curvature inequality proposed by Gromov. For every dimension n ≥ 3, there is a constant $`a_n\\gt 0`$, depending only on n, such that\n\n$`\\displaystyle \\int_M(\\mathop{\\mathrm{Scal}}\\nolimits _g^-)^{n/2}\\,dV_g\\ge a_n\\|M\\|`$\n\nfor every closed connected oriented smooth n-manifold M and every smooth Riemannian metric g. Here $`\\mathop{\\mathrm{Scal}}\\nolimits _g^-:=\\max\\{0,-\\mathop{\\mathrm{Scal}}\\nolimits _g\\}`$, and $`\\|M\\|`$ is real simplicial volume. The proof uses the nonnegative-scalar-curvature vanishing theorem of the companion paper on rational inessentiality.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

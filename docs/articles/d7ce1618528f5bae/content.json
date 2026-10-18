@@ -1,0 +1,14 @@
+{
+  "id": "d7ce1618528f5bae",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Bounded klt complements for Fano contractions",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Bounded-klt-complements-for-Fano-contractions-September-25-2026/Bounded-klt-complements-for-Fano-contractions-September-25-2026.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For fixed dimension d and positive rational ϵ, we prove that every ϵ-log-canonical Fano contraction over an algebraically closed field of characteristic zero admits, near each closed base point, a klt complement of index bounded only by d and ϵ. Over ℂ, we also obtain monotone klt complements for Fano type pairs with nef anti-log-canonical divisor and coefficients in a fixed finite rational set. This proves the finite-rational-coefficient form of Shokurov's bounded-klt-complement conjecture.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

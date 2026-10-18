@@ -1,0 +1,14 @@
+{
+  "id": "d0a19cf5f55eaa33",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A power saving for planar halving lines",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-power-saving-for-planar-halving-lines-September-25-2026/main.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "There are absolute constants ε > 0 and C such that every sufficiently large even n-point set in the plane with no three collinear has at most $`Cn^{4/3-\\varepsilon}`$ unordered halving pairs. This gives a power saving over the classical $`O(n^{4/3})`$ bound for planar halving lines. The proof is nonquantitative and does not supply explicit constants.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

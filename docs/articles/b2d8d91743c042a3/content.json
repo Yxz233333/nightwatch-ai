@@ -1,0 +1,14 @@
+{
+  "id": "b2d8d91743c042a3",
+  "section": "papers",
+  "category": "数论与算术几何",
+  "title": "Sharpness of the Cyclic Integral Floer Bound Below the Stable Morse Number",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Sharpness-of-the-Cyclic-Integral-Floer-Bound-Below-the-Stable-Morse-Number-October-5-2026/sharp-cyclic-integral-floer-bound-below-stable-morse-number.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct a simply connected closed Kähler manifold of real dimension 3332 and minimal Chern number one whose Hamiltonian fixed-point count attains the cyclic integral Floer bound while falling below the stable Morse number. The Hamiltonian diffeomorphism has exactly $`1\\,872\\,232`$ fixed points, all nondegenerate and with contractible orbit loops, whereas the stable Morse number is $`1\\,872\\,264`$. Thus the stronger stable Morse bound fails by exactly 32, even when the cyclic integral bound is sharp.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

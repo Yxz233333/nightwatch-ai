@@ -1,0 +1,14 @@
+{
+  "id": "8e57520b23bdc651",
+  "section": "papers",
+  "category": "数论与算术几何",
+  "title": "The additive indecomposability of the primes",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/the-additive-indecomposability-of-the-primes-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove Ostmann's inverse Goldbach conjecture: no set differing from the primes by finitely many elements can be written as $`A+B`$, where A and B are sets of nonnegative integers with at least two elements each.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

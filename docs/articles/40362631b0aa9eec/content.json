@@ -1,0 +1,14 @@
+{
+  "id": "40362631b0aa9eec",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Mean-payoff parity games in quasipolynomial time",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Mean-payoff-parity-games-in-quasipolynomial-time-October-5-2026/mean-payoff-parity.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We give a uniform deterministic quasipolynomial-time algorithm for mean-payoff parity games. It computes all vertices from which a player can enforce both nonnegative liminf mean payoff and the parity condition, with arbitrary signed binary rewards and unrestricted binary priorities. The running time is $`2^{O((\\log(L+2))^2)}`$ bit operations, where L is the complete input length.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

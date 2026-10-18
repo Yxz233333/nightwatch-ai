@@ -1,0 +1,14 @@
+{
+  "id": "fff930bf7ddf4d22",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The Quasi-Riemann Hypothesis: A Zero-Free Half-Plane $`\\Re s\\gt 7/8`$ ",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-Quasi-Riemann-Hypothesis-September-30-2026/paper.pdf",
+  "date": "2026-09-30",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that all finite-order Hecke L-functions over $`\\mathbb Q(\\sqrt{-3})`$ and all Dirichlet L-functions are zero-free in the half-plane $`\\Re s\\gt 7/8`$, with the principal pole at s = 1 allowed. In particular, the Riemann zeta function is zero-free in this half-plane, proving the quasi-Riemann hypothesis.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

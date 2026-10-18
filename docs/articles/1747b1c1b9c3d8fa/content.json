@@ -1,0 +1,14 @@
+{
+  "id": "1747b1c1b9c3d8fa",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Uniform Pluricanonical Iitaka Fibrations",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Uniform-Pluricanonical-Iitaka-Fibrations-October-3-2026/paper.pdf",
+  "date": "2026-10-03",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the effective Iitaka fibration conjecture in characteristic zero. For each dimension, one pluricanonical degree defines the Iitaka fibration of every smooth integral projective variety of that dimension and nonnegative Kodaira dimension over an algebraically closed field. The associated sections generate the full Iitaka function field.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

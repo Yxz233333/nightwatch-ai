@@ -1,0 +1,14 @@
+{
+  "id": "da8a43c1893ad3d8",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Strong diffeomorphic approximation in three dimensions for p>2",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Strong-diffeomorphic-approximation-in-three-dimensions-for-p-gt-2-September-24-2026/main.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We resolve the three-dimensional Ball–Evans approximation problem for every finite p > 2. Every $`W^{1,p}`$ homeomorphism between arbitrary bounded domains in ℝ3 can be approximated strongly in $`W^{1,p}`$ by smooth diffeomorphisms onto the same target.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

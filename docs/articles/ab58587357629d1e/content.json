@@ -1,0 +1,14 @@
+{
+  "id": "ab58587357629d1e",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Interior regularity of planar Mumford–Shah minimizers",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026/Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the interior regularity assertion of the planar Mumford–Shah conjecture for reduced absolute minimizers with bounded fidelity data. Every interior point of the closed discontinuity set has a neighborhood consisting of a $`C^{1,\\alpha}`$ arc, an arc ending at that point, or three such arcs meeting at 120 degrees. Only finitely many global connected components meet any relatively compact open set.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

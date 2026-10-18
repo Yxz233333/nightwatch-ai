@@ -1,0 +1,11 @@
+{
+  "id": "6e76e974bed8a44b",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.163.0：独立只读工具并行执行",
+  "summary": "查询技能、记忆和会话历史等独立只读调用可以并行。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0",
+  "date": "2026-10-15",
+  "status": "这是 CLI 发布说明；桌面版是否包含同项能力需单独核对。",
+  "interest": []
+}

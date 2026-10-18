@@ -1,0 +1,14 @@
+{
+  "id": "b907ea8336671189",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Generalized ionization energies for full Coulomb atoms",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Generalized-ionization-energies-for-full-Coulomb-atoms-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the energy part of the generalized ionization conjecture for full nonrelativistic Coulomb atoms with two electron spin states. The energy needed to remove m electrons is asymptotic to $`a_{\\mathrm{TF}}m^{7/3}`$ whenever $`m\\to\\infty`$ and $`Z/m\\to\\infty`$, with the Thomas–Fermi constant in atomic units. We also obtain both conjectured iterated limits.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

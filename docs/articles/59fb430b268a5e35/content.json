@@ -1,0 +1,14 @@
+{
+  "id": "59fb430b268a5e35",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The Margulis–Platonov conjecture over global function fields",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-Margulis-Platonov-conjecture-over-global-function-fields-October-5-2026/margulis-platonov-global-function-fields.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the Margulis–Platonov conjecture over every global function field, including characteristic two. For an absolutely almost simple simply connected algebraic group, every noncentral abstract normal subgroup of its rational points is the inverse image of an open normal subgroup of the finite product of its anisotropic local groups.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

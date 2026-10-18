@@ -1,0 +1,14 @@
+{
+  "id": "5bffdc1c9d3e6080",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The second Kahn–Kalai conjecture",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-second-Kahn-Kalai-conjecture-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the second Kahn–Kalai conjecture. For every finite simple graph H with h ≥ 1 edges and at most n vertices, the threshold for $`G(n,p)`$ to contain an ordinary copy of H is at most $`C p_{\\mathrm E}(n,H)(1+\\log_2 h)`$, where C is universal. Here $`p_{\\mathrm E}(n,H)`$ is the least density at which every subgraph of H has expected copy count at least one half.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

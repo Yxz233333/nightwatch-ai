@@ -1,0 +1,14 @@
+{
+  "id": "321ed0aed22d88e3",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Failure of rational injectivity for maximal coarse assembly",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Failure-of-rational-injectivity-for-maximal-coarse-assembly-October-5-2026/paper.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct a uniformly discrete bounded-geometry space whose maximal coarse assembly map has an infinite-order element in its kernel. The space is a coarse disjoint union of finite connected graphs of uniformly bounded degree, so maximal coarse assembly need not be rationally injective even for such graph unions.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

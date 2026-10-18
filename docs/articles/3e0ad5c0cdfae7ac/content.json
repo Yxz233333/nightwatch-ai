@@ -1,0 +1,14 @@
+{
+  "id": "3e0ad5c0cdfae7ac",
+  "section": "papers",
+  "category": "数论与算术几何",
+  "title": "Elliptic capacity propagation and Fourier restriction to the sphere",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Elliptic-capacity-propagation-and-Fourier-restriction-to-the-sphere-September-24-2026/Elliptic-capacity-propagation-and-Fourier-restriction-to-the-sphere-September-24-2026.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the bounded-data Fourier restriction conjecture for the sphere in three dimensions: the Fourier extension operator maps $`L^\\infty(S^2)`$ boundedly into $`L^p(\\mathbb R^3)`$ for every p > 3. This is the full conjectured open range, and the threshold p = 3 is sharp.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "3839fa91b2e9520b",
+  "section": "papers",
+  "category": "偏微分方程",
+  "title": "Scalar Potentials and Slow Clocks for Forced Fluid Computation",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Scalar-Potentials-and-Slow-Clocks-for-Forced-Fluid-Computation-September-27-2026/manuscript.pdf",
+  "date": "2026-09-27",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct smooth forces of fixed compact spatial support for three-dimensional incompressible Navier–Stokes flow from rest whose particle at the origin detects halting by entering a fixed half-space. Every mixed derivative of the force and velocity decays at rate $`O((1+t)^{-1-j})`$ for time order j. Three scalar potentials lift a coded rectangle, perform its instruction, and lower its image; an unbounded logarithmic clock supplies the decay. We also realize area-changing prefix instructions on an invariant torus plane, and construct a planar Hamiltonian processor admitting periodic forcing, stationary forcing after startup, and a velocity-field detector through a companion diffusion theorem.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

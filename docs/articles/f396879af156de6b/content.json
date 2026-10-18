@@ -1,0 +1,14 @@
+{
+  "id": "f396879af156de6b",
+  "section": "papers",
+  "category": "数论与算术几何",
+  "title": "A Power Saving for Polynomial Differences at Prime Arguments",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-Power-Saving-for-Polynomial-Differences-at-Prime-Arguments-October-5-2026/prime-argument-polynomial-differences.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Let h be a fixed integer polynomial of degree at least two with positive leading coefficient, having a unit root modulo every positive integer. We prove that any set $`A\\subseteq\\{1,\\ldots,N\\}`$ whose differences avoid all nonzero values $`h(p)`$ at primes satisfies $`|A|\\le C_hN^{1-c_h}`$, where $`c_h\\gt 0`$ and $`C_h\\ge1`$ depend only on h. Thus the local unit-root condition gives a fixed power saving even when polynomial arguments are restricted to primes. The proof uses the companion zero-free half-plane theorem for Dirichlet L-functions to obtain the required prime-distribution estimates.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "935d551f044eecfc",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Exponential decay in two-dimensional classical O(n) models",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Exponential-decay-in-two-dimensional-classical-On-models-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove exponential decay of two-point correlations for the classical nearest-neighbor $`O(n)`$ model on the square lattice, for every n ≥ 3 and every finite positive inverse temperature. The estimate is uniform over finite free-boundary subgraphs and bounded nonnegative edge strengths. This resolves positively the all-temperature exponential spin-decay conjecture for these models.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

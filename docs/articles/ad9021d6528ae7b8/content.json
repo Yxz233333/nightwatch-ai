@@ -1,0 +1,14 @@
+{
+  "id": "ad9021d6528ae7b8",
+  "section": "papers",
+  "category": "几何与拓扑",
+  "title": "Contact Fano manifolds and the LeBrun–Salamon conjecture",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Contact-Fano-manifolds-and-the-LeBrun-Salamon-conjecture-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We resolve the contact-Fano homogeneity conjecture and the Riemannian LeBrun–Salamon conjecture positively. Every smooth connected complex projective contact Fano manifold of complex dimension at least three, with its given contact distribution, is contact-isomorphic to the adjoint variety of a simple complex Lie algebra. Consequently, every closed connected smooth positive quaternionic-Kähler manifold of real dimension $`4m\\geq8`$ is homothetic to a compact symmetric Wolf space.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "39bbcf904bce37b9",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Symplectic Balls in Symmetric Polar Products",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Symplectic-Balls-in-Symmetric-Polar-Products-September-22-2026/paper.pdf",
+  "date": "2026-09-22",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every integer n ≥ 2 and every origin-symmetric convex body $`K\\subset\\mathbb R^n`$, we prove that the Gromov width of $`\\mathop{\\mathrm{int}}\\nolimits K\\times\\mathop{\\mathrm{int}}\\nolimits K^\\circ`$ is 4. We construct smooth symplectic embeddings of standard balls of every capacity $`0\\lt c\\lt 4`$ into this polar product. Volume preservation then resolves the symmetric Mahler conjecture positively in every dimension.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

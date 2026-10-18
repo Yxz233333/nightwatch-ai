@@ -1,0 +1,14 @@
+{
+  "id": "0ae0c2ed4d289e09",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A group without fixed price",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-group-without-fixed-price-October-5-2026/unequal-costs-rank-100-amalgam.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct a finitely generated group with two essentially free probability-measure-preserving actions of different costs. This gives a negative answer to Gaboriau's general fixed-price problem. The group is an amalgam of a free group of rank 100 with a direct product. Its Bernoulli action has cost bounded away from one, whereas finite height extensions have costs tending to one.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

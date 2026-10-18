@@ -1,0 +1,14 @@
+{
+  "id": "573e68ffcf7cefbc",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Ample rank-two bundles on the quadric surface without Griffiths-positive metrics",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/ample-rank-two-bundles-on-the-quadric-surface-without-griffiths-positive-metrics-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We give counterexamples to Griffiths' conjecture in rank two on the quadric surface $`\\mathbb P^1\\times\\mathbb P^1`$. We construct an explicit bundle G whose coordinatewise power pullbacks, tensored with $`\\mathcal O(1,1)`$, are ample for every positive power, but admit no smooth strictly Griffiths-positive Hermitian metric for all sufficiently large powers.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

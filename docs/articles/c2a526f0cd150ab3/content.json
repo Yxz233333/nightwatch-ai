@@ -1,0 +1,14 @@
+{
+  "id": "c2a526f0cd150ab3",
+  "section": "papers",
+  "category": "数论与算术几何",
+  "title": "Deterministic Polynomial Factorization over Prime Fields",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Deterministic-Polynomial-Factorization-over-Prime-Fields-October-4-2026/Deterministic-Polynomial-Factorization-over-Prime-Fields.pdf",
+  "date": "2026-10-04",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We give a uniform deterministic polynomial-time algorithm for complete factorization over prime fields. For a prime p in binary and a nonzero polynomial $`f\\in\\mathbf F_p[x]`$ given by its dense coefficient list, the algorithm computes the irreducible factors and their multiplicities using a number of bit operations polynomial in $`(\\deg f+1)\\log p`$. The proof uses the uniform Hecke zero-free theorem from the companion paper *Primitive roots for every admissible integer base*.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

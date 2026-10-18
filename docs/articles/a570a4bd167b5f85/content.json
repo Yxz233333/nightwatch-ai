@@ -1,0 +1,14 @@
+{
+  "id": "a570a4bd167b5f85",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Tracial projection methods and uniform property Gamma",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Tracial-projection-methods-and-uniform-property-Gamma-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For a simple, separable, unital, infinite-dimensional, nuclear, stably finite C∗-algebra with traces, real rank zero of the uniform tracial ultrapower of its uniform tracial completion implies uniform property Γ. This answers Problem XXI of Schafhauser, Tikuisis and White affirmatively. Independently, strict comparison implies Jiang–Su absorption for simple, separable, unital, infinite-dimensional nuclear algebras, resolving the unital Toms–Winter conjecture. Under comparison tested on traces of finite target rank, we also obtain uniform property Γ and absorption for simple, separable, nuclear, stably projectionless algebras whose densely finite traces are all bounded and have a nonempty compact normalized base.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

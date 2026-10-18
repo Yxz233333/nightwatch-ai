@@ -1,0 +1,14 @@
+{
+  "id": "1ed84d01b7b63d74",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Maximal Multipoint Seshadri Constants in Higher Dimensions",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Maximal-Multipoint-Seshadri-Constants-in-Higher-Dimensions-October-5-2026/main.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Let L be an ample line bundle on a smooth integral complex projective variety X of dimension n ≥ 3. We prove that there is a threshold $`r_0=r_0(X,L)`$ such that for every integer $`r\\ge r_0`$, the ordinary multipoint Seshadri constant at r very general points equals the volume bound $`(L^n/r)^{1/n}`$. This establishes the qualitative Nagata–Biran–Szemberg assertion in these dimensions.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

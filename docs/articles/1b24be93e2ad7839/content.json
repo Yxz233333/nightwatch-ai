@@ -1,0 +1,14 @@
+{
+  "id": "1b24be93e2ad7839",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Logarithmic Relative Fluctuations in the Weakly Disordered Planar Ising Model",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Logarithmic-Relative-Fluctuations-in-the-Weakly-Disordered-Planar-Ising-Model-October-5-2026/critical-relative-second-moment-weak-random-bond-ising.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Assuming the stated deterministic critical-reference estimates, we prove that the relative second moment of the quenched critical spin correlation in the square-lattice Ising model with independent fair bonds $`1\\pm\\varepsilon`$ grows as $`(\\log r)^{1/4+o(1)}`$ for each sufficiently small fixed ε > 0. The correlation is evaluated at the physical critical temperature, with the thermodynamic limit taken before the disorder moments and the large-distance limit.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

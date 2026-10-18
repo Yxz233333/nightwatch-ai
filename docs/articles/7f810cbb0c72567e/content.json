@@ -1,0 +1,14 @@
+{
+  "id": "7f810cbb0c72567e",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Foulkes' conjecture for the sixth symmetric power",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Foulkes-Conjecture-for-the-Sixth-Symmetric-Power-September-25-2026/main.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the sixth-symmetric-power case of Foulkes' conjecture. For every integer b ≥ 6 and every finite-dimensional complex vector space V, there is a $`\\mathop{\\mathrm{GL}}\\nolimits (V)`$-equivariant injection $`\\mathop{\\mathrm{Sym}}\\nolimits ^6(\\mathop{\\mathrm{Sym}}\\nolimits ^b V)\\hookrightarrow\\mathop{\\mathrm{Sym}}\\nolimits ^b(\\mathop{\\mathrm{Sym}}\\nolimits ^6 V)`$.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

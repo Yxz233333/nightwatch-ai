@@ -1,0 +1,14 @@
+{
+  "id": "42c1d03ea2872adf",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Bounded scalar curvature and smooth extension of four-dimensional Ricci flow",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Bounded-scalar-curvature-and-smooth-extension-of-four-dimensional-Ricci-flow-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that a smooth Ricci flow on a closed real four-manifold extends on the same manifold through every finite time at which its scalar curvature remains uniformly bounded. This resolves the scalar-curvature extension problem in dimension four.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

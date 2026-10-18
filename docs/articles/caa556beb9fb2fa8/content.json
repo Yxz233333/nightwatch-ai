@@ -1,0 +1,14 @@
+{
+  "id": "caa556beb9fb2fa8",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Metric-measure limits of subcritical FK and spanning-tree planar maps",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Metric-measure-limits-of-subcritical-FK-and-spanning-tree-planar-maps-September-24-2026/main.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We resolve the finite spherical cases of Gwynne and Miller's graph-metric conjecture for critical Fortuin–Kasteleyn maps at each fixed $`q\\in(0,4)`$ and for uniform spanning-tree-decorated maps. After deterministic rescaling of graph distances, these maps, equipped with the vertex probability measure proportional to degree, converge in Gromov–Hausdorff–Prokhorov law to their ordinary unit-area Liouville quantum gravity spheres. Distances use every primal edge, and convergence holds through all positive integer edge counts.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

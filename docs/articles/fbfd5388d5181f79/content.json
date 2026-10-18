@@ -1,0 +1,14 @@
+{
+  "id": "fbfd5388d5181f79",
+  "section": "papers",
+  "category": "数论与算术几何",
+  "title": "A pointwise 2-converse for elliptic curves with rational two-torsion",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-pointwise-2-converse-for-elliptic-curves-with-rational-two-torsion-October-7-2026/paper.pdf",
+  "date": "2026-10-07",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove a pointwise 2-converse for elliptic curves over $`\\mathbf Q`$ with nonzero rational two-torsion: if the $`2^\\infty`$-Selmer corank is zero or one, then the analytic rank and Mordell–Weil rank equal that corank, and the Shafarevich–Tate group is finite. The result allows arbitrary reduction at 2.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

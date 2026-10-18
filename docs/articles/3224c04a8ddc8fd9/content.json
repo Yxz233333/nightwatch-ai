@@ -1,0 +1,14 @@
+{
+  "id": "3224c04a8ddc8fd9",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "P=W in composite rank for fixed determinant",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/P-equals-W-in-composite-rank-for-fixed-determinant-September-24-2026/P-equals-W-in-composite-rank-for-fixed-determinant-September-24-2026.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the P = W conjecture on the full rational cohomology of fixed-determinant, trace-free Higgs moduli spaces in composite rank and coprime degree, for smooth projective complex curves of genus at least two. Together with the established prime-rank cases, this gives the equality in every coprime rank.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

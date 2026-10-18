@@ -1,0 +1,14 @@
+{
+  "id": "7619d8fe1516a876",
+  "section": "papers",
+  "category": "代数几何",
+  "title": "A Torsion-Free Group Algebra with Zero Divisors",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-Torsion-Free-Group-Algebra-with-Zero-Divisors-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We disprove Kaplansky's zero-divisor conjecture by constructing a finitely presented torsion-free group G for which $`\\mathbb F_2[G]`$ has nonzero zero divisors. The group admits a finite two-dimensional classifying space.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

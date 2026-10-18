@@ -1,0 +1,14 @@
+{
+  "id": "4a5cbaf556982f10",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Squarefree values of quartics and power-free values of polynomials",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026/manuscript.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that every irreducible integer quartic with no fixed prime-square divisor takes squarefree values with the predicted positive Euler-product density. More generally, we obtain the corresponding $`(d-2)`$-power-free density in degrees $`4\\le d\\le8`$. The proof combines number-field factorization, determinant estimates with adaptive auxiliary primes, and explicit low-degree geometry. Together with Browning's theorem for higher degrees, this gives the $`(d-2)`$-power-free density for every d ≥ 4.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

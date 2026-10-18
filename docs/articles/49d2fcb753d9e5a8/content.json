@@ -1,0 +1,14 @@
+{
+  "id": "49d2fcb753d9e5a8",
+  "section": "papers",
+  "category": "概率论",
+  "title": "Exact derandomization of logarithmic space: L = RL = BPL",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Exact-Derandomization-of-Logarithmic-Space-L-equals-RL-equals-BPL-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove $`\\mathsf L=\\mathsf{RL}=\\mathsf{BPL}`$, resolving the derandomization problem for polynomial-time randomized logarithmic space.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

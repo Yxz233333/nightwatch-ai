@@ -1,0 +1,14 @@
+{
+  "id": "d03dd424d334ad24",
+  "section": "papers",
+  "category": "组合数学与图论",
+  "title": "Correspondence coloring graphs with a forbidden clique",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Correspondence-Coloring-Graphs-with-a-Forbidden-Clique-October-5-2026/correspondence-coloring-forbidden-clique.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every fixed integer r ≥ 4, we prove that every Kr-free graph of sufficiently large maximum degree Δ has correspondence chromatic number $`O_r(\\Delta/\\log\\Delta)`$. This resolves the Alon–Krivelevich–Sudakov coloring conjecture in the stronger correspondence-coloring form. The same bound, with a constant depending on F, holds when any fixed graph F is excluded as an ordinary subgraph. Ordinary and list coloring satisfy the same bounds.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

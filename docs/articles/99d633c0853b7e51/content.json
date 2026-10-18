@@ -1,0 +1,14 @@
+{
+  "id": "99d633c0853b7e51",
+  "section": "papers",
+  "category": "数论与算术几何",
+  "title": "The Selmer converse for elliptic curves at every prime",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-Selmer-converse-for-elliptic-curves-at-every-prime-October-7-2026/main.pdf",
+  "date": "2026-10-07",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the Selmer converse in coranks zero and one for every elliptic curve over ℚ and every prime p: if the full p-power Selmer group has ℤp-corank $`r\\in\\{0,1\\}`$, then the analytic and Mordell–Weil ranks both equal r, and the entire Tate–Shafarevich group is finite. As an application at the additive prime 3, we prove that for every prime $`\\ell\\equiv4,7,8\\pmod9`$, the cubic $`X^3+Y^3=\\ell Z^3`$ has analytic and Mordell–Weil rank one and finite Tate–Shafarevich group. In particular, every such ℓ is a sum of two rational cubes.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

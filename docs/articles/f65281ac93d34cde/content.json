@@ -1,0 +1,14 @@
+{
+  "id": "f65281ac93d34cde",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A translational tile with no fully periodic tiling in dimension three",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-translational-tile-with-no-fully-periodic-tiling-in-dimension-three-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct a finite translational tile in ℤ3 that admits tilings but no fully periodic tiling. Its unit-cube thickening has the same property in ℝ3, even when arbitrary real translations are allowed. This gives a negative resolution of the periodic tiling conjecture in dimension three.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fd323b6240636ed7",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The E×CM component of Zilber–Pink for curves in A2",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-E-times-CM-Component-of-Zilber-Pink-for-Curves-in-A2-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the $`E\\times\\mathrm{CM}`$ component of Zilber–Pink for Hodge-generic algebraic curves in $`\\mathcal A_2`$ over $`\\overline{\\mathbb Q}`$. Each such curve contains only finitely many points whose abelian surface is isogenous to a product of elliptic curves with at least one factor having complex multiplication.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "c878e792bc3d0ddc",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The cotype–cotype conjecture under the approximation property",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-cotype-cotype-conjecture-under-the-approximation-property-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the cotype–cotype conjecture under the ordinary approximation property. A nonzero real Banach space with this property is K-convex if and only if both the space and its dual have finite Rademacher cotype, possibly with different exponents.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

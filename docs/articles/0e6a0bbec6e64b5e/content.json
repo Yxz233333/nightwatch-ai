@@ -1,0 +1,14 @@
+{
+  "id": "0e6a0bbec6e64b5e",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Quenched SLE Universality for Weakly Disordered FK–Ising Interfaces",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Quenched-SLE-Universality-for-Weakly-Disordered-FK-Ising-Interfaces-October-5-2026/quenched-fk-ising.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that critical FK–Ising interfaces with sufficiently weak, symmetric, independent two-valued bond disorder converge to chordal SLE16/3. The disorder strength is fixed as the mesh tends to zero, and convergence of the conditional curve laws holds in probability over the environment.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

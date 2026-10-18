@@ -1,0 +1,14 @@
+{
+  "id": "c5053add4410d887",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Classical capacity and entropy inequalities for generalized amplitude damping",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Classical-capacity-and-entropy-inequalities-for-generalized-amplitude-damping-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We determine the unassisted classical capacity of every qubit generalized amplitude-damping channel, for all damping strengths and thermal occupations. It equals the one-shot Holevo capacity and is given by a one-variable maximum. A binary pure-state ensemble attains the one-use optimum, and its independent products attain the optimum at every block length. We also prove that one-shot Holevo capacity, minimum output entropy, and regularized unassisted classical capacity are additive under tensor product with every finite-dimensional completely positive trace-preserving partner channel.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

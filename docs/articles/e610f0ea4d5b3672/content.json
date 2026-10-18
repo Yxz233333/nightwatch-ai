@@ -1,0 +1,14 @@
+{
+  "id": "e610f0ea4d5b3672",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Critical Center Magnetization in the Planar XY Model",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Critical-Center-Magnetization-in-the-Planar-XY-Model-October-5-2026/paper.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Assuming the stated critical-height, local-renormalization, and spin-field inputs from the companion papers, we determine the center magnetization of the planar XY model in a square with aligned boundary spins at its mass-defined critical threshold. As $`n\\to\\infty`$, the magnetization is $`A_{\\mathrm{XY}}n^{-1/8}(\\log n)^{1/16}(1+o(1))`$, where $`A_{\\mathrm{XY}}`$ is a finite, strictly positive model-specific constant.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "bef9616fc45e4b13",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Spacetime Penrose inequalities: enclosing area, charge, and rigidity",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Spacetime-Penrose-inequalities-enclosing-area-charge-and-rigidity-October-5-2026/paper.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove sharp spacetime Penrose inequalities for invariant ADM mass and minimum enclosing area in three and four spatial dimensions. Under their respective designated-end conventions, the neutral numerical results allow arbitrary second fundamental form, nonzero momentum, disconnected weakly future trapped boundary, and finitely many ends. Under the stated horizon hypotheses, equality for the neutral inequalities reconstructs the original exterior data as spacelike slices of Schwarzschild spacetime in three dimensions and Schwarzschild–Tangherlini spacetime in four; the four-dimensional equality theorem concerns a connected, one-ended exterior. We also prove a three-dimensional electric–magnetic charged upper-area inequality for one-ended data with nonzero momentum, with separate purely electric rest-frame corollaries allowing finitely many ends. Finally, for each fixed transverse-traceless seed and prescribed decaying solution branch, we prove a local Schwarzschild–anti-de Sitter inequality.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "d794e633e23fac63",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Strict convexity and differentiability of the planar exponential first-passage limit shape",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Strict-convexity-and-differentiability-of-the-planar-exponential-first-passage-limit-shape-September-24-2026/main.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that the limit shape of undirected nearest-neighbor first-passage percolation on ℤ2 with independent exponential edge weights is strictly convex and has a C1 boundary. This resolves the strict convexity and differentiability conjectures for the planar exponential model. More generally, we prove differentiability of the time-constant norm for every Gamma edge-weight law with positive shape and rate.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

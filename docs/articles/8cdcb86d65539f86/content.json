@@ -1,0 +1,14 @@
+{
+  "id": "8cdcb86d65539f86",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Reconstruction from Milnor K-theory modulo the characteristic",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Reconstruction-from-Milnor-K-theory-modulo-the-characteristic-October-5-2026/paper.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Let K and L be finitely generated extensions of transcendence degree at least two over algebraically closed fields of characteristic p. We prove that every isomorphism of their first Milnor K-groups modulo p preserving the degree-two Steinberg relations is a nonzero scalar multiple of the map induced by a unique field isomorphism. The proof recovers projective lines over the subfields of pth powers by an elementary calculation with derivations.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

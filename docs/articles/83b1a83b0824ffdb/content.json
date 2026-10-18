@@ -1,0 +1,14 @@
+{
+  "id": "83b1a83b0824ffdb",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The irrationality exponent of pi is 2",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-irrationality-exponent-of-pi-is-2-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the conjecture that the irrationality exponent of π is 2. As a consequence, the classical Flint–Hills series $`\\sum_{n\\ge1}1/(n^3\\sin^2 n)`$ converges, with angles in radians.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

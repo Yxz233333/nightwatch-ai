@@ -1,0 +1,14 @@
+{
+  "id": "cb5c0e0ea2fa0881",
+  "section": "papers",
+  "category": "概率论",
+  "title": "A Pivotal Amplitude for Voronoi Percolation from Cardy's Formula",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-Pivotal-Amplitude-for-Voronoi-Percolation-from-Cardys-Formula-October-5-2026/voronoi-pivotal-amplitude.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Taking Cardy's conformal crossing formula for critical planar Poisson–Voronoi percolation in every bounded Jordan quadrilateral as an input, we prove that the expected number of color-pivotal cells for a unit-square crossing is asymptotic to a positive constant times $`\\varepsilon ^{-3/4}`$, where the point intensity is $`\\varepsilon ^{-2}`$. No rate of convergence in Cardy's formula is required.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

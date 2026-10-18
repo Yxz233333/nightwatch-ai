@@ -1,0 +1,14 @@
+{
+  "id": "1c5734748640e1d2",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Homogeneous depth-five lower bounds for iterated matrix multiplication",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Homogeneous-depth-five-lower-bounds-for-iterated-matrix-multiplication-September-25-2026/Homogeneous-depth-five-lower-bounds-for-iterated-matrix-multiplication-September-25-2026.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Let $`\\mathop{\\mathrm{IMM}}\\nolimits _{n,n}`$ be the $`(1,1)`$ entry of a product of n independent $`n\\times n`$ matrices of variables. Over every field of characteristic zero, every syntactically homogeneous $`\\Sigma\\Pi\\Sigma\\Pi\\Sigma`$ circuit computing $`\\mathop{\\mathrm{IMM}}\\nolimits _{n,n}`$ has at least $`n^{\\sqrt n/400}`$ gates for all sufficiently large n, with an absolute threshold independent of the field. Bottom linear forms may have arbitrary support, and arbitrary finite fan-in, fan-out, and gate sharing are allowed. Over every field, a block expansion gives such circuits with at most $`n^{\\sqrt n+4}`$ gates for n ≥ 2. Thus the gate complexity over characteristic-zero fields is $`n^{\\Theta(\\sqrt n)}`$.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

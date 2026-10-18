@@ -1,0 +1,14 @@
+{
+  "id": "5b2d3c6d8c626036",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A Complete Local Domain without a Small Cohen–Macaulay Module",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-Complete-Local-Domain-Without-a-Small-Cohen-Macaulay-Module-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct a three-dimensional complete Noetherian normal local domain containing ℂ, with residue field ℂ, that has no nonzero finitely generated maximal Cohen–Macaulay module. This disproves the domain form of the small Cohen–Macaulay module conjecture.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

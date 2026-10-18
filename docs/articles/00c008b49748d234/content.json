@@ -1,0 +1,14 @@
+{
+  "id": "00c008b49748d234",
+  "section": "papers",
+  "category": "组合数学与图论",
+  "title": "A uniform influence bound for hypergraph properties",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-uniform-influence-bound-for-hypergraph-properties-October-5-2026/hypergraph-influences.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every fixed integer r ≥ 3, we prove that every relabeling-invariant Boolean property of simple r-uniform hypergraphs on n vertices satisfies $`\\mathop{\\mathrm{Var}}\\nolimits _p(f)\\le C_r I_p(f)/(\\log n)^{r/(r-1)}`$. The constant depends only on r, and the bound holds uniformly for all $`0\\lt p\\lt 1`$ without a monotonicity assumption. For increasing properties, it gives the corresponding threshold-width bound with exponent $`r/(r-1)`$, proving the hypergraph threshold-width conjecture of Friedgut and Kalai.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "bda401b307ea22ad",
+  "section": "papers",
+  "category": "概率论",
+  "title": "Quenched SLE₃ Universality for the Weak Random-Bond Ising Model",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Quenched-SLE3-Universality-for-the-Weak-Random-Bond-Ising-Model-October-5-2026/quenched-sle3-weak-random-bond-ising.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove quenched chordal SLE3 convergence for the planar Ising model with sufficiently weak independent symmetric two-valued ferromagnetic bonds. The temperature is the critical point defined by spontaneous magnetization. Convergence holds in probability over environments for the full oriented curve law in deterministic Jordan-domain approximations.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

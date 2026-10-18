@@ -1,0 +1,14 @@
+{
+  "id": "983436c72c87ae1e",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The Penrose inequality for maximal asymptotically hyperbolic initial data",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-Penrose-inequality-for-maximal-asymptotically-hyperbolic-initial-data-October-5-2026/paper.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the sharp Penrose inequality for three-dimensional maximal asymptotically hyperbolic initial data with spherical conformal infinity. Under the dominant energy condition, the stated decay and integrability assumptions, and a future-timelike mass covector, the invariant mass is bounded below by the Schwarzschild–anti-de Sitter mass associated with the minimum enclosing area of a weakly future outer-trapped boundary. The boundary may be disconnected, and no restriction is imposed on the compact topology.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

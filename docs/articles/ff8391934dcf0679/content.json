@@ -1,0 +1,14 @@
+{
+  "id": "ff8391934dcf0679",
+  "section": "papers",
+  "category": "概率论",
+  "title": "Turn-Based Stochastic Mean-Payoff Games in Deterministic Quasipolynomial Time",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Turn-Based-Stochastic-Mean-Payoff-Games-in-Deterministic-Quasipolynomial-Time-October-5-2026/stochastic-mean-payoff-games.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We give a uniform deterministic quasipolynomial-time algorithm for finite turn-based stochastic mean-payoff games with signed integer rewards and rational chance-transition probabilities encoded in binary. It computes exactly the vertices of nonnegative value, including value zero, for the expectation of the pathwise liminf mean payoff. The algorithm uses exact rational arithmetic and $`2^{O((\\log(L+2))^2)}`$ bit operations, where L is the complete binary input length.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

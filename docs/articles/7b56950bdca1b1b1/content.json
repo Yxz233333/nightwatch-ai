@@ -1,0 +1,14 @@
+{
+  "id": "7b56950bdca1b1b1",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "An explicit failure of complex affine-space cancellation",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct an explicit integral complex affine fourfold X with $`X\\times\\mathbb A^1\\cong\\mathbb A^5`$ but $`X\\not\\cong\\mathbb A^4`$. This gives a negative answer to Zariski's affine-space cancellation problem over ℂ in dimension four. The same construction disproves the Stable Coordinate Conjecture in ambient dimension five and yields smooth 𝔸3-fibrations over 𝔸1 and 𝔸2 that are not Zariski-locally trivial. These fibrations disprove the Dolgachev–Weisfeiler affine-fibration conjecture over these bases.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

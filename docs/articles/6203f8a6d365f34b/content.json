@@ -1,0 +1,14 @@
+{
+  "id": "6203f8a6d365f34b",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A counterexample to integer-degree harmonic dimension comparison",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-counterexample-to-integer-degree-harmonic-dimension-comparison-September-25-2026/paper.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For some even n ≥ 8 and integer k ≥ 2, we construct a complete smooth metric on ℝn with nonnegative Ricci curvature whose space of real harmonic functions of pointwise polynomial growth at most k has dimension larger than the Euclidean harmonic-polynomial dimension. The metric is Euclidean near the origin, has asymptotic volume ratio strictly between zero and one, and has nonunique tangent cones at infinity. This answers the integer-degree form of Yau's dimension comparison question in the negative.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

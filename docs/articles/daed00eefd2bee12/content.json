@@ -1,0 +1,14 @@
+{
+  "id": "daed00eefd2bee12",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "An explicit power saving for the exact discrete Fourier transform",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/An-explicit-power-saving-for-the-exact-discrete-Fourier-transform-September-25-2026/main.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We give a deterministic algorithm that computes the discrete Fourier transform at every length n in $`O(n(\\log n)^{1-10^{-13}})`$ operations. The model uses exact complex arithmetic, unrestricted coefficients, specified Fourier roots, and unit-cost logarithmic-size indexing; scalar preparation and array organization are included.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

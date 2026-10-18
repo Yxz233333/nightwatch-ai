@@ -1,0 +1,14 @@
+{
+  "id": "b1a2472da56b4903",
+  "section": "papers",
+  "category": "组合数学与图论",
+  "title": "A Smooth Nonquadratic Entire Affine Maximal Graph in Dimension Ten",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Smooth-Nonquadratic-Affine-Maximal-Graph-in-Dimension-Ten-October-5-2026/affine-maximal-dimension-ten.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct a smooth nonquadratic entire graph in dimension ten that solves the classical affine maximal equation and has positive-definite Hessian everywhere. This gives a smooth counterexample to the entire-graph affine Bernstein assertion in dimension ten. Hessian positivity is pointwise; no global uniform lower bound or completeness of the Berwald–Blaschke metric is asserted.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

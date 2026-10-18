@@ -1,0 +1,14 @@
+{
+  "id": "9c1655008a7ea06b",
+  "section": "papers",
+  "category": "理论计算机科学",
+  "title": "A Low-Space Algorithm for Worst-Case Subset Sum",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-Low-Space-Algorithm-for-Worst-Case-Subset-Sum-September-26-2026/paper.pdf",
+  "date": "2026-09-26",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We give a uniform classical randomized decision algorithm for worst-case Subset Sum. Under every fixed polynomial bound on input-integer bit length, it uses $`\\mathop{\\mathrm{poly}}\\nolimits (n)2^{n/2}`$ time and ordinary $`O(2^{n/5})`$ writable words of $`O(n+b)`$ bits, where b is the largest input bit length. Both resource bounds hold on every execution. The error is one-sided: the algorithm always rejects unsolvable instances and accepts each solvable instance with probability at least 2/3.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

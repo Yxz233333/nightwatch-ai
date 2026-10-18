@@ -1,0 +1,14 @@
+{
+  "id": "546543cef9c5deb2",
+  "section": "papers",
+  "category": "数论与算术几何",
+  "title": "Quantitative Superexponential Bounds for van der Waerden Numbers",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Quantitative-Superexponential-Bounds-for-van-der-Waerden-Numbers-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that there are absolute constants c > 0 and K0 such that $`W_r(k)\\gt k^{ck\\lfloor\\log_2 r\\rfloor}`$ for every $`k\\ge K_0`$ and r ≥ 2. Consequently $`W_r(k)^{1/k}\\to\\infty`$ for each fixed r ≥ 2, giving a quantitative positive resolution of Erdős's superexponential-growth question, including the two-color case.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

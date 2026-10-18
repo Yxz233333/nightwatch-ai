@@ -1,0 +1,14 @@
+{
+  "id": "8af3f1efd561d296",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Sharp one-dimensional Lieb–Thirring constants",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We resolve affirmatively the remaining cases of the scalar one-dimensional Lieb–Thirring conjecture: for every $`\\frac12\\lt \\gamma\\lt \\frac32`$, the optimal constant is the one-bound-state constant. The estimate holds for every nonnegative potential in $`L^{\\gamma+1/2}(\\mathbb R)`$, with all negative eigenvalues included.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

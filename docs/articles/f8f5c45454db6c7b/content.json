@@ -1,0 +1,14 @@
+{
+  "id": "f8f5c45454db6c7b",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The sharp exponential rate of singularity for symmetric Bernoulli matrices",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/symmetric-bernoulli-singularity.pdf",
+  "date": "2026-10-03",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Let An be a symmetric $`n\\times n`$ matrix whose entries on and above the diagonal are independent uniform signs. We prove\n\n$`\\displaystyle \\Pr(\\det A_n=0)=\\left(\\frac12+o(1)\\right)^n.`$",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

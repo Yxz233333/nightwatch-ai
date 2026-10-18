@@ -1,0 +1,14 @@
+{
+  "id": "654d6f1a214b4eb5",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A superquadratic separation between sensitivity and block sensitivity",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-superquadratic-separation-between-sensitivity-and-block-sensitivity-September-25-2026/paper.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We disprove the quadratic strengthening of the Sensitivity Conjecture by constructing nonconstant total Boolean functions whose block sensitivity grows faster than any constant multiple of sensitivity squared. In fact, for some fixed α > 2, our examples have unbounded block sensitivity and satisfy $`\\mathop{\\mathrm{bs}}\\nolimits (f)\\ge s(f)^\\alpha`$.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

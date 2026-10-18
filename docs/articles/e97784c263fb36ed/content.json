@@ -1,0 +1,14 @@
+{
+  "id": "e97784c263fb36ed",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Additive hardness and unbounded configuration gaps in bin packing",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Additive-hardness-and-unbounded-configuration-gaps-in-bin-packing-September-24-2026/Additive-hardness-and-unbounded-configuration-gaps-in-bin-packing-September-24-2026.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We disprove the Modified Integer Round-Up Conjecture for bin packing by constructing instances with arbitrarily large additive gaps between the configuration-LP value and the integral optimum. We also prove that, for every fixed nonnegative integer c, distinguishing instances that fit in B bins from those requiring more than $`B+c`$ bins is NP-hard. Both results hold with rational item sizes greater than 1/6, so each bin contains at most five items.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

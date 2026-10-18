@@ -1,0 +1,14 @@
+{
+  "id": "c28bfea59a8fc2e0",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Cylinder amplitudes and logarithmic bridge-length windows on the honeycomb lattice",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Cylinder-amplitudes-and-logarithmic-bridge-length-windows-on-the-honeycomb-lattice-September-26-2026/main.pdf",
+  "date": "2026-09-26",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove a logarithmic window of critical honeycomb bridge lengths: summed through height $`2h(\\log h)^{1/64}`$, bridges of lengths between $`h^{4/3}(\\log h)^{-1/8}`$ and $`2h^{4/3}(\\log h)^{1/2}`$ have mass at least $`h^{3/4}(\\log h)^{-C}`$.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "907f4879d35123c3",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "One-sided negative sectional curvature and the holomorphic Liouville property",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/One-sided-negative-sectional-curvature-and-the-holomorphic-Liouville-property-September-25-2026/paper.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct, in some sufficiently large fixed finite complex dimension m, a domain in ℂm diffeomorphic to $`\\mathbb R^{2m}`$ that admits a complete Kähler metric with real sectional curvature at most −1 and has only constant bounded holomorphic functions. Its sectional curvatures are unbounded below. The construction gives a negative answer to the one-sided bounded-holomorphic-function question.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

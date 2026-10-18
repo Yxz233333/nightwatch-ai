@@ -1,0 +1,14 @@
+{
+  "id": "74fd870de03f3ac5",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Étale covers with a prescribed exterior sheet",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Etale-covers-with-a-prescribed-exterior-sheet-September-24-2026/main.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Let X be a smooth proper hyperbolic curve over an algebraic closure of a p-adic local field. Given finitely many disjoint small open disks, we construct one connected finite étale cover with a sheet isomorphic to their entire exterior and with degree divisible by p on every connected component above each disk.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

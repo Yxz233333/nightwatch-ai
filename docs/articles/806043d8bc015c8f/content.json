@@ -1,0 +1,14 @@
+{
+  "id": "806043d8bc015c8f",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "An Exact Semidefinite Lift of a Nonspectrahedral Hyperbolicity Cone",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/An-Exact-Semidefinite-Lift-of-a-Nonspectrahedral-Hyperbolicity-Cone-October-5-2026/Exact-Semidefinite-Lift-of-a-Nonspectrahedral-Hyperbolicity-Cone.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct an exact semidefinite lift of the explicit nonspectrahedral hyperbolicity cone in twenty-three variables defined in the companion paper. The lift is a homogeneous real symmetric pencil of size 100 with 307 auxiliary variables and represents the entire closed cone, including every point with singular X. Thus, although this cone has no semidefinite representation in its original coordinates, it admits one when auxiliary variables are allowed. The stated sizes are not claimed to be minimal.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

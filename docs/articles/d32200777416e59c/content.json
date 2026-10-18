@@ -1,0 +1,14 @@
+{
+  "id": "d32200777416e59c",
+  "section": "papers",
+  "category": "概率论",
+  "title": "Conformal Limits of Critical Square-Lattice Random-Cluster Interfaces",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Conformal-Limits-of-Critical-Square-Lattice-Random-Cluster-Interfaces-October-5-2026/paper.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every fixed $`1\\le q\\le4`$, critical square-lattice random-cluster Dobrushin interfaces converge to chordal $`\\mathop{\\mathrm{SLE}}\\nolimits _{\\kappa(q)}`$, where $`\\kappa(q)=4\\pi/\\arccos(-\\sqrt q/2)`$, and the complete nested plane loop collections converge to whole-plane $`\\mathop{\\mathrm{CLE}}\\nolimits _{\\kappa(q)}`$. The results hold under uniform marked Jordan boundary approximation and retain loop multiplicities and traversals. At q = 1 we obtain Cardy's formula for square-lattice bond percolation with free boundary edges.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

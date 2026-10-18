@@ -1,0 +1,14 @@
+{
+  "id": "cb9fd9b95947d44f",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A counterexample to Naimark's problem in ZFC",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-counterexample-to-Naimarks-problem-in-ZFC-September-24-2026/naimark-counterexample-zfc.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct in ZFC a unital infinite-dimensional simple complex C∗-algebra with a faithful tracial state whose nonzero irreducible representations are all unitarily equivalent. This gives a negative answer to Naimark's problem without additional set-theoretic assumptions.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "cdda6191fc2efce0",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Essential Singularity of the Correlation Length in the Planar XY Model",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Essential-Singularity-of-the-Correlation-Length-in-the-Planar-XY-Model-October-5-2026/paper.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the Berezinskii–Kosterlitz–Thouless essential singularity for the correlation length of the nearest-neighbor cosine XY model on the square lattice. Let $`m(b)`$ be the mass obtained by taking first the free-box thermodynamic limit and then the separation limit along a coordinate axis. As the inverse temperature b approaches bc from the massive side,\n\n$`\\displaystyle \\sqrt{b_c-b}\\log\\frac{1}{m(b)} \\longrightarrow A_{\\mathrm{XY}},`$\n\nwhere $`A_{\\mathrm{XY}}`$ is a finite, strictly positive model-specific constant.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

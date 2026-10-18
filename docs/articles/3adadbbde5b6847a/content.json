@@ -1,0 +1,14 @@
+{
+  "id": "3adadbbde5b6847a",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The first lattice correction to Bloch's law",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-first-lattice-correction-to-Blochs-law-October-5-2026/first-lattice-correction-bloch-law.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the first lattice correction to Bloch's law for the three-dimensional nearest-neighbor quantum Heisenberg ferromagnet at every fixed spin $`S=\\tfrac12,1,\\tfrac32,\\ldots`$. The spontaneous-magnetization deficit agrees with the full ideal-magnon density up to $`o(\\beta^{-5/2})`$. In addition to the leading Bloch term, this gives the correction $`3\\zeta(5/2)(\\beta S)^{-5/2}/(128\\pi^{3/2})`$. The magnetization is the right derivative at zero field of the thermodynamic pressure; the volume limit precedes the field derivative, and the low-temperature limit is taken last.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "d484017b2d06dded",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Bochner–Riesz multipliers in three dimensions",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Bochner-Riesz-Multipliers-in-Three-Dimensions-September-24-2026/Bochner-Riesz-Multipliers-in-Three-Dimensions-September-24-2026.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the three-dimensional Bochner–Riesz conjecture in its strict-order formulation. The main result is boundedness of the Bochner–Riesz multipliers on $`L^3(\\mathbb R^3)`$ for every positive order. Interpolation and duality then give the full conjectured strict range.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

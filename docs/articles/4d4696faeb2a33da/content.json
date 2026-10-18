@@ -1,0 +1,14 @@
+{
+  "id": "4d4696faeb2a33da",
+  "section": "papers",
+  "category": "概率论",
+  "title": "No bigeodesics in planar first-passage percolation",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/No-bigeodesics-in-planar-first-passage-percolation-September-24-2026/main.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that planar first-passage percolation with independent identically distributed nonnegative nonatomic edge weights has almost surely no doubly infinite geodesic, provided the minimum of four independent weights has finite second moment. This resolves the planar no-bigeodesics conjecture under that moment assumption. The conclusion rules out all bigeodesics simultaneously, without any regularity assumption on the limit shape.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

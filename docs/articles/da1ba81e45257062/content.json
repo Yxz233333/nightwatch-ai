@@ -1,0 +1,14 @@
+{
+  "id": "da1ba81e45257062",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The maximal triangular Hilbert transform at the symmetric point",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-maximal-triangular-Hilbert-transform-at-the-symmetric-point-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For arbitrary complex inputs in $`L^3(\\mathbb R^2)`$, we prove the pointwise maximal $`L^3\\times L^3\\to L^{3/2}`$ estimate for the triangular Hilbert transform, with the supremum over both hard truncation endpoints. The estimate yields joint almost-everywhere and L3/2 convergence as the lower endpoint tends to zero and the upper endpoint tends to infinity. This also proves the conjectured scalar estimate at the symmetric point.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

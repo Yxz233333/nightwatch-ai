@@ -1,0 +1,14 @@
+{
+  "id": "4b44dfb2f1709114",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Termination for projective log canonical fourfolds with rational boundary",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Termination-for-projective-log-canonical-fourfolds-with-rational-boundary-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that every permitted minimal model program for a projective log canonical fourfold with rational boundary over an algebraically closed field of characteristic zero terminates. The result allows arbitrary negative extremal rays and mixed birational steps on the given models, without pseudo-effectivity or initial ℚ-factoriality.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

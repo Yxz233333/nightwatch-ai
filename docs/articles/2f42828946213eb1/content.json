@@ -1,0 +1,14 @@
+{
+  "id": "2f42828946213eb1",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Termination of generalized-canonical flips on compact Kähler fourfolds",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Termination-of-generalized-canonical-flips-on-compact-Kahler-fourfolds-October-6-2026/termination-generalized-terminal-flips-compact-kahler-fourfolds.pdf",
+  "date": "2026-10-06",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Every sequence of generalized-canonical flips on compact Kähler fourfolds with rational boundary and fixed rational analytically nef b-divisor terminates when the small morphisms are projective. We prove this for normal globally Weil ℚ-factorial models with boundary coefficients less than one, allowing exceptional log discrepancies equal to one. No scaling rule or pseudo-effectivity assumption is required. The theorem applies to existing projective small diagrams with the specified opposite ample signs.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

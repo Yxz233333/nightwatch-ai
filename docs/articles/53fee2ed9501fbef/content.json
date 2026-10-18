@@ -1,0 +1,14 @@
+{
+  "id": "53fee2ed9501fbef",
+  "section": "papers",
+  "category": "组合数学与图论",
+  "title": "The weak pinned planar distance theorem",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-weak-pinned-planar-distance-theorem-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the weak pinned Erdős distinct-distance conjecture. For every fixed ε > 0, all but $`o(n)`$ points of any n-point planar set determine at least $`n^{1-\\varepsilon}`$ distinct nonzero distances.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

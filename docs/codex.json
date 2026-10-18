@@ -1,0 +1,126 @@
+{
+  "syncedAt": "2026-10-18T15:04:18.863Z",
+  "articles": [
+    {
+      "id": "d5ac4abc71996d26",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.164.0-alpha.3 测试版发布",
+      "summary": "官方已发布该版本，修复和详细变化见原始发布说明。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.3",
+      "date": "2026-10-17",
+      "status": "预发布版本不代表稳定版已普及。",
+      "interest": []
+    },
+    {
+      "id": "f36ab14ed1e27830",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.163.0：任务执行中发送跟进指令",
+      "summary": "运行期间可继续发送要求来调整方向；中断也会停止活动代码单元与嵌套工具。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0",
+      "date": "2026-10-15",
+      "status": "这是 CLI 发布说明；桌面版是否包含同项能力需单独核对。",
+      "interest": []
+    },
+    {
+      "id": "da737e837697608c",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.163.0：使用 /config 搜索并修改偏好",
+      "summary": "支持跨分类搜索设置，并区分立即生效和需要重启的修改。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0",
+      "date": "2026-10-15",
+      "status": "这是 CLI 发布说明；桌面版是否包含同项能力需单独核对。",
+      "interest": []
+    },
+    {
+      "id": "a5d296b0e064f1ea",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.163.0：自定义 /keymap 前导键",
+      "summary": "可配置快捷键前导键，默认 Ctrl+X；语音静音使用 F9。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0",
+      "date": "2026-10-15",
+      "status": "这是 CLI 发布说明；桌面版是否包含同项能力需单独核对。",
+      "interest": []
+    },
+    {
+      "id": "8cef78fba716f6be",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.163.0：通过 /daemon 重启后台服务",
+      "summary": "重启前提示可能受影响的工作，完成后自动重新连接。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0",
+      "date": "2026-10-15",
+      "status": "这是 CLI 发布说明；桌面版是否包含同项能力需单独核对。",
+      "interest": []
+    },
+    {
+      "id": "757a71db1f9e5082",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.163.0 发布",
+      "summary": "官方已发布该版本，修复和详细变化见原始发布说明。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0",
+      "date": "2026-10-15",
+      "status": "CLI 稳定版本。",
+      "interest": []
+    },
+    {
+      "id": "6e76e974bed8a44b",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.163.0：独立只读工具并行执行",
+      "summary": "查询技能、记忆和会话历史等独立只读调用可以并行。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0",
+      "date": "2026-10-15",
+      "status": "这是 CLI 发布说明；桌面版是否包含同项能力需单独核对。",
+      "interest": []
+    },
+    {
+      "id": "b961187789b205a3",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "输入框预测：Tab 接受下一条提示建议",
+      "summary": "测试版可在输入框建议后续消息，接受后仍需自行发送。",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "date": "2026-10-09",
+      "status": "Beta；符合条件的成年个人 Pro 用户，需最新桌面版和受支持模型。",
+      "interest": []
+    },
+    {
+      "id": "08402ae92a9ee122",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.162.1 发布",
+      "summary": "官方已发布该版本，修复和详细变化见原始发布说明。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.1",
+      "date": "2026-10-09",
+      "status": "CLI 稳定版本。",
+      "interest": []
+    },
+    {
+      "id": "b1ef9481f5bf3c76",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.162.0 发布",
+      "summary": "官方已发布该版本，修复和详细变化见原始发布说明。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0",
+      "date": "2026-10-08",
+      "status": "CLI 稳定版本。",
+      "interest": []
+    },
+    {
+      "id": "77a48e6bee1ee2b4",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex Cloud 跨设备继续编码任务",
+      "summary": "使用隔离云端工作区，可在本机休眠时继续执行任务。",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "date": "2026-09-29",
+      "status": "官方已宣布；账户、套餐、客户端和灰度范围以原文为准。",
+      "interest": []
+    }
+  ]
+}

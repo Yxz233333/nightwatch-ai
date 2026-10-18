@@ -1,0 +1,14 @@
+{
+  "id": "6b541a087174fce9",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Thermal FK–Ising interfaces and massive SLE",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Thermal-FK-Ising-interfaces-and-massive-SLE-October-5-2026/paper.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove convergence of thermal FK–Ising interfaces, for every fixed nonzero mass of either sign, on uniformly angle-bounded isoradial lattices in bounded simply connected domains. The limit is independent of the lattice and the admissible domain approximation. For positive mass it is the unique massive SLE$`_{16/3}`$ law with locally finite-energy drift prescribed by a massive boundary value problem; negative mass follows by duality and reversal. The theorem also allows Carathéodory approximations whose diameters diverge.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

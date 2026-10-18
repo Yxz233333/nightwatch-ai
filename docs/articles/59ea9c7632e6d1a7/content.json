@@ -1,0 +1,14 @@
+{
+  "id": "59ea9c7632e6d1a7",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Virasoro Constraints for Projective Complete Intersections",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Virasoro-Constraints-for-Projective-Complete-Intersections-September-24-2026/article.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the Virasoro conjecture for the ordinary descendant Gromov–Witten theory of smooth complete intersections in projective space, in every genus and curve class and with arbitrary cohomology insertions. This includes primitive and odd cohomology classes, with no semisimplicity assumption.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

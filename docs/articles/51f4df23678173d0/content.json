@@ -1,0 +1,14 @@
+{
+  "id": "51f4df23678173d0",
+  "section": "papers",
+  "category": "概率论",
+  "title": "Quenched SLE₃ limits for general weak random-bond Ising models",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Quenched-SLE3-limits-for-general-weak-random-bond-Ising-models-October-5-2026/general-weak-random-bond-ising.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For the planar Ising model with bonds $`J_e=1+\\varepsilon\\xi_e`$, where the ξe have any fixed bounded, nondegenerate, mean-zero iid law, we prove quenched chordal SLE3 convergence for sufficiently small ε > 0. The temperature is the spontaneous-magnetization threshold. Convergence holds in probability over environments for the full oriented curve law in deterministic Jordan-domain approximations.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "e005d35da0a22e24",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Schnell fiber spaces and good canonical models",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Schnell-fiber-spaces-and-good-canonical-models-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the Campana–Peternell inequality $`\\kappa(X)\\geq\\kappa(D)`$ for a smooth connected projective complex variety X and an effective Cartier divisor D whenever $`m_0K_X-D`$ is pseudo-effective for some positive integer m0. For an algebraic fiber space $`f\\colon X\\to Y`$ between smooth connected projective complex varieties, the hypothesis that $`m_0K_X-f^*H`$ is pseudo-effective with H ample Cartier gives $`\\kappa(X)=\\kappa(F)+\\dim Y`$ for a very general smooth fiber F, as well as nonzero sections of $`mK_X-f^*H`$ for all sufficiently large divisible m.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

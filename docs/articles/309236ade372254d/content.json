@@ -1,0 +1,14 @@
+{
+  "id": "309236ade372254d",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Exact orders and invariant anticanonical linear systems",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Exact-orders-and-invariant-anticanonical-linear-systems-September-26-2026/main.pdf",
+  "date": "2026-09-26",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "On a smooth connected projective complex variety with smoothly semipositive anticanonical bundle, we prove that asymptotically zero valuation on the curvature-null face is attained by an effective rational anticanonical divisor. The fixed auxiliary line bundle is arbitrary.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

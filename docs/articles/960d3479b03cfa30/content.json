@@ -1,0 +1,14 @@
+{
+  "id": "960d3479b03cfa30",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Integer multiplication below n log n",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We give a deterministic algorithm that multiplies two n-bit integers in $`O(n(\\lg n)^{1-\\kappa})`$ worst-case time, with $`\\kappa=2^{-182}`$, on one fixed finite-alphabet Turing machine with a fixed finite number of one-dimensional tapes. The algorithm is exact for every input length and disproves the $`n\\log n`$ optimality conjecture of Schönhage and Strassen in this model.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

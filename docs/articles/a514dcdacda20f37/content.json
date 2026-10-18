@@ -1,0 +1,14 @@
+{
+  "id": "a514dcdacda20f37",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Row–column symmetry and contraction of coordinate sweeps",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Row-column-symmetry-and-contraction-of-coordinate-sweeps-September-26-2026/paper.pdf",
+  "date": "2026-09-26",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that the Thorp shuffle on $`N=2^d`$ labeled cards has full-permutation total-variation mixing time $`\\Theta(\\log N)`$ in physical shuffles. An absolute number of coordinate sweeps suffices for the upper bound.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

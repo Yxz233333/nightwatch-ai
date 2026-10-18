@@ -1,0 +1,14 @@
+{
+  "id": "b0cee3c9a27a7970",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Midpoint convexity from bounded tree potentials and path costs",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Midpoint-convexity-from-bounded-tree-potentials-and-path-costs-September-27-2026/manuscript.pdf",
+  "date": "2026-09-27",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Four real Banach spaces defined by bounded tree potentials satisfy the averaged asymptotic midpoint bound $`\\widehat\\delta(t)\\ge\\sqrt{1+t^2/4}-1`$ for $`0\\lt t\\lt 1`$, while none admits an asymptotically uniformly convex (AUC) renorming. On finite-height trees, the globally constrained norm equals the least additive cost of a Hilbert vector and root paths. The quadratic path and segment-start outer Hilbert sums are reflexive and asymptotically midpoint uniformly convex, and admit no equivalent AUC norm.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "4df4ba168f15d3c0",
+  "section": "papers",
+  "category": "数论与算术几何",
+  "title": "Elliptic squares and Zilber–Pink for curves in A2",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Elliptic-Squares-and-Zilber-Pink-for-Curves-in-A2-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that every Hodge-generic algebraic curve in $`\\mathcal A_2`$ over $`\\overline{\\mathbb Q}`$ contains only finitely many points whose abelian surface is isogenous to the square of an elliptic curve without complex multiplication (CM). Combining this result with the companion $`E\\times\\mathrm{CM}`$ and quaternionic-division finiteness theorems, we prove the curve case of Zilber–Pink in $`\\mathcal A_2`$ over $`\\overline{\\mathbb Q}`$, without a boundary hypothesis.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

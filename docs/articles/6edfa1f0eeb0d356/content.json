@@ -1,0 +1,14 @@
+{
+  "id": "6edfa1f0eeb0d356",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A C^1 Counterexample to the Entropy Conjecture",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-C1-Counterexample-to-the-Entropy-Conjecture-September-25-2026/article.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We disprove the general C1 self-map formulation of Shub's entropy conjecture. We construct a noninvertible C1 self-map of a compact smooth manifold without boundary whose topological entropy is zero, while its action on second real homology has eigenvalue 2. Thus the topological entropy is strictly smaller than the logarithm of the homological spectral radius.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

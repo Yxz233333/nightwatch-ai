@@ -1,0 +1,14 @@
+{
+  "id": "302ffd48e9935ad4",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Hellinger contraction with arbitrary Boolean output bias",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/main.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the Hellinger conjecture for Boolean functions on the uniform discrete cube, with arbitrary output bias. For a Boolean function of mean m and every $`\\rho\\in[-1,1]`$, the loss $`\\sqrt{1-m^2}-\\mathbb E\\sqrt{1-(T_\\rho f)^2}`$ is at most $`1-\\sqrt{1-\\rho^2}`$, with equality for signed coordinates. The proof combines asymmetric dimension induction, a calibrated noise-semigroup energy estimate, and finite exact arithmetic certificates. The Hellinger inequality also yields the Courtade–Kumar information bound.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

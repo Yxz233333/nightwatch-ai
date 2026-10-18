@@ -1,0 +1,14 @@
+{
+  "id": "b97c284e37701aa1",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Sharp nodal length on smooth surfaces",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Sharp-nodal-length-on-smooth-surfaces-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that a nonzero real Laplace eigenfunction with eigenvalue λ > 0 on a fixed smooth closed connected Riemannian surface has nodal length at most $`C\\sqrt\\lambda`$. Together with the known lower bound, this proves Yau's conjecture in this setting.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

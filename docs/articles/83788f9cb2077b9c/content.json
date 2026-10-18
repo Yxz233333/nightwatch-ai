@@ -1,0 +1,14 @@
+{
+  "id": "83788f9cb2077b9c",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Quantum Depletion and Momentum Distribution in the Dilute Hard-Sphere Bose Gas",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Quantum-Depletion-and-Momentum-Distribution-in-the-Dilute-Hard-Sphere-Bose-Gas-October-5-2026/Quantum-Depletion-in-the-Dilute-Hard-Sphere-Bose-Gas.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the full scaled Bogoliubov momentum distribution for the depleted particles in the three-dimensional hard-sphere Bose gas at zero temperature. The thermodynamic limit is taken at each fixed density before the dilute limit, uniformly over all pure and mixed ground states. All thermodynamic accumulation values have the same dilute asymptotic: the limiting nonzero-momentum occupation measure has total mass $`8/(3\\sqrt\\pi)`$, giving the depletion fraction $`\\frac{8}{3\\sqrt\\pi}\\sqrt{\\rho a^3}+o(\\sqrt{\\rho a^3})`$ for density ρ and hard-sphere exclusion distance a.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

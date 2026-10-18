@@ -1,0 +1,14 @@
+{
+  "id": "cf03d6013879c3c4",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Uniform Matrix Hitting Points in Every Positive Characteristic",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Uniform-Matrix-Hitting-Points-in-Every-Positive-Characteristic-October-4-2026/uniform-matrix-hitting-points-positive-characteristic.pdf",
+  "date": "2026-10-04",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct a single matrix substitution that detects every nonzero size-s division-free noncommutative formula in n variables over every field of a given positive characteristic. One deterministic machine, given a promised prime p in binary and n, s in unary, outputs matrices over 𝔽p of dimension $`O(n^3s^6)`$ in polynomial bit time. The same tuple works with arbitrary extension-field coefficients, including in characteristic two. The construction also applies to the stated acyclic algebraic path programs.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

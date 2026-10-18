@@ -1,0 +1,14 @@
+{
+  "id": "2eecdb71425efffa",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Minimal models in numerical dimension one",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Minimal-models-in-numerical-dimension-one-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We resolve the numerical-dimension-one case of the minimal-model conjecture for smooth connected complex projective varieties of dimension at least three. If KX is pseudo-effective and $`\\kappa_\\sigma(X,K_X)=1`$, with κσ defined by section growth with a fixed ample twist, then X admits a projective ℚ-factorial terminal minimal model.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "3a76ffbbf057a799",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A typical-start upper bound for low-temperature SK Glauber dynamics",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-typical-start-upper-bound-for-low-temperature-SK-Glauber-dynamics-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every fixed inverse temperature β > 1, we prove subexponential mixing for rate-one-per-site heat-bath dynamics in the zero-field Gaussian Sherrington–Kirkpatrick model from a typical equilibrium configuration. If one Gibbs-sampled configuration is held fixed as the initial state, its total-variation distance from equilibrium is at most 1/4 by time $`\\exp(n^{1-1/40000000})`$, with joint probability tending to one over the disorder and the sampled state.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

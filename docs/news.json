@@ -1,0 +1,109 @@
+{
+  "syncedAt": "2026-10-18T15:04:18.863Z",
+  "articles": [
+    {
+      "id": "b2f8abac57fe31a6",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "OpenAI 支持数学界审查与理解 AI 成果",
+      "summary": "10 月 15 日更新宣布向 Simons Foundation 相关计划投入资金，支持研究与交流。",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "date": "2026-10-15",
+      "status": "官方来源；研究成果的审查状态请继续关注原始材料。",
+      "recommended": false,
+      "recommendedOn": null,
+      "interest": []
+    },
+    {
+      "id": "af4111598cd9de21",
+      "section": "news",
+      "category": "模型动态",
+      "title": "Gemini 4 Argon 开始向 Pro 与 Ultra 推送",
+      "summary": "Google 在 10 月 13 日发布说明中宣布新模型，面向复杂任务。",
+      "url": "https://gemini.google/release-notes/",
+      "date": "2026-10-13",
+      "status": "",
+      "recommended": true,
+      "recommendedOn": "2026-10-18",
+      "interest": []
+    },
+    {
+      "id": "63fccaeb710773a8",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Gemini 自定义入口整合技能与应用连接",
+      "summary": "集中管理响应方式、技能和应用连接；可用地区与语言有所不同。",
+      "url": "https://gemini.google/release-notes/",
+      "date": "2026-10-13",
+      "status": "",
+      "recommended": false,
+      "recommendedOn": null,
+      "interest": []
+    },
+    {
+      "id": "23894b2e4208a6d4",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Gemini macOS 集成 Antigravity 编程代理",
+      "summary": "可从聊天发起代码与原型任务，代理在后台构建和测试。",
+      "url": "https://gemini.google/release-notes/",
+      "date": "2026-10-13",
+      "status": "",
+      "recommended": false,
+      "recommendedOn": null,
+      "interest": []
+    },
+    {
+      "id": "42015c1d1c6e7a6a",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "OpenAI 公开数学成果与验证材料",
+      "summary": "官方数学仓库公开手稿、部分 Lean 证明及相关说明。",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "date": "2026-10-06",
+      "status": "官方来源；研究成果的审查状态请继续关注原始材料。",
+      "recommended": true,
+      "recommendedOn": "2026-10-18",
+      "interest": []
+    },
+    {
+      "id": "b6cbc6f9540be6a0",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Gemini Skills 逐步替代 Gems",
+      "summary": "支持保存和组合任务指令，迁移方式以官方说明为准。",
+      "url": "https://gemini.google/release-notes/",
+      "date": "2026-09-30",
+      "status": "",
+      "recommended": false,
+      "recommendedOn": null,
+      "interest": []
+    },
+    {
+      "id": "a55bcfa2ade4da99",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Claude 参与新型酶系统发现",
+      "summary": "Anthropic 发布生命科学研究进展，介绍通用 AI 辅助发现的实验。",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "date": null,
+      "status": "",
+      "recommended": true,
+      "recommendedOn": "2026-10-18",
+      "interest": []
+    },
+    {
+      "id": "64c910a3e8e87b95",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Anthropic 更新 2026 使用政策",
+      "summary": "官方解释政策调整及模型能力变化带来的使用边界。",
+      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "date": null,
+      "status": "",
+      "recommended": false,
+      "recommendedOn": null,
+      "interest": []
+    }
+  ]
+}

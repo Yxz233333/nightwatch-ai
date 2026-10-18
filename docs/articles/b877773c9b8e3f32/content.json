@@ -1,0 +1,14 @@
+{
+  "id": "b877773c9b8e3f32",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The Artinian Lex-Plus-Powers Betti Theorem",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-Artinian-Lex-Plus-Powers-Betti-Theorem-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the Eisenbud–Green–Harris and lex-plus-powers conjectures over every characteristic-zero field for homogeneous regular sequences of any positive length, with degrees at least two. For every homogeneous ideal containing such a sequence, the corresponding lex-plus-powers ideal has the same Hilbert function and at least as large a graded Betti number in every homological and internal degree.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

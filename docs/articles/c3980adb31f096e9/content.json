@@ -1,0 +1,14 @@
+{
+  "id": "c3980adb31f096e9",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Annular variation of the triangular Hilbert transform at the symmetric point",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Annular-variation-of-the-triangular-Hilbert-transform-at-the-symmetric-point-October-5-2026/annular-variation.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the annular r-variation estimate for the triangular Hilbert transform from complex $`L^3\\times L^3`$ to L3/2 for every r > 2. The partitions may depend on the output point and range over all positive scales. The estimate yields the two-endpoint maximal bound and joint almost-everywhere and norm principal values, and resolves the symmetric scalar triangular Hilbert transform problem.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

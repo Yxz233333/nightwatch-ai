@@ -1,0 +1,14 @@
+{
+  "id": "076b2ad38161ab8b",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Witnessed symmetric choice is strictly stronger than choiceless polynomial time with counting",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that witnessed symmetric choice strictly increases the expressive power of choiceless polynomial time with counting. A fixed sentence with one witnessed-choice occurrence defines a Boolean query on every finite input that is not definable in the original counting formalism.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

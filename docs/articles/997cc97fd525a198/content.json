@@ -1,0 +1,14 @@
+{
+  "id": "997cc97fd525a198",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The abelian Zilber–Pink conjecture",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-Abelian-Zilber-Pink-Conjecture-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the abelian Zilber–Pink conjecture over $`\\overline{\\mathbb Q}`$. Every irreducible subvariety of an abelian variety has only finitely many maximal atypical subvarieties, where atypicality is measured inside its smallest containing torsion coset.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

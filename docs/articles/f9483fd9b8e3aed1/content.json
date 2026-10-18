@@ -1,0 +1,14 @@
+{
+  "id": "f9483fd9b8e3aed1",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The low-temperature Sherrington–Kirkpatrick free-energy limiting law",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-low-temperature-Sherrington-Kirkpatrick-free-energy-limiting-law-September-24-2026/The-low-temperature-Sherrington-Kirkpatrick-free-energy-limiting-law-September-24-2026.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every fixed inverse temperature β > 1, we prove that the zero-field Gaussian Ising Sherrington–Kirkpatrick free energy, centered by its expectation and divided by its standard deviation, converges in distribution to a nondegenerate law as the system size tends to infinity through all integers. We also prove that its variance divided by n1/3 converges to a finite positive constant.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

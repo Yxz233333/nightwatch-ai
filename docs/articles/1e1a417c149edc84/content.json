@@ -1,0 +1,14 @@
+{
+  "id": "1e1a417c149edc84",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The Weak Inhomogeneous Duffin–Schaeffer Conjecture",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-weak-inhomogeneous-Duffin-Schaeffer-conjecture-September-25-2026/paper.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the weak inhomogeneous Duffin–Schaeffer conjecture. For every fixed γ ∈ ℝ and finite-valued $`\\psi:\\mathbb N\\to[0,\\infty)`$, divergence of $`\\sum_{q\\ge1}\\phi(q)\\psi(q)/q`$ implies $`\\|qx-\\gamma\\|\\lt \\psi(q)`$ for infinitely many q, for almost every x. Here ϕ is Euler's totient and $`\\|\\cdot\\|`$ is distance to the nearest integer. Numerators need not be reduced, and the shift satisfies no Diophantine restriction.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

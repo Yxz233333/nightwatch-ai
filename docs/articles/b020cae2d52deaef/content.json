@@ -1,0 +1,14 @@
+{
+  "id": "b020cae2d52deaef",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Positive scalar curvature and uniform codimension-two width",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Positive-scalar-curvature-and-uniform-codimension-two-width-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the quantitative continuous form of Gromov's scalar-curvature conjecture in every dimension n ≥ 4. Every complete connected smooth boundaryless n-manifold with scalar curvature at least one admits a continuous map to a simplicial complex of dimension at most $`n-2`$ whose entire fibers have diameter bounded only in terms of n. We also obtain the continuous macroscopic-dimension conclusion for universal covers of closed manifolds with positive scalar curvature in every dimension n ≥ 2.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

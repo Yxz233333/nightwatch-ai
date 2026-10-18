@@ -1,0 +1,14 @@
+{
+  "id": "1a7bf5ab6035cdf3",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Entropy equality and local symmetry in negative curvature",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Entropy-equality-and-local-symmetry-in-negative-curvature-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every closed connected smooth Riemannian manifold of dimension at least three with strictly negative sectional curvature, we prove that normalized Liouville measure has maximal entropy for the unit-speed geodesic flow if and only if the metric is locally symmetric. This resolves Katok's entropy rigidity conjecture positively in these dimensions, including all rank-one symmetric types at arbitrary scale.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

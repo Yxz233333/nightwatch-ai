@@ -1,0 +1,14 @@
+{
+  "id": "4210591cbbcaa814",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Global quantum geometric Langlands at irrational level",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Global-quantum-geometric-Langlands-at-irrational-level-October-4-2026/quantum-langlands.pdf",
+  "date": "2026-10-04",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the unramified quantum geometric Langlands equivalence for every connected simple complex algebraic group G and every level $`c\\in\\mathbb C\\setminus\\mathbb Q`$, including non-real levels. For every smooth projective connected complex curve X, it identifies the full twisted D-module categories on $`\\mathop{\\mathrm{Bun}}\\nolimits _G(X)`$ and $`\\mathop{\\mathrm{Bun}}\\nolimits _{G^\\vee}(X)`$ at the dual shifted levels c and $`-1/(rc)`$, where r is the lacing number. The equivalence uses the given global forms and includes all connected components.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

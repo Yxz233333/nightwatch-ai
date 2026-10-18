@@ -1,0 +1,14 @@
+{
+  "id": "6da76d94665cbba3",
+  "section": "papers",
+  "category": "概率论",
+  "title": "Variance of the Random k-SAT Hitting Time",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Variance-of-the-Random-k-SAT-Hitting-Time-September-27-2026/article.pdf",
+  "date": "2026-09-27",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Let Hn be the index of the first unsatisfiable prefix in random k-SAT on n variables, with independent uniformly signed clauses using k distinct variables and sampled with replacement. For every fixed k ≥ 4, we prove $`\\mathop{\\mathrm{Var}}\\nolimits (H_n)=\\Theta_k(n)`$. For k = 3, the variance is bounded below by a positive multiple of n and above by a constant multiple of $`n\\log n`$; the companion paper on random 3-SAT sharpens this to $`\\Theta(n)`$. The same upper bounds proved here hold after clipping at any fixed positive multiple of n.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

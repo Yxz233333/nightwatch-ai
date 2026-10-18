@@ -1,0 +1,14 @@
+{
+  "id": "8f94625ee7a0bbe0",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Universal Tensor Squares for Symmetric Groups",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Universal-Tensor-Squares-for-Symmetric-Groups-September-24-2026/main.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every positive integer n other than 2, 4, and 9, we prove that some irreducible complex representation of Sn has a tensor square containing every irreducible representation. This resolves the tensor square conjecture for symmetric groups affirmatively.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

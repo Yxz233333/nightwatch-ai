@@ -1,0 +1,14 @@
+{
+  "id": "8c5ae169434c9563",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A local Penrose inequality for conformal perturbations of Schwarzschild–anti-de Sitter data",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-local-Penrose-inequality-for-conformal-perturbations-of-Schwarzschild-anti-de-Sitter-data-October-5-2026/paper.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the asymptotically hyperbolic Penrose inequality for sufficiently small maximal vacuum conformal perturbations of a positive-mass Schwarzschild–anti-de Sitter exterior, for every fixed decaying transverse-traceless seed and every solution branch satisfying the stated decay and mass assumptions. The bound uses the area of the marginally outer trapped boundary itself; it requires neither outermostness nor outer area-minimization, and no bulk-versus-boundary domination condition. For sufficiently small positive parameters, equality holds for radial seeds and the inequality is strict otherwise.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

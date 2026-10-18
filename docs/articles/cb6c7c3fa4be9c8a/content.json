@@ -1,0 +1,14 @@
+{
+  "id": "cb6c7c3fa4be9c8a",
+  "section": "papers",
+  "category": "数论与算术几何",
+  "title": "Positive lower density of large prime gaps",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Positive-lower-density-of-large-prime-gaps-September-25-2026/main.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every fixed C > 0, we prove that a positive proportion of consecutive prime gaps exceed $`C\\log p`$, where p is the smaller prime. The proportion is bounded below for every sufficiently large initial segment of the prime sequence, with a constant depending on C. It follows that the indices at which $`p_n/n`$ increases have positive lower asymptotic density, answering a question of Erdős and Prachar.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

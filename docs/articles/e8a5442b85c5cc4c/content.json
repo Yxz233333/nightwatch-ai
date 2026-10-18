@@ -1,0 +1,14 @@
+{
+  "id": "e8a5442b85c5cc4c",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Subsphere methods for memory-sample lower bounds in noiseless Gaussian regression",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Subsphere-methods-for-memory-sample-lower-bounds-in-noiseless-Gaussian-regression-September-27-2026/paper.pdf",
+  "date": "2026-09-27",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Let a finite-state streaming learner estimate a uniformly random unit vector from independent exact Gaussian linear measurements. We prove that $`o(d^2)`$ bits of persistent memory and angular success probability at least 2/3 require at least $`2^{-16}d\\log_2(1/\\epsilon)`$ samples for all sufficiently large d, uniformly for $`0\\lt \\epsilon\\le1/10`$. The proof conditions each batch on its observed projection and controls the resulting random residual subsphere.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

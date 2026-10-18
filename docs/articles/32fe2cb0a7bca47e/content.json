@@ -1,0 +1,14 @@
+{
+  "id": "32fe2cb0a7bca47e",
+  "section": "papers",
+  "category": "代数几何",
+  "title": "Symmetry of semialgebraic bounded domains with compact quotient",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Symmetry-of-semialgebraic-bounded-domains-with-compact-quotient-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Every nonempty connected semialgebraic bounded open subset of a complex affine variety admitting a properly discontinuous cocompact group of biholomorphisms is smooth and biholomorphic to a bounded symmetric domain. This answers the bounded-domain question of Kollár and Pardon affirmatively.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

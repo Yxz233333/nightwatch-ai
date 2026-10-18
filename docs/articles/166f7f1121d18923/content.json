@@ -1,0 +1,14 @@
+{
+  "id": "166f7f1121d18923",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Bloch's Law for Finite-Range Heisenberg Ferromagnets in Three Dimensions",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026/bloch-law-heisenberg.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove Bloch's T3/2 law for the spontaneous magnetization of three-dimensional quantum Heisenberg ferromagnets at every fixed positive quantum spin. The result holds for every nonnegative symmetric finite-range interaction whose support generates ℤ3, including spatially anisotropic couplings. The leading magnetization deficit has the exact coefficient determined by the determinant of the quadratic one-magnon dispersion. The thermodynamic limit is taken before the right field derivative at zero, and the low-temperature limit is taken last.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

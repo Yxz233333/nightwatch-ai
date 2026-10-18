@@ -1,0 +1,14 @@
+{
+  "id": "c977749669aefae3",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Gigli’s distributional curvature characterization of Alexandrov spaces",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Giglis-distributional-curvature-characterization-of-Alexandrov-spaces-September-24-2026/main.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every integer n ≥ 2 and κ ∈ ℝ, we prove that a complete separable metric space is an n-dimensional Alexandrov space of curvature at least κ if and only if, with reference measure $`\\mathcal H^n`$, it is a full-support $`\\mathrm{RCD}((n-1)\\kappa,n)`$ space whose distributional sectional curvature is at least κ in Gigli's original global test classes. This resolves Gigli's characterization conjecture in dimensions at least two.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

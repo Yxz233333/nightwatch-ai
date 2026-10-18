@@ -1,0 +1,14 @@
+{
+  "id": "54c43c9369201f87",
+  "section": "papers",
+  "category": "几何与拓扑",
+  "title": "Nonhomeomorphic closed aspherical four-manifolds with the same homotopy type",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Nonhomeomorphic-closed-aspherical-four-manifolds-with-the-same-homotopy-type-October-4-2026/paper.pdf",
+  "date": "2026-10-04",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct closed connected aspherical topological four-manifolds that are homotopy equivalent but not homeomorphic, disproving the homeomorphism-existence formulation of the Borel conjecture in dimension four. Their common fundamental group is word-hyperbolic. One of the manifolds also has a self-homotopy equivalence not homotopic to a homeomorphism.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

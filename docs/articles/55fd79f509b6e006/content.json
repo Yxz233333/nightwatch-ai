@@ -1,0 +1,14 @@
+{
+  "id": "55fd79f509b6e006",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Universality of critical quench autocorrelations in the Sherrington–Kirkpatrick model",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Universality-of-critical-quench-autocorrelations-in-the-Sherrington-Kirkpatrick-model-October-5-2026/main.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove joint functional convergence of the stationary and quench autocorrelations of zero-field Sherrington–Kirkpatrick heat-bath dynamics at inverse temperature β = 1, with the same random limit for Gaussian and Rademacher couplings. Each site has a rate-one clock, mean spin autocorrelations are multiplied by n1/3, and waiting times and lags are measured in units n2/3. The quench starts from independent fair spins, and convergence is uniform on compact sets of positive waiting times and lags. The quench limit is selected by these initial states and relaxes to the stationary limiting autocorrelation as the waiting time tends to infinity.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

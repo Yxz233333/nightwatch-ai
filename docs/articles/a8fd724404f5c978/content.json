@@ -1,0 +1,14 @@
+{
+  "id": "a8fd724404f5c978",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Tame Hecke Eigensheaves with Several Marked Points",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Tame-Hecke-Eigensheaves-with-Several-Marked-Points-October-5-2026/Tame-Hecke-Eigensheaves-with-Several-Marked-Points.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For SLn in characteristic p > n, we construct nonzero locally constructible perverse Hecke eigensheaves with Borel level at two or more marked points on a smooth projective curve of genus at least two over an algebraic closure of a finite field. The parameter is a Zariski-dense geometric ℓ-adic PGLn-local system with unipotent tame monodromy; its nilpotent logarithms may have any Jordan type, including zero. The eigensheaves have parabolic nilpotent singular support, and their eigenisomorphisms retain the full tensor and fusion structure.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

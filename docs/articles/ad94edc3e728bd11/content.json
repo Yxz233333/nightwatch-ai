@@ -1,0 +1,14 @@
+{
+  "id": "ad94edc3e728bd11",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Quantum Depletion for Fixed Bounded Repulsive Potentials",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Quantum-Depletion-for-Fixed-Bounded-Repulsive-Potentials-October-5-2026/fixed-repulsion-quantum-depletion.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the Bogoliubov quantum-depletion asymptotic for the ground state of a three-dimensional Bose gas with a fixed bounded, nonnegative, radial interaction of finite range and positive scattering length a. The thermodynamic limit is taken at each fixed density ρ before the dilute limit. Every thermodynamic accumulation value of the fraction outside the constant mode is $`\\frac{8}{3\\sqrt\\pi}\\sqrt{\\rho a^3}+o(\\sqrt{\\rho a^3})`$ as $`\\rho\\downarrow0`$. The assertion is uniform over ground-state density matrices and does not require the occupation to have a unique thermodynamic limit.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

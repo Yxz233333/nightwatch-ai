@@ -1,0 +1,14 @@
+{
+  "id": "b74121001fa00c2e",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Diagonal Fourier extension for positively curved surfaces in three dimensions",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Diagonal-Fourier-extension-for-positively-curved-surfaces-in-three-dimensions-September-24-2026/Diagonal-Fourier-extension-for-positively-curved-surfaces-in-three-dimensions-September-24-2026.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the diagonal Fourier extension conjecture for compact smooth positively curved surfaces $`\\Sigma\\subset\\mathbb R^3`$, including surfaces with smooth boundary. For every $`3\\lt p\\lt \\infty`$, the extension operator maps $`L^p(\\Sigma)`$ boundedly into $`L^p(\\mathbb R^3)`$. The compact paraboloid case also yields free Schrödinger local smoothing in two spatial dimensions for every $`3\\lt p\\lt \\infty`$ and Sobolev order $`s\\gt 2-6/p`$.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

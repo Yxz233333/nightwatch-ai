@@ -1,0 +1,14 @@
+{
+  "id": "c0ef1b74c0572258",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The Critical Spin Field of the Planar XY Model",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-Critical-Spin-Field-of-the-Planar-XY-Model-October-5-2026/paper.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Using the companion critical Bessel-height and pin-limit theorems, we prove that at the mass-defined critical inverse temperature of the nearest-neighbor XY model on the square lattice, the spin field on a square with boundary angles fixed to zero converges along the full sequence to the full-variance imaginary exponential of a zero-Dirichlet Gaussian free field with stiffness $`2/\\pi`$. The normalization uses the exact center magnetization and the lattice Green-function factor. Convergence holds in law in $`H^{-3}_{\\mathrm{loc}}((-1,1)^2)`$; all mixed moments and joint laws of fields smeared against smooth compactly supported test functions in $`(-1,1)^2`$ converge as well.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

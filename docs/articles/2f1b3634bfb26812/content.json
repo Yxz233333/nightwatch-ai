@@ -1,0 +1,14 @@
+{
+  "id": "2f1b3634bfb26812",
+  "section": "papers",
+  "category": "概率论",
+  "title": "A directional zero–one law for finite-range-dependent random environments",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-directional-zero-one-law-for-finite-range-dependent-random-environments-October-5-2026/directional-zero-one-finite-range.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove a directional zero–one law for uniformly elliptic nearest-neighbor random walks in stationary, ergodic, finite-range-dependent environments on ℤd, d ≥ 3. For every fixed nonzero real direction, the probability of escape in that direction, averaged over the environment, is either zero or one. Finite-range dependence is imposed on the full transition rows: collections of rows at distance greater than a fixed range are independent, including collections indexed by infinite deterministic sets.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

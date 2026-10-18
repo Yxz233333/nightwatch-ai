@@ -1,0 +1,14 @@
+{
+  "id": "0cdcdb29abdfc5d9",
+  "section": "papers",
+  "category": "数论与算术几何",
+  "title": "An asymptotic formula for the number of totients",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/An-asymptotic-formula-for-the-number-of-totients-September-25-2026/An-asymptotic-formula-for-the-number-of-totients-September-25-2026.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Let $`V(x)`$ count the distinct values of Euler's totient function up to x. We give an explicit asymptotic equivalent for $`V(x)`$. Its coefficient is a uniform limit of functions defined from finite arithmetic data. We also prove that $`V(cx)/V(x)\\to c`$ as $`x\\to\\infty`$ for every fixed c > 0, answering a question of Erdős and Hall.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

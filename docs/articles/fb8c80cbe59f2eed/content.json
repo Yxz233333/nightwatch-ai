@@ -1,0 +1,14 @@
+{
+  "id": "fb8c80cbe59f2eed",
+  "section": "papers",
+  "category": "数论与算术几何",
+  "title": "Weighted dilation graphs, smooth shifted primes and totient fibers",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Weighted-Dilation-Graphs-Smooth-Shifted-Primes-and-Totient-Fibers-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove Erdős's conjecture on the largest fibers of Euler's totient function: for every ε > 0, infinitely many positive integers n have more than $`n^{1-\\varepsilon }`$ preimages. We also show that, for every fixed δ > 0, there are at least $`x^{1-o(1)}`$ primes p in $`2x\\lt p\\le5x`$ whose predecessors have no prime factor exceeding xδ.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "a4fdd19ad471655e",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Triple ergodic averages with distinct integer slopes",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Triple-ergodic-averages-with-distinct-integer-slopes-October-4-2026/triple-ergodic-distinct-slopes.pdf",
+  "date": "2026-10-04",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every invertible mixing probability-preserving transformation, triple ergodic averages of bounded measurable functions along any three pairwise distinct nonzero integer slopes converge almost everywhere to the product of their integrals. The slopes may be positive or negative.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

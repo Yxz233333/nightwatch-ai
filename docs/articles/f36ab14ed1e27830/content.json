@@ -1,0 +1,11 @@
+{
+  "id": "f36ab14ed1e27830",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.163.0：任务执行中发送跟进指令",
+  "summary": "运行期间可继续发送要求来调整方向；中断也会停止活动代码单元与嵌套工具。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0",
+  "date": "2026-10-15",
+  "status": "这是 CLI 发布说明；桌面版是否包含同项能力需单独核对。",
+  "interest": []
+}

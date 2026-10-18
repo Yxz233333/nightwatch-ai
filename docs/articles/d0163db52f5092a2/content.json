@@ -1,0 +1,14 @@
+{
+  "id": "d0163db52f5092a2",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The Mahler Conjecture for General Convex Bodies",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-Mahler-Conjecture-for-General-Convex-Bodies-September-22-2026/paper.pdf",
+  "date": "2026-09-22",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We resolve the Mahler conjecture for general convex bodies positively. For every convex body $`K\\subset\\mathbb R^n`$, n ≥ 1, with Santaló point $`s(K)`$, $`|K|\\,|(K-s(K))^\\circ|\\ge (n+1)^{n+1}/(n!)^2`$, with equality exactly for simplices.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

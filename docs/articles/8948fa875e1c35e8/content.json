@@ -1,0 +1,14 @@
+{
+  "id": "8948fa875e1c35e8",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Exact mass asymptotics for the two-dimensional O(4) lattice model",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Exact-mass-asymptotics-for-the-two-dimensional-O4-lattice-model-October-5-2026/exact-mass-o4.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For the nearest-neighbor $`O(4)`$ model on the square lattice at inverse temperature β, we prove the exact low-temperature asymptotic\n\n$`\\displaystyle m_{\\mathrm{lat}}(\\beta)\\sim 32\\exp(\\pi/4-1/2)\\sqrt\\beta\\,\\exp(-\\pi\\beta) \\qquad (\\beta\\to\\infty).`$\n\nHere the mass is the gap of the full Osterwalder–Schrader transfer operator, including rotation-invariant local-observable sectors, in units of one original lattice time step.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

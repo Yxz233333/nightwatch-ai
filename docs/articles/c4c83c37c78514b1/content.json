@@ -1,0 +1,14 @@
+{
+  "id": "c4c83c37c78514b1",
+  "section": "papers",
+  "category": "组合数学与图论",
+  "title": "Monochromatic finite sums and products in the positive integers",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Monochromatic-finite-sums-and-products-in-the-positive-integers-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove Hindman's finite sums and products conjecture: for every finite coloring of the positive integers and every positive integer k, there is a k-element set whose nonempty subset sums and nonempty subset products all have the same color.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

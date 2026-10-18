@@ -1,0 +1,14 @@
+{
+  "id": "2cef71a2901cee4f",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Reconstruction of Function Fields from Mod-ℓ Milnor K-Theory",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Reconstruction-of-Function-Fields-from-Mod-ell-Milnor-K-Theory-October-5-2026/mod-ell-bogomolov-pop.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove a mod-ℓ Bogomolov–Pop reconstruction theorem for function fields of transcendence degree at least two over arbitrary algebraically closed fields of characteristic different from ℓ. The groups $`K^{\\mathrm M}_1/\\ell`$ and $`K^{\\mathrm M}_2/\\ell`$, together with their full bilinear product, determine the perfect closure and its constant field. Every compatible isomorphism of these data is induced by a field isomorphism up to a single scalar in $`\\mathbb F_\\ell^\\times`$, with only Frobenius ambiguity in the field isomorphism in positive characteristic.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

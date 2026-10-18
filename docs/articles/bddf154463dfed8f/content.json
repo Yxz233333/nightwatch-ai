@@ -1,0 +1,14 @@
+{
+  "id": "bddf154463dfed8f",
+  "section": "papers",
+  "category": "数论与算术几何",
+  "title": "Arithmeticity of twisted finite correspondences for lattices over local fields",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Arithmeticity-of-twisted-finite-correspondences-for-lattices-over-local-fields-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove arithmetic exhaustion for bifinite correspondences between arbitrarily scalar-twisted group factors of ICC groups commensurable with property-$`(T)`$ lattices over characteristic-zero local fields and twisted group factors of arbitrary countable ICC groups. Every such correspondence is a closed summand of a finite direct sum of models obtained from actual finite-index subgroup isomorphisms and finite-dimensional projective representations of the matched cocycle ratio. The proof includes reducible products, mixed real and finite places, and quaternionic and Cayley rank-one factors.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

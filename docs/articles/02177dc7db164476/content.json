@@ -1,0 +1,14 @@
+{
+  "id": "02177dc7db164476",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Short Egyptian fractions",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Short-Egyptian-fractions-September-25-2026/Short-Egyptian-fractions-September-25-2026.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove a conjecture of Erdős: for every sufficiently large integer b, every rational number $`a/b`$ with $`1\\le a\\lt b`$ is a sum of $`O(\\log\\log b)`$ distinct positive unit fractions, with an absolute implied constant. This order is best possible when the numerator varies. We also show that both the number of expansions of 1 with exactly k distinct terms and the least integer at least 2 that never occurs as a denominator in such an expansion grow doubly exponentially in k: their double logarithms have order k.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

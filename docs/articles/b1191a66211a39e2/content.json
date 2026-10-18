@@ -1,0 +1,14 @@
+{
+  "id": "b1191a66211a39e2",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A latest-anchor induction with spectrally compact masks for worst-case trace reconstruction",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-latest-anchor-induction-with-spectrally-compact-masks-for-worst-case-trace-reconstruction-October-5-2026/paper.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We give an improved worst-case sample bound for reconstructing a string from independent deletion traces, with its length and retention probability known. For each fixed retention probability, the number of traces is quasipolynomial: the logarithm of the sample budget is $`O((\\log n)^3(1+\\log\\log(2n))^6)`$. If the deletion probability is at most $`n^{-\\varepsilon}`$ for fixed ε > 0, polynomially many traces suffice. These bounds apply to binary strings and to strings of general symbols observed exactly. They concern sample complexity and do not assert an efficient reconstruction algorithm or matching optimality.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

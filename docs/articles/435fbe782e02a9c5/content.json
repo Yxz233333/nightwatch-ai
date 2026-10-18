@@ -1,0 +1,14 @@
+{
+  "id": "435fbe782e02a9c5",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Numerical Semiampleness of Nef Adjoint Divisors",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Numerical-Semiampleness-of-Nef-Adjoint-Divisors-October-3-2026/paper.pdf",
+  "date": "2026-10-03",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the Generalised Abundance Conjecture: if $`(X,B)`$ is a projective klt ℚ-pair over an algebraically closed field of characteristic zero, $`K_X+B`$ is pseudo-effective, M is a nef ℚ-Cartier divisor on X, and $`K_X+B+M`$ is nef, then $`K_X+B+M`$ is numerically equivalent to a semiample ℚ-Cartier divisor on X.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

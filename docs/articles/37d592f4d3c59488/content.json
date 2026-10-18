@@ -1,0 +1,14 @@
+{
+  "id": "37d592f4d3c59488",
+  "section": "papers",
+  "category": "代数几何",
+  "title": "A radial continuum phase transition with algebraic decay",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-radial-continuum-phase-transition-with-algebraic-decay-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct a bounded, continuous, stable radial pair potential in three dimensions with $`|\\phi(r)|\\le Cr^{-3-1/32}`$ for r ≥ 1. Throughout an open interval of positive densities, its canonical thermodynamic free energy is finite at every positive inverse temperature and has a strict downward derivative jump at one common finite positive inverse temperature.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "3cc55032de38d32c",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Continuous Phase Foliations Create Analytic Caustic Collars",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Continuous-Phase-Foliations-Create-Analytic-Caustic-Collars-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For a smooth strictly convex planar billiard of positive curvature, a continuous foliation of a full grazing annulus by individually invariant essential curves forces an analytic boundary and a jointly analytic collar of smooth strictly convex caustics. The physical-collar rigidity theorem proved in the companion article then implies that the table is an ellipse.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "dcdff8a81118cbc6",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Thomason Model Structures in Every Strict Higher Dimension",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Thomason-Model-Structures-in-Every-Strict-Higher-Dimension-September-25-2026/paper.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the higher-dimensional Thomason model-structure conjecture of Ara and Maltsiniotis. For every $`1\\le n\\le\\infty`$, the category of small strict globular n-categories admits a proper combinatorial model structure that is Quillen equivalent to simplicial sets. Its weak equivalences and fibrations are detected by the twice-extended Street nerve $`\\mathrm{Ex}^2N_n`$, and the Quillen equivalence is given by $`c_n\\mathrm{Sd}^2\\dashv\\mathrm{Ex}^2N_n`$. Thus strict higher categories model the homotopy theory of spaces in every positive finite dimension and in dimension ω.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

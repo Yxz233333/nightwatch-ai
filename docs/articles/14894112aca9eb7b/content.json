@@ -1,0 +1,14 @@
+{
+  "id": "14894112aca9eb7b",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Termination of generalized log canonical flips on compact Kähler fourfolds",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Termination-of-generalized-log-canonical-flips-on-compact-Kahler-fourfolds-October-7-2026/termination-generalized-lc-kahler-fourfolds.pdf",
+  "date": "2026-10-07",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Every sequence of generalized log canonical flips on a normal irreducible globally Weil ℚ-factorial compact Kähler fourfold terminates, provided the flips are projective small diagrams with the stated opposite ample signs. The boundary is rational, and the nef b-divisor is fixed and represented by an analytically nef ℚ-Cartier divisor on a projective modification. No scaling rule or pseudo-effectivity assumption is required. The theorem concerns existing flip sequences; it does not assert the existence of all contractions or flips.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

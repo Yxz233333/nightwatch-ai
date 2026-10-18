@@ -1,0 +1,14 @@
+{
+  "id": "34d49af720b7e961",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The Kakeya maximal conjecture in three dimensions",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-Kakeya-maximal-conjecture-in-three-dimensions-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the Kakeya maximal conjecture in three dimensions. For every ε > 0, the maximal average over unit tubes of radius δ maps $`L^3(\\mathbb R^3)`$ to $`L^3(S^2)`$ with norm at most $`C_\\varepsilon\\delta^{-\\varepsilon}`$.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

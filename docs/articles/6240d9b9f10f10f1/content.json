@@ -1,0 +1,14 @@
+{
+  "id": "6240d9b9f10f10f1",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Determination of a metric and a unitary connection from one boundary patch",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Determination-of-a-metric-and-a-unitary-connection-from-one-boundary-patch-October-5-2026/paper.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that zero-frequency boundary measurements on any nonempty open boundary patch determine both a smooth Riemannian metric and a smooth unitary connection on the trivial Hermitian rank-two bundle over a compact connected smooth manifold of dimension at least three with smooth boundary. Both inputs and observations are restricted to the same patch. The metric and connection are determined up to a diffeomorphism and a unitary gauge that restrict to the identity on the measured patch.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

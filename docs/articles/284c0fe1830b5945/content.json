@@ -1,0 +1,14 @@
+{
+  "id": "284c0fe1830b5945",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A Counterexample to Wall's D(2) Problem",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-Counterexample-to-Walls-D2-Problem-October-6-2026/wall-d2-counterexample.pdf",
+  "date": "2026-10-06",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We give a negative answer to Wall's finite $`D(2)`$ problem. We construct a finite connected three-dimensional CW complex satisfying the $`D(2)`$ finiteness condition but not homotopy equivalent to any finite CW complex of dimension at most two. The example has infinite fundamental group.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

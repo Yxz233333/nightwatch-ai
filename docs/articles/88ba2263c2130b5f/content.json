@@ -1,0 +1,14 @@
+{
+  "id": "88ba2263c2130b5f",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Radial transfer estimates and polygon length laws for honeycomb walks",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Radial-transfer-estimates-and-polygon-length-laws-for-honeycomb-walks-September-26-2026/main.pdf",
+  "date": "2026-09-26",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove critical diameter-tail exponents −2 for unrooted honeycomb polygons and −2/3 for length-weighted polygons, together with a truncated second-length-moment bound of exponent 2/3. Consequently, polygons conditioned to have length at least n have diameter $`n^{3/4+o(1)}`$ in probability under either weight.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

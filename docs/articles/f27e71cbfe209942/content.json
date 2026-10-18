@@ -1,0 +1,14 @@
+{
+  "id": "f27e71cbfe209942",
+  "section": "papers",
+  "category": "组合数学与图论",
+  "title": "Planar Graph Metrics Embed into L1 with Constant Distortion",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that every finite connected planar graph with arbitrary positive real edge lengths embeds into real L1 with a universal distortion bound. This resolves the planar embedding conjecture positively.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

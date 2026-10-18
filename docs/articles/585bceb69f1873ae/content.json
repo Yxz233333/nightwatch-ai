@@ -1,0 +1,14 @@
+{
+  "id": "585bceb69f1873ae",
+  "section": "papers",
+  "category": "概率论",
+  "title": "Linear Variance of the Random 3-SAT Hitting Time",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Linear-Variance-of-the-Random-3-SAT-Hitting-Time-October-5-2026/linear-variance-of-the-random-3-sat-hitting-time.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For random 3-SAT on n Boolean variables, with independent uniformly signed clauses on three distinct variables sampled with replacement, we prove that the first unsatisfiable prefix has variance $`\\Theta(n)`$. The upper bound removes the logarithmic loss in the earlier variance estimate; the matching lower bound follows from Wilson's transition-width theorem.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

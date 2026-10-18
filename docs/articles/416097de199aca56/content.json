@@ -1,0 +1,14 @@
+{
+  "id": "416097de199aca56",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Bose–Einstein condensation at positive temperature in the dilute hard-sphere gas",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Bose-Einstein-condensation-at-positive-temperature-in-the-dilute-hard-sphere-gas-October-5-2026/positive-temperature-hard-spheres.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove Bose–Einstein condensation at positive temperature in the three-dimensional dilute hard-sphere gas. For each fixed exclusion distance and every sufficiently small fixed density, there is a strictly positive temperature, independent of the volume, at which the exact canonical Gibbs state has a positive condensate fraction in the thermodynamic limit. The condensate occupies the constant orbital.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

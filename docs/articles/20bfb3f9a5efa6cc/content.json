@@ -1,0 +1,14 @@
+{
+  "id": "20bfb3f9a5efa6cc",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Filtered products and boundary-preserving compression in complex cobordism",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Filtered-products-and-boundary-preserving-compression-in-complex-cobordism-September-25-2026/paper.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that, in sufficiently large smash powers, an $`MU`$-null restriction to a finite pointed subcomplex becomes stably null on the entire union of products with a fixed positive proportion of restricted factors. This coherent vanishing theorem yields boundary-preserving compression of cube-valued maps on every compact metrizable input space. When the torus slot bundle embeds continuously into a trivial bundle of rank less than twice the source rank, the compression places a positive proportion of slots on their boundaries in arbitrarily large powers and fixes every original boundary slot exactly. An example at equality shows that the strict rank inequality cannot be removed.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

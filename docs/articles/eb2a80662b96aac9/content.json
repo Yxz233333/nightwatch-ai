@@ -1,0 +1,14 @@
+{
+  "id": "eb2a80662b96aac9",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Virasoro Constraints under Projectivization",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Virasoro-Constraints-under-Projectivization-October-5-2026/virasoro-constraints-under-projectivization.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that full ordinary descendant Virasoro constraints pass from a smooth projective complex base to the projectivization of any algebraic vector bundle of rank at least two. The bundle need not split and satisfies no positivity requirement. Assuming the full constraints on the base, the conclusion includes every genus, each individual integral curve class, and all cohomology insertions, including primitive and odd classes. The result also applies successively to towers of projective bundles.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

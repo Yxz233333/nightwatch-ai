@@ -1,0 +1,14 @@
+{
+  "id": "60e3d9f81cfaa669",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The ℓ¹-Bass Conjecture for Discrete Groups",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-l1-Bass-Conjecture-for-Discrete-Groups-October-5-2026/l1-bass-conjecture.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the ℓ1-Bass conjecture for every discrete group. The Hattori–Stallings trace of every idempotent matrix over the complex ℓ1 group algebra is supported on finitely many conjugacy classes of finite-order elements.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "abdcbcc5aee25a59",
+  "section": "papers",
+  "category": "组合数学与图论",
+  "title": "Elementary positivity of chromatic quasisymmetric functions",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Elementary-Positivity-of-Chromatic-Quasisymmetric-Functions-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that the chromatic quasisymmetric function of every natural unit interval graph is elementary-positive over $`\\mathbb N[q]`$. This resolves the elementary-positivity part of the Shareshian–Wachs conjecture.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

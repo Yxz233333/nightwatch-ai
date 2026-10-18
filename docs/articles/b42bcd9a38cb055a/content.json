@@ -1,0 +1,14 @@
+{
+  "id": "b42bcd9a38cb055a",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "An integral degree-three Gersten counterexample",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/An-Integral-Degree-Three-Gersten-Counterexample-September-26-2026/paper.pdf",
+  "date": "2026-09-26",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct a two-dimensional ramified regular local ring A in mixed characteristic $`(0,5)`$ for which the integral map $`K_3(A)\\to K_3(\\mathop{\\mathrm{Frac}}\\nolimits A)`$ has nonzero kernel. This gives a negative answer to the unrestricted integral Gersten conjecture.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

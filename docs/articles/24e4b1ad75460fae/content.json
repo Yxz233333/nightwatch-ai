@@ -1,0 +1,14 @@
+{
+  "id": "24e4b1ad75460fae",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Integral Donovan Finiteness over Witt Vectors",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Integral-Donovan-Finiteness-over-Witt-Vectors-September-25-2026/main.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove integral Donovan finiteness: for every prime p and positive integer M, the blocks of all finite groups with defect groups of order at most M have only finitely many Morita equivalence classes over $`W(\\overline{\\mathbb F}_p)`$. The defect groups need not be abelian, and the result includes p = 2. The same bounded-defect finiteness holds over each fixed complete discrete valuation ring of characteristic zero with algebraically closed residue field of characteristic p, including ramified rings.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

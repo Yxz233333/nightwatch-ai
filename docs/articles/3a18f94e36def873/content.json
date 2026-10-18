@@ -1,0 +1,14 @@
+{
+  "id": "3a18f94e36def873",
+  "section": "papers",
+  "category": "数论与算术几何",
+  "title": "Sharp logarithmic exponents for fixed off-diagonal Ramsey numbers",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Sharp-Logarithmic-Exponents-for-Fixed-Off-Diagonal-Ramsey-Numbers-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every fixed integer s ≥ 6, we determine the sharp logarithmic exponent of the off-diagonal Ramsey number:\n\n$`\\displaystyle r(s,t)=\\frac{t^{s-1}}{(\\log t)^{s-2+o(1)}} \\qquad (t\\longrightarrow\\infty).`$",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

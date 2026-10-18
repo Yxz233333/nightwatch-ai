@@ -1,0 +1,14 @@
+{
+  "id": "abf6c8e229cb34d1",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A power improvement in the Heilbronn triangle lower bound",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-power-improvement-in-the-Heilbronn-triangle-lower-bound-September-25-2026/main.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "There are absolute constants $`\\eta,c_1\\gt 0`$ such that, for every sufficiently large integer n, one can choose n points in the unit square so that every triangle they determine has area at least $`c_1n^{-2+\\eta}`$. Thus the almost n−2 upper-bound formulation of Heilbronn's triangle problem is false. The exponent η is fixed but extremely small.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

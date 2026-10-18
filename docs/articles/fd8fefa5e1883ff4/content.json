@@ -1,0 +1,14 @@
+{
+  "id": "fd8fefa5e1883ff4",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Stable self-similar blowup for a supercritical defocusing Schrödinger equation on the torus",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Stable-Self-Similar-Blowup-for-a-Supercritical-Defocusing-Schrodinger-Equation-on-the-Torus-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove stable self-similar finite-time blowup for a supercritical defocusing nonlinear Schrödinger equation on the twelve-dimensional torus. For a sufficiently large odd power, the blowup initial data contain a nonempty open set in a high Sobolev space. As a consequence, Gaussian Fourier initial data of arbitrarily high Sobolev regularity can have positive probability of finite-time blowup.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

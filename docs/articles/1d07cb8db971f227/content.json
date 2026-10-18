@@ -1,0 +1,14 @@
+{
+  "id": "1d07cb8db971f227",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Finite generation for the K(n)-local sphere",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Finite-generation-for-the-Kn-local-sphere-September-24-2026/Finite-generation-for-the-Kn-local-sphere-September-24-2026.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that the homotopy groups of the $`K(n)`$-local sphere are finitely generated ℤp-modules in every integer degree, for every prime p and positive height n. Equivalently, the same conclusion holds after $`K(n)`$-localizing any finite p-local spectrum. This answers the degreewise finiteness question of Hovey and Hovey–Strickland.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

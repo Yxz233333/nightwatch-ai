@@ -1,0 +1,14 @@
+{
+  "id": "d14bba660a347200",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "An exact Hausdorff gauge for SLE",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/An-exact-Hausdorff-gauge-for-SLE-September-25-2026/An-exact-Hausdorff-gauge-for-SLE-September-25-2026.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For each $`0\\lt \\kappa\\lt 8`$, we construct a deterministic Hausdorff gauge that almost surely assigns positive finite measure to every nontrivial compact positive-time segment of chordal Schramm–Loewner evolution. This answers Schramm's Hausdorff-measure existence problem in this parameter range. The entire trace has finite expected gauge measure in each bounded box.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

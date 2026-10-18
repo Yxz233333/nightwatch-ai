@@ -1,0 +1,14 @@
+{
+  "id": "9e52e1a5b3586949",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Ambiently homeomorphic isolated hypersurfaces of multiplicities two and three",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We give a negative answer to the embedded Zariski multiplicity conjecture. We construct two reduced hypersurface germs that are ambiently homeomorphic but have multiplicities two and three. Both have isolated singularities and lie in a common complex affine space of dimension divisible by eight. Their defining function germs are also topologically right equivalent, and the same examples answer Arnold's corank problem negatively for ambient topological equivalence.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

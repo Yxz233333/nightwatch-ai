@@ -1,0 +1,14 @@
+{
+  "id": "ec4f21928ded488e",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Conditional good minimal models for compact Kähler fourfolds",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Conditional-good-minimal-models-for-compact-Kahler-fourfolds-October-6-2026/paper.pdf",
+  "date": "2026-10-06",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Assuming orbifold Iitaka subadditivity and abundance for nef fourfold adjoints of nonnegative Kodaira dimension, we prove the existence of good minimal models for globally strongly ℚ-factorial compact Kähler klt fourfold pairs with effective rational boundary and analytically pseudo-effective actual ℚ-Cartier adjoint. The ordinary fourfold minimal model program supplies the nef endpoint. We prove nonvanishing by fibration arguments and, in algebraic dimension zero, by singular metrics, holomorphic foliations, and extension from a reduced boundary. The projective abundance argument used in the proof is included in full.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

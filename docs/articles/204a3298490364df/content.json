@@ -1,0 +1,14 @@
+{
+  "id": "204a3298490364df",
+  "section": "papers",
+  "category": "代数几何",
+  "title": "The equivariant cohomological Hikita conjecture for arbitrary quivers",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-equivariant-cohomological-Hikita-conjecture-for-arbitrary-quivers-September-24-2026/main.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the equivariant cohomological Hikita conjecture for arbitrary finite quivers, including loops and multiple arrows. For any dimension and framing vectors, any commuting flavor torus, and a stability character whose semistable locus is stable and has free gauge action, the equivariant cohomology of the Nakajima variety is canonically isomorphic to the coordinate ring of the scheme-theoretic fixed locus of the stability cocharacter on the flavor-deformed Coulomb branch. This is an isomorphism of graded algebras over the common coefficient ring, retaining nilpotents and including the empty case.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

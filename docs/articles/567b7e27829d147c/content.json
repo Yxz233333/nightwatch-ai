@@ -1,0 +1,14 @@
+{
+  "id": "567b7e27829d147c",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A power saving for intersective polynomial differences with an exponent depending only on the degree",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-power-saving-for-intersective-polynomial-differences-with-an-exponent-depending-only-on-the-degree-October-5-2026/power-saving-intersective-polynomial-differences.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "An integer polynomial is intersective if it has a root modulo every positive integer. For each degree k ≥ 2, we prove that there is an exponent $`c_k\\gt 0`$ such that every set $`A\\subseteq\\{1,\\ldots,N\\}`$ whose differences avoid all nonzero values $`h(1),h(2),\\ldots`$, where h is an intersective polynomial of degree k with positive leading coefficient, satisfies $`|A|=O_h(N^{1-c_k})`$. The implied constant may depend on h, but the power-saving exponent depends only on its degree.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

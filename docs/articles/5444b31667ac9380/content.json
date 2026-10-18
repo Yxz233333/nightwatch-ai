@@ -1,0 +1,14 @@
+{
+  "id": "5444b31667ac9380",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Hyperbolicity Cones Without Semidefinite Lifts",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Hyperbolicity-Cones-Without-Semidefinite-Lifts-October-5-2026/nonliftable-hyperbolicity.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that not every hyperbolicity cone is a spectrahedral shadow: some closed hyperbolicity cones admit no finite affine semidefinite lift, even with arbitrary real coefficients and any finite number of auxiliary variables. This disproves the Projected Lax Conjecture and hence the generalized Lax conjecture.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

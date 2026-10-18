@@ -1,0 +1,14 @@
+{
+  "id": "2fab6e9bd383a939",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Full support of the zero-temperature Sherrington-Kirkpatrick order parameter",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Full-support-of-the-zero-temperature-Sherrington-Kirkpatrick-order-parameter-September-27-2026/main.pdf",
+  "date": "2026-09-27",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that every admissible integrable minimizer of the zero-temperature Parisi functional for the pure, zero-field Sherrington–Kirkpatrick model has full relative Stieltjes support on $`[0,1)`$. Thus its support has no gaps at any overlap scale below one. We use the covariance normalization $`\\xi(t)=t^2/2`$.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

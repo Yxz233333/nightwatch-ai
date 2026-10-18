@@ -1,0 +1,14 @@
+{
+  "id": "e275a6af0c6637b7",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Cuntz comparison and Jiang–Su absorption",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Cuntz-comparison-and-Jiang-Su-absorption-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that strict comparison in the extended-functional sense implies Jiang–Su absorption for separable simple nuclear non-elementary C∗-algebras. This resolves the corresponding implication of the Toms–Winter regularity problem, including nonunital algebras and allowing unbounded traces. More generally, every separable nuclear C∗-algebra whose Cuntz semigroup is almost unperforated and fully almost divisible absorbs the Jiang–Su algebra.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

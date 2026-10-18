@@ -1,0 +1,82 @@
+{
+  "syncedAt": "2026-10-18T15:04:18.863Z",
+  "articles": [
+    {
+      "id": "ec2c4a3eaf0e49ce",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "ChatGPT 支持协作制作幻灯片",
+      "summary": "可以从对话、文件或提纲制作演示，并在 Space 中协作修改和导出。",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "date": "2026-10-16",
+      "status": "官方已宣布；账户、套餐、客户端和灰度范围以原文为准。",
+      "interest": []
+    },
+    {
+      "id": "0eb4b6a5c20c84a1",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "GPT-6 Pro 更新工具使用与并行能力",
+      "summary": "官方公布响应速度、工具调用与多代理任务能力的更新。",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "date": "2026-10-16",
+      "status": "官方已宣布；账户、套餐、客户端和灰度范围以原文为准。",
+      "interest": []
+    },
+    {
+      "id": "43e5f3b574e9f556",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "语音上线 GPT-Live-1.1 与新声音",
+      "summary": "语音模型和多语言声音选项更新，具体可用项因账户与地区而异。",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "date": "2026-10-15",
+      "status": "官方已宣布；账户、套餐、客户端和灰度范围以原文为准。",
+      "interest": []
+    },
+    {
+      "id": "0bdaf0d22e1d8185",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "Sites 取消固定创建数量上限",
+      "summary": "使用量和存储限制仍然适用。",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "date": "2026-10-15",
+      "status": "官方已宣布；账户、套餐、客户端和灰度范围以原文为准。",
+      "interest": []
+    },
+    {
+      "id": "ff6044024c7f9fc4",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "GPT-6 与交互式回答界面",
+      "summary": "回答可组合文字、图像和可交互工具，并在继续思考时逐步展示结果。",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "date": "2026-10-07",
+      "status": "官方已宣布；账户、套餐、客户端和灰度范围以原文为准。",
+      "interest": []
+    },
+    {
+      "id": "6554d0e05c6b49d3",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "ChatGPT 支持音频文件上传",
+      "summary": "上传录音后可转写、总结和提问；转写结果仍需核对。",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "date": "2026-10-06",
+      "status": "官方已宣布；账户、套餐、客户端和灰度范围以原文为准。",
+      "interest": []
+    },
+    {
+      "id": "e146870fec1ba434",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "手机相机支持连续扫描文档",
+      "summary": "iOS 逐步开放多页扫描并自动合并 PDF。",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "date": "2026-10-01",
+      "status": "官方已宣布；账户、套餐、客户端和灰度范围以原文为准。",
+      "interest": []
+    }
+  ]
+}

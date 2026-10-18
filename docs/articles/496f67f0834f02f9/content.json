@@ -1,0 +1,14 @@
+{
+  "id": "496f67f0834f02f9",
+  "section": "papers",
+  "category": "数论与算术几何",
+  "title": "Cycle--clique Ramsey numbers",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Cycle-clique-Ramsey-numbers-September-25-2026/Cycle-clique-Ramsey-numbers-September-25-2026.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that $`R(C_m,K_n)=(m-1)(n-1)+1`$ for every pair of integers $`m\\ge n\\ge3`$ other than $`(m,n)=(3,3)`$, for which $`R(C_3,K_3)=6`$. This establishes the cycle–clique conjecture of Erdős, Faudree, Rousseau and Schelp. The proof combines expansion in a minimal counterexample with a large-clique lemma and an optimization of paths joining clique vertices. These arguments reduce the remaining cases to $`3{,}099`$ finite parameter-pattern instances, which are excluded by two exact implementations of proved inference rules. Complete programs and deduction traces accompany the paper.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

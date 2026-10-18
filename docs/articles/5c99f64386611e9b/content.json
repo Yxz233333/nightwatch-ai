@@ -1,0 +1,14 @@
+{
+  "id": "5c99f64386611e9b",
+  "section": "papers",
+  "category": "数论与算术几何",
+  "title": "Failure of finite assembly for a chromatic overlap at the prime three",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Failure-of-finite-assembly-for-a-chromatic-overlap-at-the-prime-three-September-25-2026/paper.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "At the prime three and height three, the chromatic overlap cannot be constructed from the rational, height-one, and height-two local spheres by finitely many sums, shifts, cofibers, and retracts in the category of $`E(2)`$-local modules over the derived 3-complete sphere. This gives a negative answer to the ordinary finite-assembly question for chromatic overlaps.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

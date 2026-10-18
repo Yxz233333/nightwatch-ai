@@ -1,0 +1,14 @@
+{
+  "id": "ba0836b195a7681a",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The joint Dickman law for consecutive integers",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-joint-Dickman-law-for-consecutive-integers-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Let $`P^+(n)`$ denote the largest prime factor of n. We prove that $`\\log P^+(n)/\\log n`$ and $`\\log P^+(n+1)/\\log n`$ are asymptotically independent in ordinary natural density, with Dickman marginals. This resolves the Erdős–Pomerance joint Dickman conjecture positively and implies that the ordering $`P^+(n)\\lt P^+(n+1)`$ has natural density 1/2.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

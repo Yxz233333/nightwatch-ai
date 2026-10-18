@@ -1,0 +1,14 @@
+{
+  "id": "405d9592e838157c",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Cutoff throughout the high-temperature Sherrington–Kirkpatrick phase",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Cutoff-throughout-the-high-temperature-Sherrington-Kirkpatrick-phase-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove worst-case total-variation cutoff for the zero-field Gaussian Sherrington–Kirkpatrick heat-bath dynamics at every fixed inverse temperature $`0\\leq\\beta\\lt 1`$. With rate-one refresh at each spin, the cutoff location is $`\\log n/(2\\lambda(\\beta))`$ for a positive deterministic rate $`\\lambda(\\beta)`$. The location for uniformly chosen single-site update attempts is n times as large. Convergence is in probability over the disorder.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

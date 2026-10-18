@@ -1,0 +1,11 @@
+{
+  "id": "da737e837697608c",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.163.0：使用 /config 搜索并修改偏好",
+  "summary": "支持跨分类搜索设置，并区分立即生效和需要重启的修改。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0",
+  "date": "2026-10-15",
+  "status": "这是 CLI 发布说明；桌面版是否包含同项能力需单独核对。",
+  "interest": []
+}

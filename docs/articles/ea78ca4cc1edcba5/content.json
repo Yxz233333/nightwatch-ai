@@ -1,0 +1,14 @@
+{
+  "id": "ea78ca4cc1edcba5",
+  "section": "papers",
+  "category": "组合数学与图论",
+  "title": "Almost-Linear-Time Maximum-Cardinality Matching in General Graphs",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Almost-Linear-Time-Maximum-Cardinality-Matching-in-Sparse-General-Graphs-September-24-2026/main.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that maximum-cardinality matching in a simple undirected graph with n vertices and m edges can be found by one uniform randomized algorithm in $`(n+m)^{1+o(1)}`$ time. The bound holds on every computation path in a logarithmic-word model, and the algorithm returns an explicit maximum matching with probability at least 2/3. An explicit reduction gives the same time and probability guarantees for deciding whether a simple host graph has a spanning subgraph with prescribed valid vertex degrees, and for finding one when it exists.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "71699e9abc413cf7",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The critical Liouville quantum sphere and geometric limits of FK maps at q=4",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-critical-Liouville-quantum-sphere-and-geometric-limits-of-FK-maps-at-q-equals-4-September-24-2026/main.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct the field and area law of the unit-area critical Liouville quantum sphere as a limit of ordinary subcritical quantum spheres, and equip it with its critical intrinsic metric. We then prove that spherical Fortuin–Kasteleyn planar maps at q = 4, embedded by their equilateral flag uniformizations, converge jointly to this sphere decorated by an independent nested conformal loop ensemble CLE4. With deterministic distance normalization, the convergence includes the area measure, the full embedded distance function, and every macroscopic interface through all positive integer edge counts.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

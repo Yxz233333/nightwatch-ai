@@ -1,0 +1,14 @@
+{
+  "id": "44c50e2741ad7955",
+  "section": "papers",
+  "category": "代数几何",
+  "title": "Near Inclusions of von Neumann Algebras Without Small Spatial Embeddings",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Near-Inclusions-of-von-Neumann-Algebras-Without-Small-Spatial-Embeddings-October-5-2026/near-inclusions.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We give a negative answer to the unrestricted small-spatial-embedding problem for one-sided near inclusions of von Neumann algebras. On separable complex Hilbert spaces, we construct pairs of unital von Neumann algebras with common identity whose one-sided gaps tend to zero. Spatial embeddings of the source into the target exist, but every implementing unitary stays a fixed positive distance from the identity. The obstruction therefore concerns small implementing unitaries, rather than the existence of spatial embeddings.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

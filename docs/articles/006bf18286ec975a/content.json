@@ -1,0 +1,14 @@
+{
+  "id": "006bf18286ec975a",
+  "section": "papers",
+  "category": "理论计算机科学",
+  "title": "Finite Monoid Computations and a Uniform Generalized Star-Height Bound",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Finite-Monoid-Computations-and-a-Uniform-Generalized-Star-Height-Bound-September-25-2026/Finite-Monoid-Computations-and-a-Uniform-Generalized-Star-Height-Bound-September-25-2026.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Every regular language over a finite alphabet has a generalized regular expression of star height at most thirteen over that same alphabet. We prove this uniform bound by representing finite monoid computations as affine updates and recovering them through twelve successive split constructions.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "a965d79c02beaeab",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The Hilbert–Smith conjecture in every finite dimension",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the Hilbert–Smith conjecture in every finite dimension: every locally compact second-countable Hausdorff group acting faithfully and jointly continuously on a connected Hausdorff second-countable finite-dimensional topological manifold without boundary is a Lie group.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

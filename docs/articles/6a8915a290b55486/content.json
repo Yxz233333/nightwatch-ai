@@ -1,0 +1,14 @@
+{
+  "id": "6a8915a290b55486",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A torsion-free counterexample to the Kadison–Kaplansky projection conjecture",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-Torsion-Free-Counterexample-to-the-Kadison-Kaplansky-Projection-Conjecture-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct a finitely generated torsion-free discrete group whose reduced group C∗-algebra contains a projection other than zero and the identity. This disproves the Kadison–Kaplansky projection conjecture.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

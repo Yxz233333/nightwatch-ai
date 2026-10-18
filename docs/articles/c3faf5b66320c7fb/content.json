@@ -1,0 +1,14 @@
+{
+  "id": "c3faf5b66320c7fb",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Gaussian free-field limits of weighted integer Lipschitz heights",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Gaussian-free-field-limits-of-weighted-integer-Lipschitz-heights-October-6-2026/paper.pdf",
+  "date": "2026-10-06",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove a Gaussian free field scaling limit for weighted integer Lipschitz heights on the triangular lattice. With zero boundary values and a factor x for each edge on which the height changes, the field converges after division by a positive constant depending only on x to the zero-Dirichlet Gaussian free field, for every fixed $`x\\in[1/\\sqrt2,1]`$. The convergence holds as a random distribution on every bounded C2 Jordan domain under inside lattice approximations with uniformly convergent boundary parametrizations. This includes the uniform height model and the predicted critical endpoint.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

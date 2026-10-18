@@ -1,0 +1,14 @@
+{
+  "id": "ec8e1cc3376b86b2",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A boundary-only obstruction to four-dimensional disk embedding",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-boundary-only-obstruction-to-four-dimensional-disk-embedding-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We disprove the four-dimensional disc embedding conjecture without a fundamental-group hypothesis, even when no homotopy classes or output framings are prescribed. We construct a compact oriented smooth four-manifold containing finitely many disc maps with framed algebraic dual spheres whose boundary circles bound no disjoint locally flat discs. Consequently, the free group on two generators is not good in the sense of Freedman–Quinn, and neither is any group containing it as a subgroup.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

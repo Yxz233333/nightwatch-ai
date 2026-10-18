@@ -1,0 +1,14 @@
+{
+  "id": "e9bde8a6dfdbb6ac",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The reverse logarithmic Kodaira inequality and additivity",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-reverse-logarithmic-Kodaira-inequality-and-additivity-September-26-2026/paper.pdf",
+  "date": "2026-09-26",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the reverse logarithmic Kodaira inequality for a surjective connected-fiber morphism $`f:(X,E)\\to(Y,D)`$ of smooth projective reduced simple-normal-crossing pairs, with $`\\mathop{\\mathrm{Supp}}\\nolimits (f^*D)\\subseteq\\mathop{\\mathrm{Supp}}\\nolimits E`$, such that X and every boundary stratum are smooth over $`Y\\setminus\\mathop{\\mathrm{Supp}}\\nolimits D`$. Together with logarithmic subadditivity, the inequality gives additivity, including both negative-infinity cases. This resolves Popa's logarithmic additivity conjecture positively in the projective reduced-SNC, stratum-smooth setting.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,11 @@
+{
+  "id": "08402ae92a9ee122",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.162.1 发布",
+  "summary": "官方已发布该版本，修复和详细变化见原始发布说明。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.1",
+  "date": "2026-10-09",
+  "status": "CLI 稳定版本。",
+  "interest": []
+}

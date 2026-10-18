@@ -1,0 +1,14 @@
+{
+  "id": "7322d3018d5ac896",
+  "section": "papers",
+  "category": "组合数学与图论",
+  "title": "Cyclic length and chromatic fixed-point loss",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Cyclic-Length-and-Chromatic-Fixed-Point-Loss-September-24-2026/Cyclic-Length-and-Chromatic-Fixed-Point-Loss-September-24-2026.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For a finite p-group G and a subgroup H, we prove that the optimal chromatic fixed-point loss equals the shortest length of a subnormal chain from H to G with cyclic quotients. The equality holds at every prime and every nonnegative height, resolving positively the equality proposed by Kuhn and Lloyd.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

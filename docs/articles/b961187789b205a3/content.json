@@ -1,0 +1,11 @@
+{
+  "id": "b961187789b205a3",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "输入框预测：Tab 接受下一条提示建议",
+  "summary": "测试版可在输入框建议后续消息，接受后仍需自行发送。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+  "date": "2026-10-09",
+  "status": "Beta；符合条件的成年个人 Pro 用户，需最新桌面版和受支持模型。",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "f71140ed820fcadd",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A counterexample to the Monge ansatz for the three-marginal Coulomb cost",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-counterexample-to-the-Monge-ansatz-for-the-three-marginal-Coulomb-cost-September-25-2026/paper.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct a smooth compactly supported probability density on ℝ3, with a smooth compactly supported square root, for which the three-marginal Coulomb transport minimum is not attained by any pair of measure-preserving Borel maps. Nevertheless, the Monge and Kantorovich infima agree: we construct preserving maps whose costs approach the Kantorovich minimum. For every d ≥ 2 and s > 0, we also construct a smooth identical marginal with the same nonattainment and equality-of-infima properties for the inverse-power interaction $`\\sum_{i\\lt j}|x_i-x_j|^{-s}`$ on ℝd.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

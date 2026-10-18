@@ -1,0 +1,14 @@
+{
+  "id": "9304910d9f06cc4b",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Rational homology and Quillen's conjecture",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Rational-homology-and-Quillens-conjecture-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove Quillen's conjecture for all finite groups and all primes. More precisely, if a finite group G has trivial largest normal p-subgroup $`O_p(G)`$, then the poset of nontrivial elementary abelian p-subgroups of G has nonzero augmented reduced rational homology. This establishes the stronger rational-homology form of the conjecture.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

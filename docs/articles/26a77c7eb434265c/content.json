@@ -1,0 +1,14 @@
+{
+  "id": "26a77c7eb434265c",
+  "section": "papers",
+  "category": "几何与拓扑",
+  "title": "Deforming hypersymplectic four-manifolds to hyperkähler triples",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Deforming-hypersymplectic-four-manifolds-to-hyperkahler-triples-October-7-2026/paper.pdf",
+  "date": "2026-10-07",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Every smooth normalized positive triple of closed two-forms on a closed connected oriented four-manifold admits a smooth deformation, with each cohomology class fixed, to a hyperkähler triple. This resolves Donaldson's hypersymplectic deformation conjecture.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

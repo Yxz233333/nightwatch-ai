@@ -1,0 +1,14 @@
+{
+  "id": "6af81c4b06bb0c74",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Weak pure infiniteness and O-infinity absorption",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Weak-pure-infiniteness-and-O-infinity-absorption-September-25-2026/paper.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that every complex C∗-algebra in which each positive element is properly infinite is strongly purely infinite. This answers the ordinary-to-strong part of Kirchberg–Rørdam's comparison question. For exact algebras, we also prove that proper infiniteness of one fixed finite amplification of every positive element implies proper infiniteness of each positive element. Consequently, every separable nuclear algebra with this fixed-amplification property absorbs $`\\mathcal O_\\infty`$, without assumptions of unitality or simplicity.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "3f53670bf1a271ab",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Generalized Cartan–Hadamard isoperimetry and Euclidean equality rigidity",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We resolve the generalized Cartan–Hadamard isoperimetric conjecture in every dimension. In a complete simply connected smooth manifold with sectional curvature at most κ ≤ 0, every finite-volume set of finite ambient perimeter has perimeter at least that of the equal-volume ball in curvature κ. For bounded positive-volume sets, equality in the Euclidean comparison holds precisely when the set agrees up to null sets with an open region isometric, with its induced metric, to a round Euclidean ball.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

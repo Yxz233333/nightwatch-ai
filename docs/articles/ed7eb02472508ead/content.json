@@ -1,0 +1,14 @@
+{
+  "id": "ed7eb02472508ead",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The entropy-rate dimension formula for self-similar measures on the line",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-entropy-rate-dimension-formula-for-self-similar-measures-on-the-line-September-24-2026/main.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that the Hausdorff dimension of every finite real self-similar measure equals the minimum of one and its random-walk entropy rate divided by its Lyapunov exponent. Exact overlaps are allowed, and the contraction ratios may be unequal and negative. This resolves the entropy-rate dimension conjecture.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

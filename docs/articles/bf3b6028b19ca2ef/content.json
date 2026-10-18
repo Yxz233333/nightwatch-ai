@@ -1,0 +1,14 @@
+{
+  "id": "bf3b6028b19ca2ef",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Minimal metrics and interior injectivity for nef adjoints",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Minimal-metrics-and-interior-injectivity-for-nef-adjoints-September-27-2026/paper.pdf",
+  "date": "2026-09-27",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Let $`(H,\\Theta)`$ be a projective complex klt pair with effective rational boundary and nef ℚ-Cartier adjoint. On any projective log resolution, minimal semipositive metrics on the pulled-back adjoint exist and have zero Lelong numbers everywhere. On smooth projective complex varieties, we also prove an H1-injectivity theorem for rational interior boundaries with simple-normal-crossing support when both endpoint bundles carry zero-Lelong semipositive metrics.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

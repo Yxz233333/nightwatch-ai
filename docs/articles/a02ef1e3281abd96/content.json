@@ -1,0 +1,14 @@
+{
+  "id": "a02ef1e3281abd96",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The Kerr–Newman Penrose Inequality for Axisymmetric Electrovacuum Exteriors",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-Kerr-Newman-Penrose-Inequality-for-Axisymmetric-Electrovacuum-Exteriors-October-5-2026/paper.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the sharp Kerr–Newman Penrose inequality\n\n$`\\displaystyle m^2\\ge \\frac{A}{16\\pi}+\\frac{Q^2}{2} +\\frac{\\pi(Q^4+4J^2)}{A}.`$\n\nHere $`Q^2=Q_e^2+Q_b^2`$, and J is the conserved total angular momentum, including its electromagnetic contribution. The result applies to smooth axisymmetric electrovacuum exteriors in the stated one-ended topological and decay class, with a connected outermost, outer-area-minimizing future marginally outer trapped boundary, Coulomb electromagnetic asymptotics, zero ADM momentum, and the explicitly assumed physical-area condition $`A\\ge4\\pi\\sqrt{Q^4+4J^2}`$. No maximality assumption is made. On the strict area branch, equality within this class characterizes the original data as an admissible spacelike exterior slice of a subextremal dyonic Kerr–Newman spacetime, with the boundary mapped smoothly to a future-horizon cross-section or the bifurcation sphere.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

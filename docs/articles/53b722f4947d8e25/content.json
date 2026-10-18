@@ -1,0 +1,14 @@
+{
+  "id": "53b722f4947d8e25",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Brennan's conjecture and sharp inverse-square integral means",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Brennans-conjecture-and-sharp-inverse-square-integral-means-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove Brennan's conjecture: if a simply connected plane domain admits a conformal bijection φ onto the unit disk, then $`|\\varphi'|^s`$ is area-integrable for every $`4/3\\lt s\\lt 4`$. We also prove the sharp inverse-square integral-means exponent $`B_{\\mathcal S}(-2)=1`$ for the normalized schlicht class $`\\mathcal S`$.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

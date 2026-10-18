@@ -1,0 +1,14 @@
+{
+  "id": "b5320509f9d75313",
+  "section": "papers",
+  "category": "数论与算术几何",
+  "title": "The hypercube Ramsey number has linear order",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-hypercube-Ramsey-number-has-linear-order-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that the two-color Ramsey number of the n-dimensional binary cube is at most $`C2^n`$, where C is an absolute constant. This resolves positively the hypercube Ramsey conjecture of Burr and Erdős.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

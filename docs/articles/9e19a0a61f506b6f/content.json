@@ -1,0 +1,14 @@
+{
+  "id": "9e19a0a61f506b6f",
+  "section": "papers",
+  "category": "概率论",
+  "title": "Brownian continuum random tree limits of finite Fortuin–Kasteleyn maps above four",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Brownian-continuum-random-tree-limits-of-finite-Fortuin-Kasteleyn-maps-above-four-September-24-2026/main.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the finite-volume continuum-random-tree prediction for critical Fortuin–Kasteleyn planar maps at every fixed q > 4. After rescaling graph distances by a constant times n−1/2, an n-edge map with normalized degree measure converges to the Brownian continuum random tree in the Gromov–Hausdorff–Prokhorov topology. The convergence holds through all positive integer sizes.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

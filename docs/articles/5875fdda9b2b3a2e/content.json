@@ -1,0 +1,14 @@
+{
+  "id": "5875fdda9b2b3a2e",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Threshold parallel repetition for finite-dimensional entangled games",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Threshold-parallel-repetition-for-finite-dimensional-entangled-games-September-25-2026/paper.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every finite two-player game with entangled value v < 1, we prove exponential decay for the probability of winning at least a $`v+\\delta`$ fraction of k independent repetitions, uniformly over all finite-dimensional joint strategies. The result allows arbitrary correlated question distributions and holds for every $`0\\lt \\delta\\lt 1-v`$ and k ≥ 1. Its universal rate is proportional to $`\\delta^5/(1+\\log(|\\mathcal A||\\mathcal B|))`$, where $`\\mathcal A,\\mathcal B`$ are the answer alphabets. For each fixed question distribution, we also obtain an explicit cubic rate in δ.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

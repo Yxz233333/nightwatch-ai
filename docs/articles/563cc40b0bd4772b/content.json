@@ -1,0 +1,14 @@
+{
+  "id": "563cc40b0bd4772b",
+  "section": "papers",
+  "category": "代数几何",
+  "title": "A Conditional Reduction for Algebraic Kuga–Satake Correspondences",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-Conditional-Reduction-for-Algebraic-Kuga-Satake-Correspondences-September-10-2026/paper.pdf",
+  "date": "2026-09-10",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For a polarized K3 surface whose primitive cohomology has full orthogonal Hodge group, one algebraic correspondence inducing a nonzero map from that cohomology to the second cohomology of an abelian variety suffices to recover the prescribed full Kuga–Satake correspondence. We give an equivalent condition using holomorphic one-forms on a generically finite surface cover. If this input holds very generally in a polarized component, the prescribed correspondence is algebraic throughout that component, for every choice of standard data on the transcendental part. The existence of the initial correspondence remains a hypothesis.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

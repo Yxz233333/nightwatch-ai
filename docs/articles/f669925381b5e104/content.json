@@ -1,0 +1,14 @@
+{
+  "id": "f669925381b5e104",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "An FPRAS for Common Integer Polymatroid Bases with Binary Capacities",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/polymatroid-fpras.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We give a fully polynomial randomized approximation scheme for counting common integer bases of two polymatroids with the same total rank, supplied by exact rank-value oracles. The total rank and capacities are encoded in binary, and each integer vector is counted once. On every execution, the number of oracle calls and the bit work outside the oracles are bounded by a fixed polynomial in the ground-set size, the binary input length, the inverse relative-error tolerance, and the logarithm of the inverse failure probability. The algorithm handles binary capacities directly, without expanding them into labelled copies.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

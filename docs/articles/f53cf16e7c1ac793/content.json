@@ -1,0 +1,14 @@
+{
+  "id": "f53cf16e7c1ac793",
+  "section": "papers",
+  "category": "数论与算术几何",
+  "title": "Goldfeld's analytic density conjecture and the 2-converse for elliptic curves",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Goldfelds-analytic-density-conjecture-and-the-2-converse-for-elliptic-curves-October-7-2026/paper.pdf",
+  "date": "2026-10-07",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove Goldfeld's analytic density conjecture: for every elliptic curve E over ℚ, the quadratic twists of E with analytic rank zero and one each have density 1/2 among signed squarefree twist parameters ordered by absolute value. We also prove the low-corank 2-converse: if the $`2^\\infty`$-Selmer corank of E is zero or one, then it equals the analytic and Mordell–Weil ranks, and the Tate–Shafarevich group is finite.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "07c2fe990ea21dcd",
+  "section": "papers",
+  "category": "偏微分方程",
+  "title": "Invariant anticanonical indices and conversion of twisted differentials",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Invariant-anticanonical-indices-and-conversion-of-twisted-differentials-September-26-2026/main.pdf",
+  "date": "2026-09-26",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For a holomorphic action of a compact torus on a compact complex manifold, we prove that the invariant Euler characteristic of naturally linearized anticanonical powers is polynomial on a divisible progression, with its actual value at exponent zero. Independently, on a smooth projective variety with smoothly semipositive anticanonical bundle, we remove a fixed pseudoeffective error from an unbounded sequence of effective twists. These results convert invariant cohomology into twisted differential forms and prove anticanonical nonvanishing on smooth projective varieties with smoothly semipositive anticanonical bundle, by descending the forms before conversion.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

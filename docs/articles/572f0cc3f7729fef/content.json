@@ -1,0 +1,14 @@
+{
+  "id": "572f0cc3f7729fef",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A dimension-free logarithmic Sobolev inequality for subgaussian log-concave measures",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-dimension-free-logarithmic-Sobolev-inequality-for-subgaussian-log-concave-measures-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that every centered log-concave probability measure with a Lebesgue density on ℝn and linear subgaussian parameter a satisfies $`\\mathop{\\mathrm{Ent}}\\nolimits _\\mu(f^2)\\le Ca^2\\int|Df|^2\\,d\\mu`$ for compactly supported smooth f, with one universal constant C. This resolves positively the dimension-free logarithmic Sobolev conjecture for subgaussian log-concave measures.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

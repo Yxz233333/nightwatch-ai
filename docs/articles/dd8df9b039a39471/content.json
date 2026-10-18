@@ -1,0 +1,14 @@
+{
+  "id": "dd8df9b039a39471",
+  "section": "papers",
+  "category": "理论计算机科学",
+  "title": "Finite tensor savings and exact Fourier circuits",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Finite-tensor-savings-and-exact-Fourier-circuits-September-25-2026/main.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct exact nonuniform Fourier circuits of size $`o(n\\log n)`$ along an unbounded sequence of lengths, counting every addition, subtraction, and scalar multiplication. This refutes the $`\\Omega(n\\log n)`$ lower bound in the unrestricted complex linear-circuit model. The construction uses a finite tensor saving: a tensor power of some invertible nonmonomial complex matrix can be computed with fewer matrix calls than the standard tensor-axis algorithm on the same coordinates, when invertible monomial maps are allowed freely between calls.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

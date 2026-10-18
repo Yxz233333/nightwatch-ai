@@ -1,0 +1,14 @@
+{
+  "id": "1108c1ccb2cafcdd",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Uniform bounds for planar polynomial limit cycles",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/uniform-bounds-for-planar-polynomial-limit-cycles-September-24-2026/uniform-bounds-for-planar-polynomial-limit-cycles-September-24-2026.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every degree, we prove that the number of isolated periodic orbits of a real planar polynomial vector field is bounded by a finite constant depending only on that degree. This establishes the uniform boundedness assertion in the second part of Hilbert's sixteenth problem. The proof uses separation of asymptotic expansions on nested complex domains and a finite-dimensional counting argument.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

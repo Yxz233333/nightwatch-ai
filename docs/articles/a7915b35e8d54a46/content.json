@@ -1,0 +1,14 @@
+{
+  "id": "a7915b35e8d54a46",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Lifting sections from the reduced support of an adjoint",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Lifting-sections-from-the-reduced-support-of-an-adjoint-September-27-2026/paper.pdf",
+  "date": "2026-09-27",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For a projective ℚ-factorial dlt pair with effective rational boundary over an algebraically closed field of characteristic zero, we prove that the adjoint has positive Iitaka dimension whenever a nonzero effective Cartier multiple is supported on the coefficient-one boundary and restricts to a semiample line bundle on its whole reduced support. This gives log abundance after nonvanishing in dimension at most four over ℂ.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

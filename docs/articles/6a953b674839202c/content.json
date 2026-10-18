@@ -1,0 +1,14 @@
+{
+  "id": "6a953b674839202c",
+  "section": "papers",
+  "category": "数论与算术几何",
+  "title": "Arithmetic Stein-degree bounds for log Calabi–Yau pairs",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Arithmetic-Stein-degree-bounds-for-log-Calabi-Yau-pairs-September-25-2026/paper.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Fix d ≥ 1 and t > 0. Let $`(X,B)`$ be an ordinary projective log canonical ℚ-pair of dimension d over a characteristic-zero field k, with X normal and integral, $`H^0(X,\\mathcal O_X)=k`$, B effective, and $`K_X+B\\sim_{\\mathbb Q}0`$. We prove that every prime component S of B with coefficient at least t satisfies $`[k_S:k]\\leq N(d,t)`$, where kS is the relative algebraic closure of k in $`k(S)`$. This also bounds the Stein degree of S over k, proving the contraction-to-a-point formulation of Birkar's Stein-degree conjecture for ordinary ℚ-pairs.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

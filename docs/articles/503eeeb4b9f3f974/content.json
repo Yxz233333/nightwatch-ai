@@ -1,0 +1,14 @@
+{
+  "id": "503eeeb4b9f3f974",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The Isoperimetric Conjecture for the Cubic Flat Three-Torus",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-Isoperimetric-Conjecture-for-the-Cubic-Flat-Three-Torus-September-24-2026/article.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the isoperimetric conjecture for the cubic flat three-torus and classify all minimizers, including the equality cases at the transition volumes $`4\\pi/81`$ and $`1/\\pi`$. The minimizing regions are balls, circular tubes about shortest closed geodesics, coordinate slabs, and their complements.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

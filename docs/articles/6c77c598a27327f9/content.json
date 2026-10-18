@@ -1,0 +1,14 @@
+{
+  "id": "6c77c598a27327f9",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A finite-time singularity of Calabi flow on projective space",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-finite-time-singularity-of-Calabi-flow-on-projective-space-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct a smooth Kähler metric in the Fubini–Study class of $`\\mathbb{CP}^{10}`$ whose Calabi flow develops unbounded scalar curvature in finite time. This disproves Chen's smooth long-time existence conjecture, even in a class containing a constant-scalar-curvature metric.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

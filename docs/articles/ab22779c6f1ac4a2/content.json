@@ -1,0 +1,14 @@
+{
+  "id": "ab22779c6f1ac4a2",
+  "section": "papers",
+  "category": "几何与拓扑",
+  "title": "Numerical semiampleness of nef adjoint classes on compact Kähler manifolds",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Numerical-semiampleness-of-nef-adjoint-classes-on-compact-Kahler-manifolds-October-6-2026/numerical-generalized-abundance.pdf",
+  "date": "2026-10-06",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Let X be a smooth connected compact Kähler manifold, let B be an effective rational simple normal crossing divisor with coefficients less than one, and let M be a nef rational holomorphic line bundle on X. If $`K_X+B`$ is pseudo-effective and $`K_X+B+M`$ is nef, we prove that its first Chern class in real Bott–Chern cohomology is represented by a semiample rational line bundle. This numerical statement allows a flat change of line bundle; it does not assert semiampleness of the original adjoint.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "3fce569dc32d4e1d",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Memory and precision in noiseless Gaussian regression",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Memory-and-precision-in-noiseless-Gaussian-regression-September-27-2026/paper.pdf",
+  "date": "2026-09-27",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every fixed A > 0, a learner that retains at most $`Ad^2`$ bits between fresh exact Gaussian linear measurements needs $`\\Omega_A(d\\log(1/\\epsilon))`$ measurements to estimate a uniformly random unit vector to angular error at most ϵ, for any $`0\\lt \\epsilon\\le 1/10`$, with probability at least 2/3. The constant is absolute for $`o(d^2)`$ memory.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

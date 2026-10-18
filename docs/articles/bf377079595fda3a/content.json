@@ -1,0 +1,14 @@
+{
+  "id": "bf377079595fda3a",
+  "section": "papers",
+  "category": "组合数学与图论",
+  "title": "The height-three chromatic overlap: an explicit filtration and its attachments",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-height-three-chromatic-overlap-an-explicit-filtration-and-its-attachments-September-27-2026/paper.pdf",
+  "date": "2026-09-27",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every prime p ≥ 5, we construct an explicit eight-stage filtration of $`L_2L_{K(3)}\\mathbb S_p^\\wedge`$ by the local-sphere layers in the height-three chromatic-splitting pattern. The map from its first stage to the overlap is the canonical unit, and two signed fracture formulas identify all attachments for the chosen local maps and compatibility homotopy. A companion canonical-map theorem further implies that the first height-one attachment is nonzero.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

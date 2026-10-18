@@ -1,0 +1,14 @@
+{
+  "id": "2d12b677aa08ec39",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Pointwise Multiple Ergodic Averages for Mixing Transformations",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Pointwise-Multiple-Ergodic-Averages-for-Mixing-Transformations-October-4-2026/multiple-ergodic-averages.pdf",
+  "date": "2026-10-04",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Let T be an invertible mixing probability-preserving transformation. For every integer n ≥ 2 and every fixed tuple of bounded measurable functions, we prove that the consecutive multiple ergodic averages of length n converge almost everywhere to the product of the integrals, as the averaging length tends to infinity through all positive integers. The probability space need not be standard, and no rate of mixing is required.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

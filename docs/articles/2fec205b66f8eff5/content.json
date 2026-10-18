@@ -1,0 +1,14 @@
+{
+  "id": "2fec205b66f8eff5",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Uniform log Iitaka fibrations and bounded moduli denominators",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Uniform-log-Iitaka-fibrations-and-bounded-moduli-denominators-October-4-2026/uniform-log-iitaka.pdf",
+  "date": "2026-10-04",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For normal projective log canonical pairs over algebraically closed fields of characteristic zero, of fixed dimension d ≥ 5 and with effective boundary coefficients in a fixed finite rational set, we prove that one complete rounded pluricanonical system generates the full Iitaka field whenever the ℚ-Cartier log canonical divisor has nonnegative Kodaira dimension. Its degree depends only on the dimension and coefficient set. For the paper's normalized canonical bundle formulae over ℂ, we also bound the Cartier denominators of the moduli divisors on smooth projective determining models in terms of the dimension and coefficient set.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

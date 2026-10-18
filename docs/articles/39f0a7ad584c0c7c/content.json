@@ -1,0 +1,14 @@
+{
+  "id": "39f0a7ad584c0c7c",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Subset Sum in Time $`O(2^{0.49n})`$ ",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Subset-Sum-in-Time-2-power-0-49n-October-4-2026/subset-sum.pdf",
+  "date": "2026-10-04",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We give a uniform randomized classical algorithm for Subset Sum with bounded error and worst-case running time $`O(2^{0.49n})`$ on polynomial-bit inputs in a word-RAM model, where n is the number of input integers. The time bound holds on every random execution.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

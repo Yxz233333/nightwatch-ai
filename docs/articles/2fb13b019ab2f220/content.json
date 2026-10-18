@@ -1,0 +1,14 @@
+{
+  "id": "2fb13b019ab2f220",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The canonical massive continuum limit of the two-dimensional O(3) model",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-canonical-massive-continuum-limit-of-the-two-dimensional-O3-model-October-4-2026/massive-continuum-o3.pdf",
+  "date": "2026-10-04",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct a canonical interacting massive continuum limit of the two-dimensional nearest-neighbor $`O(3)`$ model with unit-length spins, no external field, and no topological term. Normalized by susceptibility and second-moment correlation length, the limit exists as the bare coupling tends to infinity through all positive real values, without selecting subsequences. The limiting fields satisfy the Osterwalder–Schrader axioms and have a nonzero connected four-point correlation on separated time supports. Their reconstructed theory has a unique vacuum, a nonzero vacuum complement, and a positive Hamiltonian gap on that entire complement.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

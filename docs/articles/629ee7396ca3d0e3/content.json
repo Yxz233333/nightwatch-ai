@@ -1,0 +1,14 @@
+{
+  "id": "629ee7396ca3d0e3",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The PCP-for-PPAD conjecture: a quasilinear reduction",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-PCP-for-PPAD-conjecture-a-quasilinear-reduction-September-25-2026/paper.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the quasilinear-size PCP-for-PPAD conjecture of Babichenko, Papadimitriou, and Rubinstein. There are fixed positive rational constants ε and δ and a deterministic polynomial-time reduction that transforms an End-of-Line instance of binary length N into a generalized circuit of total binary length $`N(\\log N)^{O(1)}`$. From any rational assignment of polynomial encoding length that ε-satisfies all but a δ fraction of the gates, a solution to the original End-of-Line instance can be recovered in polynomial time, regardless of which gates fail. Such assignments always exist, with one fixed polynomial bound on their encoding length.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

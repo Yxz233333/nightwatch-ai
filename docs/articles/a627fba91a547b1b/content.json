@@ -1,0 +1,14 @@
+{
+  "id": "a627fba91a547b1b",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Staggered extraction for exact matrix multiplication over every field",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Staggered-extraction-for-exact-matrix-multiplication-over-every-field-September-24-2026/Staggered-extraction-for-exact-matrix-multiplication-over-every-field-September-24-2026.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that the arithmetic exponent of square matrix multiplication over every fixed field satisfies ω < 2.371054886006746. This includes every positive characteristic.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

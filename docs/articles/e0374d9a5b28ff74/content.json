@@ -1,0 +1,14 @@
+{
+  "id": "e0374d9a5b28ff74",
+  "section": "papers",
+  "category": "数论与算术几何",
+  "title": "Arithmetic classification and non-Pisot singularity for Bernoulli convolutions",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/paper.pdf",
+  "date": "2026-10-03",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We give an arithmetic classification of singular and absolutely continuous unbiased Bernoulli convolutions for every parameter $`\\lambda\\in(0,1)`$. The criterion is expressed through one-sided approximation by explicitly defined finite sets of algebraic units; it is an infinite approximation condition, not a finite membership algorithm. We also establish singular examples beyond reciprocals of Pisot numbers: singularity holds at the reciprocal of every quartic Salem number in $`(1,2)`$ and at the reciprocal of a specified non-Pisot root of an explicit degree-31 polynomial.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

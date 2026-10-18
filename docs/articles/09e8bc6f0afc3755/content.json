@@ -1,0 +1,14 @@
+{
+  "id": "09e8bc6f0afc3755",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Cylinder loop weights and planar nesting",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Cylinder-loop-weights-and-planar-nesting-September-26-2026/main.pdf",
+  "date": "2026-09-26",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We determine the growth exponent, at every fixed positive loop fugacity, of the critical honeycomb partition function for disjoint polygons separating two prescribed markers on a balanced cylinder. At fugacity two the cylinder exponent is 1/6; the corresponding planar nesting exponent and middle-strip nesting exponent are 1/12.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

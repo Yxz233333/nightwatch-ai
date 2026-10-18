@@ -1,0 +1,14 @@
+{
+  "id": "f3c2b81d5d7631b1",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The sharp singularity rate for biased symmetric sign matrices",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/biased-symmetric-sign-singularity.pdf",
+  "date": "2026-10-04",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Let An be a symmetric random matrix whose entries on and above the diagonal are independent signs, equal to 1 with fixed probability $`p\\in(0,1)\\setminus\\{1/2\\}`$. We prove that $`\\mathbb P(\\det A_n=0)=(p^2+(1-p)^2+o(1))^n`$. The rate is attained by the event that two rows agree.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

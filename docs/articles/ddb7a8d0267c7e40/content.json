@@ -1,0 +1,14 @@
+{
+  "id": "ddb7a8d0267c7e40",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Existential–universal real sentences in the counting hierarchy",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Existential-universal-real-sentences-in-the-counting-hierarchy-October-4-2026/etr-counting-hierarchy.pdf",
+  "date": "2026-10-04",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that the existential theory of the reals lies in the counting hierarchy. More generally, we show that the truth of existential–universal sentences over the reals can be decided in a fixed level of the counting hierarchy, even when the integer polynomials are given by arithmetic circuits.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

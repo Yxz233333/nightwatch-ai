@@ -1,0 +1,14 @@
+{
+  "id": "80a37b1527f1167a",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Subpolynomial dimension reduction in Lp",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Subpolynomial-dimension-reduction-in-Lp-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every fixed $`1\\lt p\\lt \\infty`$ and D > 1, every n-point subset of a real Lp space embeds into $`\\ell_p^d`$ with distortion at most D and subpolynomial dimension $`d=n^{o(1)}`$. The target has the same exponent p, and the embedding need not be linear.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

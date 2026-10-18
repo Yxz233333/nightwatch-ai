@@ -1,0 +1,14 @@
+{
+  "id": "784e0d2f1d62dbdd",
+  "section": "papers",
+  "category": "组合数学与图论",
+  "title": "Tree Constructions for the l1 Distortion of Binary Edit Distance",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Tree-Constructions-for-the-l1-Distortion-of-Binary-Edit-Distance-September-27-2026/paper.pdf",
+  "date": "2026-09-27",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We give two independent constructions of binary words of one length at most d whose ordinary edit-distance metrics require ℓ1 distortion $`\\exp(\\Omega(\\sqrt{\\log d\\,\\log\\log d}))`$ for every sufficiently large d. We also prove a constant-distortion binary conversion for one prescribed input length. Together with the companion upper embedding theorem, these lower bounds determine the order of logarithmic distortion uniformly over finite alphabets with at least two symbols.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

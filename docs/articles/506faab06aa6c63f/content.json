@@ -1,0 +1,14 @@
+{
+  "id": "506faab06aa6c63f",
+  "section": "papers",
+  "category": "数论与算术几何",
+  "title": "Filtered chromatic splitting at generic primes",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Filtered-chromatic-splitting-at-generic-primes-September-25-2026/paper.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every n ≥ 1 and prime $`p\\gt n+1`$, we construct a $`2^n`$-stage ordered filtration of $`L_{n-1}L_{K(n)}S_p^\\wedge`$ with the classical chromatic-splitting cofibers. The map from the first stage to the target is the canonical localization unit.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

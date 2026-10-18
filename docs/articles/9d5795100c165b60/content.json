@@ -1,0 +1,14 @@
+{
+  "id": "9d5795100c165b60",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Near-square-root logarithmic integrality gaps for uniform sparsest cut",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Near-square-root-logarithmic-integrality-gaps-for-uniform-sparsest-cut-September-24-2026/Near-square-root-logarithmic-integrality-gaps-for-uniform-sparsest-cut-September-24-2026.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct uniform sparsest-cut instances whose Goemans–Linial semidefinite integrality gap is at least $`c\\sqrt{\\log n}/(\\log\\log n)^3`$ along a sequence $`n\\to\\infty`$. The demand is one between every pair of distinct vertices, and the capacities are nonnegative real numbers. This matches the Arora–Rao–Vazirani upper bound up to a power of $`\\log\\log n`$.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

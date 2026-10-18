@@ -1,0 +1,14 @@
+{
+  "id": "3402ec396ec2da9f",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Commuting Division-Coefficient Forms and the Artinian Eisenbud--Green--Harris Conjecture",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Commuting-Division-Coefficient-Forms-and-the-Artinian-Eisenbud-Green-Harris-Conjecture-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the Eisenbud–Green–Harris conjecture over every characteristic-zero field for homogeneous regular sequences of any positive length, with degrees at least two. Thus every homogeneous ideal containing such a sequence has the Hilbert function of a monomial ideal containing the corresponding pure powers.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

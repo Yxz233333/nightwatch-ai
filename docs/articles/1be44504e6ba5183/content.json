@@ -1,0 +1,14 @@
+{
+  "id": "1be44504e6ba5183",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Finite Instructions and Solenoidal Shear Flows",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Finite-Instructions-and-Solenoidal-Shear-Flows-September-27-2026/manuscript.pdf",
+  "date": "2026-09-27",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We realize finite reciprocal affine instruction maps by smooth incompressible shear flows on a flat three-torus. Applied to a reversible one-head recorder with a finite transition table, this gives a complete machine-to-fluid construction: a fixed particle enters a fixed open strip exactly when a given machine halts, with zero initial velocity, zero pressure, and a solenoidal mean-zero force that is periodic after initialization. The construction acts on full closed rectangles and controls every intermediate trajectory. Separate heights resolve overlap between sources and targets, and an endpoint-size estimate controls all excursions independently of the reciprocal scaling factor.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

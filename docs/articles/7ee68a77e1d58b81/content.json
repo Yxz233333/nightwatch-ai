@@ -1,0 +1,14 @@
+{
+  "id": "7ee68a77e1d58b81",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "An explicit exact Hausdorff gauge for SLE",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/An-explicit-exact-Hausdorff-gauge-for-SLE-September-26-2026/An-explicit-exact-Hausdorff-gauge-for-SLE-September-26-2026.pdf",
+  "date": "2026-09-26",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For each fixed $`0\\lt \\kappa\\lt 8`$, let $`d=1+\\kappa/8`$. The gauge $`h(r)=r^d(\\log\\log(1/r))^{(2-d)/2}`$ at sufficiently small radii almost surely gives positive finite Hausdorff measure to every nontrivial positive-time compact segment of chordal SLEκ. This gives an explicit solution to Schramm's Hausdorff-measure problem in this parameter range. The entire trace has finite expected measure in every bounded disk. The exponent-one iterated-logarithm gauge suggested by Schramm is not sigma-finite on any such segment.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

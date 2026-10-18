@@ -1,0 +1,14 @@
+{
+  "id": "8c0647a61fb213e6",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Positive eigenvalues of the relative SU(2) BFSS Hamiltonian",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Positive-eigenvalues-of-the-relative-SU-2-BFSS-Hamiltonian-October-5-2026/positive-eigenvalues-relative-su2-bfss.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that the relative $`\\mathop{\\mathrm{SU}}\\nolimits (2)`$ BFSS Hamiltonian has infinitely many positive eigenvalues tending to infinity, with square-integrable eigenvectors. The operator is defined by closing the gauge-invariant supercharge form. This refutes, at N = 2, the exclusion of normalizable positive-energy states stated in the original BFSS paper.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

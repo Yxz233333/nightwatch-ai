@@ -1,0 +1,14 @@
+{
+  "id": "0fcf5f91ffc5532d",
+  "section": "papers",
+  "category": "组合数学与图论",
+  "title": "Fixed-energy universality for weak Anderson disorder on random regular graphs",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Fixed-energy-universality-for-weak-Anderson-disorder-on-random-regular-graphs-October-5-2026/fixed-energy-universality-weak-anderson-disorder-random-regular-graphs.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every fixed degree d ≥ 3, we prove fixed-energy GOE universality for the adjacency matrix of a uniformly random simple labelled d-regular graph with independent uniform diagonal disorder. The disorder strength is positive, sufficiently small, and fixed as the graph grows. At each fixed energy in a compact subinterval of the clean spectral band, the full microscopic eigenvalue point process converges to the GOE bulk process after rescaling by the positive density of states of the corresponding infinite-tree operator. The permitted disorder strength depends on the degree and the distance from the clean spectral edges.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

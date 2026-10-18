@@ -1,0 +1,14 @@
+{
+  "id": "a01806141c1d1368",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Microscopic jamming in the negative spherical perceptron",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Microscopic-jamming-in-the-negative-spherical-perceptron-September-24-2026/Microscopic-jamming-in-the-negative-spherical-perceptron-September-24-2026.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove a sharp feasibility threshold and limiting gap and force laws for the spherical perceptron with margin −1 and quadratic penalty. The limits are taken successively in system size, inverse temperature, and density approaching the threshold from above. They agree for Gaussian coordinates and for the equal mixture of centered Gaussian coordinates with variances $`1-\\varepsilon`$ and $`1+\\varepsilon`$, for every sufficiently small fixed ε. The contact-removed gap cumulative law and the mean-one force cumulative law satisfy\n\n$`\\displaystyle G_J(u)=u^{1-\\gamma+o(1)},\\qquad F_J(s)=s^{1+\\theta+o(1)},`$\n\nas $`u\\downarrow0`$ and $`s\\downarrow0`$, with $`\\gamma=(2+\\theta)^{-1}`$, $`0.4126930\\lt \\gamma\\lt 0.4126934`$, and $`0.4231063\\lt \\theta\\lt 0.4231088`$. A finite numerical certificate for these exponent intervals, together with its mathematical error bounds, is included.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

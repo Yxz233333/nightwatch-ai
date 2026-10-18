@@ -1,0 +1,14 @@
+{
+  "id": "321bf694d7559b70",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Metric Markov Cotype Two of <i>ℓ</i><sub>1</sub> ",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Metric-Markov-Cotype-Two-of-l1-October-5-2026/l1-markov-cotype.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that the real Banach space ℓ1 has metric Markov cotype two, answering a question of Mendel and Naor. As a consequence, every Lipschitz map from an arbitrary subset of a real Hilbert space into ℓ1 extends to the whole Hilbert space with a universal multiplicative loss in its Lipschitz constant, resolving Ball's extension problem for this target.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

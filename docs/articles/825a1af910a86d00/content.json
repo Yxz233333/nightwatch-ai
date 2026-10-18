@@ -1,0 +1,14 @@
+{
+  "id": "825a1af910a86d00",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Bounded-degree coboundary expanders in every dimension",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Bounded-degree-coboundary-expanders-in-every-dimension-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every integer d ≥ 3, we construct arbitrarily large finite d-dimensional simplicial complexes with uniformly bounded vertex degrees and uniform 𝔽2 coboundary expansion in every degree below d. Together with the known graph and two-dimensional cases, this establishes the existence of bounded-degree 𝔽2 coboundary expanders in every positive dimension.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

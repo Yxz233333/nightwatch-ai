@@ -1,0 +1,14 @@
+{
+  "id": "58c9f66eb58ac651",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "An Upper Bound of 9/4 for the Matrix Multiplication Exponent",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Matrix-Multiplication-Nine-Fourths-October-2-2026/paper.pdf",
+  "date": "2026-10-02",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that the exponent of matrix multiplication over the complex numbers is at most 9/4.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

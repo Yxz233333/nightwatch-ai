@@ -1,0 +1,14 @@
+{
+  "id": "cd4a0989c1862ef8",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Spectral scalar curvature and Urysohn width in dimension three",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Spectral-scalar-curvature-and-Urysohn-width-in-dimension-three-October-5-2026/spectral-urysohn-three-manifolds.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Every connected complete smooth Riemannian three-manifold without boundary satisfying $`-4\\Delta+\\mathop{\\mathrm{Scal}}\\nolimits \\ge\\lambda\\gt 0`$ as a quadratic-form inequality admits a continuous map to a graph whose entire fibers have diameter at most $`500/\\sqrt\\lambda`$ in the original metric. No orientability, spin, compactness, or bounded-geometry assumption is required.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

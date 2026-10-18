@@ -1,0 +1,14 @@
+{
+  "id": "6ce9e90ed89fe89b",
+  "section": "papers",
+  "category": "偏微分方程",
+  "title": "Universal Computation with Eventually Stationary Navier–Stokes Forcing",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Universal-Computation-with-Eventually-Stationary-Navier-Stokes-Forcing-September-27-2026/manuscript.pdf",
+  "date": "2026-09-27",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "At every fixed positive computable viscosity, we construct smooth mean-zero forces on the flat three-torus that become stationary after time one and make a fixed particle, initially in a fluid at rest, enter a fixed open set exactly when a prescribed Turing machine halts. The force has bounded derivatives of every order and a finite effective description. A reversible recording table is realized on whole planar rectangles by Hamiltonian motions, then driven by a mean-zero spatial clock. Separate choices give periodic forcing from time zero or a force whose derivatives are square-integrable in time.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

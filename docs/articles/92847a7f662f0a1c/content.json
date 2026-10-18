@@ -1,0 +1,14 @@
+{
+  "id": "92847a7f662f0a1c",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A Counterexample to Kaplansky's Direct-Finiteness Conjecture in Odd Characteristic",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-Counterexample-to-Kaplanskys-Direct-Finiteness-Conjecture-in-Odd-Characteristic-September-26-2026/paper.pdf",
+  "date": "2026-09-26",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct a counterexample to Kaplansky's direct-finiteness conjecture in odd characteristic. For one specified odd prime p, we obtain a field K of order p4, a finitely generated group G containing torsion, and finite sums $`a,b\\in K[G]`$ with $`ab=1`$ but $`ba\\ne1`$. The same elements define a cellular automaton on KG that is injective but not surjective.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

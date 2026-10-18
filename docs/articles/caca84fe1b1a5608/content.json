@@ -1,0 +1,14 @@
+{
+  "id": "caca84fe1b1a5608",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Equidistribution of Primitive Sextic Torus Packets",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Equidistribution-of-Primitive-Sextic-Torus-Packets-October-5-2026/primitive-sextic-torus-packets.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that the complete ideal-class packets of maximal orders in totally real sextic fields with no proper intermediate fields become equidistributed, with no escape of mass, in the space of unimodular lattices as their field discriminants tend to infinity. The limit is Haar probability measure. Each packet includes all coordinate-sign translates and is weighted by diagonal-orbit volume.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

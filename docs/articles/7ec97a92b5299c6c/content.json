@@ -1,0 +1,14 @@
+{
+  "id": "7ec97a92b5299c6c",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Prescribed large-volume charges on threefolds with trivial canonical bundle",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Prescribed-large-volume-charges-on-threefolds-with-trivial-canonical-bundle-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Let X be a smooth projective complex threefold with trivial canonical bundle. We construct numerical Bridgeland stability conditions with the exact ordinary and square-root-Todd central charges at every sufficiently large volume. One volume threshold works on an open set of real twists and ample directions. The resulting stability conditions have the support property on the full numerical Grothendieck group and stable point sheaves. Separately, on every smooth projective complex threefold we prove a strong tilt inequality above a volume threshold uniform in the object and twist along a fixed polarization.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

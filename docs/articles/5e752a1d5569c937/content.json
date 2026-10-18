@@ -1,0 +1,14 @@
+{
+  "id": "5e752a1d5569c937",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A Cyclic Polytabloid Proof of Saxl's Conjecture",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-Cyclic-Polytabloid-Proof-of-Saxls-Conjecture-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every staircase partition, we prove that the tensor square of the corresponding irreducible complex representation of the symmetric group contains every irreducible representation of that group. This proves Saxl's conjecture.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

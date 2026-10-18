@@ -1,0 +1,14 @@
+{
+  "id": "6be9cf119678dca4",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The symmetric Mahler conjecture and its equality cases",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-symmetric-Mahler-conjecture-and-its-equality-cases-September-22-2026/paper.pdf",
+  "date": "2026-09-22",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We resolve the symmetric Mahler conjecture positively, including its equality classification. Every origin-symmetric convex body in ℝn has volume product at least $`4^n/n!`$, with equality exactly for invertible linear images of Hanner polytopes.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

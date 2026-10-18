@@ -1,0 +1,14 @@
+{
+  "id": "46d439733f3dd195",
+  "section": "papers",
+  "category": "数论与算术几何",
+  "title": "Simultaneous primitive roots: a conditional lower bound for prime bases",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Simultaneous-primitive-roots-a-conditional-lower-bound-for-prime-bases-October-4-2026/simultaneous-primitive-roots-conditional-lower-bound-prime-bases.pdf",
+  "date": "2026-10-04",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every fixed finite set of distinct positive primes, we prove that at least $`cx/(\\log x)^2`$ primes in $`(x,2x)`$ have every member of the set as a primitive root, for some c > 0 and all sufficiently large x. The result assumes four explicitly stated analytic and sieve inputs from the companion paper on primitive roots for admissible integer bases.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

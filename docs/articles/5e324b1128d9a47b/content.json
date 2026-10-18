@@ -1,0 +1,14 @@
+{
+  "id": "5e324b1128d9a47b",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Uniform indices for semi-log-canonical log Calabi–Yau pairs",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Uniform-indices-for-semi-log-canonical-log-Calabi-Yau-pairs-October-5-2026/uniform-slc-index.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove a uniform index theorem for connected projective semi-log-canonical log Calabi–Yau pairs in every fixed dimension at least four over an algebraically closed field of characteristic zero. For boundary coefficients in a fixed finite rational set, a single multiple of the log canonical divisor is Cartier and linearly trivial. The multiple depends only on the dimension and coefficient set, not on the number of irreducible components. Together with the established theorem in dimensions at most three, this resolves the finite-rational-coefficient semi-log-canonical index conjecture.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

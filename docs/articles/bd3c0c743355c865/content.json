@@ -1,0 +1,14 @@
+{
+  "id": "bd3c0c743355c865",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "The unique threshold bound state of the SU(N) BFSS model",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/The-unique-threshold-bound-state-of-the-SU-N-BFSS-model-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every finite N ≥ 2, we prove that undeformed $`\\mathop{\\mathrm{SU}}\\nolimits (N)`$ BFSS matrix quantum mechanics has exactly one normalizable zero-energy state after removing the center of mass. This establishes the threshold-bound-state conjecture.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

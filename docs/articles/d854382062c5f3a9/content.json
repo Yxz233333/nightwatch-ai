@@ -1,0 +1,14 @@
+{
+  "id": "d854382062c5f3a9",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "An exponential two-way deterministic state lower bound for one-way liveness",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/An-exponential-two-way-deterministic-state-lower-bound-for-one-way-liveness-September-25-2026/main.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "One-way liveness on h points accepts a word of binary relations when their ordered product is nonempty. For every h ≥ 2, it has a nondeterministic automaton with $`h+3`$ states and no left moves, whereas every equivalent s-state two-way deterministic automaton satisfies $`4(s+2)^2\\ge2^{\\lfloor(h-2)/31\\rfloor}`$. Partial transition rules, stay moves, and nonaccepting infinite computations are allowed. The alphabets are finite and grow with h, so the result rules out an alphabet-independent polynomial state bound for deterministic two-way simulation, already for one-way nondeterministic sources.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

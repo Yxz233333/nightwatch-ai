@@ -1,0 +1,14 @@
+{
+  "id": "4c0940d7be86d56c",
+  "section": "papers",
+  "category": "组合数学与图论",
+  "title": "Graph Decompositions at the Integral Expectation Threshold",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Graph-Decompositions-at-the-Integral-Expectation-Threshold-October-5-2026/graph-threshold-decompositions.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the graph-decomposition conjecture of Ascoli, He, Park, and Talagrand. Every graph admits a partition into a universally bounded number of fixed edge pieces, each having ordinary containment threshold at most a universal constant times the original graph's integral expectation threshold. The partition is chosen before sampling the random host, and the separate embeddings of the pieces need not agree on shared vertices.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

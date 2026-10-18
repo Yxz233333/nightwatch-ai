@@ -1,0 +1,14 @@
+{
+  "id": "65cc9ddf0ce60aa1",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A nonspectrahedral hyperbolicity cone",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-Nonspectrahedral-Hyperbolicity-Cone-September-24-2026/nonspectrahedral-hyperbolicity-cone.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct a homogeneous polynomial of degree 16 in 23 real variables whose hyperbolicity cone has no representation by a finite homogeneous real symmetric linear matrix inequality. This disproves the geometric Generalized Lax conjecture.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

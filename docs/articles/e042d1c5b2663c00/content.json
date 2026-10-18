@@ -1,0 +1,14 @@
+{
+  "id": "e042d1c5b2663c00",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Scale and conformal symmetry in four-dimensional operational quantum field theory",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Scale-and-conformal-symmetry-in-four-dimensional-operational-quantum-field-theory-September-26-2026/main.pdf",
+  "date": "2026-09-26",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that scale symmetry implies local conformal symmetry for a class of four-dimensional unitary, positive-energy quantum field theories with a Poincaré- and scale-invariant vacuum. The class has a discrete, bounded-below spectrum of scaling dimensions with finite multiplicities, and each original field has finite scaling support. The original fields and their adjoints have compatible affiliated realizations in a causally commuting bounded local net, and a physical local dilatation current generates scale transformations through its local Ward identities. The operational framework admits sharply localized reconstructed fields after their joint products and compatible affiliated realizations in the same net have been established. Under these hypotheses, the stress tensor admits a symmetric, conserved, traceless improvement with unchanged translation and Lorentz charges. The corresponding conformal currents satisfy unbroken local Ward identities on the physical field algebra. The conclusion is local; integration to a global conformal action on the whole bounded net remains a separate question.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

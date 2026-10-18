@@ -1,0 +1,14 @@
+{
+  "id": "fc7541b1f6479604",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Canonical conformal limits of subcritical FK planar maps",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Canonical-conformal-limits-of-subcritical-FK-planar-maps-September-24-2026/main.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every fixed $`0\\lt q\\lt 4`$, we prove joint convergence of spherical Fortuin–Kasteleyn planar maps in their flag-triangle uniformization to the corresponding unit-area Liouville quantum gravity sphere decorated by an independent conformal loop ensemble. The convergence includes the area measure, deterministically rescaled graph distances between all vertex pairs, and the full nested interface collection, with interfaces converging uniformly up to reparameterization.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

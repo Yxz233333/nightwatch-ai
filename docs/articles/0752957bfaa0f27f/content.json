@@ -1,0 +1,14 @@
+{
+  "id": "0752957bfaa0f27f",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Log abundance in characteristic zero",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Log-abundance-in-characteristic-zero-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the rational-boundary log abundance conjecture in every dimension over algebraically closed fields of characteristic zero: every nef ℚ-Cartier log canonical divisor on a projective log canonical pair with effective rational boundary is semiample. Over ℂ, the proof also establishes canonical nonvanishing for smooth projective varieties in every dimension.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

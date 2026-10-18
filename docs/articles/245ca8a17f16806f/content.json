@@ -1,0 +1,14 @@
+{
+  "id": "245ca8a17f16806f",
+  "section": "papers",
+  "category": "组合数学与图论",
+  "title": "An Almost-Linear Approximation Scheme for Edit Distance",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/An-Almost-Linear-Approximation-Scheme-for-Edit-Distance-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We give a uniform randomized approximation scheme for unit-cost edit distance. For every fixed rational $`\\varepsilon\\in(0,1)`$, it estimates the distance between arbitrary explicitly stored strings of total length N within a factor $`1+\\varepsilon`$ with probability at least 2/3, in worst-case expected time $`N^{1+o(1)}`$ on a logarithmic-word RAM. The algorithm supports polynomially bounded integer alphabets and returns zero deterministically on equal strings.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

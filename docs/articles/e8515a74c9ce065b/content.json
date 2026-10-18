@@ -1,0 +1,14 @@
+{
+  "id": "e8515a74c9ce065b",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Uniform real Lipschitz surfaces on the triangular lattice",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Uniform-real-Lipschitz-surfaces-on-the-triangular-lattice-October-6-2026/paper.pdf",
+  "date": "2026-10-06",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the Gaussian free field and SLE$`_4`$ scaling limits for uniformly sampled real nearest-neighbor Lipschitz heights on the triangular lattice, resolving Schramm's Problem 2.3. On approximations of smooth simply connected domains, the centered height field converges as a random distribution to a multiple of the Dirichlet Gaussian free field. At one tuned two-arc boundary amplitude, the zero-height interface converges in uniform curve distance to chordal SLE$`_4`$. We identify the relation between the field variance and the boundary height in terms of an implicit stationary tangent-flux coefficient.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

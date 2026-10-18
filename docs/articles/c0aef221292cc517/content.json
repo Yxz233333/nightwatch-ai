@@ -1,0 +1,14 @@
+{
+  "id": "c0aef221292cc517",
+  "section": "papers",
+  "category": "代数几何",
+  "title": "Two-step monodromy of special quasi-projective varieties",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Two-step-monodromy-of-special-quasi-projective-varieties-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We give an independent proof that every complex linear representation of the ordinary fundamental group of a connected smooth special complex quasi-projective variety has virtually nilpotent image of class at most two. This conclusion was previously announced by Cao–Deng–Hacon–Păun. We also construct special open surfaces whose general quasi-Albanese fibres are not special.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

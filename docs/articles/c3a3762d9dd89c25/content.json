@@ -1,0 +1,14 @@
+{
+  "id": "c3a3762d9dd89c25",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Mass and covering exponents for fixed-length honeycomb walks",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Mass-and-covering-exponents-for-fixed-length-honeycomb-walks-September-26-2026/main.pdf",
+  "date": "2026-09-26",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For uniform self-avoiding walks of every sufficiently large integer length on the honeycomb lattice, we prove diameter exponent 3/4 and simultaneous local-mass and covering exponent 4/3, with arbitrary positive exponent slack and arbitrary polynomial failure probability.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "c38bc045599a0c34",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "A quadratic bound for Jacobsthal's function",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/paper.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Let $`h(k)`$ be the least integer such that every interval of $`h(k)`$ consecutive integers contains an integer coprime to any prescribed positive integer having at most k distinct prime divisors. We prove $`h(k)\\ll k^2/(\\log\\log(3k))^2`$, giving an affirmative answer to Jacobsthal's quadratic-bound question.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

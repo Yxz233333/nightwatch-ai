@@ -1,0 +1,14 @@
+{
+  "id": "4565829db95c1d3e",
+  "section": "papers",
+  "category": "组合数学与图论",
+  "title": "Counterexamples to weak chromatic splitting: sphere kernels and descent exponents",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Counterexamples-to-weak-chromatic-splitting-sphere-kernels-and-descent-exponents-September-27-2026/paper.pdf",
+  "date": "2026-09-27",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For the derived p-completion of the sphere, the canonical weak chromatic splitting map has no homotopy retraction at height p for every prime p ≥ 5, and at height $`p+1`$ for every prime p ≥ 7. The classical sphere product $`\\beta_1^{(p-1)^2}`$ gives a nonzero kernel class in both ranges.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

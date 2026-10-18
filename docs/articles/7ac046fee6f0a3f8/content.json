@@ -1,0 +1,14 @@
+{
+  "id": "7ac046fee6f0a3f8",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Riesz transforms and uniform rectifiability in higher codimension",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Riesz-transforms-and-uniform-rectifiability-in-higher-codimension-September-24-2026/paper.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that an n-Ahlfors–David regular Radon measure on ℝd is uniformly n-rectifiable if its n-dimensional Riesz transform is uniformly bounded from scalar $`L^2(\\mu)`$ to vector-valued $`L^2(\\mu)`$ over all positive hard truncations, for integers d ≥ 4 and $`2\\le n\\le d-2`$. This gives a positive answer to the David–Semmes Riesz-transform question in its remaining higher-codimension range. The conclusion gives uniform big pieces of Lipschitz images of Euclidean balls.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "37deb6fbc5fc33bd",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Tensor saturation for even spin groups",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Tensor-Saturation-for-Even-Spin-Groups-September-24-2026/Tensor-Saturation-for-Even-Spin-Groups-September-24-2026.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the saturation conjecture for $`\\mathop{\\mathrm{Spin}}\\nolimits (2n)`$, n ≥ 2. If three dominant integral weights sum to an element of the root lattice, then the existence of a nonzero tensor invariant after a positive integral dilation implies the existence of one at the original weights.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

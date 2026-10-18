@@ -1,0 +1,14 @@
+{
+  "id": "0430931fd446b5fc",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Relative denominators and effective systems for log Calabi-Yau fibrations",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Relative-denominators-and-effective-systems-for-log-Calabi-Yau-fibrations-September-27-2026/paper.pdf",
+  "date": "2026-09-27",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove uniform denominator and effective-system bounds for log Calabi-Yau fibrations from projective log canonical complex pairs of dimension at most four onto positive-dimensional bases, with boundary coefficients in a fixed finite rational set. The bounds give a uniform trivializing degree and a uniform b-Cartier multiple of the moduli b-divisor. When the base divisor is big, a uniform complete rounded adjoint system has section ratios generating the full base function field.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

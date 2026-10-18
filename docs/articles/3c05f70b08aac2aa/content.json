@@ -1,0 +1,14 @@
+{
+  "id": "3c05f70b08aac2aa",
+  "section": "papers",
+  "category": "代数几何",
+  "title": "Quadratic Strong-Operator Paving over Arbitrary Maximal Abelian Subalgebras",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026/Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove the quadratic strong-operator paving conjecture of Popa and Vaes. For every $`0\\lt \\varepsilon \\lt 1`$, every self-adjoint element of a von Neumann algebra admits strong-operator paving over each maximal abelian subalgebra with at most $`5\\times10^8\\varepsilon ^{-2}`$ projections. The bound is uniform over representations and requires no separability or conditional-expectation assumption.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

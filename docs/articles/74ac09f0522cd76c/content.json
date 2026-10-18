@@ -1,0 +1,14 @@
+{
+  "id": "74ac09f0522cd76c",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Constructible tame Hecke eigensheaves in positive characteristic",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Constructible-tame-Hecke-eigensheaves-in-positive-characteristic-October-5-2026/constructible-tame-hecke-eigensheaves-positive-characteristic.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We construct nonzero locally constructible perverse Hecke eigensheaves with Borel level at one marked point on a smooth projective curve of genus at least two over an algebraic closure of a finite field. The parameter is a Zariski-dense geometric ℓ-adic local system with tame regular-unipotent monodromy. The group is simple and simply connected and satisfies four explicit Lie-theoretic characteristic hypotheses. The eigensheaves have parabolic nilpotent singular support, and their eigenisomorphisms are compatible with tensor products, permutations, and fusion.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

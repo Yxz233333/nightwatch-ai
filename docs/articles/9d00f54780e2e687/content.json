@@ -1,0 +1,14 @@
+{
+  "id": "9d00f54780e2e687",
+  "section": "papers",
+  "category": "数学论文",
+  "title": "Spectral convergence for critical FK–Ising planar maps",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Spectral-convergence-for-critical-FK-Ising-planar-maps-October-5-2026/spectral-convergence-critical-fk-ising-planar-maps.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "Using the conformal and metric-measure companion results and the stated Brownian/Liouville quantum gravity inputs, we prove spectral convergence for critical spherical FK–Ising maps to Liouville Brownian motion on the ordinary unit-area $`\\sqrt3`$-quantum sphere. The discrete walk has total attempt rate one, uses every map edge including loops and multiplicities, and has the corner measure as its stationary law. Accelerating time by the number of map edges gives joint convergence of the metric-measure space, all ordered eigenvalues with multiplicities and padding, and the heat trace locally uniformly at strictly positive times. The conductivity and clock constant are one in these conventions.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

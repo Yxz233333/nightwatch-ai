@@ -1,0 +1,14 @@
+{
+  "id": "4aa2edf6528509f4",
+  "section": "papers",
+  "category": "概率论",
+  "title": "A Linear Clock for Random Walk on Tree-Weighted Planar Maps",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-Linear-Clock-for-Random-Walk-on-Tree-Weighted-Planar-Maps-October-5-2026/linear-clock-random-walk-tree-weighted-planar-maps.pdf",
+  "date": "2026-10-05",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "We prove that stationary random walk on a planar map sampled with weight equal to its number of spanning trees converges to Liouville Brownian motion on the unit-area $`\\sqrt2`$-Liouville quantum sphere. The convergence retains the conditional path law jointly with the measured metric space. The walk chooses uniformly among all incident half-edges and starts from the stationary degree measure. For total attempt rate one and the continuum Dirichlet form with factor 1/2, the time acceleration is exactly the number of map edges. The result uses the companion contour and metric limits for this same ensemble.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}

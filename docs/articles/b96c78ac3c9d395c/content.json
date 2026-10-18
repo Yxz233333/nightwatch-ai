@@ -1,0 +1,14 @@
+{
+  "id": "b96c78ac3c9d395c",
+  "section": "papers",
+  "category": "组合数学与图论",
+  "title": "A logarithmic independence bound for clique-free graphs",
+  "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+  "url": "https://github.com/openai/math/blob/main/preprints/A-Logarithmic-Independence-Bound-for-Clique-Free-Graphs-September-25-2026/paper.pdf",
+  "date": "2026-09-25",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "abstractEnglish": "For every fixed integer r ≥ 4, every Kr-free graph on n vertices with average degree d ≥ 2 has an independent set of size at least $`c_r n\\log d/d`$, where $`c_r\\gt 0`$ depends only on r. This proves the fixed-clique-size independence conjecture of Ajtai, Erdős, Komlós and Szemerédi.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "interest": []
+}
