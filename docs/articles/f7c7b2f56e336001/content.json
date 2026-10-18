@@ -1,7 +1,7 @@
 {
   "id": "f7c7b2f56e336001",
   "section": "papers",
-  "category": "概率论",
+  "category": "概率与统计",
   "title": "Critical honeycomb chords with prescribed boundary endpoints",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Critical-honeycomb-chords-with-prescribed-boundary-endpoints-September-26-2026/main.pdf",
@@ -21,5 +21,6 @@
     ],
     "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
   },
+  "subjectDetail": "概率论",
   "interest": []
 }

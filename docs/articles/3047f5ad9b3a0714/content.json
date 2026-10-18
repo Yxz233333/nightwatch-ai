@@ -1,7 +1,7 @@
 {
   "id": "3047f5ad9b3a0714",
   "section": "papers",
-  "category": "统计学习理论",
+  "category": "概率与统计",
   "title": "Replacing Gaussian observations in memory-constrained inference",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Replacing-Gaussian-observations-in-memory-constrained-inference-September-27-2026/paper.pdf",
@@ -21,5 +21,6 @@
     ],
     "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
   },
+  "subjectDetail": "统计学习理论",
   "interest": []
 }

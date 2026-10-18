@@ -1,7 +1,7 @@
 {
   "id": "284c0fe1830b5945",
   "section": "papers",
-  "category": "数学论文",
+  "category": "几何与拓扑",
   "title": "A Counterexample to Wall's D(2) Problem",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-Counterexample-to-Walls-D2-Problem-October-6-2026/wall-d2-counterexample.pdf",
@@ -21,5 +21,6 @@
     ],
     "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
   },
+  "subjectDetail": "数学论文",
   "interest": []
 }

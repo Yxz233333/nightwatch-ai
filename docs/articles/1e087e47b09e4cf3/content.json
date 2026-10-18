@@ -1,7 +1,7 @@
 {
   "id": "1e087e47b09e4cf3",
   "section": "papers",
-  "category": "调和分析与偏微分方程",
+  "category": "分析与偏微分方程",
   "title": "Endpoint pointwise convergence for the Schrodinger equation in higher dimensions",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Endpoint-pointwise-convergence-for-the-Schrodinger-equation-in-higher-dimensions-September-24-2026/paper.pdf",
@@ -21,5 +21,6 @@
     ],
     "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
   },
+  "subjectDetail": "调和分析与偏微分方程",
   "interest": []
 }

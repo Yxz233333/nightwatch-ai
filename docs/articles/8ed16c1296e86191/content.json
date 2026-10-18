@@ -1,7 +1,7 @@
 {
   "id": "8ed16c1296e86191",
   "section": "papers",
-  "category": "数学论文",
+  "category": "分析与偏微分方程",
   "title": "Asymptotically minimal maxima of real Littlewood polynomials",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026/paper.pdf",
@@ -20,5 +20,6 @@
     ],
     "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
   },
+  "subjectDetail": "数学论文",
   "interest": []
 }

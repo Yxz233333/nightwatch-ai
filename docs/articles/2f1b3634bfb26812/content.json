@@ -1,7 +1,7 @@
 {
   "id": "2f1b3634bfb26812",
   "section": "papers",
-  "category": "概率论",
+  "category": "概率与统计",
   "title": "A directional zero–one law for finite-range-dependent random environments",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-directional-zero-one-law-for-finite-range-dependent-random-environments-October-5-2026/directional-zero-one-finite-range.pdf",
@@ -21,5 +21,6 @@
     ],
     "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
   },
+  "subjectDetail": "概率论",
   "interest": []
 }

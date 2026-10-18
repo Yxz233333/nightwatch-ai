@@ -1,7 +1,7 @@
 {
   "id": "3d1e78c72e668e6a",
   "section": "papers",
-  "category": "群论",
+  "category": "代数与表示论",
   "title": "Nonsingular systems of equations over arbitrary groups",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/nonsingular-systems-over-arbitrary-groups.pdf",
@@ -21,5 +21,6 @@
     ],
     "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
   },
+  "subjectDetail": "群论",
   "interest": []
 }

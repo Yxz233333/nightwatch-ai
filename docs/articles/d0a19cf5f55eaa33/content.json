@@ -1,7 +1,7 @@
 {
   "id": "d0a19cf5f55eaa33",
   "section": "papers",
-  "category": "离散几何与组合几何",
+  "category": "组合数学与图论",
   "title": "A power saving for planar halving lines",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-power-saving-for-planar-halving-lines-September-25-2026/main.pdf",
@@ -21,5 +21,6 @@
     ],
     "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
   },
+  "subjectDetail": "离散几何与组合几何",
   "interest": []
 }

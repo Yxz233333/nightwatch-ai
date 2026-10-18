@@ -1,7 +1,7 @@
 {
   "id": "b9527a4c21096e19",
   "section": "papers",
-  "category": "组合数学与图论",
+  "category": "理论计算机科学",
   "title": "Hardness of finding large independent sets in three-colorable graphs",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Hardness-of-finding-large-independent-sets-in-three-colorable-graphs-September-24-2026/Hardness-of-finding-large-independent-sets-in-three-colorable-graphs-September-24-2026.pdf",
@@ -20,5 +20,6 @@
     ],
     "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
   },
+  "subjectDetail": "组合数学与图论",
   "interest": []
 }

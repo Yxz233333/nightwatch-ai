@@ -1,7 +1,7 @@
 {
   "id": "f669925381b5e104",
   "section": "papers",
-  "category": "算法与计算复杂性",
+  "category": "理论计算机科学",
   "title": "An FPRAS for Common Integer Polymatroid Bases with Binary Capacities",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/polymatroid-fpras.pdf",
@@ -21,5 +21,6 @@
     ],
     "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
   },
+  "subjectDetail": "算法与计算复杂性",
   "interest": []
 }

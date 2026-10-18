@@ -1,7 +1,7 @@
 {
   "id": "8e5f733e8bd15eec",
   "section": "papers",
-  "category": "数学论文",
+  "category": "概率与统计",
   "title": "Directional transience implies ballisticity",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Directional-transience-implies-ballisticity-September-23-2026/paper.pdf",
@@ -20,5 +20,6 @@
     ],
     "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
   },
+  "subjectDetail": "数学论文",
   "interest": []
 }

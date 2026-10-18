@@ -1,7 +1,7 @@
 {
   "id": "51f4df23678173d0",
   "section": "papers",
-  "category": "概率论",
+  "category": "概率与统计",
   "title": "Quenched SLE₃ limits for general weak random-bond Ising models",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Quenched-SLE3-limits-for-general-weak-random-bond-Ising-models-October-5-2026/general-weak-random-bond-ising.pdf",
@@ -21,5 +21,6 @@
     ],
     "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
   },
+  "subjectDetail": "概率论",
   "interest": []
 }

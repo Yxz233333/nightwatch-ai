@@ -1,7 +1,7 @@
 {
   "id": "2fec205b66f8eff5",
   "section": "papers",
-  "category": "数学论文",
+  "category": "代数几何",
   "title": "Uniform log Iitaka fibrations and bounded moduli denominators",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Uniform-log-Iitaka-fibrations-and-bounded-moduli-denominators-October-4-2026/uniform-log-iitaka.pdf",
@@ -21,5 +21,6 @@
     ],
     "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
   },
+  "subjectDetail": "数学论文",
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "a0802f2be56fc7d9",
   "section": "papers",
-  "category": "组合数学与图论",
+  "category": "理论计算机科学",
   "title": "Edit Distance in l1: Matching Bounds up to Constants in the Exponent",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Edit-Distance-in-l1-Matching-Bounds-up-to-Constants-in-the-Exponent-September-27-2026/paper.pdf",
@@ -21,5 +21,6 @@
     ],
     "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
   },
+  "subjectDetail": "组合数学与图论",
   "interest": []
 }

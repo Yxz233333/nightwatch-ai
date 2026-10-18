@@ -1,7 +1,7 @@
 {
   "id": "2d540e72efb20d93",
   "section": "papers",
-  "category": "动力系统",
+  "category": "动力系统与遍历论",
   "title": "Uniform Permanence in Weakly Reversible Mass-Action Systems",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Uniform-Permanence-in-Weakly-Reversible-Mass-Action-Systems-October-5-2026/permanence.pdf",
@@ -21,5 +21,6 @@
     ],
     "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
   },
+  "subjectDetail": "动力系统",
   "interest": []
 }

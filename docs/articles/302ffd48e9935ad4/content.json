@@ -1,7 +1,7 @@
 {
   "id": "302ffd48e9935ad4",
   "section": "papers",
-  "category": "理论计算机科学",
+  "category": "概率与统计",
   "title": "Hellinger contraction with arbitrary Boolean output bias",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/main.pdf",
@@ -21,5 +21,6 @@
     ],
     "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
   },
+  "subjectDetail": "理论计算机科学",
   "interest": []
 }

@@ -1,7 +1,7 @@
 {
   "id": "2d12b677aa08ec39",
   "section": "papers",
-  "category": "数学论文",
+  "category": "动力系统与遍历论",
   "title": "Pointwise Multiple Ergodic Averages for Mixing Transformations",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Pointwise-Multiple-Ergodic-Averages-for-Mixing-Transformations-October-4-2026/multiple-ergodic-averages.pdf",
@@ -21,5 +21,6 @@
     ],
     "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
   },
+  "subjectDetail": "数学论文",
   "interest": []
 }

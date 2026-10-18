@@ -1,7 +1,7 @@
 {
   "id": "ddb7a8d0267c7e40",
   "section": "papers",
-  "category": "计算复杂性理论",
+  "category": "数理逻辑与基础",
   "title": "Existential–universal real sentences in the counting hierarchy",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Existential-universal-real-sentences-in-the-counting-hierarchy-October-4-2026/etr-counting-hierarchy.pdf",
@@ -21,5 +21,6 @@
     ],
     "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
   },
+  "subjectDetail": "计算复杂性理论",
   "interest": []
 }

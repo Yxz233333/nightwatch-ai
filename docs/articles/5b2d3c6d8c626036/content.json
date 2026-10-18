@@ -1,7 +1,7 @@
 {
   "id": "5b2d3c6d8c626036",
   "section": "papers",
-  "category": "交换代数",
+  "category": "代数与表示论",
   "title": "A Complete Local Domain without a Small Cohen–Macaulay Module",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/A-Complete-Local-Domain-Without-a-Small-Cohen-Macaulay-Module-September-23-2026/paper.pdf",
@@ -21,5 +21,6 @@
     ],
     "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
   },
+  "subjectDetail": "交换代数",
   "interest": []
 }
