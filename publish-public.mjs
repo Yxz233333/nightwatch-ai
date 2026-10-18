@@ -9,7 +9,7 @@ const likes=interested.filter(a=>a.interest.some(i=>i.kind==='like')),learn=inte
 const old=existsSync(path.join(docs,'content.json'))?JSON.parse(readFileSync(path.join(docs,'content.json'),'utf8')):null;
 const unchanged=old&&old.schemaVersion===4&&JSON.stringify(old.articles)===JSON.stringify(articles)&&old.contentUpdatedAt===content.updatedAt;
 if(!unchanged){
- const syncedAt=new Date().toISOString(),snapshot={schemaVersion:4,title:'夜行 · AI 阅读入口',syncedAt,contentUpdatedAt:content.updatedAt,description:'完整资讯与论文库，interest字段准确标记用户喜欢和想深入了解的内容。仅公开内容与主动标记，不包含用户名、密码、会话或运行日志。',articles};
+ const syncedAt=new Date().toISOString(),snapshot={schemaVersion:4,title:'夜行 · AI 阅读入口',syncedAt,contentUpdatedAt:content.updatedAt,coverage:content.coverage||null,description:'完整资讯与论文库，interest字段准确标记用户喜欢和想深入了解的内容。仅公开内容与主动标记，不包含用户名、密码、会话或运行日志。',articles};
  const json=(file,value)=>writeFileSync(path.join(docs,file),JSON.stringify(value,null,2)+'\n');json('content.json',snapshot);json('interests.json',{syncedAt,articles:interested});json('likes.json',{syncedAt,articles:likes});json('learn.json',{syncedAt,articles:learn});json('marks.json',{syncedAt,marks:interested});
  const esc=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
  const labels={chatgpt:'ChatGPT',codex:'Codex',news:'AI 资讯',papers:'OpenAI论文',breakthroughs:'AI 重大突破'};
