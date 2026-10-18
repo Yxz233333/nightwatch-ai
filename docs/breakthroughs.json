@@ -1,6 +1,29 @@
 {
-  "syncedAt": "2026-10-18T15:39:40.605Z",
+  "syncedAt": "2026-10-18T16:02:14.498Z",
   "articles": [
+    {
+      "id": "6e75ae44e6bdf8c6",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Google Antigravity 辅助发现抗菌肽候选",
+      "date": "2026-10-15",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "summary": "AI 协助跨数据库筛选与结构分析，找到等待湿实验验证的抗菌肽候选。",
+      "status": "研究方法与候选发现进展；尚非完成验证的治疗方案。",
+      "recommended": false,
+      "breakthrough": true,
+      "breakthroughField": "AI 与生命科学",
+      "details": {
+        "overview": "Google DeepMind 的技术案例介绍，研究人员借助 Antigravity 编排数据库查询、蛋白质结构分析与文献梳理，识别新的抗菌肽候选。其价值在于把分散的研究工作集中在协作流程中；案例中的候选仍需湿实验验证，不能等同于已证实有效的药物。",
+        "keyPoints": [
+          "结合数据库、结构和基因组信息提出候选。",
+          "研究人员指导科学目标，代理执行跨工具分析。",
+          "候选进入湿实验验证阶段，实际效力尚待实验。"
+        ],
+        "editorialNote": "依据官方原始材料整理，研究结果的验证程度以原文为准。"
+      },
+      "interest": []
+    },
     {
       "id": "b9b12d19fb88be55",
       "section": "papers",
@@ -109,25 +132,28 @@
       "interest": []
     },
     {
-      "id": "6e75ae44e6bdf8c6",
+      "id": "f07a7bbbe9510be7",
       "section": "news",
       "category": "行业新闻",
-      "title": "Google Antigravity 辅助发现抗菌肽候选",
-      "date": "2026-10-15",
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "summary": "AI 协助跨数据库筛选与结构分析，找到等待湿实验验证的抗菌肽候选。",
-      "status": "研究方法与候选发现进展；尚非完成验证的治疗方案。",
-      "recommended": false,
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "summary": "该官方发布内容介绍 AlphaGenome Atlas，称其绘制了人类基因组中 90 亿个单字母 DNA 变异的分子效应图谱。",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "date": "2026-09-08",
+      "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+      "source": "Google DeepMind",
+      "publishedAt": "2026-09-08T14:00:15+00:00",
       "breakthrough": true,
-      "breakthroughField": "AI 与生命科学",
+      "breakthroughField": "AI 生命科学",
+      "titleEn": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "titleZh": "AlphaGenome Atlas：人类基因组每个可能 DNA 字母变化的预测图谱",
       "details": {
-        "overview": "Google DeepMind 的技术案例介绍，研究人员借助 Antigravity 编排数据库查询、蛋白质结构分析与文献梳理，识别新的抗菌肽候选。其价值在于把分散的研究工作集中在协作流程中；案例中的候选仍需湿实验验证，不能等同于已证实有效的药物。",
+        "overview": "该官方发布内容介绍 AlphaGenome Atlas，称其绘制了人类基因组中 90 亿个单字母 DNA 变异的分子效应图谱。原文仅为一句概述，未说明所用方法、数据来源、预测准确性或验证情况，相关结论需以原始发布为准。",
         "keyPoints": [
-          "结合数据库、结构和基因组信息提出候选。",
-          "研究人员指导科学目标，代理执行跨工具分析。",
-          "候选进入湿实验验证阶段，实际效力尚待实验。"
+          "覆盖人类基因组中 90 亿个单字母 DNA 变异",
+          "目标是给出这些变异的分子效应预测图谱",
+          "原文未披露方法、准确性或验证细节"
         ],
-        "editorialNote": "依据官方原始材料整理，研究结果的验证程度以原文为准。"
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       },
       "interest": []
     },
@@ -151,6 +177,162 @@
           "区分模型提出的证明、形式化检查与数学界独立审查。"
         ],
         "editorialNote": "依据官方原始材料整理，研究结果的验证程度以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "67cc0aed52dbc850",
+      "section": "news",
+      "category": "模型动态",
+      "title": "Learning more about Claude's mathematical capabilities",
+      "summary": "Anthropic 员工让 Claude 尝试黎曼猜想未果，但一个未发布的研究版 Claude 在相关问题上改进了黎曼 zeta 函数满足猜想的零点比例下界，从 41.6% 提高到 67.2%。",
+      "url": "https://www.anthropic.com/research/riemann-zeta",
+      "date": "2026-08-11",
+      "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+      "source": "Anthropic 官方新闻与研究",
+      "publishedAt": "2026-08-10T17:00:00+00:00",
+      "breakthrough": true,
+      "breakthroughField": "AI 数学研究",
+      "titleEn": "Learning more about Claude's mathematical capabilities",
+      "titleZh": "进一步了解 Claude 的数学能力",
+      "details": {
+        "overview": "Anthropic 员工让 Claude 尝试黎曼猜想未果，但一个未发布的研究版 Claude 在相关问题上改进了黎曼 zeta 函数满足猜想的零点比例下界，从 41.6% 提高到 67.2%。原文称该结果借鉴了数学家数十年研究和 Bombieri 2000 年论文，由 Anthropic 两位数学家研究验证，并生成可形式化验证的证明；外部专家 Brian Conrey 与 Dan Goldston 也审阅了论文。Anthropic 表示不预期这些技术能证明黎曼猜想，但视其为 AI 数学能力进展的例证。",
+        "keyPoints": [
+          "未发布研究版 Claude 将 zeta 函数零点比例下界从 41.6% 提升至 67.2%。",
+          "结果由 Anthropic 数学家验证，并生成 Lean 形式化证明通过 comparator 校验。",
+          "Anthropic 称不预期该技术路线能直接证明黎曼猜想。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "858370a20efcf049",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "summary": "该发布称 OpenAI 在数学与理论计算机科学的若干长期未解问题上取得新结果，涉及几何、密码学和复杂性等方向。",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "date": "2026-08-01",
+      "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+      "source": "OpenAI 官方新闻",
+      "publishedAt": "2026-08-01T00:00:00+00:00",
+      "breakthrough": true,
+      "breakthroughField": "AI 数学研究",
+      "titleEn": "Ten advances in mathematics and theoretical computer science",
+      "titleZh": "数学与理论计算机科学的十项进展",
+      "details": {
+        "overview": "该发布称 OpenAI 在数学与理论计算机科学的若干长期未解问题上取得新结果，涉及几何、密码学和复杂性等方向。原文仅概述领域范围，未列出具体问题、证明细节或验证情况，因此这些结果应视为发布方说法，尚不能视为已获独立验证。",
+        "keyPoints": [
+          "发布称在长期未解问题上取得新结果",
+          "涉及几何、密码学与复杂性等方向",
+          "原文未给出具体问题与证明细节"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "0d3b98162beafab8",
+      "section": "news",
+      "category": "模型动态",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "summary": "据原始发布记录，OpenAI的一个模型解决了有80年历史的单位距离问题，并推翻了离散几何中的一项重要猜想。",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "date": "2026-05-20",
+      "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+      "source": "OpenAI 官方新闻",
+      "publishedAt": "2026-05-20T00:00:00+00:00",
+      "breakthrough": true,
+      "breakthroughField": "AI 数学研究",
+      "titleEn": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "titleZh": "OpenAI模型推翻离散几何核心猜想",
+      "details": {
+        "overview": "据原始发布记录，OpenAI的一个模型解决了有80年历史的单位距离问题，并推翻了离散几何中的一项重要猜想。该记录将此事称为AI驱动数学的一个里程碑。材料未提供模型名称、证明细节或独立验证信息，因此具体结论仍需以原始论文或后续审查为准。",
+        "keyPoints": [
+          "OpenAI模型解决了80年历史的单位距离问题",
+          "该结果推翻了离散几何中的一项重要猜想",
+          "原始记录称其为AI驱动数学的里程碑"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "ab0cd353621e9127",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Our First Proof submissions",
+      "summary": "该文分享AI模型针对First Proof数学挑战提交的证明尝试。",
+      "url": "https://openai.com/index/first-proof-submissions",
+      "date": "2026-02-20",
+      "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+      "source": "OpenAI 官方新闻",
+      "publishedAt": "2026-02-20T14:30:00+00:00",
+      "breakthrough": true,
+      "breakthroughField": "AI 数学研究",
+      "titleEn": "Our First Proof submissions",
+      "titleZh": "我们的First Proof提交",
+      "details": {
+        "overview": "该文分享AI模型针对First Proof数学挑战提交的证明尝试。摘要表示，这项挑战用于测试研究级推理能力，题目为专家级数学问题。原文未披露模型名称、题目数量、证明完成度或评估结果，也未说明是否经过独立评审，因此具体表现尚不明确。",
+        "keyPoints": [
+          "分享AI模型对First Proof数学挑战的证明尝试",
+          "该挑战用于测试专家级问题上的研究级推理能力",
+          "原文未披露模型名称、题目数量与评估结果"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "d9e6ca7ccce903dd",
+      "section": "news",
+      "category": "模型动态",
+      "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+      "summary": "官方发布摘要称，相关研究论文显示 Deep Think 在多个领域正产生日益增长的影响，主题聚焦于加速数学与科学发现。",
+      "url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+      "date": "2026-02-10",
+      "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+      "source": "Google DeepMind",
+      "publishedAt": "2026-02-09T16:12:06+00:00",
+      "breakthrough": true,
+      "breakthroughField": "AI 数学研究",
+      "titleEn": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+      "titleZh": "用 Gemini Deep Think 加速数学与科学发现",
+      "details": {
+        "overview": "官方发布摘要称，相关研究论文显示 Deep Think 在多个领域正产生日益增长的影响，主题聚焦于加速数学与科学发现。现有材料仅有一句摘要，未提供具体论文、评测结果或应用案例，因此无法说明其方法与效果细节。以下要点仅依据该摘要提炼，具体结论以原文为准。",
+        "keyPoints": [
+          "主题为用 Gemini Deep Think 加速数学与科学发现",
+          "摘要称研究论文显示其在多个领域影响渐增",
+          "材料未提供具体论文与数据，细节以原文为准"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "20704b424794dee0",
+      "section": "news",
+      "category": "模型动态",
+      "title": "Early experiments in accelerating science with GPT-5",
+      "summary": "官方发布介绍首批研究案例，展示 GPT-5 如何在数学、物理、生物学和计算机科学中加速科学进展。",
+      "url": "https://openai.com/index/accelerating-science-gpt-5",
+      "date": "2025-11-20",
+      "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+      "source": "OpenAI 官方新闻",
+      "publishedAt": "2025-11-20T00:00:00+00:00",
+      "breakthrough": true,
+      "breakthroughField": "AI 科研协作",
+      "titleEn": "Early experiments in accelerating science with GPT-5",
+      "titleZh": "用 GPT-5 加速科学的早期实验",
+      "details": {
+        "overview": "官方发布介绍首批研究案例，展示 GPT-5 如何在数学、物理、生物学和计算机科学中加速科学进展。摘要表示，这些案例呈现 AI 与研究人员协作生成证明、发现新见解并改变发现节奏的方式。原文未列出具体研究结论、验证方式或同行评审情况，相关细节应以原始发布为准，不宜视为已获独立验证。",
+        "keyPoints": [
+          "官方公布首批研究案例，覆盖数学、物理、生物和计算机科学。",
+          "摘要称 GPT-5 可协助研究人员生成证明并发现新见解。",
+          "官方称这些案例展示 AI 与研究者协作改变发现节奏。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       },
       "interest": []
     }

@@ -5,7 +5,7 @@
   "title": "Uniqueness of tangent flows at the first singular time of embedded surface mean-curvature flow",
   "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
   "url": "https://github.com/openai/math/blob/main/preprints/Tangent-flow-uniqueness-2026-09-24/paper.pdf",
-  "date": null,
+  "date": "2026-09-24",
   "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
   "abstractEnglish": "We prove that, at each singular point of the first singular time of the mean-curvature flow of a smooth compact connected embedded surface without boundary in ℝ3, all fixed-center rescalings converge locally smoothly on compact negative-time intervals to one multiplicity-one homothetic self-shrinker flow. The limit is unique in the original ambient coordinates, including its position and axes. No mean-convexity assumption or prescribed tangent model is required.",
   "sourceRepository": "https://github.com/openai/math",

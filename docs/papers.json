@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-18T15:39:40.605Z",
+  "syncedAt": "2026-10-18T16:02:14.498Z",
   "articles": [
     {
       "id": "fbfd5388d5181f79",
@@ -11571,6 +11571,32 @@
       "interest": []
     },
     {
+      "id": "90fde5b343155f36",
+      "section": "papers",
+      "category": "分析与偏微分方程",
+      "title": "Uniqueness of tangent flows at the first singular time of embedded surface mean-curvature flow",
+      "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
+      "url": "https://github.com/openai/math/blob/main/preprints/Tangent-flow-uniqueness-2026-09-24/paper.pdf",
+      "date": "2026-09-24",
+      "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+      "abstractEnglish": "We prove that, at each singular point of the first singular time of the mean-curvature flow of a smooth compact connected embedded surface without boundary in ℝ3, all fixed-center rescalings converge locally smoothly on compact negative-time intervals to one multiplicity-one homothetic self-shrinker flow. The limit is unique in the original ambient coordinates, including its position and axes. No mean-convexity assumption or prescribed tangent model is required.",
+      "sourceRepository": "https://github.com/openai/math",
+      "license": "Apache-2.0",
+      "titleEn": "Uniqueness of tangent flows at the first singular time of embedded surface mean-curvature flow",
+      "titleZh": "嵌入曲面平均曲率流首次奇异时刻切流的唯一性",
+      "details": {
+        "overview": "稿件研究 R^3 中光滑紧连通无边嵌入曲面平均曲率流的首次奇异时刻。作者声称在每个奇异点处，所有固定中心重标度在紧负时间区间上局部光滑收敛到同一个重数为一的位似自收缩流，且极限在原始环境坐标中唯一，包括位置与轴。摘要表示不需要平均凸性假设，也不需要预先指定切模型。该结果针对曲面平均曲率流奇点分析的切流唯一性问题。",
+        "keyPoints": [
+          "研究嵌入曲面平均曲率流首次奇异时刻的切流",
+          "声称所有固定中心重标度收敛到同一自收缩流",
+          "极限在原始坐标中唯一，不需平均凸性假设"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "subjectDetail": "数学论文",
+      "interest": []
+    },
+    {
       "id": "8f94625ee7a0bbe0",
       "section": "papers",
       "category": "代数与表示论",
@@ -12452,6 +12478,30 @@
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       },
       "subjectDetail": "数学论文",
+      "interest": []
+    },
+    {
+      "id": "5ba462981ff7cef6",
+      "section": "papers",
+      "category": "其他数学",
+      "title": "Complex Matrix Multiplication Below 2.258 and Rectangular Bounds",
+      "summary": "OpenAI 数学相关研究材料。具体研究对象、结果及核验状态请查看详情。",
+      "url": "https://github.com/openai/math/blob/main/preprints/Complex-Matrix-Multiplication-Below-2.258-and-Rectangular-Bounds-September-24-2026/Complex-Matrix-Multiplication-Below-2.258-and-Rectangular-Bounds-September-24-2026.pdf) — secondary writeup\n\nOver every field of characteristic zero, we prove that the square matrix-multiplication exponent satisfies <i>ω</i> &lt; 2.258, the dual exponent satisfies <i>α</i> &gt; 0.465, and $`\\omega(1,0.709,1)\\lt 2.092`$. The strict square and <i>k</i> = 0.709 rectangular bounds also hold over every field except possibly in one finite set of positive characteristics, in the arithmetic-operation model.\n\n</td>\n</tr></tbody>\n<tbody><tr>\n<td>\n\n&emsp;[Staggered extraction for exact matrix multiplication over every field](preprints/Staggered-extraction-for-exact-matrix-multiplication-over-every-field-September-24-2026/Staggered-extraction-for-exact-matrix-multiplication-over-every-field-September-24-2026.pdf",
+      "date": "2026-09-24",
+      "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+      "source": "OpenAI 数学仓库",
+      "titleEn": "Complex Matrix Multiplication Below 2.258 and Rectangular Bounds",
+      "abstractEnglish": "We prove that the arithmetic exponent of square matrix multiplication over every fixed field satisfies ω < 2.371054886006746. This includes every positive characteristic.",
+      "titleZh": "低于 2.258 的复数矩阵乘法与矩形界",
+      "details": {
+        "overview": "该研究手稿摘要声称，作者证明了在任意固定域上，方阵乘法的算术指数满足 ω < 2.371054886006746，并称该结果涵盖所有正特征情形。标题还提到“低于 2.258”和“矩形界”，但摘要未展开矩形乘法界的具体形式、证明方法或与既有结果的比较。该稿件为 AI 产生的研究手稿，收录不表示已完成独立审查或同行评议，因此上述结论应视为作者声称，尚待专业验证。",
+        "keyPoints": [
+          "稿件声称任意固定域上方阵乘法指数 ω < 2.371054886006746。",
+          "摘要称结果涵盖所有正特征情形。",
+          "标题提及低于 2.258 与矩形界，摘要未给出细节。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
       "interest": []
     },
     {
@@ -14690,6 +14740,30 @@
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       },
       "subjectDetail": "算子代数",
+      "interest": []
+    },
+    {
+      "id": "d5266dd35bd139f5",
+      "section": "papers",
+      "category": "其他数学",
+      "title": "Sharp integral fillings in CAT(0) spaces",
+      "summary": "OpenAI 数学相关研究材料。具体研究对象、结果及核验状态请查看详情。",
+      "url": "https://github.com/openai/math/blob/main/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/paper.pdf",
+      "date": "2026-09-23",
+      "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+      "source": "OpenAI 数学仓库",
+      "titleEn": "Sharp integral fillings in CAT(0) spaces",
+      "abstractEnglish": "Every compactly supported integral n -cycle, n ≥ 2, in a proper CAT(0) space bounds a compactly supported integral current with the sharp Euclidean mass bound. The theorem allows arbitrary integer multiplicities and unrestricted ambient dimension. In particular, we prove the Euclidean Cartan–Hadamard isoperimetric conjecture in dimensions at least three.",
+      "titleZh": "CAT(0) 空间中的尖锐积分填充",
+      "details": {
+        "overview": "该研究手稿摘要声称，在真 CAT(0) 空间中，每个紧支撑整 n-链（n ≥ 2）都界定一个紧支撑整电流，并满足尖锐的欧几里得质量界；定理允许任意整数重数和不受限的环境维数。摘要还称，由此证明了至少三维情形下的欧几里得 Cartan–Hadamard 等周猜想。该稿件为 AI 产生的研究手稿，收录不表示已完成独立审查或同行评议，上述结论应视为作者声称，尚待数学界检验。",
+        "keyPoints": [
+          "稿件声称真 CAT(0) 空间中紧支撑整 n-链具有尖锐欧几里得质量界填充。",
+          "定理允许任意整数重数与不受限环境维数。",
+          "摘要称由此证明至少三维的欧几里得 Cartan–Hadamard 等周猜想。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
       "interest": []
     },
     {
@@ -18610,29 +18684,49 @@
       "interest": []
     },
     {
-      "id": "90fde5b343155f36",
+      "id": "feaf34efbb59a24e",
       "section": "papers",
-      "category": "分析与偏微分方程",
-      "title": "Uniqueness of tangent flows at the first singular time of embedded surface mean-curvature flow",
-      "summary": "OpenAI 数学仓库收录的研究手稿。展开查看英文摘要，或标记后让我进一步解释。",
-      "url": "https://github.com/openai/math/blob/main/preprints/Tangent-flow-uniqueness-2026-09-24/paper.pdf",
-      "date": null,
-      "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
-      "abstractEnglish": "We prove that, at each singular point of the first singular time of the mean-curvature flow of a smooth compact connected embedded surface without boundary in ℝ3, all fixed-center rescalings converge locally smoothly on compact negative-time intervals to one multiplicity-one homothetic self-shrinker flow. The limit is unique in the original ambient coordinates, including its position and axes. No mean-convexity assumption or prescribed tangent model is required.",
-      "sourceRepository": "https://github.com/openai/math",
-      "license": "Apache-2.0",
-      "titleEn": "Uniqueness of tangent flows at the first singular time of embedded surface mean-curvature flow",
-      "titleZh": "嵌入曲面平均曲率流首次奇异时刻切流的唯一性",
+      "category": "AI 辅助数学研究",
+      "title": "First Proof?",
+      "summary": "OpenAI 数学相关研究材料。具体研究对象、结果及核验状态请查看详情。",
+      "url": "https://cdn.openai.com/pdf/a430f16e-08c6-49c7-9ed0-ce5368b71d3c/1stproof_oai.pdf",
+      "date": "2026-02-13",
+      "status": "日期采用 PDF 首页的 2026-02-13；证明尝试的正确性以专家核验及后续修订为准。",
+      "source": "OpenAI 官方研究",
+      "titleEn": "First Proof?",
+      "titleZh": "首个证明？",
       "details": {
-        "overview": "稿件研究 R^3 中光滑紧连通无边嵌入曲面平均曲率流的首次奇异时刻。作者声称在每个奇异点处，所有固定中心重标度在紧负时间区间上局部光滑收敛到同一个重数为一的位似自收缩流，且极限在原始环境坐标中唯一，包括位置与轴。摘要表示不需要平均凸性假设，也不需要预先指定切模型。该结果针对曲面平均曲率流奇点分析的切流唯一性问题。",
+        "overview": "该稿件记录OpenAI针对十道研究级数学问题给出的证明尝试，覆盖分析、数论、组合、拓扑与数值计算等方向。摘要表示，模型生成的证明不能直接视为全部正确；官方后续说明问题2的尝试不正确，其余尝试的审核状态需结合后续专家评论。材料未提供具体证明内容与专家核验结论，因此这些尝试是否成立仍待确认。",
         "keyPoints": [
-          "研究嵌入曲面平均曲率流首次奇异时刻的切流",
-          "声称所有固定中心重标度收敛到同一自收缩流",
-          "极限在原始坐标中唯一，不需平均凸性假设"
+          "稿件记录OpenAI对十道研究级数学问题的证明尝试，涉及分析、数论、组合、拓扑与数值计算。",
+          "摘要表示模型证明不能直接视为全部正确，官方后续说明问题2的尝试不正确。",
+          "其余尝试的审核状态需结合后续专家评论，正确性以专家核验及修订为准。"
         ],
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       },
-      "subjectDetail": "数学论文",
+      "interest": []
+    },
+    {
+      "id": "0458dd1de64ef86b",
+      "section": "papers",
+      "category": "AI 辅助数学研究",
+      "title": "Early science acceleration experiments with GPT-5",
+      "summary": "OpenAI 数学相关研究材料。具体研究对象、结果及核验状态请查看详情。",
+      "url": "https://openai.com/index/accelerating-science-gpt-5/",
+      "date": "2025-11-20",
+      "status": "这是跨学科案例研究，不是对模型科研成功率的系统抽样；数学结果仍需逐项检查。",
+      "source": "OpenAI 官方研究",
+      "titleEn": "Early science acceleration experiments with GPT-5",
+      "titleZh": "GPT-5 的早期科学加速实验",
+      "details": {
+        "overview": "这是 OpenAI 与多所高校及实验室合作的跨学科案例研究，覆盖组合数学、数论、优化、物理和生物学。摘要表示，报告记录了专家如何借助 GPT-5 提出思路、检索文献和验证猜想，同时也记录了模型出现的错误与归因问题。需要说明的是，该材料属于案例研究，并非对模型科研成功率的系统抽样，数学结果仍需逐项检查，不能视为已获独立验证。",
+        "keyPoints": [
+          "覆盖组合数学、数论、优化、物理与生物学等跨学科案例",
+          "记录专家用 GPT-5 提出思路、检索文献与验证猜想的过程",
+          "材料明确提示存在错误与归因问题，数学结果需逐项检查"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
       "interest": []
     }
   ]

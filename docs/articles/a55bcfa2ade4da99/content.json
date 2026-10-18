@@ -5,7 +5,7 @@
   "title": "Claude 参与新型酶系统发现",
   "summary": "Anthropic 发布生命科学研究进展，介绍通用 AI 辅助发现的实验。",
   "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-  "date": null,
+  "date": "2026-09-24",
   "status": "",
   "recommended": false,
   "details": {
@@ -17,5 +17,6 @@
     ],
     "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
   },
+  "publishedAt": "2026-09-23T16:06:00+00:00",
   "interest": []
 }
