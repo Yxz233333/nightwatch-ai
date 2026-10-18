@@ -1,0 +1,24 @@
+{
+  "id": "6eedf54fbd4f1d38",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Create and edit with your voice, anywhere on your desktop with Gemini on macOS",
+  "summary": "该公告介绍 Gemini macOS 应用新增的语音工作方式：按住 Fn 键即可在当前活动窗口听写，Gemini 将口述内容转写为整洁文本并直接输出到光标处。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2026-07-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|Create and edit with your voice, anywhere on your desktop with Gemini on macOS|2026-07-29",
+  "titleEn": "Create and edit with your voice, anywhere on your desktop with Gemini on macOS",
+  "titleZh": "在 macOS 桌面任意位置用语音创建和编辑：Gemini 新功能",
+  "details": {
+    "overview": "该公告介绍 Gemini macOS 应用新增的语音工作方式：按住 Fn 键即可在当前活动窗口听写，Gemini 将口述内容转写为整洁文本并直接输出到光标处。用户还可在应用设置中启用 Gemini 推理，以便结合屏幕上下文做更多事，例如高亮文本进行改写或重排格式、选择本地文件提取信息，或在任意位置生成图像。该功能当天以英语向 Gemini macOS 应用全部用户推出，并给出应用下载地址。公告称其目的是让用户以说话的速度工作，口述中的停顿与自我更正由 Gemini 处理。",
+    "keyPoints": [
+      "按住 Fn 键可在活动窗口听写，文本直接输出到光标处。",
+      "启用推理后可结合屏幕上下文改写文本、提取文件信息或生成图像。",
+      "该功能以英语向 macOS 应用全部用户推出。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

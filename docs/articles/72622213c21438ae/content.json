@@ -1,0 +1,25 @@
+{
+  "id": "72622213c21438ae",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+  "summary": "该官方内容宣布 OpenAI 推出 DeployCo，一家面向企业部署的新公司，目标是帮助组织将前沿 AI 投入生产环境，并转化为可衡量的业务影响。",
+  "url": "https://openai.com/index/openai-launches-the-deployment-company",
+  "date": "2026-05-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-11T06:00:00+00:00",
+  "titleEn": "OpenAI launches DeployCo to help businesses build around intelligence",
+  "titleZh": "OpenAI 推出 DeployCo，帮助企业围绕智能构建业务",
+  "details": {
+    "overview": "该官方内容宣布 OpenAI 推出 DeployCo，一家面向企业部署的新公司，目标是帮助组织将前沿 AI 投入生产环境，并转化为可衡量的业务影响。材料仅说明公司定位与目标，未披露服务内容、合作方式、定价或客户案例。因此其实际部署效果尚待观察。对企业用户而言，其意义在于了解 OpenAI 在企业落地环节的组织化布局。",
+    "keyPoints": [
+      "OpenAI 推出企业部署公司 DeployCo",
+      "目标是把前沿 AI 引入生产并转化为业务影响",
+      "当前收录材料未提供服务内容、定价与客户案例"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

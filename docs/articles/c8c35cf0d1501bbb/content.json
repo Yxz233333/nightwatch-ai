@@ -1,0 +1,24 @@
+{
+  "id": "c8c35cf0d1501bbb",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Meet your new AI browsing assistant: Gemini in Chrome",
+  "summary": "谷歌为Chrome中的Gemini推出重大更新，基于Gemini 3模型，新增侧边栏体验，支持多任务、更深入的谷歌应用集成，并可通过Nano Banana快速编辑图片。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2026-01-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|Meet your new AI browsing assistant: Gemini in Chrome|2026-01-28",
+  "titleEn": "Meet your new AI browsing assistant: Gemini in Chrome",
+  "titleZh": "认识你的新AI浏览助手：Chrome中的Gemini",
+  "details": {
+    "overview": "谷歌为Chrome中的Gemini推出重大更新，基于Gemini 3模型，新增侧边栏体验，支持多任务、更深入的谷歌应用集成，并可通过Nano Banana快速编辑图片。同时预览自动浏览功能，帮助用户自动化任务并保持控制。该体验面向美国Windows、MacOS和Chromebook Plus用户；自动浏览预览面向美国Google AI Pro和Ultra订阅者，暂不适用于Google Workspace商业和教育计划。",
+    "keyPoints": [
+      "Chrome中的Gemini基于Gemini 3，新增侧边栏和多任务体验。",
+      "支持更深入的谷歌应用集成和Nano Banana图片编辑。",
+      "自动浏览预览面向美国Google AI Pro和Ultra订阅者。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

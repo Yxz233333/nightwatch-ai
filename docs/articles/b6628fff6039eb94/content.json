@@ -1,0 +1,24 @@
+{
+  "id": "b6628fff6039eb94",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Join the AMD Open Robotics Hackathon",
+  "summary": "该内容为AMD开放机器人黑客松的活动公告，邀请参与者加入。",
+  "url": "https://huggingface.co/blog/amd/openroboticshackathon",
+  "date": "2025-11-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-11-13T21:37:26+00:00",
+  "titleEn": "Join the AMD Open Robotics Hackathon",
+  "titleZh": "加入AMD开放机器人黑客松",
+  "details": {
+    "overview": "该内容为AMD开放机器人黑客松的活动公告，邀请参与者加入。由于原始发布内容仅有标题，缺乏具体活动细节、时间安排或参与方式等信息，无法提供更详细的介绍。",
+    "keyPoints": [
+      "活动名称为AMD开放机器人黑客松。",
+      "原始发布内容仅包含标题，无具体细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

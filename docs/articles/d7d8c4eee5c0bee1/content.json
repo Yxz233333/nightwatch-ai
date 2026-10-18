@@ -1,0 +1,25 @@
+{
+  "id": "d7d8c4eee5c0bee1",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+  "summary": "Databricks在企业代理工作流中使用GPT-5.5，此前该模型在OfficeQA Pro基准测试中创下新的 state of the art。",
+  "url": "https://openai.com/index/databricks",
+  "date": "2026-05-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-15T00:00:00+00:00",
+  "titleEn": "Databricks brings GPT-5.5 to enterprise agent workflows",
+  "titleZh": "Databricks将GPT-5.5引入企业代理工作流",
+  "details": {
+    "overview": "Databricks在企业代理工作流中使用GPT-5.5，此前该模型在OfficeQA Pro基准测试中创下新的 state of the art。该动态表明GPT-5.5在企业任务处理方面获得认可，但具体部署范围和效果未在摘要中详述。",
+    "keyPoints": [
+      "Databricks采用GPT-5.5用于企业代理工作流",
+      "GPT-5.5在OfficeQA Pro基准测试中表现领先",
+      "该合作基于模型在企业任务中的性能"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "054c9eeaa0c86181",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers",
+  "summary": "该发布介绍在使用 transformers 时可以参考的 OpenAI gpt-oss 相关技巧。",
+  "url": "https://huggingface.co/blog/faster-transformers",
+  "date": "2025-09-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-09-11T00:00:00+00:00",
+  "titleEn": "Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers",
+  "titleZh": "你也能在 transformers 中使用的 OpenAI gpt-oss 技巧",
+  "details": {
+    "overview": "该发布介绍在使用 transformers 时可以参考的 OpenAI gpt-oss 相关技巧。材料仅提供标题与摘要，未说明具体技巧内容、适用模型版本或使用条件，相关细节需以官方原文为准。本条仅反映官方发布记录中的主题，不构成对技巧有效性或兼容性的独立验证。",
+    "keyPoints": [
+      "发布主题为在 transformers 中使用 gpt-oss 的技巧。",
+      "材料未披露具体技巧内容与适用条件。",
+      "使用细节需以官方原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

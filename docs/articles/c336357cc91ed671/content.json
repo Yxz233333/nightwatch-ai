@@ -1,0 +1,23 @@
+{
+  "id": "c336357cc91ed671",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Sign in with ChatGPT (beta)",
+  "summary": "该公告称“使用 ChatGPT 登录”开始以测试版在部分插件和合作站点推出，首批包括 Airtable、GitLab、HubSpot、Notion、Supabase 和 Vercel。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2026-07-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "Sign in with ChatGPT (beta)",
+  "titleZh": "使用 ChatGPT 登录（测试版）",
+  "details": {
+    "overview": "该公告称“使用 ChatGPT 登录”开始以测试版在部分插件和合作站点推出，首批包括 Airtable、GitLab、HubSpot、Notion、Supabase 和 Vercel。用户从 ChatGPT 插件目录连接受支持的插件时，可用该方式以更少步骤创建或关联对应服务账户；在参与的合作站点上也可选择该入口创建或访问账户，便于在 ChatGPT 和 Codex 中使用这些工具。登录时合作方仅获得姓名、邮箱和头像（如有），用户仍需单独审阅并批准每个插件申请的访问权限。",
+    "keyPoints": [
+      "测试版首批覆盖 Airtable、GitLab、HubSpot、Notion、Supabase、Vercel。",
+      "可在插件目录连接时创建或关联账户，减少账户设置步骤。",
+      "合作方仅获姓名、邮箱和头像，插件权限仍需单独审批。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

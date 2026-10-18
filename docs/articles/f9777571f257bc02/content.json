@@ -1,0 +1,23 @@
+{
+  "id": "f9777571f257bc02",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Introducing GPT-5.1-Codex and GPT-5.1-Codex-Mini",
+  "summary": "OpenAI 在 Codex 中新增 gpt-5.1-codex-mini 与 gpt-5.1-codex 两个模型选项，称其为针对长时间运行的智能体式编码任务、以及在 Codex 或类似编码智能体框架中使用的 GPT-5.1 版本。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2025-11-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "Introducing GPT-5.1-Codex and GPT-5.1-Codex-Mini",
+  "titleZh": "推出 GPT-5.1-Codex 与 GPT-5.1-Codex-Mini",
+  "details": {
+    "overview": "OpenAI 在 Codex 中新增 gpt-5.1-codex-mini 与 gpt-5.1-codex 两个模型选项，称其为针对长时间运行的智能体式编码任务、以及在 Codex 或类似编码智能体框架中使用的 GPT-5.1 版本。原文说明，CLI 与 IDE 扩展在 macOS 和 Linux 上默认使用 gpt-5.1-codex，在 Windows 上默认使用 gpt-5.1；用户也可通过命令行参数、/model 命令或 IDE 下拉菜单切换，并可在 config.toml 中修改默认模型。",
+    "keyPoints": [
+      "Codex 新增 gpt-5.1-codex 与 gpt-5.1-codex-mini 两个模型选项。",
+      "官方称其针对长时间运行的智能体式编码任务优化。",
+      "CLI 与 IDE 扩展在 macOS、Linux 默认用 gpt-5.1-codex，Windows 默认 gpt-5.1。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

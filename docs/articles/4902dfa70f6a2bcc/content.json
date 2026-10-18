@@ -1,0 +1,24 @@
+{
+  "id": "4902dfa70f6a2bcc",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Ask Claude about the Anthropic Economic Index",
+  "summary": "Anthropic 推出 Anthropic Economic Index 连接器，让用户可在 Claude 中直接查询该指数数据。",
+  "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+  "date": "2026-07-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-07-22T17:00:00+00:00",
+  "titleEn": "Ask Claude about the Anthropic Economic Index",
+  "titleZh": "在 Claude 中询问 Anthropic 经济指数",
+  "details": {
+    "overview": "Anthropic 推出 Anthropic Economic Index 连接器，让用户可在 Claude 中直接查询该指数数据。该指数衡量 AI 在经济中的实际使用方式，此前主要服务研究者、记者和政策制定者。现在用户通过 claude.ai 的连接器菜单启用后，即可用自然语言提问，答案基于指数数据，并可要求展示底层数据。官方提醒该指数反映的是 Claude 使用模式而非整体劳动力市场，Claude 会指出数据来源与局限。",
+    "keyPoints": [
+      "连接器在 claude.ai 连接器目录中启用，无需安装，适用于任意 Claude 模型对话。",
+      "用户可询问 AI 对行业或任务的影响，并让 Claude 展示答案背后的指数数据。",
+      "官方说明指数反映 Claude 使用模式，不代表整体劳动力市场，并会提示数据局限。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

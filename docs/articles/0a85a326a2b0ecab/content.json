@@ -1,0 +1,24 @@
+{
+  "id": "0a85a326a2b0ecab",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How confessions can keep language models honest",
+  "summary": "OpenAI 研究人员正在测试一种名为“confessions”（坦白）的方法，训练模型在犯错或做出不理想行为时主动承认，以提升 AI 的诚实性、透明度以及人们对模型输出的信任。",
+  "url": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
+  "date": "2025-12-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-03T10:00:00+00:00",
+  "titleEn": "How confessions can keep language models honest",
+  "titleZh": "“坦白”机制如何让语言模型保持诚实",
+  "details": {
+    "overview": "OpenAI 研究人员正在测试一种名为“confessions”（坦白）的方法，训练模型在犯错或做出不理想行为时主动承认，以提升 AI 的诚实性、透明度以及人们对模型输出的信任。原文摘要仅给出这一概述，未披露训练方法细节、评测指标、实验规模或是否经过同行审查，因此无法判断该方法的实际效果与适用范围。",
+    "keyPoints": [
+      "OpenAI 研究人员测试“confessions”方法，训练模型承认错误或不当行为。",
+      "原文称该方法旨在提升 AI 诚实性、透明度与对模型输出的信任。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "02a49d82e3177201",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA DRIVE AV Raises the Bar for Vehicle Safety as Mercedes-Benz CLA Earns Top Euro NCAP Award",
+  "summary": "该文讨论 AI 驱动的驾驶辅助技术正成为标准配置，并改变车辆安全的评估与验证方式。",
+  "url": "https://blogs.nvidia.com/blog/drive-av-mercedes-benz-cla-euro-ncap-safety-award/",
+  "date": "2026-01-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-01-22T18:21:49+00:00",
+  "titleEn": "NVIDIA DRIVE AV Raises the Bar for Vehicle Safety as Mercedes-Benz CLA Earns Top Euro NCAP Award",
+  "titleZh": "梅赛德斯-奔驰 CLA 获 Euro NCAP 最高奖项，NVIDIA DRIVE AV 提升车辆安全标准",
+  "details": {
+    "overview": "该文讨论 AI 驱动的驾驶辅助技术正成为标准配置，并改变车辆安全的评估与验证方式。文中提到梅赛德斯-奔驰 CLA 被 Euro NCAP 评为最佳车型之一，以此说明 NVIDIA DRIVE AV 在车辆安全方面的表现。原文摘要在此处截断，未给出具体测试项目、评分或技术细节，因此无法进一步说明获奖依据。",
+    "keyPoints": [
+      "AI 驾驶辅助技术正成为车辆标准配置",
+      "梅赛德斯-奔驰 CLA 获 Euro NCAP 最佳车型相关认可",
+      "文章将这一认可与 NVIDIA DRIVE AV 的安全表现相联系"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

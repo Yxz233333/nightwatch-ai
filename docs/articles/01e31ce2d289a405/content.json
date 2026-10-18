@@ -1,0 +1,25 @@
+{
+  "id": "01e31ce2d289a405",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "A free version of ChatGPT built for teachers",
+  "summary": "据官方发布摘要，ChatGPT for Teachers是一个安全工作区，具备教育级隐私保护与管理控制功能。",
+  "url": "https://openai.com/index/chatgpt-for-teachers",
+  "date": "2025-11-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-19T00:00:00+00:00",
+  "titleEn": "A free version of ChatGPT built for teachers",
+  "titleZh": "面向教师推出的免费版ChatGPT",
+  "details": {
+    "overview": "据官方发布摘要，ChatGPT for Teachers是一个安全工作区，具备教育级隐私保护与管理控制功能。该版本面向通过验证的美国K–12教育工作者免费提供，期限至2027年6月。材料未说明功能清单或适用条件细节，具体范围与限制需以官方原文为准。",
+    "keyPoints": [
+      "ChatGPT for Teachers为安全工作区，具备教育级隐私与管理控制。",
+      "面向通过验证的美国K–12教育工作者免费提供。",
+      "免费期限至2027年6月。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

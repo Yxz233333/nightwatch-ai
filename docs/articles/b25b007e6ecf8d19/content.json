@@ -1,0 +1,25 @@
+{
+  "id": "b25b007e6ecf8d19",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing Nano Banana Pro",
+  "summary": "该官方发布记录宣布推出 Nano Banana Pro。",
+  "url": "https://deepmind.google/blog/introducing-nano-banana-pro/",
+  "date": "2025-11-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2025-11-20T15:05:02+00:00",
+  "titleEn": "Introducing Nano Banana Pro",
+  "titleZh": "推出 Nano Banana Pro",
+  "details": {
+    "overview": "该官方发布记录宣布推出 Nano Banana Pro。当前收录材料未提供模型能力、技术架构、适用场景、推出范围或使用限制等细节，因此无法进一步说明其具体表现。对关注图像模型动态的读者而言，这是一条产品发布信息，具体功能与可用性应以官方原始发布为准。",
+    "keyPoints": [
+      "官方发布记录宣布推出 Nano Banana Pro",
+      "原文未说明模型能力与技术细节",
+      "推出范围与限制需以原始发布为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

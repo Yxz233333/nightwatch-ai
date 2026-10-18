@@ -1,0 +1,24 @@
+{
+  "id": "3152d018b8d1682b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How OpenAI delivers low-latency voice AI at scale",
+  "summary": "OpenAI 介绍其如何重建 WebRTC 技术栈，以低延迟、全球规模和无缝对话轮次切换来支持实时语音 AI。",
+  "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+  "date": "2026-05-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-04T00:00:00+00:00",
+  "titleEn": "How OpenAI delivers low-latency voice AI at scale",
+  "titleZh": "OpenAI 如何大规模提供低延迟语音 AI",
+  "details": {
+    "overview": "OpenAI 介绍其如何重建 WebRTC 技术栈，以低延迟、全球规模和无缝对话轮次切换来支持实时语音 AI。原文仅提供一句概述，未展开具体架构、性能数据或部署细节，因此无法进一步说明重建的技术方案与实际效果。",
+    "keyPoints": [
+      "重建 WebRTC 技术栈以支持实时语音 AI。",
+      "目标包括低延迟、全球规模和无缝对话轮次切换。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

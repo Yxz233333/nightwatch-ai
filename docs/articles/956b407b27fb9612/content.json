@@ -1,0 +1,24 @@
+{
+  "id": "956b407b27fb9612",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "GPT-5.5 Instant in ChatGPT",
+  "summary": "OpenAI 将 GPT-5.5 Instant 设为 ChatGPT 新的默认模型，取代 GPT-5.3 Instant，面向所有 ChatGPT 用户推出。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-in-chatgpt",
+  "date": "2026-05-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "GPT-5.5 Instant in ChatGPT",
+  "titleZh": "ChatGPT 中的 GPT-5.5 Instant",
+  "details": {
+    "overview": "OpenAI 将 GPT-5.5 Instant 设为 ChatGPT 新的默认模型，取代 GPT-5.3 Instant，面向所有 ChatGPT 用户推出。官方称其在准确性、清晰度和简洁性、图像理解、STEM 问题以及是否联网搜索的判断上有所改进，事实可靠性更高，回答更紧凑直接，减少不必要的追问和过度格式化。Plus 和 Pro 网页版用户在连接后可更好利用历史对话、文件和 Gmail 上下文。付费用户可在三个月内通过模型配置继续使用 GPT-5.3 Instant。",
+    "keyPoints": [
+      "GPT-5.5 Instant 成为 ChatGPT 默认模型，取代 GPT-5.3 Instant",
+      "官方称其在准确性、图像理解、STEM 与联网搜索判断上改进",
+      "Plus 和 Pro 网页版可更好利用历史对话、文件与 Gmail 上下文",
+      "付费用户可在三个月内通过配置继续使用 GPT-5.3 Instant"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

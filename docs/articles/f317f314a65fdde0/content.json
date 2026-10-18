@@ -1,0 +1,24 @@
+{
+  "id": "f317f314a65fdde0",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
+  "summary": "Anthropic 宣布与 Amazon 签署新协议，深化合作并锁定最多 5 吉瓦容量用于训练和部署 Claude，包括今年上半年上线的 Trainium2 容量，以及到 2026 年底近 1 吉瓦的 Trainium2 与 Trainium3 总容量。",
+  "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
+  "date": "2026-04-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-04-20T15:50:00+00:00",
+  "titleEn": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
+  "titleZh": "Anthropic 与 Amazon 扩大合作，新增最多 5 吉瓦算力",
+  "details": {
+    "overview": "Anthropic 宣布与 Amazon 签署新协议，深化合作并锁定最多 5 吉瓦容量用于训练和部署 Claude，包括今年上半年上线的 Trainium2 容量，以及到 2026 年底近 1 吉瓦的 Trainium2 与 Trainium3 总容量。Anthropic 承诺未来十年在 AWS 技术上投入超过 1000 亿美元，覆盖 Graviton 与 Trainium2 至 Trainium4 芯片。完整 Claude Platform 将可直接在 AWS 内使用，同一账户、控制与计费。Amazon 现投资 50 亿美元，未来最多再投 200 亿美元。Anthropic 称其运行收入已超 300 亿美元。",
+    "keyPoints": [
+      "协议锁定最多 5 吉瓦新容量，用于训练和运行 Claude，含 Trainium2 与 Trainium3。",
+      "Anthropic 承诺未来十年在 AWS 技术上投入超过 1000 亿美元。",
+      "Claude Platform 将直接进入 AWS，Amazon 现投 50 亿美元并可能再投最多 200 亿美元。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

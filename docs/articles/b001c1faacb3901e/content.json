@@ -1,0 +1,24 @@
+{
+  "id": "b001c1faacb3901e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+  "summary": "Anthropic前沿红队开发了新评估，用于测量AI在战术情报定位（如依据零散信息定位人员）和常规武器研发（如设计无人机打击移动目标）方面的能力。",
+  "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+  "date": "2026-09-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-09-10T17:00:00+00:00",
+  "titleEn": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+  "titleZh": "测量AI模型在战术情报定位与传统武器能力上的表现",
+  "details": {
+    "overview": "Anthropic前沿红队开发了新评估，用于测量AI在战术情报定位（如依据零散信息定位人员）和常规武器研发（如设计无人机打击移动目标）方面的能力。原文称，模型在模拟情报与武器研发任务上持续进步，测试的开源权重模型落后于前沿但能力仍值得关注。作者认为能力不会很快停滞，并提醒这可能影响模型的训练、防护与发布方式。评估基于合成数据，存在真实感不足等局限。",
+    "keyPoints": [
+      "前沿红队新评估覆盖账户关联、人员分类与照片地理定位等任务。",
+      "原文称模型在模拟情报与武器研发任务上持续进步，开源权重模型落后但能力仍令人关注。",
+      "作者提醒合成数据真实感有限，结果应视为能力差异的提示而非绝对评价。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

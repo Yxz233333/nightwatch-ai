@@ -1,0 +1,24 @@
+{
+  "id": "de6d7f6030169d4c",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Finding bugs across the Python ecosystem with Claude and property-based testing",
+  "summary": "稿件提出一个由Claude驱动的智能体，可自动为大型Python项目编写基于属性的测试：它从类型标注、文档字符串、函数名和注释中推断代码应满足的通用性质，再用Hypothesis生成输入寻找反例。",
+  "url": "https://www.anthropic.com/research/property-based-testing",
+  "date": "2026-01-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-01-14T00:00:00+00:00",
+  "titleEn": "Finding bugs across the Python ecosystem with Claude and property-based testing",
+  "titleZh": "用Claude与基于属性的测试在Python生态中发现缺陷",
+  "details": {
+    "overview": "稿件提出一个由Claude驱动的智能体，可自动为大型Python项目编写基于属性的测试：它从类型标注、文档字符串、函数名和注释中推断代码应满足的通用性质，再用Hypothesis生成输入寻找反例。作者声称在NumPy、SciPy、Pandas等流行包中发现数百个潜在缺陷，经三名专家人工复核及作者确认后向维护者提交，部分已被修复。研究意义在于把基于属性的测试自动化，减少开发者遗漏边界情况的风险。",
+    "keyPoints": [
+      "智能体以Claude Code自定义命令实现，可针对单文件、模块或函数运行",
+      "通过自反思循环降低误报，并优先依据显式用法与文档确定属性",
+      "作者对候选缺陷做多轮人工复核后才提交，部分报告已被修复"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

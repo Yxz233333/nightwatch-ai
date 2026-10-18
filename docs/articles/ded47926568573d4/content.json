@@ -1,0 +1,25 @@
+{
+  "id": "ded47926568573d4",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.98.0 发布",
+  "summary": "Codex CLI 0.98.0 稳定版发布，引入 GPT-5.3-Codex，并将 Steer 模式设为默认稳定功能：运行任务时 Enter 立即发送，Tab 显式排队后续输入。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.98.0",
+  "date": "2026-02-06",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-02-05T17:00:36+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.98.0 发布",
+  "titleZh": "Codex CLI 0.98.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.98.0 稳定版发布，引入 GPT-5.3-Codex，并将 Steer 模式设为默认稳定功能：运行任务时 Enter 立即发送，Tab 显式排队后续输入。修复了 TypeScript SDK 中 resumeThread() 参数顺序、切换或恢复模型时的指令处理、远程压缩不一致及登录后云要求重载等问题。还恢复了默认助手人格为 Pragmatic，并统一了协作模式命名。",
+    "keyPoints": [
+      "引入 GPT-5.3-Codex，Steer 模式稳定并默认启用。",
+      "修复 resumeThread() 参数顺序及模型切换指令处理问题。",
+      "恢复默认助手人格为 Pragmatic，统一协作模式命名。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

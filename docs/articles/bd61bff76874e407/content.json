@@ -1,0 +1,25 @@
+{
+  "id": "bd61bff76874e407",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Launching Sora responsibly",
+  "summary": "文章说明，为应对先进视频模型与新型社交创作平台带来的新安全挑战，Sora 2 与 Sora 应用在构建时以安全为基础。",
+  "url": "https://openai.com/index/launching-sora-responsibly",
+  "date": "2025-09-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-30T00:00:00+00:00",
+  "titleEn": "Launching Sora responsibly",
+  "titleZh": "负责任地推出 Sora",
+  "details": {
+    "overview": "文章说明，为应对先进视频模型与新型社交创作平台带来的新安全挑战，Sora 2 与 Sora 应用在构建时以安全为基础。原文称其方法以具体防护措施为支撑，但摘要未展开这些措施的具体内容。该文属于官方发布说明，涉及安全设计理念，具体防护细节与适用范围需以原文为准。",
+    "keyPoints": [
+      "Sora 2 与 Sora 应用在设计中以安全为基础。",
+      "原文称其安全方法以具体防护措施为支撑。",
+      "背景是视频模型与社交创作平台带来的新安全挑战。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

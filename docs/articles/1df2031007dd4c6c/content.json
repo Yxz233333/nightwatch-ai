@@ -1,0 +1,25 @@
+{
+  "id": "1df2031007dd4c6c",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.150.1 发布",
+  "summary": "Codex CLI 0.150.1 为稳定版本更新，主要包含缺陷修复。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.150.1",
+  "date": "2026-08-27",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-08-27T01:56:54+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.150.1 发布",
+  "titleZh": "Codex CLI 0.150.1 发布",
+  "details": {
+    "overview": "Codex CLI 0.150.1 为稳定版本更新，主要包含缺陷修复。根据发布说明，远程压缩现在默认将保留的图像计入 token 预算，并在需要时裁剪较旧的图像；该改动由编号 #41003 的提交回移植到 0.150 版本。材料未提及其他功能变化，桌面端功能需以对应公告为准。",
+    "keyPoints": [
+      "远程压缩默认将保留图像计入 token 预算。",
+      "需要时裁剪较旧图像以控制预算。",
+      "相关改动以 #41003 回移植到 0.150 版本。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

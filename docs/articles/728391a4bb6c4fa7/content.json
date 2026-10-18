@@ -1,0 +1,24 @@
+{
+  "id": "728391a4bb6c4fa7",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+  "summary": "该稿件分析智谱 AI 的 GLM-5.3，称其能自主构建端到端网络漏洞利用，且发布时未设有效防护。",
+  "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+  "date": "2026-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-09-29T15:46:00+00:00",
+  "titleEn": "GLM-5.3 and the spread of advanced cyber capabilities",
+  "titleZh": "GLM-5.3 与高级网络能力的扩散",
+  "details": {
+    "overview": "该稿件分析智谱 AI 的 GLM-5.3，称其能自主构建端到端网络漏洞利用，且发布时未设有效防护。作者在模拟测试中称，简单技术可在 64% 至 100% 的情况下绕过其防护，而对有防护的 Claude 模型未成功。稿件还引用 NIST CAISI 的评估，称其为迄今网络能力最强的开放权重模型，并落后美国前沿约四个月。作者通过基准与人工测试展示其漏洞利用能力，并指出开放权重使其可被重新配置移除拒答。",
+    "keyPoints": [
+      "作者称 GLM-5.3 可自主构建端到端网络漏洞利用",
+      "模拟测试称其防护可被简单技术以 64% 至 100% 绕过",
+      "稿件引用 CAISI 评估称其为网络能力最强的开放权重模型"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

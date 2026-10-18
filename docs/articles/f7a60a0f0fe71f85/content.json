@@ -1,0 +1,25 @@
+{
+  "id": "f7a60a0f0fe71f85",
+  "section": "news",
+  "category": "模型动态",
+  "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+  "summary": "该文讨论 GPT-5.6 如何在模型、推理和智能体工作流层面提升 AI 效率，目标是让每一美元带来更有用的智能。",
+  "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+  "date": "2026-07-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-29T00:00:00+00:00",
+  "titleEn": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+  "titleZh": "GPT-5.6 如何融合前沿智能与前沿效率",
+  "details": {
+    "overview": "该文讨论 GPT-5.6 如何在模型、推理和智能体工作流层面提升 AI 效率，目标是让每一美元带来更有用的智能。原始发布记录未提供具体基准数据或效率提升幅度，相关结论需以官方原文为准。",
+    "keyPoints": [
+      "主题是 GPT-5.6 在模型、推理与智能体工作流上的效率",
+      "作者称目标是提升每美元获得的实用智能",
+      "具体效率数据以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

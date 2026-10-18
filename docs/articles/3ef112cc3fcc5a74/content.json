@@ -1,0 +1,25 @@
+{
+  "id": "3ef112cc3fcc5a74",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+  "summary": "该条目仅有标题与一句摘要，未提供正文、作者或方法细节。",
+  "url": "https://huggingface.co/blog/allenai/benchmirt",
+  "date": "2026-09-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-09-01T21:39:07+00:00",
+  "titleEn": "BenchMIRT: What are LLM benchmarks actually measuring?",
+  "titleZh": "BenchMIRT：LLM基准测试究竟在测量什么？",
+  "details": {
+    "overview": "该条目仅有标题与一句摘要，未提供正文、作者或方法细节。从标题看，讨论对象是大型语言模型基准测试的测量效度问题，即现有benchmark实际反映的是何种能力。材料不足以说明其具体结论、实验设计或数据来源，因此无法判断其主张是否成立，需以原始发布内容为准。",
+    "keyPoints": [
+      "标题质疑LLM基准测试实际测量的能力维度",
+      "现有材料未给出方法、数据或结论细节",
+      "具体主张需查阅原始发布内容确认"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

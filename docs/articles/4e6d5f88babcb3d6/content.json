@@ -1,0 +1,25 @@
+{
+  "id": "4e6d5f88babcb3d6",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Our agreement with the Department of War",
+  "summary": "该官方发布介绍 OpenAI 与美国战争部签订合同的细节，说明其中的安全红线、法律保护安排，以及 AI 系统在涉密环境中的部署方式。",
+  "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+  "date": "2026-02-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-28T12:30:00+00:00",
+  "titleEn": "Our agreement with the Department of War",
+  "titleZh": "我们与战争部的协议",
+  "details": {
+    "overview": "该官方发布介绍 OpenAI 与美国战争部签订合同的细节，说明其中的安全红线、法律保护安排，以及 AI 系统在涉密环境中的部署方式。当前收录材料未提供合同金额、具体部署时间表或技术细节，也未说明这些安排是否经过独立审查。",
+    "keyPoints": [
+      "发布内容围绕 OpenAI 与战争部合同的安全红线与法律保护展开",
+      "说明 AI 系统将在涉密环境中部署",
+      "未披露合同金额、时间表等具体条款"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

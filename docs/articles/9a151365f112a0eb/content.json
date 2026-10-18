@@ -1,0 +1,25 @@
+{
+  "id": "9a151365f112a0eb",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Mapping Europe’s AI Workforce Opportunity",
+  "summary": "OpenAI 发布新报告，梳理 AI 可能如何重塑欧盟范围内的就业结构，指出哪些职业可能面临自动化、增长或工作流程变化。",
+  "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+  "date": "2026-06-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-29T07:00:00+00:00",
+  "titleEn": "Mapping Europe’s AI Workforce Opportunity",
+  "titleZh": "描绘欧洲的 AI 劳动力机会",
+  "details": {
+    "overview": "OpenAI 发布新报告，梳理 AI 可能如何重塑欧盟范围内的就业结构，指出哪些职业可能面临自动化、增长或工作流程变化。材料仅为官方摘要，未列出具体职业清单或量化结果，因此介绍限于报告主题与作者声称的分析方向，具体结论需以原文为准。",
+    "keyPoints": [
+      "报告聚焦 AI 对欧盟就业结构的影响",
+      "区分可能自动化、增长或流程变化的职业",
+      "具体职业与数据需查阅报告原文"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

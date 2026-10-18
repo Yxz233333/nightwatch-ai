@@ -1,0 +1,24 @@
+{
+  "id": "650ea7ce0c030335",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Rethinking AI TCO: Why Cost per Token Is the Only Metric That Matters",
+  "summary": "文章指出，传统数据中心仅存储、检索和处理数据，而在生成式与代理式AI时代，数据中心已演变为“AI token工厂”，AI推理成为主要工作负载，其核心产出是以token形式制造的智能。",
+  "url": "https://blogs.nvidia.com/blog/lowest-token-cost-ai-factories/",
+  "date": "2026-04-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-04-15T15:00:26+00:00",
+  "titleEn": "Rethinking AI TCO: Why Cost per Token Is the Only Metric That Matters",
+  "titleZh": "重新思考AI总拥有成本：为何每Token成本是唯一关键指标",
+  "details": {
+    "overview": "文章指出，传统数据中心仅存储、检索和处理数据，而在生成式与代理式AI时代，数据中心已演变为“AI token工厂”，AI推理成为主要工作负载，其核心产出是以token形式制造的智能。这一转变要求重新审视AI基础设施的经济学，作者主张每token成本应成为衡量AI总拥有成本的核心指标。",
+    "keyPoints": [
+      "数据中心从数据存储处理转向以AI推理为主，产出token形式的智能。",
+      "AI基础设施经济性需随工作负载变化而调整评估方式。",
+      "作者认为每token成本是衡量AI总拥有成本的关键指标。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

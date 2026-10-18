@@ -1,0 +1,24 @@
+{
+  "id": "a37aa4d836c2178a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Accelerating Science: A Blueprint for a Renewed National Quantum Initiative",
+  "summary": "该官方发布称，量子技术正成为21世纪经济竞争力、国家安全和科学领导力的基础能力，美国在量子信息科学上的持续领导对计算、传感、网络和材料突破转化为安全技术与产业、技能型国内劳动力和长期战略优势至关重要。",
+  "url": "https://blogs.nvidia.com/blog/national-quantum-initiative/",
+  "date": "2026-01-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-01-28T18:17:53+00:00",
+  "titleEn": "Accelerating Science: A Blueprint for a Renewed National Quantum Initiative",
+  "titleZh": "加速科学：重振国家量子倡议的蓝图",
+  "details": {
+    "overview": "该官方发布称，量子技术正成为21世纪经济竞争力、国家安全和科学领导力的基础能力，美国在量子信息科学上的持续领导对计算、传感、网络和材料突破转化为安全技术与产业、技能型国内劳动力和长期战略优势至关重要。原文为倡议性文章导语，未给出具体政策条款或研究结论，细节需以原文为准。",
+    "keyPoints": [
+      "文章称量子技术是经济竞争力与国家安全的基础能力",
+      "强调美国在量子信息科学上的持续领导地位",
+      "提出将计算、传感、网络和材料突破转化为产业优势"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

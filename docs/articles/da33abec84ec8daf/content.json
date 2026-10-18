@@ -1,0 +1,25 @@
+{
+  "id": "da33abec84ec8daf",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing workspace agents in ChatGPT",
+  "summary": "该官方发布记录介绍 ChatGPT 中的工作区智能体，称其由 Codex 驱动，可自动化复杂工作流、在云端运行，并帮助团队安全地跨工具扩展工作。",
+  "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+  "date": "2026-04-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-22T10:00:00+00:00",
+  "titleEn": "Introducing workspace agents in ChatGPT",
+  "titleZh": "在 ChatGPT 中引入工作区智能体",
+  "details": {
+    "overview": "该官方发布记录介绍 ChatGPT 中的工作区智能体，称其由 Codex 驱动，可自动化复杂工作流、在云端运行，并帮助团队安全地跨工具扩展工作。原文未说明具体功能、安全机制或可用范围，相关限制需以原始发布为准。",
+    "keyPoints": [
+      "工作区智能体由 Codex 驱动，用于自动化复杂工作流。",
+      "智能体在云端运行，旨在帮助团队跨工具扩展工作。",
+      "发布记录提及安全，但未展开具体安全机制或范围。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

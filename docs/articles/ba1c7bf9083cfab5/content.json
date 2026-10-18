@@ -1,0 +1,25 @@
+{
+  "id": "ba1c7bf9083cfab5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Research with ChatGPT",
+  "summary": "该页面介绍如何用ChatGPT开展研究，借助搜索和深度研究功能查找最新信息、分析来源并生成结构化洞察。",
+  "url": "https://openai.com/academy/search-and-deep-research",
+  "date": "2026-04-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-10T00:00:00+00:00",
+  "titleEn": "Research with ChatGPT",
+  "titleZh": "用ChatGPT做研究",
+  "details": {
+    "overview": "该页面介绍如何用ChatGPT开展研究，借助搜索和深度研究功能查找最新信息、分析来源并生成结构化洞察。原文为方法指导，未说明信息来源范围、引用规范或结果准确性评估。",
+    "keyPoints": [
+      "使用搜索与深度研究查找最新信息",
+      "对来源进行分析并生成结构化洞察",
+      "原文未说明引用规范或准确性评估"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

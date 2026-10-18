@@ -1,0 +1,25 @@
+{
+  "id": "0743d1ceec889b7f",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Build a Domain-Specific Embedding Model in Under a Day",
+  "summary": "该条目仅有标题“一天内构建领域专用嵌入模型”，未提供摘要或正文内容，无法确认所涉方法、工具、数据或作者声称的具体结果。",
+  "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+  "date": "2026-03-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-03-20T19:38:16+00:00",
+  "titleEn": "Build a Domain-Specific Embedding Model in Under a Day",
+  "titleZh": "一天内构建领域专用嵌入模型",
+  "details": {
+    "overview": "该条目仅有标题“一天内构建领域专用嵌入模型”，未提供摘要或正文内容，无法确认所涉方法、工具、数据或作者声称的具体结果。仅从标题可知其主题为在一天内构建面向特定领域的嵌入模型，属于模型动态类信息。由于材料不足，本简介不对其技术路线与效果作任何推断，具体内容需以原文为准。",
+    "keyPoints": [
+      "标题指向一天内构建领域专用嵌入模型",
+      "原文无摘要与正文，方法细节不明",
+      "效果与适用范围无法从现有材料确认"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

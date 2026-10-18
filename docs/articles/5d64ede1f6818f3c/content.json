@@ -1,0 +1,25 @@
+{
+  "id": "5d64ede1f6818f3c",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+  "summary": "该条目仅有标题，原始发布内容为空，无法确认具体涉及的 AWS 服务、架构组件、适用场景或作者结论。",
+  "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+  "date": "2026-05-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-05-11T23:18:26+00:00",
+  "titleEn": "Building Blocks for Foundation Model Training and Inference on AWS",
+  "titleZh": "在 AWS 上构建基础模型训练与推理的模块",
+  "details": {
+    "overview": "该条目仅有标题，原始发布内容为空，无法确认具体涉及的 AWS 服务、架构组件、适用场景或作者结论。标题指向在 AWS 上进行基础模型训练与推理的构建模块，可能涉及相关工具与方案组合，但材料不足以展开说明。读者需以官方原文为准，本条目不对功能范围或效果作任何推断。",
+    "keyPoints": [
+      "标题指向 AWS 上基础模型训练与推理的构建模块",
+      "原始发布内容为空，无法提炼具体方案",
+      "服务范围与效果需以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

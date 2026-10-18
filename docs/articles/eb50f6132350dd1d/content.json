@@ -1,0 +1,25 @@
+{
+  "id": "eb50f6132350dd1d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+  "summary": "现有材料仅有标题，未提供摘要或正文，无法确认具体研究对象、方法细节与作者声称的结果。",
+  "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+  "date": "2026-10-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-10-02T04:01:31+00:00",
+  "titleEn": "AutoSynthData: Generating Training Data for Enterprise Agents",
+  "titleZh": "AutoSynthData：为企业代理生成训练数据",
+  "details": {
+    "overview": "现有材料仅有标题，未提供摘要或正文，无法确认具体研究对象、方法细节与作者声称的结果。从标题看，内容应涉及为企业代理自动合成训练数据，但生成方式、适用场景与效果均无依据，故不作推断。",
+    "keyPoints": [
+      "标题指向为企业代理生成训练数据。",
+      "材料未提供方法、数据来源或效果信息。",
+      "具体结论需以原始发布内容为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "4b15135634b4bce0",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Economics",
+  "summary": "Anthropic 经济学团队研究 AI 如何重塑经济，包括工作、生产率与经济机会，并通过数据收集与分析追踪 AI 的实际经济影响。",
+  "url": "https://www.anthropic.com/research/team/economics",
+  "date": "2026-06-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "titleEn": "Economics",
+  "titleZh": "经济学",
+  "details": {
+    "overview": "Anthropic 经济学团队研究 AI 如何重塑经济，包括工作、生产率与经济机会，并通过数据收集与分析追踪 AI 的实际经济影响。原文提到旗舰产品 Anthropic 经济指数、2026年2月使用情况报告、对8.1万名 Claude 用户的调查，以及一个可探索至2030年增长、就业与工资情景的新模型。稿件还提出理解 AI 劳动力市场影响的新框架，并用早期数据检验。",
+    "keyPoints": [
+      "团队以经济指数追踪 AI 工具在各行业和地区的实际使用。",
+      "第五份经济指数报告研究2026年2月 Claude 使用情况。",
+      "稿件提出 AI 劳动力市场影响框架，并以早期数据检验。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "acb597f55dbb4116",
+  "section": "news",
+  "category": "工具动态",
+  "title": "SIMA 2: An Agent that Plays, Reasons, and Learns With You in Virtual 3D Worlds",
+  "summary": "SIMA 2是创建通用且有用AI智能体研究的下一个里程碑。",
+  "url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
+  "date": "2025-11-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2025-11-13T18:55:00+00:00",
+  "titleEn": "SIMA 2: An Agent that Plays, Reasons, and Learns With You in Virtual 3D Worlds",
+  "titleZh": "SIMA 2：在虚拟3D世界中与你一起玩耍、推理和学习的智能体",
+  "details": {
+    "overview": "SIMA 2是创建通用且有用AI智能体研究的下一个里程碑。通过整合Gemini模型的先进能力，SIMA正从指令跟随型智能体进化。摘要内容不完整，未详细说明具体能力或评估结果，但标题表明该智能体能在虚拟3D世界中与用户互动、推理和学习。",
+    "keyPoints": [
+      "SIMA 2是通用AI智能体研究的新里程碑。",
+      "整合Gemini模型能力，从指令跟随型进化。",
+      "智能体可在虚拟3D世界中玩耍、推理和学习。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

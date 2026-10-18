@@ -1,0 +1,25 @@
+{
+  "id": "7cf14026768d0395",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+  "summary": "该文介绍OpenAI扩展其“网络可信访问”计划，引入GPT-5.5与GPT-5.5-Cyber，帮助经过验证的防御方加速漏洞研究并保护关键基础设施。",
+  "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+  "date": "2026-05-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-07T13:00:00+00:00",
+  "titleEn": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+  "titleZh": "以GPT-5.5与GPT-5.5-Cyber扩展网络可信访问",
+  "details": {
+    "overview": "该文介绍OpenAI扩展其“网络可信访问”计划，引入GPT-5.5与GPT-5.5-Cyber，帮助经过验证的防御方加速漏洞研究并保护关键基础设施。摘要仅说明计划扩展的方向与目标用户，未披露访问条件、能力边界或具体成效，因此本介绍只能概括其定位，不足以评估实际安全影响。",
+    "keyPoints": [
+      "OpenAI扩展Trusted Access for Cyber计划。",
+      "新增GPT-5.5与GPT-5.5-Cyber两个模型。",
+      "面向经过验证的防御方，用于漏洞研究与基础设施保护。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

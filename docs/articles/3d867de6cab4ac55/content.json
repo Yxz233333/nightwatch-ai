@@ -1,0 +1,25 @@
+{
+  "id": "3d867de6cab4ac55",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.135.0 发布",
+  "summary": "Codex CLI 0.135.0 发布，新增 codex doctor 更丰富的环境与线程诊断、/status 显示远程连接详情、Vim 模式文本对象编辑、命名权限配置文件选择、Python SDK 沙箱预设、非交互安装模式等。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.135.0",
+  "date": "2026-05-29",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-05-28T17:31:35+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.135.0 发布",
+  "titleZh": "Codex CLI 0.135.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.135.0 发布，新增 codex doctor 更丰富的环境与线程诊断、/status 显示远程连接详情、Vim 模式文本对象编辑、命名权限配置文件选择、Python SDK 沙箱预设、非交互安装模式等。同时修复了 TUI 中 Markdown 表格和多行列表渲染、macOS 与 Zellij 输出稳定性、斜杠命令补全保留草稿等问题，并更新了文档和依赖。",
+    "keyPoints": [
+      "codex doctor 新增环境、Git、终端和线程清单诊断。",
+      "/permissions 支持命名权限配置文件并显示自定义配置。",
+      "修复 TUI 中 Markdown 表格和多行列表的可读性问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

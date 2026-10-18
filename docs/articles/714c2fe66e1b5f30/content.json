@@ -1,0 +1,25 @@
+{
+  "id": "714c2fe66e1b5f30",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Scania accelerates work with AI across its global workforce",
+  "summary": "该官方发布介绍全球制造商 Scania 通过 ChatGPT Enterprise 规模化应用 AI。",
+  "url": "https://openai.com/index/scania",
+  "date": "2025-11-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-19T00:00:00+00:00",
+  "titleEn": "How Scania accelerates work with AI across its global workforce",
+  "titleZh": "Scania 如何借助 AI 加速全球员工的工作",
+  "details": {
+    "overview": "该官方发布介绍全球制造商 Scania 通过 ChatGPT Enterprise 规模化应用 AI。原文表示，借助基于团队的入职培训和较强的防护措施，AI 正在提升生产力、质量与创新能力。材料未披露具体部署规模、量化收益或实施细节，相关范围与限制应以官方原文为准。",
+    "keyPoints": [
+      "Scania 使用 ChatGPT Enterprise 规模化应用 AI",
+      "采用基于团队的入职培训与较强防护措施",
+      "原文称 AI 提升了生产力、质量与创新能力"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

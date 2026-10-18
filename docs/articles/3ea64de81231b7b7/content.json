@@ -1,0 +1,25 @@
+{
+  "id": "3ea64de81231b7b7",
+  "section": "news",
+  "category": "模型动态",
+  "title": "GPT-5.1-Codex-Max System Card",
+  "summary": "该条目为GPT-5.1-Codex-Max的系统卡，概述为该模型实施的安全措施。",
+  "url": "https://openai.com/index/gpt-5-1-codex-max-system-card",
+  "date": "2025-11-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-19T00:00:00+00:00",
+  "titleEn": "GPT-5.1-Codex-Max System Card",
+  "titleZh": "GPT-5.1-Codex-Max系统卡",
+  "details": {
+    "overview": "该条目为GPT-5.1-Codex-Max的系统卡，概述为该模型实施的安全措施。材料称其涵盖模型层面与产品层面两类缓解手段：模型层面包括针对有害任务和提示注入的专门安全训练；产品层面包括智能体沙箱与可配置网络访问。系统卡本身属于安全说明文档，材料未给出评测数据或独立验证结论，具体适用范围与限制需以官方原文为准。",
+    "keyPoints": [
+      "系统卡涵盖模型层面与产品层面两类安全缓解措施。",
+      "模型层面含针对有害任务与提示注入的专门安全训练。",
+      "产品层面含智能体沙箱与可配置网络访问。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

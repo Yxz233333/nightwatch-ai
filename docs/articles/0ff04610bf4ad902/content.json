@@ -1,0 +1,23 @@
+{
+  "id": "0ff04610bf4ad902",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Restaurant reservations in ChatGPT",
+  "summary": "ChatGPT现在可通过OpenTable、Resy和Yelp帮助用户查找可用的餐厅预订。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#restaurant-reservations-in-chatgpt",
+  "date": "2026-08-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Restaurant reservations in ChatGPT",
+  "titleZh": "ChatGPT中的餐厅预订功能",
+  "details": {
+    "overview": "ChatGPT现在可通过OpenTable、Resy和Yelp帮助用户查找可用的餐厅预订。用户可在对话中说明地点、时间、用餐人数及菜系、预算、饮食需求或氛围等偏好，回复中会直接显示可预订时段，并可追问缩小范围或查询特定餐厅，选定时间后可直接预订。该功能正面向所有ChatGPT套餐在移动端、网页端和桌面端推出；OpenTable覆盖全球，Resy限美国，Yelp限美国与加拿大。ChatGPT Work不包含餐厅预订搜索。",
+    "keyPoints": [
+      "ChatGPT可经OpenTable、Resy和Yelp查找并直接预订餐厅。",
+      "用户可提供地点、时间、人数与饮食偏好等信息。",
+      "面向所有套餐在移动端、网页端和桌面端推出，ChatGPT Work不含此功能。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

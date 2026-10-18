@@ -1,0 +1,24 @@
+{
+  "id": "e5f3c4910d2f6ce9",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Claude's new constitution",
+  "summary": "Anthropic 发布 Claude 的新宪法，详细描述其对 Claude 价值观与行为的设想，并说明 Claude 所处的语境及希望其成为何种实体。",
+  "url": "https://www.anthropic.com/news/claude-new-constitution",
+  "date": "2026-01-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-01-22T04:15:00+00:00",
+  "titleEn": "Claude's new constitution",
+  "titleZh": "Claude 的新宪法",
+  "details": {
+    "overview": "Anthropic 发布 Claude 的新宪法，详细描述其对 Claude 价值观与行为的设想，并说明 Claude 所处的语境及希望其成为何种实体。该文件是模型训练的关键部分，内容直接影响 Claude 行为；作者也承认模型输出未必总符合宪法理想。新宪法以解释意图和理由为主，而非罗列独立规则，并保留少量高风险的硬性约束。全文以 CC0 1.0 公开发布，可自由使用。",
+    "keyPoints": [
+      "新宪法以解释意图与理由为主，而非罗列独立原则",
+      "宪法用于训练多个阶段，并指导合成训练数据构建",
+      "全文以 CC0 1.0 发布，可自由使用"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

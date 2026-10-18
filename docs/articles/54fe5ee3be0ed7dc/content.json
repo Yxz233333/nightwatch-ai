@@ -1,0 +1,25 @@
+{
+  "id": "54fe5ee3be0ed7dc",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+  "summary": "该新闻标题显示，相关工作围绕 Indic 语言预训练展开，涉及 2.8 万亿 token 的规模以及一个开放的数据生成流水线。",
+  "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+  "date": "2026-10-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-10-16T01:44:47+00:00",
+  "titleEn": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+  "titleZh": "扩展 Indic 预训练：2.8 万亿 token 与开放数据生成流水线",
+  "details": {
+    "overview": "该新闻标题显示，相关工作围绕 Indic 语言预训练展开，涉及 2.8 万亿 token 的规模以及一个开放的数据生成流水线。由于原始发布内容未提供摘要或正文，无法说明具体研究方法、模型性能或数据流水线的细节。该信息属于预训练数据与资源类新闻，具体结论和适用范围需以官方原文为准。",
+    "keyPoints": [
+      "工作聚焦 Indic 语言预训练，规模达 2.8 万亿 token。",
+      "提出一个开放的数据生成流水线。",
+      "原始内容未提供具体方法或性能细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

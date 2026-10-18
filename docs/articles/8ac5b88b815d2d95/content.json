@@ -1,0 +1,25 @@
+{
+  "id": "8ac5b88b815d2d95",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Extending single-minus amplitudes to gravitons",
+  "summary": "本条介绍一篇新预印本将单减振幅推广到引力子，并称 GPT-5.2 Pro 协助推导和验证了量子引力中非零的引力子树振幅。",
+  "url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
+  "date": "2026-03-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-04T10:00:00+00:00",
+  "titleEn": "Extending single-minus amplitudes to gravitons",
+  "titleZh": "将单减振幅推广到引力子",
+  "details": {
+    "overview": "本条介绍一篇新预印本将单减振幅推广到引力子，并称 GPT-5.2 Pro 协助推导和验证了量子引力中非零的引力子树振幅。原文未给出预印本作者、具体推导过程、验证方式或同行评审状态。因此本条只能按“稿件提出/摘要表示”描述其声称内容，不能把结果视为已获独立验证。",
+    "keyPoints": [
+      "新预印本将单减振幅推广到引力子。",
+      "摘要称 GPT-5.2 Pro 协助推导并验证非零引力子树振幅。",
+      "当前收录材料未提供作者、方法与评审状态细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

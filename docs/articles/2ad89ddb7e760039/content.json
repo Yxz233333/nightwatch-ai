@@ -1,0 +1,24 @@
+{
+  "id": "2ad89ddb7e760039",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Gemini 3, our most intelligent model yet, is available to everyone in the app",
+  "summary": "谷歌宣布 Gemini 3 Pro 即日起向 Gemini 应用的所有用户推送，Google AI Plus、Pro 和 Ultra 订阅用户享有更高使用限额。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2025-11-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|Gemini 3, our most intelligent model yet, is available to everyone in the app|2025-11-18",
+  "titleEn": "Gemini 3, our most intelligent model yet, is available to everyone in the app",
+  "titleZh": "Gemini 3——迄今最智能的模型，现已向应用内所有用户开放",
+  "details": {
+    "overview": "谷歌宣布 Gemini 3 Pro 即日起向 Gemini 应用的所有用户推送，Google AI Plus、Pro 和 Ultra 订阅用户享有更高使用限额。官方称该模型为复杂问题带来先进推理能力，是其迄今最好的“氛围编程”模型，并能更好地跨文本、图像、音频和视频进行推理，可用于运动视频动作改进建议、讲座笔记转写等场景。官方还表示回复更有帮助、格式更好、更简洁，用户可在模型下拉菜单中选择“Thinking”试用。",
+    "keyPoints": [
+      "Gemini 3 Pro 向应用内所有用户推送，付费订阅用户限额更高",
+      "官方称其为最好的氛围编程模型，可跨文本、图像、音频和视频推理",
+      "用户可在模型下拉菜单中选择“Thinking”模式试用"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

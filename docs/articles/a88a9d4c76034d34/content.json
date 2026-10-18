@@ -1,0 +1,25 @@
+{
+  "id": "a88a9d4c76034d34",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.157.1 发布",
+  "summary": "Codex CLI 0.157.1 为稳定版本更新，但发布说明称无法确定本次亮点：提供的 PR 索引为空，且 GitHub 标签对比返回 404。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.157.1",
+  "date": "2026-09-26",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-09-26T01:02:31+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.157.1 发布",
+  "titleZh": "Codex CLI 0.157.1 发布",
+  "details": {
+    "overview": "Codex CLI 0.157.1 为稳定版本更新，但发布说明称无法确定本次亮点：提供的 PR 索引为空，且 GitHub 标签对比返回 404。因此该版本的具体变更内容在材料中不可得，仅能确认版本号与对比链接。桌面端功能另以对应公告为准，实际改动应以官方仓库记录为准。",
+    "keyPoints": [
+      "Codex CLI 0.157.1 为稳定版本更新",
+      "发布说明称 PR 索引为空、标签对比返回 404，亮点无法确定",
+      "具体变更内容需以官方仓库记录为准"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

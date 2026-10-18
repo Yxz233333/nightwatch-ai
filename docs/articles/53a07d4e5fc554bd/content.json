@@ -1,0 +1,25 @@
+{
+  "id": "53a07d4e5fc554bd",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
+  "summary": "该官方内容介绍 Co-Scientist，一个基于 Gemini 构建的协作式 AI 伙伴，定位是帮助研究人员加速科学突破。",
+  "url": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
+  "date": "2026-05-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-05-12T14:40:07+00:00",
+  "titleEn": "Co-Scientist: A multi-agent AI partner to accelerate research",
+  "titleZh": "Co-Scientist：加速科研的多智能体 AI 伙伴",
+  "details": {
+    "overview": "该官方内容介绍 Co-Scientist，一个基于 Gemini 构建的协作式 AI 伙伴，定位是帮助研究人员加速科学突破。材料仅说明其多智能体协作定位与构建基础，未披露具体能力、适用学科、使用方式或验证结果。因此其科研辅助效果尚属官方表述，需以原文和后续评估为准。对科研人员而言，其意义在于了解 Gemini 向科研协作场景延伸的方向。",
+    "keyPoints": [
+      "Co-Scientist 是基于 Gemini 构建的协作式 AI 伙伴",
+      "定位为多智能体系统，面向科研加速",
+      "当前收录材料未提供具体能力与验证结果"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

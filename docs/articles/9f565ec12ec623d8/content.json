@@ -1,0 +1,23 @@
+{
+  "id": "9f565ec12ec623d8",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT for Word",
+  "summary": "官方发布记录称，ChatGPT 现已可在 Microsoft Word 中使用，用户可通过侧边栏从笔记起草、总结文档、修改选中文本，并调整标题与格式。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-word",
+  "date": "2026-09-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "ChatGPT for Word",
+  "titleZh": "ChatGPT 登陆 Word",
+  "details": {
+    "overview": "官方发布记录称，ChatGPT 现已可在 Microsoft Word 中使用，用户可通过侧边栏从笔记起草、总结文档、修改选中文本，并调整标题与格式。Word 与 Excel、PowerPoint 通过同一 Microsoft 加载项接入。该功能覆盖所有 ChatGPT 套餐（含免费版），受套餐 token 限制，并计入部分套餐中 Codex 等高级功能的共享用量。用户需从 Microsoft Marketplace 安装加载项并登录。",
+    "keyPoints": [
+      "可在 Word 侧边栏起草、总结、改写选中文本并调整格式",
+      "Word 与 Excel、PowerPoint 共用同一 Microsoft 加载项",
+      "覆盖所有 ChatGPT 套餐，受 token 限制并计入共享用量"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

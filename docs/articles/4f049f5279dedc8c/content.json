@@ -1,0 +1,25 @@
+{
+  "id": "4f049f5279dedc8c",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.144.1 发布",
+  "summary": "Codex CLI 0.144.1 为修复版本，主要解决安装与 code mode 的可靠性问题。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.144.1",
+  "date": "2026-07-10",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-07-09T23:02:40+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.144.1 发布",
+  "titleZh": "Codex CLI 0.144.1 发布",
+  "details": {
+    "overview": "Codex CLI 0.144.1 为修复版本，主要解决安装与 code mode 的可靠性问题。原文列出三项修复：修复 GitHub 返回精简或重排的发布元数据时独立安装失败的问题；确保 macOS 包安装时在 codex 可执行文件旁提供 code-mode 宿主；当配套宿主二进制不可用时，回退到内嵌运行时以保持 code mode 可用。这些修复通过一个回移植提交合入 0.144 分支。",
+    "keyPoints": [
+      "修复发布元数据异常导致的独立安装失败",
+      "确保 macOS 安装提供 code-mode 宿主",
+      "宿主二进制缺失时回退内嵌运行时"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

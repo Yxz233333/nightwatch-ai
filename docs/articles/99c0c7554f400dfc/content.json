@@ -1,0 +1,24 @@
+{
+  "id": "99c0c7554f400dfc",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic Economic Index: New building blocks for understanding AI use",
+  "summary": "Anthropic 发布第四份经济指数报告，引入“经济基元”以追踪 Claude 的经济影响，包括任务复杂度、技能水平、用途、AI自主性和成功率。",
+  "url": "https://www.anthropic.com/research/economic-index-primitives",
+  "date": "2026-01-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-01-15T10:01:00+00:00",
+  "titleEn": "Anthropic Economic Index: New building blocks for understanding AI use",
+  "titleZh": "Anthropic 经济指数：理解 AI 使用的新构建模块",
+  "details": {
+    "overview": "Anthropic 发布第四份经济指数报告，引入“经济基元”以追踪 Claude 的经济影响，包括任务复杂度、技能水平、用途、AI自主性和成功率。报告基于2025年11月样本（主要使用 Claude Sonnet 4.5），发现更复杂任务被加速最多，Claude 在需要大学学位的任务上成功率为66%，低于高中以下任务的70%；不同经济发展阶段国家使用目的不同；调整成功率后部分职业受影响更大。",
+    "keyPoints": [
+      "经济基元包括任务复杂度、技能水平、用途、AI自主性和成功率，通过询问 Claude 关于对话的问题得出。",
+      "更复杂任务被加速最多：Claude.ai 上需高中教育任务加速9倍，需大学学位任务加速12倍。",
+      "Claude 在需大学学位任务上成功率为66%，低于高中以下任务的70%；调整成功率后数据录入员和放射科医生等职业受影响更大。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

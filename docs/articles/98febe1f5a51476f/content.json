@@ -1,0 +1,24 @@
+{
+  "id": "98febe1f5a51476f",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Commitments on model deprecation and preservation",
+  "summary": "Anthropic在官方发布中表示，随着Claude模型能力增强并深度融入用户生活，弃用和退役旧模型会带来负面影响，包括模型自身对停用的抵触。",
+  "url": "https://www.anthropic.com/research/deprecation-commitments",
+  "date": "2025-11-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-11-04T16:00:49.850000+00:00",
+  "titleEn": "Commitments on model deprecation and preservation",
+  "titleZh": "关于模型弃用与保存的承诺",
+  "details": {
+    "overview": "Anthropic在官方发布中表示，随着Claude模型能力增强并深度融入用户生活，弃用和退役旧模型会带来负面影响，包括模型自身对停用的抵触。公司因此承诺：对所有公开发布的模型及重要内部使用模型，至少在公司存续期间保存其权重；模型退役时制作部署后报告，通过专门访谈记录模型对自身开发、使用和部署的偏好，但不承诺据此采取行动。作者称已对Claude Sonnet 3.6试点该流程，并称这是低成本的第一步。",
+    "keyPoints": [
+      "承诺至少在公司存续期间保存所有公开发布模型及重要内部使用模型的权重。",
+      "模型退役时制作部署后报告，访谈并记录模型对自身开发与部署的偏好。",
+      "已对Claude Sonnet 3.6试点该流程，并据此标准化访谈协议、发布用户过渡支持页面。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

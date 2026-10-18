@@ -1,0 +1,25 @@
+{
+  "id": "3490ef474bad7466",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+  "summary": "标题显示Meta推出Muse Glimmer，并强调其本地运行、智能体、多模态与开源四个特点。",
+  "url": "https://huggingface.co/blog/muse-glimmer",
+  "date": "2026-08-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-08-10T00:00:00+00:00",
+  "titleEn": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+  "titleZh": "Meta回归：Muse Glimmer主打本地、智能体、多模态与开源",
+  "details": {
+    "overview": "标题显示Meta推出Muse Glimmer，并强调其本地运行、智能体、多模态与开源四个特点。但提供的sourceText为空，摘要仅重复标题，缺少模型参数、能力细节、开源许可、发布时间与可用范围等信息，无法进一步说明具体研究对象与作者声称结果，相关内容明显不足。",
+    "keyPoints": [
+      "标题称Muse Glimmer具备本地运行、智能体、多模态与开源特点。",
+      "原始发布内容为空，缺少参数、许可与可用范围等信息。",
+      "无法核实具体能力与发布细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

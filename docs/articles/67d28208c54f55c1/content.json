@@ -1,0 +1,25 @@
+{
+  "id": "67d28208c54f55c1",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Trusted access for the next era of cyber defense",
+  "summary": "OpenAI扩展其“可信访问网络”计划，向经过审查的防御者提供GPT-5.4-Cyber，并随着AI网络安全能力进步加强保障措施。",
+  "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+  "date": "2026-04-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-14T00:00:00+00:00",
+  "titleEn": "Trusted access for the next era of cyber defense",
+  "titleZh": "面向下一代网络防御的可信访问",
+  "details": {
+    "overview": "OpenAI扩展其“可信访问网络”计划，向经过审查的防御者提供GPT-5.4-Cyber，并随着AI网络安全能力进步加强保障措施。现有材料仅为摘要，未披露具体推出范围、限制或技术细节。",
+    "keyPoints": [
+      "OpenAI扩展可信访问网络计划。",
+      "向经审查的防御者提供GPT-5.4-Cyber。",
+      "随AI网安能力进步加强保障措施。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

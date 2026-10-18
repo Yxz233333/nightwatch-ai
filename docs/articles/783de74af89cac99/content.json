@@ -1,0 +1,23 @@
+{
+  "id": "783de74af89cac99",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Sunsetting the “Nerdy” base style",
+  "summary": "OpenAI 宣布停用预设的“Nerdy”基础风格，以简化选项并提升回复质量。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#sunsetting-the-nerdy-base-style",
+  "date": "2026-03-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Sunsetting the “Nerdy” base style",
+  "titleZh": "停用“Nerdy”基础风格",
+  "details": {
+    "overview": "OpenAI 宣布停用预设的“Nerdy”基础风格，以简化选项并提升回复质量。已选择该风格的用户将被迁移至默认个性。用户可随时在 ChatGPT 的“设置 → 个性化”中管理个性设置。该更新旨在减少选项复杂度并改善整体回复体验。",
+    "keyPoints": [
+      "停用预设“Nerdy”基础风格，以简化选项并提升回复质量。",
+      "已选该风格的用户将自动迁移至默认个性。",
+      "用户可在设置→个性化中随时管理个性设置。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "222deb72b62fa1f1",
+  "section": "news",
+  "category": "模型动态",
+  "title": "DeepSeek-V3.2-Exp",
+  "summary": "该发布信息显示，deepseek-chat与deepseek-reasoner两个接口均已升级至DeepSeek-V3.2-Exp。",
+  "url": "https://api-docs.deepseek.com/updates/#deepseek-v32-exp",
+  "date": "2025-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "DeepSeek 官方更新",
+  "titleEn": "DeepSeek-V3.2-Exp",
+  "titleZh": "DeepSeek-V3.2-Exp",
+  "details": {
+    "overview": "该发布信息显示，deepseek-chat与deepseek-reasoner两个接口均已升级至DeepSeek-V3.2-Exp。其中deepseek-chat对应这一版本的非思考模式，deepseek-reasoner对应其思考模式。当前收录材料未提供模型参数、训练方法、性能评测或具体能力变化，仅指向相关文档以了解更多细节。对使用这两个接口的开发者而言，此次更新意味着底层模型版本发生变更，但实际效果与适用范围需以官方文档和原文说明为准。",
+    "keyPoints": [
+      "deepseek-chat与deepseek-reasoner均已升级至DeepSeek-V3.2-Exp。",
+      "deepseek-chat对应非思考模式，deepseek-reasoner对应思考模式。",
+      "原文未给出参数、评测等细节，仅指向文档了解更多。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

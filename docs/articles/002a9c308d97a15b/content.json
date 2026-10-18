@@ -1,0 +1,24 @@
+{
+  "id": "002a9c308d97a15b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Everything Will Be Represented in a Virtual Twin, NVIDIA CEO Jensen Huang Says at 3DEXPERIENCE World",
+  "summary": "据摘要，英伟达创始人兼 CEO 黄仁勋与达索系统 CEO Pascal Daloz 在 3DEXPERIENCE World 宣布合作，计划构建共享的工业 AI 架构，将虚拟孪生与基于物理的 AI 结合，用于重塑设计、工程与制造。",
+  "url": "https://blogs.nvidia.com/blog/huang-3dexperience-2026/",
+  "date": "2026-02-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-02-03T22:14:51+00:00",
+  "titleEn": "Everything Will Be Represented in a Virtual Twin, NVIDIA CEO Jensen Huang Says at 3DEXPERIENCE World",
+  "titleZh": "英伟达 CEO 黄仁勋在 3DEXPERIENCE World 称一切都将以虚拟孪生呈现",
+  "details": {
+    "overview": "据摘要，英伟达创始人兼 CEO 黄仁勋与达索系统 CEO Pascal Daloz 在 3DEXPERIENCE World 宣布合作，计划构建共享的工业 AI 架构，将虚拟孪生与基于物理的 AI 结合，用于重塑设计、工程与制造。材料为合作公告，未给出技术细节、时间表或效果验证。",
+    "keyPoints": [
+      "英伟达与达索系统宣布共建共享工业 AI 架构",
+      "方向是虚拟孪生与基于物理的 AI 结合",
+      "目标指向设计、工程与制造流程"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

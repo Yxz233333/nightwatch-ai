@@ -1,0 +1,25 @@
+{
+  "id": "1ad8c57cf811f551",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Safety and alignment in an era of long-horizon models",
+  "summary": "据原始发布内容，OpenAI分享其部署长时间运行AI模型的经验教训，重点提及新的安全风险、观察到的失败情况，以及通过迭代部署改进的防护措施。",
+  "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+  "date": "2026-07-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-20T10:00:00+00:00",
+  "titleEn": "Safety and alignment in an era of long-horizon models",
+  "titleZh": "长时程模型时代的安全与对齐",
+  "details": {
+    "overview": "据原始发布内容，OpenAI分享其部署长时间运行AI模型的经验教训，重点提及新的安全风险、观察到的失败情况，以及通过迭代部署改进的防护措施。原文仅为一句概述，未列出具体风险类型、失败案例细节或防护机制的技术说明，也未说明是否经过独立验证，相关结论应视为作者声称。",
+    "keyPoints": [
+      "OpenAI分享部署长时程AI模型的经验与教训。",
+      "原文提及新的安全风险与观察到的失败情况。",
+      "作者称通过迭代部署改进了防护措施。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

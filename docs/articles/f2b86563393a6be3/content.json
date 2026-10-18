@@ -1,0 +1,24 @@
+{
+  "id": "f2b86563393a6be3",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
+  "summary": "NVIDIA XR AI 现已进入公开测试阶段，面向开发者提供一套框架，用于为 AR 眼镜和 XR 设备构建多模态 AI 智能体。",
+  "url": "https://blogs.nvidia.com/blog/nvidia-xr-ai/",
+  "date": "2026-06-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-16T22:30:41+00:00",
+  "titleEn": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
+  "titleZh": "解放双手，AI 先行：NVIDIA XR AI 将智能体带入 AR 眼镜",
+  "details": {
+    "overview": "NVIDIA XR AI 现已进入公开测试阶段，面向开发者提供一套框架，用于为 AR 眼镜和 XR 设备构建多模态 AI 智能体。原文仅说明该框架已开放公测及其用途，未披露具体功能细节、支持设备范围或性能数据。其意义在于为 XR 平台上的多模态智能体开发提供统一入口，但实际可用性与限制需以官方原文为准。",
+    "keyPoints": [
+      "NVIDIA XR AI 已开放公开测试，供开发者使用。",
+      "该框架用于为 AR 眼镜和 XR 设备构建多模态 AI 智能体。",
+      "当前收录材料未提供具体功能、设备兼容范围或性能指标。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "0376dcb88c511d3d",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.159.2 发布",
+  "summary": "这是 Codex CLI 0.159.2 的版本更新说明，属于修复版本。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.159.2",
+  "date": "2026-09-30",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-09-29T23:57:16+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.159.2 发布",
+  "titleZh": "Codex CLI 0.159.2 发布",
+  "details": {
+    "overview": "这是 Codex CLI 0.159.2 的版本更新说明，属于修复版本。原文仅列出一项缺陷修复：在 Windows 上，Codex 启动后台进程和沙箱命令时不再闪现控制台窗口，对应 PR #49385，并说明该修复是从后续版本回移到 0.159 分支。材料未涉及新功能、性能数据或桌面端变化，具体行为细节需以完整变更记录为准。",
+    "keyPoints": [
+      "修复 Windows 上启动后台进程时控制台窗口闪现的问题",
+      "对应 PR #49385，为 0.159 分支的回移修复",
+      "该版本为 CLI 稳定版本，桌面端功能另见公告"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

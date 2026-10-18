@@ -1,0 +1,25 @@
+{
+  "id": "70d59672f6334486",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Modeling an AI jobs transition",
+  "summary": "该发布介绍一个新框架，用于分析 921 种职业和 1.48 亿个美国岗位，以识别哪些角色面临自动化风险、重组、增长或受 AI 影响较小。",
+  "url": "https://openai.com/index/modeling-ai-jobs-transition",
+  "date": "2026-04-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-25T00:00:00+00:00",
+  "titleEn": "Modeling an AI jobs transition",
+  "titleZh": "为 AI 就业转型建模",
+  "details": {
+    "overview": "该发布介绍一个新框架，用于分析 921 种职业和 1.48 亿个美国岗位，以识别哪些角色面临自动化风险、重组、增长或受 AI 影响较小。原文仅提供这一概述，未说明框架的具体方法、数据来源或结论细节，相关判断应视为作者提出的分析框架，而非已获独立验证的结论。",
+    "keyPoints": [
+      "新框架覆盖 921 种职业与 1.48 亿美国岗位",
+      "按自动化风险、重组、增长、低影响分类角色",
+      "当前收录材料未提供方法与数据来源细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

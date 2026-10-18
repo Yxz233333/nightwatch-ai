@@ -1,0 +1,25 @@
+{
+  "id": "e42468a4163db2aa",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Improving health intelligence in ChatGPT",
+  "summary": "该官方发布介绍 GPT-5.5 Instant 如何改进 ChatGPT 在健康与保健领域的回答，强调更强的推理、更好的上下文理解、更清晰的沟通，以及由医生参与设计的评估。",
+  "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+  "date": "2026-06-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-18T11:00:00+00:00",
+  "titleEn": "Improving health intelligence in ChatGPT",
+  "titleZh": "提升 ChatGPT 的健康智能",
+  "details": {
+    "overview": "该官方发布介绍 GPT-5.5 Instant 如何改进 ChatGPT 在健康与保健领域的回答，强调更强的推理、更好的上下文理解、更清晰的沟通，以及由医生参与设计的评估。材料未给出具体评测数据或临床验证结论，推出范围和限制需以原文为准。",
+    "keyPoints": [
+      "GPT-5.5 Instant 针对健康与保健场景改进回答质量",
+      "改进方向包括推理、上下文、沟通清晰度和医生参与评估",
+      "未披露具体评测指标或独立临床验证结果"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

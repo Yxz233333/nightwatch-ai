@@ -1,0 +1,25 @@
+{
+  "id": "d669765fd8de22b5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Premium seats are coming to ChatGPT Business",
+  "summary": "原文称 ChatGPT Business 现已提供高级席位，包含 5 倍使用量、取消五小时使用限制，并为每位团队成员提供灵活席位选项。",
+  "url": "https://openai.com/index/premium-seats-chatgpt-business",
+  "date": "2026-08-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-10T00:00:00+00:00",
+  "titleEn": "Premium seats are coming to ChatGPT Business",
+  "titleZh": "ChatGPT Business 将推出高级席位",
+  "details": {
+    "overview": "原文称 ChatGPT Business 现已提供高级席位，包含 5 倍使用量、取消五小时使用限制，并为每位团队成员提供灵活席位选项。材料未说明价格、具体适用条件或推出地区。该动态属于产品与商业方案更新，面向企业团队的使用配额和灵活性需求。相关范围和限制需以官方原文为准。",
+    "keyPoints": [
+      "ChatGPT Business 推出高级席位。",
+      "高级席位包含 5 倍使用量，且没有五小时使用限制。",
+      "提供灵活席位选项，当前收录材料未提供价格或地区范围。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

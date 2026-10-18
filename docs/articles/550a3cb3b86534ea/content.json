@@ -1,0 +1,25 @@
+{
+  "id": "550a3cb3b86534ea",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "A joint statement from OpenAI and Microsoft",
+  "summary": "该联合声明表示 OpenAI 与微软签署了一份新的谅解备忘录（MOU），重申双方的合作关系，以及对人工智能安全与创新的共同承诺。",
+  "url": "https://openai.com/index/joint-statement-from-openai-and-microsoft",
+  "date": "2025-09-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-11T14:00:00+00:00",
+  "titleEn": "A joint statement from OpenAI and Microsoft",
+  "titleZh": "OpenAI 与微软的联合声明",
+  "details": {
+    "overview": "该联合声明表示 OpenAI 与微软签署了一份新的谅解备忘录（MOU），重申双方的合作关系，以及对人工智能安全与创新的共同承诺。材料仅提供官方摘要，未披露 MOU 的具体条款、期限或合作范围，相关细节应以原文为准。本条为双方官方表态，不涉及对合作成效的独立评估。",
+    "keyPoints": [
+      "OpenAI 与微软签署新的谅解备忘录（MOU）。",
+      "声明重申双方合作伙伴关系。",
+      "共同承诺聚焦 AI 安全与创新。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

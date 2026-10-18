@@ -1,0 +1,25 @@
+{
+  "id": "be50357e9e994e95",
+  "section": "news",
+  "category": "模型动态",
+  "title": "How Tolan builds voice-first AI with GPT-5.1",
+  "summary": "该文介绍Tolan基于GPT-5.1构建语音优先AI伴侣，结合低延迟响应、实时上下文重建和记忆驱动的人格设定，以实现自然对话。",
+  "url": "https://openai.com/index/tolan",
+  "date": "2026-01-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-07T10:00:00+00:00",
+  "titleEn": "How Tolan builds voice-first AI with GPT-5.1",
+  "titleZh": "Tolan如何用GPT-5.1构建语音优先AI",
+  "details": {
+    "overview": "该文介绍Tolan基于GPT-5.1构建语音优先AI伴侣，结合低延迟响应、实时上下文重建和记忆驱动的人格设定，以实现自然对话。原文摘要仅给出这一概括性描述，未披露具体延迟数据、记忆机制细节或用户测试结果。内容属于模型应用动态，实际表现和限制需以官方原文为准。",
+    "keyPoints": [
+      "Tolan基于GPT-5.1构建语音优先AI伴侣。",
+      "方案结合低延迟响应与实时上下文重建。",
+      "以记忆驱动的人格设定支持自然对话。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

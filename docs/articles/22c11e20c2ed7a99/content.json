@@ -1,0 +1,25 @@
+{
+  "id": "22c11e20c2ed7a99",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How OpenAI Uses Codex to Accelerate Engineering",
+  "summary": "该文详细介绍 OpenAI 内部团队如何使用 Codex 理解代码、重构系统、提升性能并加快开发节奏，从而改进工程工作流。",
+  "url": "https://openai.com/business/guides-and-resources/how-openai-uses-codex",
+  "date": "2026-01-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-14T21:27:09+00:00",
+  "titleEn": "How OpenAI Uses Codex to Accelerate Engineering",
+  "titleZh": "OpenAI 如何用 Codex 加速工程研发",
+  "details": {
+    "overview": "该文详细介绍 OpenAI 内部团队如何使用 Codex 理解代码、重构系统、提升性能并加快开发节奏，从而改进工程工作流。当前收录材料仅给出这一范围概述，未披露具体团队规模、效率提升数据或使用限制；相关结论与适用范围需以官方原始发布为准。",
+    "keyPoints": [
+      "介绍 OpenAI 团队用 Codex 理解代码与重构系统",
+      "涉及提升性能与开发速度",
+      "聚焦 Codex 对工程工作流的改进"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

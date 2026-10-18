@@ -1,0 +1,25 @@
+{
+  "id": "14980326fea1eba5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing Aardvark: OpenAI’s agentic security researcher",
+  "summary": "官方发布内容称，OpenAI推出Aardvark，一款AI驱动的安全研究员，可自主发现、验证并帮助修复软件漏洞，并声称可规模化运作。",
+  "url": "https://openai.com/index/introducing-aardvark",
+  "date": "2025-10-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-30T11:00:00+00:00",
+  "titleEn": "Introducing Aardvark: OpenAI’s agentic security researcher",
+  "titleZh": "介绍Aardvark：OpenAI的智能体安全研究员",
+  "details": {
+    "overview": "官方发布内容称，OpenAI推出Aardvark，一款AI驱动的安全研究员，可自主发现、验证并帮助修复软件漏洞，并声称可规模化运作。该系统目前处于私测阶段，可报名参与早期测试。当前收录材料未提供漏洞发现数量、准确率或与外部机构的验证结果，相关能力描述来自官方发布。",
+    "keyPoints": [
+      "Aardvark被描述为可自主发现、验证并帮助修复软件漏洞",
+      "官方称该系统可规模化运作，目前处于私测阶段",
+      "可报名参与早期测试，当前收录材料未提供验证细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

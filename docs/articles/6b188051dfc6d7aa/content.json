@@ -1,0 +1,25 @@
+{
+  "id": "6b188051dfc6d7aa",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Replit expands access to software creation with GPT-5.6 Luna",
+  "summary": "Replit 推出由 GPT-5.6 Luna 驱动的 Free Mode，官方称其让任何人都能把想法变成可运行的软件，而无需担心 token 成本。",
+  "url": "https://openai.com/index/replit",
+  "date": "2026-08-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-19T07:00:00+00:00",
+  "titleEn": "Replit expands access to software creation with GPT-5.6 Luna",
+  "titleZh": "Replit 借助 GPT-5.6 Luna 扩大软件创建入口",
+  "details": {
+    "overview": "Replit 推出由 GPT-5.6 Luna 驱动的 Free Mode，官方称其让任何人都能把想法变成可运行的软件，而无需担心 token 成本。原始发布内容未说明免费额度、可用功能范围、地区限制或模型的具体能力指标，因此这里只呈现官方声明的产品方向，不对其生成质量或实际使用体验作判断。",
+    "keyPoints": [
+      "Replit 推出由 GPT-5.6 Luna 驱动的 Free Mode。",
+      "官方称用户无需担心 token 成本即可把想法做成软件。",
+      "当前收录材料未提供免费额度、功能范围与地区限制。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

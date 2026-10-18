@@ -1,0 +1,25 @@
+{
+  "id": "9be1e74ea0aa44b2",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "More ways to work with your team and tools in ChatGPT",
+  "summary": "该条目介绍ChatGPT中面向团队协作的新功能，包括共享项目、更智能的连接器以及合规与安全更新，旨在帮助团队更高效地完成工作。",
+  "url": "https://openai.com/index/more-ways-to-work-with-your-team",
+  "date": "2025-09-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-25T11:00:00+00:00",
+  "titleEn": "More ways to work with your team and tools in ChatGPT",
+  "titleZh": "在ChatGPT中与团队和工具协作的更多方式",
+  "details": {
+    "overview": "该条目介绍ChatGPT中面向团队协作的新功能，包括共享项目、更智能的连接器以及合规与安全更新，旨在帮助团队更高效地完成工作。原始发布内容仅为摘要，未提供共享项目的具体机制、连接器支持范围或合规安全更新的详细内容。",
+    "keyPoints": [
+      "新增共享项目功能，支持团队协作",
+      "连接器变得更智能，便于整合工具",
+      "包含合规与安全方面的更新"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

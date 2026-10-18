@@ -1,0 +1,25 @@
+{
+  "id": "10f2738201fb1667",
+  "section": "news",
+  "category": "模型动态",
+  "title": "The builder’s guide to GPT‑5.6",
+  "summary": "该官方发布内容面向开发者，介绍初创公司如何借助 GPT-5.6 构建更快、成本更低的 AI 智能体。",
+  "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+  "date": "2026-08-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-13T11:00:00+00:00",
+  "titleEn": "The builder’s guide to GPT‑5.6",
+  "titleZh": "GPT-5.6 构建者指南",
+  "details": {
+    "overview": "该官方发布内容面向开发者，介绍初创公司如何借助 GPT-5.6 构建更快、成本更低的 AI 智能体。原文提到两个关键做法：更合理地选择模型，以及使用 Responses API 的新能力。原文未给出具体性能数据、价格或案例细节，相关限制与适用范围需以官方原始发布为准。",
+    "keyPoints": [
+      "内容面向使用 GPT-5.6 构建 AI 智能体的开发者与初创公司。",
+      "强调通过更合理的模型选择提升速度与成本效率。",
+      "提及 Responses API 的新能力可用于智能体开发。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

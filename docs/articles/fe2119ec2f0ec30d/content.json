@@ -1,0 +1,25 @@
+{
+  "id": "fe2119ec2f0ec30d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+  "summary": "现有材料仅有英文标题，没有摘要、原始发布正文或简介，无法确认ACE具体指什么、研究对象是什么、作者声称了哪些结果，也无法判断“更少Token”的对比基准与适用范围。",
+  "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+  "date": "2026-08-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-08-11T13:37:10+00:00",
+  "titleEn": "Thinking of ACE? We Can Do It with Fewer Tokens",
+  "titleZh": "考虑ACE？我们可以用更少的Token实现",
+  "details": {
+    "overview": "现有材料仅有英文标题，没有摘要、原始发布正文或简介，无法确认ACE具体指什么、研究对象是什么、作者声称了哪些结果，也无法判断“更少Token”的对比基准与适用范围。因此本条只能保留标题层面的信息，不对方法、效果或意义作推断。建议以原始发布内容为准。",
+    "keyPoints": [
+      "仅有英文标题，缺少摘要与正文材料",
+      "无法确认ACE含义及“更少Token”的对比基准",
+      "不对方法效果作推断，需以原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

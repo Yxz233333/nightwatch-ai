@@ -1,0 +1,24 @@
+{
+  "id": "a0c942257f5975bc",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
+  "summary": "NVIDIA与微软在Microsoft Build上宣布合作，为开发者提供从Windows设备到Azure云再到本地部署的智能体AI全栈解决方案。",
+  "url": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
+  "date": "2026-06-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-02T19:00:08+00:00",
+  "titleEn": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
+  "titleZh": "NVIDIA与微软合作打造智能体AI部署统一栈，覆盖Windows设备、云和本地",
+  "details": {
+    "overview": "NVIDIA与微软在Microsoft Build上宣布合作，为开发者提供从Windows设备到Azure云再到本地部署的智能体AI全栈解决方案。该统一栈整合了快速硬件、安全运行时、响应式数据层和针对长时推理优化的模型，旨在简化智能体AI的部署流程。此举有望降低开发者在不同环境中部署智能体AI的复杂度。",
+    "keyPoints": [
+      "NVIDIA与微软合作提供覆盖Windows、Azure和本地的智能体AI统一栈。",
+      "该栈包括硬件、运行时、数据层和长时推理模型。",
+      "合作旨在简化开发者部署智能体AI的流程。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

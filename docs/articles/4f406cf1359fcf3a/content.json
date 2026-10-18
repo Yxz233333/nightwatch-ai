@@ -1,0 +1,25 @@
+{
+  "id": "4f406cf1359fcf3a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+  "summary": "该条目仅有标题，称在TRL中实现增量权重同步，并以Hub Bucket方式传输万亿参数模型。",
+  "url": "https://huggingface.co/blog/delta-weight-sync",
+  "date": "2026-05-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-05-27T00:00:00+00:00",
+  "titleEn": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+  "titleZh": "用Hub Bucket传输万亿参数：TRL中的增量权重同步",
+  "details": {
+    "overview": "该条目仅有标题，称在TRL中实现增量权重同步，并以Hub Bucket方式传输万亿参数模型。当前收录材料未提供摘要或正文，无法确认具体方法、适用场景与实测效果。以下要点仅依据标题提炼，信息明显不足。",
+    "keyPoints": [
+      "标题指向TRL中的增量权重同步机制",
+      "标题提及以Hub Bucket方式传输万亿参数",
+      "原文无摘要与正文，细节不足"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

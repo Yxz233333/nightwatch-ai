@@ -1,0 +1,25 @@
+{
+  "id": "ade0be1300610234",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Election information and safeguards in 2026",
+  "summary": "OpenAI发布说明，介绍其在2026年选举期间的支持方式，涵盖提供可靠信息、网络防御、AI透明度、滥用防护和偏见监测五个方面。",
+  "url": "https://openai.com/index/election-safeguards-2026",
+  "date": "2026-05-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-27T00:00:00+00:00",
+  "titleEn": "Election information and safeguards in 2026",
+  "titleZh": "2026年选举信息与保障措施",
+  "details": {
+    "overview": "OpenAI发布说明，介绍其在2026年选举期间的支持方式，涵盖提供可靠信息、网络防御、AI透明度、滥用防护和偏见监测五个方面。原文仅列出这些方向，未披露具体技术手段、覆盖地区或实施时间表，因此无法判断各项措施的实际效果。该说明的意义在于表明公司对选举场景的公开承诺，具体范围与限制需以官方原文为准。",
+    "keyPoints": [
+      "围绕可靠信息、网络防御、AI透明度、滥用防护与偏见监测五方面展开",
+      "当前收录材料未提供具体技术手段、覆盖地区或实施时间表",
+      "属于公司公开说明，具体范围与限制以原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

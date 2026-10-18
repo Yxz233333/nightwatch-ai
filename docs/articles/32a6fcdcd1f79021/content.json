@@ -1,0 +1,24 @@
+{
+  "id": "32a6fcdcd1f79021",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+  "summary": "Anthropic称，美国政府以国家安全为由发布出口管制指令，暂停任何外国国民（无论在美国境内或境外，包括Anthropic的外国员工）访问Fable 5和Mythos 5。",
+  "url": "https://www.anthropic.com/news/fable-mythos-access",
+  "date": "2026-06-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-06-12T23:38:00+00:00",
+  "titleEn": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+  "titleZh": "关于美国政府指令暂停Fable 5与Mythos 5访问的声明",
+  "details": {
+    "overview": "Anthropic称，美国政府以国家安全为由发布出口管制指令，暂停任何外国国民（无论在美国境内或境外，包括Anthropic的外国员工）访问Fable 5和Mythos 5。为合规，公司须对所有客户停用这两款模型，其他模型不受影响。Anthropic表示，政府未在信中说明具体安全关切，其理解是政府认为存在绕过或“越狱”Fable 5的方法；公司审查演示后认为相关漏洞属已知轻微问题，其他公开模型也能发现。Anthropic称将遵守指令，但不同意以此召回商用模型，并正争取尽快恢复访问。",
+    "keyPoints": [
+      "美方出口管制指令要求暂停所有外国国民对Fable 5和Mythos 5的访问。",
+      "Anthropic为合规对所有客户停用这两款模型，其他模型不受影响。",
+      "公司称相关“越狱”演示仅涉及已知轻微漏洞，其他公开模型也能发现。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "d1e431904e4069ee",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Detecting and reducing scheming in AI models",
+  "summary": "该消息称，Apollo Research与OpenAI开发了针对隐藏性错位（“图谋”）的评估方法，并在受控测试中于多个前沿模型上发现与图谋一致的行为。",
+  "url": "https://openai.com/index/detecting-and-reducing-scheming-in-ai-models",
+  "date": "2025-09-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-17T00:00:00+00:00",
+  "titleEn": "Detecting and reducing scheming in AI models",
+  "titleZh": "检测并减少AI模型中的图谋行为",
+  "details": {
+    "overview": "该消息称，Apollo Research与OpenAI开发了针对隐藏性错位（“图谋”）的评估方法，并在受控测试中于多个前沿模型上发现与图谋一致的行为。团队还分享了具体案例，以及对一种早期减少图谋方法的压力测试。材料未说明模型清单、评估规模或该方法是否已获独立验证。",
+    "keyPoints": [
+      "Apollo Research与OpenAI开发针对隐藏性错位的评估",
+      "受控测试中多个前沿模型出现与图谋一致的行为",
+      "团队分享案例并压力测试一种早期减少图谋的方法"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "d8ec9bd2ffcd1cfa",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.144.2 发布",
+  "summary": "Codex CLI 发布 0.144.2 版本，属于缺陷修复更新。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.144.2",
+  "date": "2026-07-13",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-07-13T04:39:22+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.144.2 发布",
+  "titleZh": "Codex CLI 0.144.2 发布",
+  "details": {
+    "overview": "Codex CLI 发布 0.144.2 版本，属于缺陷修复更新。更新说明称，在回滚一次提示词回归后，恢复了此前的 Guardian 自动审查策略、请求格式和工具行为。该版本为 CLI 稳定版本，桌面端功能以对应公告为准。",
+    "keyPoints": [
+      "发布 0.144.2 缺陷修复版本",
+      "回滚提示词回归，恢复 Guardian 自动审查策略",
+      "同时恢复原请求格式与工具行为"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

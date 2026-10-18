@@ -1,0 +1,24 @@
+{
+  "id": "4f4aa7a58f154d41",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition",
+  "summary": "NVIDIA发文称，向智能体AI的转变对AI工厂的CPU提出新要求：快速核心、大内存带宽，以及全部核心活跃时维持高性能的能力。",
+  "url": "https://blogs.nvidia.com/blog/vera-cpu-phoronix/",
+  "date": "2026-05-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-05-26T21:15:15+00:00",
+  "titleEn": "NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition",
+  "titleZh": "NVIDIA Vera CPU在竞争中“重拳出击”",
+  "details": {
+    "overview": "NVIDIA发文称，向智能体AI的转变对AI工厂的CPU提出新要求：快速核心、大内存带宽，以及全部核心活跃时维持高性能的能力。文章引用Phoronix当日发布的初步基准结果，称Vera CPU满足这一需求。当前收录材料仅给出概述，未列出具体测试项目与数值，因此相关结论属于厂商引述的初步基准，尚待更全面评测。",
+    "keyPoints": [
+      "智能体AI对CPU提出快速核心、大内存带宽与全核高性能要求",
+      "引用Phoronix当日发布的初步基准结果",
+      "原文未列出具体测试项目与数值"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

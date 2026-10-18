@@ -1,0 +1,25 @@
+{
+  "id": "dda1a45af502377c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora",
+  "summary": "该消息称，迪士尼与 OpenAI 达成协议，将 200 多个来自迪士尼、漫威、皮克斯和星球大战的角色引入 Sora，用于粉丝创作的短视频。",
+  "url": "https://openai.com/index/disney-sora-agreement",
+  "date": "2025-12-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-11T00:00:00+00:00",
+  "titleEn": "The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora",
+  "titleZh": "华特迪士尼公司与 OpenAI 达成里程碑协议，将经典角色引入 Sora",
+  "details": {
+    "overview": "该消息称，迪士尼与 OpenAI 达成协议，将 200 多个来自迪士尼、漫威、皮克斯和星球大战的角色引入 Sora，用于粉丝创作的短视频。协议强调娱乐领域负责任地使用 AI，并包括迪士尼全公司使用 ChatGPT Enterprise 和 OpenAI API。当前收录材料未提供协议金额、具体角色清单或内容审核机制细节。",
+    "keyPoints": [
+      "协议涉及 200 多个迪士尼、漫威、皮克斯和星球大战角色。",
+      "这些角色将用于 Sora 中的粉丝创作短视频。",
+      "迪士尼将在全公司使用 ChatGPT Enterprise 和 OpenAI API。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

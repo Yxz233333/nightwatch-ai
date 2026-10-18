@@ -1,0 +1,24 @@
+{
+  "id": "81b179a2610256f8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+  "summary": "该官方发布记录介绍一家大型儿童医院在心脏护理中使用开源 NVIDIA AI 的情况，但提供的材料仅有标题，未包含具体医院名称、技术方案、应用场景或效果数据。",
+  "url": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
+  "date": "2026-09-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-09-15T09:00:42+00:00",
+  "titleEn": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+  "titleZh": "核心所在：一家大型儿童医院如何用开源 NVIDIA AI 开展心脏护理",
+  "details": {
+    "overview": "该官方发布记录介绍一家大型儿童医院在心脏护理中使用开源 NVIDIA AI 的情况，但提供的材料仅有标题，未包含具体医院名称、技术方案、应用场景或效果数据。因此无法说明其具体研究对象与作者声称的结果，仅能确认主题为开源 NVIDIA AI 在儿童心脏医疗中的应用。",
+    "keyPoints": [
+      "主题为大型儿童医院将开源 NVIDIA AI 用于心脏护理",
+      "原始材料仅含标题，未披露具体技术方案与实施细节",
+      "未提供效果数据，相关结论需以原文为准"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

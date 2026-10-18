@@ -1,0 +1,24 @@
+{
+  "id": "0bd6064c22742cb3",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Built to benefit everyone: our plan",
+  "summary": "OpenAI发布一份关于AI未来的愿景计划，聚焦可及性、安全与共享繁荣，称其工作是确保AGI惠及所有人。",
+  "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+  "date": "2026-06-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-08T01:30:00+00:00",
+  "titleEn": "Built to benefit everyone: our plan",
+  "titleZh": "为惠及所有人而构建：我们的计划",
+  "details": {
+    "overview": "OpenAI发布一份关于AI未来的愿景计划，聚焦可及性、安全与共享繁荣，称其工作是确保AGI惠及所有人。当前收录材料未提供具体政策、产品安排或实施时间表。",
+    "keyPoints": [
+      "计划聚焦AI的可及性、安全与共享繁荣。",
+      "OpenAI称其目标是确保AGI惠及所有人。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

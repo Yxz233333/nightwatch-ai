@@ -1,0 +1,23 @@
+{
+  "id": "809d160aeb73479e",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Personality and custom instructions now apply to all chats",
+  "summary": "此前，用户在 ChatGPT 中对个性或自定义指令的修改只对新对话生效。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personality-and-custom-instructions-now-apply-to-all-chats",
+  "date": "2025-11-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Personality and custom instructions now apply to all chats",
+  "titleZh": "个性与自定义指令现已应用于所有聊天",
+  "details": {
+    "overview": "此前，用户在 ChatGPT 中对个性或自定义指令的修改只对新对话生效。官方表示，从即日起，在“设置→个性化”中所做的更新会立即应用到所有聊天，包括已有对话，使用户无需新建对话即可保持一致体验。原文未说明具体适用范围或地区限制。",
+    "keyPoints": [
+      "个性与自定义指令的修改此前仅对新对话生效",
+      "现在设置中的更新会立即应用到所有聊天",
+      "已有对话也会同步应用，无需新建对话"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

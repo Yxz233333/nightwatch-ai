@@ -1,0 +1,25 @@
+{
+  "id": "233fab92094e2f39",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How CRED is tapping AI to deliver premium customer experiences",
+  "summary": "该消息称，印度公司CRED正与OpenAI合作，利用基于GPT的工具改善高端客户体验，目标是提升客服准确率、缩短响应时间并提高客户满意度。",
+  "url": "https://openai.com/index/cred-swamy-seetharaman",
+  "date": "2025-11-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-05T21:30:00+00:00",
+  "titleEn": "How CRED is tapping AI to deliver premium customer experiences",
+  "titleZh": "CRED如何借助AI提供高端客户体验",
+  "details": {
+    "overview": "该消息称，印度公司CRED正与OpenAI合作，利用基于GPT的工具改善高端客户体验，目标是提升客服准确率、缩短响应时间并提高客户满意度。当前收录材料仅给出这一概括性描述，未披露具体工具形态、部署范围、效果数据或上线时间，相关细节需以官方原始发布为准。",
+    "keyPoints": [
+      "CRED与OpenAI合作，用GPT驱动的工具改善客户体验。",
+      "官方称目标是提升客服准确率、缩短响应时间。",
+      "当前收录材料未提供具体部署范围与量化效果数据。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

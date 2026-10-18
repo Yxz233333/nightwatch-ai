@@ -1,0 +1,23 @@
+{
+  "id": "d27f7f8217620850",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT for iOS 1.2026.188",
+  "summary": "ChatGPT iOS 应用发布 1.2026.188 版本。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2026-07-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "ChatGPT for iOS 1.2026.188",
+  "titleZh": "ChatGPT iOS 版 1.2026.188",
+  "details": {
+    "overview": "ChatGPT iOS 应用发布 1.2026.188 版本。新增功能包括在 Codex 任务中支持内联可视化。改进与修复涉及：从对话创建和管理任务并可靠链接到新任务、工具活动样式与进度指示、文件打开反馈、长提示和大字号下输入框控件保持可见，以及修复每个任务的 Fast 模式选择与恢复、初始提示忽略所选审批预设、自动补全背景和任务行在滑动手势中无响应等问题。",
+    "keyPoints": [
+      "Codex 任务新增内联可视化支持",
+      "改进任务创建管理、工具活动样式与输入框显示",
+      "修复 Fast 模式、审批预设及滑动手势相关问题"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

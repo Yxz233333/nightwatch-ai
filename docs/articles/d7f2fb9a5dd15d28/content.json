@@ -1,0 +1,25 @@
+{
+  "id": "d7f2fb9a5dd15d28",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Unlocking asynchronicity in continuous batching",
+  "summary": "现有材料仅有标题“Unlocking asynchronicity in continuous batching”，没有摘要、正文或其他说明，无法确认具体研究对象、方法、作者声称的结果及其意义。",
+  "url": "https://huggingface.co/blog/continuous_async",
+  "date": "2026-05-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-05-14T00:00:00+00:00",
+  "titleEn": "Unlocking asynchronicity in continuous batching",
+  "titleZh": "释放连续批处理中的异步性",
+  "details": {
+    "overview": "现有材料仅有标题“Unlocking asynchronicity in continuous batching”，没有摘要、正文或其他说明，无法确认具体研究对象、方法、作者声称的结果及其意义。连续批处理通常与推理服务调度相关，但此处不应据此推断论文结论。建议补充原文后再撰写介绍。",
+    "keyPoints": [
+      "仅有标题，缺少摘要与正文内容",
+      "无法确认具体研究对象与方法",
+      "作者声称的结果与研究意义材料不足"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

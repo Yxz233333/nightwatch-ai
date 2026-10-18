@@ -1,0 +1,25 @@
+{
+  "id": "b8e383f4c25f4946",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Expanding our support for scientists",
+  "summary": "Anthropic 宣布扩大对科研人员的支持：通过新的科学家团队计划开放 1 万个席位，标准席位免费，5 倍用量上限的高级席位每月 15 美元，为期一年，面向全球学术或非营利机构的首席研究员及其实验室成员。",
+  "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+  "date": "2026-08-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-08-27T17:03:00+00:00",
+  "titleEn": "Expanding our support for scientists",
+  "titleZh": "扩大对科学家的支持",
+  "details": {
+    "overview": "Anthropic 宣布扩大对科研人员的支持：通过新的科学家团队计划开放 1 万个席位，标准席位免费，5 倍用量上限的高级席位每月 15 美元，为期一年，面向全球学术或非营利机构的首席研究员及其实验室成员。同时扩展 AI for Science 计划，向更多领域研究者提供积分，单个项目最高 5 万美元。官方称生物与化学领域仍限 Opus 级模型，Fable 模型继续屏蔽专业生物与药物开发查询。",
+    "keyPoints": [
+      "开放 1 万个科学家席位，标准免费、高级每月 15 美元",
+      "AI for Science 积分扩展至更多领域，单项目最高 5 万美元",
+      "生物与化学研究者仍限 Opus 级模型",
+      "Fable 模型继续屏蔽专业生物与药物开发查询"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

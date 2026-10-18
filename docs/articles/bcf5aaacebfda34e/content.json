@@ -1,0 +1,25 @@
+{
+  "id": "bcf5aaacebfda34e",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+  "summary": "该官方发布介绍最新图像生成模型 Nano Banana 2，称其具备更强的世界知识、面向生产环境的规格与主体一致性，并以 Flash 级速度运行。",
+  "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+  "date": "2026-02-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-02-26T16:01:50+00:00",
+  "titleEn": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+  "titleZh": "Nano Banana 2：兼具 Pro 能力与极快速度",
+  "details": {
+    "overview": "该官方发布介绍最新图像生成模型 Nano Banana 2，称其具备更强的世界知识、面向生产环境的规格与主体一致性，并以 Flash 级速度运行。原文未给出具体基准分数、定价、可用地区或与上一代模型的量化对比，相关能力描述均来自发布方。",
+    "keyPoints": [
+      "发布方称新模型具备更强世界知识与主体一致性",
+      "强调以 Flash 级速度提供接近 Pro 的能力",
+      "未披露基准分数、定价或可用范围"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

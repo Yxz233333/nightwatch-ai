@@ -1,0 +1,25 @@
+{
+  "id": "8f47543e3092fe1b",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.152.0 发布",
+  "summary": "这是Codex CLI 0.152.0版本发布说明，列出多项新功能与修复。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.152.0",
+  "date": "2026-09-01",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-09-01T01:58:32+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.152.0 发布",
+  "titleZh": "Codex CLI 0.152.0 发布",
+  "details": {
+    "overview": "这是Codex CLI 0.152.0版本发布说明，列出多项新功能与修复。新功能包括Vim模式草稿内搜索、限流横幅操作、凭证刷新进度显示、MCP服务器名支持特殊字符、单个MCP工具输出token上限、线程shell命令可配置超时等。修复涉及Vim草稿模式、自动审批审查保留更长上下文、恢复线程工作目录、MCP工具缓存刷新、Windows沙箱执行等。规划工具改为默认关闭。",
+    "keyPoints": [
+      "Vim模式支持草稿内/与?搜索及n/N重复导航",
+      "MCP工具可设output_token_limit，服务器名支持特殊字符",
+      "规划工具默认关闭，需显式开启"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

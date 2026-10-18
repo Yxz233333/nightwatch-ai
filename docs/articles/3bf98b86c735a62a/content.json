@@ -1,0 +1,25 @@
+{
+  "id": "3bf98b86c735a62a",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.44.0 发布",
+  "summary": "Codex CLI 0.44.0 发布公告列出本次更新要点：界面刷新，更新聊天输入区、底部面板、模型选择器和升级提示；自定义提示支持命名与位置参数；新增对流式 HTTP MCP 服务器的支持；Windows 上实验性减少只读命令的重复审批；并以“非常实验性”方式加入 codex cloud 管理云任务。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.44.0",
+  "date": "2025-10-04",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-10-03T17:01:36+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.44.0 发布",
+  "titleZh": "Codex CLI 0.44.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.44.0 发布公告列出本次更新要点：界面刷新，更新聊天输入区、底部面板、模型选择器和升级提示；自定义提示支持命名与位置参数；新增对流式 HTTP MCP 服务器的支持；Windows 上实验性减少只读命令的重复审批；并以“非常实验性”方式加入 codex cloud 管理云任务。公告还附有大量合并 PR 的修复与改进清单。",
+    "keyPoints": [
+      "界面刷新覆盖聊天输入区、底部面板、模型选择器与升级提示",
+      "自定义提示新增命名参数与位置参数支持",
+      "新增流式 HTTP MCP 服务器支持，并实验性加入 codex cloud"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

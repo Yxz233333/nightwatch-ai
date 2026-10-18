@@ -1,0 +1,24 @@
+{
+  "id": "aa598dba0a588ea0",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Introducing Bloom: an open source tool for automated behavioral evaluations",
+  "summary": "发布方推出开源智能体框架 Bloom，用于生成前沿 AI 模型的行为评估。",
+  "url": "https://www.anthropic.com/research/bloom",
+  "date": "2025-12-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-12-19T19:45:00+00:00",
+  "titleEn": "Introducing Bloom: an open source tool for automated behavioral evaluations",
+  "titleZh": "推出 Bloom：一款用于自动化行为评估的开源工具",
+  "details": {
+    "overview": "发布方推出开源智能体框架 Bloom，用于生成前沿 AI 模型的行为评估。Bloom 接收研究者指定的行为，自动生成大量场景，量化该行为出现的频率与严重程度。发布方称其评估与人工标注判断相关性较强，并能区分基线模型与故意失准模型；同时发布四种对齐相关行为在 16 个模型上的基准结果。Bloom 分四个自动化阶段，支持 Weights & Biases 集成与 Inspect 兼容记录导出，并可通过种子配置保证可复现性。",
+    "keyPoints": [
+      "Bloom 接收单一行为描述，自动生成多场景评估并量化出现频率与严重程度",
+      "发布方称在十项怪癖中九项成功区分模型生物与生产模型",
+      "发布四种对齐相关行为在 16 个模型上的基准结果"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

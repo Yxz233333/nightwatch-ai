@@ -1,0 +1,25 @@
+{
+  "id": "9aa2e073b68cbd52",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Itaú is building generative AI for its entire customer base",
+  "summary": "材料显示，巴西银行 Itaú 正通过对话式界面 ia.i 和治理平台 IARA，将“AI 优先”战略同时应用于客户和员工，所处行业是巴西监管最严格的领域之一。",
+  "url": "https://openai.com/index/itau-generative-ai",
+  "date": "2026-10-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-10-16T19:00:00+00:00",
+  "titleEn": "How Itaú is building generative AI for its entire customer base",
+  "titleZh": "Itaú 如何为全体客户构建生成式 AI",
+  "details": {
+    "overview": "材料显示，巴西银行 Itaú 正通过对话式界面 ia.i 和治理平台 IARA，将“AI 优先”战略同时应用于客户和员工，所处行业是巴西监管最严格的领域之一。原文仅提供这一概述，未披露 ia.i 的具体功能、IARA 的治理机制、部署规模或效果数据。因此，关于其技术细节和实际成效的信息不足，需以官方后续发布为准。",
+    "keyPoints": [
+      "Itaú 以对话式界面 ia.i 服务客户，并面向员工推进 AI 应用。",
+      "IARA 被定位为治理平台，支撑其“AI 优先”战略。",
+      "当前收录材料未提供功能细节、部署规模或效果数据。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

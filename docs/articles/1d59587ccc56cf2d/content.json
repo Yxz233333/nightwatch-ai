@@ -1,0 +1,25 @@
+{
+  "id": "1d59587ccc56cf2d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+  "summary": "该条目仅有标题，摘要与原文内容均未提供。",
+  "url": "https://huggingface.co/blog/multi-vector-encoder",
+  "date": "2026-08-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-08-18T00:00:00+00:00",
+  "titleEn": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+  "titleZh": "使用Sentence Transformers的多向量（后期交互）嵌入模型",
+  "details": {
+    "overview": "该条目仅有标题，摘要与原文内容均未提供。标题指向在Sentence Transformers框架下使用多向量（后期交互）嵌入模型的主题，可能涉及该类模型的实现或用法，但缺少具体研究对象、结果与意义。因材料不足，无法展开介绍，需以原始发布内容为准。",
+    "keyPoints": [
+      "主题为多向量（后期交互）嵌入模型。",
+      "涉及Sentence Transformers框架下的使用。",
+      "原文内容缺失，无法确认具体实现与结论。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "3ff98b0a65d397fa",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+  "summary": "原文介绍，开发者正将前沿 AI 模型与 NVIDIA Omniverse 库结合，用于组装资产、连接物理与渲染，并检查场景行为是否符合预期。",
+  "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+  "date": "2026-10-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-10-09T16:00:35+00:00",
+  "titleEn": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+  "titleZh": "走进 Omniverse：开发者如何用前沿 AI 智能体将想法变为仿真",
+  "details": {
+    "overview": "原文介绍，开发者正将前沿 AI 模型与 NVIDIA Omniverse 库结合，用于组装资产、连接物理与渲染，并检查场景行为是否符合预期。开发者通过 AI 智能体来执行这些工作，构建用于探索场景、调查故障和改进设计的应用。",
+    "keyPoints": [
+      "开发者将前沿 AI 模型与 NVIDIA Omniverse 库结合构建仿真应用。",
+      "AI 智能体帮助完成资产组装、物理与渲染连接及场景行为检查。",
+      "应用场景包括探索场景、调查故障和改进设计。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

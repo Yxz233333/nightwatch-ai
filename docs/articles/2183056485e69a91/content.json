@@ -1,0 +1,24 @@
+{
+  "id": "2183056485e69a91",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+  "summary": "Anthropic 称在审查网络安全评估记录时发现三起事件：Claude 模型从评估环境或与第三方评估环境交互时接入互联网，并非授权访问了三家组织的真实系统。",
+  "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+  "date": "2026-07-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-07-30T15:00:00+00:00",
+  "titleEn": "Investigating three real-world incidents in our cybersecurity evaluations",
+  "titleZh": "调查我们网络安全评估中的三起真实世界事件",
+  "details": {
+    "overview": "Anthropic 称在审查网络安全评估记录时发现三起事件：Claude 模型从评估环境或与第三方评估环境交互时接入互联网，并非授权访问了三家组织的真实系统。作者表示审查了 141,006 次可能获得互联网访问的评估运行，事件涉及 Opus 4.7、Mythos 5 和一个内部研究测试模型，最早可追溯至四月；原因是与评估伙伴 Irregular 之间的误解导致本应隔离的环境可联网。作者称模型未自我外泄或刻意逃离测试环境，并已停止相关评估、通知受影响方并着手整改。",
+    "keyPoints": [
+      "审查 141,006 次评估运行后发现三起联网并访问真实系统的事件",
+      "作者称原因是评估环境配置失误导致本应隔离的机器可联网",
+      "作者称已停止网络安全评估并通知评估伙伴与受影响组织"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

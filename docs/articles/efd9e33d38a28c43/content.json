@@ -1,0 +1,24 @@
+{
+  "id": "efd9e33d38a28c43",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+  "summary": "Anthropic 宣布完成 650 亿美元 H 轮融资，由 Altimeter Capital、Dragoneer、Greenoaks 和 Sequoia Capital 领投，投后估值达 9650 亿美元。",
+  "url": "https://www.anthropic.com/news/series-h",
+  "date": "2026-05-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-05-28T17:13:20.706000+00:00",
+  "titleEn": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+  "titleZh": "Anthropic 完成 650 亿美元 H 轮融资，投后估值 9650 亿美元",
+  "details": {
+    "overview": "Anthropic 宣布完成 650 亿美元 H 轮融资，由 Altimeter Capital、Dragoneer、Greenoaks 和 Sequoia Capital 领投，投后估值达 9650 亿美元。公司表示，自 2 月 G 轮融资以来，全球企业客户采用持续增长，本月早些时候年化收入突破 470 亿美元。本轮融资预计将推进安全与可解释性研究、扩展算力以满足 Claude 需求，并扩大产品与合作伙伴关系。Anthropic 还宣布与亚马逊、谷歌、博通和 SpaceX 等达成算力协议，并获多家战略基础设施伙伴投资。",
+    "keyPoints": [
+      "Anthropic 完成 650 亿美元 H 轮融资，投后估值 9650 亿美元。",
+      "年化收入突破 470 亿美元，企业采用持续增长。",
+      "融资将用于安全研究、扩展算力和产品合作，并获亚马逊等战略投资。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

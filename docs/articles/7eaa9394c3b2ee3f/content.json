@@ -1,0 +1,25 @@
+{
+  "id": "7eaa9394c3b2ee3f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Inside Praktika's conversational approach to language learning",
+  "summary": "该文介绍 Praktika 如何利用 GPT-4.1 和 GPT-5.2 构建自适应 AI 导师，实现个性化课程、进度跟踪，并帮助学习者达到真实世界的语言流利度。",
+  "url": "https://openai.com/index/praktika",
+  "date": "2026-01-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-22T00:00:00+00:00",
+  "titleEn": "Inside Praktika's conversational approach to language learning",
+  "titleZh": "Praktika 对话式语言学习内幕",
+  "details": {
+    "overview": "该文介绍 Praktika 如何利用 GPT-4.1 和 GPT-5.2 构建自适应 AI 导师，实现个性化课程、进度跟踪，并帮助学习者达到真实世界的语言流利度。摘要未提供具体效果数据或验证结论。",
+    "keyPoints": [
+      "使用 GPT-4.1 和 GPT-5.2 构建自适应 AI 导师。",
+      "功能包括个性化课程和进度跟踪。",
+      "目标是帮助学习者实现真实世界语言流利度。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

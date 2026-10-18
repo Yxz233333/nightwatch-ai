@@ -1,0 +1,24 @@
+{
+  "id": "9029be23fd509b2a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic partners with Rwandan Government and ALX to bring AI education to hundreds of thousands of learners across Africa",
+  "summary": "Anthropic 宣布与卢旺达政府和非洲技术培训提供商 ALX 合作，将基于 Claude 的学习伴侣 Chidi 带给非洲数十万学习者。",
+  "url": "https://www.anthropic.com/news/rwandan-government-partnership-ai-education",
+  "date": "2025-11-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-11-18T01:40:00+00:00",
+  "titleEn": "Anthropic partners with Rwandan Government and ALX to bring AI education to hundreds of thousands of learners across Africa",
+  "titleZh": "Anthropic 与卢旺达政府及 ALX 合作，为非洲数十万学习者提供 AI 教育",
+  "details": {
+    "overview": "Anthropic 宣布与卢旺达政府和非洲技术培训提供商 ALX 合作，将基于 Claude 的学习伴侣 Chidi 带给非洲数十万学习者。卢旺达 ICT 与创新部及教育部将在国家教育系统中部署 Chidi，ALX 将通过其技术培训项目覆盖非洲大陆学生。卢旺达政府将为最多 2000 名教师和部分公务员提供 AI 培训。ALX 称其覆盖超过 20 万学生和年轻专业人士。",
+    "keyPoints": [
+      "Chidi 是基于 Claude 的学习伴侣，以“苏格拉底导师”方式引导学习者。",
+      "卢旺达政府将在国家教育系统部署 Chidi，并培训最多 2000 名教师。",
+      "ALX 将向非洲各地技术培训项目的超过 20 万学生提供 Chidi。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "50cbf1e9f7fc546c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Evaluating and mitigating the growing risk of LLM-discovered 0-days",
+  "summary": "该官方发布称，Claude Opus 4.6在网络安全能力上较前代明显提升，可在无专用工具、脚手架或特殊提示的情况下，直接阅读和推理代码，发现高严重度漏洞，部分漏洞在长期运行模糊测试的代码库中数十年未被发现。",
+  "url": "https://www.anthropic.com/research/zero-days",
+  "date": "2026-02-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-02-05T00:00:00+00:00",
+  "titleEn": "Evaluating and mitigating the growing risk of LLM-discovered 0-days",
+  "titleZh": "评估并缓解LLM发现0-day漏洞日益增长的风险",
+  "details": {
+    "overview": "该官方发布称，Claude Opus 4.6在网络安全能力上较前代明显提升，可在无专用工具、脚手架或特殊提示的情况下，直接阅读和推理代码，发现高严重度漏洞，部分漏洞在长期运行模糊测试的代码库中数十年未被发现。作者表示已用Claude在开源软件中发现并人工验证500余个高严重度漏洞，并开始报告和提交补丁。文中还介绍其虚拟机测试方法、以内存破坏类漏洞为主的验证流程，以及为防滥用设置的保障措施。",
+    "keyPoints": [
+      "作者称Opus 4.6无需专用工具即可发现高严重度漏洞，部分漏洞数十年未被发现",
+      "团队称已在开源软件中发现并验证500余个高严重度漏洞，并开始提交补丁",
+      "方法上让模型在虚拟机中使用调试器、模糊测试器等工具，并人工验证每个漏洞"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

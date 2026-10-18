@@ -1,0 +1,24 @@
+{
+  "id": "912765e9c9f355c3",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing OpenAI for Singapore",
+  "summary": "OpenAI 宣布推出“OpenAI for Singapore”，这是一项多年期 AI 合作伙伴计划，旨在扩大 AI 部署、建设本地人才，并支持企业与公共服务使用 AI。",
+  "url": "https://openai.com/index/introducing-openai-for-singapore",
+  "date": "2026-05-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-19T20:30:00+00:00",
+  "titleEn": "Introducing OpenAI for Singapore",
+  "titleZh": "推出 OpenAI for Singapore",
+  "details": {
+    "overview": "OpenAI 宣布推出“OpenAI for Singapore”，这是一项多年期 AI 合作伙伴计划，旨在扩大 AI 部署、建设本地人才，并支持企业与公共服务使用 AI。原文摘要仅给出这一概括，未披露合作方、投资规模、具体项目或时间安排，相关细节不足。",
+    "keyPoints": [
+      "该计划为多年期 AI 合作，目标是扩大部署与建设本地人才。",
+      "官方称将支持新加坡企业与公共服务使用 AI。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

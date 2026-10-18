@@ -1,0 +1,25 @@
+{
+  "id": "0758ce78a230371f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Focus areas for The Anthropic Institute",
+  "summary": "这是Anthropic研究所公布研究议程的官方发布。",
+  "url": "https://www.anthropic.com/research/anthropic-institute-agenda",
+  "date": "2026-05-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-05-07T10:02:22.668000+00:00",
+  "titleEn": "Focus areas for The Anthropic Institute",
+  "titleZh": "Anthropic研究所的重点研究方向",
+  "details": {
+    "overview": "这是Anthropic研究所公布研究议程的官方发布。原文称，该机构将利用在前沿实验室内部可获取的信息研究AI对世界的影响，并向公众分享发现。议程聚焦四个方向：经济、安全与双重用途能力、人与组织同AI的互动，以及AI驱动AI研发。原文还提到将分享研究、数据和工具，并设有Anthropic Fellow项目；议程为动态版本，会随证据调整。",
+    "keyPoints": [
+      "研究所从内部视角研究AI对经济、安全和社会的影响",
+      "议程含经济、安全、社会互动与AI驱动研发四方向",
+      "计划公开研究、数据和工具，并设研究员项目",
+      "议程为动态版本，将随证据积累调整"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

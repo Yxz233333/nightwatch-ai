@@ -1,0 +1,24 @@
+{
+  "id": "8edd11c9f09b80d5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "At Climate Week NYC, NVIDIA Details AI’s Key Role in Energy Efficiency",
+  "summary": "NVIDIA 在纽约气候周活动上介绍加速计算如何推动节能并支持气候研究。",
+  "url": "https://blogs.nvidia.com/blog/ai-energy-innovation-climate-research/",
+  "date": "2025-09-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-09-23T10:00:45+00:00",
+  "titleEn": "At Climate Week NYC, NVIDIA Details AI’s Key Role in Energy Efficiency",
+  "titleZh": "在纽约气候周，NVIDIA 详解 AI 在能效中的关键作用",
+  "details": {
+    "overview": "NVIDIA 在纽约气候周活动上介绍加速计算如何推动节能并支持气候研究。官方称过去十年大语言模型推理的能效提升了 10 万倍，以此说明加速计算即可持续计算。活动于纽约举行，持续至 9 月 26 日，汇聚研究人员等参与者。该内容属于企业发布的活动与观点信息，其中能效提升幅度为 NVIDIA 自身说法，当前收录材料未提供测算方法或第三方验证细节。",
+    "keyPoints": [
+      "NVIDIA 称过去十年大语言模型推理能效提升 10 万倍。",
+      "公司在纽约气候周展示加速计算在节能与气候研究中的作用。",
+      "活动持续至 9 月 26 日，汇聚研究人员等参与者。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

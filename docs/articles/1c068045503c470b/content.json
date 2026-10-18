@@ -1,0 +1,25 @@
+{
+  "id": "1c068045503c470b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Unlocking UK house-building with AI-accelerated planning",
+  "summary": "英国政府与 Google DeepMind 合作，构建一个由 AI 驱动的新原型，目标是加快住房决策流程。",
+  "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+  "date": "2026-06-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-06-16T21:29:50+00:00",
+  "titleEn": "Unlocking UK house-building with AI-accelerated planning",
+  "titleZh": "用 AI 加速规划，解锁英国住房建设",
+  "details": {
+    "overview": "英国政府与 Google DeepMind 合作，构建一个由 AI 驱动的新原型，目标是加快住房决策流程。原文仅说明合作方与原型用途，未披露技术细节、试点范围、时间表或预期效果。该合作属于政府与 AI 企业的行业动态，具体推出范围和限制需以官方原文为准。",
+    "keyPoints": [
+      "英国政府与 Google DeepMind 建立合作伙伴关系。",
+      "双方将构建 AI 驱动的新原型，用于加快住房决策。",
+      "当前收录材料未提供技术细节、试点范围或时间表。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

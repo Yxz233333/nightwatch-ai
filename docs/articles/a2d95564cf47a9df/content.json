@@ -13,7 +13,7 @@
   "titleEn": "The two-primary Birch–Swinnerton-Dyer formula in Selmer corank at most one",
   "titleZh": "Selmer余秩至多一时2-primary Birch–Swinnerton-Dyer公式",
   "details": {
-    "overview": "稿件讨论有理数域上椭圆曲线的Birch–Swinnerton-Dyer主项公式的2-primary部分。作者声称，对2-power Selmer群余秩至多1的每条椭圆曲线，该公式成立；在此范围内代数秩、解析秩与Selmer余秩相等，且Tate–Shafarevich群有限。结合二次扭Selmer分布，作者进一步声称对每条固定曲线的密度一的有符号无平方扭，按绝对值排序，得到精确的2-primary公式，公共秩为0或1且各占一半密度。摘要未给出证明细节。",
+    "overview": "稿件讨论有理数域上椭圆曲线的Birch–Swinnerton-Dyer主项公式的2-primary部分。作者声称，对2-power Selmer群余秩至多1的每条椭圆曲线，该公式成立；在此范围内代数秩、解析秩与Selmer余秩相等，且Tate–Shafarevich群有限。结合二次扭Selmer分布，作者进一步声称对每条固定曲线的密度一的有符号无平方扭，按绝对值排序，得到精确的2-primary公式，公共秩为0或1且各占一半密度。当前收录摘要未给出证明细节。",
     "keyPoints": [
       "作者声称对2-power Selmer余秩≤1的有理椭圆曲线证明2-primary BSD主项公式。",
       "该范围内代数秩、解析秩与Selmer余秩相等，Tate–Shafarevich群有限。",

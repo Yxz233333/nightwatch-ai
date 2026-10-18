@@ -1,0 +1,23 @@
+{
+  "id": "1d3cd50139dc21ed",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "File library expands to Free and Go users, with storage management",
+  "summary": "OpenAI宣布ChatGPT文件库扩展至Free和Go用户，包括欧洲经济区用户，便于查找、复用和基于上传或创建的文件继续工作。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-expands-to-free-and-go-users-with-storage-management",
+  "date": "2026-05-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "File library expands to Free and Go users, with storage management",
+  "titleZh": "文件库扩展至Free和Go用户，并推出存储管理",
+  "details": {
+    "overview": "OpenAI宣布ChatGPT文件库扩展至Free和Go用户，包括欧洲经济区用户，便于查找、复用和基于上传或创建的文件继续工作。用户可从输入框添加最近文件、在Library中浏览已保存文件，并就此前用过的文件向ChatGPT提问。同时推出跨套餐存储管理，存储涵盖上传文件及在ChatGPT中创建的文档、表格、演示文稿和图片，各套餐上限不同。存储管理目前仅在网页端提供，可从设置进入，也可在Library中直接删除文件。",
+    "keyPoints": [
+      "文件库扩展至Free和Go用户，含欧洲经济区用户",
+      "存储管理按套餐设不同上限，目前仅网页端可用",
+      "临时聊天上传的文件不会保存到文件库"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

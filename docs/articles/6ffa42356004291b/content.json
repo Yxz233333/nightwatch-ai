@@ -1,0 +1,24 @@
+{
+  "id": "6ffa42356004291b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA DGX Spark Powers Big Projects in Higher Education",
+  "summary": "NVIDIA发文称，DGX Spark桌面超级计算机正将数据中心级AI带入全球领先高校的实验室、教师办公室和学生系统。",
+  "url": "https://blogs.nvidia.com/blog/dgx-spark-higher-education/",
+  "date": "2026-02-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-02-12T15:00:23+00:00",
+  "titleEn": "NVIDIA DGX Spark Powers Big Projects in Higher Education",
+  "titleZh": "NVIDIA DGX Spark助力高等教育重大项目",
+  "details": {
+    "overview": "NVIDIA发文称，DGX Spark桌面超级计算机正将数据中心级AI带入全球领先高校的实验室、教师办公室和学生系统。威斯康星大学麦迪逊分校运行的IceCube中微子天文台位于南极，也有一台DGX Spark在运行。该紧凑型超级计算机具备千万亿次级性能，支持本地部署。当前收录材料未提供具体项目成果或性能验证细节。",
+    "keyPoints": [
+      "DGX Spark桌面超级计算机被用于全球多所高校的实验室、办公室和学生系统。",
+      "威斯康星大学麦迪逊分校的IceCube中微子天文台在南极使用了一台DGX Spark。",
+      "该设备具备千万亿次级性能，支持本地部署AI工作负载。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

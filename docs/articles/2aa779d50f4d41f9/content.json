@@ -1,0 +1,25 @@
+{
+  "id": "2aa779d50f4d41f9",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "SafetyKit scales risk agents with OpenAI’s most capable models",
+  "summary": "该新闻介绍 SafetyKit 如何借助 OpenAI GPT-5 提升内容审核与合规执行能力，并声称其准确性优于传统安全系统。",
+  "url": "https://openai.com/index/safetykit",
+  "date": "2025-09-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-09T10:00:00+00:00",
+  "titleEn": "SafetyKit scales risk agents with OpenAI’s most capable models",
+  "titleZh": "SafetyKit 利用 OpenAI 最强大模型扩展风险代理",
+  "details": {
+    "overview": "该新闻介绍 SafetyKit 如何借助 OpenAI GPT-5 提升内容审核与合规执行能力，并声称其准确性优于传统安全系统。当前收录材料未提供具体技术细节或独立验证结果，仅说明其应用方向。",
+    "keyPoints": [
+      "SafetyKit 使用 OpenAI GPT-5 增强内容审核。",
+      "该方案旨在执行合规要求并超越传统安全系统。",
+      "原文称其准确性更高，但未给出具体数据。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5fc14b89a574b345",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Expanding the Cyber Verification Program",
+  "summary": "官方发布称推出扩展版Cyber Verification Program（CVP），向符合条件的网络安全专业人员提供高级网络能力并降低拦截分类器强度。",
+  "url": "https://www.anthropic.com/news/cyber-verification-program",
+  "date": "2026-10-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-10-06T19:00:00+00:00",
+  "titleEn": "Expanding the Cyber Verification Program",
+  "titleZh": "扩展网络验证计划",
+  "details": {
+    "overview": "官方发布称推出扩展版Cyber Verification Program（CVP），向符合条件的网络安全专业人员提供高级网络能力并降低拦截分类器强度。计划分为Defense Access、Red Team Access与Specialized Access三个层级，均包含Claude Opus 5.5、Sonnet 5.5、Mythos 5.1及后续新模型。原文说明通用模型保留保守网络防护以限制恶意使用，并称通过Project Glasswing与CVP开展可信访问；作者还引用CyScenarioBench评估及合作伙伴发现的漏洞数量，称模型提升了漏洞发现速度。具体资格、审核与数据保留要求以原文为准。",
+    "keyPoints": [
+      "CVP扩展为三个访问层级，按网络工作范围开放模型能力。",
+      "Defense与Red Team层级有不同验证要求和实时拦截限制。",
+      "Specialized Access保留给少数经深入审核的组织。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

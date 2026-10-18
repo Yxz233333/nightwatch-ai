@@ -1,0 +1,25 @@
+{
+  "id": "172ea608be5f89d0",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.59.0 发布",
+  "summary": "发布说明列出多项更新：引入前沿智能体编码模型 GPT-5.1-Codex-Max，官方称其可靠性更高、迭代更快并支持长时间项目级工作流；新增原生 Compaction 支持以改善长会话性能；codex 模型工具输出令牌上限提升至 10000，可通过 config.toml 的 tool_output_token_limit 配置；Windows 原生 Agent 模式可读写工作目录文件并运行命令，使用实验性沙箱限制文件系统与网络访问；另有 TUI 与体验改进及大量合并 PR。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.59.0",
+  "date": "2025-11-20",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-11-19T18:09:22+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.59.0 发布",
+  "titleZh": "Codex CLI 0.59.0 发布",
+  "details": {
+    "overview": "发布说明列出多项更新：引入前沿智能体编码模型 GPT-5.1-Codex-Max，官方称其可靠性更高、迭代更快并支持长时间项目级工作流；新增原生 Compaction 支持以改善长会话性能；codex 模型工具输出令牌上限提升至 10000，可通过 config.toml 的 tool_output_token_limit 配置；Windows 原生 Agent 模式可读写工作目录文件并运行命令，使用实验性沙箱限制文件系统与网络访问；另有 TUI 与体验改进及大量合并 PR。",
+    "keyPoints": [
+      "引入 GPT-5.1-Codex-Max，官方称支持长时间项目级工作流。",
+      "新增原生 Compaction，工具输出令牌上限提升至 10000。",
+      "Windows 原生 Agent 模式使用实验性沙箱限制文件与网络访问。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

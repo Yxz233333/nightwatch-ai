@@ -1,0 +1,25 @@
+{
+  "id": "967f8d54e6b4201a",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.149.0 发布",
+  "summary": "该发布说明列出 Codex CLI 0.149.0 的新功能与修复：新增交互式 codex agents 任务面板，TUI 增加 /cd、/pwd、/cwd 工作目录命令，新增 codex queue 向本地或远程会话发送消息，扩展 Vim 编辑动作，codex doctor 增加端点防护、网络与桌面应用诊断，SDK 支持精确 CLI 配置覆盖及 max/ultra 推理强度。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.149.0",
+  "date": "2026-08-21",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-08-20T21:04:55+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.149.0 发布",
+  "titleZh": "Codex CLI 0.149.0 发布",
+  "details": {
+    "overview": "该发布说明列出 Codex CLI 0.149.0 的新功能与修复：新增交互式 codex agents 任务面板，TUI 增加 /cd、/pwd、/cwd 工作目录命令，新增 codex queue 向本地或远程会话发送消息，扩展 Vim 编辑动作，codex doctor 增加端点防护、网络与桌面应用诊断，SDK 支持精确 CLI 配置覆盖及 max/ultra 推理强度。修复涉及队列消息唤醒、权限配置恢复、子智能体通知与 WebRTC 重连等。",
+    "keyPoints": [
+      "新增 codex agents 面板与 codex queue 会话消息发送",
+      "TUI 增加 /cd、/pwd、/cwd 并扩展 Vim 编辑动作",
+      "codex doctor 新增端点防护、网络与桌面应用诊断"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

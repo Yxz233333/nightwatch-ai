@@ -1,0 +1,25 @@
+{
+  "id": "3b62d151738a4c4c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Reachy Mini goes fully local",
+  "summary": "该条目仅有标题，称Reachy Mini实现完全本地运行。",
+  "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+  "date": "2026-05-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-05-27T00:00:00+00:00",
+  "titleEn": "Reachy Mini goes fully local",
+  "titleZh": "Reachy Mini实现完全本地运行",
+  "details": {
+    "overview": "该条目仅有标题，称Reachy Mini实现完全本地运行。当前收录材料未提供摘要或正文，无法确认本地运行的具体范围、依赖条件与性能表现。以下要点仅依据标题提炼，信息明显不足。",
+    "keyPoints": [
+      "标题称Reachy Mini可完全本地运行",
+      "原文未说明本地运行的具体范围与依赖条件",
+      "原文无摘要与正文，细节不足"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

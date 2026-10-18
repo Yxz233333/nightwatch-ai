@@ -1,0 +1,24 @@
+{
+  "id": "1e37f8b4b0f12974",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
+  "summary": "Wistron 在得克萨斯州 Fort Worth 开设其首个美国制造工厂，这是一座 324000 平方英尺的新建工厂，生产处于全球最强 AI 系统核心位置的超级芯片。",
+  "url": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
+  "date": "2026-07-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-07-21T22:35:45+00:00",
+  "titleEn": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
+  "titleZh": "落户 Fort Worth：Wistron 开设先进制造工厂生产 NVIDIA AI 系统",
+  "details": {
+    "overview": "Wistron 在得克萨斯州 Fort Worth 开设其首个美国制造工厂，这是一座 324000 平方英尺的新建工厂，生产处于全球最强 AI 系统核心位置的超级芯片。原文指出，AI 时代的运行依赖 AI 基础设施，许多此类先进系统在得州制造和测试。工厂的具体产能、投产时间与产品范围需以官方原文为准。",
+    "keyPoints": [
+      "Wistron 在 Fort Worth 开设首个美国制造工厂",
+      "工厂面积 324000 平方英尺，生产超级芯片",
+      "这些芯片处于先进 AI 系统的核心位置"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

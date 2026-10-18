@@ -1,0 +1,24 @@
+{
+  "id": "92051015c33ffdc5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
+  "summary": "原文以训练运行为切入点，指出训练基础设施决定团队迭代速度、可构建的模型规模以及任务能否可靠完成，并称随着模型规模、复杂度和智能水平提升，对训练基础设施的要求也在上升。",
+  "url": "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/",
+  "date": "2026-06-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-16T15:00:36+00:00",
+  "titleEn": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
+  "titleZh": "最快、最大、最强：NVIDIA Blackwell 横扫 MLPerf Training 6.0",
+  "details": {
+    "overview": "原文以训练运行为切入点，指出训练基础设施决定团队迭代速度、可构建的模型规模以及任务能否可靠完成，并称随着模型规模、复杂度和智能水平提升，对训练基础设施的要求也在上升。标题称 NVIDIA Blackwell 在 MLPerf Training 6.0 中表现突出，但当前收录摘要未给出具体基准数字、对比对象或测试配置，相关结论需以官方原文为准。",
+    "keyPoints": [
+      "原文强调训练基础设施影响迭代速度、模型规模与任务可靠性。",
+      "标题称 NVIDIA Blackwell 在 MLPerf Training 6.0 中领先。",
+      "摘要未披露具体基准数字或测试配置。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

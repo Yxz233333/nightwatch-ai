@@ -1,0 +1,24 @@
+{
+  "id": "5ba462981ff7cef6",
+  "section": "papers",
+  "category": "其他数学",
+  "title": "Complex Matrix Multiplication Below 2.258 and Rectangular Bounds",
+  "summary": "OpenAI 数学相关研究材料。具体研究对象、结果及核验状态请查看详情。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Complex-Matrix-Multiplication-Below-2.258-and-Rectangular-Bounds-September-24-2026/Complex-Matrix-Multiplication-Below-2.258-and-Rectangular-Bounds-September-24-2026.pdf) — secondary writeup\n\nOver every field of characteristic zero, we prove that the square matrix-multiplication exponent satisfies <i>ω</i> &lt; 2.258, the dual exponent satisfies <i>α</i> &gt; 0.465, and $`\\omega(1,0.709,1)\\lt 2.092`$. The strict square and <i>k</i> = 0.709 rectangular bounds also hold over every field except possibly in one finite set of positive characteristics, in the arithmetic-operation model.\n\n</td>\n</tr></tbody>\n<tbody><tr>\n<td>\n\n&emsp;[Staggered extraction for exact matrix multiplication over every field](preprints/Staggered-extraction-for-exact-matrix-multiplication-over-every-field-September-24-2026/Staggered-extraction-for-exact-matrix-multiplication-over-every-field-September-24-2026.pdf",
+  "date": "2026-09-24",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "source": "OpenAI 数学仓库",
+  "titleEn": "Complex Matrix Multiplication Below 2.258 and Rectangular Bounds",
+  "abstractEnglish": "We prove that the arithmetic exponent of square matrix multiplication over every fixed field satisfies ω < 2.371054886006746. This includes every positive characteristic.",
+  "titleZh": "低于 2.258 的复数矩阵乘法与矩形界",
+  "details": {
+    "overview": "该研究手稿摘要声称，作者证明了在任意固定域上，方阵乘法的算术指数满足 ω < 2.371054886006746，并称该结果涵盖所有正特征情形。标题还提到“低于 2.258”和“矩形界”，但摘要未展开矩形乘法界的具体形式、证明方法或与既有结果的比较。该稿件为 AI 产生的研究手稿，收录不表示已完成独立审查或同行评议，因此上述结论应视为作者声称，尚待专业验证。",
+    "keyPoints": [
+      "稿件声称任意固定域上方阵乘法指数 ω < 2.371054886006746。",
+      "摘要称结果涵盖所有正特征情形。",
+      "标题提及低于 2.258 与矩形界，当前收录摘要未给出细节。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "80636c9ab7cc11f0",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Disrupting a coordinated model-distillation campaign",
+  "summary": "OpenAI 表示其阻断了一场试图提取受保护模型推理内容的行动，并正在加强对对抗性蒸馏的防御。",
+  "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+  "date": "2026-09-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-30T10:30:00+00:00",
+  "titleEn": "Disrupting a coordinated model-distillation campaign",
+  "titleZh": "阻断一场协同的模型蒸馏行动",
+  "details": {
+    "overview": "OpenAI 表示其阻断了一场试图提取受保护模型推理内容的行动，并正在加强对对抗性蒸馏的防御。当前收录材料仅给出这一概述，未披露行动方、具体手法、影响范围或防御措施细节，因此无法进一步展开。",
+    "keyPoints": [
+      "OpenAI 称阻断了一场协同行动，目标是提取受保护的模型推理内容。",
+      "OpenAI 表示正在加强针对对抗性蒸馏的防御。",
+      "当前收录材料未提供行动方、手法与影响范围等细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

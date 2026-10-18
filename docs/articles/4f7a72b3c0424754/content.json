@@ -1,0 +1,25 @@
+{
+  "id": "4f7a72b3c0424754",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.147.0 发布",
+  "summary": "Codex CLI 0.147.0 为稳定版本更新，新增可安装便携式 Agent 插件并支持跨本地、个人、工作区与远程插件目录搜索；支持将对话整理为持久化、可手动排序的分区并增量浏览长记录；新增 --approve-for-me 自动审核批准参数；可导入 Cursor 管理的技能并同步 Claude 与 Cursor 会话；支持可选启用的 MCP 2026-07-28 协议。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.147.0",
+  "date": "2026-08-07",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-08-07T01:41:49+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.147.0 发布",
+  "titleZh": "Codex CLI 0.147.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.147.0 为稳定版本更新，新增可安装便携式 Agent 插件并支持跨本地、个人、工作区与远程插件目录搜索；支持将对话整理为持久化、可手动排序的分区并增量浏览长记录；新增 --approve-for-me 自动审核批准参数；可导入 Cursor 管理的技能并同步 Claude 与 Cursor 会话；支持可选启用的 MCP 2026-07-28 协议。修复方面包括命令与历史记录中的密钥脱敏、终端输入丢失、日文字符与表情渲染、Windows 后台进程中断及插件隔离加固等。",
+    "keyPoints": [
+      "新增便携 Agent 插件安装与多目录插件搜索",
+      "新增 --approve-for-me 自动审核批准参数",
+      "修复密钥脱敏、终端输入与 Windows 进程问题"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

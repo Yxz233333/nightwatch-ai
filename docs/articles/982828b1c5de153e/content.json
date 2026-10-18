@@ -1,0 +1,24 @@
+{
+  "id": "982828b1c5de153e",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Claude-shaped science",
+  "summary": "物理学家 Matthew Schwartz 在客座文章中描述其转变思路：不再强行让 Claude 像人类科学家那样工作，而是寻找最适合当前大模型能力的“Claude 形状”问题。",
+  "url": "https://www.anthropic.com/research/claude-shaped-science",
+  "date": "2026-10-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-10-01T14:02:00+00:00",
+  "titleEn": "Claude-shaped science",
+  "titleZh": "Claude 形状的科学",
+  "details": {
+    "overview": "物理学家 Matthew Schwartz 在客座文章中描述其转变思路：不再强行让 Claude 像人类科学家那样工作，而是寻找最适合当前大模型能力的“Claude 形状”问题。他据此构建开源工具包 BootLoops，用于定量科学中的精确计算，并在生态学、群体遗传学等领域专家指导下将其应用于多个学科。文章还讨论科学家需求与 AI 能力之间的“阻抗失配”，并称 BootLoops 已在若干研究方向取得进展，这些说法来自作者自述。",
+    "keyPoints": [
+      "作者提出寻找“Claude 形状”问题以匹配当前大模型能力",
+      "BootLoops 为开源工具包，用于定量科学中的精确计算",
+      "作者称在领域专家指导下将其扩展至生态学、群体遗传学等学科"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "40026538a67fa3a4",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Expanded context window for Thinking",
+  "summary": "ChatGPT在手动选择Thinking时，总上下文窗口扩展至256k tokens，其中输入128k、最大输出128k；此前总长度为196k tokens。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#expanded-context-window-for-thinking",
+  "date": "2026-02-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Expanded context window for Thinking",
+  "titleZh": "Thinking模式上下文窗口扩展",
+  "details": {
+    "overview": "ChatGPT在手动选择Thinking时，总上下文窗口扩展至256k tokens，其中输入128k、最大输出128k；此前总长度为196k tokens。该更新扩大了单次对话可容纳的输入与可生成的输出规模，但原文未说明适用套餐、上线地区或具体模型版本。",
+    "keyPoints": [
+      "手动选择Thinking时总上下文窗口为256k tokens",
+      "其中输入128k、最大输出128k",
+      "此前总长度为196k tokens"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c8870b34b6e65be8",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.146.0 发布",
+  "summary": "这是 Codex CLI 的 0.146.0 版本更新说明，汇总新功能、缺陷修复、文档与维护性改动。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.146.0",
+  "date": "2026-07-29",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-07-29T01:42:51+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.146.0 发布",
+  "titleZh": "Codex CLI 0.146.0 发布",
+  "details": {
+    "overview": "这是 Codex CLI 的 0.146.0 版本更新说明，汇总新功能、缺陷修复、文档与维护性改动。新功能包括：用 /new 或 /clear 为会话命名、固定重要线程、在不关闭侧边对话的情况下切换；支持 Agent Plugins 清单、工作区插件发布及 Amazon Bedrock 与 Claude Code 的插件市场；支持带分页历史的分叉线程；通过 WebSocket 连接远程 Code Mode 主机；为兼容的自定义模型提供方启用独立网页搜索。修复涉及代理设置、MCP 连接刷新、消息与审批设置保留、终端渲染与 Windows 进程树终止等。",
+    "keyPoints": [
+      "新增会话命名、线程固定与侧边对话切换，并支持带分页历史的分叉线程。",
+      "支持 Agent Plugins 清单、工作区插件发布及 Bedrock、Claude Code 插件市场。",
+      "修复代理配置、MCP 连接刷新、消息保留与 Windows 进程树终止等问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

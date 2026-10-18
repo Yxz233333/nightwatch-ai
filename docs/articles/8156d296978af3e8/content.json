@@ -1,0 +1,23 @@
+{
+  "id": "8156d296978af3e8",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Updates to deep research",
+  "summary": "官方发布称，ChatGPT 的深度研究功能获得多项改进，目标是产出更准确、可信且更可控的报告。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-deep-research",
+  "date": "2026-02-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Updates to deep research",
+  "titleZh": "深度研究功能更新",
+  "details": {
+    "overview": "官方发布称，ChatGPT 的深度研究功能获得多项改进，目标是产出更准确、可信且更可控的报告。用户可将研究聚焦于特定网站，并把更多已连接应用作为可信来源；重新设计的侧边栏入口与全屏报告视图便于集中启动、查看和管理研究；还可在开始前创建和编辑研究计划，并在运行中跟踪进度、调整方向。该功能当日向 Plus 和 Pro 用户推出，Free 和 Go 用户随后数日跟进。",
+    "keyPoints": [
+      "可将研究聚焦特定网站，并扩展已连接应用作为可信来源",
+      "新增研究计划创建编辑与运行中调整方向的能力",
+      "重新设计侧边栏入口与全屏报告视图，便于集中管理"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

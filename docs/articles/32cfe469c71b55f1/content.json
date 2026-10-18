@@ -1,0 +1,25 @@
+{
+  "id": "32cfe469c71b55f1",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+  "summary": "该内容为 PyTorch 性能分析系列的第一部分，标题表明是 torch.profiler 的入门指南。",
+  "url": "https://huggingface.co/blog/torch-profiler",
+  "date": "2026-05-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-05-29T00:00:00+00:00",
+  "titleEn": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+  "titleZh": "PyTorch 性能分析（第一部分）：torch.profiler 入门指南",
+  "details": {
+    "overview": "该内容为 PyTorch 性能分析系列的第一部分，标题表明是 torch.profiler 的入门指南。当前收录材料未提供摘要或正文，无法确认具体覆盖范围、示例或结论。",
+    "keyPoints": [
+      "主题为 PyTorch 中的性能分析。",
+      "聚焦 torch.profiler 工具。",
+      "定位为入门指南。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

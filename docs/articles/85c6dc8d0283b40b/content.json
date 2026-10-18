@@ -1,0 +1,24 @@
+{
+  "id": "85c6dc8d0283b40b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+  "summary": "该报道介绍曼彻斯特大学使用NVIDIA Earth-2开展英国空气污染预测。",
+  "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
+  "date": "2026-09-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-09-16T05:00:42+00:00",
+  "titleEn": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+  "titleZh": "曼彻斯特大学利用NVIDIA Earth-2预测英国全境空气污染",
+  "details": {
+    "overview": "该报道介绍曼彻斯特大学使用NVIDIA Earth-2开展英国空气污染预测。原文指出，空气污染是严重公共健康风险，去年仅英国就估计造成3万人死亡；传统基于化学机理的空气质量模型计算成本高，限制了模拟精细度和运行频率。曼彻斯特大学教授David Topping的相关工作被提及，但原始发布内容在此处截断，未给出具体预测方法、覆盖范围或精度结果。",
+    "keyPoints": [
+      "报道称空气污染去年在英国估计造成3万人死亡",
+      "传统化学模型计算昂贵，限制精细度与运行频率",
+      "曼彻斯特大学David Topping参与，使用Earth-2预测空气污染"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "18439dfef48d113a",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT Go Promo - India",
+  "summary": "据官方原始发布记录，印度符合条件的用户可免费获得 12 个月 ChatGPT Go。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-promo-india",
+  "date": "2025-11-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "ChatGPT Go Promo - India",
+  "titleZh": "ChatGPT Go 促销 - 印度",
+  "details": {
+    "overview": "据官方原始发布记录，印度符合条件的用户可免费获得 12 个月 ChatGPT Go。新用户可在 ChatGPT 网页版或 Android 应用（Google Play）兑换，Apple App Store 渠道于次周开放，无需促销码。适用对象为印度新用户、免费计划用户及现有 ChatGPT Go 订阅者，每账户限兑换一次，需绑定信用卡或 UPI 支付方式。现有订阅者可能在当前计费周期结束时自动叠加。原文更新称该促销已于 2026 年 1 月 21 日结束。",
+    "keyPoints": [
+      "印度符合条件用户可免费获得 12 个月 ChatGPT Go，每账户限一次",
+      "需绑定信用卡或 UPI；现有订阅者或于计费周期末自动叠加",
+      "原文更新称促销已于 2026 年 1 月 21 日结束"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

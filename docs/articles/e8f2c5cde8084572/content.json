@@ -1,0 +1,24 @@
+{
+  "id": "e8f2c5cde8084572",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How to Fine-Tune an LLM on NVIDIA GPUs With Unsloth",
+  "summary": "文章讨论在 PC 上开展生成式与智能体 AI 工作流的可能性，例如微调聊天机器人处理产品支持问题，或构建管理日程的个人助理。",
+  "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-fine-tuning-unsloth-dgx-spark/",
+  "date": "2025-12-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-12-15T14:00:11+00:00",
+  "titleEn": "How to Fine-Tune an LLM on NVIDIA GPUs With Unsloth",
+  "titleZh": "如何用 Unsloth 在 NVIDIA GPU 上微调 LLM",
+  "details": {
+    "overview": "文章讨论在 PC 上开展生成式与智能体 AI 工作流的可能性，例如微调聊天机器人处理产品支持问题，或构建管理日程的个人助理。原文指出难点在于让小语言模型在专门智能体任务中保持稳定且高准确率的回答，并由此引出使用 Unsloth 在 NVIDIA GPU 上微调大语言模型的方法。当前收录摘要未给出具体效果数据。",
+    "keyPoints": [
+      "场景包括产品支持机器人与日程助理",
+      "难点是小模型在专门任务中稳定高准确率",
+      "方法为用 Unsloth 在 NVIDIA GPU 上微调"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

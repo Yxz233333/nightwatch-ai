@@ -1,0 +1,24 @@
+{
+  "id": "4a9f91eb578d5ca3",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Protecting the wellbeing of our users",
+  "summary": "Anthropic 介绍其在 Claude 上针对自杀与自残话题的安全措施：通过系统提示与强化学习训练模型以关怀方式回应，并引导用户寻求人类支持；同时在 Claude.ai 上线自杀与自残“分类器”，检测到相关对话时弹出横幅，指向由 ThroughLine 提供的 170 多个国家求助热线。",
+  "url": "https://www.anthropic.com/news/protecting-well-being-of-users",
+  "date": "2025-12-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-12-18T19:05:00+00:00",
+  "titleEn": "Protecting the wellbeing of our users",
+  "titleZh": "保护用户的身心健康",
+  "details": {
+    "overview": "Anthropic 介绍其在 Claude 上针对自杀与自残话题的安全措施：通过系统提示与强化学习训练模型以关怀方式回应，并引导用户寻求人类支持；同时在 Claude.ai 上线自杀与自残“分类器”，检测到相关对话时弹出横幅，指向由 ThroughLine 提供的 170 多个国家求助热线。文章还说明减少“谄媚”倾向、18 岁以上年龄要求，并公布单轮与多轮评估结果，作者声称最新模型在明确风险请求上的适当回应率高于上一代。",
+    "keyPoints": [
+      "上线自杀与自残分类器，检测到相关对话时展示求助资源横幅",
+      "求助资源由 ThroughLine 提供，覆盖 170 多个国家的热线",
+      "作者称最新模型在明确风险请求上适当回应率高于 Opus 4.1"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

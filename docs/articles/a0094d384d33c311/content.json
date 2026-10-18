@@ -1,0 +1,24 @@
+{
+  "id": "a0094d384d33c311",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Meet HoloTab by HCompany. Your AI browser companion.",
+  "summary": "该消息介绍 HCompany 推出的 HoloTab，称其为 AI 浏览器伴侣。",
+  "url": "https://huggingface.co/blog/Hcompany/holotab",
+  "date": "2026-04-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-04-15T09:25:20+00:00",
+  "titleEn": "Meet HoloTab by HCompany. Your AI browser companion.",
+  "titleZh": "认识 HCompany 的 HoloTab：你的 AI 浏览器伴侣",
+  "details": {
+    "overview": "该消息介绍 HCompany 推出的 HoloTab，称其为 AI 浏览器伴侣。原文仅提供产品名称和一句话定位，未说明具体功能、支持平台、推出范围或使用方式，材料不足，无法展开介绍。",
+    "keyPoints": [
+      "HCompany 推出名为 HoloTab 的产品。",
+      "官方将其定位为 AI 浏览器伴侣。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

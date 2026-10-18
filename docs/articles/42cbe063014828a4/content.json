@@ -1,0 +1,25 @@
+{
+  "id": "42cbe063014828a4",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "AlphaFold: Five years of impact",
+  "summary": "该内容回顾AlphaFold发布五年来的影响，探讨其如何加速科学研究并推动全球范围内的生物学发现浪潮。",
+  "url": "https://deepmind.google/blog/alphafold-five-years-of-impact/",
+  "date": "2025-11-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2025-11-25T16:00:12+00:00",
+  "titleEn": "AlphaFold: Five years of impact",
+  "titleZh": "AlphaFold：五年影响回顾",
+  "details": {
+    "overview": "该内容回顾AlphaFold发布五年来的影响，探讨其如何加速科学研究并推动全球范围内的生物学发现浪潮。材料仅为导语式介绍，未提供具体案例、数据或独立评估结论。",
+    "keyPoints": [
+      "回顾AlphaFold五年来的科学影响。",
+      "称其加速了科学研究。",
+      "称其推动了全球生物学发现浪潮。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

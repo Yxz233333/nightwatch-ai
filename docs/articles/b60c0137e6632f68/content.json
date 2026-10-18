@@ -1,0 +1,24 @@
+{
+  "id": "b60c0137e6632f68",
+  "section": "news",
+  "category": "工具动态",
+  "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
+  "summary": "官方发布内容称，AI 推理的下一阶段取决于 AI 工厂各层如何协同，而非单一芯片、网络或系统的突破；因此 NVIDIA 以面向智能体系统的快速 token 生成来扩展 Vera Rubin NVL72。",
+  "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
+  "date": "2026-08-24",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-08-24T15:00:41+00:00",
+  "titleEn": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
+  "titleZh": "Groq 3 LPX 全面投产，NVIDIA 扩展面向智能体的 Vera Rubin 推理",
+  "details": {
+    "overview": "官方发布内容称，AI 推理的下一阶段取决于 AI 工厂各层如何协同，而非单一芯片、网络或系统的突破；因此 NVIDIA 以面向智能体系统的快速 token 生成来扩展 Vera Rubin NVL72。文中提到 NVIDIA Vera Rubin 机架级系统与 NVIDIA Groq 相关产品已全面投产。现有材料为发布开头片段，未给出具体性能数字、对比基准或部署范围，相关能力描述应视为发布方说法。",
+    "keyPoints": [
+      "NVIDIA 以快速 token 生成扩展 Vera Rubin NVL72，面向智能体系统",
+      "发布方强调 AI 工厂各层协同而非单一芯片突破",
+      "Groq 3 LPX 被称已全面投产，材料未提供具体性能数据"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

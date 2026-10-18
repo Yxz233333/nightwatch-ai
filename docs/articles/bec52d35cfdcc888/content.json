@@ -1,0 +1,24 @@
+{
+  "id": "bec52d35cfdcc888",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How AI is transforming work at Anthropic",
+  "summary": "Anthropic 于 2025 年 8 月调查 132 名工程师与研究员、访谈 53 人并分析内部 Claude Code 使用数据，考察 AI 对自身工作的影响。",
+  "url": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
+  "date": "2025-12-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-12-02T18:58:43.576000+00:00",
+  "titleEn": "How AI is transforming work at Anthropic",
+  "titleZh": "AI 如何改变 Anthropic 的工作方式",
+  "details": {
+    "overview": "Anthropic 于 2025 年 8 月调查 132 名工程师与研究员、访谈 53 人并分析内部 Claude Code 使用数据，考察 AI 对自身工作的影响。作者声称，AI 正显著改变软件开发工作：员工自报使用 Claude 的工作占比从一年前的 28% 升至 59%，自报生产力提升从 20% 升至 50%；工程师变得更“全栈”、学习迭代加快，也承担此前被忽视的任务。同时有人担忧技术深度下降、监督输出变难、同事协作减少。作者承认样本处于特权位置，但认为对更广泛社会转型有启示。",
+    "keyPoints": [
+      "调查 132 人、访谈 53 人并分析 Claude Code 数据，聚焦 AI 对内部软件开发工作的影响。",
+      "员工自报 Claude 使用占比一年内从 28% 升至 59%，自报生产力提升从 20% 升至 50%。",
+      "作者称 AI 让工程师更“全栈”、迭代更快，但也引发技术深度与协作减少的担忧。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

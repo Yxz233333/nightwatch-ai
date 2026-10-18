@@ -1,0 +1,25 @@
+{
+  "id": "7547ff16f87fb07b",
+  "section": "news",
+  "category": "模型动态",
+  "title": "A model guide for the GPT-6 family",
+  "summary": "该内容为面向初创企业的GPT-6系列模型使用指南，摘要称将介绍如何在GPT-6各模型间选择、调节推理强度、改进提示词与技能、协调工具，并为生产环境准备工作流。",
+  "url": "https://openai.com/index/practical-guide-building-gpt-6",
+  "date": "2026-10-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-10-02T16:15:00+00:00",
+  "titleEn": "A model guide for the GPT-6 family",
+  "titleZh": "GPT-6系列模型指南",
+  "details": {
+    "overview": "该内容为面向初创企业的GPT-6系列模型使用指南，摘要称将介绍如何在GPT-6各模型间选择、调节推理强度、改进提示词与技能、协调工具，并为生产环境准备工作流。原始发布内容仅有这一句概述，未给出具体模型清单、参数、价格或性能数据，因此无法进一步说明各模型差异与实际效果。",
+    "keyPoints": [
+      "内容定位为初创企业选择GPT-6系列模型的指南。",
+      "涉及推理强度调节、提示词与技能改进、工具协调等话题。",
+      "原始材料仅有一句概述，未披露具体模型与数据。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

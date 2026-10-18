@@ -1,0 +1,23 @@
+{
+  "id": "a73a95c5e91a0a55",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Update on thinking time settings for GPT-5.2 Thinking in ChatGPT",
+  "summary": "官方发布记录说明了对 ChatGPT 中 GPT-5.2 Thinking 思考时间的多次调整：2026年1月10日下调 Standard 与 Light 思考时间，同时 Extended 设置被意外调低并已修复；2月3日又小幅下调 Standard；2月4日将 Extended 恢复至此前水平。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#update-on-thinking-time-settings-for-gpt-52-thinking-in-chatgpt",
+  "date": "2026-02-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Update on thinking time settings for GPT-5.2 Thinking in ChatGPT",
+  "titleZh": "ChatGPT 中 GPT-5.2 Thinking 思考时间设置更新",
+  "details": {
+    "overview": "官方发布记录说明了对 ChatGPT 中 GPT-5.2 Thinking 思考时间的多次调整：2026年1月10日下调 Standard 与 Light 思考时间，同时 Extended 设置被意外调低并已修复；2月3日又小幅下调 Standard；2月4日将 Extended 恢复至此前水平。官方称会基于持续实验定期调整推理模型的默认思考时间，以平衡回答质量与响应速度，并提到2025年9月引入的思考等级切换让用户可自行选择。",
+    "keyPoints": [
+      "1月10日下调 Standard 与 Light 思考时间，Extended 被意外调低后修复",
+      "2月3日基于测试再次小幅下调 Standard 思考时间",
+      "2月4日将 GPT-5.2 Thinking 的 Extended 恢复至此前水平"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

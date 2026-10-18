@@ -1,0 +1,24 @@
+{
+  "id": "372f02d26df7df5f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Writing with ChatGPT",
+  "summary": "该官方指南介绍如何将 ChatGPT 用于写作，包括起草、修改和润色内容，并关注结构、语气和意图的清晰表达。",
+  "url": "https://openai.com/academy/writing",
+  "date": "2026-04-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-10T00:00:00+00:00",
+  "titleEn": "Writing with ChatGPT",
+  "titleZh": "用 ChatGPT 写作",
+  "details": {
+    "overview": "该官方指南介绍如何将 ChatGPT 用于写作，包括起草、修改和润色内容，并关注结构、语气和意图的清晰表达。原文仅为概述性说明，未给出具体方法细节或效果数据。",
+    "keyPoints": [
+      "介绍 ChatGPT 在起草、修改、润色中的用法",
+      "强调结构、语气与意图的清晰表达"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

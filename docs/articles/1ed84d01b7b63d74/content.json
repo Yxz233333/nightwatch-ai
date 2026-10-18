@@ -13,7 +13,7 @@
   "titleEn": "Maximal Multipoint Seshadri Constants in Higher Dimensions",
   "titleZh": "高维情形下的极大多点Seshadri常数",
   "details": {
-    "overview": "稿件研究光滑整复射影簇X（维数n≥3）上丰沛线丛L的多点Seshadri常数。摘要表示，作者证明了存在仅依赖于X与L的阈值r₀，使得当点数r≥r₀时，在r个非常一般点处的普通多点Seshadri常数等于体积上界(L^n/r)^{1/n}。作者声称这在高维情形下建立了定性的Nagata–Biran–Szemberg断言。该结果属于代数几何中丰沛线丛局部不变量研究；摘要未给出证明细节，也未说明独立审查情况。",
+    "overview": "稿件研究光滑整复射影簇X（维数n≥3）上丰沛线丛L的多点Seshadri常数。摘要表示，作者证明了存在仅依赖于X与L的阈值r₀，使得当点数r≥r₀时，在r个非常一般点处的普通多点Seshadri常数等于体积上界(L^n/r)^{1/n}。作者声称这在高维情形下建立了定性的Nagata–Biran–Szemberg断言。该结果属于代数几何中丰沛线丛局部不变量研究；当前收录摘要未给出证明细节，也未说明独立审查情况。",
     "keyPoints": [
       "研究对象为高维复射影簇上丰沛线丛的多点Seshadri常数。",
       "作者声称当点数超过阈值r₀时该常数等于体积上界(L^n/r)^{1/n}。",

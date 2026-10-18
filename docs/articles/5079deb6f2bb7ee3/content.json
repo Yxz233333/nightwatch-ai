@@ -1,0 +1,25 @@
+{
+  "id": "5079deb6f2bb7ee3",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.115.0 发布",
+  "summary": "Codex CLI 0.115.0 发布，新增多项功能：支持模型通过 view_image 和 codex.emitImage 请求全分辨率图像检查；js_repl 暴露 codex.cwd 和 codex.homeDir 并在单元格间保留工具引用；实时 websocket 会话增加转录模式和 v2 交接支持；v2 应用服务器暴露文件系统 RPC 并新增 Python SDK；智能审批可通过守护子代理路由请求；应用集成使用 Responses API 工具搜索流程。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.115.0",
+  "date": "2026-03-17",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-03-16T19:37:37+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.115.0 发布",
+  "titleZh": "Codex CLI 0.115.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.115.0 发布，新增多项功能：支持模型通过 view_image 和 codex.emitImage 请求全分辨率图像检查；js_repl 暴露 codex.cwd 和 codex.homeDir 并在单元格间保留工具引用；实时 websocket 会话增加转录模式和 v2 交接支持；v2 应用服务器暴露文件系统 RPC 并新增 Python SDK；智能审批可通过守护子代理路由请求；应用集成使用 Responses API 工具搜索流程。同时修复了子代理沙箱继承、js_repl 挂起、TUI 退出卡顿等问题。",
+    "keyPoints": [
+      "支持全分辨率图像检查，提升精确视觉任务能力。",
+      "新增实时转录模式、v2 交接及文件系统 RPC 和 Python SDK。",
+      "修复子代理沙箱继承、js_repl 挂起和 TUI 退出卡顿等问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

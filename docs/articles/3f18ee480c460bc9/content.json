@@ -1,0 +1,24 @@
+{
+  "id": "3f18ee480c460bc9",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+  "summary": "原文指出，构建能在动态环境中感知、推理和行动的机器人应用，需要新的物理 AI 模型与工具。",
+  "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+  "date": "2026-09-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-09-22T12:00:41+00:00",
+  "titleEn": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+  "titleZh": "NVIDIA Isaac ROS 5.0 推进智能体化开源机器人开发",
+  "details": {
+    "overview": "原文指出，构建能在动态环境中感知、推理和行动的机器人应用，需要新的物理 AI 模型与工具。ROS 是 Open Robotics 的开源框架，用于帮助人们构建机器人。NVIDIA Isaac ROS 5.0 是基于 ROS 的 GPU 加速软件包集合，官方称其在相关活动上发布。原文摘要在此处截断，未给出具体功能、性能数据或适用范围，需以完整发布内容为准。",
+    "keyPoints": [
+      "Isaac ROS 5.0 是基于 ROS 的 GPU 加速软件包集合",
+      "面向在动态环境中感知、推理与行动的机器人应用",
+      "ROS 为 Open Robotics 的开源机器人框架"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

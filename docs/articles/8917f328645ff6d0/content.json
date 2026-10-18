@@ -1,0 +1,25 @@
+{
+  "id": "8917f328645ff6d0",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI announces Frontier Alliance Partners",
+  "summary": "OpenAI宣布“前沿联盟合作伙伴”计划，旨在帮助企业从AI试点走向生产，部署安全、可扩展的代理系统。",
+  "url": "https://openai.com/index/frontier-alliance-partners",
+  "date": "2026-02-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-23T05:30:00+00:00",
+  "titleEn": "OpenAI announces Frontier Alliance Partners",
+  "titleZh": "OpenAI宣布前沿联盟合作伙伴",
+  "details": {
+    "overview": "OpenAI宣布“前沿联盟合作伙伴”计划，旨在帮助企业从AI试点走向生产，部署安全、可扩展的代理系统。摘要未提供合作伙伴名单、具体服务内容或适用范围。",
+    "keyPoints": [
+      "OpenAI推出前沿联盟合作伙伴计划",
+      "目标帮助企业从AI试点转向生产部署",
+      "强调安全、可扩展的代理部署"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "46fcb46b269ece8f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "The AI policy window is open. We need to act.",
+  "summary": "该官方发布内容为 Chris Lehane 的观点文章，主张 AI 能力越强，就越需要更强的安全证据、共同标准和持久的政策行动，并认为当前政策窗口仍然开放。",
+  "url": "https://openai.com/index/ai-policy-window",
+  "date": "2026-09-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-09T13:00:00+00:00",
+  "titleEn": "The AI policy window is open. We need to act.",
+  "titleZh": "AI 政策窗口已打开，我们需要行动",
+  "details": {
+    "overview": "该官方发布内容为 Chris Lehane 的观点文章，主张 AI 能力越强，就越需要更强的安全证据、共同标准和持久的政策行动，并认为当前政策窗口仍然开放。原文仅提供这一论点概述，未给出具体政策提案细节或数据支撑，相关主张属作者个人观点。",
+    "keyPoints": [
+      "主张更强 AI 能力需要更强的安全证据",
+      "呼吁建立共同标准并推动持久政策行动",
+      "强调当前政策窗口开放，需要及时行动"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

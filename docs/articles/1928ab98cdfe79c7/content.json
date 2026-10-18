@@ -1,0 +1,25 @@
+{
+  "id": "1928ab98cdfe79c7",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI public policy agenda",
+  "summary": "OpenAI 发布其人工智能公共政策议程，概述在安全、青少年保护、劳动力转型和全球标准等方面的主张，目标是确保 AI 惠及社会。",
+  "url": "https://openai.com/index/public-policy-agenda",
+  "date": "2026-06-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-03T10:00:00+00:00",
+  "titleEn": "OpenAI public policy agenda",
+  "titleZh": "OpenAI 公共政策议程",
+  "details": {
+    "overview": "OpenAI 发布其人工智能公共政策议程，概述在安全、青少年保护、劳动力转型和全球标准等方面的主张，目标是确保 AI 惠及社会。该材料仅为议程要点概括，未展开具体政策条款、实施时间表或立法建议细节，读者需以官方原文为准。",
+    "keyPoints": [
+      "议程涵盖 AI 安全、青少年保护与劳动力转型",
+      "提出推动全球标准以确保 AI 惠及社会",
+      "材料仅为要点概括，具体条款以原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

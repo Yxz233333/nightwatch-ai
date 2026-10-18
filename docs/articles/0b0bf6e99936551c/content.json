@@ -1,0 +1,24 @@
+{
+  "id": "0b0bf6e99936551c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Launches BlueField-4: The Processor Powering the Operating System of AI Factories",
+  "summary": "NVIDIA 在华盛顿特区 GTC 大会上发布 BlueField-4 数据处理单元，属于全栈 BlueField 平台，旨在加速千兆级 AI 基础设施。",
+  "url": "https://blogs.nvidia.com/blog/bluefield-4-ai-factory/",
+  "date": "2025-10-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-10-28T17:21:33+00:00",
+  "titleEn": "NVIDIA Launches BlueField-4: The Processor Powering the Operating System of AI Factories",
+  "titleZh": "NVIDIA 推出 BlueField-4：驱动 AI 工厂操作系统的处理器",
+  "details": {
+    "overview": "NVIDIA 在华盛顿特区 GTC 大会上发布 BlueField-4 数据处理单元，属于全栈 BlueField 平台，旨在加速千兆级 AI 基础设施。随着 AI 工厂规模扩大、万亿 token 工作负载需求激增，需要新型基础设施支撑。该发布信息来自官方记录，具体推出范围和限制以原文为准。",
+    "keyPoints": [
+      "BlueField-4 是面向 AI 工厂的数据处理单元。",
+      "属于全栈 BlueField 平台，用于加速千兆级 AI 基础设施。",
+      "发布背景是万亿 token 工作负载需求激增。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

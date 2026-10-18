@@ -1,0 +1,25 @@
+{
+  "id": "c2a7499cbebe70ce",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Strengthening our safety ecosystem with external testing",
+  "summary": "该官方发布介绍 OpenAI 与独立专家合作评估前沿 AI 系统。",
+  "url": "https://openai.com/index/strengthening-safety-with-external-testing",
+  "date": "2025-11-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-19T12:00:00+00:00",
+  "titleEn": "Strengthening our safety ecosystem with external testing",
+  "titleZh": "通过外部测试强化我们的安全生态",
+  "details": {
+    "overview": "该官方发布介绍 OpenAI 与独立专家合作评估前沿 AI 系统。原文表示，第三方测试有助于强化安全性、验证防护措施，并提高对模型能力与风险评估方式的透明度。材料未披露具体测试方法、参与机构或评估结果，相关推出范围与限制应以官方原文为准。",
+    "keyPoints": [
+      "OpenAI 与独立专家合作评估前沿 AI 系统",
+      "第三方测试旨在强化安全、验证防护并提升透明度",
+      "材料未披露具体测试方法与评估结果"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

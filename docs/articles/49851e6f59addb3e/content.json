@@ -1,0 +1,25 @@
+{
+  "id": "49851e6f59addb3e",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Harness engineering: leveraging Codex in an agent-first world",
+  "summary": "该文由 OpenAI 技术团队成员 Ryan Lopopolo 署名，标题指向“Harness 工程”，讨论如何在以智能体（agent）为先的语境中使用 Codex。",
+  "url": "https://openai.com/index/harness-engineering",
+  "date": "2026-02-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-11T09:00:00+00:00",
+  "titleEn": "Harness engineering: leveraging Codex in an agent-first world",
+  "titleZh": "Harness 工程：在智能体优先的世界中运用 Codex",
+  "details": {
+    "overview": "该文由 OpenAI 技术团队成员 Ryan Lopopolo 署名，标题指向“Harness 工程”，讨论如何在以智能体（agent）为先的语境中使用 Codex。现有材料仅包含作者署名与标题，缺少正文内容，因此无法说明具体方法、案例或结论。以下要点仅依据标题与署名提炼，具体内容需以原文为准。",
+    "keyPoints": [
+      "文章由 OpenAI 技术团队成员 Ryan Lopopolo 署名",
+      "主题为在智能体优先的环境中运用 Codex",
+      "现有材料未提供正文细节，结论以原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

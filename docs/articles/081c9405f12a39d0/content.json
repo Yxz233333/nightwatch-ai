@@ -1,0 +1,25 @@
+{
+  "id": "081c9405f12a39d0",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
+  "summary": "该官方发布指出，当今许多科学进展始于计算，但将加速计算的潜力转化为气候建模、分子设计、材料模拟等科学成果，不仅依赖突破性技术。",
+  "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
+  "date": "2026-10-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-10-15T10:00:12+00:00",
+  "titleEn": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
+  "titleZh": "NVIDIA通过开放学习资源、合作与算力扩大欧洲科学界获取先进技术的渠道",
+  "details": {
+    "overview": "该官方发布指出，当今许多科学进展始于计算，但将加速计算的潜力转化为气候建模、分子设计、材料模拟等科学成果，不仅依赖突破性技术。对小型实验室、早期职业科学家和科学类初创企业而言，研究中最困难的部分可能是科学之前的基础工作。原文摘要在此处截断，未给出具体资源、合作方或算力规模细节，因此无法进一步说明其具体安排与效果。",
+    "keyPoints": [
+      "发布聚焦欧洲科学界获取加速计算与开放学习资源",
+      "面向小型实验室、早期职业科学家和科学类初创企业",
+      "原文摘要截断，未披露具体合作方与算力规模"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

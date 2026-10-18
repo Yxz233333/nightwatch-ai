@@ -1,0 +1,25 @@
+{
+  "id": "91f08edfcafabc6a",
+  "section": "news",
+  "category": "工具动态",
+  "title": "How we’re bringing AI image verification to the Gemini app",
+  "summary": "该工具动态条目介绍 Gemini 应用引入 AI 图像验证的相关工作。",
+  "url": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/",
+  "date": "2025-11-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2025-11-20T15:13:19+00:00",
+  "titleEn": "How we’re bringing AI image verification to the Gemini app",
+  "titleZh": "我们如何将 AI 图像验证引入 Gemini 应用",
+  "details": {
+    "overview": "该工具动态条目介绍 Gemini 应用引入 AI 图像验证的相关工作。当前收录材料仅给出主题，未说明验证机制、技术实现、覆盖范围或上线时间。对关注 AI 生成内容识别的用户而言，这属于产品能力方向的信息，具体功能与限制需以官方原始发布为准。",
+    "keyPoints": [
+      "主题为在 Gemini 应用中引入 AI 图像验证",
+      "原文未说明验证机制与技术实现",
+      "覆盖范围与上线时间需以原始发布为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

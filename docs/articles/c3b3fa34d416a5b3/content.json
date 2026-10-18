@@ -1,0 +1,24 @@
+{
+  "id": "c3b3fa34d416a5b3",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+  "summary": "Anthropic 宣布其长期利益信托（LTBT）新增成员本·伯南克博士。",
+  "url": "https://www.anthropic.com/news/ben-bernanke",
+  "date": "2026-07-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-07-09T16:00:00+00:00",
+  "titleEn": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+  "titleZh": "本·伯南克获任 Anthropic 长期利益信托成员",
+  "details": {
+    "overview": "Anthropic 宣布其长期利益信托（LTBT）新增成员本·伯南克博士。他曾于 2006 至 2014 年执掌美联储，此前在普林斯顿从事经济学研究，并因相关研究获 2022 年诺贝尔经济学奖。该信托为独立机构，成员不持有公司股权、不分享利润，仅按服务时间获酬，并可向 Anthropic 董事会任命成员、就 AI 风险与社会影响提供建议。Anthropic 表示，伯南克将为其经济研究提供洞见。",
+    "keyPoints": [
+      "伯南克以独立身份加入长期利益信托，不持股不分红",
+      "该信托可任命董事会成员并就 AI 风险提供建议",
+      "Anthropic 称其将参与 AI 对经济影响的研究"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

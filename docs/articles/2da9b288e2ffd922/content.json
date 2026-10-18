@@ -1,0 +1,24 @@
+{
+  "id": "2da9b288e2ffd922",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Advancing Claude in healthcare and the life sciences",
+  "summary": "Anthropic宣布扩展Claude在医疗与生命科学的能力：推出面向医疗机构的Claude for Healthcare，提供符合HIPAA要求的基础设施，并新增连接CMS、Medidata与ClinicalTrials.gov等平台的连接器，覆盖临床试验管理与监管提交等环节。",
+  "url": "https://www.anthropic.com/news/healthcare-life-sciences",
+  "date": "2026-01-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-01-11T16:00:00+00:00",
+  "titleEn": "Advancing Claude in healthcare and the life sciences",
+  "titleZh": "在医疗健康与生命科学领域推进Claude",
+  "details": {
+    "overview": "Anthropic宣布扩展Claude在医疗与生命科学的能力：推出面向医疗机构的Claude for Healthcare，提供符合HIPAA要求的基础设施，并新增连接CMS、Medidata与ClinicalTrials.gov等平台的连接器，覆盖临床试验管理与监管提交等环节。同时为个人用户提供健康数据连接选项，并强调数据不用于训练模型。官方称Claude Opus 4.5在智能体任务模拟与诚实性评估上有所进步，但相关效果均为厂商自述。",
+    "keyPoints": [
+      "推出Claude for Healthcare，提供HIPAA就绪产品供医疗机构等用于医疗用途。",
+      "新增CMS、Medidata、ClinicalTrials.gov等连接器，扩展临床试验与监管场景支持。",
+      "个人健康数据连接需用户主动授权，官方称不用于训练模型。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

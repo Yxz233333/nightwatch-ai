@@ -1,0 +1,25 @@
+{
+  "id": "1307c2ffce977556",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+  "summary": "Singular Bank 构建了内部助手 Singularity，使用 ChatGPT 和 Codex 辅助银行家完成会议准备、投资组合分析和后续跟进等工作。",
+  "url": "https://openai.com/index/singular-bank",
+  "date": "2026-05-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-06T00:00:00+00:00",
+  "titleEn": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+  "titleZh": "Singular Bank 借助 ChatGPT 与 Codex 帮助银行家提速",
+  "details": {
+    "overview": "Singular Bank 构建了内部助手 Singularity，使用 ChatGPT 和 Codex 辅助银行家完成会议准备、投资组合分析和后续跟进等工作。官方摘要称，该助手每天可为银行家节省 60 至 90 分钟。原文未说明团队规模、部署范围和评估方式，节省时长属于官方叙述，具体限制以原始发布为准。",
+    "keyPoints": [
+      "Singular Bank 构建内部助手 Singularity，基于 ChatGPT 与 Codex",
+      "应用场景包括会议准备、投资组合分析和后续跟进",
+      "官方称每天可节省 60 至 90 分钟"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

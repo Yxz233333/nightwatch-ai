@@ -1,0 +1,24 @@
+{
+  "id": "44c83d9495a8e5f5",
+  "section": "news",
+  "category": "模型动态",
+  "title": "GPT-5.2 derives a new result in theoretical physics",
+  "summary": "一份新预印本显示，GPT-5.2 为胶子振幅提出了一个新公式，随后由 OpenAI 和学术合作者形式化证明并验证。",
+  "url": "https://openai.com/index/new-result-theoretical-physics",
+  "date": "2026-02-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-13T11:00:00+00:00",
+  "titleEn": "GPT-5.2 derives a new result in theoretical physics",
+  "titleZh": "GPT-5.2 在理论物理中推导出新结果",
+  "details": {
+    "overview": "一份新预印本显示，GPT-5.2 为胶子振幅提出了一个新公式，随后由 OpenAI 和学术合作者形式化证明并验证。原始发布内容仅提供这一句概述，未披露公式细节、证明方法或验证过程，因此无法进一步介绍技术内容。该结果来自预印本，尚需独立审视。",
+    "keyPoints": [
+      "新预印本显示 GPT-5.2 为胶子振幅提出新公式。",
+      "该公式随后由 OpenAI 和学术合作者形式化证明并验证。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

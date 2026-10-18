@@ -1,0 +1,23 @@
+{
+  "id": "b36bb062edf8025c",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Search across chats, projects, and files is now supercharged.",
+  "summary": "官方发布表示，ChatGPT 在网页、iOS 和 Android 上推出新的搜索方式，可在一个位置查找过去的聊天、项目、图片和文档。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#search-across-chats-projects-and-files-is-now-supercharged",
+  "date": "2026-07-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Search across chats, projects, and files is now supercharged.",
+  "titleZh": "聊天、项目和文件搜索功能现已增强",
+  "details": {
+    "overview": "官方发布表示，ChatGPT 在网页、iOS 和 Android 上推出新的搜索方式，可在一个位置查找过去的聊天、项目、图片和文档。用户可从 ChatGPT 侧边栏开始搜索，或使用筛选器按内容类型缩小结果范围，并直接打开对应的聊天、项目或文件。该功能面向全球所有 ChatGPT 套餐提供。原文未说明搜索的技术实现或结果排序方式。",
+    "keyPoints": [
+      "可在网页、iOS 和 Android 上统一搜索聊天、项目、图片和文档。",
+      "支持从侧边栏搜索，并用筛选器按内容类型缩小结果。",
+      "功能面向全球所有 ChatGPT 套餐提供。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

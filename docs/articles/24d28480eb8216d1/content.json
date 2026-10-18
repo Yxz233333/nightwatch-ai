@@ -1,0 +1,25 @@
+{
+  "id": "24d28480eb8216d1",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+  "summary": "该官方发布称，研究人员使用 OpenAI 的推理模型辅助诊断罕见疾病，在先前未解决的病例中识别出 18 个新诊断。",
+  "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+  "date": "2026-06-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-18T08:00:00+00:00",
+  "titleEn": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+  "titleZh": "利用 AI 帮助医生诊断儿童罕见遗传病",
+  "details": {
+    "overview": "该官方发布称，研究人员使用 OpenAI 的推理模型辅助诊断罕见疾病，在先前未解决的病例中识别出 18 个新诊断。材料未披露研究设计、样本量、对照设置或独立验证情况，因此不能将上述结果视为已获独立验证的临床结论，具体细节需以原始发布内容为准。",
+    "keyPoints": [
+      "研究人员使用 OpenAI 推理模型辅助诊断儿童罕见遗传病",
+      "在先前未解决的病例中识别出 18 个新诊断",
+      "材料未披露研究设计、样本量或独立验证细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

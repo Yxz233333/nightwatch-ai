@@ -1,0 +1,24 @@
+{
+  "id": "427cfc5863ddc122",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "The AI expectations gap",
+  "summary": "该研究基于 2026 年 8 月对全国代表性美国成年人和 Anthropic 员工的调查，考察公众与前沿 AI 从业者对 AI 经济影响的预期差异。",
+  "url": "https://www.anthropic.com/research/ai-expectations-gap",
+  "date": "2026-10-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-10-16T16:45:00+00:00",
+  "titleEn": "The AI expectations gap",
+  "titleZh": "AI 预期差距",
+  "details": {
+    "overview": "该研究基于 2026 年 8 月对全国代表性美国成年人和 Anthropic 员工的调查，考察公众与前沿 AI 从业者对 AI 经济影响的预期差异。作者发现，两组对 AI 当前能力的判断大体一致，但对未来进步速度分歧明显：91% 员工预计 2030 年 AI 能做出诺贝尔级发现，公众为 39%；员工预计 AI 可完成其当前工作的 75%，公众为 28%。不过，两组在“AI 自动化自身工作越多则失业率越高”的推理上相似。",
+    "keyPoints": [
+      "调查比较美国成年人与 Anthropic 员工对 AI 能力和经济影响的预期。",
+      "员工预计 2030 年 AI 可完成其 75% 工作，公众预期为 28%。",
+      "两组对 AI 当前能力判断接近，但对未来进步速度分歧显著。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

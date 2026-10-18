@@ -1,0 +1,25 @@
+{
+  "id": "8b5100ec2cea26d5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How evals drive the next chapter in AI for businesses",
+  "summary": "该官方发布讨论评估（evals）如何帮助企业定义、衡量并改进 AI 性能。",
+  "url": "https://openai.com/index/evals-drive-next-chapter-of-ai",
+  "date": "2025-11-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-19T11:00:00+00:00",
+  "titleEn": "How evals drive the next chapter in AI for businesses",
+  "titleZh": "评估如何推动企业 AI 的下一阶段",
+  "details": {
+    "overview": "该官方发布讨论评估（evals）如何帮助企业定义、衡量并改进 AI 性能。原文表示，评估有助于降低风险、提升生产力并带来战略优势。现有材料仅为简短摘要，未提供具体方法、案例或数据，因此无法展开说明实施细节。相关范围与限制应以官方原文为准。",
+    "keyPoints": [
+      "评估用于帮助企业定义、衡量和改进 AI 性能",
+      "原文称其有助于降低风险、提升生产力与战略优势",
+      "材料为简短摘要，未提供具体方法或案例"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -13,7 +13,7 @@
   "titleEn": "The Kervaire invariant problem at the prime three",
   "titleZh": "素数三处的Kervaire不变量问题",
   "details": {
-    "overview": "稿件研究模三Adams谱序列中标准Kervaire类的Kervaire不变量问题。作者声称这些类恰在指标0、2、3处存活，且每个存活检测陪集包含一个加法阶为三的元素；特别地，在stem 322中存在一个阶为三的Kervaire元素。摘要未给出证明细节或独立验证信息。",
+    "overview": "稿件研究模三Adams谱序列中标准Kervaire类的Kervaire不变量问题。作者声称这些类恰在指标0、2、3处存活，且每个存活检测陪集包含一个加法阶为三的元素；特别地，在stem 322中存在一个阶为三的Kervaire元素。当前收录摘要未给出证明细节或独立验证信息。",
     "keyPoints": [
       "研究模三Adams谱序列中标准Kervaire类的存活问题。",
       "这些类恰在指标0、2、3处存活。",

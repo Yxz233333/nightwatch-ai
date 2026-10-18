@@ -1,0 +1,25 @@
+{
+  "id": "da3cadc2c0656a4d",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Predicting model behavior before release by simulating deployment",
+  "summary": "OpenAI 介绍 Deployment Simulation 方法，利用真实对话数据在模型部署前预测其行为，以提升安全性和评估准确性。",
+  "url": "https://openai.com/index/deployment-simulation",
+  "date": "2026-06-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-16T00:00:00+00:00",
+  "titleEn": "Predicting model behavior before release by simulating deployment",
+  "titleZh": "通过模拟部署在发布前预测模型行为",
+  "details": {
+    "overview": "OpenAI 介绍 Deployment Simulation 方法，利用真实对话数据在模型部署前预测其行为，以提升安全性和评估准确性。当前收录材料仅给出方法定位与目的，未披露具体技术流程、评估指标、适用模型范围或验证结果。该内容属于模型安全评估方向的动态，具体推出范围和限制需以官方原文为准。",
+    "keyPoints": [
+      "OpenAI 提出 Deployment Simulation 方法。",
+      "方法使用真实对话数据预测模型部署前行为。",
+      "目标是提升安全性与评估准确性。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5e8dcf3b87288df4",
+  "section": "news",
+  "category": "模型动态",
+  "title": "ServiceNow chooses Claude to power customer apps and increase internal productivity",
+  "summary": "ServiceNow选择Claude作为其Build Agent的默认模型，并在其AI平台中作为首选模型，同时向超过2.9万名员工推广Claude和Claude Code。",
+  "url": "https://www.anthropic.com/news/servicenow-anthropic-claude",
+  "date": "2026-01-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-01-28T21:15:36.668000+00:00",
+  "titleEn": "ServiceNow chooses Claude to power customer apps and increase internal productivity",
+  "titleZh": "ServiceNow选择Claude驱动客户应用并提升内部生产力",
+  "details": {
+    "overview": "ServiceNow选择Claude作为其Build Agent的默认模型，并在其AI平台中作为首选模型，同时向超过2.9万名员工推广Claude和Claude Code。原文称，销售准备时间在测试中最多减少95%，工程团队使用Claude Code缩短从想法到实现的时间。此外，ServiceNow计划利用Claude构建医疗和生命科学等行业的智能体应用，目标将客户实施时间减少50%。",
+    "keyPoints": [
+      "Claude成为ServiceNow Build Agent默认模型及AI平台首选模型。",
+      "ServiceNow向2.9万余名员工推广Claude和Claude Code。",
+      "测试中销售准备时间最多减少95%，目标客户实施时间减半。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

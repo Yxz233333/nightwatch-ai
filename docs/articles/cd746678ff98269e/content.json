@@ -1,0 +1,25 @@
+{
+  "id": "cd746678ff98269e",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.136.0 发布",
+  "summary": "Codex CLI 0.136.0 发布，新增 TUI 中 OSC 8 可点击网页链接、窄表格转为键值记录、会话归档与恢复、应用服务器线程恢复及 MCP 状态展示、远程执行 API 密钥注册等能力；同时修复认证刷新、命令安全加固、沙箱清理与恢复会话历史等问题，并更新 Python SDK 文档与 Bedrock 目录。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.136.0",
+  "date": "2026-06-02",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-06-01T17:49:22+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.136.0 发布",
+  "titleZh": "Codex CLI 0.136.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.136.0 发布，新增 TUI 中 OSC 8 可点击网页链接、窄表格转为键值记录、会话归档与恢复、应用服务器线程恢复及 MCP 状态展示、远程执行 API 密钥注册等能力；同时修复认证刷新、命令安全加固、沙箱清理与恢复会话历史等问题，并更新 Python SDK 文档与 Bedrock 目录。",
+    "keyPoints": [
+      "新增会话归档命令与 TUI 可点击链接、窄表格键值渲染",
+      "远程执行支持 CODEX_API_KEY 注册，远程控制改用短期令牌",
+      "修复认证刷新、命令安全与沙箱清理等问题"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

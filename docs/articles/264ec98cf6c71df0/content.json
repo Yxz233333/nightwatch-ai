@@ -1,0 +1,23 @@
+{
+  "id": "264ec98cf6c71df0",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Meet your dot",
+  "summary": "官方发布记录推出 dots：ChatGPT 中常驻在线的智能体，可承接持续性工作并在对话之间继续推进。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meet-your-dot",
+  "date": "2026-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Meet your dot",
+  "titleZh": "认识你的 dot",
+  "details": {
+    "overview": "官方发布记录推出 dots：ChatGPT 中常驻在线的智能体，可承接持续性工作并在对话之间继续推进。用户为其设定目标、连接所需应用并界定自主范围；dot 由 GPT-6 Astra 驱动，拥有自己的云计算机，可把结果带回供用户审阅。该功能逐步向符合条件的 18 岁以上 Pro 与 Business Premium 用户开放，Pro 首发不含欧洲经济区、瑞士和英国；Enterprise 为 beta 且默认关闭。首月用量不计入计划额度。",
+    "keyPoints": [
+      "dots 是常驻智能体，可在对话之间持续推进既定工作",
+      "由 GPT-6 Astra 驱动，拥有独立云计算机并回传结果供审阅",
+      "Pro 首发不含欧洲经济区、瑞士和英国，Enterprise 为默认关闭的 beta"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

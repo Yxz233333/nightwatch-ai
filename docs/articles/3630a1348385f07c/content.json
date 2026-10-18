@@ -1,0 +1,25 @@
+{
+  "id": "3630a1348385f07c",
+  "section": "news",
+  "category": "工具动态",
+  "title": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
+  "summary": "该发布回顾了 huggingface_hub 库五年来的发展，并宣布 v1.0 版本。",
+  "url": "https://huggingface.co/blog/huggingface-hub-v1",
+  "date": "2025-10-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-10-27T00:00:00+00:00",
+  "titleEn": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
+  "titleZh": "huggingface_hub v1.0：构建开放机器学习基础的五年",
+  "details": {
+    "overview": "该发布回顾了 huggingface_hub 库五年来的发展，并宣布 v1.0 版本。huggingface_hub 是 Hugging Face 生态中用于下载模型、数据集及与 Hub 交互的核心 Python 库。官方将其定位为开放机器学习的基础设施。由于原始发布记录未提供具体功能变更、性能数据或兼容性说明，本文仅能确认版本里程碑意义，无法详述技术细节。",
+    "keyPoints": [
+      "huggingface_hub 迎来 v1.0 版本，官方称其为开放机器学习基础。",
+      "该库已持续开发五年，是 Hugging Face 生态的关键组件。",
+      "原始发布记录未披露 v1.0 的具体功能变更或性能数据。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

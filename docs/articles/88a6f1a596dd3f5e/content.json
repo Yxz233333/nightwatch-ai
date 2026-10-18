@@ -1,0 +1,25 @@
+{
+  "id": "88a6f1a596dd3f5e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
+  "summary": "该文关注美国女性中最常见的乳腺癌诊疗缺口：40岁以上女性多数未按建议每年筛查，放射科医生人手减少却需判读更多乳腺X光片，确诊后指导治疗的检测又可能数周才出结果。",
+  "url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
+  "date": "2026-10-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-10-05T13:00:57+00:00",
+  "titleEn": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
+  "titleZh": "从扫描到治疗方案，AI助力弥合乳腺癌最致命的诊疗缺口",
+  "details": {
+    "overview": "该文关注美国女性中最常见的乳腺癌诊疗缺口：40岁以上女性多数未按建议每年筛查，放射科医生人手减少却需判读更多乳腺X光片，确诊后指导治疗的检测又可能数周才出结果。原文摘要仅点出这些痛点，并称AI可帮助从扫描到治疗计划各环节，但未给出具体技术方案、效果数据或验证结论，细节需以原文为准。",
+    "keyPoints": [
+      "指出40岁以上美国女性多数跳过建议的年度乳腺癌筛查",
+      "放射科医生减少的同时需判读更多乳腺X光片",
+      "确诊后指导治疗的检测可能需数周才返回结果"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "f7903d96de70ba94",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Measuring AI’s capability to accelerate biological research",
+  "summary": "OpenAI 发布信息称，其提出一套面向真实场景的评估框架，用于衡量 AI 在湿实验室中加速生物学研究的程度。",
+  "url": "https://openai.com/index/accelerating-biological-research-in-the-wet-lab",
+  "date": "2025-12-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-16T08:00:00+00:00",
+  "titleEn": "Measuring AI’s capability to accelerate biological research",
+  "titleZh": "衡量 AI 加速生物学研究的能力",
+  "details": {
+    "overview": "OpenAI 发布信息称，其提出一套面向真实场景的评估框架，用于衡量 AI 在湿实验室中加速生物学研究的程度。该工作以 GPT-5 优化分子克隆实验方案为案例，同时探讨 AI 辅助实验的潜力与风险。当前收录材料未提供评估指标、实验规模或结果细节，因此具体效果与风险结论尚不明确，需以官方完整材料为准。",
+    "keyPoints": [
+      "提出面向湿实验室真实场景的评估框架，衡量 AI 加速生物学研究的能力。",
+      "以 GPT-5 优化分子克隆方案为案例展开探索。",
+      "原文同时提及 AI 辅助实验的潜力与风险，未给出具体结果细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

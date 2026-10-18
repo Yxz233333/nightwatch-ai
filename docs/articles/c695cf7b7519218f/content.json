@@ -1,0 +1,25 @@
+{
+  "id": "c695cf7b7519218f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Understanding neural networks through sparse circuits",
+  "summary": "该文介绍 OpenAI 在机制可解释性方向的探索，目标是理解神经网络如何进行推理。",
+  "url": "https://openai.com/index/understanding-neural-networks-through-sparse-circuits",
+  "date": "2025-11-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-13T10:00:00+00:00",
+  "titleEn": "Understanding neural networks through sparse circuits",
+  "titleZh": "通过稀疏电路理解神经网络",
+  "details": {
+    "overview": "该文介绍 OpenAI 在机制可解释性方向的探索，目标是理解神经网络如何进行推理。原文称其新的稀疏模型方法可能让 AI 系统更透明，并支持更安全、更可靠的行为。提供的原文仅为一段概述，未给出方法细节、实验设置或验证结果，因此相关效果属于作者表述的探索方向，而非已获独立验证的结论。",
+    "keyPoints": [
+      "OpenAI 探索机制可解释性以理解神经网络推理过程。",
+      "作者提出稀疏模型方法，称可能提升透明度。",
+      "当前收录材料未提供方法细节与实验验证结果。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

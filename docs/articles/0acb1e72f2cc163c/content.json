@@ -1,0 +1,24 @@
+{
+  "id": "0acb1e72f2cc163c",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Advancing Claude for Financial Services",
+  "summary": "Anthropic 官方发布称，Claude for Financial Services 新增 Excel 加载项、实时市场数据与投资组合分析连接器，以及构建贴现现金流模型、发起覆盖报告等预置 Agent Skills。",
+  "url": "https://www.anthropic.com/news/advancing-claude-for-financial-services",
+  "date": "2025-10-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-10-27T19:24:00+00:00",
+  "titleEn": "Advancing Claude for Financial Services",
+  "titleZh": "推进面向金融服务业的 Claude",
+  "details": {
+    "overview": "Anthropic 官方发布称，Claude for Financial Services 新增 Excel 加载项、实时市场数据与投资组合分析连接器，以及构建贴现现金流模型、发起覆盖报告等预置 Agent Skills。原文称这些更新基于 Sonnet 4.5 在金融任务上的表现，在 Vals AI 的 Finance Agent 基准上以 55.3% 准确率居首。Claude for Excel 以研究预览形式向 Max、Enterprise 和 Teams 用户开放测试，先收集约 1000 名初始用户反馈。",
+    "keyPoints": [
+      "新增 Excel 加载项，可读取、修改并解释工作簿改动",
+      "增加实时市场数据与投资组合分析连接器及 6 项金融技能",
+      "原文称 Sonnet 4.5 在 Finance Agent 基准达 55.3% 准确率"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

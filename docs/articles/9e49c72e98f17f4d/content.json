@@ -1,0 +1,25 @@
+{
+  "id": "9e49c72e98f17f4d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Creating with Sora Safely",
+  "summary": "OpenAI表示，Sora 2视频模型与Sora应用这一新型社交创作平台带来了新的安全挑战，因此团队在构建时把安全作为基础，并以具体防护措施为支撑。",
+  "url": "https://openai.com/index/creating-with-sora-safely",
+  "date": "2026-03-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-23T00:00:00+00:00",
+  "titleEn": "Creating with Sora Safely",
+  "titleZh": "安全地使用Sora创作",
+  "details": {
+    "overview": "OpenAI表示，Sora 2视频模型与Sora应用这一新型社交创作平台带来了新的安全挑战，因此团队在构建时把安全作为基础，并以具体防护措施为支撑。原始发布内容仅给出这一总体说明，未列出具体防护机制、审核流程或适用范围。相关细节需以官方完整原文为准。",
+    "keyPoints": [
+      "Sora 2与Sora应用在设计中以安全为基础",
+      "作者称其方法依托具体防护措施",
+      "原文未展开具体防护机制与适用范围"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

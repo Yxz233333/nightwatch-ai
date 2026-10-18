@@ -1,0 +1,25 @@
+{
+  "id": "c69ab1b8ffb121c1",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+  "summary": "官方发布信息称，用户现可通过 Gemini 3.5 Transcribe 获得更智能的语音转文字转写。",
+  "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+  "date": "2026-08-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-08-26T17:01:00+00:00",
+  "titleEn": "Intelligent transcription with Gemini 3.5 Transcribe",
+  "titleZh": "Gemini 3.5 Transcribe 智能转写",
+  "details": {
+    "overview": "官方发布信息称，用户现可通过 Gemini 3.5 Transcribe 获得更智能的语音转文字转写。原始发布内容仅有一句概述，未说明支持语言、准确率指标、可用地区、价格或与旧版本的对比细节，因此无法进一步描述其能力边界。",
+    "keyPoints": [
+      "官方宣布推出 Gemini 3.5 Transcribe 语音转文字功能。",
+      "发布信息称其转写更智能。",
+      "当前收录材料未提供支持语言、准确率、可用范围或定价等细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

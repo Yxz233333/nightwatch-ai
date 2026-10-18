@@ -1,0 +1,25 @@
+{
+  "id": "df5683114c9b3af1",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
+  "summary": "官方发布信息称，随着 Gemma Scope 2 发布，面向语言模型的开源可解释性工具现已覆盖整个 Gemma 3 系列。",
+  "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
+  "date": "2025-12-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2025-12-16T10:14:24+00:00",
+  "titleEn": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
+  "titleZh": "Gemma Scope 2：帮助 AI 安全社区深入理解复杂语言模型行为",
+  "details": {
+    "overview": "官方发布信息称，随着 Gemma Scope 2 发布，面向语言模型的开源可解释性工具现已覆盖整个 Gemma 3 系列。原文仅说明工具的可获得范围，未披露具体技术方法、指标或评估结果。其意义在于为 AI 安全社区研究复杂语言模型行为提供开放工具支持，实际效果需参考官方完整材料。",
+    "keyPoints": [
+      "Gemma Scope 2 发布，开源可解释性工具覆盖整个 Gemma 3 系列。",
+      "定位为帮助 AI 安全社区理解复杂语言模型行为。",
+      "当前收录材料未提供具体方法、指标或评估结果。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

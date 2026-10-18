@@ -1,0 +1,25 @@
+{
+  "id": "db54dd1b44c63bc1",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Applications of AI at OpenAI",
+  "summary": "该页面介绍OpenAI产品在真实场景中的使用方式，涵盖ChatGPT、Codex和API，面向工作、开发与日常任务。",
+  "url": "https://openai.com/academy/applications-of-ai",
+  "date": "2026-04-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-10T00:00:00+00:00",
+  "titleEn": "Applications of AI at OpenAI",
+  "titleZh": "OpenAI的AI应用",
+  "details": {
+    "overview": "该页面介绍OpenAI产品在真实场景中的使用方式，涵盖ChatGPT、Codex和API，面向工作、开发与日常任务。原文只给出产品范围与应用方向，未提供具体客户案例、性能数据或效果评估结论。",
+    "keyPoints": [
+      "涉及ChatGPT、Codex和API三类产品",
+      "应用场景包括工作、开发和日常任务",
+      "原文未给出具体案例或效果数据"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

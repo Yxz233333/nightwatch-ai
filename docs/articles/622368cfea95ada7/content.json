@@ -1,0 +1,25 @@
+{
+  "id": "622368cfea95ada7",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Improving instruction hierarchy in frontier LLMs",
+  "summary": "该官方发布介绍名为 IH-Challenge 的训练方法，目标是让模型优先遵循可信指令，从而改善指令层级处理、安全可引导性，并增强对提示注入攻击的抵抗能力。",
+  "url": "https://openai.com/index/instruction-hierarchy-challenge",
+  "date": "2026-03-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-10T11:00:00+00:00",
+  "titleEn": "Improving instruction hierarchy in frontier LLMs",
+  "titleZh": "提升前沿大模型的指令层级",
+  "details": {
+    "overview": "该官方发布介绍名为 IH-Challenge 的训练方法，目标是让模型优先遵循可信指令，从而改善指令层级处理、安全可引导性，并增强对提示注入攻击的抵抗能力。当前收录材料仅给出这一概括性描述，未披露训练数据、评测指标或具体实验细节，因此相关效果应以原始发布为准，尚不能视为已获独立验证。",
+    "keyPoints": [
+      "IH-Challenge 训练模型优先遵循可信指令",
+      "声称改善指令层级与安全可引导性",
+      "声称提升对提示注入攻击的抵抗能力"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

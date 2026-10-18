@@ -1,0 +1,25 @@
+{
+  "id": "0869fd1616943cca",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.117.0 发布",
+  "summary": "Codex CLI 0.117.0发布，主要更新包括：插件成为一等工作流，支持启动时同步产品级插件、在/plugins中浏览及安装移除；子代理使用可读路径地址并支持结构化消息；/title终端标题选择器在经典TUI和应用服务器TUI中可用；应用服务器客户端可发送shell命令、监视文件系统变化并连接远程WebSocket。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.117.0",
+  "date": "2026-03-27",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-03-26T22:27:39+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.117.0 发布",
+  "titleZh": "Codex CLI 0.117.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.117.0发布，主要更新包括：插件成为一等工作流，支持启动时同步产品级插件、在/plugins中浏览及安装移除；子代理使用可读路径地址并支持结构化消息；/title终端标题选择器在经典TUI和应用服务器TUI中可用；应用服务器客户端可发送shell命令、监视文件系统变化并连接远程WebSocket。此外修复了TUI重复输出、登录浏览器打开等问题。",
+    "keyPoints": [
+      "插件成为一等工作流，支持启动同步、浏览和安装移除。",
+      "子代理采用可读路径地址，支持结构化代理间消息。",
+      "应用服务器客户端新增shell命令、文件监视和远程WebSocket连接。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

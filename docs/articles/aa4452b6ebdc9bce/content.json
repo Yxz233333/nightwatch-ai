@@ -1,0 +1,23 @@
+{
+  "id": "aa4452b6ebdc9bce",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "New education plugins for students and educators",
+  "summary": "OpenAI为ChatGPT Work与Codex推出三款新插件，帮助师生使用自有课程材料、已连接工具和学校批准的应用。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-education-plugins-for-students-and-educators",
+  "date": "2026-08-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "New education plugins for students and educators",
+  "titleZh": "面向学生与教育工作者的新教育插件",
+  "details": {
+    "overview": "OpenAI为ChatGPT Work与Codex推出三款新插件，帮助师生使用自有课程材料、已连接工具和学校批准的应用。College Student插件可生成学习指南、练习测验、闪卡与互动讲解；College Educator插件可制作教学大纲、课程材料、评估与学习管理系统内容；K–12 Educator插件可规划课程、制作课堂资源并适配不同学习者。插件通过ChatGPT Edu与ChatGPT for Teachers区域部署提供，学校可控制可用工具与权限。",
+    "keyPoints": [
+      "三款插件分别面向大学生、高校教师和K–12教师",
+      "功能覆盖学习指南、课程材料、评估与课堂资源制作",
+      "插件经ChatGPT Edu与ChatGPT for Teachers部署，学校控制权限"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

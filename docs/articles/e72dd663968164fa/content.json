@@ -1,0 +1,23 @@
+{
+  "id": "e72dd663968164fa",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Introducing Agent Skills",
+  "summary": "该公告介绍 Claude 的 Agent Skills：它由说明、脚本及资源组成，可按需载入，并用于 Claude 应用、Claude Code 与 API。",
+  "url": "https://claude.com/resources/articles/skills",
+  "date": "2025-10-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方迁移归档",
+  "titleEn": "Introducing Agent Skills",
+  "titleZh": "Introducing Agent Skills",
+  "details": {
+    "overview": "该公告介绍 Claude 的 Agent Skills：它由说明、脚本及资源组成，可按需载入，并用于 Claude 应用、Claude Code 与 API。原公告发布于 2025-10-16；页面另含 2025-12-18 的后续更新，不能把后加内容视为首发时已有。具体推出范围与限制以原文为准。",
+    "keyPoints": [
+      "Skills 由说明、脚本及资源组成，可按需载入。",
+      "可用于 Claude 应用、Claude Code 与 API。",
+      "原公告发布于 2025-10-16，页面含后续更新。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

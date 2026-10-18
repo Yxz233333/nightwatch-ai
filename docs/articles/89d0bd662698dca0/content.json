@@ -1,0 +1,25 @@
+{
+  "id": "89d0bd662698dca0",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing the Palmyra-mini family: Powerful, lightweight, and ready to reason!",
+  "summary": "该发布宣布推出 Palmyra-mini 系列模型，官方摘要强调其“强大、轻量、可进行推理”的定位。",
+  "url": "https://huggingface.co/blog/Writer/announcing-palmyra-mini",
+  "date": "2025-09-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-09-11T20:04:44+00:00",
+  "titleEn": "Introducing the Palmyra-mini family: Powerful, lightweight, and ready to reason!",
+  "titleZh": "推出 Palmyra-mini 系列：强大、轻量、具备推理能力！",
+  "details": {
+    "overview": "该发布宣布推出 Palmyra-mini 系列模型，官方摘要强调其“强大、轻量、可进行推理”的定位。由于原始发布正文与摘要内容有限，具体参数规模、推理能力评测、开放范围与使用限制均未在材料中给出，需以官方原文为准。本条仅反映官方发布记录中的产品定位，不构成对性能的独立验证。",
+    "keyPoints": [
+      "官方发布 Palmyra-mini 系列，定位为强大、轻量、可推理。",
+      "材料未给出模型规模、评测数据与开放范围。",
+      "具体推出范围与限制需以官方原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "d730658e2a63bdff",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Native-speed vLLM transformers modeling backend",
+  "summary": "该发布介绍 vLLM 的 Transformers 建模后端，标题强调其可达到原生速度。",
+  "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+  "date": "2026-07-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-07-08T00:00:00+00:00",
+  "titleEn": "Native-speed vLLM transformers modeling backend",
+  "titleZh": "原生速度的 vLLM Transformers 建模后端",
+  "details": {
+    "overview": "该发布介绍 vLLM 的 Transformers 建模后端，标题强调其可达到原生速度。原始发布内容为空，仅有标题与一句摘要，未说明具体实现方式、支持模型范围、性能数据或适用条件，因此无法展开技术细节。可确定的是，这是一项面向 vLLM 推理框架的建模后端更新，意义在于让 Transformers 模型在 vLLM 中获得更接近原生的运行速度。具体推出范围与限制需以官方原文为准。",
+    "keyPoints": [
+      "发布主题为 vLLM 的 Transformers 建模后端，标题强调原生速度",
+      "原始材料未给出实现细节、支持范围或性能数据",
+      "具体推出范围与限制需以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

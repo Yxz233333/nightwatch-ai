@@ -1,0 +1,25 @@
+{
+  "id": "0e4b1cd1378eddf1",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.85.0 发布",
+  "summary": "Codex CLI 0.85.0 版本发布，新增应用服务器v2将协作工具调用作为项目事件发出、协作工具支持代理角色预设和中断能力、/models元数据包含升级迁移说明；修复Linux沙箱在用户命名空间不可用时回退到仅Landlock并提前设置no_new_privs、codex resume --last尊重当前工作目录、stdin提示解码处理BOM/UTF-16等问题。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.85.0",
+  "date": "2026-01-16",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-01-15T18:38:22+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.85.0 发布",
+  "titleZh": "Codex CLI 0.85.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.85.0 版本发布，新增应用服务器v2将协作工具调用作为项目事件发出、协作工具支持代理角色预设和中断能力、/models元数据包含升级迁移说明；修复Linux沙箱在用户命名空间不可用时回退到仅Landlock并提前设置no_new_privs、codex resume --last尊重当前工作目录、stdin提示解码处理BOM/UTF-16等问题。",
+    "keyPoints": [
+      "应用服务器v2将协作工具调用作为项目事件发出，客户端可实时渲染代理协调。",
+      "协作工具增强：spawn_agent接受代理角色预设，send_input可选中断运行中的代理。",
+      "修复Linux沙箱回退逻辑，在用户命名空间不可用时仅使用Landlock并提前设置no_new_privs。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

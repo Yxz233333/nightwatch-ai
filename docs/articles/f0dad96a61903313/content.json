@@ -1,0 +1,25 @@
+{
+  "id": "f0dad96a61903313",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.160.0 发布",
+  "summary": "这是 Codex CLI 0.160.0 的版本更新说明，汇总新功能与缺陷修复。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.160.0",
+  "date": "2026-10-02",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-10-01T20:19:13+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.160.0 发布",
+  "titleZh": "Codex CLI 0.160.0 发布",
+  "details": {
+    "overview": "这是 Codex CLI 0.160.0 的版本更新说明，汇总新功能与缺陷修复。新功能包括：在代理命令中心用键盘可访问的“显示更多”浏览较早任务；在支持的本地 Linux X11 终端全屏模式下支持选中文本并中键粘贴；在策略允许时以工作区默认值在项目外启动会话，并在恢复时还原已保存权限；新增可选的 Guardian 审查能力，可检索更早的用户指令并纳入代理交接上下文。修复涉及重连后未发送消息恢复、终端界面设置保留、Windows 沙箱与长路径权限、子代理环境保留、SQLite 卡顿及模型目录等。",
+    "keyPoints": [
+      "代理命令中心新增键盘可访问的历史分页“显示更多”，可浏览较早任务。",
+      "新增可选 Guardian 审查，可检索更早用户指令并纳入代理交接上下文。",
+      "修复重连后未发送队列消息恢复，避免重复发送。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "3d53810ff3d5f51e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic commits $10 million to Canadian AI research",
+  "summary": "Anthropic 宣布向加拿大研究机构投入 1000 万加元，资助有益且负责任的 AI 应用研究，并公布与 Amii、Mila、Vector 三家区域 AI 研究所以及多家医院和高校的合作。",
+  "url": "https://www.anthropic.com/news/canadian-ai-research",
+  "date": "2026-07-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-07-14T13:00:00+00:00",
+  "titleEn": "Anthropic commits $10 million to Canadian AI research",
+  "titleZh": "Anthropic 承诺投入 1000 万美元支持加拿大 AI 研究",
+  "details": {
+    "overview": "Anthropic 宣布向加拿大研究机构投入 1000 万加元，资助有益且负责任的 AI 应用研究，并公布与 Amii、Mila、Vector 三家区域 AI 研究所以及多家医院和高校的合作。公司还发布首份基于 Anthropic Economic Index 的加拿大国别简报，称加拿大在 Claude.ai 使用量上全球第八。此外，今年夏季将把三家研究所纳入 Anthropic for Startups 计划，相关初创企业各获至少 5000 美元 API 额度。",
+    "keyPoints": [
+      "投入 1000 万加元资助加拿大 AI 研究与负责任应用",
+      "与 Amii、Mila、Vector 及多家医院高校建立合作",
+      "发布加拿大国别简报，称其 Claude.ai 使用量全球第八"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

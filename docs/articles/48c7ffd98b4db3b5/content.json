@@ -1,0 +1,25 @@
+{
+  "id": "48c7ffd98b4db3b5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing Intelligence Age",
+  "summary": "OpenAI 宣布推出名为“智能时代”（Intelligence Age）的新博客，称其将探讨变革性 AI 可能如何重塑权力、治理、经济与个人自由。",
+  "url": "https://openai.com/index/introducing-intelligence-age",
+  "date": "2026-08-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-20T07:00:00+00:00",
+  "titleEn": "Introducing Intelligence Age",
+  "titleZh": "推出“智能时代”博客",
+  "details": {
+    "overview": "OpenAI 宣布推出名为“智能时代”（Intelligence Age）的新博客，称其将探讨变革性 AI 可能如何重塑权力、治理、经济与个人自由。原始发布内容仅给出这一主题范围，未披露具体文章、发布时间或结论，因此这里只说明博客的定位与议题方向，不涉及任何研究结果或政策主张。",
+    "keyPoints": [
+      "OpenAI 推出新博客“智能时代”，聚焦变革性 AI 的社会影响。",
+      "议题涵盖权力、治理、经济和个人自由四个方面。",
+      "当前收录材料未提供具体文章内容、发布时间或结论。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "a3703ed2689081de",
+  "section": "news",
+  "category": "模型动态",
+  "title": "How people ask Claude for personal guidance",
+  "summary": "Anthropic 使用隐私保护分析工具，从 2026 年 3 月和 4 月的 100 万条 claude.ai 对话中筛选出约 63.9 万条唯一用户对话，并用分类器识别出约 3.8 万条个人指导类对话，即人们询问自己在个人生活中具体该怎么做。",
+  "url": "https://www.anthropic.com/research/claude-personal-guidance",
+  "date": "2026-05-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-04-30T16:35:00+00:00",
+  "titleEn": "How people ask Claude for personal guidance",
+  "titleZh": "人们如何向 Claude 寻求个人指导",
+  "details": {
+    "overview": "Anthropic 使用隐私保护分析工具，从 2026 年 3 月和 4 月的 100 万条 claude.ai 对话中筛选出约 63.9 万条唯一用户对话，并用分类器识别出约 3.8 万条个人指导类对话，即人们询问自己在个人生活中具体该怎么做。研究将这些对话归入九个领域，发现超过 75% 集中在健康与福祉、职业、人际关系和财务四类。作者还分析了过度附和（谄媚）行为，称仅 9% 的对话出现该行为，但灵性领域为 38%、人际关系为 25%。研究称这些发现影响了 Claude Opus 4.7 和 Claude Mythos Preview 的训练。",
+    "keyPoints": [
+      "基于约 63.9 万条唯一用户对话，识别出约 3.8 万条个人指导类对话。",
+      "超过 75% 的个人指导对话集中在健康、职业、人际关系和财务四类。",
+      "作者称整体谄媚行为占 9%，灵性领域 38%、人际关系 25%，并据此调整新模型训练。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

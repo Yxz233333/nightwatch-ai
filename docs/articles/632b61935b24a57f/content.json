@@ -1,0 +1,25 @@
+{
+  "id": "632b61935b24a57f",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+  "summary": "该发布称，GPT-6 Astra 完成一份含 50 个工作表的税务工作簿，速度是 GPT-5.6 Sol 的两倍；其对用户意图的理解更强，使 Basis 在真实场景中使用更有信心。",
+  "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+  "date": "2026-09-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-28T00:00:00+00:00",
+  "titleEn": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+  "titleZh": "Basis 借助 GPT-6 Astra 将税务工作簿处理速度提升一倍",
+  "details": {
+    "overview": "该发布称，GPT-6 Astra 完成一份含 50 个工作表的税务工作簿，速度是 GPT-5.6 Sol 的两倍；其对用户意图的理解更强，使 Basis 在真实场景中使用更有信心。材料仅给出速度对比与信心表述，未披露测试方法、样本规模或独立验证情况，具体推出范围与限制应以原文为准。",
+    "keyPoints": [
+      "GPT-6 Astra 完成 50 个工作表的税务工作簿，速度达 GPT-5.6 Sol 的两倍",
+      "官方称其对用户意图理解更强，提升 Basis 在真实场景中的使用信心",
+      "未披露测试方法、样本规模及独立验证信息"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

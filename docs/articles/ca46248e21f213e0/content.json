@@ -1,0 +1,24 @@
+{
+  "id": "ca46248e21f213e0",
+  "section": "news",
+  "category": "工具动态",
+  "title": "The next evolution of the Agents SDK",
+  "summary": "OpenAI 更新 Agents SDK，加入原生沙箱执行和模型原生 harness，帮助开发者构建跨文件与工具的安全、长时间运行的智能体。",
+  "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+  "date": "2026-04-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-15T10:00:00+00:00",
+  "titleEn": "The next evolution of the Agents SDK",
+  "titleZh": "Agents SDK 的下一次演进",
+  "details": {
+    "overview": "OpenAI 更新 Agents SDK，加入原生沙箱执行和模型原生 harness，帮助开发者构建跨文件与工具的安全、长时间运行的智能体。原文摘要仅说明这两项能力及其目标，未披露具体 API 变更、支持范围或安全机制细节，因此无法进一步评估其实际效果。",
+    "keyPoints": [
+      "Agents SDK 新增原生沙箱执行能力。",
+      "引入模型原生 harness，面向跨文件与工具的长时运行智能体。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

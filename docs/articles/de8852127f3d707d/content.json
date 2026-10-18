@@ -1,0 +1,25 @@
+{
+  "id": "de8852127f3d707d",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.71.0 发布",
+  "summary": "该发布记录列出 Codex CLI 0.71.0 的更新内容，包括在模型选择器中显示默认模型、复制 TUI crate 并规范化快照、修复 thread/list 因过滤返回数量不足的问题，以及多项测试稳定性与文档修正。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.71.0",
+  "date": "2025-12-12",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-12-11T18:36:44+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.71.0 发布",
+  "titleZh": "Codex CLI 0.71.0 发布",
+  "details": {
+    "overview": "该发布记录列出 Codex CLI 0.71.0 的更新内容，包括在模型选择器中显示默认模型、复制 TUI crate 并规范化快照、修复 thread/list 因过滤返回数量不足的问题，以及多项测试稳定性与文档修正。发布说明同时提到 gpt-5.2 作为最新前沿模型，称其在知识、推理和编码方面有所改进。记录未给出具体性能数据或独立验证结果。",
+    "keyPoints": [
+      "模型选择器开始显示默认模型，便于用户识别当前所用模型。",
+      "修复 thread/list 因过滤导致返回数量少于请求量的问题。",
+      "多项改动聚焦测试稳定性、文档修正与 TUI 快照处理。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

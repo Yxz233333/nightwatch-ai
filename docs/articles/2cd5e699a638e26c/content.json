@@ -1,0 +1,23 @@
+{
+  "id": "2cd5e699a638e26c",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT for iOS 1.2026.139",
+  "summary": "该版本更新说明列出多项新功能：支持通过 Spotlight 和快捷指令直接打开 Codex Mobile，可浏览已归档的 Codex 会话线程，新增 /side 用于开启侧边对话，并支持保存或复制渲染后的图片。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2026-05-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "ChatGPT for iOS 1.2026.139",
+  "titleZh": "ChatGPT iOS 版 1.2026.139",
+  "details": {
+    "overview": "该版本更新说明列出多项新功能：支持通过 Spotlight 和快捷指令直接打开 Codex Mobile，可浏览已归档的 Codex 会话线程，新增 /side 用于开启侧边对话，并支持保存或复制渲染后的图片。改进与修复方面，优化了 iPad 键盘快捷键、设置与重新启动的可靠性，并修复任务进度、加载归档线程、预览代码改动和切换主机等问题。属于客户端功能与稳定性更新。",
+    "keyPoints": [
+      "新增 Spotlight 与快捷指令直接打开 Codex Mobile。",
+      "新增 /side 开启侧边对话，支持保存或复制渲染图片。",
+      "修复任务进度、归档线程加载与主机切换等问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

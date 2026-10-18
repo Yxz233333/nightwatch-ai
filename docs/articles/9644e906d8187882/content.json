@@ -1,0 +1,24 @@
+{
+  "id": "9644e906d8187882",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "New SemiAnalysis InferenceX Data Shows NVIDIA Blackwell Ultra Delivers up to 50x Better Performance and 35x Lower Costs for Agentic AI",
+  "summary": "该消息援引SemiAnalysis的InferenceX数据，称NVIDIA Blackwell Ultra平台在智能体AI场景下可实现最高50倍的性能提升和最高35倍的成本下降。",
+  "url": "https://blogs.nvidia.com/blog/data-blackwell-ultra-performance-lower-cost-agentic-ai/",
+  "date": "2026-02-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-02-16T17:00:40+00:00",
+  "titleEn": "New SemiAnalysis InferenceX Data Shows NVIDIA Blackwell Ultra Delivers up to 50x Better Performance and 35x Lower Costs for Agentic AI",
+  "titleZh": "SemiAnalysis InferenceX新数据显示：NVIDIA Blackwell Ultra在智能体AI上性能最高提升50倍、成本降低35倍",
+  "details": {
+    "overview": "该消息援引SemiAnalysis的InferenceX数据，称NVIDIA Blackwell Ultra平台在智能体AI场景下可实现最高50倍的性能提升和最高35倍的成本下降。原文同时提到，Blackwell平台已被Baseten、DeepInfra、Fireworks AI、Together AI等推理服务商采用，使每token成本最多降低10倍；AI智能体与编程助手正推动软件编程相关需求快速增长。上述数字均为厂商与第三方分析机构给出的对比结果，属于特定测试条件下的宣称，不应视为已获独立验证的普遍结论。",
+    "keyPoints": [
+      "SemiAnalysis数据称Blackwell Ultra在智能体AI上性能最高提升50倍。",
+      "同一数据称其成本最多降低35倍。",
+      "Blackwell已被多家推理服务商采用，每token成本最多降10倍。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "bf8bdd13a220c7a1",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing the Adoption news channel",
+  "summary": "该条目为官方发布的新闻频道介绍，原文仅说明其定位是提供实用见解与框架，帮助将AI进展转化为商业优势。",
+  "url": "https://openai.com/index/introducing-the-adoption-news-channel",
+  "date": "2026-03-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-05T00:00:00+00:00",
+  "titleEn": "Introducing the Adoption news channel",
+  "titleZh": "Introducing the Adoption news channel",
+  "details": {
+    "overview": "该条目为官方发布的新闻频道介绍，原文仅说明其定位是提供实用见解与框架，帮助将AI进展转化为商业优势。材料未交代频道内容形式、更新频率、面向人群或具体案例，也未说明任何推出范围与限制，故无法进一步展开。",
+    "keyPoints": [
+      "官方推出名为Adoption的新闻频道",
+      "定位是提供实用见解与框架",
+      "目标是把AI进展转化为商业优势"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

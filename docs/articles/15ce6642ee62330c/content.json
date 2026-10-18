@@ -1,0 +1,25 @@
+{
+  "id": "15ce6642ee62330c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Why we no longer evaluate SWE-bench Verified",
+  "summary": "Anthropic发文解释不再评估SWE-bench Verified基准，称该基准日益受到污染，无法准确衡量前沿编码进展。",
+  "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
+  "date": "2026-02-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-23T11:00:00+00:00",
+  "titleEn": "Why we no longer evaluate SWE-bench Verified",
+  "titleZh": "我们为何不再评估SWE-bench Verified",
+  "details": {
+    "overview": "Anthropic发文解释不再评估SWE-bench Verified基准，称该基准日益受到污染，无法准确衡量前沿编码进展。文章分析指出存在有缺陷的测试和训练数据泄漏问题，并推荐使用SWE-bench Pro。摘要未提供具体分析数据或SWE-bench Pro的详细对比。",
+    "keyPoints": [
+      "Anthropic称SWE-bench Verified日益受污染",
+      "分析指出该基准存在有缺陷测试和训练泄漏",
+      "建议改用SWE-bench Pro进行评估"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

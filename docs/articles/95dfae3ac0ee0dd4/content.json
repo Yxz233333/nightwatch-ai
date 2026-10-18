@@ -1,0 +1,24 @@
+{
+  "id": "95dfae3ac0ee0dd4",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Jetson Brings Agentic AI to the Physical World",
+  "summary": "在 COMPUTEX 上，NVIDIA 宣布为 Jetson 平台提供 JetPack 7.2 和 NemoClaw 支持。",
+  "url": "https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/",
+  "date": "2026-06-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-02T02:00:40+00:00",
+  "titleEn": "NVIDIA Jetson Brings Agentic AI to the Physical World",
+  "titleZh": "NVIDIA Jetson 将智能体 AI 带入物理世界",
+  "details": {
+    "overview": "在 COMPUTEX 上，NVIDIA 宣布为 Jetson 平台提供 JetPack 7.2 和 NemoClaw 支持。JetPack 7.2 为 Jetson 带来智能体 AI 能力、Yocto 项目支持、在 Jetson Orin 上支持 CUDA 13，并在 Jetson AGX Orin 32GB 模块上实现显著性能提升，同时为 Jetson 提供多实例 GPU（MIG）支持。这些更新旨在让边缘设备具备运行智能体 AI 的能力，推动 AI 从云端走向物理世界。",
+    "keyPoints": [
+      "JetPack 7.2 为 Jetson 引入智能体 AI 技能和 Yocto 项目支持。",
+      "在 Jetson Orin 上支持 CUDA 13，AGX Orin 32GB 模块性能大幅提升。",
+      "Jetson 获得多实例 GPU（MIG）支持，并新增 NemoClaw 支持。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "153466bae56c43b4",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Gordon Bell Prize Winners Push Open Science Boundaries With NVIDIA-Powered Supercomputers",
+  "summary": "该消息介绍戈登·贝尔奖的五组入围团队借助 Alps、JUPITER 和 Perlmutter 超级计算机，在气候建模、流体模拟等方向取得突破，其中两组最终获奖。",
+  "url": "https://blogs.nvidia.com/blog/gordon-bell-finalists-2025/",
+  "date": "2025-11-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-11-20T23:25:47+00:00",
+  "titleEn": "Gordon Bell Prize Winners Push Open Science Boundaries With NVIDIA-Powered Supercomputers",
+  "titleZh": "戈登·贝尔奖获奖者借助 NVIDIA 加速超级计算机拓展开放科学边界",
+  "details": {
+    "overview": "该消息介绍戈登·贝尔奖的五组入围团队借助 Alps、JUPITER 和 Perlmutter 超级计算机，在气候建模、流体模拟等方向取得突破，其中两组最终获奖。内容聚焦高性能计算与开放科学，强调 NVIDIA 加速算力在科研工作中的作用。原文未展开具体算法、性能数据或各团队成果细节，相关结论应以官方原始发布为准。",
+    "keyPoints": [
+      "五组入围团队使用 Alps、JUPITER 和 Perlmutter 超算",
+      "成果涉及气候建模、流体模拟等方向",
+      "两组团队最终获得该高性能计算奖项"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

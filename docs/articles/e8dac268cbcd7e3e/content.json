@@ -1,0 +1,25 @@
+{
+  "id": "e8dac268cbcd7e3e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Strengthening societal resilience with Rosalind Biodefense",
+  "summary": "OpenAI 推出 Rosalind Biodefense，扩大经过审核的开发者及美国政府合作伙伴对 GPT-Rosalind 的可信访问，用于推进生物防御、公共卫生和大流行病准备。",
+  "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+  "date": "2026-05-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-29T03:00:00+00:00",
+  "titleEn": "Strengthening societal resilience with Rosalind Biodefense",
+  "titleZh": "用 Rosalind 生物防御增强社会韧性",
+  "details": {
+    "overview": "OpenAI 推出 Rosalind Biodefense，扩大经过审核的开发者及美国政府合作伙伴对 GPT-Rosalind 的可信访问，用于推进生物防御、公共卫生和大流行病准备。原文未说明具体访问条件、技术细节或合作范围。",
+    "keyPoints": [
+      "OpenAI 推出 Rosalind Biodefense 项目。",
+      "面向经过审核的开发者及美国政府合作伙伴。",
+      "应用方向包括生物防御、公共卫生和大流行病准备。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

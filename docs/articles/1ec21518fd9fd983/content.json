@@ -1,0 +1,24 @@
+{
+  "id": "1ec21518fd9fd983",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA BlueField-Powered Cybersecurity and Acceleration Arrive on NVIDIA Enterprise AI Factory Validated Design",
+  "summary": "稿件指出，AI 正在推动各行业突破，企业 AI 工厂规模化后需要能高效管理数据、保障流水线各阶段安全并加速核心服务的基础设施。",
+  "url": "https://blogs.nvidia.com/blog/bluefield-cybersecurity-acceleration-enterprise-ai-factory-validated-design/",
+  "date": "2026-01-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-01-05T22:50:20+00:00",
+  "titleEn": "NVIDIA BlueField-Powered Cybersecurity and Acceleration Arrive on NVIDIA Enterprise AI Factory Validated Design",
+  "titleZh": "基于 NVIDIA BlueField 的网络安全与加速能力登陆 NVIDIA 企业 AI 工厂验证设计",
+  "details": {
+    "overview": "稿件指出，AI 正在推动各行业突破，企业 AI 工厂规模化后需要能高效管理数据、保障流水线各阶段安全并加速核心服务的基础设施。NVIDIA 扩展了相关方案，使基于 BlueField 的网络安全与加速能力进入 NVIDIA 企业 AI 工厂验证设计。原文摘要在此处截断，未说明具体组件、性能数据或可用范围，相关细节需以原文为准。",
+    "keyPoints": [
+      "企业 AI 工厂规模化需要数据管理、安全与加速基础设施",
+      "NVIDIA 将 BlueField 驱动的网络安全与加速纳入企业 AI 工厂验证设计",
+      "摘要未展开具体组件、性能指标与推出范围"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

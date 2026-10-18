@@ -1,0 +1,24 @@
+{
+  "id": "e6be93ad68d5cf7a",
+  "section": "news",
+  "category": "模型动态",
+  "title": "The next chapter of Gemini Live.",
+  "summary": "官方发布称Gemini Live现已整合进聊天，用户可在说话与打字之间无缝切换。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2026-05-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|The next chapter of Gemini Live.|2026-05-19",
+  "titleEn": "The next chapter of Gemini Live.",
+  "titleZh": "Gemini Live开启新篇章",
+  "details": {
+    "overview": "官方发布称Gemini Live现已整合进聊天，用户可在说话与打字之间无缝切换。Gemini可直接连接用户常用应用来处理比较产品、跟进邮件等任务；对话时还能展示实时地图、天气卡片等信息，或通过Nano Banana根据用户所见生成新图像。该功能面向Android和iOS用户全球推出。官方目标是让Gemini成为更完整、免手的助手，通过自然对话与常用工具直接协作，提供更顺畅的帮助。",
+    "keyPoints": [
+      "Gemini Live整合进聊天，支持语音与打字无缝切换",
+      "可连接常用应用处理比较产品、跟进邮件等任务",
+      "对话中可展示实时地图、天气卡片或生成图像"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

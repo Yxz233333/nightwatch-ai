@@ -1,0 +1,23 @@
+{
+  "id": "0039a1a64f3bf1f9",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Large pastes are now handled as attachments for all plans",
+  "summary": "该更新说明 ChatGPT 对长文本粘贴的处理方式：在输入框中粘贴超过 1 万字符时，内容会自动转为附件，而非直接插入文本框，以保持输入区整洁并避免大段粘贴占满上下文窗口。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments-for-all-plans",
+  "date": "2026-08-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Large pastes are now handled as attachments for all plans",
+  "titleZh": "所有方案的长文本粘贴现已按附件处理",
+  "details": {
+    "overview": "该更新说明 ChatGPT 对长文本粘贴的处理方式：在输入框中粘贴超过 1 万字符时，内容会自动转为附件，而非直接插入文本框，以保持输入区整洁并避免大段粘贴占满上下文窗口。用户可点击“在文本框中显示”将附件转回直接粘贴。该功能已向其他所有方案用户提供，此次起适用于 Enterprise 与 Education 用户。",
+    "keyPoints": [
+      "粘贴超过 1 万字符时自动转为附件",
+      "目的是保持输入区整洁、避免占满上下文窗口",
+      "可点击“在文本框中显示”转回直接粘贴"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

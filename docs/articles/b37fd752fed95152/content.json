@@ -1,0 +1,25 @@
+{
+  "id": "b37fd752fed95152",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing GPT-Rosalind for life sciences research",
+  "summary": "OpenAI发布GPT-Rosalind，摘要称这是一款前沿推理模型，旨在加速药物发现、基因组分析、蛋白质推理和科研工作流程。",
+  "url": "https://openai.com/index/introducing-gpt-rosalind",
+  "date": "2026-04-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-16T01:00:00+00:00",
+  "titleEn": "Introducing GPT-Rosalind for life sciences research",
+  "titleZh": "OpenAI推出面向生命科学研究的GPT-Rosalind",
+  "details": {
+    "overview": "OpenAI发布GPT-Rosalind，摘要称这是一款前沿推理模型，旨在加速药物发现、基因组分析、蛋白质推理和科研工作流程。原文仅提供一句概述，未说明模型的训练方式、评测结果、可用范围或访问条件，因此无法进一步描述其具体能力与限制。",
+    "keyPoints": [
+      "OpenAI发布前沿推理模型GPT-Rosalind",
+      "作者声称其用于加速药物发现、基因组分析与蛋白质推理",
+      "原文信息有限，未披露评测结果与开放范围"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

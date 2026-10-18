@@ -1,0 +1,24 @@
+{
+  "id": "7e24f8ca65dfe62a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Securing the Infrastructure of Intelligence",
+  "summary": "该文为行业新闻，原文以英文发布，讨论“AI工厂”作为AI时代基础设施的定位：算力将能源与数据转化为智能，服务企业、行业与国家；在AI经济中算力即收入。",
+  "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
+  "date": "2026-08-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-08-17T12:34:51+00:00",
+  "titleEn": "Securing the Infrastructure of Intelligence",
+  "titleZh": "Securing the Infrastructure of Intelligence",
+  "details": {
+    "overview": "该文为行业新闻，原文以英文发布，讨论“AI工厂”作为AI时代基础设施的定位：算力将能源与数据转化为智能，服务企业、行业与国家；在AI经济中算力即收入。原文指出AI工厂需要先进芯片、封装、内存与网络，以及土地、电力等资源。材料仅含开头片段，未给出具体安全方案、数据或推出范围，相关细节不足。",
+    "keyPoints": [
+      "原文将AI工厂定位为AI时代的关键基础设施，算力被视为收入来源。",
+      "AI工厂依赖先进芯片、封装、内存、网络及土地、电力等资源。",
+      "原文为英文且内容不完整，未展开具体安全措施与实施细节。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "89924242d666eb7f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Powering product discovery in ChatGPT",
+  "summary": "ChatGPT引入了更丰富、更具视觉沉浸感的购物体验，该体验由Agentic Commerce Protocol提供支持。",
+  "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+  "date": "2026-03-24",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-24T09:00:00+00:00",
+  "titleEn": "Powering product discovery in ChatGPT",
+  "titleZh": "为ChatGPT中的产品发现提供支持",
+  "details": {
+    "overview": "ChatGPT引入了更丰富、更具视觉沉浸感的购物体验，该体验由Agentic Commerce Protocol提供支持。这一更新使用户能够进行产品发现、并排比较，并实现商家集成。官方表示，这些改进旨在提升ChatGPT中产品信息的检索和呈现方式，帮助用户更方便地发现和比较商品。具体推出范围和限制需以官方原始发布记录为准。",
+    "keyPoints": [
+      "ChatGPT推出由Agentic Commerce Protocol支持的更丰富、视觉沉浸式购物体验。",
+      "支持产品发现、并排比较和商家集成。",
+      "具体推出范围和限制需以官方原始发布记录为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

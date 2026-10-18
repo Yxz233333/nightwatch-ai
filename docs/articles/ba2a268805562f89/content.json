@@ -1,0 +1,24 @@
+{
+  "id": "ba2a268805562f89",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI",
+  "summary": "该研究发布介绍新工具Anthropic Interviewer，由Claude驱动，可自动开展大规模访谈并把结果交给人类研究员分析。",
+  "url": "https://www.anthropic.com/research/anthropic-interviewer",
+  "date": "2025-12-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-12-04T17:00:00+00:00",
+  "titleEn": "Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI",
+  "titleZh": "推出Anthropic Interviewer：1250名专业人士谈与AI共事",
+  "details": {
+    "overview": "该研究发布介绍新工具Anthropic Interviewer，由Claude驱动，可自动开展大规模访谈并把结果交给人类研究员分析。作者用它对1250名专业人士进行测试访谈，包括1000名一般职业者、125名创意工作者和125名科学家，并公开经同意的访谈数据。摘要表示，一般样本中86%称AI节省时间、65%表示满意；作者强调这是工具测试，数据为初步发现。",
+    "keyPoints": [
+      "Anthropic Interviewer由Claude驱动，自动完成规划、访谈与分析",
+      "测试访谈1250名专业人士，含一般职业、创意与科学三个样本",
+      "作者称一般样本86%认为AI节省时间，65%表示满意"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

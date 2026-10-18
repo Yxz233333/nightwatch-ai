@@ -1,0 +1,25 @@
+{
+  "id": "2c468a27147e84e5",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+  "summary": "该消息介绍 Airbnb 扩大对 GPT-6 Astra 及 OpenAI 前沿模型的访问，以帮助工程团队排查缺陷、设计系统并加快交付。",
+  "url": "https://openai.com/index/airbnb-gpt-6-astra",
+  "date": "2026-09-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-23T01:00:00+00:00",
+  "titleEn": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+  "titleZh": "Airbnb 扩大 GPT-6 Astra 与 OpenAI 前沿模型的访问范围",
+  "details": {
+    "overview": "该消息介绍 Airbnb 扩大对 GPT-6 Astra 及 OpenAI 前沿模型的访问，以帮助工程团队排查缺陷、设计系统并加快交付。当前收录材料仅给出这一用途概述，未说明接入规模、具体流程或效果数据，相关范围与限制需以原始发布为准。",
+    "keyPoints": [
+      "Airbnb 扩大对 GPT-6 Astra 等 OpenAI 前沿模型的访问",
+      "目标用途包括排查缺陷、设计系统与加快交付",
+      "当前收录材料未提供接入规模或效果数据"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

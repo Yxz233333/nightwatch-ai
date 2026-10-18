@@ -1,0 +1,23 @@
+{
+  "id": "aae61c8702ea26c1",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Security history in ChatGPT",
+  "summary": "OpenAI 在 ChatGPT 中新增“安全历史记录”，用于查看账户近期安全活动，包括登录、登出，以及多因素认证、通行密钥和其他安全设置的变更。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#security-history-in-chatgpt",
+  "date": "2026-09-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Security history in ChatGPT",
+  "titleZh": "ChatGPT 推出安全历史记录",
+  "details": {
+    "overview": "OpenAI 在 ChatGPT 中新增“安全历史记录”，用于查看账户近期安全活动，包括登录、登出，以及多因素认证、通行密钥和其他安全设置的变更。每条事件包含时间、地点与设备信息，部分细节可能为近似值或不可用。网页版可在“设置 > 安全与登录”中进入该功能。原文未说明推出范围与限制。",
+    "keyPoints": [
+      "可查看登录、登出及 MFA、通行密钥等设置变更",
+      "事件含时间、地点与设备信息，部分可能近似或缺失",
+      "网页版入口为设置中的安全与登录页面"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

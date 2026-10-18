@@ -1,0 +1,25 @@
+{
+  "id": "a0ffc6382560aae9",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
+  "summary": "该条目主题为开放评估标准，内容涉及使用 NeMo Evaluator 对 NVIDIA Nemotron 3 Nano 进行基准评测。",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
+  "date": "2025-12-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-12-17T13:22:18+00:00",
+  "titleEn": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
+  "titleZh": "开放评估标准：用 NeMo Evaluator 评测 NVIDIA Nemotron 3 Nano",
+  "details": {
+    "overview": "该条目主题为开放评估标准，内容涉及使用 NeMo Evaluator 对 NVIDIA Nemotron 3 Nano 进行基准评测。现有材料仅包含标题与一句摘要，未提供评测任务、数据集、指标结果或方法细节，因此无法介绍具体研究对象与作者声称的结论。读者应以官方原始发布内容为准。",
+    "keyPoints": [
+      "主题为开放评估标准与基准评测",
+      "评测对象为 NVIDIA Nemotron 3 Nano",
+      "评测工具为 NeMo Evaluator"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "d071fd481c7d9eee",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.93.0 发布",
+  "summary": "Codex CLI 发布 0.93.0 版本。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.93.0",
+  "date": "2026-01-31",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-01-31T06:59:51+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.93.0 发布",
+  "titleZh": "Codex CLI 0.93.0 发布",
+  "details": {
+    "overview": "Codex CLI 发布 0.93.0 版本。更新日志显示，新增可选的 SOCKS5 代理监听并带策略执行与配置开关；计划模式可将拟定计划流式显示在专用 TUI 视图，并提供受特性开关控制的 /plan 快捷方式；新增 /apps 浏览连接器；应用服务器支持外部认证模式；智能审批默认启用，对 MCP 工具调用给出明确审批提示；引入基于 SQLite 的日志数据库。此外修复了 MCP 图像输出渲染、输入历史恢复图片附件、文件搜索性能等问题。",
+    "keyPoints": [
+      "新增可选 SOCKS5 代理监听，带策略执行与配置开关",
+      "计划模式将拟定计划流式显示在专用 TUI 视图",
+      "智能审批默认启用，MCP 工具调用有明确审批提示",
+      "引入 SQLite 日志数据库，支持线程 ID 过滤与保留策略"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

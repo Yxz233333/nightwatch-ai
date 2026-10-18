@@ -1,0 +1,25 @@
+{
+  "id": "51054afcd7357647",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How engineers at Nextdoor use Codex to build without limits",
+  "summary": "该内容介绍 Nextdoor 的工程师如何使用 Codex 与 GPT-5.5 来调查难以复现的问题、跨平台构建，并聚焦产品成果。",
+  "url": "https://openai.com/index/nextdoor",
+  "date": "2026-06-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-09T12:00:00+00:00",
+  "titleEn": "How engineers at Nextdoor use Codex to build without limits",
+  "titleZh": "Nextdoor 工程师如何用 Codex 突破限制进行构建",
+  "details": {
+    "overview": "该内容介绍 Nextdoor 的工程师如何使用 Codex 与 GPT-5.5 来调查难以复现的问题、跨平台构建，并聚焦产品成果。原文仅提供概要，未披露具体案例、量化收益或技术细节，因此无法进一步展开。",
+    "keyPoints": [
+      "Nextdoor工程师使用Codex与GPT-5.5",
+      "用于调查难复现问题和跨平台构建",
+      "目标是聚焦产品成果"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

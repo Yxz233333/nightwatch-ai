@@ -1,0 +1,25 @@
+{
+  "id": "bed8421f05fe4a6b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "AWS and OpenAI announce multi-year strategic partnership",
+  "summary": "据官方原始发布记录，OpenAI 与 AWS 达成多年期、金额 380 亿美元的合作，用于扩展先进 AI 工作负载。",
+  "url": "https://openai.com/index/aws-and-openai-partnership",
+  "date": "2025-11-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-03T06:00:00+00:00",
+  "titleEn": "AWS and OpenAI announce multi-year strategic partnership",
+  "titleZh": "AWS 与 OpenAI 宣布多年期战略合作",
+  "details": {
+    "overview": "据官方原始发布记录，OpenAI 与 AWS 达成多年期、金额 380 亿美元的合作，用于扩展先进 AI 工作负载。AWS 将提供基础设施与算力，支撑 OpenAI 下一代模型。当前收录材料未提供合作期限、算力规模、上线时间及具体服务范围，也未说明是否涉及独家安排，相关细节需以官方原文为准。",
+    "keyPoints": [
+      "合作期限为多年期，官方披露金额为 380 亿美元",
+      "AWS 提供基础设施与算力，用于 OpenAI 下一代模型",
+      "原文未说明具体算力规模、时间表与独家性"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

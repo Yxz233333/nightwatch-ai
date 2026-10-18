@@ -1,0 +1,23 @@
+{
+  "id": "aff069a1c0b52b34",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT for PowerPoint is now generally available",
+  "summary": "该官方发布宣布ChatGPT for PowerPoint在全球范围内全面可用。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-powerpoint-is-now-generally-available",
+  "date": "2026-07-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "ChatGPT for PowerPoint is now generally available",
+  "titleZh": "ChatGPT for PowerPoint现已全面可用",
+  "details": {
+    "overview": "该官方发布宣布ChatGPT for PowerPoint在全球范围内全面可用。用户可通过Microsoft PowerPoint侧边栏创建新幻灯片和演示文稿、修改现有演示文稿、询问关于演示文稿故事和结构的问题，并使用Skills和apps处理可重复工作流和连接源。幻灯片在PowerPoint中仍可编辑，但高级编辑和模板匹配可能仍需审查。该加载项面向Free、Go、Plus、Pro、Business、Enterprise、ChatGPT Edu和K-12用户，受计划限制和工作区设置约束。",
+    "keyPoints": [
+      "ChatGPT for PowerPoint全球全面可用，通过侧边栏操作。",
+      "支持创建、修改幻灯片，询问演示文稿结构问题。",
+      "面向多类用户，受计划限制和工作区设置约束。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

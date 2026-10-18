@@ -1,0 +1,24 @@
+{
+  "id": "7d0b52b8a3bfaa2b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+  "summary": "官方摘要称，最新Veo更新可生成生动、动态且自然流畅的视频片段，并支持竖屏视频生成。",
+  "url": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
+  "date": "2026-01-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-01-13T17:00:18+00:00",
+  "titleEn": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+  "titleZh": "Veo 3.1 Ingredients to Video：更强一致性、创意与可控性",
+  "details": {
+    "overview": "官方摘要称，最新Veo更新可生成生动、动态且自然流畅的视频片段，并支持竖屏视频生成。标题指向“Ingredients to Video”能力，强调一致性、创意与控制，但原文未说明具体可用范围、分辨率或面向哪些用户开放，这些信息需以官方原文为准。",
+    "keyPoints": [
+      "更新重点为生成更生动自然的动态片段",
+      "新增对竖屏视频生成的支持"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

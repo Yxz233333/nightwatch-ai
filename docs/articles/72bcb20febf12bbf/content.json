@@ -1,0 +1,25 @@
+{
+  "id": "72bcb20febf12bbf",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+  "summary": "现有材料仅有标题，未提供摘要或原文内容，无法确认具体评测对象、方法或作者声称的结果。",
+  "url": "https://huggingface.co/blog/is-it-agentic-enough",
+  "date": "2026-06-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-06-18T00:00:00+00:00",
+  "titleEn": "Is it agentic enough? Benchmarking open models on your own tooling",
+  "titleZh": "智能体能力足够吗？在自有工具链上评测开放模型",
+  "details": {
+    "overview": "现有材料仅有标题，未提供摘要或原文内容，无法确认具体评测对象、方法或作者声称的结果。因此不对其结论作任何推断，需以原始发布内容为准。",
+    "keyPoints": [
+      "材料仅含标题，缺少摘要与正文",
+      "无法确认评测的开放模型、工具链及指标",
+      "需查阅原始发布内容获取具体信息"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

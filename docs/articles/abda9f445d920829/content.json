@@ -1,0 +1,24 @@
+{
+  "id": "abda9f445d920829",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "AI for Food Allergies",
+  "summary": "现有材料仅有标题“AI for Food Allergies”，没有摘要或原始发布正文，无法确认具体研究对象、方法、结果与发布方。",
+  "url": "https://huggingface.co/blog/hugging-science/ai-for-food-allergies",
+  "date": "2025-10-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-10-16T22:38:11+00:00",
+  "titleEn": "AI for Food Allergies",
+  "titleZh": "AI 用于食物过敏",
+  "details": {
+    "overview": "现有材料仅有标题“AI for Food Allergies”，没有摘要或原始发布正文，无法确认具体研究对象、方法、结果与发布方。因此不对其内容作任何推断，仅保留标题信息。",
+    "keyPoints": [
+      "材料仅含标题，无摘要与正文内容。",
+      "无法确认研究或产品的具体对象与结果。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "177128855be74ae8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Choco automates food distribution with AI agents",
+  "summary": "该官方发布是一篇客户案例，介绍 Choco 如何使用 OpenAI API 简化食品分销流程、提升生产力并推动增长。",
+  "url": "https://openai.com/index/choco",
+  "date": "2026-04-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-27T00:00:00+00:00",
+  "titleEn": "Choco automates food distribution with AI agents",
+  "titleZh": "Choco 用 AI 智能体实现食品分销自动化",
+  "details": {
+    "overview": "该官方发布是一篇客户案例，介绍 Choco 如何使用 OpenAI API 简化食品分销流程、提升生产力并推动增长。现有材料仅给出案例主题与总体效果表述，未披露具体智能体设计、部署规模、量化指标或实施细节。因此可确认的是 Choco 采用 OpenAI API 这一事实及官方概括的三点收益，具体数据需以原文为准。",
+    "keyPoints": [
+      "Choco 使用 OpenAI API 优化食品分销流程",
+      "官方称其提升了生产力并带来增长",
+      "具体实现方式与量化效果需以原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

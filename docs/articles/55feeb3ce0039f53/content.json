@@ -1,0 +1,23 @@
+{
+  "id": "55feeb3ce0039f53",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Voice Updates",
+  "summary": "OpenAI 对付费用户的 ChatGPT Voice 进行更新，提升其遵循用户指令的能力，并修复了 Voice 有时会重复自定义指令的缺陷。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#voice-updates",
+  "date": "2026-01-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Voice Updates",
+  "titleZh": "语音功能更新",
+  "details": {
+    "overview": "OpenAI 对付费用户的 ChatGPT Voice 进行更新，提升其遵循用户指令的能力，并修复了 Voice 有时会重复自定义指令的缺陷。原文未说明具体改进幅度、受影响用户范围或上线时间，相关细节需以官方发布为准。",
+    "keyPoints": [
+      "更新提升 ChatGPT Voice 遵循用户指令的能力。",
+      "修复 Voice 有时重复自定义指令的缺陷。",
+      "该更新面向付费用户。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

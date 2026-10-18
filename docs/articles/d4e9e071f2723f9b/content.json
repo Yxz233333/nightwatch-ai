@@ -13,7 +13,7 @@
   "titleEn": "Baumslag-Solitar-free one-relator groups are hyperbolic",
   "titleZh": "无Baumslag–Solitar子群的单关系群是双曲的",
   "details": {
-    "overview": "该稿件研究Gersten猜想。作者声称证明：每个有限生成单关系群，若不含同构于Baumslag–Solitar群BS(m,n)（m,n为非零整数）的子群，则是词双曲的。摘要未给出证明细节。若成立，该结果将单关系群的双曲性与排除Baumslag–Solitar子群联系起来，是几何群论中关于单关系群结构的重要断言。",
+    "overview": "该稿件研究Gersten猜想。作者声称证明：每个有限生成单关系群，若不含同构于Baumslag–Solitar群BS(m,n)（m,n为非零整数）的子群，则是词双曲的。当前收录摘要未给出证明细节。若成立，该结果将单关系群的双曲性与排除Baumslag–Solitar子群联系起来，是几何群论中关于单关系群结构的重要断言。",
     "keyPoints": [
       "声称证明Gersten猜想",
       "对象为不含BS(m,n)子群的有限生成单关系群",

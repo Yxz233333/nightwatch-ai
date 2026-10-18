@@ -1,0 +1,24 @@
+{
+  "id": "3c2e740ea2aeb3a3",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Solve even more complex problems with Gemini 3 Deep Think",
+  "summary": "Google 宣布 Google AI Ultra 订阅用户即日起可使用 Gemini 3 Deep Think，称其为 Gemini 最先进的推理模式。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2025-12-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|Solve even more complex problems with Gemini 3 Deep Think|2025-12-04",
+  "titleEn": "Solve even more complex problems with Gemini 3 Deep Think",
+  "titleZh": "用 Gemini 3 Deep Think 解决更复杂的问题",
+  "details": {
+    "overview": "Google 宣布 Google AI Ultra 订阅用户即日起可使用 Gemini 3 Deep Think，称其为 Gemini 最先进的推理模式。该模式通过多轮迭代推理同时探索多个假设，面向数学、科学和逻辑等复杂任务，发布方称推理能力有显著提升。使用时在提示栏选择“Deep Think”、在模型下拉菜单选择“Thinking”，提交后通常几分钟内返回结果。",
+    "keyPoints": [
+      "面向 Google AI Ultra 订阅用户开放。",
+      "通过多轮迭代推理同时探索多个假设。",
+      "在提示栏选 Deep Think、模型选 Thinking，通常几分钟出结果。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

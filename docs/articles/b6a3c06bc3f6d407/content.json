@@ -1,0 +1,24 @@
+{
+  "id": "b6a3c06bc3f6d407",
+  "section": "news",
+  "category": "工具动态",
+  "title": "NVIDIA Unveils Multi-Agent Intelligent Warehouse and Catalog Enrichment AI Blueprints to Power the Retail Pipeline",
+  "summary": "英伟达发布面向零售流水线的两套AI蓝图：多智能体智能仓储与商品目录增强。",
+  "url": "https://blogs.nvidia.com/blog/multi-agent-intelligent-warehouse-and-catalog-enrichment-blueprints/",
+  "date": "2026-01-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-01-09T14:00:02+00:00",
+  "titleEn": "NVIDIA Unveils Multi-Agent Intelligent Warehouse and Catalog Enrichment AI Blueprints to Power the Retail Pipeline",
+  "titleZh": "英伟达发布多智能体智能仓储与商品目录增强AI蓝图，赋能零售流水线",
+  "details": {
+    "overview": "英伟达发布面向零售流水线的两套AI蓝图：多智能体智能仓储与商品目录增强。报道指出，零售后台团队面临系统老化、数据孤岛和客户期望上升等压力，需在发货截止期前完成工作并补齐缺失的商品信息。材料仅介绍蓝图名称与所针对的零售痛点，未披露具体功能、性能数据或可用范围，细节需以原始发布为准。",
+    "keyPoints": [
+      "发布多智能体智能仓储与商品目录增强两套AI蓝图，面向零售流水线。",
+      "报道指出零售后台存在系统老化、数据孤岛与客户期望上升等痛点。",
+      "材料未披露蓝图的具体功能、性能数据或推出范围。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "92c82b46f89fa5c8",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "GPT-Live-1.1 and new voices in ChatGPT",
+  "summary": "该发布称，GPT-Live-1.1及其小型版本GPT-Live-1.1 Quip正在ChatGPT Voice中推出，跨语言口音更自然，搜索时会使用更多短句提示。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-live-11-and-new-voices-in-chatgpt",
+  "date": "2026-10-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "GPT-Live-1.1 and new voices in ChatGPT",
+  "titleZh": "GPT-Live-1.1与ChatGPT新增语音",
+  "details": {
+    "overview": "该发布称，GPT-Live-1.1及其小型版本GPT-Live-1.1 Quip正在ChatGPT Voice中推出，跨语言口音更自然，搜索时会使用更多短句提示。新增Live语音覆盖法语、德语、印地语、日语、韩语和墨西哥西班牙语，另有一款英语语音Bubbie。官方提示，可见语音可能因地区和账户而异，用户可在设置中选择。",
+    "keyPoints": [
+      "GPT-Live-1.1与小型版GPT-Live-1.1 Quip在ChatGPT Voice中推出。",
+      "新增法语、德语、印地语、日语、韩语和墨西哥西班牙语语音，另有英语Bubbie。",
+      "官方称语音选项可能因地区和账户不同，可在设置中选择。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

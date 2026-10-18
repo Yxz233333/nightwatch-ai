@@ -1,0 +1,24 @@
+{
+  "id": "dc2af02cc2cd1c6d",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Transformers v5: Simple model definitions powering the AI ecosystem",
+  "summary": "原文仅提供标题“Transformers v5: Simple model definitions powering the AI ecosystem”，无摘要或正文内容。",
+  "url": "https://huggingface.co/blog/transformers-v5",
+  "date": "2025-12-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-12-01T00:00:00+00:00",
+  "titleEn": "Transformers v5: Simple model definitions powering the AI ecosystem",
+  "titleZh": "Transformers v5：驱动AI生态的简洁模型定义",
+  "details": {
+    "overview": "原文仅提供标题“Transformers v5: Simple model definitions powering the AI ecosystem”，无摘要或正文内容。无法确认v5的具体特性、发布时间、兼容性变化或性能改进。材料不足，仅能判断该条目涉及Transformers库的v5版本，强调简洁模型定义对AI生态的支撑作用。",
+    "keyPoints": [
+      "标题指向Transformers库v5版本。",
+      "强调简洁模型定义驱动AI生态。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

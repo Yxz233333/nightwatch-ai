@@ -1,0 +1,24 @@
+{
+  "id": "9223b22924b68dbb",
+  "section": "news",
+  "category": "工具动态",
+  "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
+  "summary": "该文提出，AI 安全应被当作工程问题来处理，即需要明确的安全需求、可执行的管控措施、明确的责任人，以及能证明防护有效的证据。",
+  "url": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
+  "date": "2026-09-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-09-21T14:51:34+00:00",
+  "titleEn": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
+  "titleZh": "AI 安全是工程问题——如何在智能体栈的每一层解决它",
+  "details": {
+    "overview": "该文提出，AI 安全应被当作工程问题来处理，即需要明确的安全需求、可执行的管控措施、明确的责任人，以及能证明防护有效的证据。文章认为，随着 AI 能力提升，行业应加快安全工程推进、扩大防御工具的获取范围，并更快共享有效做法。原文还指出，互联网与云计算改变了软件的运行方式，但安全基本原则依然延续。材料未展开具体技术方案与验证细节。",
+    "keyPoints": [
+      "主张 AI 安全需具备明确需求、可执行管控与责任人",
+      "强调以证据证明防护措施确实有效",
+      "呼吁加快安全工程并共享有效防御做法"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

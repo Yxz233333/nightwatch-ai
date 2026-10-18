@@ -1,0 +1,23 @@
+{
+  "id": "d46203a93f2f6762",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Interpretability",
+  "summary": "该官方发布介绍Anthropic可解释性团队的目标：发现并理解大语言模型的内部工作机制，作为AI安全的基础。",
+  "url": "https://www.anthropic.com/research/team/interpretability",
+  "date": "2026-07-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "titleEn": "Interpretability",
+  "titleZh": "可解释性",
+  "details": {
+    "overview": "该官方发布介绍Anthropic可解释性团队的目标：发现并理解大语言模型的内部工作机制，作为AI安全的基础。团队旨在详细解释模型行为，以解决偏见、滥用和自主有害行为等问题。成员背景多样，包括机器学习、天文、物理等。研究涉及Claude的内部思维空间、将思维翻译为文本、情感行为、助手角色及内省能力等。",
+    "keyPoints": [
+      "团队目标是理解大语言模型内部机制，以支持AI安全。",
+      "研究包括Claude的内部思维空间和将思维翻译为文本。",
+      "团队调查模型的情感行为、助手角色及内省能力。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

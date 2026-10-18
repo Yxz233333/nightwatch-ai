@@ -1,0 +1,25 @@
+{
+  "id": "e7bff8da315633aa",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Updating our Model Spec with teen protections",
+  "summary": "OpenAI 表示正在更新其 Model Spec，新增“18 岁以下原则”，规定 ChatGPT 应如何以安全、适龄的方式支持青少年，并称这些原则基于发展科学。",
+  "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
+  "date": "2025-12-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-18T11:00:00+00:00",
+  "titleEn": "Updating our Model Spec with teen protections",
+  "titleZh": "更新 Model Spec，加入青少年保护条款",
+  "details": {
+    "overview": "OpenAI 表示正在更新其 Model Spec，新增“18 岁以下原则”，规定 ChatGPT 应如何以安全、适龄的方式支持青少年，并称这些原则基于发展科学。此次更新强化防护措施，明确模型在更高风险情境下的预期行为，是其在 ChatGPT 上推进青少年安全整体工作的一部分。当前收录材料未提供具体条款文本或生效时间。",
+    "keyPoints": [
+      "Model Spec 新增“18 岁以下原则”",
+      "明确模型在更高风险情境下的预期行为",
+      "称原则基于发展科学，属青少年安全整体工作"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

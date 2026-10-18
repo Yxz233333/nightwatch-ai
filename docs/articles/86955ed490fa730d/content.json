@@ -1,0 +1,25 @@
+{
+  "id": "86955ed490fa730d",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Run a vLLM Server on HF Jobs in One Command",
+  "summary": "官方原始发布仅给出标题，未提供正文细节，因此无法确认具体命令、支持范围与限制。",
+  "url": "https://huggingface.co/blog/vllm-jobs",
+  "date": "2026-06-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-06-26T00:00:00+00:00",
+  "titleEn": "Run a vLLM Server on HF Jobs in One Command",
+  "titleZh": "在 HF Jobs 上用一条命令运行 vLLM 服务器",
+  "details": {
+    "overview": "官方原始发布仅给出标题，未提供正文细节，因此无法确认具体命令、支持范围与限制。可确定的是该内容介绍在 HF Jobs 上以单条命令启动 vLLM 服务器，属于工具使用层面的动态；实际用法与可用条件需以原文为准。",
+    "keyPoints": [
+      "主题是在 HF Jobs 上运行 vLLM 服务器。",
+      "标题强调只需一条命令即可启动。",
+      "原始发布未提供更多细节，范围以原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

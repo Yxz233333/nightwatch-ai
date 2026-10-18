@@ -1,0 +1,25 @@
+{
+  "id": "78d488cab458613a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+  "summary": "该案例介绍 ATV Big Air Tour 使用 ChatGPT Work 加速营销、商品销售等工作，并称其曾在 15 分钟内把商品照片转化为库存网站。",
+  "url": "https://openai.com/index/atv-big-air-tour",
+  "date": "2026-09-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-02T12:00:00+00:00",
+  "titleEn": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+  "titleZh": "ATV Big Air Tour 借助 ChatGPT 将 3 天工作缩短至 3 小时",
+  "details": {
+    "overview": "该案例介绍 ATV Big Air Tour 使用 ChatGPT Work 加速营销、商品销售等工作，并称其曾在 15 分钟内把商品照片转化为库存网站。原文摘要未说明具体使用方式、效果衡量标准或适用范围，相关数据来自发布方自述，需以原始内容为准。",
+    "keyPoints": [
+      "ATV Big Air Tour 用 ChatGPT Work 加速营销与商品工作。",
+      "发布方称商品照片在 15 分钟内生成库存网站。",
+      "案例称原本 3 天的工作缩短为 3 小时。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

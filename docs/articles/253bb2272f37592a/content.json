@@ -1,0 +1,24 @@
+{
+  "id": "253bb2272f37592a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic’s Responsible Scaling Policy: Version 3.0",
+  "summary": "Anthropic发布第三版负责任扩展政策（RSP），这是其用于缓解AI系统灾难性风险的自愿框架。",
+  "url": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
+  "date": "2026-02-24",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-02-24T14:59:00+00:00",
+  "titleEn": "Anthropic’s Responsible Scaling Policy: Version 3.0",
+  "titleZh": "Anthropic负责任扩展政策：3.0版",
+  "details": {
+    "overview": "Anthropic发布第三版负责任扩展政策（RSP），这是其用于缓解AI系统灾难性风险的自愿框架。文章回顾RSP实施两年多来的经验，指出部分理论变化按预期实现，但更高AI安全等级（ASL-4及以上）的保障措施难以单方面实施。新版RSP引入两项主要变化：发布前沿安全路线图，设定非约束但公开的目标；以及定期发布风险报告，并在特定情况下接受外部审查。作者声称这些调整旨在提高透明度和问责制。",
+    "keyPoints": [
+      "新版RSP承认更高ASL保障难以单方面实施，调整承诺结构",
+      "引入前沿安全路线图，设定非约束但公开可评的目标",
+      "要求每3至6个月发布风险报告，特定情况下接受外部审查"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

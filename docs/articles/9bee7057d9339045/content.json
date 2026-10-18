@@ -1,0 +1,23 @@
+{
+  "id": "9bee7057d9339045",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex can now help with more of your work 26.415",
+  "summary": "该更新称Codex正成为更广泛的工作空间，减少启动准备、便于验证产出、生成更丰富结果并维持长任务连续性。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2026-04-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "Codex can now help with more of your work 26.415",
+  "titleZh": "Codex现可协助处理更多工作 26.415",
+  "details": {
+    "overview": "该更新称Codex正成为更广泛的工作空间，减少启动准备、便于验证产出、生成更丰富结果并维持长任务连续性。新增早期应用内浏览器，可打开无需登录的本地或公开页面并直接在渲染页面上评论；计算机使用功能可让Codex通过看、点击和输入操作macOS应用，但发布时不在欧洲经济区、英国和瑞士提供。此外还加入无需先选项目文件夹的对话线程、定时唤醒的线程自动化、任务侧边栏、GitHub拉取请求审阅、产物预览与记忆等功能。",
+    "keyPoints": [
+      "应用内浏览器支持在渲染页面上直接评论并让Codex处理页面级反馈",
+      "计算机使用可操作macOS应用，发布时不在欧洲经济区、英国和瑞士提供",
+      "新增对话线程、线程自动化、任务侧边栏与GitHub拉取请求审阅流程"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

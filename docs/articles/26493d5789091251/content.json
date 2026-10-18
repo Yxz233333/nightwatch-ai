@@ -1,0 +1,25 @@
+{
+  "id": "26493d5789091251",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Ten years",
+  "summary": "OpenAI发布十周年回顾，梳理从早期研究突破到被广泛使用的AI系统的发展历程，并分享过去十年的经验教训。",
+  "url": "https://openai.com/index/ten-years",
+  "date": "2025-12-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-11T00:00:00+00:00",
+  "titleEn": "Ten years",
+  "titleZh": "十年",
+  "details": {
+    "overview": "OpenAI发布十周年回顾，梳理从早期研究突破到被广泛使用的AI系统的发展历程，并分享过去十年的经验教训。原文表示其仍对构建造福全人类的AGI保持乐观。材料为概括性回顾，未展开具体技术节点与数据，相关表述以官方原文为准。",
+    "keyPoints": [
+      "回顾OpenAI十年从早期研究到广泛应用的进展",
+      "分享过去十年的经验教训",
+      "重申对构建造福全人类AGI的乐观态度"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

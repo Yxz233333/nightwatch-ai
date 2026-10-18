@@ -1,0 +1,25 @@
+{
+  "id": "faee7607a971f002",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Datadog uses Codex for system-level code review",
+  "summary": "该条目仅有标题与一张OpenAI与Datadog的品牌配图，原始发布内容未提供正文。",
+  "url": "https://openai.com/index/datadog",
+  "date": "2026-01-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-09T00:00:00+00:00",
+  "titleEn": "Datadog uses Codex for system-level code review",
+  "titleZh": "Datadog使用Codex进行系统级代码审查",
+  "details": {
+    "overview": "该条目仅有标题与一张OpenAI与Datadog的品牌配图，原始发布内容未提供正文。标题表明Datadog使用Codex开展系统级代码审查，但材料不足以说明具体使用方式、覆盖范围或效果。以下要点仅依据标题提炼，细节需以原始发布为准。",
+    "keyPoints": [
+      "标题称Datadog使用Codex进行系统级代码审查。",
+      "原始发布内容仅为品牌配图，未提供具体使用细节。",
+      "审查范围、效果与限制在现有材料中均未说明。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "04804e7eba44a72a",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+  "summary": "该官方发布称，GPT-6 Astra帮助Hex的数据智能体把答案转化为交互式可视化，使员工愿意分享。",
+  "url": "https://openai.com/index/hex-gpt-6-astra",
+  "date": "2026-09-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-16T12:00:00+00:00",
+  "titleEn": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+  "titleZh": "Hex借助GPT‑6 Astra将复杂分析转化为可视化报告",
+  "details": {
+    "overview": "该官方发布称，GPT-6 Astra帮助Hex的数据智能体把答案转化为交互式可视化，使员工愿意分享。原文仅有一句概述，未说明具体功能实现、可用范围或效果评估方式，因此无法判断该能力在实际使用中的表现。",
+    "keyPoints": [
+      "GPT-6 Astra用于Hex的数据智能体",
+      "目标是把分析答案转化为交互式可视化",
+      "发布称员工愿意分享生成的可视化结果"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

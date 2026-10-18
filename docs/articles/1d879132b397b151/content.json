@@ -1,0 +1,25 @@
+{
+  "id": "1d879132b397b151",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+  "summary": "摘要表示，维珍航空正借助ChatGPT Work加速研究、产品规划与决策，帮助团队串联客户旅程中的各类信号。",
+  "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+  "date": "2026-08-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-10T00:00:00+00:00",
+  "titleEn": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+  "titleZh": "维珍航空用ChatGPT Work优化客户旅程",
+  "details": {
+    "overview": "摘要表示，维珍航空正借助ChatGPT Work加速研究、产品规划与决策，帮助团队串联客户旅程中的各类信号。原文未说明具体使用场景、部署规模、成效数据或评估方法，也未提及独立验证，因此只能确认其对外表述的应用方向，具体效果与限制需以官方原始发布为准。",
+    "keyPoints": [
+      "维珍航空使用ChatGPT Work加速研究、产品规划与决策。",
+      "目标是帮助团队连接客户旅程中的信号。",
+      "当前收录材料未提供部署规模与成效数据。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "7c54a89eb30e44dd",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+  "summary": "该发布称，Proaction 结合 Codex、GPT-Live-1 与 GPT-6 Astra，更快地构建、运营和销售现代车队管理产品，并实现销售额提升 60%、节省 75 小时以上。",
+  "url": "https://openai.com/index/proaction",
+  "date": "2026-09-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-25T19:00:00+00:00",
+  "titleEn": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+  "titleZh": "Proaction 借助 Codex 提升销售额 60% 并节省 75 小时以上",
+  "details": {
+    "overview": "该发布称，Proaction 结合 Codex、GPT-Live-1 与 GPT-6 Astra，更快地构建、运营和销售现代车队管理产品，并实现销售额提升 60%、节省 75 小时以上。材料仅给出上述结果性表述，未说明统计口径、时间范围或验证方式，相关数字应视为官方说法，具体推出范围与限制以原文为准。",
+    "keyPoints": [
+      "Proaction 结合 Codex、GPT-Live-1 与 GPT-6 Astra 用于车队管理业务",
+      "官方称销售额提升 60%，并节省 75 小时以上",
+      "未披露统计口径、时间范围与验证方式"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "54aeeea785de6edb",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "New tone and personalization controls",
+  "summary": "OpenAI更新ChatGPT的语气控制，让用户更容易调整回复风格。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-tone-and-personalization-controls",
+  "date": "2025-11-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "New tone and personalization controls",
+  "titleZh": "新的语气与个性化控制",
+  "details": {
+    "overview": "OpenAI更新ChatGPT的语气控制，让用户更容易调整回复风格。用户可从Default、Friendly、Efficient、Professional、Candid、Quirky等预设中选择，Cynical和Nerdy仍可用。官方还在试验更细粒度的控制，包括回复的简洁度、温暖度、可扫读性以及表情符号出现频率。个性化设置现在立即应用于所有聊天（包括现有对话），GPT-5.1模型更可靠地遵循自定义指令和风格偏好。",
+    "keyPoints": [
+      "新增Default、Friendly、Efficient、Professional、Candid、Quirky等语气预设",
+      "试验对简洁度、温暖度、可扫读性和表情符号频率的细粒度控制",
+      "个性化更改立即应用于所有聊天，GPT-5.1更可靠遵循自定义指令"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

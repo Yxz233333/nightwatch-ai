@@ -1,0 +1,23 @@
+{
+  "id": "389e3e6350a7486d",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Fast answers in ChatGPT",
+  "summary": "OpenAI 在 ChatGPT 中推出 Fast answers 功能，针对无需个性化、且系统已有高置信度答案的常见信息查询，提供更快的回复，同时保留较完整的答案内容。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#fast-answers-in-chatgpt",
+  "date": "2026-04-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Fast answers in ChatGPT",
+  "titleZh": "ChatGPT 推出 Fast answers 快速回答",
+  "details": {
+    "overview": "OpenAI 在 ChatGPT 中推出 Fast answers 功能，针对无需个性化、且系统已有高置信度答案的常见信息查询，提供更快的回复，同时保留较完整的答案内容。该功能不引用历史对话或记忆，在网页、iOS 与 Android 上面向各套餐的登录及未登录用户全球可用，用户可在个性化设置中随时关闭。官方称后续将扩展到更多问题类型。",
+    "keyPoints": [
+      "面向无需个性化的常见信息查询，系统有高置信度答案时加速回复",
+      "不引用过往对话与记忆，可在个性化设置中随时关闭",
+      "网页、iOS、Android 全球可用，覆盖各套餐登录与未登录用户"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

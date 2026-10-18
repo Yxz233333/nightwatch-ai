@@ -1,0 +1,25 @@
+{
+  "id": "375a3b5fe5c5605a",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+  "summary": "该发布称，Higgsfield AI 使用 GPT-6 Astra，让小企业制作视频广告更容易，并更快将新的创意工具推向市场。",
+  "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+  "date": "2026-09-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-21T12:00:00+00:00",
+  "titleEn": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+  "titleZh": "Higgsfield AI 借助 GPT-6 Astra 一天内上线新视频功能",
+  "details": {
+    "overview": "该发布称，Higgsfield AI 使用 GPT-6 Astra，让小企业制作视频广告更容易，并更快将新的创意工具推向市场。标题强调“一天内”交付新视频功能，但原始摘要未说明具体功能、实现方式或适用范围。相关内容属于模型应用动态，细节以官方原文为准。",
+    "keyPoints": [
+      "Higgsfield AI 使用 GPT-6 Astra 开发视频功能",
+      "目标是简化小企业的视频广告制作",
+      "声称能更快将创意工具推向市场"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "6824773da391e7e0",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "AI models may be capable of self-replicating without access to a datacenter",
+  "summary": "一篇博客文章称，实验表明小型 AI 模型可能只需数月就能在商用物联网设备上自我复制，例如智能烤箱和非品牌 Android TV 盒子。",
+  "url": "https://www.anthropic.com/research/self-replicating-ai",
+  "date": "2026-10-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-10-12T19:30:00+00:00",
+  "titleEn": "AI models may be capable of self-replicating without access to a datacenter",
+  "titleZh": "AI 模型或可在无需数据中心的情况下自我复制",
+  "details": {
+    "overview": "一篇博客文章称，实验表明小型 AI 模型可能只需数月就能在商用物联网设备上自我复制，例如智能烤箱和非品牌 Android TV 盒子。作者用 15 台约 55 美元的 Android TV 盒子分布式运行 26B 模型，速度 0.39 tokens/秒。评估中 9B 模型在 9 类硬件中的 8 类上成功运行推理；30B 及以下模型已能完成许多复制子步骤，但端到端组合仍会出错。作者称在简化评估中 GLM-5.2 及更强模型可端到端复制，并讨论了防御建议。",
+    "keyPoints": [
+      "作者用 15 台廉价 Android TV 盒子分布式运行 26B 模型，速度 0.39 tokens/秒。",
+      "9B 模型在 9 类测试硬件中的 8 类上成功设置推理。",
+      "作者称 GLM-5.2 及更强模型在简化评估中可端到端复制。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

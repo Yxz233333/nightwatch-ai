@@ -1,0 +1,25 @@
+{
+  "id": "400176086fe20cd4",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.100.0 发布",
+  "summary": "Codex CLI 发布 0.100.0 版本，新增实验性、受功能开关控制的 JavaScript REPL 运行时（js_repl），可跨工具调用保持状态；支持多个同时生效的速率限制；重新引入 app-server websocket 传输并采用入站/出站分离架构。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.100.0",
+  "date": "2026-02-13",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-02-12T18:29:57+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.100.0 发布",
+  "titleZh": "Codex CLI 0.100.0 发布",
+  "details": {
+    "overview": "Codex CLI 发布 0.100.0 版本，新增实验性、受功能开关控制的 JavaScript REPL 运行时（js_repl），可跨工具调用保持状态；支持多个同时生效的速率限制；重新引入 app-server websocket 传输并采用入站/出站分离架构。TUI 新增记忆管理斜杠命令，Linux 和 Windows 沙箱能力得到提升，并引入可配置读访问的 ReadOnlyAccess 策略。此外修复了 websocket 输出重复、会话稳定性和 Windows 多行粘贴等问题。",
+    "keyPoints": [
+      "新增实验性、功能门控的 JavaScript REPL 运行时，可跨工具调用保持状态。",
+      "支持多个同时生效的速率限制，并重新引入分离式 app-server websocket 传输。",
+      "提升 Linux 和 Windows 沙箱能力，引入可配置读访问的 ReadOnlyAccess 策略。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

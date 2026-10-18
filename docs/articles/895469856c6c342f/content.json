@@ -1,0 +1,25 @@
+{
+  "id": "895469856c6c342f",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+  "summary": "现有材料仅有标题和一句摘要，表明官方邀请开发者开始使用 Nano Banana 2 Lite 与 Gemini Omni Flash 进行构建。",
+  "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+  "date": "2026-07-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-06-30T16:02:40+00:00",
+  "titleEn": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+  "titleZh": "开始使用 Nano Banana 2 Lite 与 Gemini Omni Flash 构建应用",
+  "details": {
+    "overview": "现有材料仅有标题和一句摘要，表明官方邀请开发者开始使用 Nano Banana 2 Lite 与 Gemini Omni Flash 进行构建。原始发布内容为空，未提供模型能力、接口方式、定价、可用范围或上线时间等信息。因此无法在不引入外部事实的前提下介绍这两款模型的具体情况，本条仅能确认官方发布了面向开发者的使用入口信息。",
+    "keyPoints": [
+      "官方发布 Nano Banana 2 Lite 与 Gemini Omni Flash 的开发者使用信息。",
+      "材料未披露模型能力、接口或定价等细节。",
+      "标题表明其面向应用构建场景。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

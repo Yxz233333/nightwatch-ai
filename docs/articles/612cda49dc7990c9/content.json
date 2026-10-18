@@ -1,0 +1,25 @@
+{
+  "id": "612cda49dc7990c9",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Our approach to EU text provenance rules",
+  "summary": "该文介绍OpenAI在欧盟规则下对文本水印的处理思路。",
+  "url": "https://openai.com/index/eu-text-provenance",
+  "date": "2026-10-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-10-05T15:00:00+00:00",
+  "titleEn": "Our approach to EU text provenance rules",
+  "titleZh": "我们对欧盟文本来源规则的处理方式",
+  "details": {
+    "overview": "该文介绍OpenAI在欧盟规则下对文本水印的处理思路。原文摘要称将说明水印适用于哪些场景、检测如何运作，以及为何访问先从研究人员开始。材料未给出水印的具体技术细节、准确率或适用范围，相关限制需以官方原文为准。",
+    "keyPoints": [
+      "说明在欧盟规则下文本水印的适用场景",
+      "介绍水印检测的运作方式",
+      "访问权限先从研究人员开始"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

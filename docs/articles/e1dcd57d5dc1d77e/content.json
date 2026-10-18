@@ -1,0 +1,23 @@
+{
+  "id": "e1dcd57d5dc1d77e",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT updates: Better file uploads, easier copying, and more reliable long chats",
+  "summary": "ChatGPT 发布多项更新：网页端单条消息最多可上传 20 个文件（此前为 10 个），并扩展支持更多文本和代码文件格式；Cmd+A 现在仅选择对话内容，排除界面元素，便于复制分享。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-updates-better-file-uploads-easier-copying-and-more-reliable-long-chats",
+  "date": "2026-02-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "ChatGPT updates: Better file uploads, easier copying, and more reliable long chats",
+  "titleZh": "ChatGPT 更新：更好的文件上传、更便捷的复制和更可靠的长时间对话",
+  "details": {
+    "overview": "ChatGPT 发布多项更新：网页端单条消息最多可上传 20 个文件（此前为 10 个），并扩展支持更多文本和代码文件格式；Cmd+A 现在仅选择对话内容，排除界面元素，便于复制分享。Android 端在消息编辑器新增快捷工具菜单并简化编辑器；iOS 端进行多项性能优化。Web、iOS 和 Android 端通过基础设施改进降低了长时间“Thinking”对话的中断率。",
+    "keyPoints": [
+      "网页端单条消息文件上传上限从 10 个提升至 20 个，并扩展文本和代码文件格式支持。",
+      "Cmd+A 仅选择对话内容，排除周围界面元素，便于复制和分享聊天记录。",
+      "通过基础设施改进降低长时间“Thinking”对话的中断率。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "97b9e3823acce085",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT Images 2.5: new ways to create and edit",
+  "summary": "该官方功能更新说明 ChatGPT Images 2.5 带来更清晰的细节、更精确的编辑和更快的图像生成，并新增多种创建与分享方式：可从模板开始并自定义细节，ChatGPT 可能追问以细化需求；移动端可在输入框输入 @ 选择 Sketch，先画草图再描述想要的图像；移动端可全屏打开生成图像进行编辑或添加评论；还可分享生成图像的提示词供他人创建自己的版本。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-25-new-ways-to-create-and-edit",
+  "date": "2026-09-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "ChatGPT Images 2.5: new ways to create and edit",
+  "titleZh": "ChatGPT Images 2.5：全新的创建与编辑方式",
+  "details": {
+    "overview": "该官方功能更新说明 ChatGPT Images 2.5 带来更清晰的细节、更精确的编辑和更快的图像生成，并新增多种创建与分享方式：可从模板开始并自定义细节，ChatGPT 可能追问以细化需求；移动端可在输入框输入 @ 选择 Sketch，先画草图再描述想要的图像；移动端可全屏打开生成图像进行编辑或添加评论；还可分享生成图像的提示词供他人创建自己的版本。原文注明模板暂不支持 Work 模式，Snake 游戏不在 Work 模式提供，加载体验因平台和推送而异，现有图像生成限制不变。",
+    "keyPoints": [
+      "新增模板入口，可从模板开始并自定义细节",
+      "移动端支持草图转图像，以及全屏编辑和评论",
+      "可分享提示词供他人复用；模板与 Snake 暂不支持 Work 模式"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

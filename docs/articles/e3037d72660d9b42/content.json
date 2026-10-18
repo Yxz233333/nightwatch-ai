@@ -1,0 +1,25 @@
+{
+  "id": "e3037d72660d9b42",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+  "summary": "该文介绍研究者César de la Fuente的实验室如何借助Codex与ChatGPT，在现存与已灭绝生物的基因组中搜寻抗菌分子候选物，以应对耐药性感染。",
+  "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+  "date": "2026-09-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-10T16:00:00+00:00",
+  "titleEn": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+  "titleZh": "一位研究者如何用Codex和ChatGPT寻找新型抗菌分子",
+  "details": {
+    "overview": "该文介绍研究者César de la Fuente的实验室如何借助Codex与ChatGPT，在现存与已灭绝生物的基因组中搜寻抗菌分子候选物，以应对耐药性感染。摘要仅说明其用途方向，未披露具体发现、实验验证结果或模型版本，相关结论应以官方原始发布为准。",
+    "keyPoints": [
+      "César de la Fuente实验室使用Codex与ChatGPT开展研究。",
+      "搜索对象包括现存与已灭绝生物的基因组。",
+      "目标是寻找可用于对抗耐药性感染的抗菌候选分子。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

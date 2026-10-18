@@ -1,0 +1,24 @@
+{
+  "id": "f343c90c5d93e832",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Gemini achieves gold-medal level at the International Collegiate Programming Contest World Finals",
+  "summary": "该消息称，Gemini 2.5 Deep Think在全球知名的大学生程序设计竞赛世界总决赛中取得突破性表现，被描述为抽象问题求解能力的一次显著跃升。",
+  "url": "https://deepmind.google/blog/gemini-achieves-gold-medal-level-at-the-international-collegiate-programming-contest-world-finals/",
+  "date": "2025-09-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2025-09-17T00:00:00+00:00",
+  "titleEn": "Gemini achieves gold-medal level at the International Collegiate Programming Contest World Finals",
+  "titleZh": "Gemini在国际大学生程序设计竞赛世界总决赛中达到金牌水平",
+  "details": {
+    "overview": "该消息称，Gemini 2.5 Deep Think在全球知名的大学生程序设计竞赛世界总决赛中取得突破性表现，被描述为抽象问题求解能力的一次显著跃升。材料未提供具体赛制、题量、成绩或验证细节，推出范围与限制需以官方原文为准。",
+    "keyPoints": [
+      "Gemini 2.5 Deep Think在国际大学生程序设计竞赛世界总决赛取得突破表现",
+      "官方称其体现抽象问题求解能力的显著跃升",
+      "具体成绩与适用范围未在材料中说明"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

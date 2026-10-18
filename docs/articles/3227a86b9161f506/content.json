@@ -1,0 +1,25 @@
+{
+  "id": "3227a86b9161f506",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+  "summary": "摘要表示，这是 Gemini 最专门化的推理模式的一次更新，目标是应对现代科学、研究与工程领域的挑战。",
+  "url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+  "date": "2026-02-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-02-12T16:15:09+00:00",
+  "titleEn": "Gemini 3 Deep Think: Advancing science, research and engineering",
+  "titleZh": "Gemini 3 Deep Think：推进科学、研究与工程",
+  "details": {
+    "overview": "摘要表示，这是 Gemini 最专门化的推理模式的一次更新，目标是应对现代科学、研究与工程领域的挑战。原文未说明具体基准、能力提升幅度或可用范围，因此无法判断实际效果。该更新属于模型动态，其意义在于将深度推理能力面向科研与工程场景，但相关结论仍需以官方完整说明为准。",
+    "keyPoints": [
+      "Gemini 3 Deep Think 是专门化推理模式的更新",
+      "摘要称其面向科学、研究与工程挑战",
+      "具体能力与推出范围原文未详述"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

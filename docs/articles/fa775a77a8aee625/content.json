@@ -1,0 +1,25 @@
+{
+  "id": "fa775a77a8aee625",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Operation “False Witness”: Fake recovery service impersonating authorities",
+  "summary": "OpenAI 披露代号“假证人”的行动，称已封禁很可能源自柬埔寨的账号，这些账号利用 AI 冒充追回服务、律师事务所和官方机构，针对曾受欺诈影响的人群。",
+  "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-false-witness",
+  "date": "2026-02-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-01T00:00:00+00:00",
+  "titleEn": "Operation “False Witness”: Fake recovery service impersonating authorities",
+  "titleZh": "“假证人”行动：冒充官方的虚假追回服务",
+  "details": {
+    "overview": "OpenAI 披露代号“假证人”的行动，称已封禁很可能源自柬埔寨的账号，这些账号利用 AI 冒充追回服务、律师事务所和官方机构，针对曾受欺诈影响的人群。原文未说明受影响人数、具体手法细节或执法进展，相关信息需以官方原始发布为准。",
+    "keyPoints": [
+      "OpenAI 封禁很可能源自柬埔寨的相关账号",
+      "涉事账号用 AI 冒充追回服务、律所与官方机构",
+      "目标人群为曾受欺诈影响的用户"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

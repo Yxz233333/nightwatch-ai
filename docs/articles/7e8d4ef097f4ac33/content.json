@@ -1,0 +1,24 @@
+{
+  "id": "7e8d4ef097f4ac33",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Albertsons Companies is reimagining retail from the inside out",
+  "summary": "该新闻介绍 Albertsons Companies 正在使用 ChatGPT Enterprise 和 OpenAI API，帮助团队更快工作，并让数百万顾客的购物体验更便捷。",
+  "url": "https://openai.com/index/albertsons-reimagining-retail",
+  "date": "2026-10-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-10-01T16:00:00+00:00",
+  "titleEn": "How Albertsons Companies is reimagining retail from the inside out",
+  "titleZh": "Albertsons Companies 如何从内到外重塑零售业",
+  "details": {
+    "overview": "该新闻介绍 Albertsons Companies 正在使用 ChatGPT Enterprise 和 OpenAI API，帮助团队更快工作，并让数百万顾客的购物体验更便捷。当前收录材料仅给出这一概括性描述，未披露具体应用场景、部署规模或效果数据。",
+    "keyPoints": [
+      "Albertsons 使用 ChatGPT Enterprise 和 OpenAI API。",
+      "目标是帮助团队更快工作并简化顾客购物。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

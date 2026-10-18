@@ -1,0 +1,25 @@
+{
+  "id": "b304b41f3ba963a1",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Build with Nano Banana Pro, our Gemini 3 Pro Image model",
+  "summary": "该模型动态条目指向 Nano Banana Pro，并将其描述为 Gemini 3 Pro 图像模型，面向开发者提供构建能力。",
+  "url": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/",
+  "date": "2025-11-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2025-11-20T15:11:14+00:00",
+  "titleEn": "Build with Nano Banana Pro, our Gemini 3 Pro Image model",
+  "titleZh": "使用 Nano Banana Pro（我们的 Gemini 3 Pro 图像模型）进行构建",
+  "details": {
+    "overview": "该模型动态条目指向 Nano Banana Pro，并将其描述为 Gemini 3 Pro 图像模型，面向开发者提供构建能力。原文未说明具体接口、能力边界、可用范围或定价信息。对关注图像生成模型的开发者而言，这属于新模型接入信息，实际能力与限制需以官方原始发布为准。",
+    "keyPoints": [
+      "Nano Banana Pro 被描述为 Gemini 3 Pro 图像模型",
+      "条目面向开发者构建场景",
+      "当前收录材料未提供接口、范围与定价细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

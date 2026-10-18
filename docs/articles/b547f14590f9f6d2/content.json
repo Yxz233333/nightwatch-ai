@@ -1,0 +1,23 @@
+{
+  "id": "b547f14590f9f6d2",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex app 26.803",
+  "summary": "Codex 应用 26.803 为性能改进与缺陷修复更新。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2026-08-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "Codex app 26.803",
+  "titleZh": "Codex 应用 26.803",
+  "details": {
+    "overview": "Codex 应用 26.803 为性能改进与缺陷修复更新。官方说明包括：修复在查找框中输入可能误改当前打开代码文件的问题；将聊天移至工作树时保留所选模型与思考级别；使 @ 提及搜索不区分大小写。原文未涉及新功能或范围变化，具体表现以官方原文为准。",
+    "keyPoints": [
+      "修复查找输入误改打开代码文件的问题",
+      "移动聊天至工作树时保留模型与思考级别",
+      "@ 提及搜索改为不区分大小写"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

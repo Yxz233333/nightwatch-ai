@@ -1,0 +1,24 @@
+{
+  "id": "567a013aeac83f42",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Solve modern science, research and engineering challenges with Gemini 3 Deep Think",
+  "summary": "Google发布Gemini 3 Deep Think重大升级，称这是其专用推理模式，旨在推动智能前沿并解决科学、研究和工程领域的现代挑战。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2026-02-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|Solve modern science, research and engineering challenges with Gemini 3 Deep Think|2026-02-12",
+  "titleEn": "Solve modern science, research and engineering challenges with Gemini 3 Deep Think",
+  "titleZh": "用Gemini 3 Deep Think解决现代科学、研究与工程挑战",
+  "details": {
+    "overview": "Google发布Gemini 3 Deep Think重大升级，称这是其专用推理模式，旨在推动智能前沿并解决科学、研究和工程领域的现代挑战。该版本将深层科学知识与日常工程实用性结合，从抽象理论走向实际应用。更新面向Google AI Ultra订阅用户在Gemini App中提供，用户可在提示栏选择“Deep Think”，提交任务后通常几分钟内获得响应。当前收录材料未提供具体基准测试或独立验证结果。",
+    "keyPoints": [
+      "Gemini 3 Deep Think获重大升级，定位为专用推理模式。",
+      "该版本强调结合科学知识与工程实用性，推动实际应用。",
+      "面向Google AI Ultra订阅用户在Gemini App中提供，响应通常需几分钟。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

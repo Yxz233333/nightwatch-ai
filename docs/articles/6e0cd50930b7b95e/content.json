@@ -1,0 +1,25 @@
+{
+  "id": "6e0cd50930b7b95e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing OpenAI for Australia",
+  "summary": "该发布宣布OpenAI推出OpenAI for Australia，称其目标是建设主权AI基础设施、提升超过150万名劳动者的技能，并加速澳大利亚不断增长的AI生态创新。",
+  "url": "https://openai.com/global-affairs/openai-for-australia",
+  "date": "2025-12-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-04T19:00:00+00:00",
+  "titleEn": "Introducing OpenAI for Australia",
+  "titleZh": "推出OpenAI for Australia",
+  "details": {
+    "overview": "该发布宣布OpenAI推出OpenAI for Australia，称其目标是建设主权AI基础设施、提升超过150万名劳动者的技能，并加速澳大利亚不断增长的AI生态创新。摘要未说明投资金额、时间表、合作机构或技能培训的具体形式，相关推出范围和限制需以原始发布为准。",
+    "keyPoints": [
+      "OpenAI宣布推出面向澳大利亚的OpenAI for Australia",
+      "目标包括建设主权AI基础设施",
+      "计划提升超过150万名劳动者的技能"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

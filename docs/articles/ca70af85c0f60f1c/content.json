@@ -1,0 +1,24 @@
+{
+  "id": "ca70af85c0f60f1c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "An update on independent evaluators",
+  "summary": "Anthropic 宣布向非营利评估机构 METR 的团队提供接近员工级别的访问权限，以评估其前沿 AI 模型的风险，METR 将公开发布风险评估结果。",
+  "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+  "date": "2026-10-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-10-15T17:20:00+00:00",
+  "titleEn": "An update on independent evaluators",
+  "titleZh": "Anthropic 更新独立评估者合作机制",
+  "details": {
+    "overview": "Anthropic 宣布向非营利评估机构 METR 的团队提供接近员工级别的访问权限，以评估其前沿 AI 模型的风险，METR 将公开发布风险评估结果。Anthropic 表示不能否决发布，但可要求隐去客户数据、律师特权信息或模型架构等预定义类别的信息。公司还介绍了与 SecureBio、Accenture 等机构的合作，并规划三级评估者访问权限。此举旨在缩小外部评估者与公司内部对系统理解之间的差距，推动 AI 安全监督。",
+    "keyPoints": [
+      "METR 六名员工获得接近内部风险团队的硬件、办公空间和系统访问权限。",
+      "METR 可公开发布风险评估，Anthropic 不能否决但可要求隐去特定类别信息。",
+      "Anthropic 规划三级评估者访问权限，并正与 SecureBio、Accenture 等合作。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

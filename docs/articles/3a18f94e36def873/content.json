@@ -13,7 +13,7 @@
   "titleEn": "Sharp logarithmic exponents for fixed off-diagonal Ramsey numbers",
   "titleZh": "固定非对角Ramsey数的精确对数指数",
   "details": {
-    "overview": "稿件研究非对角Ramsey数r(s,t)在s固定、t趋于无穷时的渐近阶。作者声称：对每个固定整数s≥6，确定了精确的对数指数，即r(s,t)=t^{s-1}/(log t)^{s-2+o(1)}。该结果刻画了分母中对数因子的幂次，属于极值组合中的经典渐近问题；摘要未给出证明细节，且稿件尚未经独立审查或同行评议。",
+    "overview": "稿件研究非对角Ramsey数r(s,t)在s固定、t趋于无穷时的渐近阶。作者声称：对每个固定整数s≥6，确定了精确的对数指数，即r(s,t)=t^{s-1}/(log t)^{s-2+o(1)}。该结果刻画了分母中对数因子的幂次，属于极值组合中的经典渐近问题；当前收录摘要未给出证明细节，且稿件尚未经独立审查或同行评议。",
     "keyPoints": [
       "研究对象为固定s≥6、t趋于无穷时的非对角Ramsey数r(s,t)",
       "作者声称确定精确对数指数：r(s,t)=t^{s-1}/(log t)^{s-2+o(1)}",

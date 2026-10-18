@@ -1,0 +1,24 @@
+{
+  "id": "b14ca7e068cd9172",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "A New Framework for Evaluating Voice Agents (EVA)",
+  "summary": "提供的材料中仅有标题“A New Framework for Evaluating Voice Agents (EVA)”，摘要和sourceText均为空，无法获取该框架的具体研究对象、作者声称的结果或研究意义。",
+  "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
+  "date": "2026-03-24",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-03-24T02:01:52+00:00",
+  "titleEn": "A New Framework for Evaluating Voice Agents (EVA)",
+  "titleZh": "评估语音智能体的新框架（EVA）",
+  "details": {
+    "overview": "提供的材料中仅有标题“A New Framework for Evaluating Voice Agents (EVA)”，摘要和sourceText均为空，无法获取该框架的具体研究对象、作者声称的结果或研究意义。因此，本条目仅能确认其主题为评估语音智能体的新框架，其余信息不足，需以官方原始发布内容为准。",
+    "keyPoints": [
+      "标题表明该内容为评估语音智能体的新框架（EVA）。",
+      "提供的摘要和原文为空，无法提炼具体技术细节或结论。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "095c70a8b0f0802f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
+  "summary": "原文称，埃及的 AI 建设者在大埃及博物馆举行招待会，展示该国快速成长的 AI 生态，涵盖 AI 原生企业、开发者、研究人员、初创公司和跨行业应用企业。",
+  "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
+  "date": "2026-09-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-09-21T16:00:10+00:00",
+  "titleEn": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
+  "titleZh": "从赋能到执行：埃及 AI 生态迈向生产规模",
+  "details": {
+    "overview": "原文称，埃及的 AI 建设者在大埃及博物馆举行招待会，展示该国快速成长的 AI 生态，涵盖 AI 原生企业、开发者、研究人员、初创公司和跨行业应用企业。活动包括 NVIDIA 欧洲、中东和非洲区副总裁 Paolo Guglielmini 的主题演讲，以及区域 AI 采用负责人 Ahmed Mostafa 的发言。原文在此截断，未给出具体项目成果或规模数据。",
+    "keyPoints": [
+      "活动在大埃及博物馆聚集埃及 AI 建设者",
+      "生态覆盖 AI 原生企业、开发者、研究人员、初创与企业",
+      "NVIDIA 高管 Paolo Guglielmini 发表主题演讲"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

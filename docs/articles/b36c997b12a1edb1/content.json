@@ -1,0 +1,24 @@
+{
+  "id": "b36c997b12a1edb1",
+  "section": "news",
+  "category": "模型动态",
+  "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+  "summary": "该条目为官方发布记录，介绍 GPT-5.3 Instant 在 ChatGPT 日常对话体验上的改进方向，强调更流畅、更有用的交互。",
+  "url": "https://openai.com/index/gpt-5-3-instant",
+  "date": "2026-03-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-03T10:00:00+00:00",
+  "titleEn": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+  "titleZh": "GPT-5.3 Instant：更流畅、更有用的日常对话",
+  "details": {
+    "overview": "该条目为官方发布记录，介绍 GPT-5.3 Instant 在 ChatGPT 日常对话体验上的改进方向，强调更流畅、更有用的交互。原始材料仅有标题与一句话摘要，未提供具体能力指标、推出范围或限制，因此无法展开技术细节，相关说明以官方原文为准。",
+    "keyPoints": [
+      "官方发布记录称该版本聚焦更流畅、更有用的日常对话体验。",
+      "原始材料未给出具体性能数据与推出范围，需以原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

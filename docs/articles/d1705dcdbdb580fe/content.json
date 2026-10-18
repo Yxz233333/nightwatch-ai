@@ -1,0 +1,25 @@
+{
+  "id": "d1705dcdbdb580fe",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
+  "summary": "标题显示推出Modular Diffusers，定位为扩散流水线的可组合构建模块。",
+  "url": "https://huggingface.co/blog/modular-diffusers",
+  "date": "2026-03-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-03-05T00:00:00+00:00",
+  "titleEn": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
+  "titleZh": "推出Modular Diffusers——扩散流水线的可组合构建模块",
+  "details": {
+    "overview": "标题显示推出Modular Diffusers，定位为扩散流水线的可组合构建模块。但输入未提供摘要或原始发布内容，无法说明具体功能、适用场景或研究意义，信息不足。",
+    "keyPoints": [
+      "标题表明产品为Modular Diffusers。",
+      "定位为扩散流水线的可组合构建模块。",
+      "缺乏摘要与原文，具体功能与范围无法确认。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

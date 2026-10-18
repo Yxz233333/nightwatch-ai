@@ -1,0 +1,24 @@
+{
+  "id": "216a6df7c682eb3d",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+  "summary": "现有材料仅包含标题，未提供摘要或原始发布正文，无法确认具体研究对象、作者声称的结果或技术细节。",
+  "url": "https://huggingface.co/blog/nunchaku-diffusers",
+  "date": "2026-07-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-07-23T00:00:00+00:00",
+  "titleEn": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+  "titleZh": "将 Nunchaku 4-bit 扩散推理引入 Diffusers",
+  "details": {
+    "overview": "现有材料仅包含标题，未提供摘要或原始发布正文，无法确认具体研究对象、作者声称的结果或技术细节。标题表明该内容涉及把 Nunchaku 的 4-bit 扩散推理能力引入 Diffusers 库，可能属于工具集成方向，但材料不足，无法进一步展开。",
+    "keyPoints": [
+      "标题指向将 Nunchaku 4-bit 扩散推理引入 Diffusers。",
+      "现有材料缺少摘要与正文，无法确认具体实现与结果。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

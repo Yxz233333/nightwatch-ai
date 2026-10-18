@@ -1,0 +1,23 @@
+{
+  "id": "1b69db1f6a8dcaf2",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex Cloud",
+  "summary": "Codex Cloud 是 Codex 的云端功能更新，允许用户从桌面、网页或移动端发起并继续编码任务。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-cloud",
+  "date": "2026-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Codex Cloud",
+  "titleZh": "Codex Cloud",
+  "details": {
+    "overview": "Codex Cloud 是 Codex 的云端功能更新，允许用户从桌面、网页或移动端发起并继续编码任务。它使用可复用的环境，其中包含项目的代码仓库、工具和依赖；每个任务拥有独立的隔离工作区，且任务可在用户电脑休眠时继续运行。在托管工作区中，适用该工作区的 Codex 云端访问设置。原文未说明具体可用范围与限制，需以官方发布记录为准。",
+    "keyPoints": [
+      "支持从桌面、网页或移动端发起并继续编码任务。",
+      "每个任务使用独立隔离工作区，电脑休眠时任务仍可继续。",
+      "环境可复用，包含项目仓库、工具与依赖，托管工作区受云端访问设置约束。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

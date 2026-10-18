@@ -1,0 +1,23 @@
+{
+  "id": "78ab1ba5ab2da8d8",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Memory sources and more personalized responses in ChatGPT",
+  "summary": "OpenAI 宣布向 ChatGPT Plus 和 Pro 用户推出记忆改进，使回复更个性化、有用且随时间连续。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-sources-and-more-personalized-responses-in-chatgpt",
+  "date": "2026-05-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Memory sources and more personalized responses in ChatGPT",
+  "titleZh": "ChatGPT 记忆来源与更个性化回复",
+  "details": {
+    "overview": "OpenAI 宣布向 ChatGPT Plus 和 Pro 用户推出记忆改进，使回复更个性化、有用且随时间连续。ChatGPT 能更好地从过往聊天、保存的记忆以及可用文件和已连接的 Gmail 应用中提取相关上下文，提供更贴合的创意、建议和后续步骤。搜索过往对话以找到正确上下文的速度也更快，减少重复输入。同时，所有 ChatGPT 消费者计划引入记忆来源功能，用户可查看哪些信息帮助了个性化回复，并进行编辑。",
+    "keyPoints": [
+      "记忆改进面向 Plus 和 Pro 用户，可整合过往聊天、保存记忆、文件及 Gmail 上下文。",
+      "搜索过往对话更快，减少用户重复说明背景的需要。",
+      "所有消费者计划可查看记忆来源，并纠正、删除或标记不相关信息。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

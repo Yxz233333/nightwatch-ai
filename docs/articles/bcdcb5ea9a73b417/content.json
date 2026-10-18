@@ -1,0 +1,24 @@
+{
+  "id": "bcdcb5ea9a73b417",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Launches Omniverse DSX Blueprint, Enabling Global AI Infrastructure Ecosystem to Build Gigawatt-Scale AI Factories",
+  "summary": "在GTC华盛顿特区主题演讲中，NVIDIA创始人兼CEO黄仁勋发布Omniverse DSX，一套用于设计和运营吉瓦级AI工厂的综合性开放蓝图，并在弗吉尼亚州马纳萨斯Digital Realty站点新建的AI工厂研究中心完成验证。",
+  "url": "https://blogs.nvidia.com/blog/omniverse-dsx-blueprint/",
+  "date": "2025-10-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-10-28T17:27:51+00:00",
+  "titleEn": "NVIDIA Launches Omniverse DSX Blueprint, Enabling Global AI Infrastructure Ecosystem to Build Gigawatt-Scale AI Factories",
+  "titleZh": "NVIDIA发布Omniverse DSX蓝图，助力全球AI基础设施生态构建吉瓦级AI工厂",
+  "details": {
+    "overview": "在GTC华盛顿特区主题演讲中，NVIDIA创始人兼CEO黄仁勋发布Omniverse DSX，一套用于设计和运营吉瓦级AI工厂的综合性开放蓝图，并在弗吉尼亚州马纳萨斯Digital Realty站点新建的AI工厂研究中心完成验证。该蓝图汇集行业生态伙伴。原文摘要在此处截断，伙伴名单与具体能力未完整披露。",
+    "keyPoints": [
+      "Omniverse DSX定位为吉瓦级AI工厂的开放设计运营蓝图",
+      "在Digital Realty马纳萨斯站点AI工厂研究中心完成验证",
+      "由黄仁勋在GTC华盛顿特区主题演讲中发布"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

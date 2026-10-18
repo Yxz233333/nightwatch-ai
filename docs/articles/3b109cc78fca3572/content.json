@@ -1,0 +1,24 @@
+{
+  "id": "3b109cc78fca3572",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Nemotron Labs: 3 Ways to Bring Agentic AI to Computer Vision Applications",
+  "summary": "该文章属于Nemotron Labs博客系列，探讨最新开放模型、数据集和训练技术如何帮助企业在NVIDIA平台上构建专用AI系统和应用。",
+  "url": "https://blogs.nvidia.com/blog/ways-to-bring-agentic-ai-to-computer-vision-applications/",
+  "date": "2025-11-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-11-13T18:50:06+00:00",
+  "titleEn": "Nemotron Labs: 3 Ways to Bring Agentic AI to Computer Vision Applications",
+  "titleZh": "Nemotron Labs：将代理AI引入计算机视觉应用的3种方法",
+  "details": {
+    "overview": "该文章属于Nemotron Labs博客系列，探讨最新开放模型、数据集和训练技术如何帮助企业在NVIDIA平台上构建专用AI系统和应用。每篇文章重点介绍使用开放栈在生产中交付实际价值的实用方法，例如透明的研究助手等。摘要内容不完整，未具体列出三种方法，但标题表明将介绍将代理AI引入计算机视觉应用的三种途径。",
+    "keyPoints": [
+      "文章属于Nemotron Labs系列，关注开放模型、数据集和训练技术。",
+      "主题为将代理AI引入计算机视觉应用的三种方法。",
+      "强调使用开放栈在生产中交付实际价值。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

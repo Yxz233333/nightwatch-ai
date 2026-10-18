@@ -1,0 +1,25 @@
+{
+  "id": "bb3a0769ceee2e30",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI’s Frontier Governance Framework",
+  "summary": "据官方发布记录，该文介绍OpenAI的“前沿治理框架”，说明其AI安全、安保与风险实践如何与欧盟和加州正在形成的监管要求相衔接。",
+  "url": "https://openai.com/index/openai-frontier-governance-framework",
+  "date": "2026-05-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-28T00:00:00+00:00",
+  "titleEn": "OpenAI’s Frontier Governance Framework",
+  "titleZh": "OpenAI前沿治理框架",
+  "details": {
+    "overview": "据官方发布记录，该文介绍OpenAI的“前沿治理框架”，说明其AI安全、安保与风险实践如何与欧盟和加州正在形成的监管要求相衔接。当前收录材料仅给出这一概述，未列出具体条款、合规评估结果或第三方审查情况。",
+    "keyPoints": [
+      "介绍OpenAI前沿治理框架中的安全、安保与风险实践",
+      "称相关实践与欧盟及加州新兴监管要求对齐",
+      "当前收录材料未提供具体条款与合规评估细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

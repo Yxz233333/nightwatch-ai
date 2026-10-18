@@ -1,0 +1,25 @@
+{
+  "id": "e9eee2d991c89ea1",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Introducing apps in ChatGPT and the new Apps SDK",
+  "summary": "OpenAI 宣布在 ChatGPT 内引入新一代可对话应用，并推出全新的 Apps SDK 供开发者构建此类应用。",
+  "url": "https://openai.com/index/introducing-apps-in-chatgpt",
+  "date": "2025-10-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-06T10:00:00+00:00",
+  "titleEn": "Introducing apps in ChatGPT and the new Apps SDK",
+  "titleZh": "ChatGPT 推出应用及全新 Apps SDK",
+  "details": {
+    "overview": "OpenAI 宣布在 ChatGPT 内引入新一代可对话应用，并推出全新的 Apps SDK 供开发者构建此类应用。该 SDK 目前以预览版形式提供，开发者即日起可开始构建。原始发布内容未提供应用的具体功能、可用范围或技术细节。",
+    "keyPoints": [
+      "ChatGPT 内引入新一代可对话应用",
+      "推出全新 Apps SDK，目前为预览版",
+      "开发者即日起可开始构建"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

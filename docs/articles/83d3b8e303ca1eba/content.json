@@ -1,0 +1,24 @@
+{
+  "id": "83d3b8e303ca1eba",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "AI agents find $4.6M in blockchain smart contract exploits",
+  "summary": "MATS和Anthropic Fellows项目的研究者构建了SCONE-bench基准，包含405个2020至2025年间实际被利用的智能合约。",
+  "url": "https://www.anthropic.com/research/smart-contracts",
+  "date": "2025-12-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-12-01T00:00:00+00:00",
+  "titleEn": "AI agents find $4.6M in blockchain smart contract exploits",
+  "titleZh": "AI代理在区块链智能合约中发现价值460万美元的漏洞利用",
+  "details": {
+    "overview": "MATS和Anthropic Fellows项目的研究者构建了SCONE-bench基准，包含405个2020至2025年间实际被利用的智能合约。在知识截止日期后发生的漏洞上，Claude Opus 4.5、Sonnet 4.5和GPT-5共同开发出价值460万美元的模拟漏洞利用，作者称这为经济危害下限。在2849个近期部署且无已知漏洞的合约上，Sonnet 4.5和GPT-5发现两个新型零日漏洞，模拟利用价值3694美元，GPT-5的API成本为3476美元。所有测试均在区块链模拟器中进行，未影响真实资产。",
+    "keyPoints": [
+      "SCONE-bench包含405个实际被利用的智能合约。",
+      "知识截止后漏洞上，三个模型模拟利用总值460万美元。",
+      "模拟环境中发现两个零日漏洞，利用价值3694美元。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

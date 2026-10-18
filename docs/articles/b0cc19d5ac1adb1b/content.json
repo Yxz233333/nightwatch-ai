@@ -1,0 +1,25 @@
+{
+  "id": "b0cc19d5ac1adb1b",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Enabling a new model for healthcare with AI co-clinician",
+  "summary": "该文探讨通过 AI 增强医疗服务的发展路径，以及“AI 协同临床医生”的开发方向。",
+  "url": "https://deepmind.google/blog/ai-co-clinician/",
+  "date": "2026-04-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-04-30T12:14:15+00:00",
+  "titleEn": "Enabling a new model for healthcare with AI co-clinician",
+  "titleZh": "以 AI 协同临床医生构建医疗新模型",
+  "details": {
+    "overview": "该文探讨通过 AI 增强医疗服务的发展路径，以及“AI 协同临床医生”的开发方向。原文摘要仅有一句概括，未说明具体研究设计、合作机构、评估指标或阶段性成果，因此无法判断其技术细节与实际应用进展，相关内容需以原始发布为准。",
+    "keyPoints": [
+      "主题是 AI 增强医疗照护的路径研究。",
+      "方向为开发“AI 协同临床医生”。",
+      "摘要未披露研究设计、评估指标或成果。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

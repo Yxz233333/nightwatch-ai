@@ -1,0 +1,25 @@
+{
+  "id": "9fe873d50f44647e",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing Gemini Omni",
+  "summary": "该条为官方发布记录，标题宣布推出 Gemini Omni，但原始发布内容和摘要均未提供模型能力、参数、适用场景或上线范围等信息。",
+  "url": "https://deepmind.google/blog/introducing-gemini-omni/",
+  "date": "2026-05-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-05-17T19:50:57+00:00",
+  "titleEn": "Introducing Gemini Omni",
+  "titleZh": "Gemini Omni 发布",
+  "details": {
+    "overview": "该条为官方发布记录，标题宣布推出 Gemini Omni，但原始发布内容和摘要均未提供模型能力、参数、适用场景或上线范围等信息。因此目前只能确认这是一次模型发布，无法说明其具体功能、与现有 Gemini 系列的关系或使用限制，相关内容需以官方原文为准。",
+    "keyPoints": [
+      "官方发布记录宣布推出 Gemini Omni",
+      "原始内容未提供模型能力或适用场景",
+      "上线范围与限制需以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

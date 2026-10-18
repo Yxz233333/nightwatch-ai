@@ -1,0 +1,24 @@
+{
+  "id": "77dbe572598f60fc",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning",
+  "summary": "该文属于 NVIDIA“Into the Omniverse”系列，面向开发者、3D 从业者和企业，介绍如何利用 OpenUSD 与 NVIDIA Omniverse 的最新进展改造工作流。",
+  "url": "https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/",
+  "date": "2026-06-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-30T13:00:27+00:00",
+  "titleEn": "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning",
+  "titleZh": "走进 Omniverse：用合成数据与微调提升视觉 AI 代理准确率的三种工作流",
+  "details": {
+    "overview": "该文属于 NVIDIA“Into the Omniverse”系列，面向开发者、3D 从业者和企业，介绍如何利用 OpenUSD 与 NVIDIA Omniverse 的最新进展改造工作流。文章指出，视觉 AI 代理正成为将工厂等物理世界视频数据自动转化为运营智能的实用方式，并给出三种借助合成数据与微调提升其准确率的工作流。原文摘要在此截断，未展开具体步骤与效果数据。",
+    "keyPoints": [
+      "文章属 Into the Omniverse 系列，聚焦 OpenUSD 与 Omniverse 工作流。",
+      "视觉 AI 代理可将物理世界视频数据转化为工厂运营智能。",
+      "提出三种用合成数据与微调提升视觉 AI 代理准确率的工作流。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

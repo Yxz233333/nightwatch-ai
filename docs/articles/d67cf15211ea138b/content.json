@@ -1,0 +1,25 @@
+{
+  "id": "d67cf15211ea138b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Intuit and OpenAI join forces on new AI-powered experiences",
+  "summary": "OpenAI 与 Intuit 宣布建立价值超过 1 亿美元的多年度合作伙伴关系，计划在 ChatGPT 中推出 Intuit 应用体验，并扩大 Intuit 对 OpenAI 前沿模型的使用，以驱动个性化金融工具。",
+  "url": "https://openai.com/index/intuit-partnership",
+  "date": "2025-11-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-18T05:00:00+00:00",
+  "titleEn": "Intuit and OpenAI join forces on new AI-powered experiences",
+  "titleZh": "Intuit 与 OpenAI 联手打造新 AI 体验",
+  "details": {
+    "overview": "OpenAI 与 Intuit 宣布建立价值超过 1 亿美元的多年度合作伙伴关系，计划在 ChatGPT 中推出 Intuit 应用体验，并扩大 Intuit 对 OpenAI 前沿模型的使用，以驱动个性化金融工具。原始发布内容仅提供这一句摘要，未披露具体产品功能、上线时间或覆盖范围，因此无法进一步说明合作细节。",
+    "keyPoints": [
+      "双方建立价值超 1 亿美元的多年度合作伙伴关系。",
+      "计划在 ChatGPT 中推出 Intuit 应用体验。",
+      "Intuit 将扩大使用 OpenAI 前沿模型驱动个性化金融工具。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

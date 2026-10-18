@@ -1,0 +1,25 @@
+{
+  "id": "5c2a8ba383833193",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.153.3 发布",
+  "summary": "Codex CLI 发布 0.153.3 热修复版本，在 Amazon Bedrock 模型选择器中为 Mantle 与 Runtime 全球/美国路由新增 GPT-6-Astra；同时修正 GPT-6-Astra 关于异步澄清问题的指引，使其使用受支持的工具并明确仅接受文本。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.153.3",
+  "date": "2026-09-05",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-09-04T19:01:32+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.153.3 发布",
+  "titleZh": "Codex CLI 0.153.3 发布",
+  "details": {
+    "overview": "Codex CLI 发布 0.153.3 热修复版本，在 Amazon Bedrock 模型选择器中为 Mantle 与 Runtime 全球/美国路由新增 GPT-6-Astra；同时修正 GPT-6-Astra 关于异步澄清问题的指引，使其使用受支持的工具并明确仅接受文本。该版本为 CLI 稳定版，桌面端功能以对应公告为准。",
+    "keyPoints": [
+      "Amazon Bedrock模型选择器新增GPT-6-Astra，覆盖Mantle与Runtime全球/美国路由",
+      "修正GPT-6-Astra异步澄清问题指引，明确其仅接受文本",
+      "该版本为CLI稳定版热修复，桌面端功能另见公告"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

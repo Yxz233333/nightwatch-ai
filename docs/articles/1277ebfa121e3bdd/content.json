@@ -1,0 +1,25 @@
+{
+  "id": "1277ebfa121e3bdd",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Advancing voice intelligence with new models in the API",
+  "summary": "这是OpenAI API实时语音模型的功能更新。",
+  "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+  "date": "2026-05-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-07T10:00:00+00:00",
+  "titleEn": "Advancing voice intelligence with new models in the API",
+  "titleZh": "通过API新模型推进语音智能",
+  "details": {
+    "overview": "这是OpenAI API实时语音模型的功能更新。官方摘要称，新模型可进行推理、翻译和语音转写，旨在支持更自然、更智能的语音体验。当前收录材料未提供模型名称、性能指标、定价或可用范围，相关细节需以官方原始发布记录为准。",
+    "keyPoints": [
+      "OpenAI API新增实时语音模型",
+      "官方称模型可推理、翻译和转写语音",
+      "目标是实现更自然智能的语音体验"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

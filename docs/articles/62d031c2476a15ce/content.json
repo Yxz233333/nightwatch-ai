@@ -1,0 +1,25 @@
+{
+  "id": "62d031c2476a15ce",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Advancing computer use with Ironclad",
+  "summary": "该文介绍 OpenAI 与 Ironclad 的合作，双方围绕复杂的合同工作流训练和评估 AI 智能体，以推进面向专业工作的计算机使用能力。",
+  "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+  "date": "2026-10-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-10-06T10:00:00+00:00",
+  "titleEn": "Advancing computer use with Ironclad",
+  "titleZh": "借助 Ironclad 推进计算机使用能力",
+  "details": {
+    "overview": "该文介绍 OpenAI 与 Ironclad 的合作，双方围绕复杂的合同工作流训练和评估 AI 智能体，以推进面向专业工作的计算机使用能力。原文摘要仅说明合作方向，未披露具体训练方法、评估指标或结果，因此无法判断其效果或是否经过独立验证。",
+    "keyPoints": [
+      "OpenAI 与 Ironclad 合作训练和评估 AI 智能体",
+      "训练场景为复杂的合同工作流",
+      "目标是推进面向专业工作的计算机使用能力"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

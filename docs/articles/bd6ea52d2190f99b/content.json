@@ -1,0 +1,23 @@
+{
+  "id": "bd6ea52d2190f99b",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Introducing GPT-5.2-Codex",
+  "summary": "OpenAI 发布 GPT-5.2-Codex，称其为面向复杂真实软件工程的最先进智能体编码模型，是 GPT-5.2 针对 Codex 中智能体编码进一步优化的版本。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2025-12-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "Introducing GPT-5.2-Codex",
+  "titleZh": "推出 GPT-5.2-Codex",
+  "details": {
+    "overview": "OpenAI 发布 GPT-5.2-Codex，称其为面向复杂真实软件工程的最先进智能体编码模型，是 GPT-5.2 针对 Codex 中智能体编码进一步优化的版本。官方称其在长周期任务（通过上下文压缩）、大型代码变更如重构与迁移、Windows 环境表现以及网络安全能力上有改进。即日起，使用 ChatGPT 登录的 CLI 与 IDE 扩展默认使用 `gpt-5.2-codex`，API 访问将稍后提供。",
+    "keyPoints": [
+      "GPT-5.2-Codex 是 GPT-5.2 针对智能体编码的优化版本",
+      "官方称在长周期任务、大型重构与 Windows 环境上有改进",
+      "CLI 与 IDE 扩展对 ChatGPT 登录用户默认启用，API 稍后提供"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

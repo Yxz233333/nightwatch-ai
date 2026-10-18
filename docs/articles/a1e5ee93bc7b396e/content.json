@@ -1,0 +1,23 @@
+{
+  "id": "a1e5ee93bc7b396e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA GTC Taipei at COMPUTEX: Live Updates on What’s Next in AI",
+  "summary": "该文介绍 NVIDIA 在 COMPUTEX 期间举办 GTC Taipei，汇聚全球开发者、研究人员与行业领袖，探讨影响各行业的最新突破。",
+  "url": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/",
+  "date": "2026-05-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-05-21T16:00:17+00:00",
+  "titleEn": "NVIDIA GTC Taipei at COMPUTEX: Live Updates on What’s Next in AI",
+  "titleZh": "NVIDIA GTC Taipei 亮相 COMPUTEX：AI 下一步现场更新",
+  "details": {
+    "overview": "该文介绍 NVIDIA 在 COMPUTEX 期间举办 GTC Taipei，汇聚全球开发者、研究人员与行业领袖，探讨影响各行业的最新突破。议题覆盖 AI 工厂与规模化基础设施、智能体 AI 与物理 AI 等方向。原文未给出具体发布产品或时间表，细节有限。",
+    "keyPoints": [
+      "NVIDIA GTC Taipei 在 COMPUTEX 期间举行，面向开发者与研究人员。",
+      "议题涵盖 AI 工厂、规模化基础设施、智能体 AI 与物理 AI。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

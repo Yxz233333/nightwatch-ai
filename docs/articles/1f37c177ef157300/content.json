@@ -1,0 +1,25 @@
+{
+  "id": "1f37c177ef157300",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "DiffusionGemma: 4x faster text generation",
+  "summary": "该文标题称DiffusionGemma实现4倍更快的文本生成。",
+  "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+  "date": "2026-06-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-06-10T16:24:11+00:00",
+  "titleEn": "DiffusionGemma: 4x faster text generation",
+  "titleZh": "DiffusionGemma：文本生成速度提升4倍",
+  "details": {
+    "overview": "该文标题称DiffusionGemma实现4倍更快的文本生成。提供的材料仅有标题，缺少正文、摘要与原始发布内容，无法确认其模型结构、对比基线、测试条件或“4倍”所指的具体指标。因此本介绍仅能转述标题主张，不对加速效果作独立判断，具体细节需以官方原文为准。",
+    "keyPoints": [
+      "标题主张文本生成速度提升至4倍",
+      "材料仅有标题，未说明对比基线与测试条件",
+      "模型细节与适用范围需以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

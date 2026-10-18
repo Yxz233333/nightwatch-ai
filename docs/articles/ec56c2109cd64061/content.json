@@ -1,0 +1,25 @@
+{
+  "id": "ec56c2109cd64061",
+  "section": "news",
+  "category": "工具动态",
+  "title": "How Braintrust turns customer requests into code with Codex",
+  "summary": "该内容介绍 Braintrust 工程师使用 Codex 与 GPT-5.5 来运行实验并加快编码速度。",
+  "url": "https://openai.com/index/braintrust",
+  "date": "2026-05-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-29T12:00:00+00:00",
+  "titleEn": "How Braintrust turns customer requests into code with Codex",
+  "titleZh": "Braintrust 如何用 Codex 将客户请求转化为代码",
+  "details": {
+    "overview": "该内容介绍 Braintrust 工程师使用 Codex 与 GPT-5.5 来运行实验并加快编码速度。原文仅提供一句话摘要，未说明具体工作流程、实验方法或量化效果。",
+    "keyPoints": [
+      "Braintrust 工程师使用 Codex 与 GPT-5.5 运行实验。",
+      "该组合用于加快编码速度。",
+      "当前收录材料未提供具体实现细节或效果数据。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

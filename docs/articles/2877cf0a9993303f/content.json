@@ -1,0 +1,25 @@
+{
+  "id": "2877cf0a9993303f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Silver lining playbook: Likely China-origin activity targeting US persons",
+  "summary": "OpenAI 封禁了一批很可能源自中国的账号。",
+  "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-silver-lining-playbook",
+  "date": "2026-02-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-01T00:00:00+00:00",
+  "titleEn": "Silver lining playbook: Likely China-origin activity targeting US persons",
+  "titleZh": "Silver lining playbook：很可能源自中国、针对美国人员的活动",
+  "details": {
+    "overview": "OpenAI 封禁了一批很可能源自中国的账号。摘要表示，这些账号利用 AI 研究美国人员、地点以及社会工程手法。摘要未披露账号数量、研究对象的具体身份或活动目的，相关细节应以原始发布为准。",
+    "keyPoints": [
+      "封禁账号很可能源自中国",
+      "利用 AI 研究美国人员与地点",
+      "还研究社会工程手法"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

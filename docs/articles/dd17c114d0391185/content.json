@@ -1,0 +1,24 @@
+{
+  "id": "dd17c114d0391185",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Partnering with Accenture on embedded evaluation",
+  "summary": "该发布称，Anthropic 与埃森哲合作，对前沿 AI 进行独立评估，这是其“在 Anthropic 内部嵌入评估者”承诺的一步。",
+  "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+  "date": "2026-09-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-09-18T16:00:00+00:00",
+  "titleEn": "Partnering with Accenture on embedded evaluation",
+  "titleZh": "与埃森哲合作开展嵌入式评估",
+  "details": {
+    "overview": "该发布称，Anthropic 与埃森哲合作，对前沿 AI 进行独立评估，这是其“在 Anthropic 内部嵌入评估者”承诺的一步。合作由埃森哲旗下 AI 业务 Faculty 牵头，包括评估与红队测试模型、开展对齐评估和测试模型防护措施。双方预计未来五年各投入至少 10 亿美元建设该领域能力。原文说明嵌入式评估尚属新事物，许多运作细节仍在制定中；独立嵌入式评估不减轻 Anthropic 的责任，模型安全仍由其负责。",
+    "keyPoints": [
+      "合作涵盖模型评估、红队测试、对齐评估与防护测试",
+      "双方预计五年内各投入至少 10 亿美元建设能力",
+      "嵌入式评估细节仍在制定，安全责任仍归 Anthropic"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

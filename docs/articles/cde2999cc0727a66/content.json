@@ -1,0 +1,23 @@
+{
+  "id": "cde2999cc0727a66",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Use plugins in Voice and get work done by speaking",
+  "summary": "官方发布说明称，Voice 现已在网页、iOS 和 Android 上支持插件。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking",
+  "date": "2026-09-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Use plugins in Voice and get work done by speaking",
+  "titleZh": "在 Voice 中使用插件，通过语音完成工作",
+  "details": {
+    "overview": "官方发布说明称，Voice 现已在网页、iOS 和 Android 上支持插件。用户可在语音对话中调用账户已有的插件和已连接应用，并在聊天中查看文字回复。Voice 也进入 Work 的网页端和移动端，可要求其创建文档、演示文稿和表格、使用已连接应用或在浏览器中操作；在 Work 中结束语音通话后，未完成任务可转为文字继续。Free 和 Go 用户可在 Chat 中使用其套餐支持的插件，Work 中的 Voice 需同时具备 Voice 与 Work 权限，原有应用连接、权限和用量限制继续适用。",
+    "keyPoints": [
+      "Voice 在网页、iOS、Android 支持插件，可在对话中调用账户已有插件与连接应用。",
+      "Work 中的 Voice 可创建文档、演示文稿和表格，通话结束后未完成任务可转文字继续。",
+      "Free 和 Go 用户可用套餐支持的插件；Work 中的 Voice 需同时具备 Voice 与 Work 权限。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

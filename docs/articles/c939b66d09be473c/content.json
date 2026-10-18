@@ -1,0 +1,24 @@
+{
+  "id": "c939b66d09be473c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Elon Musk Gets Just-Launched NVIDIA DGX Spark: Petaflop AI Supercomputer Lands at SpaceX",
+  "summary": "报道称在得克萨斯州Starbase，NVIDIA CEO黄仁勋将首台DGX Spark亲手交给SpaceX首席工程师埃隆·马斯克，现场有大量工程师围观，马斯克随后在餐厅与员工见面。",
+  "url": "https://blogs.nvidia.com/blog/live-dgx-spark-delivery/",
+  "date": "2025-10-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-10-14T00:31:39+00:00",
+  "titleEn": "Elon Musk Gets Just-Launched NVIDIA DGX Spark: Petaflop AI Supercomputer Lands at SpaceX",
+  "titleZh": "马斯克获刚发布的NVIDIA DGX Spark：千万亿次AI超算落地SpaceX",
+  "details": {
+    "overview": "报道称在得克萨斯州Starbase，NVIDIA CEO黄仁勋将首台DGX Spark亲手交给SpaceX首席工程师埃隆·马斯克，现场有大量工程师围观，马斯克随后在餐厅与员工见面。标题将DGX Spark称为“千万亿次AI超级计算机”。材料未给出该设备的规格细节、价格或后续部署计划，相关描述以官方发布记录为准。",
+    "keyPoints": [
+      "黄仁勋在Starbase向马斯克交付首台DGX Spark。",
+      "标题称DGX Spark为千万亿次级AI超级计算机。",
+      "材料未披露规格、价格与后续部署计划。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

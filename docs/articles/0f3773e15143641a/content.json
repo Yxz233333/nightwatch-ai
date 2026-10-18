@@ -1,0 +1,25 @@
+{
+  "id": "0f3773e15143641a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+  "summary": "该消息称，两名工程师用 Codex 在数周内上线了 Stack Overflow for Agents，其 ChatGPT 插件推动智能体创建量最高增长至 10 倍。",
+  "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+  "date": "2026-10-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-10-16T00:00:00+00:00",
+  "titleEn": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+  "titleZh": "Stack Overflow for Agents 借助 ChatGPT 插件使注册量增至三倍",
+  "details": {
+    "overview": "该消息称，两名工程师用 Codex 在数周内上线了 Stack Overflow for Agents，其 ChatGPT 插件推动智能体创建量最高增长至 10 倍。当前收录材料未提供具体注册数字、时间窗口与统计口径，也未说明增长如何归因于插件，相关推出范围和限制需以原始发布为准。",
+    "keyPoints": [
+      "两名工程师借助 Codex 在数周内完成 Stack Overflow for Agents 上线。",
+      "其 ChatGPT 插件推动智能体创建量最高增长至 10 倍。",
+      "原文未给出具体注册数字与统计口径，增长归因需以原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

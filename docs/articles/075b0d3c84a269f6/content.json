@@ -1,0 +1,24 @@
+{
+  "id": "075b0d3c84a269f6",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+  "summary": "该新闻介绍 NVIDIA 在汉堡 ISC 会议上推出新软件，用于加速 AI for Science，覆盖化学、材料发现到暗物质搜寻等领域。",
+  "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
+  "date": "2026-06-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-22T13:00:20+00:00",
+  "titleEn": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+  "titleZh": "从材料模拟到实验天文学，NVIDIA 新 AI 软件解锁科学发现",
+  "details": {
+    "overview": "该新闻介绍 NVIDIA 在汉堡 ISC 会议上推出新软件，用于加速 AI for Science，覆盖化学、材料发现到暗物质搜寻等领域。原文提到 NVIDIA DAQIRI 库、新的 NVIDIA ALCHEMI NIM 微服务以及即将推出的 NVIDIA cuPhoton 参考代码，这些工具将原本耗时的工作转化为更高效流程。摘要表示这些软件旨在加速科学发现，但具体性能提升幅度和适用范围需以原文为准。",
+    "keyPoints": [
+      "NVIDIA 在 ISC 会议推出面向科学发现的新 AI 软件。",
+      "包括 DAQIRI 库、ALCHEMI NIM 微服务和即将推出的 cuPhoton 参考代码。",
+      "应用覆盖化学、材料发现和暗物质搜寻等科学领域。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

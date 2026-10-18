@@ -1,0 +1,24 @@
+{
+  "id": "cb86aa1b930d56c5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
+  "summary": "该文聚焦全球Robotaxi市场，称其为物理AI的首个商业化突破。",
+  "url": "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
+  "date": "2026-09-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-09-10T16:00:04+00:00",
+  "titleEn": "Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies",
+  "titleZh": "物理AI上路：全球Robotaxi领军者如何用NVIDIA技术构建车队",
+  "details": {
+    "overview": "该文聚焦全球Robotaxi市场，称其为物理AI的首个商业化突破。原文援引预测称，该市场到2035年将达到4000亿美元，运营的商业车辆超过600万辆，无人驾驶车队已在全球一些最繁忙复杂的街道运送乘客。文章指出，部署一辆无人车是一回事，规模化扩展车队则是另一项挑战，并介绍领军企业如何借助NVIDIA技术应对。",
+    "keyPoints": [
+      "原文预测Robotaxi市场到2035年达4000亿美元、商业车辆超600万辆。",
+      "无人驾驶车队已在部分繁忙复杂街道运送乘客。",
+      "文章关注从单车部署到车队规模化扩展的挑战。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

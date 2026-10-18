@@ -1,0 +1,24 @@
+{
+  "id": "bc4c934ddd957ce0",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
+  "summary": "NVIDIA与LG集团宣布合作建设AI工厂，为LG集团在机器人、自动驾驶、数据中心技术和GPU云服务等业务提供加速计算基础设施，用于训练、模拟、验证和部署AI应用。",
+  "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
+  "date": "2026-06-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-08T03:00:50+00:00",
+  "titleEn": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
+  "titleZh": "NVIDIA与LG集团共建AI工厂，推进物理AI、移动出行与AI基础设施",
+  "details": {
+    "overview": "NVIDIA与LG集团宣布合作建设AI工厂，为LG集团在机器人、自动驾驶、数据中心技术和GPU云服务等业务提供加速计算基础设施，用于训练、模拟、验证和部署AI应用。该合作旨在加速LG集团下一波AI驱动业务的发展。当前收录材料未提供具体投资金额、建设时间表或部署规模。",
+    "keyPoints": [
+      "AI工厂将提供加速计算基础设施，支持LG集团训练、模拟、验证和部署AI应用。",
+      "合作覆盖机器人、自动驾驶、数据中心技术和GPU云服务等业务领域。",
+      "目标为加速LG集团下一波AI驱动业务的发展。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

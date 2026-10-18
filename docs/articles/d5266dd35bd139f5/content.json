@@ -1,0 +1,24 @@
+{
+  "id": "d5266dd35bd139f5",
+  "section": "papers",
+  "category": "其他数学",
+  "title": "Sharp integral fillings in CAT(0) spaces",
+  "summary": "OpenAI 数学相关研究材料。具体研究对象、结果及核验状态请查看详情。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Sharp-integral-fillings-in-CAT(0)-spaces-September-23-2026/paper.pdf",
+  "date": "2026-09-23",
+  "status": "AI 产生的研究手稿；收录不表示已完成独立审查或同行评议。",
+  "source": "OpenAI 数学仓库",
+  "titleEn": "Sharp integral fillings in CAT(0) spaces",
+  "abstractEnglish": "Every compactly supported integral n -cycle, n ≥ 2, in a proper CAT(0) space bounds a compactly supported integral current with the sharp Euclidean mass bound. The theorem allows arbitrary integer multiplicities and unrestricted ambient dimension. In particular, we prove the Euclidean Cartan–Hadamard isoperimetric conjecture in dimensions at least three.",
+  "titleZh": "CAT(0) 空间中的尖锐积分填充",
+  "details": {
+    "overview": "该研究手稿摘要声称，在真 CAT(0) 空间中，每个紧支撑整 n-链（n ≥ 2）都界定一个紧支撑整电流，并满足尖锐的欧几里得质量界；定理允许任意整数重数和不受限的环境维数。摘要还称，由此证明了至少三维情形下的欧几里得 Cartan–Hadamard 等周猜想。该稿件为 AI 产生的研究手稿，收录不表示已完成独立审查或同行评议，上述结论应视为作者声称，尚待数学界检验。",
+    "keyPoints": [
+      "稿件声称真 CAT(0) 空间中紧支撑整 n-链具有尖锐欧几里得质量界填充。",
+      "定理允许任意整数重数与不受限环境维数。",
+      "摘要称由此证明至少三维的欧几里得 Cartan–Hadamard 等周猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

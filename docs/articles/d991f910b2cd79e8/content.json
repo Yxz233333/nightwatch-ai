@@ -1,0 +1,25 @@
+{
+  "id": "d991f910b2cd79e8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Philips is scaling AI literacy across 70,000 employees",
+  "summary": "该文介绍飞利浦借助 ChatGPT Enterprise 在员工中推广 AI 素养的做法，称其培训 7 万名员工负责任地使用 AI，以改善全球医疗健康成果。",
+  "url": "https://openai.com/index/philips",
+  "date": "2025-11-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-13T00:00:00+00:00",
+  "titleEn": "How Philips is scaling AI literacy across 70,000 employees",
+  "titleZh": "飞利浦如何借助 ChatGPT Enterprise 在 7 万名员工中推广 AI 素养",
+  "details": {
+    "overview": "该文介绍飞利浦借助 ChatGPT Enterprise 在员工中推广 AI 素养的做法，称其培训 7 万名员工负责任地使用 AI，以改善全球医疗健康成果。提供的原文仅为一句摘要，未说明培训内容、实施阶段、效果评估方式或具体医疗场景，因此无法判断实际成效。",
+    "keyPoints": [
+      "飞利浦使用 ChatGPT Enterprise 推广 AI 素养。",
+      "官方称培训规模为 7 万名员工。",
+      "目标表述为负责任使用 AI 并改善全球医疗健康成果。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

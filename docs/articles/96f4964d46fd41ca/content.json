@@ -1,0 +1,24 @@
+{
+  "id": "96f4964d46fd41ca",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI",
+  "summary": "Google DeepMind发布实验性开放模型DiffusionGemma，面向极快文本生成。",
+  "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/",
+  "date": "2026-06-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-10T16:15:20+00:00",
+  "titleEn": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI",
+  "titleZh": "NVIDIA加速Google DeepMind的DiffusionGemma以支持本地AI",
+  "details": {
+    "overview": "Google DeepMind发布实验性开放模型DiffusionGemma，面向极快文本生成。NVIDIA称已对其优化，使其在GeForce RTX GPU、RTX PRO平台和DGX Spark系统上运行更快，覆盖本地PC到云端。该模型不逐词生成，而是并行生成多个词、整块输出文本，发布称这为开发者等单用户工作负载开辟低延迟方向。现有材料未给出速度、质量等具体指标。",
+    "keyPoints": [
+      "DiffusionGemma是Google DeepMind发布的实验性开放模型，主打快速文本生成",
+      "模型并行生成多个词并整块输出文本，而非逐词生成",
+      "NVIDIA称已优化其在RTX GPU、RTX PRO和DGX Spark上的运行"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

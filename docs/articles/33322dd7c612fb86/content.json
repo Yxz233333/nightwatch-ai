@@ -1,0 +1,23 @@
+{
+  "id": "33322dd7c612fb86",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "GPT-5.1 in ChatGPT",
+  "summary": "OpenAI将GPT-5更新为GPT-5.1 Instant和GPT-5.1 Thinking，使回答更智能、更具对话性。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-51-in-chatgpt",
+  "date": "2025-11-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "GPT-5.1 in ChatGPT",
+  "titleZh": "ChatGPT中的GPT-5.1",
+  "details": {
+    "overview": "OpenAI将GPT-5更新为GPT-5.1 Instant和GPT-5.1 Thinking，使回答更智能、更具对话性。GPT-5.1 Instant对较难问题使用轻量自适应推理，同时保持快速；GPT-5.1 Thinking针对复杂任务更精确地调整思考时间，回复更清晰、少术语。GPT-5.1 Auto继续将每个查询路由到最佳模型。GPT-5模型在Legacy models下拉菜单中保留三个月，供用户比较和过渡。GPT-5.1 Instant和Thinking先向付费用户（Pro、Plus、Go、Business）推出，再向免费和未登录用户推出；Enterprise和Edu获得临时早期访问开关；GPT-5.1也将很快以gpt-5.1-chat-latest（Instant）和gpt-5.1（Thinking）在API中提供。",
+    "keyPoints": [
+      "GPT-5.1 Instant对较难问题使用轻量自适应推理并保持快速",
+      "GPT-5.1 Thinking更精确调整思考时间，回复更清晰少术语",
+      "GPT-5模型在Legacy models下拉菜单中保留三个月供过渡"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

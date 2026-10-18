@@ -1,0 +1,23 @@
+{
+  "id": "9f805ef2c9c9fea8",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Use the browser extension in more browsers",
+  "summary": "该功能更新说明，ChatGPT 浏览器扩展新增支持 Microsoft Edge、Brave、Opera 和 Vivaldi，可将浏览器接入 Work 与 Codex。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-the-browser-extension-in-more-browsers",
+  "date": "2026-08-31",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Use the browser extension in more browsers",
+  "titleZh": "在更多浏览器中使用浏览器扩展",
+  "details": {
+    "overview": "该功能更新说明，ChatGPT 浏览器扩展新增支持 Microsoft Edge、Brave、Opera 和 Vivaldi，可将浏览器接入 Work 与 Codex。用户可提及已打开的标签页作为上下文，或让 ChatGPT 从桌面应用完成浏览器任务。原文指出，侧边聊天在 Edge、Brave 和 Vivaldi 中可用；Opera 支持标签页提及与浏览器控制，但不支持侧边聊天。设置前需更新桌面应用，可用性取决于工作区设置。",
+    "keyPoints": [
+      "ChatGPT 浏览器扩展新增支持 Edge、Brave、Opera 和 Vivaldi。",
+      "可提及打开的标签页作为上下文，或让 ChatGPT 完成浏览器任务。",
+      "Opera 支持标签页提及与浏览器控制，但不支持侧边聊天。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

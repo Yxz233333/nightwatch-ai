@@ -1,0 +1,23 @@
+{
+  "id": "fd1d6c59a60d970b",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Updated models and usage limits in ChatGPT Voice",
+  "summary": "ChatGPT Voice 现在可在需要搜索或推理较难问题时使用 GPT-5.6 或 GPT-6 Astra，用户可通过与文本聊天相同的控件选择模型和推理强度，可用模型及使用限额取决于套餐。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-models-and-usage-limits-in-chatgpt-voice",
+  "date": "2026-09-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Updated models and usage limits in ChatGPT Voice",
+  "titleZh": "ChatGPT Voice 的模型与使用限额更新",
+  "details": {
+    "overview": "ChatGPT Voice 现在可在需要搜索或推理较难问题时使用 GPT-5.6 或 GPT-6 Astra，用户可通过与文本聊天相同的控件选择模型和推理强度，可用模型及使用限额取决于套餐。官方还简化了 GPT-Live 每日使用限额：Go 套餐最多 3 小时 GPT-Live-1 mini，取代 GPT-Live-1 访问；Plus 最多 3 小时 GPT-Live-1；Pro（每月 100 美元）最多 15 小时 GPT-Live-1；Pro（每月 200 美元）无限使用 GPT-Live-1。Plus 和 Pro 达到语音限额后不再切换至 GPT-Live mini，原有的 Instant/Medium/High 语音智能等级已弃用。",
+    "keyPoints": [
+      "ChatGPT Voice 可在搜索或推理时使用 GPT-5.6 或 GPT-6 Astra。",
+      "用户可用与文本聊天相同的控件选择模型和推理强度。",
+      "GPT-Live 每日限额按套餐调整，Instant/Medium/High 语音等级已弃用。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

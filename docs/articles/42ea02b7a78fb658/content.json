@@ -1,0 +1,24 @@
+{
+  "id": "42ea02b7a78fb658",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Into the Omniverse: Physical AI Open Models and Frameworks Advance Robots and Autonomous Systems",
+  "summary": "该官方博客称，开源已成为机器人与自主领域创新的关键，NVIDIA通过提供从仿真框架到AI模型的关键基础设施，支持协作开发，以加速更安全、能力更强的自主系统。",
+  "url": "https://blogs.nvidia.com/blog/physical-ai-open-models-robot-autonomous-systems-omniverse/",
+  "date": "2026-01-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-01-29T17:00:21+00:00",
+  "titleEn": "Into the Omniverse: Physical AI Open Models and Frameworks Advance Robots and Autonomous Systems",
+  "titleZh": "走进Omniverse：物理AI开放模型与框架推动机器人和自主系统发展",
+  "details": {
+    "overview": "该官方博客称，开源已成为机器人与自主领域创新的关键，NVIDIA通过提供从仿真框架到AI模型的关键基础设施，支持协作开发，以加速更安全、能力更强的自主系统。原文为系列文章导语，未展开具体模型、框架名称或性能数据，相关细节需以原文为准。",
+    "keyPoints": [
+      "博客称开源对机器人与自主系统创新至关重要",
+      "NVIDIA提供仿真框架与AI模型等关键基础设施",
+      "目标是加速更安全、能力更强的自主系统开发"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

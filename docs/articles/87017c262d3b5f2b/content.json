@@ -1,0 +1,24 @@
+{
+  "id": "87017c262d3b5f2b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+  "summary": "官方发布称，NVIDIA Nemotron 3 Ultra 借助 LangChain 的 Deep Agents 框架，在成本低于顶级闭源模型的情况下取得领先性能。",
+  "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+  "date": "2026-07-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-07-08T15:00:27+00:00",
+  "titleEn": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+  "titleZh": "NVIDIA Nemotron 借助 LangChain Deep Agents 框架取得基准领先性能",
+  "details": {
+    "overview": "官方发布称，NVIDIA Nemotron 3 Ultra 借助 LangChain 的 Deep Agents 框架，在成本低于顶级闭源模型的情况下取得领先性能。LangChain 针对该模型调优了 Deep Agents 框架，使其在开源模型中准确率最高，同时以更高吞吐完成更多任务，运行速度提升 10 倍。原文摘要在此处截断，未给出具体基准名称、评测方法或完整对比数据，因此相关结论应视为发布方说法，具体细节需以原文为准。",
+    "keyPoints": [
+      "LangChain 为 NVIDIA Nemotron 3 Ultra 调优 Deep Agents 框架",
+      "发布方称其在开源模型中准确率最高、吞吐更高",
+      "摘要称运行速度为 10 倍，但原文截断未给出完整数据"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

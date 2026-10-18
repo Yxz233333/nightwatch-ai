@@ -1,0 +1,23 @@
+{
+  "id": "244b729f69afe19a",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Updates to Codex",
+  "summary": "OpenAI正在推出Codex新能力，以帮助团队更好地工作和构建：Codex现可在Slack中使用，并支持通过Codex SDK进行编程控制。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-codex",
+  "date": "2025-10-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Updates to Codex",
+  "titleZh": "Codex更新",
+  "details": {
+    "overview": "OpenAI正在推出Codex新能力，以帮助团队更好地工作和构建：Codex现可在Slack中使用，并支持通过Codex SDK进行编程控制。此外，Codex的费率已更新。更多信息可查阅帮助中心文章和Codex开发者文档。具体费率调整细节和可用范围以官方原始发布为准。",
+    "keyPoints": [
+      "Codex新增Slack集成，支持在Slack中使用。",
+      "推出Codex SDK，支持编程控制。",
+      "Codex费率已更新，详情见官方文档。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

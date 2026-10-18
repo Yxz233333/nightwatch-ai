@@ -1,0 +1,24 @@
+{
+  "id": "0261166c5fd6b32b",
+  "section": "news",
+  "category": "模型动态",
+  "title": "H Company's new Holo2 model takes the lead in UI Localization",
+  "summary": "现有材料仅有标题，未提供正文，无法确认评测基准、对比对象与具体成绩。",
+  "url": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
+  "date": "2026-02-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-02-03T17:40:14+00:00",
+  "titleEn": "H Company's new Holo2 model takes the lead in UI Localization",
+  "titleZh": "H Company 新模型 Holo2 在 UI 定位任务中领先",
+  "details": {
+    "overview": "现有材料仅有标题，未提供正文，无法确认评测基准、对比对象与具体成绩。标题称 H Company 的新模型 Holo2 在 UI Localization（界面元素定位）任务中取得领先，但该说法出自发布方，缺少可核验细节。以下要点仅据标题概括，信息不足。",
+    "keyPoints": [
+      "H Company 发布新模型 Holo2",
+      "标题称其在 UI 定位任务中领先"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

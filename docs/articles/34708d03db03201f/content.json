@@ -1,0 +1,24 @@
+{
+  "id": "34708d03db03201f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
+  "summary": "NVIDIA官方发布称Vera Rubin已到来并迈向吉瓦级规模，Vera Rubin NVL72量产正在爬坡，机架已在CoreWeave、Google Cloud、Microsoft Azure、Oracle Cloud Infrastructure和Nebius等伙伴处运行。",
+  "url": "https://blogs.nvidia.com/blog/vera-rubin/",
+  "date": "2026-07-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-07-21T15:36:43+00:00",
+  "titleEn": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
+  "titleZh": "NVIDIA Vera Rubin提升每瓦性能，为全球伙伴降低token成本",
+  "details": {
+    "overview": "NVIDIA官方发布称Vera Rubin已到来并迈向吉瓦级规模，Vera Rubin NVL72量产正在爬坡，机架已在CoreWeave、Google Cloud、Microsoft Azure、Oracle Cloud Infrastructure和Nebius等伙伴处运行。发布称其供应链覆盖30个国家、350多个工厂站点，是迄今规模最大、最成熟的机架级供应链，以满足客户算力需求。原文摘要在此截断，未给出具体性能与成本数据。",
+    "keyPoints": [
+      "Vera Rubin NVL72量产爬坡，多家云伙伴已有机架运行。",
+      "供应链覆盖30国350多个工厂站点。",
+      "官方称其为规模最大、最成熟的机架级供应链。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

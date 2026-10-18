@@ -1,0 +1,23 @@
+{
+  "id": "e1256497e0eb6008",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "GPT-5.3 Instant mini in ChatGPT",
+  "summary": "OpenAI 宣布在 ChatGPT 中推出 GPT-5.3 Instant Mini，用于替代 GPT-5 Instant Mini，作为用户达到 GPT-5.3 Instant 速率限制后使用的回退模型，因此不会出现在模型选择器中。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-53-instant-mini-in-chatgpt",
+  "date": "2026-04-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "GPT-5.3 Instant mini in ChatGPT",
+  "titleZh": "ChatGPT 中的 GPT-5.3 Instant mini",
+  "details": {
+    "overview": "OpenAI 宣布在 ChatGPT 中推出 GPT-5.3 Instant Mini，用于替代 GPT-5 Instant Mini，作为用户达到 GPT-5.3 Instant 速率限制后使用的回退模型，因此不会出现在模型选择器中。官方称其对话更自然，写作与上下文感知能力更强，并在多种使用场景下优于 GPT-5 Instant Mini。原文未给出具体评测数据。",
+    "keyPoints": [
+      "作为 GPT-5.3 Instant 达到速率限制后的回退模型，不出现在模型选择器中。",
+      "官方称对话更自然，写作与上下文感知能力较 GPT-5 Instant Mini 更强。",
+      "官方表示在多种使用场景下优于 GPT-5 Instant Mini，未提供具体数据。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

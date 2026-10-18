@@ -1,0 +1,25 @@
+{
+  "id": "35eb63ad2bdd1af1",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+  "summary": "该官方内容介绍律师事务所Gilbert + Tobin如何在全所范围推广ChatGPT Enterprise与Codex。",
+  "url": "https://openai.com/index/gilbert-tobin",
+  "date": "2026-09-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-01T01:00:00+00:00",
+  "titleEn": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+  "titleZh": "律所Gilbert + Tobin如何借助OpenAI治理并扩展AI应用",
+  "details": {
+    "overview": "该官方内容介绍律师事务所Gilbert + Tobin如何在全所范围推广ChatGPT Enterprise与Codex。摘要表示，其做法结合了由首席执行官主导的承诺、严格的治理机制以及人工问责。当前收录材料未提供具体部署规模、使用效果数据或治理流程细节，因此只能确认其强调治理与责任归属的推广思路，具体成效尚缺乏材料说明。",
+    "keyPoints": [
+      "律所结合CEO主导承诺、严格治理与人工问责推广AI。",
+      "推广对象为ChatGPT Enterprise与Codex。",
+      "当前收录材料未提供部署规模与效果数据。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

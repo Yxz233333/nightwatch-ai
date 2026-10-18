@@ -1,0 +1,23 @@
+{
+  "id": "91376ad57b5d10da",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Share Sites with people outside your workspace",
+  "summary": "该功能更新说明，符合条件的站点所有者现在可以把已上线的 ChatGPT 站点共享给工作区外的指定人员，而无需将站点设为公开。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-sites-with-people-outside-your-workspace",
+  "date": "2026-09-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Share Sites with people outside your workspace",
+  "titleZh": "与工作区外的人员共享站点",
+  "details": {
+    "overview": "该功能更新说明，符合条件的站点所有者现在可以把已上线的 ChatGPT 站点共享给工作区外的指定人员，而无需将站点设为公开。外部查看者可以使用共享站点，但不能编辑或发布。共享时需打开站点、选择共享、输入收件人邮箱并保存其查看权限；收件人须用被授权的账号登录。所有者可在共享控制中查看或移除查看者。原文未说明具体适用范围与限制，需以官方原文为准。",
+    "keyPoints": [
+      "符合条件的站点所有者可向工作区外指定人员共享站点，无需公开站点。",
+      "外部查看者仅可使用共享站点，不能编辑或发布。",
+      "所有者可在共享控制中查看或移除查看者。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

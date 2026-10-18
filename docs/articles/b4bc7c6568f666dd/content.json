@@ -1,0 +1,25 @@
+{
+  "id": "b4bc7c6568f666dd",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.148.0 发布",
+  "summary": "Codex CLI 发布 0.148.0 稳定版本，新增多项功能：可用 `/export` 将完整 TUI 会话导出为 Markdown（复制到剪贴板或写入新文件）；支持 `codex exec fork` 分叉会话，并可在 TUI 恢复选择器中归档或恢复会话；TUI 初始化期间即可起草提示词；符合条件的 workspace 可在 `/status`、状态行和终端标题中查看预估线程额度或成本；Amazon Bedrock Runtime 成为内置提供方；Hooks 可异步执行命令并调用 MCP 工具。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.148.0",
+  "date": "2026-08-19",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-08-18T22:26:03+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.148.0 发布",
+  "titleZh": "Codex CLI 0.148.0 发布",
+  "details": {
+    "overview": "Codex CLI 发布 0.148.0 稳定版本，新增多项功能：可用 `/export` 将完整 TUI 会话导出为 Markdown（复制到剪贴板或写入新文件）；支持 `codex exec fork` 分叉会话，并可在 TUI 恢复选择器中归档或恢复会话；TUI 初始化期间即可起草提示词；符合条件的 workspace 可在 `/status`、状态行和终端标题中查看预估线程额度或成本；Amazon Bedrock Runtime 成为内置提供方；Hooks 可异步执行命令并调用 MCP 工具。此外还修复了模型切换残留指令、会话恢复工作目录与审批策略、临时断连重连、沙箱路径限制等问题。",
+    "keyPoints": [
+      "新增 `/export` 导出 Markdown、`codex exec fork` 分叉会话与归档恢复。",
+      "Amazon Bedrock Runtime 成为内置提供方，Hooks 支持异步与 MCP 工具。",
+      "修复模型切换、会话恢复、断连重连与沙箱路径等多项问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

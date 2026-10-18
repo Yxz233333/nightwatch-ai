@@ -1,0 +1,25 @@
+{
+  "id": "68b3d13f0aa546db",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Welcome Inkling by Thinking Machines",
+  "summary": "该条目为欢迎Thinking Machines的Inkling的公告，原始发布内容仅有标题与摘要，未说明Inkling是什么产品、具备哪些能力、面向哪些用户或何时可用。",
+  "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+  "date": "2026-07-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-07-15T00:00:00+00:00",
+  "titleEn": "Welcome Inkling by Thinking Machines",
+  "titleZh": "欢迎Thinking Machines的Inkling",
+  "details": {
+    "overview": "该条目为欢迎Thinking Machines的Inkling的公告，原始发布内容仅有标题与摘要，未说明Inkling是什么产品、具备哪些能力、面向哪些用户或何时可用。由于材料不足，无法对其功能与意义作出具体介绍，读者应以官方原文为准。",
+    "keyPoints": [
+      "条目为欢迎Thinking Machines的Inkling的公告",
+      "原文未说明Inkling的产品形态与能力",
+      "可用范围与时间等信息缺失"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

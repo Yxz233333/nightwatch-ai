@@ -1,0 +1,25 @@
+{
+  "id": "f2c79980f3eaad4d",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.142.1 发布",
+  "summary": "该版本为 Codex CLI 稳定版更新，主要新增可选的 Windows 系统代理支持，用于身份验证，涵盖 PAC、WPAD、静态代理与绕过规则。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.142.1",
+  "date": "2026-06-25",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-06-25T00:36:09+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.142.1 发布",
+  "titleZh": "Codex CLI 0.142.1 发布",
+  "details": {
+    "overview": "该版本为 Codex CLI 稳定版更新，主要新增可选的 Windows 系统代理支持，用于身份验证，涵盖 PAC、WPAD、静态代理与绕过规则。更新记录指向对应拉取请求，并附完整变更日志链接。桌面端相关功能以另行公告为准。",
+    "keyPoints": [
+      "新增可选的 Windows 系统代理支持，用于身份验证。",
+      "代理支持涵盖 PAC、WPAD、静态代理和绕过规则。",
+      "该版本为 CLI 稳定版，桌面端功能另见公告。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

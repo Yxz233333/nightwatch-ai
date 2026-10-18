@@ -1,0 +1,24 @@
+{
+  "id": "f3072af736dc502e",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing visual layout and dynamic view in Gemini Labs",
+  "summary": "谷歌在 Gemini 应用中推出两项实验性 Labs 功能：视觉布局和动态视图，由 Gemini 3 和 Google Research 的新进展驱动。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2025-11-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|Introducing visual layout and dynamic view in Gemini Labs|2025-11-18",
+  "titleEn": "Introducing visual layout and dynamic view in Gemini Labs",
+  "titleZh": "Gemini Labs 推出视觉布局与动态视图",
+  "details": {
+    "overview": "谷歌在 Gemini 应用中推出两项实验性 Labs 功能：视觉布局和动态视图，由 Gemini 3 和 Google Research 的新进展驱动。视觉布局利用多模态能力生成包含照片和交互模块的沉浸式回复，并支持多轮定制；动态视图则借助智能体编码能力，为特定提示设计并编码独特界面。官方称这些功能旨在让回答超越纯文本，更直观地探索信息，并收集反馈以塑造生成式 UI 的未来。",
+    "keyPoints": [
+      "视觉布局可生成含照片和交互模块的视觉化回复，支持多轮反馈定制。",
+      "动态视图利用智能体编码能力，为提示实时设计并编码专属用户界面。",
+      "两项功能正面向不同用户子集推出，部分用户将在工具菜单中看到。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

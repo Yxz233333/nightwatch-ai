@@ -1,0 +1,25 @@
+{
+  "id": "530634398ec1150c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "The five AI value models driving business reinvention",
+  "summary": "该条目介绍五种AI价值模型，原文摘要称其用于说明领导者如何按顺序推进AI，从员工熟练度到流程重塑，进而构建持久的业务优势。",
+  "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+  "date": "2026-03-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-05T00:00:00+00:00",
+  "titleEn": "The five AI value models driving business reinvention",
+  "titleZh": "驱动业务重塑的五种AI价值模型",
+  "details": {
+    "overview": "该条目介绍五种AI价值模型，原文摘要称其用于说明领导者如何按顺序推进AI，从员工熟练度到流程重塑，进而构建持久的业务优势。材料未列出五种模型的具体名称、适用条件或案例数据，相关框架仅为官方发布中的表述，尚不涉及独立验证。",
+    "keyPoints": [
+      "提出五种AI价值模型，用于指导企业AI推进顺序。",
+      "路径从员工能力熟练延伸到流程重塑。",
+      "官方称目标是构建持久的业务优势。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

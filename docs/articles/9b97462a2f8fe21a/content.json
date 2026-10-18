@@ -1,0 +1,25 @@
+{
+  "id": "9b97462a2f8fe21a",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+  "summary": "材料仅有简介，说明 Gemini 3.5 Live Translate 在 Google AI Studio、Google Translate 和 Google Meet 中提供接近实时的自然语音翻译。",
+  "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+  "date": "2026-06-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-06-09T15:16:25+00:00",
+  "titleEn": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+  "titleZh": "Gemini 3.5 Live Translate 带来流畅自然的语音翻译",
+  "details": {
+    "overview": "材料仅有简介，说明 Gemini 3.5 Live Translate 在 Google AI Studio、Google Translate 和 Google Meet 中提供接近实时的自然语音翻译。原始发布内容为空，缺少模型细节、支持语言、延迟指标与推出范围等信息，无法进一步展开。",
+    "keyPoints": [
+      "提供接近实时的自然语音翻译",
+      "覆盖 Google AI Studio、Google Translate 与 Google Meet",
+      "具体语言支持与延迟指标原文未给出"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "3fcc2e6d27bebf06",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Gemini Robotics 1.5 brings AI agents into the physical world",
+  "summary": "官方发布信息称，Gemini Robotics 1.5 面向“物理智能体”方向，目标是让机器人具备感知、规划、思考、使用工具和行动能力，从而更好地完成复杂的多步骤任务。",
+  "url": "https://deepmind.google/blog/gemini-robotics-15-brings-ai-agents-into-the-physical-world/",
+  "date": "2025-09-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2025-09-25T00:00:00+00:00",
+  "titleEn": "Gemini Robotics 1.5 brings AI agents into the physical world",
+  "titleZh": "Gemini Robotics 1.5 将 AI 智能体带入物理世界",
+  "details": {
+    "overview": "官方发布信息称，Gemini Robotics 1.5 面向“物理智能体”方向，目标是让机器人具备感知、规划、思考、使用工具和行动能力，从而更好地完成复杂的多步骤任务。原文当前收录摘要未给出具体基准测试结果、可用范围或部署条件，相关能力描述属于官方表述，实际表现与推出范围应以官方原文为准。",
+    "keyPoints": [
+      "Gemini Robotics 1.5 定位为面向物理世界的 AI 智能体能力。",
+      "官方称其可让机器人感知、规划、思考、使用工具并行动。",
+      "目标场景为复杂多步骤任务，当前收录材料未提供具体评测与推出范围。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

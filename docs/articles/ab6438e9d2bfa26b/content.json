@@ -1,0 +1,25 @@
+{
+  "id": "ab6438e9d2bfa26b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "A blueprint for democratic governance of frontier AI",
+  "summary": "OpenAI发布了一份关于美国前沿AI治理的蓝图，提出一个涵盖安全、韧性和国家安全的联邦框架。",
+  "url": "https://openai.com/index/frontier-safety-blueprint",
+  "date": "2026-06-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-03T10:00:00+00:00",
+  "titleEn": "A blueprint for democratic governance of frontier AI",
+  "titleZh": "前沿AI民主治理蓝图",
+  "details": {
+    "overview": "OpenAI发布了一份关于美国前沿AI治理的蓝图，提出一个涵盖安全、韧性和国家安全的联邦框架。该蓝图旨在为前沿AI的治理提供指导原则和结构建议，但摘要未透露具体政策细节或实施路径。其意义在于推动AI治理的民主化和制度化讨论。",
+    "keyPoints": [
+      "OpenAI提出美国前沿AI治理蓝图，聚焦安全、韧性与国家安全。",
+      "建议建立联邦框架以指导前沿AI的治理。",
+      "摘要未披露具体政策工具或实施时间表。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

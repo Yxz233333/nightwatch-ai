@@ -1,0 +1,23 @@
+{
+  "id": "8cb3d2680f8277e4",
+  "section": "codex",
+  "category": "功能预告",
+  "title": "GPT-5.5 retires from ChatGPT, ChatGPT Work, and Codex on October 14",
+  "summary": "官方发布记录称，GPT-5.5 将于 2026 年 10 月 14 日从 ChatGPT、ChatGPT Work 和 Codex 的所有方案中退役，涵盖消费者、Business、Enterprise 和 Edu 方案，但不适用于 OpenAI API。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2026-09-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "GPT-5.5 retires from ChatGPT, ChatGPT Work, and Codex on October 14",
+  "titleZh": "GPT-5.5 将于 10 月 14 日从 ChatGPT、ChatGPT Work 和 Codex 退役",
+  "details": {
+    "overview": "官方发布记录称，GPT-5.5 将于 2026 年 10 月 14 日从 ChatGPT、ChatGPT Work 和 Codex 的所有方案中退役，涵盖消费者、Business、Enterprise 和 Edu 方案，但不适用于 OpenAI API。对于使用 ChatGPT 登录的 Codex，用户需为所用方案和客户端选择可用替代模型，并更新工作区默认值、已保存模型设置、托管配置、自定义代理、计划任务及仍选择 gpt-5.5 的脚本。",
+    "keyPoints": [
+      "GPT-5.5 于 2026 年 10 月 14 日从 ChatGPT、ChatGPT Work 和 Codex 退役",
+      "覆盖消费者、Business、Enterprise 和 Edu 方案，不适用于 OpenAI API",
+      "需更新默认模型、托管配置、代理、计划任务与脚本"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

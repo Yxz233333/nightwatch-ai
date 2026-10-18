@@ -1,0 +1,23 @@
+{
+  "id": "435e46009d970b9e",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Credit scores in Finances",
+  "summary": "该发布称，用户现可在 ChatGPT 中追踪信用评分：安全连接 Experian 信用报告与 VantageScore 3.0 信用评分，获得关于影响评分因素及其与个人财务和目标关系的个性化洞察。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#credit-scores-in-finances",
+  "date": "2026-09-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Credit scores in Finances",
+  "titleZh": "ChatGPT 财务功能中的信用评分",
+  "details": {
+    "overview": "该发布称，用户现可在 ChatGPT 中追踪信用评分：安全连接 Experian 信用报告与 VantageScore 3.0 信用评分，获得关于影响评分因素及其与个人财务和目标关系的个性化洞察。评分与报告每月更新，信用监控可提示新查询、新账户或地址变更等重要变化。Experian 连接独立于银行账户，无需通过 Plaid 连接账户。该功能面向美国 Plus 和 Pro 用户，在网页、iOS 和 Android 上逐步推出，部分符合条件的用户可能暂未看到。",
+    "keyPoints": [
+      "可连接 Experian 报告与 VantageScore 3.0 评分",
+      "评分和报告每月更新，并提供信用监控提醒",
+      "面向美国 Plus 和 Pro 用户逐步推出"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

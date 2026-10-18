@@ -1,0 +1,25 @@
+{
+  "id": "6e09f5b128fca0a8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+  "summary": "该官方文章介绍 OpenAI 如何将 Habitat 从 Python 库演进为全球分布式存储平台，并称其服务 10 亿 ChatGPT 用户、达到每秒 2200 万次请求。",
+  "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+  "date": "2026-09-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-11T10:00:00+00:00",
+  "titleEn": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+  "titleZh": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户",
+  "details": {
+    "overview": "该官方文章介绍 OpenAI 如何将 Habitat 从 Python 库演进为全球分布式存储平台，并称其服务 10 亿 ChatGPT 用户、达到每秒 2200 万次请求。材料仅给出这一概述，未披露架构细节、扩展方法或性能验证过程，具体推出范围和限制需以原文为准。",
+    "keyPoints": [
+      "Habitat 由 Python 库演进为全球分布式存储平台。",
+      "官方称其服务 10 亿 ChatGPT 用户。",
+      "官方称其达到每秒 2200 万次请求。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

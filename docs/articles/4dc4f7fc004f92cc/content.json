@@ -1,0 +1,24 @@
+{
+  "id": "4dc4f7fc004f92cc",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Apply for Anthropic’s AI for Science rare disease research grants",
+  "summary": "Anthropic官方发布称，其AI for Science项目现开放罕见病专题申请，入选者可在六个月内获得最高5万美元的Claude额度。",
+  "url": "https://www.anthropic.com/news/rare-disease-research-grants",
+  "date": "2026-07-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-07-20T17:00:00+00:00",
+  "titleEn": "Apply for Anthropic’s AI for Science rare disease research grants",
+  "titleZh": "申请Anthropic AI for Science罕见病研究资助",
+  "details": {
+    "overview": "Anthropic官方发布称，其AI for Science项目现开放罕见病专题申请，入选者可在六个月内获得最高5万美元的Claude额度。项目设两条赛道：一条面向从事基础研究的科学家，另一条面向加速罕见病临床开发的早期生物科技公司。发布提到罕见病数据分散、机制研究孤立、药物开发周期长等挑战，并称AI可帮助建模疾病、跨文献整合发现。原文还介绍了与Monarch Initiative等伙伴的合作，申请截止日期为8月2日。",
+    "keyPoints": [
+      "入选者可在六个月内获得最高5万美元Claude额度。",
+      "项目分基础科研与早期生物科技两条赛道。",
+      "官方称AI可助建模罕见病并跨文献整合发现。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

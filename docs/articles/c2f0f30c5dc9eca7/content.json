@@ -1,0 +1,25 @@
+{
+  "id": "c2f0f30c5dc9eca7",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+  "summary": "据摘要介绍，OpenAI 与 Molecule.one 展示了一个使用 GPT-5.4 的近乎自主 AI 化学家，用于改进药物研发中的一项关键反应，以推进药物化学研究。",
+  "url": "https://openai.com/index/ai-chemist-improves-reaction",
+  "date": "2026-06-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-17T10:00:00+00:00",
+  "titleEn": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+  "titleZh": "近乎自主的 AI 化学家改进了药物化学中一项颇具挑战的反应",
+  "details": {
+    "overview": "据摘要介绍，OpenAI 与 Molecule.one 展示了一个使用 GPT-5.4 的近乎自主 AI 化学家，用于改进药物研发中的一项关键反应，以推进药物化学研究。原文未说明反应类型、改进幅度、实验验证方式或人工介入程度。该工作属于官方发布记录中的研究展示，其效果尚未见独立验证，读者应将其视为作者方声明而非已确立结论。",
+    "keyPoints": [
+      "OpenAI 与 Molecule.one 展示使用 GPT-5.4 的近乎自主 AI 化学家。",
+      "该系统的目标是改进药物化学中的一项关键反应。",
+      "当前收录材料未提供反应细节、改进幅度与验证方式。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

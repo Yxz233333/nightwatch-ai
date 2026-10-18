@@ -1,0 +1,27 @@
+{
+  "id": "20704b424794dee0",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Early experiments in accelerating science with GPT-5",
+  "summary": "官方发布介绍首批研究案例，展示 GPT-5 如何在数学、物理、生物学和计算机科学中加速科学进展。",
+  "url": "https://openai.com/index/accelerating-science-gpt-5",
+  "date": "2025-11-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-20T00:00:00+00:00",
+  "breakthrough": true,
+  "breakthroughField": "AI 科研协作",
+  "titleEn": "Early experiments in accelerating science with GPT-5",
+  "titleZh": "用 GPT-5 加速科学的早期实验",
+  "details": {
+    "overview": "官方发布介绍首批研究案例，展示 GPT-5 如何在数学、物理、生物学和计算机科学中加速科学进展。摘要表示，这些案例呈现 AI 与研究人员协作生成证明、发现新见解并改变发现节奏的方式。原文未列出具体研究结论、验证方式或同行评审情况，相关细节应以原始发布为准，不宜视为已获独立验证。",
+    "keyPoints": [
+      "官方公布首批研究案例，覆盖数学、物理、生物和计算机科学。",
+      "摘要称 GPT-5 可协助研究人员生成证明并发现新见解。",
+      "官方称这些案例展示 AI 与研究者协作改变发现节奏。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

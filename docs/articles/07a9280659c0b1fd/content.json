@@ -1,0 +1,25 @@
+{
+  "id": "07a9280659c0b1fd",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Addendum to GPT-5 system card: GPT-5-Codex",
+  "summary": "该附录为 GPT-5 系统卡的补充，介绍新模型 GPT-5-Codex。",
+  "url": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex",
+  "date": "2025-09-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-15T00:00:00+00:00",
+  "titleEn": "Addendum to GPT-5 system card: GPT-5-Codex",
+  "titleZh": "GPT-5 系统卡附录：GPT-5-Codex",
+  "details": {
+    "overview": "该附录为 GPT-5 系统卡的补充，介绍新模型 GPT-5-Codex。摘要表示，它是 GPT-5 的版本，针对 Codex 中的智能体编程进一步优化。其特点是依据任务复杂度更动态地调整思考投入：对简单对话查询或小任务快速响应，对更复杂任务则独立工作更长时间。原文未给出具体评测数据或独立验证结论。",
+    "keyPoints": [
+      "GPT-5-Codex 是 GPT-5 系统卡附录中介绍的新模型",
+      "按任务复杂度动态调整思考投入",
+      "简单任务快速响应，复杂任务独立工作更久"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

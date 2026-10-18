@@ -1,0 +1,25 @@
+{
+  "id": "53bc5b96c13a98c7",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Give Your Coding Agents a Memory You Own",
+  "summary": "现有材料仅有标题，未提供摘要或原文内容，无法确认具体研究对象、实现方式与作者声称的结果。",
+  "url": "https://huggingface.co/blog/funes",
+  "date": "2026-09-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-09-03T00:00:00+00:00",
+  "titleEn": "Give Your Coding Agents a Memory You Own",
+  "titleZh": "为你的编程智能体提供自有记忆",
+  "details": {
+    "overview": "现有材料仅有标题，未提供摘要或原文内容，无法确认具体研究对象、实现方式与作者声称的结果。标题显示该内容围绕为编程智能体提供用户自有的记忆展开，可能涉及记忆的归属、存储或使用方式。由于材料不足，本介绍仅能说明标题层面的主题，不能补充产品形态、技术方案或效果结论，相关细节需以原文为准。",
+    "keyPoints": [
+      "标题主题是为编程智能体提供自有记忆。",
+      "标题强调记忆由用户自己拥有。",
+      "材料不足，无法确认实现方式与效果。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

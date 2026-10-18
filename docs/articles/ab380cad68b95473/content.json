@@ -1,0 +1,25 @@
+{
+  "id": "ab380cad68b95473",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Priorities and principles for effective third party assessments",
+  "summary": "OpenAI发文阐述其对前沿模型与防护措施开展严格、安全且独立的第三方AI安全评估的优先事项与原则。",
+  "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+  "date": "2026-09-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-22T00:00:00+00:00",
+  "titleEn": "Priorities and principles for effective third party assessments",
+  "titleZh": "有效第三方评估的优先事项与原则",
+  "details": {
+    "overview": "OpenAI发文阐述其对前沿模型与防护措施开展严格、安全且独立的第三方AI安全评估的优先事项与原则。原文摘要仅说明这一总体立场，未列出具体原则条目、评估范围、实施时间或与外部机构的安排，因此无法进一步说明各项原则的内容与落地方式。",
+    "keyPoints": [
+      "OpenAI提出第三方AI安全评估的优先事项与原则",
+      "强调评估应严格、安全且独立，对象为前沿模型与防护措施",
+      "原文未列出具体原则条目与实施安排"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "90827d7bf7e1830e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+  "summary": "该材料仅提供一句摘要：一项针对 1000 多名学生的随机研究，考察 ChatGPT、批判性思维、原创性以及学生在真实大学作业中的表现。",
+  "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+  "date": "2026-08-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-27T09:00:00+00:00",
+  "titleEn": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+  "titleZh": "更好的答案，更广的思考：学生从 ChatGPT 与批判性思维训练中获得什么",
+  "details": {
+    "overview": "该材料仅提供一句摘要：一项针对 1000 多名学生的随机研究，考察 ChatGPT、批判性思维、原创性以及学生在真实大学作业中的表现。当前收录材料未提供研究设计细节、分组方式、具体结果与结论，也未说明是否经过同行评审。因此无法判断 ChatGPT 与批判性思维训练各自的作用及效果大小，相关内容需以原始发布为准。",
+    "keyPoints": [
+      "研究为针对 1000 多名学生的随机研究。",
+      "考察 ChatGPT、批判性思维、原创性与真实大学作业表现。",
+      "材料未披露具体结果与结论。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

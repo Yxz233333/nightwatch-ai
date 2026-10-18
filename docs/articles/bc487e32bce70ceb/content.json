@@ -1,0 +1,23 @@
+{
+  "id": "bc487e32bce70ceb",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Updated Box, Notion, Linear, and Dropbox apps",
+  "summary": "该功能更新称，ChatGPT正在推出更新版的Box、Notion、Linear和Dropbox应用，新增应用操作，并在支持的情况下加入写入能力，同时将最新应用体验引入ChatGPT。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-box-notion-linear-and-dropbox-apps",
+  "date": "2026-03-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Updated Box, Notion, Linear, and Dropbox apps",
+  "titleZh": "ChatGPT中Box、Notion、Linear和Dropbox应用更新",
+  "details": {
+    "overview": "该功能更新称，ChatGPT正在推出更新版的Box、Notion、Linear和Dropbox应用，新增应用操作，并在支持的情况下加入写入能力，同时将最新应用体验引入ChatGPT。已使用这些应用的用户需重新连接以启用更新体验；现有同步功能（仅Pro用户）不受影响。材料未说明具体写入范围或可用地区。",
+    "keyPoints": [
+      "ChatGPT更新Box、Notion、Linear和Dropbox应用，新增应用操作。",
+      "在支持的情况下加入写入能力，并带来最新应用体验。",
+      "已使用用户需重新连接应用；Pro用户现有同步功能不受影响。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

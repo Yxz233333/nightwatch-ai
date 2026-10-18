@@ -1,0 +1,25 @@
+{
+  "id": "17be6c87351fb07d",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+  "summary": "现有材料仅有标题，未提供摘要或原文内容，无法确认具体研究对象、训练方法与作者声称的结果。",
+  "url": "https://huggingface.co/blog/train-to-paint-with-code",
+  "date": "2026-09-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-09-03T00:00:00+00:00",
+  "titleEn": "Training a coding model to paint watercolours with TRL and OpenEnv",
+  "titleZh": "用 TRL 和 OpenEnv 训练编程模型画水彩",
+  "details": {
+    "overview": "现有材料仅有标题，未提供摘要或原文内容，无法确认具体研究对象、训练方法与作者声称的结果。标题显示该内容涉及用 TRL 和 OpenEnv 训练一个编程模型来绘制水彩画。由于材料不足，本介绍仅能说明标题层面的主题，不能补充任务设置、数据、训练细节或效果结论，相关细节需以原文为准。",
+    "keyPoints": [
+      "标题主题是用 TRL 和 OpenEnv 训练编程模型画水彩。",
+      "涉及编程模型与水彩绘制任务的结合。",
+      "材料不足，无法确认训练细节与效果。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "65fc3ce3abd8b2b9",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+  "summary": "该条目仅有标题，原始发布内容为空，无法确认模型参数含义、端侧运行条件、性能指标或隐私机制的具体实现。",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+  "date": "2026-10-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-10-13T17:05:48+00:00",
+  "titleEn": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+  "titleZh": "使用LFM2.5-24B-A2B在端侧运行快速、私密的智能体",
+  "details": {
+    "overview": "该条目仅有标题，原始发布内容为空，无法确认模型参数含义、端侧运行条件、性能指标或隐私机制的具体实现。仅从标题可知其主张在设备端运行快速且私密的智能体。因材料不足，本介绍仅80字左右，具体能力与限制需以原文为准。",
+    "keyPoints": [
+      "标题称可在端侧运行智能体",
+      "标题强调快速与私密两项特性",
+      "原始发布内容为空，细节无法核实"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

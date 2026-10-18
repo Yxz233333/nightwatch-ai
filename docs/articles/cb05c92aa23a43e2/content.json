@@ -1,0 +1,23 @@
+{
+  "id": "cb05c92aa23a43e2",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT for Clinicians",
+  "summary": "该官方发布记录宣布面向美国经认证临床医生推出免费版 ChatGPT，旨在支持诊疗时的证据回顾、文档记录和医学研究。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-clinicians",
+  "date": "2026-04-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "ChatGPT for Clinicians",
+  "titleZh": "面向临床医生的 ChatGPT",
+  "details": {
+    "overview": "该官方发布记录宣布面向美国经认证临床医生推出免费版 ChatGPT，旨在支持诊疗时的证据回顾、文档记录和医学研究。功能包括可信临床搜索、引用、可复用技能、医学文献深度研究，并支持在符合条件的临床问题上获得 CME 学分。已有账户可注册，注册后作为独立工作区出现，原工作区保留。",
+    "keyPoints": [
+      "面向美国经认证临床医生提供免费版 ChatGPT，支持诊疗时证据回顾与文档记录。",
+      "包含可信临床搜索、引用、可复用技能和医学文献深度研究等功能。",
+      "支持在符合条件的临床问题上获得 CME 学分，注册后为独立工作区。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

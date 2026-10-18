@@ -1,0 +1,25 @@
+{
+  "id": "ee1e6ff69cb3b7db",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.159.0 发布",
+  "summary": "Codex CLI 0.159.0 的版本说明列出多项新功能与修复。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.159.0",
+  "date": "2026-09-29",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-09-29T08:05:42+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.159.0 发布",
+  "titleZh": "Codex CLI 0.159.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.159.0 的版本说明列出多项新功能与修复。新功能包括可选的 instant_interrupt，让新输入在模型响应或长时间代码模式调用中引导 Codex；新会话采用紧凑欢迎屏和统一标题；警告查看器关闭时清除已读警告；计划确认时可滚动记录；原生 Mermaid 渲染支持更多流程图元素；应用服务器客户端可从指定条目分页线程历史。修复涉及 Windows 控制台窗口、复制 Markdown 表格、登录与沙箱网络等。",
+    "keyPoints": [
+      "新增可选 instant_interrupt，允许新输入在响应中引导 Codex",
+      "改进 TUI 欢迎屏、警告查看器与 Mermaid 渲染",
+      "修复 Windows 控制台窗口、复制格式与 macOS TLS 等问题"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

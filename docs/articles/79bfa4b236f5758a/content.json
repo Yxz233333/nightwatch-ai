@@ -1,0 +1,24 @@
+{
+  "id": "79bfa4b236f5758a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Differential Transformer V2",
+  "summary": "原文仅提供标题“Differential Transformer V2”，未包含摘要或正文内容，无法确认具体研究对象、作者声称结果或研究意义。",
+  "url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
+  "date": "2026-01-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-01-20T03:20:57+00:00",
+  "titleEn": "Differential Transformer V2",
+  "titleZh": "差分 Transformer V2",
+  "details": {
+    "overview": "原文仅提供标题“Differential Transformer V2”，未包含摘要或正文内容，无法确认具体研究对象、作者声称结果或研究意义。材料不足，建议以官方发布原文为准。",
+    "keyPoints": [
+      "原文仅含标题，无摘要或正文。",
+      "无法提炼具体技术细节或结论。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "c20f5d40ade50141",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing a new $100 Google AI Ultra plan.",
+  "summary": "官方发布称，Google AI Ultra订阅现以每月100美元起提供，订阅者可更高额度访问先进Gemini模型及Gemini Omni视频生成等功能。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2026-05-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|Introducing a new $100 Google AI Ultra plan.|2026-05-19",
+  "titleEn": "Introducing a new $100 Google AI Ultra plan.",
+  "titleZh": "Google AI Ultra推出每月100美元新方案",
+  "details": {
+    "overview": "官方发布称，Google AI Ultra订阅现以每月100美元起提供，订阅者可更高额度访问先进Gemini模型及Gemini Omni视频生成等功能。该方案还包括20TB云存储和YouTube Premium等权益，面向全球提供。官方表示，Ultra面向最专注的用户，提供Gemini和Google AI的最佳体验，并让订阅者优先访问最新AI进展，以帮助塑造AI的未来。",
+    "keyPoints": [
+      "Google AI Ultra新方案每月100美元起，全球提供",
+      "包含更高额度访问先进Gemini模型和视频生成功能",
+      "附带20TB云存储和YouTube Premium等权益"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

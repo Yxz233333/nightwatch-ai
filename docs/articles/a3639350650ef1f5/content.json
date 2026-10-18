@@ -1,0 +1,23 @@
+{
+  "id": "a3639350650ef1f5",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Google Drive is now in Library",
+  "summary": "官方说明称，已连接 Google Drive 插件的用户可在 Library 中直接查看和浏览 Drive 文件与文件夹，包括直接共享给本人的内容；也可在输入框或通过 @提及 调取文件并加入聊天，无需重新上传。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#google-drive-is-now-in-library",
+  "date": "2026-08-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Google Drive is now in Library",
+  "titleZh": "Google Drive 现已接入 Library",
+  "details": {
+    "overview": "官方说明称，已连接 Google Drive 插件的用户可在 Library 中直接查看和浏览 Drive 文件与文件夹，包括直接共享给本人的内容；也可在输入框或通过 @提及 调取文件并加入聊天，无需重新上传。用户可在对话旁保持 Google Docs、Sheets 和 Slides 打开，让 ChatGPT 总结、分析、比较或基于其创建新内容，也可选择文件夹让其跨文件处理。内容仍与 Drive 关联，在支持且获授权时可更新源文件。初始包含“我的云端硬盘”及直接共享内容，暂不含共享云端硬盘；先向网页版 Plus、Pro、Enterprise、Edu、Healthcare 和 Business 用户推出，移动端后续支持。",
+    "keyPoints": [
+      "可在 Library 浏览 Drive 文件并直接加入聊天，无需重复上传",
+      "支持在对话旁打开 Docs、Sheets、Slides 并跨文件夹处理",
+      "初始不含共享云端硬盘，先面向网页版多类用户推出"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

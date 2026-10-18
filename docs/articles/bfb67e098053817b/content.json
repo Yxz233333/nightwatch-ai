@@ -1,0 +1,25 @@
+{
+  "id": "bfb67e098053817b",
+  "section": "news",
+  "category": "工具动态",
+  "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+  "summary": "该条目为工具动态，原始发布内容仅有标题与一句摘要，说明 DeepInfra 已接入 Hugging Face 的推理提供商体系。",
+  "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+  "date": "2026-04-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-04-29T00:00:00+00:00",
+  "titleEn": "DeepInfra on Hugging Face Inference Providers 🔥",
+  "titleZh": "DeepInfra 上线 Hugging Face 推理提供商",
+  "details": {
+    "overview": "该条目为工具动态，原始发布内容仅有标题与一句摘要，说明 DeepInfra 已接入 Hugging Face 的推理提供商体系。材料未提供具体接入方式、可用模型、定价或地区范围，因此无法展开细节。其意义在于为 Hugging Face 用户增加一个第三方推理服务选项，但实际能力与限制需以官方原文为准。",
+    "keyPoints": [
+      "DeepInfra 接入 Hugging Face 推理提供商体系",
+      "原始材料仅含标题与摘要，未披露模型与定价",
+      "具体可用范围与限制需以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

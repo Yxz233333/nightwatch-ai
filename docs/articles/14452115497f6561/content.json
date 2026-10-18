@@ -1,0 +1,24 @@
+{
+  "id": "14452115497f6561",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+  "summary": "摘要表示，Pollo AI 使用 GPT-5.6、GPT-6 Astra 和 GPT-Image-2.5，帮助创作者将大胆创意转化为详细图像和电影感视频广告。",
+  "url": "https://openai.com/index/pollo-ai",
+  "date": "2026-10-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-10-08T12:00:00+00:00",
+  "titleEn": "Pollo AI turns creative ideas into campaigns with OpenAI",
+  "titleZh": "Pollo AI 借助 OpenAI 将创意转化为营销活动",
+  "details": {
+    "overview": "摘要表示，Pollo AI 使用 GPT-5.6、GPT-6 Astra 和 GPT-Image-2.5，帮助创作者将大胆创意转化为详细图像和电影感视频广告。原文未说明具体工作流程、可用范围或效果数据。",
+    "keyPoints": [
+      "Pollo AI 使用 GPT-5.6、GPT-6 Astra 和 GPT-Image-2.5。",
+      "帮助创作者生成详细图像和电影感视频广告。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

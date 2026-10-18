@@ -1,0 +1,24 @@
+{
+  "id": "9ca58c58918f62e3",
+  "section": "news",
+  "category": "模型动态",
+  "title": "How Claude is uplifting biomolecular modeling",
+  "summary": "该稿件称，Anthropic让Claude在Claude Science中优化科学家常用的开源生物分子预测与设计模型，在不到四周内优化30余个模型，平均提速约4倍，并开发低内存模式，使单台NVIDIA GPU节点可预测超过1万token的生物分子系统。",
+  "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+  "date": "2026-09-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-09-17T18:44:00+00:00",
+  "titleEn": "How Claude is uplifting biomolecular modeling",
+  "titleZh": "Claude如何助力生物分子建模",
+  "details": {
+    "overview": "该稿件称，Anthropic让Claude在Claude Science中优化科学家常用的开源生物分子预测与设计模型，在不到四周内优化30余个模型，平均提速约4倍，并开发低内存模式，使单台NVIDIA GPU节点可预测超过1万token的生物分子系统。作者还称自研FlashPairformer内核在三角注意力与三角乘法上优于现有方案，并开源全部优化代码，同时与Adaptyv Bio合办蛋白质设计竞赛。上述结果来自Anthropic自述，尚待独立验证。",
+    "keyPoints": [
+      "Claude在不到四周内优化30余个开源生物模型，平均约4倍提速",
+      "低内存模式支持单GPU节点预测超1万token的生物分子系统",
+      "开源优化代码，并与Adaptyv Bio合办蛋白质设计竞赛"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

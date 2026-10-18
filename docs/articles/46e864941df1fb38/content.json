@@ -1,0 +1,25 @@
+{
+  "id": "46e864941df1fb38",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
+  "summary": "现有材料仅包含标题，未提供摘要或原始发布内容，无法确认 IT-Bench 与 MAST 的具体定义、研究方法、诊断结论或研究意义。",
+  "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
+  "date": "2026-02-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-02-18T16:15:45+00:00",
+  "titleEn": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
+  "titleZh": "IBM 与 UC Berkeley 利用 IT-Bench 和 MAST 诊断企业智能体失败原因",
+  "details": {
+    "overview": "现有材料仅包含标题，未提供摘要或原始发布内容，无法确认 IT-Bench 与 MAST 的具体定义、研究方法、诊断结论或研究意义。标题显示 IBM 与 UC Berkeley 围绕企业智能体失败原因开展诊断工作，并使用 IT-Bench 和 MAST。由于材料不足，本条目仅能说明研究对象与企业智能体失败诊断相关，其余细节需以原始发布内容为准。",
+    "keyPoints": [
+      "标题显示 IBM 与 UC Berkeley 合作诊断企业智能体失败原因。",
+      "研究涉及 IT-Bench 和 MAST，但材料未说明其具体内容。",
+      "现有材料不足，无法提炼具体结论或数据。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

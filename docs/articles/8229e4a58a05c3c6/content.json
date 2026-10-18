@@ -1,0 +1,23 @@
+{
+  "id": "8229e4a58a05c3c6",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Plugins in Codex",
+  "summary": "该文介绍Codex新增的精选插件目录，用户可在Codex内发现、安装并使用由应用和技能打包而成的工作流。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#plugins-in-codex",
+  "date": "2026-03-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Plugins in Codex",
+  "titleZh": "Codex中的插件",
+  "details": {
+    "overview": "该文介绍Codex新增的精选插件目录，用户可在Codex内发现、安装并使用由应用和技能打包而成的工作流。插件被定义为可安装的捆绑包，用于复用Codex工作流，便于在项目或团队间共享同一套配置。插件可在一个位置打包技能、可选的应用集成以及MCP服务器配置。原文未说明插件数量、可用范围或具体上线时间，相关限制以官方原文为准。",
+    "keyPoints": [
+      "Codex新增精选插件目录，支持发现、安装和使用打包工作流。",
+      "插件可打包技能、可选应用集成与MCP服务器配置。",
+      "插件旨在便于跨项目或团队共享同一套Codex配置。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

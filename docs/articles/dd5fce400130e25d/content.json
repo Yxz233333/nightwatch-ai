@@ -1,0 +1,24 @@
+{
+  "id": "dd5fce400130e25d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI partners with Cerebras",
+  "summary": "官方摘要表示，OpenAI与Cerebras合作新增750MW高速AI算力，以降低推理延迟，让ChatGPT在实时AI工作负载下响应更快。",
+  "url": "https://openai.com/index/cerebras-partnership",
+  "date": "2026-01-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-14T14:00:00+00:00",
+  "titleEn": "OpenAI partners with Cerebras",
+  "titleZh": "OpenAI与Cerebras达成合作",
+  "details": {
+    "overview": "官方摘要表示，OpenAI与Cerebras合作新增750MW高速AI算力，以降低推理延迟，让ChatGPT在实时AI工作负载下响应更快。当前收录材料未提供合作金额、上线时间表或具体适用产品范围，相关细节需以官方后续发布为准。",
+    "keyPoints": [
+      "合作内容为新增750MW高速AI算力",
+      "目标是降低推理延迟、提升ChatGPT实时响应速度"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

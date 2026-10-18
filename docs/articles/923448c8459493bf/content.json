@@ -1,0 +1,25 @@
+{
+  "id": "923448c8459493bf",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI, Oracle, and SoftBank expand Stargate with five new AI datacenter sites",
+  "summary": "OpenAI、Oracle 与 SoftBank 宣布为 Stargate 项目新增五个 AI 数据中心站点，以推进一项规模 5000 亿美元、10 吉瓦的美国 AI 基础设施建设工程，官方称其目标是支撑下一代 AI 并创造数万个就业岗位。",
+  "url": "https://openai.com/index/five-new-stargate-sites",
+  "date": "2025-09-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-23T14:00:00+00:00",
+  "titleEn": "OpenAI, Oracle, and SoftBank expand Stargate with five new AI datacenter sites",
+  "titleZh": "OpenAI、Oracle 与 SoftBank 扩建 Stargate，新增五个 AI 数据中心站点",
+  "details": {
+    "overview": "OpenAI、Oracle 与 SoftBank 宣布为 Stargate 项目新增五个 AI 数据中心站点，以推进一项规模 5000 亿美元、10 吉瓦的美国 AI 基础设施建设工程，官方称其目标是支撑下一代 AI 并创造数万个就业岗位。该消息属于基础设施与投资层面的行业动态，涉及合作方、站点数量与总体规模，但当前收录材料未提供各站点选址、建设时间表或就业岗位的具体构成。",
+    "keyPoints": [
+      "三方为 Stargate 新增五个 AI 数据中心站点。",
+      "项目总体规模为 5000 亿美元、10 吉瓦，面向美国基础设施。",
+      "官方称将支撑下一代 AI 并创造数万个就业岗位。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

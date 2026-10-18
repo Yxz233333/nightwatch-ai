@@ -1,0 +1,25 @@
+{
+  "id": "5bbfe276b24a95c3",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI for Healthcare",
+  "summary": "OpenAI for Healthcare旨在提供安全、企业级AI，支持HIPAA合规，以减轻行政负担并辅助临床工作流。",
+  "url": "https://openai.com/index/openai-for-healthcare",
+  "date": "2026-01-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-08T12:00:00+00:00",
+  "titleEn": "OpenAI for Healthcare",
+  "titleZh": "OpenAI医疗健康方案",
+  "details": {
+    "overview": "OpenAI for Healthcare旨在提供安全、企业级AI，支持HIPAA合规，以减轻行政负担并辅助临床工作流。原文摘要仅给出这一概括性定位，未披露具体产品组成、可用范围、定价或临床验证结果。该发布属于行业新闻，实际能力与限制需以官方原文为准。",
+    "keyPoints": [
+      "面向医疗健康场景提供安全、企业级AI能力。",
+      "摘要称其支持HIPAA合规。",
+      "目标包括减轻行政负担并辅助临床工作流。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

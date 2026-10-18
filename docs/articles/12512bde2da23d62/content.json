@@ -1,0 +1,25 @@
+{
+  "id": "12512bde2da23d62",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+  "summary": "该文介绍在Transformers.js中对拟议的跨源存储API进行实验。",
+  "url": "https://huggingface.co/blog/cross-origin-storage",
+  "date": "2026-06-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-06-23T00:00:00+00:00",
+  "titleEn": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+  "titleZh": "在Transformers.js中试验拟议的跨源存储API",
+  "details": {
+    "overview": "该文介绍在Transformers.js中对拟议的跨源存储API进行实验。当前收录材料未提供具体实验细节或结果，仅说明实验对象。",
+    "keyPoints": [
+      "实验对象为跨源存储API",
+      "在Transformers.js中进行",
+      "API仍为拟议阶段"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

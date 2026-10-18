@@ -1,0 +1,24 @@
+{
+  "id": "9206421b17625b5d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Spectrum-X — the Open, AI-Native Ethernet Fabric — Sets the Standard for Gigascale AI, Now With MRC",
+  "summary": "该官方发布称，建设强大 AI 工厂需要与 AI 雄心匹配的网络，NVIDIA Spectrum-X 以太网横向扩展基础设施是当前先进的 AI 网络技术，已被对性能、韧性和其他指标不愿妥协的行业领先者部署。",
+  "url": "https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/",
+  "date": "2026-05-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-05-06T11:30:20+00:00",
+  "titleEn": "NVIDIA Spectrum-X — the Open, AI-Native Ethernet Fabric — Sets the Standard for Gigascale AI, Now With MRC",
+  "titleZh": "NVIDIA Spectrum-X——开放、AI 原生以太网架构——为超大规模 AI 树立标准，现支持 MRC",
+  "details": {
+    "overview": "该官方发布称，建设强大 AI 工厂需要与 AI 雄心匹配的网络，NVIDIA Spectrum-X 以太网横向扩展基础设施是当前先进的 AI 网络技术，已被对性能、韧性和其他指标不愿妥协的行业领先者部署。原文在此处截断，未展开 MRC 的具体含义与技术细节，相关范围与限制以原始发布为准。",
+    "keyPoints": [
+      "官方将 Spectrum-X 定位为开放、AI 原生的以太网架构",
+      "称其面向超大规模 AI 工厂的横向扩展网络需求",
+      "原文未展开 MRC 的具体技术细节"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

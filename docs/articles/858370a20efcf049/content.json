@@ -1,0 +1,27 @@
+{
+  "id": "858370a20efcf049",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Ten advances in mathematics and theoretical computer science",
+  "summary": "该发布称 OpenAI 在数学与理论计算机科学的若干长期未解问题上取得新结果，涉及几何、密码学和复杂性等方向。",
+  "url": "https://openai.com/index/ten-advances-in-mathematics",
+  "date": "2026-08-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-01T00:00:00+00:00",
+  "breakthrough": true,
+  "breakthroughField": "AI 数学研究",
+  "titleEn": "Ten advances in mathematics and theoretical computer science",
+  "titleZh": "数学与理论计算机科学的十项进展",
+  "details": {
+    "overview": "该发布称 OpenAI 在数学与理论计算机科学的若干长期未解问题上取得新结果，涉及几何、密码学和复杂性等方向。原文仅概述领域范围，未列出具体问题、证明细节或验证情况，因此这些结果应视为发布方说法，尚不能视为已获独立验证。",
+    "keyPoints": [
+      "发布称在长期未解问题上取得新结果",
+      "涉及几何、密码学与复杂性等方向",
+      "原文未给出具体问题与证明细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

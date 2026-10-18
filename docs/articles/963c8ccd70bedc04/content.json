@@ -1,0 +1,23 @@
+{
+  "id": "963c8ccd70bedc04",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "See Live voice content on your Lock Screen",
+  "summary": "该功能更新说明，实时语音对话的内容现可显示在 iPhone 锁定屏幕上，配备灵动岛的 iPhone 还会在灵动岛中显示，便于用户离开应用后继续跟进。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#see-live-voice-content-on-your-lock-screen",
+  "date": "2026-08-31",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "See Live voice content on your Lock Screen",
+  "titleZh": "在锁定屏幕上查看实时语音内容",
+  "details": {
+    "overview": "该功能更新说明，实时语音对话的内容现可显示在 iPhone 锁定屏幕上，配备灵动岛的 iPhone 还会在灵动岛中显示，便于用户离开应用后继续跟进。原文表示，实时活动可在用户使用其他应用或手机锁定时展示语音对话内容；若要在 ChatGPT 之外继续语音对话，需在“设置 → 语音”中开启后台对话。原文未说明具体机型范围或地区限制。",
+    "keyPoints": [
+      "实时语音对话内容可显示在 iPhone 锁定屏幕和灵动岛。",
+      "实时活动可在使用其他应用或锁屏时展示语音对话内容。",
+      "需在设置中开启后台对话，才能在 ChatGPT 之外继续语音对话。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

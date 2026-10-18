@@ -1,0 +1,25 @@
+{
+  "id": "5fddcfe05b27a075",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Strengthening the U.S. AI supply chain through domestic manufacturing",
+  "summary": "OpenAI 宣布启动一项新的需求征集（RFP），目标是强化美国 AI 供应链，具体方向包括加速本土制造、创造就业岗位以及扩展 AI 基础设施规模。",
+  "url": "https://openai.com/index/strengthening-the-us-ai-supply-chain",
+  "date": "2026-01-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-15T00:00:00+00:00",
+  "titleEn": "Strengthening the U.S. AI supply chain through domestic manufacturing",
+  "titleZh": "通过本土制造强化美国 AI 供应链",
+  "details": {
+    "overview": "OpenAI 宣布启动一项新的需求征集（RFP），目标是强化美国 AI 供应链，具体方向包括加速本土制造、创造就业岗位以及扩展 AI 基础设施规模。当前收录材料仅给出这一概要，未披露 RFP 的申请条件、资金规模、时间表或合作方信息；相关细节与限制需以官方原始发布为准。",
+    "keyPoints": [
+      "OpenAI 发布新 RFP，聚焦美国 AI 供应链",
+      "目标包括加速本土制造与创造就业",
+      "同时涉及扩展 AI 基础设施规模"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

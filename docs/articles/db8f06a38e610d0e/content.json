@@ -1,0 +1,24 @@
+{
+  "id": "db8f06a38e610d0e",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Yes, Claude can do Nine Loops",
+  "summary": "该文为物理学家兼科学作家 Matt von Hippel 的客座文章。",
+  "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+  "date": "2026-09-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-09-25T16:58:00+00:00",
+  "titleEn": "Yes, Claude can do Nine Loops",
+  "titleZh": "是的，Claude 能算九圈振幅",
+  "details": {
+    "overview": "该文为物理学家兼科学作家 Matt von Hippel 的客座文章。他此前向 AI 公司提出挑战：能否在有限算力预算下，用 AI 解决其原研究领域理论粒子物理中的前沿计算问题。Anthropic 选择在 N=4 超杨-米尔斯玩具模型中计算九圈振幅。文章介绍振幅学、微扰圈数展开与 bootstrap 方法，并称 Lance Dixon 此前做到八圈。作者称挑战提出约一个月后即被攻克，但材料未给出完整验证细节。",
+    "keyPoints": [
+      "作者以客座文章形式提出并回顾一项理论物理计算挑战",
+      "挑战目标是在 N=4 超杨-米尔斯玩具模型中计算九圈振幅",
+      "文章称挑战约一个月后被攻克，并介绍 bootstrap 方法与八圈先例"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

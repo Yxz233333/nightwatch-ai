@@ -1,0 +1,24 @@
+{
+  "id": "beade92b3a6addcc",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Our position on open-weights models",
+  "summary": "这是 Anthropic CEO Dario Amodei 关于开放权重模型的立场文章。",
+  "url": "https://www.anthropic.com/news/position-open-weights-models",
+  "date": "2026-07-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-07-27T18:36:00+00:00",
+  "titleEn": "Our position on open-weights models",
+  "titleZh": "我们对开放权重模型的立场",
+  "details": {
+    "overview": "这是 Anthropic CEO Dario Amodei 关于开放权重模型的立场文章。他明确表示 Anthropic 从未主张禁止开放权重模型，认为不具备危险能力的开放权重模型是公共品，保护主义禁令无法解决其最严重的国家安全担忧。他提出三项主张：防止强大芯片落入威权政权之手、阻止工业规模蒸馏、要求对所有足够强大的模型（开放与闭源）进行安全测试。他认同公开信中开放权重扩大经济参与、增强竞争和用户控制等部分，但不同意其关于开放权重必然更易开发防护措施、广泛能力获取必然更利于防御方的断言，认为应通过发布前严格测试实证回答。",
+    "keyPoints": [
+      "Amodei 明确表示 Anthropic 从未主张禁止开放权重模型。",
+      "主张管控芯片出口、阻止工业规模蒸馏、要求强模型安全测试。",
+      "不认同公开信中开放权重必然更利于防御方的断言。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

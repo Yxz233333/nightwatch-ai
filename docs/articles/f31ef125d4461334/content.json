@@ -1,0 +1,25 @@
+{
+  "id": "f31ef125d4461334",
+  "section": "news",
+  "category": "模型动态",
+  "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+  "summary": "该内容介绍GPT-6 Astra Ultrafast依托NVIDIA Blackwell GPU运行，现已在OpenAI API以及符合条件的ChatGPT Work和Codex用户中提供。",
+  "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
+  "date": "2026-10-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-10-01T23:44:13+00:00",
+  "titleEn": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+  "titleZh": "NVIDIA GPU如何加速OpenAI GPT-6 Astra Ultrafast",
+  "details": {
+    "overview": "该内容介绍GPT-6 Astra Ultrafast依托NVIDIA Blackwell GPU运行，现已在OpenAI API以及符合条件的ChatGPT Work和Codex用户中提供。发布方称，通过针对Blackwell架构的推理优化，Ultrafast的token生成速度最高可达Astra标准模式的8倍。原始材料在此处截断，未说明具体基准、测试条件及“符合条件”的具体范围，相关倍数来自发布方表述。",
+    "keyPoints": [
+      "GPT-6 Astra Ultrafast运行于NVIDIA Blackwell GPU，已在OpenAI API等渠道提供。",
+      "发布方称其token生成速度最高为Astra标准模式的8倍。",
+      "原始材料未披露测试条件与“符合条件用户”的具体范围。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

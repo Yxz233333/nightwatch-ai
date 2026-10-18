@@ -1,0 +1,24 @@
+{
+  "id": "073a7bf69d34515b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Into the Omniverse: Open-Source Physics Engine and OpenUSD Advance Robot Learning",
+  "summary": "文章指出，构建能在工厂、医院和公共场所与人类协同工作的机器人是巨大技术挑战。",
+  "url": "https://blogs.nvidia.com/blog/newton-physics-engine-openusd/",
+  "date": "2025-09-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-09-30T13:00:07+00:00",
+  "titleEn": "Into the Omniverse: Open-Source Physics Engine and OpenUSD Advance Robot Learning",
+  "titleZh": "走进 Omniverse：开源物理引擎与 OpenUSD 推进机器人学习",
+  "details": {
+    "overview": "文章指出，构建能在工厂、医院和公共场所与人类协同工作的机器人是巨大技术挑战。此类机器人需要类人的灵巧性、感知、认知与全身协调能力，以实时应对不可预测的真实环境。标题提到开源物理引擎与 OpenUSD 用于推进机器人学习，但摘要未展开具体方案与结果，相关技术细节需以原文为准。",
+    "keyPoints": [
+      "机器人在人类环境中工作需类人灵巧性、感知与全身协调。",
+      "应用场景包括工厂、医院与公共场所。",
+      "标题指向开源物理引擎与 OpenUSD 推进机器人学习。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "78da3b08357ac9bb",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Consensus accelerates research with GPT-5 and Responses API",
+  "summary": "Consensus 利用 GPT-5 和 OpenAI 的 Responses API 构建多智能体研究助手，能够在数分钟内阅读、分析并综合证据，帮助超过800万名研究人员加速科学发现。",
+  "url": "https://openai.com/index/consensus",
+  "date": "2025-10-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-23T09:00:00+00:00",
+  "titleEn": "Consensus accelerates research with GPT-5 and Responses API",
+  "titleZh": "Consensus 借助 GPT-5 和 Responses API 加速科研",
+  "details": {
+    "overview": "Consensus 利用 GPT-5 和 OpenAI 的 Responses API 构建多智能体研究助手，能够在数分钟内阅读、分析并综合证据，帮助超过800万名研究人员加速科学发现。该工具面向科研场景，旨在提升文献调研和证据整合的效率。官方材料未披露具体性能指标或独立验证结果。",
+    "keyPoints": [
+      "Consensus 使用 GPT-5 和 Responses API 构建多智能体研究助手。",
+      "该助手可在数分钟内阅读、分析并综合证据。",
+      "官方称其已帮助超过800万名研究人员加速科学发现。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "2d1b5d4f4f9e3beb",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "mmBERT: ModernBERT goes Multilingual",
+  "summary": "现有材料仅有标题，未提供摘要或正文，无法确认该工作的具体研究对象、训练数据、方法细节与作者声称的结果。",
+  "url": "https://huggingface.co/blog/mmbert",
+  "date": "2025-09-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-09-09T00:00:00+00:00",
+  "titleEn": "mmBERT: ModernBERT goes Multilingual",
+  "titleZh": "mmBERT：ModernBERT 走向多语言",
+  "details": {
+    "overview": "现有材料仅有标题，未提供摘要或正文，无法确认该工作的具体研究对象、训练数据、方法细节与作者声称的结果。从标题看，主题是将 ModernBERT 扩展到多语言场景的模型工作。由于缺少原文信息，本条目不对其架构改动、语言覆盖范围或评测表现作任何推断，建议以官方原始发布内容为准。",
+    "keyPoints": [
+      "标题指向 ModernBERT 的多语言扩展版本",
+      "现有材料缺少摘要与正文，细节无法确认",
+      "不对语言覆盖与评测表现作推断"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

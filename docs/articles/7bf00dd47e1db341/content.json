@@ -1,0 +1,25 @@
+{
+  "id": "7bf00dd47e1db341",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Learn ChatGPT workflows for sales teams",
+  "summary": "官方发布的学习类内容，主题是销售团队如何使用ChatGPT开展工作流。",
+  "url": "https://openai.com/academy/sales",
+  "date": "2026-04-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-10T00:00:00+00:00",
+  "titleEn": "Learn ChatGPT workflows for sales teams",
+  "titleZh": "学习面向销售团队的ChatGPT工作流",
+  "details": {
+    "overview": "官方发布的学习类内容，主题是销售团队如何使用ChatGPT开展工作流。据摘要，内容覆盖客户账户调研、会议准备、外联沟通、销售管道复盘以及销售执行等环节。原文仅提供一句摘要，未披露具体操作步骤、适用产品版本或效果数据，因此无法进一步说明细节。",
+    "keyPoints": [
+      "内容面向销售团队，介绍ChatGPT的实用工作流。",
+      "覆盖账户调研、会议准备、外联与管道复盘等环节。",
+      "原文仅有摘要，未提供具体步骤或效果数据。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

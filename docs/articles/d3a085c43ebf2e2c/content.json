@@ -1,0 +1,24 @@
+{
+  "id": "d3a085c43ebf2e2c",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure",
+  "summary": "NVIDIA 宣布，Microsoft Foundry 中的 Anthropic Claude 模型已正式可用，托管于 Microsoft Azure 并运行在 NVIDIA GB300 Blackwell Ultra GPU 上。",
+  "url": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/",
+  "date": "2026-06-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-29T17:00:19+00:00",
+  "titleEn": "Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure",
+  "titleZh": "Claude 遇上 Blackwell Ultra：Anthropic 模型现于 Azure 上运行于 NVIDIA GB300",
+  "details": {
+    "overview": "NVIDIA 宣布，Microsoft Foundry 中的 Anthropic Claude 模型已正式可用，托管于 Microsoft Azure 并运行在 NVIDIA GB300 Blackwell Ultra GPU 上。文章称这为 Azure 原生企业提供构建自主与领域专用 AI 智能体的新途径，并指出随着智能体 AI 更自主，企业对算力的需求持续上升。原始内容在此处截断，具体性能与定价未披露。",
+    "keyPoints": [
+      "Microsoft Foundry 中的 Claude 模型已正式可用，运行于 NVIDIA GB300 Blackwell Ultra GPU。",
+      "面向 Azure 原生企业，用于构建自主与领域专用 AI 智能体。",
+      "原始内容截断，未披露性能与定价细节。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

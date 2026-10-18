@@ -1,0 +1,25 @@
+{
+  "id": "cf59ce0777a24f5c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Advisory Group on Mathematics and Artificial Intelligence",
+  "summary": "官方摘要称，OpenAI 正与一个独立的数学与人工智能咨询小组合作，为新兴 AI 成果的评审与传播提供指导。",
+  "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+  "date": "2026-09-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-21T12:00:00+00:00",
+  "titleEn": "Advisory Group on Mathematics and Artificial Intelligence",
+  "titleZh": "数学与人工智能咨询小组",
+  "details": {
+    "overview": "官方摘要称，OpenAI 正与一个独立的数学与人工智能咨询小组合作，为新兴 AI 成果的评审与传播提供指导。当前收录材料未提供小组成员、工作机制或具体评审流程，该安排属于发布方对合作方向的说明，细节需以原始发布内容为准。",
+    "keyPoints": [
+      "OpenAI 与独立咨询小组就数学与 AI 开展合作",
+      "合作方向是指导新兴 AI 成果的评审与传播",
+      "原文未公布成员构成与具体流程"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

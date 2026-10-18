@@ -1,0 +1,23 @@
+{
+  "id": "fb23fdc395b93db4",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Computer History for macOS",
+  "summary": "官方说明介绍，Computer History 是 ChatGPT macOS 应用中的可选功能，让 ChatGPT 和 Codex 参考用户在应用与网站中的部分活动，减少重复说明。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#computer-history-for-macos",
+  "date": "2026-08-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Computer History for macOS",
+  "titleZh": "macOS 版 ChatGPT 的 Computer History 功能",
+  "details": {
+    "overview": "官方说明介绍，Computer History 是 ChatGPT macOS 应用中的可选功能，让 ChatGPT 和 Codex 参考用户在应用与网站中的部分活动，减少重复说明。它记录交互事件，而非截图、录屏、麦克风输入或系统音频，且不含隐私浏览。该功能默认关闭，面向 Pro、Business 和 Enterprise 用户；企业管理员须先授权。用户可暂停、选择纳入的应用与网站，并查看或删除时间线条目。目前不适用于欧洲经济区、英国和瑞士。",
+    "keyPoints": [
+      "记录应用与网站交互事件，不含截图、录屏和音频",
+      "默认关闭，Pro、Business、Enterprise 可用且企业需管理员授权",
+      "用户可暂停、选择范围并查看或删除时间线条目"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

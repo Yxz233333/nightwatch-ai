@@ -1,0 +1,25 @@
+{
+  "id": "b5b9e2f370441823",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+  "summary": "该条目介绍英国AI安全研究所（UK AISI）与EvalEval在使基准测试结果可复现方面的工作。",
+  "url": "https://huggingface.co/blog/evaleval-aisi",
+  "date": "2026-09-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-09-22T00:00:00+00:00",
+  "titleEn": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+  "titleZh": "英国AISI与EvalEval如何让基准测试结果可复现",
+  "details": {
+    "overview": "该条目介绍英国AI安全研究所（UK AISI）与EvalEval在使基准测试结果可复现方面的工作。原文仅有标题，未说明双方合作的具体方法、涉及的基准测试、复现流程或已发布成果，因此无法展开技术细节。相关结论与工具需以官方原始发布内容为准。",
+    "keyPoints": [
+      "主题为英国AISI与EvalEval提升基准结果可复现性",
+      "当前收录材料未提供具体方法、基准或成果",
+      "细节需以官方原始发布为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

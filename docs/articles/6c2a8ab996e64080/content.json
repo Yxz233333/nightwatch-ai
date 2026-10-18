@@ -1,0 +1,25 @@
+{
+  "id": "6c2a8ab996e64080",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
+  "summary": "该条目介绍德甲俱乐部沃尔夫斯堡在俱乐部范围内推广ChatGPT的做法。",
+  "url": "https://openai.com/index/vfl-wolfsburg",
+  "date": "2026-03-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-05T00:00:00+00:00",
+  "titleEn": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
+  "titleZh": "沃尔夫斯堡足球俱乐部将ChatGPT转化为全俱乐部能力",
+  "details": {
+    "overview": "该条目介绍德甲俱乐部沃尔夫斯堡在俱乐部范围内推广ChatGPT的做法。原文摘要称，其重点在于人而非试点项目，借此在保持足球身份的同时扩展效率、创造力与知识。材料未披露具体部署规模、使用人数或成效数据，相关结论仅为官方发布中的表述。",
+    "keyPoints": [
+      "沃尔夫斯堡俱乐部在全俱乐部层面推广ChatGPT能力。",
+      "做法强调以人为中心，而非停留在零散试点。",
+      "官方称目标是提升效率、创造力与知识共享。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

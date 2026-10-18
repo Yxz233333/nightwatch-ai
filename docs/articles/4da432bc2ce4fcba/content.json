@@ -1,0 +1,25 @@
+{
+  "id": "4da432bc2ce4fcba",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Any Custom Frontend with Gradio's Backend",
+  "summary": "该发布介绍如何以 Gradio 作为后端，为任意自定义前端提供支持。",
+  "url": "https://huggingface.co/blog/introducing-gradio-server",
+  "date": "2026-04-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-04-01T00:00:00+00:00",
+  "titleEn": "Any Custom Frontend with Gradio's Backend",
+  "titleZh": "用 Gradio 后端构建任意自定义前端",
+  "details": {
+    "overview": "该发布介绍如何以 Gradio 作为后端，为任意自定义前端提供支持。原文仅有标题与一句摘要，未说明具体实现方式、接口形式、适用范围或限制，也未提供示例与版本信息。因此本条只能确认其主题是前后端分离式的 Gradio 使用方式，具体能力与推出范围需以官方原始发布记录为准。",
+    "keyPoints": [
+      "主题为将 Gradio 用作后端，配合任意自定义前端",
+      "原文未说明接口形式、示例与适用范围",
+      "推出范围与限制需以官方原始发布记录为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

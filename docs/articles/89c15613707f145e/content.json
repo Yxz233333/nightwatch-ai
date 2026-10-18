@@ -1,0 +1,25 @@
+{
+  "id": "89c15613707f145e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Simulate real-world places with Project Genie and Street View",
+  "summary": "据官方发布记录，Google 将 Project Genie 的访问范围扩展至全球 Google AI Ultra 订阅用户，并推出一项由街景（Street View）支持的新能力，用于模拟真实世界地点。",
+  "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+  "date": "2026-05-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-05-17T19:53:18+00:00",
+  "titleEn": "Simulate real-world places with Project Genie and Street View",
+  "titleZh": "用 Project Genie 与街景模拟真实世界地点",
+  "details": {
+    "overview": "据官方发布记录，Google 将 Project Genie 的访问范围扩展至全球 Google AI Ultra 订阅用户，并推出一项由街景（Street View）支持的新能力，用于模拟真实世界地点。原文未说明该能力的具体操作方式、生成内容形式或地区差异，订阅资格与功能限制仍需以官方原文为准。",
+    "keyPoints": [
+      "Project Genie 访问范围扩展至全球 Google AI Ultra 订阅用户",
+      "新增由街景支持的能力，用于模拟真实世界地点",
+      "具体功能形式与限制需以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

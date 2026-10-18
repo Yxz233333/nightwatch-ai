@@ -1,0 +1,24 @@
+{
+  "id": "c952486fabeb8079",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Codex now offers more flexible pricing for teams",
+  "summary": "OpenAI 宣布为 ChatGPT Business 和 Enterprise 中的 Codex 增加按需付费（pay-as-you-go）定价选项，旨在为团队提供更灵活的起步和扩展方式。",
+  "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+  "date": "2026-04-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-02T10:00:00+00:00",
+  "titleEn": "Codex now offers more flexible pricing for teams",
+  "titleZh": "Codex 为团队提供更灵活的定价",
+  "details": {
+    "overview": "OpenAI 宣布为 ChatGPT Business 和 Enterprise 中的 Codex 增加按需付费（pay-as-you-go）定价选项，旨在为团队提供更灵活的起步和扩展方式。该信息来自官方发布记录，具体推出范围和限制需以原文为准。",
+    "keyPoints": [
+      "Codex 新增按需付费定价，适用于 ChatGPT Business 和 Enterprise。",
+      "该选项旨在让团队更灵活地开始使用并扩展 Codex。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

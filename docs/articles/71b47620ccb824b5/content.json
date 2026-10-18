@@ -1,0 +1,25 @@
+{
+  "id": "71b47620ccb824b5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Security incident disclosure — July 2026",
+  "summary": "该条目为2026年7月的安全事件披露公告，原始发布内容仅给出标题与摘要，未提供事件性质、影响范围、处置措施等具体信息。",
+  "url": "https://huggingface.co/blog/security-incident-july-2026",
+  "date": "2026-07-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-07-16T00:00:00+00:00",
+  "titleEn": "Security incident disclosure — July 2026",
+  "titleZh": "安全事件披露——2026年7月",
+  "details": {
+    "overview": "该条目为2026年7月的安全事件披露公告，原始发布内容仅给出标题与摘要，未提供事件性质、影响范围、处置措施等具体信息。因此无法说明涉及哪些系统或用户、事件严重程度及后续安排。读者应以官方原文为准，关注其后续补充说明。",
+    "keyPoints": [
+      "条目为2026年7月安全事件披露公告",
+      "当前收录材料未提供事件性质与影响范围",
+      "具体细节需以官方原始发布为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

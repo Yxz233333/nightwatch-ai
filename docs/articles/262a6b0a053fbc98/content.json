@@ -1,0 +1,24 @@
+{
+  "id": "262a6b0a053fbc98",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+  "summary": "该官方发布称，NVIDIA Vera Rubin NVL72 在 AI 智能体场景下每瓦可完成最多30倍的工作量，并称其为新的能效标准。",
+  "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
+  "date": "2026-08-24",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-08-24T15:00:19+00:00",
+  "titleEn": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+  "titleZh": "每瓦最多30倍工作量：NVIDIA Vera Rubin NVL72 为 AI 智能体树立新能效标准",
+  "details": {
+    "overview": "该官方发布称，NVIDIA Vera Rubin NVL72 在 AI 智能体场景下每瓦可完成最多30倍的工作量，并称其为新的能效标准。原文另引 OpenRouter 数据指出，智能体式 AI 工作负载消耗的 token 是简单聊天请求的15倍。材料未给出测试方法、对比基线或具体配置，相关数字与适用范围应以官方原文为准。",
+    "keyPoints": [
+      "官方称 Vera Rubin NVL72 每瓦工作量最高提升至30倍",
+      "原文引 OpenRouter 数据：智能体负载 token 用量为简单聊天的15倍",
+      "未披露测试方法、对比基线及具体配置细节"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

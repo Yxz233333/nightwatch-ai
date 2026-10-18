@@ -1,0 +1,25 @@
+{
+  "id": "ffa2646f338d08c8",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Gemini 3.5: frontier intelligence with action",
+  "summary": "该发布称，Gemini 3.5 旨在帮助用户执行复杂的智能体工作流。",
+  "url": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/",
+  "date": "2026-05-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-05-15T22:50:12+00:00",
+  "titleEn": "Gemini 3.5: frontier intelligence with action",
+  "titleZh": "Gemini 3.5：具备行动能力的前沿智能",
+  "details": {
+    "overview": "该发布称，Gemini 3.5 旨在帮助用户执行复杂的智能体工作流。当前收录材料仅给出这一句定位，未说明具体能力指标、可用范围或限制，因此无法进一步介绍其技术细节与验证情况；相关推出范围和限制应以官方原始发布记录为准。",
+    "keyPoints": [
+      "定位为帮助执行复杂、智能体式工作流的前沿模型。",
+      "当前收录材料未提供具体能力指标与评测结果。",
+      "推出范围和限制需以官方原始记录为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

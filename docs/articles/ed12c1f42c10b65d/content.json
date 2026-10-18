@@ -1,0 +1,25 @@
+{
+  "id": "ed12c1f42c10b65d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Welcome RL Environments to the hub",
+  "summary": "现有材料仅提供标题“Welcome RL Environments to the hub”，没有摘要或原始发布内容，无法确认 RL Environments 的具体功能、所属平台、上线范围或使用方式。",
+  "url": "https://huggingface.co/blog/rl-environments",
+  "date": "2026-09-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-09-28T00:00:00+00:00",
+  "titleEn": "Welcome RL Environments to the hub",
+  "titleZh": "RL Environments 正式上线 hub",
+  "details": {
+    "overview": "现有材料仅提供标题“Welcome RL Environments to the hub”，没有摘要或原始发布内容，无法确认 RL Environments 的具体功能、所属平台、上线范围或使用方式。标题表明强化学习环境被引入某个 hub。由于信息不足，本条目只能说明这一上线动态，不能补充技术细节或评价其影响。",
+    "keyPoints": [
+      "标题表明 RL Environments 被引入 hub。",
+      "材料未说明具体平台、功能与上线范围。",
+      "无法确认使用方式与相关技术细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

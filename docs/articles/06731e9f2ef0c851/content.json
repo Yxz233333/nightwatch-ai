@@ -1,0 +1,25 @@
+{
+  "id": "06731e9f2ef0c851",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Announces New Investments in France’s Startups",
+  "summary": "NVIDIA 发文称法国企业正在太空、金融服务、公共部门和科学研究等行业部署代理式计算，显示该国生态已从雄心转向应用。",
+  "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
+  "date": "2026-10-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-10-13T05:00:31+00:00",
+  "titleEn": "NVIDIA Announces New Investments in France’s Startups",
+  "titleZh": "NVIDIA 宣布对法国初创企业的新投资",
+  "details": {
+    "overview": "NVIDIA 发文称法国企业正在太空、金融服务、公共部门和科学研究等行业部署代理式计算，显示该国生态已从雄心转向应用。文章提到 2025 年 2 月的 AI 行动峰会和 2025 年及 2026 年的 Choose France 峰会奠定了重大算力承诺的基础。原文摘要在此处截断，未披露具体投资金额、被投企业名称或交易细节。",
+    "keyPoints": [
+      "法国企业正在太空、金融、公共部门和科研等领域部署代理式计算。",
+      "文章将进展归因于 AI 行动峰会和 Choose France 峰会带来的算力承诺。",
+      "当前收录材料未提供具体投资金额或被投企业细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

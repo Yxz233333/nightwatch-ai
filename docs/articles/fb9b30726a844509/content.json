@@ -1,0 +1,25 @@
+{
+  "id": "fb9b30726a844509",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing GPT-5.4",
+  "summary": "OpenAI发布GPT-5.4，摘要称其为面向专业工作最强大且高效的前沿模型，具备最先进的编码、计算机使用、工具搜索能力，并支持100万token上下文。",
+  "url": "https://openai.com/index/introducing-gpt-5-4",
+  "date": "2026-03-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-05T10:00:00+00:00",
+  "titleEn": "Introducing GPT-5.4",
+  "titleZh": "推出GPT-5.4",
+  "details": {
+    "overview": "OpenAI发布GPT-5.4，摘要称其为面向专业工作最强大且高效的前沿模型，具备最先进的编码、计算机使用、工具搜索能力，并支持100万token上下文。具体可用范围与限制需以原文为准。",
+    "keyPoints": [
+      "定位为面向专业工作的前沿模型，强调能力与效率。",
+      "摘要列出编码、计算机使用、工具搜索为最先进能力。",
+      "支持100万token上下文窗口。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

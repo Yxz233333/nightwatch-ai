@@ -13,7 +13,7 @@
   "titleEn": "The Dimension of the Two-Adic Hecke Algebra at Odd Level",
   "titleZh": "奇数级上二进Hecke代数的维数",
   "details": {
-    "overview": "稿件研究奇数正整数N上水平Γ₁(N)的完整二进Hecke代数，作者声称其每个不可约分支的Krull维数均为4，从而证明Emerton维数猜想在p=2时的情形，并覆盖所有剩余分支。该结果若成立，将为Hecke代数结构及相应模形式表示理论提供统一的维数刻画，但摘要未给出证明思路，且该手稿尚未经独立审查。",
+    "overview": "稿件研究奇数正整数N上水平Γ₁(N)的完整二进Hecke代数，作者声称其每个不可约分支的Krull维数均为4，从而证明Emerton维数猜想在p=2时的情形，并覆盖所有剩余分支。该结果若成立，将为Hecke代数结构及相应模形式表示理论提供统一的维数刻画，但当前收录摘要未给出证明思路，且该手稿尚未经独立审查。",
     "keyPoints": [
       "研究对象为奇数级Γ₁(N)的完整二进Hecke代数。",
       "作者声称每个不可约分支的Krull维数都等于4。",

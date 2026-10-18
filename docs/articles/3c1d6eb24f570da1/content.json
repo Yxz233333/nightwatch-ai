@@ -1,0 +1,25 @@
+{
+  "id": "3c1d6eb24f570da1",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing OpenAI Privacy Filter",
+  "summary": "OpenAI 发布名为 Privacy Filter 的开放权重模型，用于检测并遮蔽文本中的个人可识别信息（PII）。",
+  "url": "https://openai.com/index/introducing-openai-privacy-filter",
+  "date": "2026-04-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-22T00:00:00+00:00",
+  "titleEn": "Introducing OpenAI Privacy Filter",
+  "titleZh": "OpenAI Privacy Filter 发布",
+  "details": {
+    "overview": "OpenAI 发布名为 Privacy Filter 的开放权重模型，用于检测并遮蔽文本中的个人可识别信息（PII）。官方摘要称其在该任务上达到当前最优准确率。材料未披露模型规模、训练数据、评测基准与具体使用限制，相关细节需以原始发布为准。",
+    "keyPoints": [
+      "开放权重模型，面向文本中个人可识别信息的检测与遮蔽",
+      "官方摘要声称达到当前最优准确率，未给出评测细节",
+      "模型规模、训练数据与使用限制当前收录材料未提供"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

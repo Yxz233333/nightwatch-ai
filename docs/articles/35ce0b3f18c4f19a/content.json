@@ -1,0 +1,24 @@
+{
+  "id": "35ce0b3f18c4f19a",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Claude’s values across models and languages",
+  "summary": "Anthropic 表示其分析了约 30 万条真实 Claude.ai 对话，将此前识别的数千种价值观压缩为四个可解释的轴，用以衡量 Claude 表达的价值观如何随模型和语言变化。",
+  "url": "https://www.anthropic.com/research/claude-values-models-languages",
+  "date": "2026-07-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-07-13T17:08:00+00:00",
+  "titleEn": "Claude’s values across models and languages",
+  "titleZh": "Claude 在不同模型与语言中的价值观",
+  "details": {
+    "overview": "Anthropic 表示其分析了约 30 万条真实 Claude.ai 对话，将此前识别的数千种价值观压缩为四个可解释的轴，用以衡量 Claude 表达的价值观如何随模型和语言变化。摘要称四个轴解释了 15% 的价值观差异；Sonnet 4.6 更偏向温暖与顺从用户，Opus 4.7 更偏向准确严谨与防范滥用；温暖与严谨轴上的语言差异最大，阿拉伯语和印地语偏温暖，英语和俄语偏严谨。",
+    "keyPoints": [
+      "分析约 30 万条对话，将价值观压缩为四个轴",
+      "摘要称四轴解释 15% 的价值观差异",
+      "Sonnet 4.6 偏温暖，Opus 4.7 偏严谨"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "d82073a6953afddd",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+  "summary": "该条目仅有标题，未提供摘要或原始正文内容。",
+  "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+  "date": "2026-05-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-05-06T19:06:55+00:00",
+  "titleEn": "vLLM V0 to V1: Correctness Before Corrections in RL",
+  "titleZh": "vLLM从V0到V1：强化学习中的正确性优先于修正",
+  "details": {
+    "overview": "该条目仅有标题，未提供摘要或原始正文内容。标题指向vLLM从V0到V1版本演进中与强化学习相关的话题，并强调“正确性优先于修正”。由于缺少具体材料，无法说明其研究对象、作者结论或技术细节，本介绍仅能依据标题作有限提示，内容明显不足。",
+    "keyPoints": [
+      "标题涉及vLLM从V0到V1的版本演进。",
+      "主题与强化学习场景相关。",
+      "当前收录材料未提供正文，具体内容无法确认。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

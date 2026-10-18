@@ -1,0 +1,25 @@
+{
+  "id": "951440d90173b3a0",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Fine-tune Any LLM from the Hugging Face Hub with Together AI",
+  "summary": "该发布介绍通过 Together AI 对 Hugging Face Hub 上的任意大语言模型进行微调。",
+  "url": "https://huggingface.co/blog/togethercomputer/together-ft",
+  "date": "2025-09-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-09-10T17:04:36+00:00",
+  "titleEn": "Fine-tune Any LLM from the Hugging Face Hub with Together AI",
+  "titleZh": "使用 Together AI 微调 Hugging Face Hub 上的任意 LLM",
+  "details": {
+    "overview": "该发布介绍通过 Together AI 对 Hugging Face Hub 上的任意大语言模型进行微调。材料仅提供标题与摘要，未说明支持的模型范围、微调方式、计费或可用区域等细节，相关内容需以官方原文为准。本条仅反映官方发布记录中的功能定位，不构成对微调效果或可用性的独立验证。",
+    "keyPoints": [
+      "发布主题为用 Together AI 微调 Hugging Face Hub 上的 LLM。",
+      "材料未披露支持模型范围与微调方式细节。",
+      "具体可用范围与限制需以官方原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

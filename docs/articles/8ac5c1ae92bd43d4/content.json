@@ -1,0 +1,24 @@
+{
+  "id": "8ac5c1ae92bd43d4",
+  "section": "news",
+  "category": "模型动态",
+  "title": "TCS and Anthropic partner to bring Claude to regulated industries",
+  "summary": "Anthropic宣布与塔塔咨询服务公司（TCS）达成合作。",
+  "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+  "date": "2026-06-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-06-12T18:00:00+00:00",
+  "titleEn": "TCS and Anthropic partner to bring Claude to regulated industries",
+  "titleZh": "TCS与Anthropic合作，将Claude引入受监管行业",
+  "details": {
+    "overview": "Anthropic宣布与塔塔咨询服务公司（TCS）达成合作。TCS将在56个国家为5万名员工提供Claude，并为金融服务、医疗、公共部门等受监管行业客户构建基于Claude的产品，同时加入Claude合作伙伴网络。TCS作为“零号客户”，先在自身工程、财务、法务、营销和销售团队中使用，再将经验用于客户。TCS还将Claude打包为行业方案，如保险理赔处理、银行借贷咨询。双方高管均表示，此举旨在帮助受监管行业在信任与合规要求下加快AI落地。",
+    "keyPoints": [
+      "TCS将在56个国家为5万名员工提供Claude，并加入Claude合作伙伴网络。",
+      "TCS为金融、医疗、公共部门等受监管行业构建Claude驱动的产品与行业方案。",
+      "TCS作为“零号客户”先在内部多部门使用，再据此设计面向客户的系统。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

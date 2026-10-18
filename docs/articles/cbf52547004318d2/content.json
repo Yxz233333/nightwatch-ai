@@ -1,0 +1,24 @@
+{
+  "id": "cbf52547004318d2",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Measuring LLMs’ impact on N-day exploits",
+  "summary": "该稿件评估大语言模型加速和自动化 N-day 漏洞利用开发的能力。",
+  "url": "https://www.anthropic.com/research/n-days",
+  "date": "2026-06-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-06-08T13:00:00+00:00",
+  "titleEn": "Measuring LLMs’ impact on N-day exploits",
+  "titleZh": "测量大语言模型对 N-day 漏洞利用的影响",
+  "details": {
+    "overview": "该稿件评估大语言模型加速和自动化 N-day 漏洞利用开发的能力。N-day 指已公开披露但仅部分设备修补的漏洞，攻击者可在补丁间隙利用未修补系统。作者在 18 个近期 Firefox 安全补丁上测试，称其最强模型 Claude Mythos Preview 自主构建了 8 个可工作的代码执行利用；在 21 个 Windows 内核补丁上生成 8 条完整利用链，将低权限用户提升至 SYSTEM 控制。作者还发现关闭防护的公开模型也能构建利用，但数量较少。摘要表示，这意味着补丁间隙中的威胁显著增大，防御方应加快补丁部署。",
+    "keyPoints": [
+      "评估LLM加速N-day漏洞利用开发的能力",
+      "Mythos Preview在18个Firefox补丁中构建8个利用",
+      "在21个Windows内核补丁中生成8条完整利用链"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "47b66422a1a24f49",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "State of Open Models: Summer 2026 Observations",
+  "summary": "该条目标题为“开放模型现状：2026 年夏季观察”，属于行业新闻。",
+  "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+  "date": "2026-08-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-08-14T00:00:00+00:00",
+  "titleEn": "State of Open Models: Summer 2026 Observations",
+  "titleZh": "开放模型现状：2026 年夏季观察",
+  "details": {
+    "overview": "该条目标题为“开放模型现状：2026 年夏季观察”，属于行业新闻。原始发布未提供摘要或正文内容，仅有标题，因此无法说明具体研究对象、作者结论或数据来源。材料不足，无法进一步概括其内容或意义。",
+    "keyPoints": [
+      "标题指向开放模型领域的夏季观察。",
+      "原始发布未提供摘要或正文内容。",
+      "材料不足，无法提炼具体结论或数据。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

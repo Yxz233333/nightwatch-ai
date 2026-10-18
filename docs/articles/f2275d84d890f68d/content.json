@@ -1,0 +1,23 @@
+{
+  "id": "f2275d84d890f68d",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Build and install plugins in Codex",
+  "summary": "Codex 新增插件支持，插件是可安装的打包单元，将技能、应用集成和 MCP 服务器配置打包为可复用工作流。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2026-03-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "Build and install plugins in Codex",
+  "titleZh": "在 Codex 中构建和安装插件",
+  "details": {
+    "overview": "Codex 新增插件支持，插件是可安装的打包单元，将技能、应用集成和 MCP 服务器配置打包为可复用工作流。插件可在 Codex 应用、CLI 和 IDE 扩展中使用。用户可从插件目录安装精选插件，也可用内置的 @plugin-creator 技能搭建本地插件，并通过工作区级或主目录级市场进行测试。插件按用户或按仓库安装：个人安装使用 ~/.agents/plugins/marketplace.json 与 ~/.codex/plugins/，项目级安装使用 .agents/plugins/marketplace.json 与仓库内插件目录。每个插件文件夹需包含 .codex-plugin/plugin.json 清单，其余文件可选。",
+    "keyPoints": [
+      "插件打包技能、应用集成与 MCP 服务器配置，支持应用、CLI 和 IDE 扩展。",
+      "可按用户或按仓库安装，分别使用主目录与仓库内的市场配置。",
+      "内置 @plugin-creator 技能可搭建插件、添加本地市场条目并测试。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

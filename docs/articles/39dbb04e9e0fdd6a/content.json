@@ -1,0 +1,25 @@
+{
+  "id": "39dbb04e9e0fdd6a",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.158.0 发布",
+  "summary": "Codex CLI 0.158.0 为稳定版本更新，新增全屏 TUI 的选中即复制与右键粘贴配置，复制内容保留 Markdown 格式；支持连接需预注册 OAuth 客户端密钥的 MCP 服务器，并为 exec-server 直连 WebSocket 增加 bearer token 认证。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.158.0",
+  "date": "2026-09-28",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-09-28T05:07:23+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.158.0 发布",
+  "titleZh": "Codex CLI 0.158.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.158.0 为稳定版本更新，新增全屏 TUI 的选中即复制与右键粘贴配置，复制内容保留 Markdown 格式；支持连接需预注册 OAuth 客户端密钥的 MCP 服务器，并为 exec-server 直连 WebSocket 增加 bearer token 认证。图像生成与编辑可显式请求透明背景，编辑支持文件型会话图像；高权限命令的终端输入审批默认开启。另修复 Windows 与 Linux 沙箱、审批重试及 Mermaid 渲染等问题。",
+    "keyPoints": [
+      "全屏 TUI 支持选中即复制与右键粘贴，复制内容保留 Markdown 格式",
+      "支持需预注册 OAuth 客户端密钥的 MCP 服务器，并新增 WebSocket bearer token 认证",
+      "高权限命令终端输入审批默认开启，修复 Windows/Linux 沙箱与 Mermaid 渲染问题"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

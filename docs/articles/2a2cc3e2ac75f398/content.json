@@ -1,0 +1,23 @@
+{
+  "id": "2a2cc3e2ac75f398",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Privacy Center in ChatGPT",
+  "summary": "该发布称，隐私中心正向已登录的 ChatGPT Free、Go、Plus 和 Pro 用户推出，汇集聊天隐私、记忆、个性化、数据使用、已连接应用和账户安全等信息，并提供管理这些设置的链接。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#privacy-center-in-chatgpt",
+  "date": "2026-09-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Privacy Center in ChatGPT",
+  "titleZh": "ChatGPT 中的隐私中心",
+  "details": {
+    "overview": "该发布称，隐私中心正向已登录的 ChatGPT Free、Go、Plus 和 Pro 用户推出，汇集聊天隐私、记忆、个性化、数据使用、已连接应用和账户安全等信息，并提供管理这些设置的链接。隐私控制仍在 ChatGPT 设置中。网页端可从账户菜单进入帮助再选隐私中心；移动端在设置中选择隐私中心。可用选项取决于套餐、地区和工作区设置。",
+    "keyPoints": [
+      "隐私中心汇总聊天隐私、记忆与数据使用等信息",
+      "提供跳转到管理相关设置的链接",
+      "可用选项取决于套餐、地区和工作区设置"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "f9259024c8b2de17",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.86.0 发布",
+  "summary": "该工具动态介绍Codex CLI 0.86.0版本更新。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.86.0",
+  "date": "2026-01-16",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-01-16T01:18:52+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.86.0 发布",
+  "titleZh": "Codex CLI 0.86.0 发布",
+  "details": {
+    "overview": "该工具动态介绍Codex CLI 0.86.0版本更新。新功能包括支持在SKILL.toml中定义技能元数据（名称、描述、图标、品牌色、默认提示），并在应用服务器和TUI中展示；客户端可通过请求头显式禁用网络搜索并标记资格，以配合服务端灰度控制。修复项包括：接受MCP elicitation时发送空JSON而非null、恢复输入提示占位符非斜体样式、空粘贴事件不再触发剪贴板图片读取、统一exec清理后台进程。另有内部路由提示刷新和减少错误日志等杂项。",
+    "keyPoints": [
+      "新增SKILL.toml技能元数据定义与展示",
+      "客户端可显式禁用网络搜索并标记资格",
+      "修复MCP elicitation空内容、粘贴图片读取等问题"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

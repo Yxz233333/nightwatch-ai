@@ -1,0 +1,25 @@
+{
+  "id": "083a7bbc5c776e49",
+  "section": "news",
+  "category": "工具动态",
+  "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+  "summary": "该内容标题描述一个智能体通过串联两个 Hugging Face Spaces 构建了 3D 巴黎画廊。",
+  "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+  "date": "2026-06-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-06-09T10:46:19+00:00",
+  "titleEn": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+  "titleZh": "一个智能体如何通过串联两个 Hugging Face Spaces 构建 3D 巴黎画廊",
+  "details": {
+    "overview": "该内容标题描述一个智能体通过串联两个 Hugging Face Spaces 构建了 3D 巴黎画廊。原始发布内容为空，仅有标题，无法确认具体实现方法、所用模型或作者声称的结果，材料不足。",
+    "keyPoints": [
+      "智能体串联两个Hugging Face Spaces",
+      "构建了3D巴黎画廊",
+      "原文无具体实现细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

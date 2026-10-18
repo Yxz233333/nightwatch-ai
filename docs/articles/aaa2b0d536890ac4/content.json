@@ -1,0 +1,24 @@
+{
+  "id": "aaa2b0d536890ac4",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Apple’s Xcode now supports the Claude Agent SDK",
+  "summary": "该官方发布称，Xcode 26.3原生集成Claude Agent SDK，即驱动Claude Code的同一底层框架，开发者可在Xcode内使用子智能体、后台任务和插件，让Claude自主处理更复杂、运行时间更长的编码任务。",
+  "url": "https://www.anthropic.com/news/apple-xcode-claude-agent-sdk",
+  "date": "2026-02-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-02-03T18:03:29.760000+00:00",
+  "titleEn": "Apple’s Xcode now supports the Claude Agent SDK",
+  "titleZh": "苹果Xcode现已支持Claude Agent SDK",
+  "details": {
+    "overview": "该官方发布称，Xcode 26.3原生集成Claude Agent SDK，即驱动Claude Code的同一底层框架，开发者可在Xcode内使用子智能体、后台任务和插件，让Claude自主处理更复杂、运行时间更长的编码任务。此前Xcode 26已支持Claude Sonnet 4，但仅限逐轮请求。Xcode 26.3以发布候选版向Apple开发者计划成员提供，并称将很快上架App Store。",
+    "keyPoints": [
+      "Xcode 26.3原生集成Claude Agent SDK，即Claude Code所用底层框架",
+      "开发者可在IDE内使用子智能体、后台任务和插件处理长时编码任务",
+      "Xcode 26.3先以发布候选版向Apple开发者计划成员提供"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

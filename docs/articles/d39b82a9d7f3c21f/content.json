@@ -1,0 +1,25 @@
+{
+  "id": "d39b82a9d7f3c21f",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.33.0 发布",
+  "summary": "Codex CLI 0.33.0 是一次稳定版本更新。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.33.0",
+  "date": "2025-09-11",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-09-10T19:53:13+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.33.0 发布",
+  "titleZh": "Codex CLI 0.33.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.33.0 是一次稳定版本更新。发布说明指出，本次关键变更是回退此前的 PR #3179，因为该改动引入了回归问题。新功能方面，用户可试用基于 PR #3396 的新 Markdown 渲染器。合并的 PR 还涉及 Alt+Delete 删除光标右侧单词、引入 rollout items、作为 MCP 服务器时设置用户代理后缀、将初始历史移入协议、为 UserMessageEvent 添加图片，以及若干修复与文档更正。",
+    "keyPoints": [
+      "关键变更：回退 PR #3179，因其引入回归问题。",
+      "新功能：可试用 PR #3396 的新 Markdown 渲染器。",
+      "合并项含 Alt+Delete 删除右侧单词、rollout items 等。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

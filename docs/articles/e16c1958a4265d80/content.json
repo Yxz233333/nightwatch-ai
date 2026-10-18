@@ -1,0 +1,25 @@
+{
+  "id": "e16c1958a4265d80",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+  "summary": "该条目为模型动态，标题称 WeatherNext 3 是迄今最先进、最准确的全球天气 AI 模型。",
+  "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+  "date": "2026-09-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-09-03T15:02:08+00:00",
+  "titleEn": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+  "titleZh": "推出 WeatherNext 3：我们最先进、最准确的全球天气 AI 模型",
+  "details": {
+    "overview": "该条目为模型动态，标题称 WeatherNext 3 是迄今最先进、最准确的全球天气 AI 模型。提供的摘要与原文内容仅为同一句发布表述，未给出模型架构、训练数据、评估基准、对比对象或准确率数据，因此无法说明其具体能力与验证情况。“最先进、最准确”为发布方表述，需以官方原文及后续评估为准。",
+    "keyPoints": [
+      "发布方称 WeatherNext 3 为最先进、最准确的全球天气 AI 模型",
+      "材料未提供架构、数据与评估基准细节",
+      "准确性与先进性属发布方表述，待原文核实"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "3d861bd0d9bff5a1",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Agent skills in Codex",
+  "summary": "Codex 宣布支持“智能体技能”：可复用的指令包，可附带脚本与资源，帮助 Codex 可靠完成特定任务。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2025-12-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "Agent skills in Codex",
+  "titleZh": "Codex 中的智能体技能（Agent skills）",
+  "details": {
+    "overview": "Codex 宣布支持“智能体技能”：可复用的指令包，可附带脚本与资源，帮助 Codex 可靠完成特定任务。技能在 Codex CLI 和 IDE 扩展中均可用，用户可输入 `$skill-name` 显式调用，也可由 Codex 根据提示自动选择。技能遵循 agentskills.io 的开放规范，以包含必需 `SKILL.md` 的文件夹形式组织，可按用户安装于 `~/.codex/skills` 或按仓库安装于 `.codex/skills`，并附带若干内置与精选技能。",
+    "keyPoints": [
+      "技能是可复用指令包，可含脚本与资源",
+      "支持 `$skill-name` 显式调用或由 Codex 自动选择",
+      "遵循 agentskills.io 规范，按用户或按仓库安装"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

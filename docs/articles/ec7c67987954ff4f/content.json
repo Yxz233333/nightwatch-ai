@@ -1,0 +1,24 @@
+{
+  "id": "ec7c67987954ff4f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+  "summary": "该文为官方发布，介绍开放安全AI联盟。",
+  "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
+  "date": "2026-07-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-07-27T09:00:07+00:00",
+  "titleEn": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
+  "titleZh": "行业领袖联合成立开放安全AI联盟，聚焦AI安全与保障",
+  "details": {
+    "overview": "该文为官方发布，介绍开放安全AI联盟。摘要指出开源软件是全球经济的关键支柱，支撑云计算、金融服务、制造、电信、政府与互联网服务，并使技术对专家社区可访问、可观察；网络安全是开源软件的三大受益领域之一。联盟在上述基础上组建，但摘要在此截断，未列出成员名单、具体目标或治理方式，相关细节需以原文为准。",
+    "keyPoints": [
+      "联盟定位为开放安全AI，聚焦AI安全",
+      "强调开源软件对经济与网络安全的支撑作用",
+      "摘要未披露成员构成与具体行动计划"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "a80dbe77f97e86f6",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How AI-native companies turn workflows into operating capability",
+  "summary": "该文以 Basis、Clay 和 Exa Labs 三家公司为例，介绍它们使用 AI 智能体改进员工入职、客户账户管理和开发者集成等环节，并面向企业领导者总结可借鉴的做法。",
+  "url": "https://openai.com/index/ai-native-company-workflows",
+  "date": "2026-09-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-01T17:00:00+00:00",
+  "titleEn": "How AI-native companies turn workflows into operating capability",
+  "titleZh": "AI 原生企业如何将工作流转化为运营能力",
+  "details": {
+    "overview": "该文以 Basis、Clay 和 Exa Labs 三家公司为例，介绍它们使用 AI 智能体改进员工入职、客户账户管理和开发者集成等环节，并面向企业领导者总结可借鉴的做法。原文当前收录摘要未给出具体效果数据或实施细节，相关结论需以原始发布内容为准。",
+    "keyPoints": [
+      "Basis、Clay、Exa Labs 用 AI 智能体改进业务流程。",
+      "应用场景包括入职、账户管理和开发者集成。",
+      "文章面向企业领导者提炼可借鉴经验。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

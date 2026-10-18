@@ -1,0 +1,25 @@
+{
+  "id": "8439e015ed45dafa",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "AI for everyone in every language",
+  "summary": "该官方发布表示，相关工作正从传统文本翻译转向构建能够理解世界上丰富、鲜活语言及其真实表达方式的模型。",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+  "date": "2026-09-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google AI 官方博客",
+  "publishedAt": "2026-09-15T16:00:00+00:00",
+  "titleEn": "AI for everyone in every language",
+  "titleZh": "让每个人都能用每种语言使用AI",
+  "details": {
+    "overview": "该官方发布表示，相关工作正从传统文本翻译转向构建能够理解世界上丰富、鲜活语言及其真实表达方式的模型。当前收录材料仅给出这一方向性表述，未说明具体模型名称、支持语言数量、技术路线或发布时间，也未提供评测结果。因此可确认的是其目标定位：面向多语言、贴近真实使用场景的语言理解，而非仅做逐句文本翻译。",
+    "keyPoints": [
+      "目标是从传统文本翻译转向理解鲜活语言",
+      "强调按语言真实表达方式构建模型",
+      "当前收录材料未提供模型名称、语言数量或评测结果"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

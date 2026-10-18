@@ -1,0 +1,25 @@
+{
+  "id": "97e1b70364491feb",
+  "section": "news",
+  "category": "工具动态",
+  "title": "DeepMath: A lightweight math reasoning Agent with smolagents",
+  "summary": "现有材料仅有标题，未提供摘要或原始发布正文，无法确认 DeepMath 的具体实现方式、所用模型、评测结果与适用范围。",
+  "url": "https://huggingface.co/blog/intel-deepmath",
+  "date": "2025-12-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-12-04T00:00:00+00:00",
+  "titleEn": "DeepMath: A lightweight math reasoning Agent with smolagents",
+  "titleZh": "DeepMath：基于 smolagents 的轻量级数学推理 Agent",
+  "details": {
+    "overview": "现有材料仅有标题，未提供摘要或原始发布正文，无法确认 DeepMath 的具体实现方式、所用模型、评测结果与适用范围。标题显示其定位为基于 smolagents 构建的轻量级数学推理 Agent。以下要点仅从标题提炼，关于性能与效果的结论材料不足。",
+    "keyPoints": [
+      "定位为轻量级数学推理 Agent。",
+      "构建于 smolagents 框架之上。",
+      "材料未提供实现细节与评测结果。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

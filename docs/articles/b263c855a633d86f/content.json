@@ -1,0 +1,23 @@
+{
+  "id": "b263c855a633d86f",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex updates",
+  "summary": "该发布汇总Codex多项更新：符合条件的Plus和Pro用户获得速率限制重置的“存储”功能，上线时含一次免费重置，并可在Codex应用内发送推荐邀请；受邀者发出首条Codex消息后双方各获一次存储重置，授予后30天内可用。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-updates",
+  "date": "2026-06-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Codex updates",
+  "titleZh": "Codex更新",
+  "details": {
+    "overview": "该发布汇总Codex多项更新：符合条件的Plus和Pro用户获得速率限制重置的“存储”功能，上线时含一次免费重置，并可在Codex应用内发送推荐邀请；受邀者发出首条Codex消息后双方各获一次存储重置，授予后30天内可用。此外新增Chrome及Codex应用内浏览器的开发者模式，可受控访问Chrome DevTools协议，用于分析JavaScript、检查控制台与网络流量、查看DOM和样式并诊断实时浏览器问题，默认关闭。",
+    "keyPoints": [
+      "符合条件的Plus和Pro用户可存储速率限制重置，授予后30天内可用",
+      "推荐邀请双方在受邀者首次发消息后各获一次存储重置",
+      "新增默认关闭的开发者模式，提供受控Chrome DevTools协议访问"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

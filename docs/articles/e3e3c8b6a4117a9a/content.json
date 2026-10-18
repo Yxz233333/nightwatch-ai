@@ -1,0 +1,25 @@
+{
+  "id": "e3e3c8b6a4117a9a",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+  "summary": "该条为官方发布记录，标题称对2026年7月一起涉及前沿实验室智能体的入侵事件给出技术时间线剖析。",
+  "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+  "date": "2026-07-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-07-27T00:00:00+00:00",
+  "titleEn": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+  "titleZh": "前沿实验室智能体入侵事件剖析：2026年7月事件的技术时间线",
+  "details": {
+    "overview": "该条为官方发布记录，标题称对2026年7月一起涉及前沿实验室智能体的入侵事件给出技术时间线剖析。提供的摘要与标题相同，sourceText为空，未包含事件经过、受影响系统、攻击路径或处置结论等信息。因此仅能确认这是一份事件复盘性质的技术文档，其具体内容与结论尚缺乏材料支撑，需以官方原文为准。",
+    "keyPoints": [
+      "官方发布，属工具动态类内容",
+      "形式为针对单一事件的技术时间线复盘",
+      "材料未提供事件细节与结论"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

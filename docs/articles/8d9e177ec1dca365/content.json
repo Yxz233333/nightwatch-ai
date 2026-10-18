@@ -1,0 +1,23 @@
+{
+  "id": "8d9e177ec1dca365",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Google Drive app unification",
+  "summary": "ChatGPT 中的 Google 文件连接器现已统一归入 Google Drive，为在 Google Drive 上使用 Google Docs、Sheets 和 Slides 提供单一应用体验。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#google-drive-app-unification",
+  "date": "2026-03-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Google Drive app unification",
+  "titleZh": "Google Drive 应用统一",
+  "details": {
+    "overview": "ChatGPT 中的 Google 文件连接器现已统一归入 Google Drive，为在 Google Drive 上使用 Google Docs、Sheets 和 Slides 提供单一应用体验。新用户只需连接 Google Drive 应用即可使用这些操作，无需分别安装和认证多个 Google 文件应用。此前已连接独立应用的用户可继续正常使用；重新连接 Google Drive 应用后可获得新操作，ChatGPT 会在重新连接后切换。Pro 用户的 Google Drive 同步行为保持不变。",
+    "keyPoints": [
+      "Google 文件连接器统一为 Google Drive 单一应用体验。",
+      "新用户无需分别安装和认证多个 Google 文件应用。",
+      "已连接旧应用者重新连接后切换，Pro 用户同步行为不变。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

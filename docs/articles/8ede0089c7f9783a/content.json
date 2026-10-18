@@ -1,0 +1,23 @@
+{
+  "id": "8ede0089c7f9783a",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Updated permissions for new Health connections",
+  "summary": "官方发布记录称，对于新的 Health 插件连接，ChatGPT 将默认采用用户的全局插件权限设置；若未修改插件设置，默认权限为“允许低风险操作”。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updated-permissions-for-new-health-connections",
+  "date": "2026-09-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Updated permissions for new Health connections",
+  "titleZh": "新的 Health 连接权限更新",
+  "details": {
+    "overview": "官方发布记录称，对于新的 Health 插件连接，ChatGPT 将默认采用用户的全局插件权限设置；若未修改插件设置，默认权限为“允许低风险操作”。这意味着连接 Health 信息后，ChatGPT 可在相关场景直接使用而无需每次询问，但涉及敏感操作时仍会请求许可。官方表示，超过 70% 的 Health 用户已选择免每次询问，用户可随时在设置中更改 Health 权限。",
+    "keyPoints": [
+      "新 Health 连接默认沿用全局插件权限设置",
+      "默认权限为“允许低风险操作”，敏感操作仍需许可",
+      "官方称超过 70% 的 Health 用户已选择免每次询问"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

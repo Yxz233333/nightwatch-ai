@@ -1,0 +1,25 @@
+{
+  "id": "e438ae802866f823",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "SOTA OCR with Core ML and dots.ocr",
+  "summary": "现有材料仅有标题与摘要，均为一句话“SOTA OCR with Core ML and dots.ocr”，没有原始发布正文，无法确认具体研究对象、实现方式、评测结果或作者声称的结论。",
+  "url": "https://huggingface.co/blog/dots-ocr-ne",
+  "date": "2025-10-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-10-02T00:00:00+00:00",
+  "titleEn": "SOTA OCR with Core ML and dots.ocr",
+  "titleZh": "用 Core ML 与 dots.ocr 实现 SOTA OCR",
+  "details": {
+    "overview": "现有材料仅有标题与摘要，均为一句话“SOTA OCR with Core ML and dots.ocr”，没有原始发布正文，无法确认具体研究对象、实现方式、评测结果或作者声称的结论。因此本条目仅能说明主题涉及将 dots.ocr 与苹果 Core ML 结合用于 OCR，其余信息不足，需以原文为准。",
+    "keyPoints": [
+      "标题显示主题为结合 Core ML 与 dots.ocr 的 OCR 方案",
+      "材料未提供实现细节、评测数据或结论",
+      "“SOTA”为标题表述，未获原文证据支持"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

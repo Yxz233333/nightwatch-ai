@@ -1,0 +1,24 @@
+{
+  "id": "6a5943bd59dcf37a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Mixture of Experts Powers the Most Intelligent Frontier AI Models, Runs 10x Faster to Deliver 1/10 the Token Cost on NVIDIA Blackwell NVL72",
+  "summary": "NVIDIA 官方博客称，当前排名前十的智能开源模型均采用混合专家（MoE）架构，并举例 Kimi K2 Thinking、DeepSeek-R1、Mistral Large 3 等模型在 NVIDIA GB200 NVL72 上运行速度提升 10 倍，使每 Token 成本降至十分之一。",
+  "url": "https://blogs.nvidia.com/blog/mixture-of-experts-frontier-models/",
+  "date": "2025-12-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-12-03T16:00:32+00:00",
+  "titleEn": "Mixture of Experts Powers the Most Intelligent Frontier AI Models, Runs 10x Faster to Deliver 1/10 the Token Cost on NVIDIA Blackwell NVL72",
+  "titleZh": "混合专家架构驱动最强前沿 AI 模型，在 NVIDIA Blackwell NVL72 上运行快 10 倍、Token 成本降至 1/10",
+  "details": {
+    "overview": "NVIDIA 官方博客称，当前排名前十的智能开源模型均采用混合专家（MoE）架构，并举例 Kimi K2 Thinking、DeepSeek-R1、Mistral Large 3 等模型在 NVIDIA GB200 NVL72 上运行速度提升 10 倍，使每 Token 成本降至十分之一。文章表示将剖析前沿模型普遍采用的 MoE 架构。上述性能与成本数字为发布方说法，材料未提供独立验证细节。",
+    "keyPoints": [
+      "发布方称前十智能开源模型均采用 MoE 架构。",
+      "举例包括 Kimi K2 Thinking、DeepSeek-R1、Mistral Large 3。",
+      "称在 GB200 NVL72 上快 10 倍、每 Token 成本为 1/10。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

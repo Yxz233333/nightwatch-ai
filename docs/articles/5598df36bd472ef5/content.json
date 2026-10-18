@@ -1,0 +1,25 @@
+{
+  "id": "5598df36bd472ef5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Announcing our partnership with the Republic of Korea",
+  "summary": "该官方发布宣布 Google DeepMind 与韩国建立合作，摘要表示双方将利用前沿 AI 模型加速科学突破。",
+  "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+  "date": "2026-04-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-04-27T07:00:06+00:00",
+  "titleEn": "Announcing our partnership with the Republic of Korea",
+  "titleZh": "宣布与韩国建立合作伙伴关系",
+  "details": {
+    "overview": "该官方发布宣布 Google DeepMind 与韩国建立合作，摘要表示双方将利用前沿 AI 模型加速科学突破。现有材料仅给出合作对象与总体目标，未说明合作的具体机构、研究领域、时间安排或资源投入，也未提供任何成果验证信息。因此可确认的是合作意向与“加速科学突破”这一表述，具体内容需以官方原文为准。",
+    "keyPoints": [
+      "Google DeepMind 宣布与韩国建立合作伙伴关系",
+      "摘要称合作旨在用前沿 AI 模型加速科学突破",
+      "具体合作领域与范围需以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

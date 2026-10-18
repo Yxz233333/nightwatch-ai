@@ -1,0 +1,25 @@
+{
+  "id": "23b6c7ac37f405cf",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+  "summary": "该发布介绍名为HiRO-ACEv2的天气模拟方案，核心主张是以远低于常规方式的成本实现3公里分辨率的极端天气模拟。",
+  "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+  "date": "2026-10-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-10-14T16:12:42+00:00",
+  "titleEn": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+  "titleZh": "HiRO-ACEv2：以更低成本模拟3公里分辨率极端天气",
+  "details": {
+    "overview": "该发布介绍名为HiRO-ACEv2的天气模拟方案，核心主张是以远低于常规方式的成本实现3公里分辨率的极端天气模拟。原始材料仅给出标题与一句话摘要，未说明所用模型架构、验证方式、算力规模或适用范围，也未提供与既有方法的定量对比。因此其“低成本”与“极端天气模拟能力”的具体含义尚需以官方原文为准，读者不宜据此推断该方案已获独立验证或可直接用于业务预报。",
+    "keyPoints": [
+      "发布称可在3公里分辨率下模拟极端天气",
+      "宣称成本仅为常规方式的一小部分",
+      "原始材料未披露方法细节与验证结果"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

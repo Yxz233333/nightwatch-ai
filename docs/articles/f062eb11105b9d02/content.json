@@ -1,0 +1,25 @@
+{
+  "id": "f062eb11105b9d02",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.52.0 发布",
+  "summary": "据官方发布记录，Codex CLI 0.52.0 为稳定版本更新。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.52.0",
+  "date": "2025-10-31",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-10-30T18:32:13+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.52.0 发布",
+  "titleZh": "Codex CLI 0.52.0 发布",
+  "details": {
+    "overview": "据官方发布记录，Codex CLI 0.52.0 为稳定版本更新。亮点包括 TUI 改进：流式输出时可见排队消息、Windows 自动模式指引、撤销操作、压缩提示可配置；图像方面支持客户端缩放、通过 MIME 校验防止崩溃并重新启用 SDK 图像转发测试；支持以“!”直接执行命令，并可购买额度以增加用量。其他改进涉及新的 CLI 认证存储抽象与 keyring 支持、app-server 的会话摘要 RPC、事件流与对话管理优化等。桌面端功能以对应公告为准。",
+    "keyPoints": [
+      "TUI 支持流式时显示排队消息、撤销操作与可配置压缩提示",
+      "图像支持客户端缩放与 MIME 校验，重新启用 SDK 图像转发测试",
+      "新增认证存储抽象与 keyring 支持，并支持购买额度增加用量"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

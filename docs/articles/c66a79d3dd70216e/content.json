@@ -1,0 +1,24 @@
+{
+  "id": "c66a79d3dd70216e",
+  "section": "news",
+  "category": "模型动态",
+  "title": "How Canada uses Claude: Findings from the Anthropic Economic Index",
+  "summary": "该经济指数报告基于 2026 年 2 月 Claude.ai 对话样本，称加拿大占全球流量 2.6%，按人口调整后的 Anthropic AI 使用指数为 4.4，人均使用量超过按其劳动年龄人口预期值的四倍。",
+  "url": "https://www.anthropic.com/research/how-canada-uses-claude",
+  "date": "2026-07-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-07-14T13:00:00+00:00",
+  "titleEn": "How Canada uses Claude: Findings from the Anthropic Economic Index",
+  "titleZh": "加拿大如何使用 Claude：Anthropic 经济指数发现",
+  "details": {
+    "overview": "该经济指数报告基于 2026 年 2 月 Claude.ai 对话样本，称加拿大占全球流量 2.6%，按人口调整后的 Anthropic AI 使用指数为 4.4，人均使用量超过按其劳动年龄人口预期值的四倍。报告称在 Claude 使用量前十国家中，加拿大 AUI 仅次于美国。报告还发现加拿大省内使用分布不均，安大略占 43.9%，且省级人均使用与收入基本不相关，而与专业、科学和技术服务业的就业占比相关。",
+    "keyPoints": [
+      "样本显示加拿大占全球 Claude.ai 流量 2.6%，AUI 为 4.4。",
+      "安大略占加拿大对话 43.9%，魁北克、不列颠哥伦比亚和艾伯塔合计约 50%。",
+      "报告称省级人均使用与收入基本无关，与专业科技服务业就业占比相关。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

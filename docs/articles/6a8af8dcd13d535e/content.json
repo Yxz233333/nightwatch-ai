@@ -1,0 +1,23 @@
+{
+  "id": "6a8af8dcd13d535e",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Site limits (Plus and Pro)",
+  "summary": "该官方更新说明，ChatGPT 站点（Sites）的创建数量不再设固定上限，但使用量与存储空间限制仍然适用。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#site-limits-plus-and-pro",
+  "date": "2026-10-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Site limits (Plus and Pro)",
+  "titleZh": "站点数量限制（Plus 与 Pro）",
+  "details": {
+    "overview": "该官方更新说明，ChatGPT 站点（Sites）的创建数量不再设固定上限，但使用量与存储空间限制仍然适用。原文未说明具体的使用量或存储额度，仅指向“创建和使用 ChatGPT Sites”文档。对 Plus 与 Pro 用户而言，这意味着可创建的站点数量更灵活，但实际可用规模仍受账户使用与存储条件约束。",
+    "keyPoints": [
+      "ChatGPT 站点创建数量不再有固定上限",
+      "使用量与存储空间限制继续适用",
+      "具体额度需查阅创建和使用 ChatGPT Sites 文档"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

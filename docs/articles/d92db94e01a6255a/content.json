@@ -1,0 +1,25 @@
+{
+  "id": "d92db94e01a6255a",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+  "summary": "该发布介绍一款新的音频模型，摘要称其引入细粒度音频标签，让用户能精确控制AI语音，从而实现更具表现力的音频生成。",
+  "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+  "date": "2026-04-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-04-15T16:03:19+00:00",
+  "titleEn": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+  "titleZh": "Gemini 3.1 Flash TTS：下一代富有表现力的AI语音",
+  "details": {
+    "overview": "该发布介绍一款新的音频模型，摘要称其引入细粒度音频标签，让用户能精确控制AI语音，从而实现更具表现力的音频生成。原文仅有一句概述，未说明模型的具体能力边界、支持语言、可用平台、开放范围或定价等信息，因此无法进一步描述其技术细节与实际效果。",
+    "keyPoints": [
+      "摘要称新音频模型引入细粒度音频标签",
+      "作者声称用户可借此精确控制AI语音的表达方式",
+      "原文信息有限，未披露开放范围与具体能力细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

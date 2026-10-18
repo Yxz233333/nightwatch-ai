@@ -1,0 +1,25 @@
+{
+  "id": "1f643b3065427a70",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How frontier firms are pulling ahead",
+  "summary": "OpenAI 的 B2B Signals 研究聚焦前沿企业如何深化 AI 应用、扩大由 Codex 驱动的智能体工作流，并构建持久的竞争优势。",
+  "url": "https://openai.com/index/introducing-b2b-signals",
+  "date": "2026-05-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-06T00:00:00+00:00",
+  "titleEn": "How frontier firms are pulling ahead",
+  "titleZh": "前沿企业如何拉开差距",
+  "details": {
+    "overview": "OpenAI 的 B2B Signals 研究聚焦前沿企业如何深化 AI 应用、扩大由 Codex 驱动的智能体工作流，并构建持久的竞争优势。当前收录材料仅给出这一概括性说明，未披露样本规模、具体指标或对比方法，因此相关结论应视为官方研究叙述，具体范围与限制以原始发布为准。",
+    "keyPoints": [
+      "OpenAI 发布 B2B Signals 研究，关注前沿企业的 AI 采用情况",
+      "研究称前沿企业正扩大由 Codex 驱动的智能体工作流",
+      "官方称这类实践有助于构建持久竞争优势"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

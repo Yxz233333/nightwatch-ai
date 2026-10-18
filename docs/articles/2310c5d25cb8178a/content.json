@@ -1,0 +1,25 @@
+{
+  "id": "2310c5d25cb8178a",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.36.0 发布",
+  "summary": "Codex CLI 0.36.0 发布，包含破坏性变更：不再从环境变量读取 OPENAI_API_KEY，API 登录不再隐式进行，需运行一次 codex login --api-key 将密钥存入 CODEX_HOME/auth.json。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.36.0",
+  "date": "2025-09-16",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-09-15T17:17:00+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.36.0 发布",
+  "titleZh": "Codex CLI 0.36.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.36.0 发布，包含破坏性变更：不再从环境变量读取 OPENAI_API_KEY，API 登录不再隐式进行，需运行一次 codex login --api-key 将密钥存入 CODEX_HOME/auth.json。亮点包括引入新模型 GPT-5-Codex，在简单任务上更快、复杂任务上更深入，提升代码质量并可通过 AGENTS.md 更易引导；支持 codex resume 恢复旧会话；统一执行与可靠性改进；认证登录体验优化；JSON-RPC 与 MCP 接口初步支持；TUI 引导流程与动画更新；核心平台实验性自动上下文压缩等。",
+    "keyPoints": [
+      "破坏性变更：不再从环境读取 OPENAI_API_KEY，需运行 codex login --api-key 存储密钥。",
+      "引入 GPT-5-Codex 模型，优化编码任务速度、质量与可引导性。",
+      "新增 codex resume 恢复旧会话，并改进统一执行、认证与 MCP 接口。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

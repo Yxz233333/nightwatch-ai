@@ -1,0 +1,23 @@
+{
+  "id": "4d3077d77c717e4c",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex and ChatGPT updates",
+  "summary": "该官方发布说明列出多项新功能：macOS 版 ChatGPT 桌面应用在所有方案中提供 Apple Messages 插件，可读取、搜索并准备或发送消息，默认需用户确认，原文提示持续批准风险与已知问题；站点协作中所有者可邀请同工作区成员为编辑；可编辑站点 URL，旧地址重定向，自定义域名不变；Computer History 面向欧洲经济区、瑞士和英国的 Pro、Business、Enterprise 用户开放，默认关闭且需 Memories；Codex 可分享只读线程快照；固定对话在桌面版与 iOS 间统一。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2026-08-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "Codex and ChatGPT updates",
+  "titleZh": "Codex 与 ChatGPT 更新",
+  "details": {
+    "overview": "该官方发布说明列出多项新功能：macOS 版 ChatGPT 桌面应用在所有方案中提供 Apple Messages 插件，可读取、搜索并准备或发送消息，默认需用户确认，原文提示持续批准风险与已知问题；站点协作中所有者可邀请同工作区成员为编辑；可编辑站点 URL，旧地址重定向，自定义域名不变；Computer History 面向欧洲经济区、瑞士和英国的 Pro、Business、Enterprise 用户开放，默认关闭且需 Memories；Codex 可分享只读线程快照；固定对话在桌面版与 iOS 间统一。",
+    "keyPoints": [
+      "Apple Messages 插件面向 macOS 桌面版所有方案，默认发送前需确认。",
+      "站点支持邀请编辑、更换托管 URL，旧地址重定向。",
+      "Computer History 扩展至欧洲多地区；Codex 支持只读快照分享。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

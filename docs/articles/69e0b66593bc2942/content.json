@@ -1,0 +1,25 @@
+{
+  "id": "69e0b66593bc2942",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+  "summary": "本条介绍 Gemini 3.1 Flash-Lite，原文称其为 Gemini 3 系列中迄今最快、最具成本效率的模型。",
+  "url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+  "date": "2026-03-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-03-03T16:35:55+00:00",
+  "titleEn": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+  "titleZh": "Gemini 3.1 Flash-Lite：为规模化智能而打造",
+  "details": {
+    "overview": "本条介绍 Gemini 3.1 Flash-Lite，原文称其为 Gemini 3 系列中迄今最快、最具成本效率的模型。材料仅包含这一句定位描述，未给出基准测试、上下文长度、可用渠道、价格或推出范围。因此本条只能说明该模型在系列中的速度与成本定位，不能补充具体性能数字或使用结论。",
+    "keyPoints": [
+      "Gemini 3.1 Flash-Lite 属于 Gemini 3 系列。",
+      "原文称其为该系列最快、最具成本效率的模型。",
+      "材料未提供基准、价格与推出范围细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

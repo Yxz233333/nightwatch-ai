@@ -1,0 +1,25 @@
+{
+  "id": "9f6661b67bdfe7fb",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Falcon Perception",
+  "summary": "现有材料仅有标题“Falcon Perception”及“依据官方原始发布记录整理”的状态说明，缺少摘要、原文正文与具体发布内容，无法确认其研究对象、功能范围或作者声称的结果。",
+  "url": "https://huggingface.co/blog/tiiuae/falcon-perception",
+  "date": "2026-04-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-04-01T07:13:20+00:00",
+  "titleEn": "Falcon Perception",
+  "titleZh": "Falcon Perception",
+  "details": {
+    "overview": "现有材料仅有标题“Falcon Perception”及“依据官方原始发布记录整理”的状态说明，缺少摘要、原文正文与具体发布内容，无法确认其研究对象、功能范围或作者声称的结果。因此本条只能保留原题，不对产品能力、推出范围或效果作任何推断。",
+    "keyPoints": [
+      "材料仅含标题Falcon Perception，无摘要与原文正文。",
+      "发布状态注明以官方原始记录为准，范围与限制未提供。",
+      "缺少可核实细节，暂无法提炼具体功能或结果。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

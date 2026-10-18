@@ -1,0 +1,23 @@
+{
+  "id": "ca67515698d7aa8b",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "An improved Voice interface: the audio you know, with text and visuals when you need them.",
+  "summary": "OpenAI 表示正把 ChatGPT Voice 融入日常聊天界面，不再需要单独模式。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#an-improved-voice-interface-the-audio-you-know-with-text-and-visuals-when-you-need-them",
+  "date": "2025-11-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "An improved Voice interface: the audio you know, with text and visuals when you need them.",
+  "titleZh": "改进的语音界面：熟悉的音频，需要时配文字与视觉内容",
+  "details": {
+    "overview": "OpenAI 表示正把 ChatGPT Voice 融入日常聊天界面，不再需要单独模式。用户可同时说话、收听并查看对话：回答以语音播报，同时在同一会话中流式显示文字、图像搜索结果以及地图、天气等小组件。官方称这能让语音对话更清晰、更丰富、更有上下文，并支持边听边看文字、实时查看视觉结果、回看历史消息、以打字代替说话仍获语音回复、分享照片并口头讨论。该更新面向全球所有用户在 ChatGPT 移动应用和 chatgpt.com 推出，用户可在设置中开启“Separate mode”切回原体验。",
+    "keyPoints": [
+      "语音融入主聊天界面，回答以语音配流式文字与视觉结果呈现。",
+      "支持边听边看、实时图像与地图小组件、打字仍获语音回复及分享照片讨论。",
+      "面向全球所有用户在移动应用与网页版推出，可设置切回原语音模式。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

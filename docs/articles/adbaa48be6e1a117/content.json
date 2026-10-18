@@ -1,0 +1,25 @@
+{
+  "id": "adbaa48be6e1a117",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Making global data easier to explore",
+  "summary": "据官方发布记录，谷歌与联合国系统共同推出“联合国系统数据共享平台”（UN System Data Commons），这是一个新的开放平台，目标是让全球统计数据可被访问并便于搜索。",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+  "date": "2026-09-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google AI 官方博客",
+  "publishedAt": "2026-09-17T20:00:00+00:00",
+  "titleEn": "Making global data easier to explore",
+  "titleZh": "让全球数据更易于探索",
+  "details": {
+    "overview": "据官方发布记录，谷歌与联合国系统共同推出“联合国系统数据共享平台”（UN System Data Commons），这是一个新的开放平台，目标是让全球统计数据可被访问并便于搜索。现有材料仅说明平台已上线及其开放、易检索的定位，未披露具体数据范围、覆盖国家或使用限制，相关细节应以原始发布为准。",
+    "keyPoints": [
+      "谷歌与联合国系统联合推出开放平台UN System Data Commons",
+      "平台定位是让全球统计数据可访问、便于搜索",
+      "具体数据范围与使用限制原文未说明"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

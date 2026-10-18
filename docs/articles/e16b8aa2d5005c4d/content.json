@@ -1,0 +1,25 @@
+{
+  "id": "e16b8aa2d5005c4d",
+  "section": "news",
+  "category": "工具动态",
+  "title": "One-Shot Any Web App with Gradio's gr.HTML",
+  "summary": "现有材料仅包含标题，未提供摘要或原始发布内容，无法确认“One-Shot Any Web App”的具体方法、gr.HTML 的功能细节、示例范围或作者声称的结果。",
+  "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
+  "date": "2026-02-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-02-18T00:00:00+00:00",
+  "titleEn": "One-Shot Any Web App with Gradio's gr.HTML",
+  "titleZh": "使用 Gradio 的 gr.HTML 一次性构建任意 Web 应用",
+  "details": {
+    "overview": "现有材料仅包含标题，未提供摘要或原始发布内容，无法确认“One-Shot Any Web App”的具体方法、gr.HTML 的功能细节、示例范围或作者声称的结果。标题显示内容与 Gradio 的 gr.HTML 组件相关，可能涉及借助该组件构建 Web 应用。由于材料不足，本条目仅能说明主题方向，具体内容需以原始发布为准。",
+    "keyPoints": [
+      "标题涉及 Gradio 的 gr.HTML 组件。",
+      "主题为借助该组件一次性构建 Web 应用。",
+      "现有材料不足，无法提炼具体方法或结论。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

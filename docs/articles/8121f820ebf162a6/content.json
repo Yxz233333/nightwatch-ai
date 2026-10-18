@@ -1,0 +1,25 @@
+{
+  "id": "8121f820ebf162a6",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI to acquire Ona",
+  "summary": "该官方发布称OpenAI计划收购Ona，以安全、持久的云环境扩展Codex，使长时间运行的AI智能体能够贯穿企业工作流。",
+  "url": "https://openai.com/index/openai-to-acquire-ona",
+  "date": "2026-06-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-11T00:00:00+00:00",
+  "titleEn": "OpenAI to acquire Ona",
+  "titleZh": "OpenAI将收购Ona",
+  "details": {
+    "overview": "该官方发布称OpenAI计划收购Ona，以安全、持久的云环境扩展Codex，使长时间运行的AI智能体能够贯穿企业工作流。现有材料仅为一句简介，未披露交易金额、时间表、监管审批或整合方式，因此只能确认收购意向及其指向的目标——为Codex补充持久云环境并支持长时运行智能体，更多细节不足。",
+    "keyPoints": [
+      "OpenAI计划收购Ona，以扩展Codex能力",
+      "目标是通过安全、持久的云环境支持长时运行AI智能体",
+      "现有材料未披露交易金额、时间表与审批细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

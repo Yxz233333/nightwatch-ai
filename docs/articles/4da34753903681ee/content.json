@@ -1,0 +1,25 @@
+{
+  "id": "4da34753903681ee",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing OpenAI Presence",
+  "summary": "OpenAI 推出 OpenAI Presence，定位为企业级 AI 智能体平台，帮助组织部署可信的语音与聊天智能体，用于客户服务及内部工作流程。",
+  "url": "https://openai.com/index/introducing-openai-presence",
+  "date": "2026-07-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-22T05:30:00+00:00",
+  "titleEn": "Introducing OpenAI Presence",
+  "titleZh": "推出 OpenAI Presence",
+  "details": {
+    "overview": "OpenAI 推出 OpenAI Presence，定位为企业级 AI 智能体平台，帮助组织部署可信的语音与聊天智能体，用于客户服务及内部工作流程。原文称其为经过验证的平台，但未披露可用范围、定价或具体客户案例，相关限制需以官方原文为准。",
+    "keyPoints": [
+      "OpenAI Presence 定位为企业 AI 智能体平台",
+      "支持部署语音与聊天智能体",
+      "面向客户服务与内部工作流程"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

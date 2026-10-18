@@ -1,0 +1,25 @@
+{
+  "id": "b1b4d038d5f40cac",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Unrolling the Codex agent loop",
+  "summary": "该文是对 Codex 智能体循环的技术深入解析，说明 Codex CLI 如何借助 Responses API 编排模型、工具、提示词与性能。",
+  "url": "https://openai.com/index/unrolling-the-codex-agent-loop",
+  "date": "2026-01-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-23T12:00:00+00:00",
+  "titleEn": "Unrolling the Codex agent loop",
+  "titleZh": "深入解析 Codex 智能体循环",
+  "details": {
+    "overview": "该文是对 Codex 智能体循环的技术深入解析，说明 Codex CLI 如何借助 Responses API 编排模型、工具、提示词与性能。原文摘要仅给出这一总体范围，未披露具体机制、实现细节或性能数据，因此无法进一步说明其技术结论。",
+    "keyPoints": [
+      "主题为 Codex 智能体循环的技术深入解析",
+      "说明 Codex CLI 如何编排模型、工具、提示词与性能",
+      "编排基于 Responses API"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

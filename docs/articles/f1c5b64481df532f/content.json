@@ -1,0 +1,24 @@
+{
+  "id": "f1c5b64481df532f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Microsoft Azure Unveils World’s First NVIDIA GB300 NVL72 Supercomputing Cluster for OpenAI",
+  "summary": "Microsoft Azure宣布推出新的NDv6 GB300 VM系列，提供业界首个超级计算规模的NVIDIA GB300 NVL72系统生产集群，专为OpenAI最严苛的AI推理工作负载设计。",
+  "url": "https://blogs.nvidia.com/blog/microsoft-azure-worlds-first-gb300-nvl72-supercomputing-cluster-openai/",
+  "date": "2025-10-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-10-09T16:00:57+00:00",
+  "titleEn": "Microsoft Azure Unveils World’s First NVIDIA GB300 NVL72 Supercomputing Cluster for OpenAI",
+  "titleZh": "Microsoft Azure推出全球首个面向OpenAI的NVIDIA GB300 NVL72超级计算集群",
+  "details": {
+    "overview": "Microsoft Azure宣布推出新的NDv6 GB300 VM系列，提供业界首个超级计算规模的NVIDIA GB300 NVL72系统生产集群，专为OpenAI最严苛的AI推理工作负载设计。该集群包含超过4600块NVIDIA Blackwell Ultra GPU，通过NVIDIA Quantum-X800 InfiniBand网络平台连接。",
+    "keyPoints": [
+      "Azure推出NDv6 GB300 VM系列生产集群",
+      "集群含超4600块Blackwell Ultra GPU",
+      "专为OpenAI高要求AI推理工作负载设计"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

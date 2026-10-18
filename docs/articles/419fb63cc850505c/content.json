@@ -1,0 +1,24 @@
+{
+  "id": "419fb63cc850505c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Brings AI-Powered Cybersecurity to World’s Critical Infrastructure",
+  "summary": "随着全球技术和系统日益数字化与互联，能源、制造、交通和公用事业等领域的运营技术（OT）环境和工业控制系统（ICS）越来越依赖企业网络和云。",
+  "url": "https://blogs.nvidia.com/blog/ai-cybersecurity-operational-technology-industrial-control-systems/",
+  "date": "2026-02-24",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-02-23T16:00:57+00:00",
+  "titleEn": "NVIDIA Brings AI-Powered Cybersecurity to World’s Critical Infrastructure",
+  "titleZh": "NVIDIA将AI驱动的网络安全带入全球关键基础设施",
+  "details": {
+    "overview": "随着全球技术和系统日益数字化与互联，能源、制造、交通和公用事业等领域的运营技术（OT）环境和工业控制系统（ICS）越来越依赖企业网络和云。这扩展了OT和ICS能力，但也增加了其暴露于网络威胁的风险。NVIDIA发文介绍其将AI驱动的网络安全引入关键基础设施，但摘要未说明具体产品、部署范围或技术细节。",
+    "keyPoints": [
+      "OT和ICS环境日益依赖企业网络和云，扩大暴露面",
+      "NVIDIA提出将AI驱动网络安全引入关键基础设施",
+      "覆盖能源、制造、交通和公用事业等领域"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

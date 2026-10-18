@@ -1,0 +1,24 @@
+{
+  "id": "5d3aac46e69d7405",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
+  "summary": "文章称 CoreWeave 基于与 NVIDIA 近十年的共同工程合作，把 NVIDIA 的计算、网络和软件构建成面向 AI 的专用云，并在多代部署中持续获得投资回报。",
+  "url": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
+  "date": "2026-09-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-09-30T15:00:00+00:00",
+  "titleEn": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
+  "titleZh": "从训练到生产：NVIDIA 与 CoreWeave 打通智能体 AI 闭环",
+  "details": {
+    "overview": "文章称 CoreWeave 基于与 NVIDIA 近十年的共同工程合作，把 NVIDIA 的计算、网络和软件构建成面向 AI 的专用云，并在多代部署中持续获得投资回报。如今 CoreWeave 正将下一代 NVIDIA 基础设施投入生产，相关消息在旧金山举行的 CoreWeave Fully Connected 活动上宣布。原文在此处截断，具体产品与规格未完整披露。",
+    "keyPoints": [
+      "CoreWeave 将 NVIDIA 计算、网络与软件集成进面向 AI 的专用云。",
+      "文章称其多代部署仍能带来投资回报。",
+      "CoreWeave 在 Fully Connected 活动上宣布将下一代 NVIDIA 基础设施投入生产。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

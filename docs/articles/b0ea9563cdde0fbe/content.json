@@ -1,0 +1,24 @@
+{
+  "id": "b0ea9563cdde0fbe",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
+  "summary": "据原始发布内容，百时美施贵宝（BMS）宣布部署其第二套NVIDIA DGX SuperPOD，该集群基于NVIDIA Vera Rubin构建，被Erin Davis称为“SuperDuperPOD”。",
+  "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
+  "date": "2026-07-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-07-20T10:59:23+00:00",
+  "titleEn": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
+  "titleZh": "百时美施贵宝基于NVIDIA Vera Rubin打造生命科学行业最先进AI工厂",
+  "details": {
+    "overview": "据原始发布内容，百时美施贵宝（BMS）宣布部署其第二套NVIDIA DGX SuperPOD，该集群基于NVIDIA Vera Rubin构建，被Erin Davis称为“SuperDuperPOD”。原文称BMS此前已运行生命科学领域规模最大的AI集群之一，并称其已取得可观成果，此次为加倍投入。材料未披露具体算力规模、上线时间或应用成效细节，相关推出范围和限制需以原文为准。",
+    "keyPoints": [
+      "BMS宣布部署第二套NVIDIA DGX SuperPOD，基于Vera Rubin构建。",
+      "原文称BMS已运行生命科学领域最大AI集群之一，此次为加倍投入。",
+      "材料未给出算力规模、时间表或具体应用成果细节。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

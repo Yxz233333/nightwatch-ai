@@ -1,0 +1,25 @@
+{
+  "id": "b68866a14a99f3c8",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.64.0 发布",
+  "summary": "Codex CLI 0.64.0 发布，更新涵盖线程与回合元数据、审查流程、执行环境、安全默认值、MCP 与 shell 工具、可观测性及多项缺陷修复。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.64.0",
+  "date": "2025-12-03",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-12-02T22:15:06+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.64.0 发布",
+  "titleZh": "Codex CLI 0.64.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.64.0 发布，更新涵盖线程与回合元数据、审查流程、执行环境、安全默认值、MCP 与 shell 工具、可观测性及多项缺陷修复。线程和回合现包含 git 信息、当前工作目录、CLI 版本与来源元数据，并传播线程和回合 ID；审查流程新增分离审查模式与显式进入退出事件；执行侧加入实验性“exp”模型、统一 exec 修剪、按运行注入自定义环境等。安全方面整合全局可写目录扫描，并在 workspace-write 下强制 .git 只读。",
+    "keyPoints": [
+      "线程与回合新增 git 信息、工作目录、CLI 版本和来源元数据，并传播线程与回合 ID。",
+      "审查流程加入分离审查模式、显式进入退出事件和审查线程 ID。",
+      "执行侧新增实验性“exp”模型、统一 exec 修剪和按运行自定义环境注入。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

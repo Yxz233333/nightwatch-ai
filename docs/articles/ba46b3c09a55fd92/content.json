@@ -1,0 +1,24 @@
+{
+  "id": "ba46b3c09a55fd92",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+  "summary": "该发布宣布 Google Pics 图像创建与编辑工具现已可用，并说明其基于最新的 Nano Banana 模型构建。",
+  "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+  "date": "2026-09-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google AI 官方博客",
+  "publishedAt": "2026-09-01T16:00:00+00:00",
+  "titleEn": "Try Google Pics: Easy image creation and editing in Google Workspace",
+  "titleZh": "试用 Google Pics：在 Google Workspace 中轻松创建和编辑图像",
+  "details": {
+    "overview": "该发布宣布 Google Pics 图像创建与编辑工具现已可用，并说明其基于最新的 Nano Banana 模型构建。当前收录材料仅给出这一句介绍，未披露具体功能细节、可用范围、价格或限制，相关推出情况需以原始发布记录为准。",
+    "keyPoints": [
+      "Google Pics 是图像创建与编辑工具，现已可用。",
+      "该工具基于最新 Nano Banana 模型构建。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

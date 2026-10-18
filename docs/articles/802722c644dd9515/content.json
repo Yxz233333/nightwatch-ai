@@ -1,0 +1,25 @@
+{
+  "id": "802722c644dd9515",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Codex-maxxing for long-running work",
+  "summary": "OpenAI 发布案例内容，介绍开发者 Jason Liu 如何使用 Codex 保留上下文、管理复杂项目，并让工作能够延续到单次提示之外。",
+  "url": "https://openai.com/index/codex-maxxing-long-running-work",
+  "date": "2026-06-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-22T00:00:00+00:00",
+  "titleEn": "Codex-maxxing for long-running work",
+  "titleZh": "用 Codex 应对长周期工作",
+  "details": {
+    "overview": "OpenAI 发布案例内容，介绍开发者 Jason Liu 如何使用 Codex 保留上下文、管理复杂项目，并让工作能够延续到单次提示之外。官方摘要仅说明案例主题，未给出具体方法步骤、效果数据或适用条件，细节需以原文为准。",
+    "keyPoints": [
+      "案例主角为开发者 Jason Liu，工具为 Codex。",
+      "用途包括保留上下文和管理复杂项目。",
+      "目标是让工作延续到单次提示之外。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

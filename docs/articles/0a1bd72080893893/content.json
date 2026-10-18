@@ -1,0 +1,25 @@
+{
+  "id": "0a1bd72080893893",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Codex is now generally available",
+  "summary": "OpenAI宣布Codex正式可用（GA），并为开发者带来强大新功能：Slack集成、Codex SDK，以及使用仪表板和工作区管理等管理工具，使Codex更易于大规模使用和管理。",
+  "url": "https://openai.com/index/codex-now-generally-available",
+  "date": "2025-10-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-06T10:50:00+00:00",
+  "titleEn": "Codex is now generally available",
+  "titleZh": "Codex正式可用",
+  "details": {
+    "overview": "OpenAI宣布Codex正式可用（GA），并为开发者带来强大新功能：Slack集成、Codex SDK，以及使用仪表板和工作区管理等管理工具，使Codex更易于大规模使用和管理。具体功能范围和限制以官方原始发布为准。",
+    "keyPoints": [
+      "Codex正式可用，面向开发者推出新功能。",
+      "新增Slack集成和Codex SDK。",
+      "提供使用仪表板和工作区管理等管理工具。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

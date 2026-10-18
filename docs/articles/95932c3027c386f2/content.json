@@ -1,0 +1,25 @@
+{
+  "id": "95932c3027c386f2",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "A Practical Guide to Building AI Agents",
+  "summary": "该官方指南面向 AI 智能体的设计与落地，内容覆盖使用场景选择、模型选型、工具设计、防护措施以及多智能体协作模式，并涉及智能体的编排与部署流程。",
+  "url": "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents",
+  "date": "2026-01-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-15T00:25:16+00:00",
+  "titleEn": "A Practical Guide to Building AI Agents",
+  "titleZh": "构建 AI 智能体的实用指南",
+  "details": {
+    "overview": "该官方指南面向 AI 智能体的设计与落地，内容覆盖使用场景选择、模型选型、工具设计、防护措施以及多智能体协作模式，并涉及智能体的编排与部署流程。当前收录材料仅给出这一范围概述，未披露具体案例、性能数据或验证结论；当时的推出范围和限制需以原始发布为准。",
+    "keyPoints": [
+      "指南覆盖智能体设计、编排与部署的完整流程",
+      "内容包括用例选择、模型选型与工具设计",
+      "涉及防护措施与多智能体协作模式"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

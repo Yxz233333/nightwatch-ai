@@ -1,0 +1,25 @@
+{
+  "id": "3688f6c79cdc0184",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "“Cyber Special Operations”: China-linked influence planning",
+  "summary": "OpenAI 封禁了一个账号，该账号与一名据称关联中国执法部门的个人有关。",
+  "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-cyber-special-operations",
+  "date": "2026-02-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-01T00:00:00+00:00",
+  "titleEn": "“Cyber Special Operations”: China-linked influence planning",
+  "titleZh": "“Cyber Special Operations”：与中国相关的影响力策划",
+  "details": {
+    "overview": "OpenAI 封禁了一个账号，该账号与一名据称关联中国执法部门的个人有关。摘要显示，该账号利用 AI 策划影响力活动、骚扰行为和线上操作。摘要未说明该账号的具体活动目标、时间或影响范围，相关细节应以原始发布为准。",
+    "keyPoints": [
+      "封禁账号关联一名据称与中国执法部门有关的个人",
+      "利用 AI 策划影响力活动与骚扰行为",
+      "还涉及线上操作策划"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

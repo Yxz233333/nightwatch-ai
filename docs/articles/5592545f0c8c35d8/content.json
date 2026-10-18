@@ -1,0 +1,25 @@
+{
+  "id": "5592545f0c8c35d8",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.56.0 发布",
+  "summary": "Codex CLI 发布 0.56.0 稳定版本，本次更新引入更紧凑、成本更低的 GPT-5-Codex-Mini 模型选项，并合并多项修复与功能改进。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.56.0",
+  "date": "2025-11-08",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-11-07T18:09:48+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.56.0 发布",
+  "titleZh": "Codex CLI 0.56.0 发布",
+  "details": {
+    "overview": "Codex CLI 发布 0.56.0 稳定版本，本次更新引入更紧凑、成本更低的 GPT-5-Codex-Mini 模型选项，并合并多项修复与功能改进。更新涉及应用服务器 v2 命名空间与通知、TypeScript SDK 新增 modelReasoningEffort 选项、TUI 组件重构、对话历史文件目录调整、令牌刷新处理改进，以及 Windows 沙箱目录警告等。这些改动主要面向命令行工具与 IDE 扩展的使用体验和稳定性。",
+    "keyPoints": [
+      "引入 GPT-5-Codex-Mini，定位为更紧凑、成本更低的模型选项",
+      "应用服务器新增 v2 命名空间、通知及 Thread/Turn 等 API",
+      "TypeScript SDK 增加 modelReasoningEffort 选项，TUI 组件重构"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

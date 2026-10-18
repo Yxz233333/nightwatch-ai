@@ -1,0 +1,25 @@
+{
+  "id": "b99ed4484ea8e9ad",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.91.0 发布",
+  "summary": "Codex CLI 0.91.0 是一次以资源与护栏收紧为主的版本更新。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.91.0",
+  "date": "2026-01-26",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-01-25T17:33:33+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.91.0 发布",
+  "titleZh": "Codex CLI 0.91.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.91.0 是一次以资源与护栏收紧为主的版本更新。发布说明显示，该版本将允许的子智能体最大数量下调至 6 个，目的是控制资源占用并约束智能体扇出行为。变更记录中仅列出这一项 chore 及对应合并请求。该版本属于 CLI 稳定版本，桌面端功能以另行公告为准。材料未涉及性能数据或其他功能调整。",
+    "keyPoints": [
+      "子智能体最大数量下调至6个",
+      "目的是收紧资源使用与智能体扇出护栏",
+      "变更记录仅含该项，属CLI稳定版本"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

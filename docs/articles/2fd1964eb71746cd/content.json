@@ -1,0 +1,24 @@
+{
+  "id": "2fd1964eb71746cd",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Powering AI Superfactories, NVIDIA and Microsoft Integrate Latest Technologies for Inference, Cybersecurity, Physical AI",
+  "summary": "该文配合微软Ignite大会发布，介绍NVIDIA扩大与微软的合作。",
+  "url": "https://blogs.nvidia.com/blog/nvidia-microsoft-ai-superfactories/",
+  "date": "2025-11-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-11-18T20:00:22+00:00",
+  "titleEn": "Powering AI Superfactories, NVIDIA and Microsoft Integrate Latest Technologies for Inference, Cybersecurity, Physical AI",
+  "titleZh": "驱动AI超级工厂：NVIDIA与微软整合推理、网络安全与物理AI最新技术",
+  "details": {
+    "overview": "该文配合微软Ignite大会发布，介绍NVIDIA扩大与微软的合作。材料提到，新的微软Fairwater AI超级工厂将采用基于NVIDIA Blackwell平台的下一代NVIDIA Spectrum-X以太网交换机。合作还带来Microsoft 365 Copilot中的新集成，以及某项功能的公开预览，但原文在此截断，预览对象未在材料中说明。具体推出范围与限制需以官方原文为准。",
+    "keyPoints": [
+      "微软Fairwater AI超级工厂将采用下一代Spectrum-X以太网交换机。",
+      "该超级工厂由NVIDIA Blackwell平台驱动。",
+      "合作涵盖Microsoft 365 Copilot新集成及一项公开预览。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

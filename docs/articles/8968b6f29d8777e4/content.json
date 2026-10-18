@@ -1,0 +1,24 @@
+{
+  "id": "8968b6f29d8777e4",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Marine Biological Laboratory Explores Human Memory With AI and Virtual Reality",
+  "summary": "海洋生物实验室相关报道从柏拉图关于经验改变大脑、并由长期记忆支撑的说法切入，介绍纽约大学神经科学教授 Andre Fenton 与细胞与再生生物学助理教授 Abhishek Kumar 的工作。",
+  "url": "https://blogs.nvidia.com/blog/mbl-human-memory-ai-vr-rtx/",
+  "date": "2025-12-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-12-22T16:00:10+00:00",
+  "titleEn": "Marine Biological Laboratory Explores Human Memory With AI and Virtual Reality",
+  "titleZh": "海洋生物实验室用 AI 与虚拟现实探索人类记忆",
+  "details": {
+    "overview": "海洋生物实验室相关报道从柏拉图关于经验改变大脑、并由长期记忆支撑的说法切入，介绍纽约大学神经科学教授 Andre Fenton 与细胞与再生生物学助理教授 Abhishek Kumar 的工作。摘要仅显示二人围绕记忆展开研究，并涉及 AI 与虚拟现实。原文未给出具体实验设计、结果或验证情况，材料不足，需以官方原文为准。",
+    "keyPoints": [
+      "报道以经验改变大脑、长期记忆支撑的说法开篇。",
+      "涉及纽约大学 Andre Fenton 与 Abhishek Kumar 的研究。",
+      "主题为用 AI 与虚拟现实探索人类记忆，细节未披露。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

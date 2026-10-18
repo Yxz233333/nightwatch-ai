@@ -1,0 +1,24 @@
+{
+  "id": "fdcdb60c4d4e3f55",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Code, prototype, and build with Google Antigravity in the Gemini macOS app",
+  "summary": "Google 宣布将 Antigravity 编码代理集成到 Gemini macOS 应用中。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2026-10-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|Code, prototype, and build with Google Antigravity in the Gemini macOS app|2026-10-13",
+  "titleEn": "Code, prototype, and build with Google Antigravity in the Gemini macOS app",
+  "titleZh": "在 Gemini macOS 应用中用 Google Antigravity 编码、构建原型",
+  "details": {
+    "overview": "Google 宣布将 Antigravity 编码代理集成到 Gemini macOS 应用中。用户可在聊天中构思后，直接在 Antigravity 中启动编码代理并批准其计划，代理会在后台构建和测试代码，完成后通知用户审查。该功能面向个人 Google 账户及符合条件的 18 岁以上工作账户，在 Antigravity 支持的所有地区以英语提供。官方称此举旨在帮助用户更快地将想法转化为可运行的代码和原型，无需离开 Mac 工作环境。",
+    "keyPoints": [
+      "Antigravity 已内置于 Gemini macOS 应用，可从聊天直接进入编码代理。",
+      "代理在后台构建并测试代码，完成后通知用户审查。",
+      "功能以英语提供，面向个人及符合条件的工作账户，覆盖 Antigravity 支持地区。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "40d1270d75ae5246",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Your Agent Aced the Task. Will It Do It Again?",
+  "summary": "该条目为工具动态，标题以提问方式关注智能体任务表现的可靠性：一次成功完成之后，能否重复完成同一任务。",
+  "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+  "date": "2026-09-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-09-15T16:00:44+00:00",
+  "titleEn": "Your Agent Aced the Task. Will It Do It Again?",
+  "titleZh": "你的智能体完成了任务，它还能再做一次吗？",
+  "details": {
+    "overview": "该条目为工具动态，标题以提问方式关注智能体任务表现的可靠性：一次成功完成之后，能否重复完成同一任务。原始发布内容为空，仅有标题，未说明评测方法、涉及模型、任务类型或结论。因此只能确认其讨论主题是智能体表现的可复现性与稳定性，无法提供具体数据或方法细节，相关内容应以官方原文为准。",
+    "keyPoints": [
+      "主题是智能体任务完成的可重复性",
+      "标题追问一次成功后能否再次完成",
+      "原文无正文，评测方法与结论不足"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

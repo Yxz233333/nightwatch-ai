@@ -1,0 +1,25 @@
+{
+  "id": "82aae1af463bc1f7",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.144.0 发布",
+  "summary": "Codex CLI 0.144.0 发布，包含新功能与多项修复。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.144.0",
+  "date": "2026-07-10",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-07-09T16:47:12+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.144.0 发布",
+  "titleZh": "Codex CLI 0.144.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.144.0 发布，包含新功能与多项修复。新功能包括：用量限额重置额度显示类型与到期时间并可选兑换；新增 writes 应用审批模式，允许已声明的只读操作、写入时提示；MCP 工具无需实验性开关即可交互式请求认证；应用服务器宿主可在运行时提供 Codex 认证并重定向登录成功页；可检测 pnpm 全局安装；选择 Ultra 推理时提示高并发可能加快用量消耗。修复涉及恢复会话、Intel macOS 崩溃、Windows 沙箱、终端控制序列、认证刷新与 WebSocket 代理等。",
+    "keyPoints": [
+      "新增 writes 审批模式，写入操作需提示确认",
+      "MCP 工具默认支持交互式认证请求",
+      "修复 Windows 沙箱与终端控制序列等问题"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

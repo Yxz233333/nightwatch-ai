@@ -1,0 +1,25 @@
+{
+  "id": "c18d3e5603937191",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Inside our approach to the Model Spec",
+  "summary": "该内容介绍 OpenAI 的 Model Spec 如何作为模型行为的公开框架，在 AI 系统不断发展的过程中平衡安全性、用户自由与问责。",
+  "url": "https://openai.com/index/our-approach-to-the-model-spec",
+  "date": "2026-03-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-25T10:00:00+00:00",
+  "titleEn": "Inside our approach to the Model Spec",
+  "titleZh": "深入了解我们的 Model Spec 方法",
+  "details": {
+    "overview": "该内容介绍 OpenAI 的 Model Spec 如何作为模型行为的公开框架，在 AI 系统不断发展的过程中平衡安全性、用户自由与问责。原文仅提供一句简介，未展开具体条款、适用范围或实施细节，因此无法进一步说明其具体机制与效果。",
+    "keyPoints": [
+      "Model Spec 被定位为模型行为的公开框架。",
+      "官方称其平衡安全性、用户自由与问责三方面。",
+      "当前收录材料未提供具体条款与实施细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

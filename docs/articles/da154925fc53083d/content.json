@@ -1,0 +1,25 @@
+{
+  "id": "da154925fc53083d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+  "summary": "现有材料仅有标题，未提供摘要或原文内容，无法确认具体研究对象、作者声称的结果或对比方法。",
+  "url": "https://huggingface.co/blog/peft-beyond-lora",
+  "date": "2026-06-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-06-18T00:00:00+00:00",
+  "titleEn": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+  "titleZh": "超越 LoRA：能否击败最流行的微调技术？",
+  "details": {
+    "overview": "现有材料仅有标题，未提供摘要或原文内容，无法确认具体研究对象、作者声称的结果或对比方法。因此不对其结论作任何推断，需以原始发布内容为准。",
+    "keyPoints": [
+      "材料仅含标题，缺少摘要与正文",
+      "无法确认所比较的微调方法及实验结论",
+      "需查阅原始发布内容获取具体信息"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

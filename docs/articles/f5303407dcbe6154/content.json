@@ -1,0 +1,25 @@
+{
+  "id": "f5303407dcbe6154",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Endava is redesigning software delivery around AI agents",
+  "summary": "该条目介绍 Endava 使用 AI 智能体、ChatGPT Enterprise 与 Codex 加速软件交付、自动化工作流，并在企业内建设 AI 原生文化。",
+  "url": "https://openai.com/index/endava-frontiers",
+  "date": "2026-06-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-04T12:00:00+00:00",
+  "titleEn": "How Endava is redesigning software delivery around AI agents",
+  "titleZh": "Endava 如何围绕 AI 智能体重构软件交付",
+  "details": {
+    "overview": "该条目介绍 Endava 使用 AI 智能体、ChatGPT Enterprise 与 Codex 加速软件交付、自动化工作流，并在企业内建设 AI 原生文化。原文仅有简介性描述，未给出具体项目案例、效率数据或实施范围，因此无法评估实际效果，相关结论需以官方原文为准。",
+    "keyPoints": [
+      "Endava 将 AI 智能体、ChatGPT Enterprise 与 Codex 用于加速软件交付。",
+      "目标包括自动化工作流和在企业内建立 AI 原生文化。",
+      "当前收录材料未提供具体案例与量化效果，细节不足。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

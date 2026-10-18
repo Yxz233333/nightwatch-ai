@@ -1,0 +1,25 @@
+{
+  "id": "a1efd5640441e294",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Block is building AI-powered security with OpenAI technology",
+  "summary": "该官方发布称，Block正使用OpenAI技术构建AI驱动的安全能力，其安全团队能够更快调查威胁，并在数分钟内提出补丁建议。",
+  "url": "https://openai.com/index/block-ai-powered-security",
+  "date": "2026-10-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-10-14T07:00:00+00:00",
+  "titleEn": "How Block is building AI-powered security with OpenAI technology",
+  "titleZh": "Block如何用OpenAI技术构建AI驱动的安全能力",
+  "details": {
+    "overview": "该官方发布称，Block正使用OpenAI技术构建AI驱动的安全能力，其安全团队能够更快调查威胁，并在数分钟内提出补丁建议。原文摘要未说明所用具体模型、部署方式、补丁建议的审核流程或实际效果评估，因此只能确认其声称的方向与速度描述，不能视为已获独立验证的结论。",
+    "keyPoints": [
+      "Block使用OpenAI技术构建AI驱动的安全能力",
+      "其安全团队称可更快调查威胁并提出补丁建议",
+      "摘要未披露具体模型、部署方式与效果评估"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

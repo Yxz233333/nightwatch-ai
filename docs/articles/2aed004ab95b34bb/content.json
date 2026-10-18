@@ -1,0 +1,25 @@
+{
+  "id": "2aed004ab95b34bb",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Advancing the price-performance frontier with GPT-5.6",
+  "summary": "该消息介绍 GPT-5.6 在 Luna 和 Terra 上的更低定价，并称 OpenAI 更高效的模型可帮助企业大规模部署 AI 工作流。",
+  "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+  "date": "2026-07-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-30T10:00:00+00:00",
+  "titleEn": "Advancing the price-performance frontier with GPT-5.6",
+  "titleZh": "以 GPT-5.6 推进价格性能前沿",
+  "details": {
+    "overview": "该消息介绍 GPT-5.6 在 Luna 和 Terra 上的更低定价，并称 OpenAI 更高效的模型可帮助企业大规模部署 AI 工作流。原始发布记录未给出具体价格数字、性能指标或适用范围，相关细节需以官方原文为准。",
+    "keyPoints": [
+      "介绍 GPT-5.6 在 Luna 和 Terra 上的更低定价",
+      "称更高效模型有助于企业大规模部署 AI 工作流",
+      "具体价格与范围以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

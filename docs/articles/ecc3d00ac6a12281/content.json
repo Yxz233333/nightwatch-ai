@@ -1,0 +1,24 @@
+{
+  "id": "ecc3d00ac6a12281",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic invests $50 billion in American AI infrastructure",
+  "summary": "Anthropic 宣布投资500亿美元，与 Fluidstack 合作在得克萨斯州和纽约州建设数据中心，未来还将有更多站点。",
+  "url": "https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure",
+  "date": "2025-11-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-11-12T03:14:00+00:00",
+  "titleEn": "Anthropic invests $50 billion in American AI infrastructure",
+  "titleZh": "Anthropic 投资500亿美元建设美国 AI 基础设施",
+  "details": {
+    "overview": "Anthropic 宣布投资500亿美元，与 Fluidstack 合作在得克萨斯州和纽约州建设数据中心，未来还将有更多站点。设施为 Anthropic 定制，以优化其工作负载效率，支持前沿研发。项目预计创造约800个永久岗位和2400个建筑岗位，站点将在2026年陆续上线。Anthropic 称此举有助于满足超30万企业客户对 Claude 的需求，并配合美国 AI 行动计划。",
+    "keyPoints": [
+      "Anthropic 与 Fluidstack 合作在得州和纽约州建设定制数据中心。",
+      "项目投资500亿美元，预计创造约800个永久和2400个建筑岗位。",
+      "站点将于2026年陆续上线，支持前沿研发和 Claude 企业需求。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

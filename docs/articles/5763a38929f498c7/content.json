@@ -1,0 +1,25 @@
+{
+  "id": "5763a38929f498c7",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Building abundant intelligence",
+  "summary": "该官方发布内容以“构建充裕的智能”为题，提出以全栈方式让先进 AI 更有能力、更可负担、也更广泛有用。",
+  "url": "https://openai.com/index/building-abundant-intelligence",
+  "date": "2026-07-31",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-31T15:00:00+00:00",
+  "titleEn": "Building abundant intelligence",
+  "titleZh": "构建充裕的智能",
+  "details": {
+    "overview": "该官方发布内容以“构建充裕的智能”为题，提出以全栈方式让先进 AI 更有能力、更可负担、也更广泛有用。原文仅为一句概述，未展开全栈方法的具体构成、涉及的产品或技术层级，也未给出成本、性能或可用性方面的数据。因此可确认的是其主张的三个方向——能力、可负担性与广泛适用性，以及“全栈”这一路径表述，其余内容材料不足。",
+    "keyPoints": [
+      "原文主张以全栈方式推进先进 AI。",
+      "目标包括更强能力、更低成本与更广泛用途。",
+      "材料未说明全栈方法的具体构成或数据。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

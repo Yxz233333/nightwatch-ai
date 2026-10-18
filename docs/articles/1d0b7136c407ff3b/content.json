@@ -1,0 +1,24 @@
+{
+  "id": "1d0b7136c407ff3b",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Gemini Omni is your creative partner for video creation.",
+  "summary": "该新闻称Gemini Omni可帮助用户像对话一样轻松创建和编辑视频，被形容为“视频版Nano Banana”。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2026-05-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|Gemini Omni is your creative partner for video creation.|2026-05-19",
+  "titleEn": "Gemini Omni is your creative partner for video creation.",
+  "titleZh": "Gemini Omni：你的视频创作创意伙伴",
+  "details": {
+    "overview": "该新闻称Gemini Omni可帮助用户像对话一样轻松创建和编辑视频，被形容为“视频版Nano Banana”。用户可混合文本、照片和视频生成高质量视频，还能创建外观和声音类似自己的自定义AI头像，从零开始、混剪相机胶卷或使用预制模板。通过自然语言聊天即可添加细节、编辑并观看创意实现。Gemini Omni即日起在Gemini应用中面向全球18岁以上的所有Google AI订阅用户推出，功能可用性因地区而异。",
+    "keyPoints": [
+      "Gemini Omni支持混合文本、照片和视频生成高质量视频。",
+      "可创建自定义AI头像，并通过自然语言对话编辑视频。",
+      "即日起面向全球18岁以上Google AI订阅用户推出，地区可用性不同。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

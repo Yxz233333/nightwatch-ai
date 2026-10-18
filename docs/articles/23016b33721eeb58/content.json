@@ -1,0 +1,25 @@
+{
+  "id": "23016b33721eeb58",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+  "summary": "该发布推出名为Beam的开放模型，标题称其参数规模为501B，并强调用户可以拥有、定制和扩展该模型。",
+  "url": "https://huggingface.co/blog/reflection-beam",
+  "date": "2026-10-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-10-16T00:00:00+00:00",
+  "titleEn": "Welcome Beam: a 501B open model you can own, customize, and scale",
+  "titleZh": "欢迎Beam：一个可拥有、定制与扩展的501B开放模型",
+  "details": {
+    "overview": "该发布推出名为Beam的开放模型，标题称其参数规模为501B，并强调用户可以拥有、定制和扩展该模型。原始发布记录未提供正文，因此模型架构、训练数据、许可证条款、定制方式与性能评测均不明确。其意义在于以开放形式提供大规模模型，使机构可自行部署与调整，但可获取范围与实际能力需以官方原文为准。",
+    "keyPoints": [
+      "发布开放模型Beam，标题称参数规模为501B。",
+      "强调模型可被拥有、定制与扩展。",
+      "架构、许可证与评测信息在现有材料中缺失。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

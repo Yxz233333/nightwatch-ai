@@ -1,0 +1,25 @@
+{
+  "id": "aa0c435acfa7f5cf",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.90.0 发布",
+  "summary": "Codex CLI 0.90.0 带来多项功能更新：新增带策略执行的网络沙箱代理，以控制出站网络访问；通过应用服务器与 MCP 集成引入连接器支持的第一阶段；在 TUI 中以 beta 形式提供协作模式，区分 Coding 与 Plan 并简化计划到执行的交接；还加入临时线程、WebSocket 代理配置，并更严格限制多智能体。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.90.0",
+  "date": "2026-01-26",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-01-25T16:37:37+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.90.0 发布",
+  "titleZh": "Codex CLI 0.90.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.90.0 带来多项功能更新：新增带策略执行的网络沙箱代理，以控制出站网络访问；通过应用服务器与 MCP 集成引入连接器支持的第一阶段；在 TUI 中以 beta 形式提供协作模式，区分 Coding 与 Plan 并简化计划到执行的交接；还加入临时线程、WebSocket 代理配置，并更严格限制多智能体。修复项包括多行引号参数解析、--yolo 跳过 git 仓库检查、恢复会话可靠性等。",
+    "keyPoints": [
+      "新增网络沙箱代理，带策略执行控制出站访问",
+      "TUI协作模式以beta发布，区分Coding与Plan",
+      "修复多行引号参数解析与--yolo仓库检查等问题"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

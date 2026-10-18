@@ -1,0 +1,23 @@
+{
+  "id": "76840ff3198f8bbd",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT Web and Android updates: Edit image prompts, share faster, and smoother conversations",
+  "summary": "该更新说明列出 ChatGPT 网页版与 Android 端的多项改进。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-web-and-android-updates-edit-image-prompts-share-faster-and-smoother-conversations",
+  "date": "2026-02-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "ChatGPT Web and Android updates: Edit image prompts, share faster, and smoother conversations",
+  "titleZh": "ChatGPT 网页版与 Android 更新：编辑图像提示词、更快分享与更顺畅对话",
+  "details": {
+    "overview": "该更新说明列出 ChatGPT 网页版与 Android 端的多项改进。网页版可编辑含图像附件的消息，搜索面板支持 Cmd+点击在新标签页打开结果，分享菜单加载更快，Code Blocks 中的流程图与数据可视化可导出为图片。Android 端会话自动滚动到最新消息，侧边栏操作更快，听写界面更清晰，附加文件后键盘自动打开，并修复了 GPT-5.2 Thinking 消息流错误等问题。",
+    "keyPoints": [
+      "网页版可编辑含图像附件的消息并重新生成结果",
+      "Code Blocks 中的图表与可视化可导出为图片",
+      "Android 端会话自动滚动到底部并优化听写界面"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

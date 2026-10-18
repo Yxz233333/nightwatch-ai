@@ -1,0 +1,24 @@
+{
+  "id": "ffb584bf1d2bb4bf",
+  "section": "news",
+  "category": "模型动态",
+  "title": "One Giant Leap for AI Physics: NVIDIA Apollo Unveiled as Open Model Family for Scientific Simulation",
+  "summary": "据官方发布摘要，NVIDIA在圣路易斯SC25大会上推出Apollo，定位为面向工业与计算工程加速的开放模型家族。",
+  "url": "https://blogs.nvidia.com/blog/apollo-open-models/",
+  "date": "2025-11-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-11-17T22:30:25+00:00",
+  "titleEn": "One Giant Leap for AI Physics: NVIDIA Apollo Unveiled as Open Model Family for Scientific Simulation",
+  "titleZh": "AI物理一大步：NVIDIA发布Apollo开放模型家族用于科学仿真",
+  "details": {
+    "overview": "据官方发布摘要，NVIDIA在圣路易斯SC25大会上推出Apollo，定位为面向工业与计算工程加速的开放模型家族。材料称这些AI物理模型由NVIDIA AI基础设施加速，可让开发者将实时能力集成到多行业的仿真软件中。原文在介绍处截断，模型规模、许可条款与可用范围未在材料中说明，需以官方原文为准。",
+    "keyPoints": [
+      "NVIDIA在SC25大会推出Apollo开放模型家族。",
+      "面向工业与计算工程加速，由NVIDIA AI基础设施加速。",
+      "目标是让开发者将实时能力集成到仿真软件中。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

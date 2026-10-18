@@ -1,0 +1,25 @@
+{
+  "id": "9e8cbf4bb76e41ef",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Fast-tracking genetic leads to reverse cellular aging",
+  "summary": "该新闻称生物学家使用Co-Scientist工具寻找能成功使人类细胞 rejuvenate（ rejuvenate 意为恢复活力/年轻化）的新因子。",
+  "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+  "date": "2026-05-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-05-18T18:21:39+00:00",
+  "titleEn": "Fast-tracking genetic leads to reverse cellular aging",
+  "titleZh": "利用Co-Scientist快速追踪基因线索以逆转细胞衰老",
+  "details": {
+    "overview": "该新闻称生物学家使用Co-Scientist工具寻找能成功使人类细胞 rejuvenate（ rejuvenate 意为恢复活力/年轻化）的新因子。原文仅一句话，未说明具体细胞类型、因子数量或实验验证细节，也未提供研究论文或同行评审信息。因此，该结果应视为官方发布记录中的初步声明，而非已获独立验证的结论。",
+    "keyPoints": [
+      "生物学家借助Co-Scientist工具寻找逆转细胞衰老的新因子。",
+      "官方称这些因子成功使人类细胞恢复活力，但未披露具体实验细节。",
+      "该信息来自官方原始发布记录，推出范围和限制以原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

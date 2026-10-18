@@ -1,0 +1,25 @@
+{
+  "id": "1ff13aeff3d38245",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+  "summary": "官方发布摘要称，GPT-6 Astra 使 Parallel 的智能体在研究和综合劳动力市场数据时，相比此前模型将时间缩短一半、成本降低一半。",
+  "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+  "date": "2026-09-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-22T12:00:00+00:00",
+  "titleEn": "Parallel cut research time and cost in half with GPT‑6 Astra",
+  "titleZh": "Parallel 借助 GPT-6 Astra 将研究时间与成本减半",
+  "details": {
+    "overview": "官方发布摘要称，GPT-6 Astra 使 Parallel 的智能体在研究和综合劳动力市场数据时，相比此前模型将时间缩短一半、成本降低一半。该说法来自发布方对合作案例的描述，当前收录材料未提供基准方法、数据规模或独立验证信息，具体效果与适用条件需以原始发布为准。",
+    "keyPoints": [
+      "Parallel 智能体用 GPT-6 Astra 研究并综合劳动力市场数据",
+      "官方称相较此前模型时间减半、成本减半",
+      "当前收录材料未提供评测方法与验证细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "488beea2da03c3e8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+  "summary": "该条目为行业新闻，标题称开放ASR排行榜新增了首个全球南方语言。",
+  "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+  "date": "2026-08-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-08-28T00:00:00+00:00",
+  "titleEn": "The Open ASR Leaderboard Adds Its First Global South Language",
+  "titleZh": "开放ASR排行榜迎来首个全球南方语言",
+  "details": {
+    "overview": "该条目为行业新闻，标题称开放ASR排行榜新增了首个全球南方语言。但提供的摘要与原文内容均仅为同一句标题，未说明具体是哪种语言、由谁提交、评测数据与结果如何，也未交代该新增对排行榜覆盖范围的意义，因此无法展开介绍。",
+    "keyPoints": [
+      "开放ASR排行榜新增首个全球南方语言",
+      "原文未说明具体语言及提交方",
+      "当前收录材料未提供评测数据与结果细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

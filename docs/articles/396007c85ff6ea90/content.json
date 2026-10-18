@@ -1,0 +1,24 @@
+{
+  "id": "396007c85ff6ea90",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "SAIR: Accelerating Pharma R&D with AI-Powered Structural Intelligence",
+  "summary": "现有材料仅有标题“SAIR：以 AI 驱动的结构智能加速制药研发”，无摘要与正文内容，无法确认其具体研究对象、方法、作者声称的结果及发布方。",
+  "url": "https://huggingface.co/blog/SandboxAQ/sair-data-accelerating-drug-discovery-with-ai",
+  "date": "2025-09-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-09-02T16:54:29+00:00",
+  "titleEn": "SAIR: Accelerating Pharma R&D with AI-Powered Structural Intelligence",
+  "titleZh": "SAIR：以 AI 驱动的结构智能加速制药研发",
+  "details": {
+    "overview": "现有材料仅有标题“SAIR：以 AI 驱动的结构智能加速制药研发”，无摘要与正文内容，无法确认其具体研究对象、方法、作者声称的结果及发布方。以下要点仅据标题推断主题方向，不构成对功能或效果的描述，详细信息不足。",
+    "keyPoints": [
+      "标题指向以 AI 结构智能加速制药研发，具体方法未披露。",
+      "材料缺少正文，无法核实结果、适用范围与发布信息。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

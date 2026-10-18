@@ -1,0 +1,24 @@
+{
+  "id": "9e0d6b18948f6854",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Nemotron Labs: 3 Ways Specialized AI Agents Are Reshaping Businesses",
+  "summary": "该文指出，基于开源模型构建的AI代理可针对独特工作流和业务需求进行定制，从而提升生产力与投资回报率。",
+  "url": "https://blogs.nvidia.com/blog/specialized-ai-agents/",
+  "date": "2025-11-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-11-24T17:00:00+00:00",
+  "titleEn": "Nemotron Labs: 3 Ways Specialized AI Agents Are Reshaping Businesses",
+  "titleZh": "Nemotron Labs：专业AI代理重塑企业的三种方式",
+  "details": {
+    "overview": "该文指出，基于开源模型构建的AI代理可针对独特工作流和业务需求进行定制，从而提升生产力与投资回报率。文章围绕专业AI代理如何重塑企业展开，但原始发布内容仅提供摘要性描述，未展开三种方式的具体细节。",
+    "keyPoints": [
+      "AI代理基于开源模型构建，可针对独特工作流和业务需求定制。",
+      "定制化代理旨在提升生产力和投资回报率。",
+      "原文未展开三种重塑方式的具体内容。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

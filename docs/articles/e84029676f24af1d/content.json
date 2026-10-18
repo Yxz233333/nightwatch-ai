@@ -1,0 +1,25 @@
+{
+  "id": "e84029676f24af1d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
+  "summary": "OpenAI与太平洋西北国家实验室推出DraftNEPABench，这是一个评估AI编码智能体如何加速联邦许可审批的新基准。",
+  "url": "https://openai.com/index/pacific-northwest-national-laboratory",
+  "date": "2026-02-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-26T10:00:00+00:00",
+  "titleEn": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
+  "titleZh": "太平洋西北国家实验室与OpenAI合作加速联邦许可审批",
+  "details": {
+    "overview": "OpenAI与太平洋西北国家实验室推出DraftNEPABench，这是一个评估AI编码智能体如何加速联邦许可审批的新基准。原文称该工作显示有望将NEPA起草时间最多缩短15%，并推动基础设施审查现代化。材料未说明基准的具体构成、测试规模或15%这一结果的验证方式，相关结论以原文为准。",
+    "keyPoints": [
+      "双方推出DraftNEPABench，评估AI编码智能体加速联邦许可审批。",
+      "原文称有望将NEPA起草时间最多缩短15%。",
+      "目标是推动基础设施审查流程现代化。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

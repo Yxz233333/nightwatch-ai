@@ -1,0 +1,25 @@
+{
+  "id": "a91a75e1e797848f",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.155.0 发布",
+  "summary": "该版本为Codex CLI稳定版更新，新增实验性/voice语音对话（含实时转写与麦克风控制，需通过/experimental开启）、TUI状态行实时推理摘要与完成时间戳、agents概览中的任务隐藏归档删除，以及受支持Mac上MCP请求的Touch ID验证。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.155.0",
+  "date": "2026-09-18",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-09-17T23:14:43+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.155.0 发布",
+  "titleZh": "Codex CLI 0.155.0 发布",
+  "details": {
+    "overview": "该版本为Codex CLI稳定版更新，新增实验性/voice语音对话（含实时转写与麦克风控制，需通过/experimental开启）、TUI状态行实时推理摘要与完成时间戳、agents概览中的任务隐藏归档删除，以及受支持Mac上MCP请求的Touch ID验证。还加入可配置的守护进程更新计划与显式更新命令，并修复压缩失败时提示丢失、tmux尺寸通知遗漏、OAuth凭据过期提示等问题。",
+    "keyPoints": [
+      "新增实验性/voice语音对话，含实时转写与麦克风控制",
+      "TUI显示实时推理摘要与回合完成时间戳",
+      "支持Mac上MCP请求的Touch ID验证，并修复多项缺陷"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

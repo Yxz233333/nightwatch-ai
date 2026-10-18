@@ -1,0 +1,24 @@
+{
+  "id": "1603f4e3bce9c304",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Detecting and preventing distillation attacks",
+  "summary": "Anthropic称识别出三个AI实验室——DeepSeek、Moonshot和MiniMax——通过约2.4万个欺诈账户与Claude进行超过1600万次交互，以“蒸馏”方式提取Claude能力。",
+  "url": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
+  "date": "2026-02-24",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-02-23T18:00:00+00:00",
+  "titleEn": "Detecting and preventing distillation attacks",
+  "titleZh": "检测与防范蒸馏攻击",
+  "details": {
+    "overview": "Anthropic称识别出三个AI实验室——DeepSeek、Moonshot和MiniMax——通过约2.4万个欺诈账户与Claude进行超过1600万次交互，以“蒸馏”方式提取Claude能力。文章描述这些活动针对代理推理、工具使用和编码等能力，并利用代理服务网络规避检测。Anthropic认为非法蒸馏模型缺乏必要安全保障，带来国家安全风险，并以此支持出口管制理由。这些是Anthropic的单方面指控，相关实验室未在材料中回应。",
+    "keyPoints": [
+      "Anthropic称三个实验室用约2.4万欺诈账户进行蒸馏",
+      "攻击针对代理推理、工具使用和编码等差异化能力",
+      "Anthropic认为非法蒸馏模型缺乏安全保障，支持出口管制"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

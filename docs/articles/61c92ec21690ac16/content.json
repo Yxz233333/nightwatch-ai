@@ -1,0 +1,24 @@
+{
+  "id": "61c92ec21690ac16",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Accelerated Computing, Networking Drive Supercomputing in Age of AI",
+  "summary": "在 SC25 大会上，英伟达公布了 BlueField DPU、下一代网络、量子计算、国家科研和 AI 物理等多个方向的进展，官方称加速系统正推动 AI 超级计算进入新阶段。",
+  "url": "https://blogs.nvidia.com/blog/accelerated-computing-networking-supercomputing-ai/",
+  "date": "2025-11-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-11-17T22:31:55+00:00",
+  "titleEn": "Accelerated Computing, Networking Drive Supercomputing in Age of AI",
+  "titleZh": "加速计算与网络驱动 AI 时代的超级计算",
+  "details": {
+    "overview": "在 SC25 大会上，英伟达公布了 BlueField DPU、下一代网络、量子计算、国家科研和 AI 物理等多个方向的进展，官方称加速系统正推动 AI 超级计算进入新阶段。英伟达还重点介绍了由 BlueField-4 数据处理单元支持的存储创新，该单元属于 BlueField 全栈平台的一部分，用于加速吉瓦级 AI 基础设施。原文摘录在此处截断，其余发布细节未在材料中给出。",
+    "keyPoints": [
+      "SC25 上公布 BlueField DPU、下一代网络、量子计算与 AI 物理等进展",
+      "强调 BlueField-4 DPU 支持的存储创新，属 BlueField 全栈平台",
+      "官方称加速系统正推动 AI 超级计算进入新阶段"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

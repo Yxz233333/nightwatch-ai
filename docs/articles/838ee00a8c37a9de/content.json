@@ -1,0 +1,24 @@
+{
+  "id": "838ee00a8c37a9de",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks",
+  "summary": "官方发布记录仅给出标题，称 Open ASR 排行榜新增多语言与长音频赛道，并分享趋势与洞察。",
+  "url": "https://huggingface.co/blog/open-asr-leaderboard",
+  "date": "2025-11-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-11-21T00:00:00+00:00",
+  "titleEn": "Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks",
+  "titleZh": "Open ASR 排行榜：新增多语言与长音频赛道及趋势洞察",
+  "details": {
+    "overview": "官方发布记录仅给出标题，称 Open ASR 排行榜新增多语言与长音频赛道，并分享趋势与洞察。原始发布内容为空，无法确认具体榜单指标、参赛模型或数据来源，相关细节不足，需以官方原文为准。",
+    "keyPoints": [
+      "Open ASR 排行榜新增多语言赛道。",
+      "Open ASR 排行榜新增长音频赛道。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

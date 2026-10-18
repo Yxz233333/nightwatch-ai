@@ -1,0 +1,25 @@
+{
+  "id": "7538d6b23954d3d5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Continue your ChatGPT experience beyond WhatsApp",
+  "summary": "OpenAI 宣布 ChatGPT 将于 2026 年 1 月 15 日之后不再在 WhatsApp 上提供，并提示用户了解如何关联 ChatGPT 账户，以便跨设备继续对话。",
+  "url": "https://openai.com/index/chatgpt-whatsapp-transition",
+  "date": "2025-10-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-21T17:00:00+00:00",
+  "titleEn": "Continue your ChatGPT experience beyond WhatsApp",
+  "titleZh": "在 WhatsApp 之外继续你的 ChatGPT 体验",
+  "details": {
+    "overview": "OpenAI 宣布 ChatGPT 将于 2026 年 1 月 15 日之后不再在 WhatsApp 上提供，并提示用户了解如何关联 ChatGPT 账户，以便跨设备继续对话。原文未说明下线的具体原因、受影响用户范围或替代接入方式，仅给出时间点和账户关联建议。用户如需继续使用，应按官方指引完成账户关联。",
+    "keyPoints": [
+      "ChatGPT 将于 2026 年 1 月 15 日后停止在 WhatsApp 提供。",
+      "官方建议用户关联 ChatGPT 账户以跨设备继续对话。",
+      "原文未说明下线原因与受影响范围。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

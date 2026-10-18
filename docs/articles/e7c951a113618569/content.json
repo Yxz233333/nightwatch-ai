@@ -1,0 +1,25 @@
+{
+  "id": "e7c951a113618569",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Defining and evaluating political bias in LLMs",
+  "summary": "OpenAI 官方摘要表示，将介绍如何通过新的真实世界测试方法评估 ChatGPT 中的政治偏见，以提高客观性并减少偏见。",
+  "url": "https://openai.com/index/defining-and-evaluating-political-bias-in-llms",
+  "date": "2025-10-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-09T13:00:00+00:00",
+  "titleEn": "Defining and evaluating political bias in LLMs",
+  "titleZh": "定义与评估大语言模型中的政治偏见",
+  "details": {
+    "overview": "OpenAI 官方摘要表示，将介绍如何通过新的真实世界测试方法评估 ChatGPT 中的政治偏见，以提高客观性并减少偏见。当前收录材料未提供具体评估指标、测试范围或结果细节，仅说明方法旨在改进客观性。",
+    "keyPoints": [
+      "OpenAI 介绍评估 ChatGPT 政治偏见的新真实世界测试方法。",
+      "该方法旨在提高客观性并减少偏见。",
+      "当前收录材料未提供具体评估指标或结果。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

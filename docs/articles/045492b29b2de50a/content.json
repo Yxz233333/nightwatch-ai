@@ -1,0 +1,23 @@
+{
+  "id": "045492b29b2de50a",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Increased custom instructions limit",
+  "summary": "官方发布表示，ChatGPT 的自定义指令字符上限已提高。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#increased-custom-instructions-limit",
+  "date": "2026-07-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Increased custom instructions limit",
+  "titleZh": "自定义指令字符上限提高",
+  "details": {
+    "overview": "官方发布表示，ChatGPT 的自定义指令字符上限已提高。Plus、Pro、Enterprise、Business 和 Education 用户现在最多可保存 5,000 个字符，此前为 1,500 个，从而有更多空间定制 ChatGPT 的回复风格和行为。原文未说明其他套餐是否同步调整，也未给出具体上线时间或地区差异，相关范围与限制以原始发布为准。",
+    "keyPoints": [
+      "ChatGPT 自定义指令字符上限由 1,500 提高到 5,000。",
+      "适用 Plus、Pro、Enterprise、Business 和 Education 用户。",
+      "目的是让用户有更多空间定制回复风格与行为。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

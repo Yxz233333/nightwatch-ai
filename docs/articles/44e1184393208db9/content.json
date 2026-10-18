@@ -1,0 +1,25 @@
+{
+  "id": "44e1184393208db9",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How We Used Codex to Ship Sora for Android in 28 Days",
+  "summary": "该消息称，OpenAI 使用 Codex 在 28 天内完成 Android 版 Sora 的发布。",
+  "url": "https://openai.com/index/shipping-sora-for-android-with-codex",
+  "date": "2025-12-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-12T00:00:00+00:00",
+  "titleEn": "How We Used Codex to Ship Sora for Android in 28 Days",
+  "titleZh": "我们如何用 Codex 在 28 天内交付 Android 版 Sora",
+  "details": {
+    "overview": "该消息称，OpenAI 使用 Codex 在 28 天内完成 Android 版 Sora 的发布。文中提到 AI 辅助的规划、翻译和并行编码工作流，帮助一支精简团队实现快速且可靠的开发。原文未说明团队规模、具体功能范围或质量指标，相关效率结论来自发布方自述。",
+    "keyPoints": [
+      "Android 版 Sora 的交付周期被描述为 28 天。",
+      "Codex 被用于规划、翻译和并行编码等工作流。",
+      "发布方称该方式帮助精简团队实现快速可靠开发。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

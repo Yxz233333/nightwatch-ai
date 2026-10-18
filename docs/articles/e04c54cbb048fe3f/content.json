@@ -1,0 +1,25 @@
+{
+  "id": "e04c54cbb048fe3f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+  "summary": "原文介绍 Zapier 的企业营销团队使用 ChatGPT Work 来减少其线索漏斗中的流失、构建营销活动素材并自动化报告。",
+  "url": "https://openai.com/index/zapier",
+  "date": "2026-08-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-10T00:00:00+00:00",
+  "titleEn": "How Zapier transformed core marketing processes with ChatGPT Work",
+  "titleZh": "Zapier 如何用 ChatGPT Work 改造核心营销流程",
+  "details": {
+    "overview": "原文介绍 Zapier 的企业营销团队使用 ChatGPT Work 来减少其线索漏斗中的流失、构建营销活动素材并自动化报告。材料仅给出这一概述，未提供具体使用规模、效果数据或部署细节。该案例属于企业应用场景动态，展示 ChatGPT Work 在营销流程中的实际用途。相关结论和范围需以官方原文为准。",
+    "keyPoints": [
+      "Zapier 企业营销团队使用 ChatGPT Work 处理营销工作。",
+      "用途包括减少线索漏斗流失、构建活动素材和自动化报告。",
+      "当前收录材料未提供具体效果数据或使用规模。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

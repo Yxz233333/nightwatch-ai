@@ -1,0 +1,23 @@
+{
+  "id": "35319a422a989974",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Work with interactive plugin extensions",
+  "summary": "官方发布记录称，插件现在可以包含交互面板、侧边栏视图，以及针对受支持文件类型的查看器或编辑器。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#work-with-interactive-plugin-extensions",
+  "date": "2026-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Work with interactive plugin extensions",
+  "titleZh": "使用交互式插件扩展",
+  "details": {
+    "overview": "官方发布记录称，插件现在可以包含交互面板、侧边栏视图，以及针对受支持文件类型的查看器或编辑器。用户可在对话旁同时操作应用、选择希望 ChatGPT 使用的信息，或填写插件提供的表单。插件仍需相应的账户连接与工作区权限。原文未列出具体支持的文件类型、插件清单或可用范围。",
+    "keyPoints": [
+      "插件可包含交互面板、侧边栏视图和文件查看器或编辑器",
+      "用户可选择供 ChatGPT 使用的信息或填写插件表单",
+      "插件仍需账户连接与工作区权限"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

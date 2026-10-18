@@ -1,0 +1,23 @@
+{
+  "id": "a372c0fc67add761",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex app 26.317",
+  "summary": "该更新日志介绍Codex应用26.317版本。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2026-03-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "Codex app 26.317",
+  "titleZh": "Codex应用26.317",
+  "details": {
+    "overview": "该更新日志介绍Codex应用26.317版本。新功能包括：可从较早消息而非仅最新轮次分叉对话；新增切换模型与推理级别的斜杠命令，并支持在草稿提示中间使用；为计划模式提问增加通知，便于察觉Codex需要输入。修复方面包括跨工作树与VS Code扩展的线程交接和子代理导航问题，以及若干性能改进与缺陷修复。材料未说明具体性能提升幅度。",
+    "keyPoints": [
+      "支持从较早消息分叉对话，不再限于最新轮次。",
+      "新增切换模型与推理级别的斜杠命令，可在草稿中间使用。",
+      "修复跨工作树和VS Code扩展的线程交接与子代理导航问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "71f47d5f4f5364d9",
+  "section": "news",
+  "category": "模型动态",
+  "title": "NVIDIA Launches Nemotron 3 Nano Omni Model, Unifying Vision, Audio and Language for up to 9x More Efficient AI Agents",
+  "summary": "该条目为模型动态。",
+  "url": "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/",
+  "date": "2026-04-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-04-28T16:00:28+00:00",
+  "titleEn": "NVIDIA Launches Nemotron 3 Nano Omni Model, Unifying Vision, Audio and Language for up to 9x More Efficient AI Agents",
+  "titleZh": "NVIDIA 推出 Nemotron 3 Nano Omni 模型，统一视觉、音频与语言，AI 智能体效率最高提升 9 倍",
+  "details": {
+    "overview": "该条目为模型动态。NVIDIA 发布开放多模态模型 Nemotron 3 Nano Omni，把视觉、语音与语言能力整合进同一系统。原文指出，当前 AI 智能体需在多个独立模型间传递数据，造成时间与上下文损失；统一后智能体可给出更快、更聪明的响应。标题声称效率最高提升 9 倍，但材料未说明测试条件与对比基准，该数字应视为厂商说法，需以原文为准。",
+    "keyPoints": [
+      "发布开放多模态模型 Nemotron 3 Nano Omni",
+      "将视觉、语音与语言整合进单一系统",
+      "厂商称智能体效率最高提升 9 倍，条件未披露"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

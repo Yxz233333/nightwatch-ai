@@ -1,0 +1,25 @@
+{
+  "id": "bd00b61e4bf73858",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+  "summary": "该条目介绍名为 QIMMA（قِمّة）的阿拉伯语大模型排行榜，定位为“以质量为先”。",
+  "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+  "date": "2026-04-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-04-21T10:09:58+00:00",
+  "titleEn": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+  "titleZh": "QIMMA قِمّة ⛰：以质量为先的阿拉伯语大模型排行榜",
+  "details": {
+    "overview": "该条目介绍名为 QIMMA（قِمّة）的阿拉伯语大模型排行榜，定位为“以质量为先”。但提供的 sourceText 为空，摘要仅为标题重复，缺少评测维度、评分方法、参评模型与数据来源等信息。因此无法说明其具体研究对象与结论，相关内容需以原始发布为准。",
+    "keyPoints": [
+      "主题为阿拉伯语大模型排行榜 QIMMA，强调质量优先",
+      "原文正文缺失，仅有标题与重复摘要",
+      "评测维度、评分方法与参评模型均无法确认"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

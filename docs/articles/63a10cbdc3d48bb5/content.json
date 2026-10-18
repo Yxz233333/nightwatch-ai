@@ -1,0 +1,25 @@
+{
+  "id": "63a10cbdc3d48bb5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Personalizing ChatGPT",
+  "summary": "官方发布的学习类内容，介绍如何通过自定义指令和记忆功能对ChatGPT进行个性化设置。",
+  "url": "https://openai.com/academy/personalization",
+  "date": "2026-04-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-10T00:00:00+00:00",
+  "titleEn": "Personalizing ChatGPT",
+  "titleZh": "个性化设置ChatGPT",
+  "details": {
+    "overview": "官方发布的学习类内容，介绍如何通过自定义指令和记忆功能对ChatGPT进行个性化设置。据摘要，目的是获得更相关、更一致、更贴合个人需求的回复。原文仅提供一句摘要，未披露设置的具体步骤、可用范围或限制。",
+    "keyPoints": [
+      "介绍用自定义指令和记忆功能个性化ChatGPT。",
+      "目标是让回复更相关、更一致、更贴合需求。",
+      "当前收录材料未提供具体设置步骤或适用范围。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

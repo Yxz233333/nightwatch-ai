@@ -1,0 +1,25 @@
+{
+  "id": "d57f43b4a6d29175",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+  "summary": "该官方发布称，OpenAI Japan公布“日本青少年安全蓝图”，针对使用生成式AI的青少年引入更强的年龄保护、家长控制和福祉保障措施。",
+  "url": "https://openai.com/index/japan-teen-safety-blueprint",
+  "date": "2026-03-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-17T10:00:00+00:00",
+  "titleEn": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+  "titleZh": "OpenAI Japan发布日本青少年安全蓝图，将青少年安全置于首位",
+  "details": {
+    "overview": "该官方发布称，OpenAI Japan公布“日本青少年安全蓝图”，针对使用生成式AI的青少年引入更强的年龄保护、家长控制和福祉保障措施。材料仅给出这一概述，未说明具体年龄门槛、家长控制形式或保障机制如何运作，也未提供效果评估。其意义在于把青少年保护作为生成式AI产品治理的明确议题，具体实施范围与限制需以原文为准。",
+    "keyPoints": [
+      "发布日本青少年安全蓝图，聚焦生成式AI的青少年使用。",
+      "内容包括更强的年龄保护、家长控制和福祉保障。",
+      "当前收录材料未提供年龄门槛、控制形式或效果评估。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

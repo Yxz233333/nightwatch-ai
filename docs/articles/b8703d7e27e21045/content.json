@@ -1,0 +1,25 @@
+{
+  "id": "b8703d7e27e21045",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Using Codex across the software development lifecycle",
+  "summary": "该条目为一场网络研讨会的发布信息，主题是围绕软件开发生命周期使用 Codex。",
+  "url": "https://openai.com/business/learn/using-codex-across-the-software-development-lifecycle",
+  "date": "2025-11-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-20T00:00:00+00:00",
+  "titleEn": "Using Codex across the software development lifecycle",
+  "titleZh": "在软件开发生命周期中使用 Codex",
+  "details": {
+    "overview": "该条目为一场网络研讨会的发布信息，主题是围绕软件开发生命周期使用 Codex。原文仅说明可观看该研讨会，未提供 Codex 的具体功能、适用环节、演示案例或使用限制。对开发者而言，这属于工具应用层面的活动信息，实际内容需以研讨会原始发布为准。",
+    "keyPoints": [
+      "主题为在软件开发生命周期中使用 Codex",
+      "形式为可观看的网络研讨会",
+      "当前收录材料未提供具体功能与演示细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "a5b994501d74e976",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Building the compute infrastructure for the Intelligence Age",
+  "summary": "该条目为行业新闻，OpenAI 表示正扩大 Stargate 项目，以构建支撑通用人工智能的算力基础设施，并新增数据中心容量以应对增长的 AI 需求。",
+  "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+  "date": "2026-04-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-29T15:00:00+00:00",
+  "titleEn": "Building the compute infrastructure for the Intelligence Age",
+  "titleZh": "为智能时代构建算力基础设施",
+  "details": {
+    "overview": "该条目为行业新闻，OpenAI 表示正扩大 Stargate 项目，以构建支撑通用人工智能的算力基础设施，并新增数据中心容量以应对增长的 AI 需求。原始材料仅有一句概述，未披露新增站点的位置、投资规模、上线时间或算力规模等细节。作者声称的方向是把算力建设作为 AGI 发展的基础，其实际进展与约束需以官方原文为准。",
+    "keyPoints": [
+      "OpenAI 称正扩大 Stargate 算力项目建设",
+      "新增数据中心容量以应对增长的 AI 需求",
+      "材料未披露选址、投资与时间等具体细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

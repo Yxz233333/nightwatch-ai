@@ -1,0 +1,25 @@
+{
+  "id": "e9f1d7adbfd65316",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.89.0 发布",
+  "summary": "Codex CLI 发布 0.89.0 版本更新。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.89.0",
+  "date": "2026-01-23",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-01-22T21:35:51+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.89.0 发布",
+  "titleZh": "Codex CLI 0.89.0 发布",
+  "details": {
+    "overview": "Codex CLI 发布 0.89.0 版本更新。新增 /permissions 命令并提供更精简的审批集合，同时保留 /approvals 以兼容旧用法；新增 /skill 界面，可单独启用或禁用技能；斜杠命令选择改为优先精确匹配和前缀匹配。应用服务器支持 thread/read 与归档线程过滤，客户端支持分层 config.toml 解析。修复波浪号展开可能逃逸 HOME 的问题，并调整 TUI 计时逻辑。",
+    "keyPoints": [
+      "新增 /permissions 命令，提供更短审批集合并保留 /approvals 兼容",
+      "新增 /skill 界面，可单独启用或禁用技能",
+      "应用服务器支持 thread/read 及归档线程过滤"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

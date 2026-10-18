@@ -1,0 +1,23 @@
+{
+  "id": "6ff8fb8ff72c04ee",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Organize your work in ChatGPT Space",
+  "summary": "官方介绍 ChatGPT 中的 Space 功能，可将 Pages、文件和相关工作汇集在一起。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#organize-your-work-in-chatgpt-space",
+  "date": "2026-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Organize your work in ChatGPT Space",
+  "titleZh": "在 ChatGPT Space 中整理工作",
+  "details": {
+    "overview": "官方介绍 ChatGPT 中的 Space 功能，可将 Pages、文件和相关工作汇集在一起。用户可为项目创建空间、添加所需材料并分享给他人，以便在同一工作上继续推进。Space 取代有访问权限账号中的 Library，现有 Projects 保持独立。该功能面向符合条件的 Pro、Business 和 Enterprise 用户，在桌面应用和网页端提供；受管工作区的分享遵循组织设置，Enterprise 分享为需主动选择的预览功能。",
+    "keyPoints": [
+      "Space 汇集 Pages、文件与相关工作，并支持分享协作",
+      "Space 取代 Library，现有 Projects 保持独立",
+      "面向符合条件的 Pro、Business 和 Enterprise 用户"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

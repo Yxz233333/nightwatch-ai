@@ -1,0 +1,25 @@
+{
+  "id": "2c7d6b4affb27c4f",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.153.0 发布",
+  "summary": "Codex CLI 0.153.0 发布说明列出新功能、缺陷修复与配置/API 更新。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.153.0",
+  "date": "2026-09-03",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-09-03T01:37:38+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.153.0 发布",
+  "titleZh": "Codex CLI 0.153.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.153.0 发布说明列出新功能、缺陷修复与配置/API 更新。新功能包括 Vim 模式支持撤销与重做并保留完整草稿、插件 CLI 可从远程市场列出安装移除插件、可关闭自动回顾而保留手动 /recap、TUI 历史显示完整补丁与后台终端输入等。修复涉及 TUI 断线重连后保留草稿与记录、Guardian 审查历史在压缩与重启后保留、MCP 工具批准按账号限定等。配置方面新增默认关闭的实验性上下文管理选项。",
+    "keyPoints": [
+      "Vim 模式新增撤销与重做，并保留含粘贴内容和附件的草稿。",
+      "插件 CLI 支持从远程市场列出、安装和移除插件。",
+      "新增默认关闭的实验性上下文管理配置，仅对符合条件的会话启用。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

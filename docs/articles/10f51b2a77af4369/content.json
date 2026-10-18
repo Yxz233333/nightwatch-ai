@@ -1,0 +1,25 @@
+{
+  "id": "10f51b2a77af4369",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing ChatGPT Images and GPT‑Image‑1.5",
+  "summary": "该发布记录称，2025年推出更快的 ChatGPT Images 使用体验，并在 API 中提供 GPT-Image-1.5，同时提到可了解最新的 ChatGPT Images 2.5。",
+  "url": "https://openai.com/index/new-chatgpt-images-is-here",
+  "date": "2025-12-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-16T00:00:00+00:00",
+  "titleEn": "Introducing ChatGPT Images and GPT‑Image‑1.5",
+  "titleZh": "推出 ChatGPT Images 与 GPT-Image-1.5",
+  "details": {
+    "overview": "该发布记录称，2025年推出更快的 ChatGPT Images 使用体验，并在 API 中提供 GPT-Image-1.5，同时提到可了解最新的 ChatGPT Images 2.5。原文未给出具体速度提升幅度、可用范围或限制，相关细节需以官方原始发布为准。",
+    "keyPoints": [
+      "发布记录称 ChatGPT Images 体验更快",
+      "GPT-Image-1.5 在 API 中提供",
+      "原文提及可了解 ChatGPT Images 2.5"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

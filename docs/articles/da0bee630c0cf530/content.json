@@ -1,0 +1,23 @@
+{
+  "id": "da0bee630c0cf530",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Introducing the Codex app",
+  "summary": "OpenAI 介绍 macOS 版 Codex 应用，称其为并行运行代理线程、与代理协作处理长期任务的桌面界面，包含项目侧栏、线程列表和审查面板。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2026-02-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "Introducing the Codex app",
+  "titleZh": "推出 Codex 应用",
+  "details": {
+    "overview": "OpenAI 介绍 macOS 版 Codex 应用，称其为并行运行代理线程、与代理协作处理长期任务的桌面界面，包含项目侧栏、线程列表和审查面板。原文列出跨项目多任务、内置工作树支持、语音听写、内置 Git 工具、技能和自动化等功能。限时活动中 ChatGPT Free 和 Go 包含 Codex，Plus、Pro、Business、Enterprise 和 Edu 套餐获得双倍速率限制，且适用于应用、CLI、IDE 和云端。",
+    "keyPoints": [
+      "桌面界面含项目侧栏、线程列表与审查面板",
+      "功能包括跨项目多任务、工作树、语音听写与 Git 工具",
+      "限时活动中多档 ChatGPT 套餐获得双倍速率限制"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

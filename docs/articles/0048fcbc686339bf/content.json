@@ -1,0 +1,24 @@
+{
+  "id": "0048fcbc686339bf",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "The Great Flip: How Accelerated Computing Redefined Scientific Systems — and What Comes Next",
+  "summary": "该文回顾计算系统重心的转移：CPU 曾经主导，随后能效因素、继而 AI 改变了平衡，如今 GPU、网络与软件之间的深度协同设计正推动科学前沿。",
+  "url": "https://blogs.nvidia.com/blog/accelerated-scientific-systems/",
+  "date": "2025-11-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-11-18T01:53:30+00:00",
+  "titleEn": "The Great Flip: How Accelerated Computing Redefined Scientific Systems — and What Comes Next",
+  "titleZh": "大翻转：加速计算如何重新定义科学系统——以及下一步",
+  "details": {
+    "overview": "该文回顾计算系统重心的转移：CPU 曾经主导，随后能效因素、继而 AI 改变了平衡，如今 GPU、网络与软件之间的深度协同设计正推动科学前沿。原文仅提供这段摘要式描述，未给出具体案例、数据或结论细节，因此无法进一步说明其论证依据与适用范围。",
+    "keyPoints": [
+      "CPU 主导地位因能效与 AI 因素发生翻转",
+      "GPU、网络与软件的深度协同设计成为科学前沿驱动力",
+      "原文仅提供概述，未给出具体案例与数据"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "022d26eed622533c",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.94.0 发布",
+  "summary": "Codex CLI 0.94.0 发布，计划模式默认启用并更新了交互指引；人格配置转为稳定，默认友好，配置键为 personality，旧设置可迁移；技能可从 .agents/skills 加载，支持相对路径说明与嵌套文件夹标记；控制台输出新增运行时指标便于诊断。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.94.0",
+  "date": "2026-02-03",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-02-02T18:27:37+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.94.0 发布",
+  "titleZh": "Codex CLI 0.94.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.94.0 发布，计划模式默认启用并更新了交互指引；人格配置转为稳定，默认友好，配置键为 personality，旧设置可迁移；技能可从 .agents/skills 加载，支持相对路径说明与嵌套文件夹标记；控制台输出新增运行时指标便于诊断。修复方面包括取消归档线程时更新时间戳以刷新侧栏排序、限制会话规则输出并去重前缀规则、覆盖轮次上下文不再追加额外条目。",
+    "keyPoints": [
+      "计划模式默认启用，并更新计划提示中的交互指引",
+      "人格配置稳定，默认友好，配置键为 personality 且支持迁移",
+      "技能可从 .agents/skills 加载，控制台新增运行时指标"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

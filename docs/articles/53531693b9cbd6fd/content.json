@@ -1,0 +1,24 @@
+{
+  "id": "53531693b9cbd6fd",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing agentic video understanding with Gemini",
+  "summary": "该条目标题称 Gemini 推出智能体式视频理解能力，但原始发布内容为空，缺少功能说明、可用范围和技术细节。",
+  "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+  "date": "2026-09-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-09-01T17:08:51+00:00",
+  "titleEn": "Introducing agentic video understanding with Gemini",
+  "titleZh": "Gemini 推出智能体式视频理解",
+  "details": {
+    "overview": "该条目标题称 Gemini 推出智能体式视频理解能力，但原始发布内容为空，缺少功能说明、可用范围和技术细节。因此目前只能确认该发布主题，无法介绍具体研究对象、作者声称的结果或研究意义，相关信息需以原始发布记录为准。",
+    "keyPoints": [
+      "发布主题为 Gemini 的智能体式视频理解。",
+      "原始内容为空，缺少功能与范围细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

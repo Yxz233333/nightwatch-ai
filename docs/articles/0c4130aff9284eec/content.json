@@ -1,0 +1,24 @@
+{
+  "id": "0c4130aff9284eec",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Updating restrictions of sales to unsupported regions",
+  "summary": "Anthropic更新服务条款，禁止由总部位于不支持地区（如中国）的公司多数持股的实体使用其服务，无论这些实体在何处运营。",
+  "url": "https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions",
+  "date": "2025-09-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-09-04T21:00:00+00:00",
+  "titleEn": "Updating restrictions of sales to unsupported regions",
+  "titleZh": "Anthropic收紧对不支持地区的销售限制",
+  "details": {
+    "overview": "Anthropic更新服务条款，禁止由总部位于不支持地区（如中国）的公司多数持股的实体使用其服务，无论这些实体在何处运营。原文称，此类限制源于法律、监管和安全风险，并担心子公司渠道可能被用于服务对抗性军事与情报机构，或通过蒸馏等方式推进自身AI开发。Anthropic还表示继续支持出口管制等政策，并向METR团队提供类似员工的访问权限以评估系统安全。",
+    "keyPoints": [
+      "新规禁止总部位于不支持地区公司直接或间接持股超50%的实体使用服务。",
+      "原文称限制针对法律、监管与国家安全风险，包括数据共享与蒸馏风险。",
+      "Anthropic称继续支持出口管制，并向METR提供类似员工访问权限。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5dfdd1ef77e521ac",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
+  "summary": "该文以NVIDIA在7月联合200多家企业和组织签署“开放权重与美国AI领导力”公开信为切入点，介绍开放世界模型对物理AI的推动作用。",
+  "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
+  "date": "2026-08-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-08-06T13:00:00+00:00",
+  "titleEn": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
+  "titleZh": "走进Omniverse：开放世界模型如何推动物理AI前沿",
+  "details": {
+    "overview": "该文以NVIDIA在7月联合200多家企业和组织签署“开放权重与美国AI领导力”公开信为切入点，介绍开放世界模型对物理AI的推动作用。公开信主张，AI领导力不应以单一前沿模型衡量，而应看开放生态能否覆盖各个行业。原文摘要未展开具体技术方案或成果数据。",
+    "keyPoints": [
+      "NVIDIA于7月与200多家企业和组织签署开放权重公开信。",
+      "公开信主张以开放生态覆盖面衡量AI领导力。",
+      "文章主题为开放世界模型推动物理AI前沿。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

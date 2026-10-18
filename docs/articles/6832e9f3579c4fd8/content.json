@@ -1,0 +1,25 @@
+{
+  "id": "6832e9f3579c4fd8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+  "summary": "原文标题指向对 16 个开源强化学习库的经验总结，主题围绕保持 token 持续流动，但未提供正文内容，因此无法说明具体研究对象、作者提出的结论或实践建议。",
+  "url": "https://huggingface.co/blog/async-rl-training-landscape",
+  "date": "2026-03-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-03-10T00:00:00+00:00",
+  "titleEn": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+  "titleZh": "让 Token 持续流动：来自 16 个开源强化学习库的经验",
+  "details": {
+    "overview": "原文标题指向对 16 个开源强化学习库的经验总结，主题围绕保持 token 持续流动，但未提供正文内容，因此无法说明具体研究对象、作者提出的结论或实践建议。相关信息需以官方原始发布为准。",
+    "keyPoints": [
+      "主题为从 16 个开源强化学习库中总结的经验",
+      "原文无正文，具体结论与建议不明",
+      "相关信息需以官方原始发布为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

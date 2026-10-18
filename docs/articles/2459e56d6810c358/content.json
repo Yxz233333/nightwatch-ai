@@ -1,0 +1,25 @@
+{
+  "id": "2459e56d6810c358",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "An update on our mental health-related work",
+  "summary": "OpenAI发布其心理健康安全工作的更新，内容涉及家长控制、可信联系人、改进的痛苦情绪识别，以及近期诉讼进展。",
+  "url": "https://openai.com/index/update-on-mental-health-related-work",
+  "date": "2026-02-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-27T00:00:00+00:00",
+  "titleEn": "An update on our mental health-related work",
+  "titleZh": "OpenAI心理健康相关工作进展更新",
+  "details": {
+    "overview": "OpenAI发布其心理健康安全工作的更新，内容涉及家长控制、可信联系人、改进的痛苦情绪识别，以及近期诉讼进展。原文摘要仅列出上述方向，未给出各项功能的具体机制、覆盖范围或上线时间，也未说明诉讼的具体内容与结果。相关推出范围和限制以原文为准。",
+    "keyPoints": [
+      "更新涵盖家长控制与可信联系人等心理健康安全功能。",
+      "提及改进痛苦情绪识别能力。",
+      "同时通报近期诉讼相关进展，原文未展开细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

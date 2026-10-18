@@ -1,0 +1,25 @@
+{
+  "id": "282c2996ba7e128f",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+  "summary": "该文介绍Google最新语音模型Gemini 3.1 Flash Live，称其精度提升、延迟降低，使语音交互更流畅、自然和准确。",
+  "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+  "date": "2026-03-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-03-26T15:23:35+00:00",
+  "titleEn": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+  "titleZh": "Gemini 3.1 Flash Live：让音频AI更自然、更可靠",
+  "details": {
+    "overview": "该文介绍Google最新语音模型Gemini 3.1 Flash Live，称其精度提升、延迟降低，使语音交互更流畅、自然和准确。原文摘要仅一句话，未披露模型架构、评测数据、支持语言或上线范围，也未说明是否经过独立验证。因此只能确认其定位为语音模型及作者声称的改进方向，具体性能与可用性需以原文为准。",
+    "keyPoints": [
+      "Gemini 3.1 Flash Live为最新语音模型。",
+      "作者称其精度提升、延迟降低。",
+      "目标是让语音交互更流畅、自然和准确。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "7da16a387bdbc142",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI",
+  "summary": "NVIDIA 发文介绍其从 RTX 到 Spark 的平台对 Gemma 4 本地智能体 AI 的加速支持。",
+  "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/",
+  "date": "2026-04-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-04-02T16:15:58+00:00",
+  "titleEn": "From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI",
+  "titleZh": "从 RTX 到 Spark：NVIDIA 加速 Gemma 4 本地智能体 AI",
+  "details": {
+    "overview": "NVIDIA 发文介绍其从 RTX 到 Spark 的平台对 Gemma 4 本地智能体 AI 的加速支持。原文指出，开放模型正推动端侧 AI 发展，其价值越来越依赖本地实时上下文。Google 在 Gemma 4 家族中新增了一类小型、快速且全能型模型，面向高效本地执行。当前收录材料未提供具体性能数据、支持设备清单或发布时间。",
+    "keyPoints": [
+      "NVIDIA 称其平台可加速 Gemma 4 本地运行",
+      "Gemma 4 新增小型、快速、全能型模型",
+      "当前收录材料未提供具体性能数据与设备范围"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

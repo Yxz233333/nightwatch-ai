@@ -1,0 +1,24 @@
+{
+  "id": "4aeacd7230fb2971",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "An off switch for dual-use knowledge in AI models",
+  "summary": "该文介绍AE Studio与Anthropic合作研究的GRAM方法，即为每类两用知识设置专用、可移除的模块，训练两用数据时只更新对应模块，删除模块即可移除相应能力。",
+  "url": "https://www.anthropic.com/research/off-switch-dual-use",
+  "date": "2026-07-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-07-08T21:46:00+00:00",
+  "titleEn": "An off switch for dual-use knowledge in AI models",
+  "titleZh": "为AI模型中的两用知识设置关闭开关",
+  "details": {
+    "overview": "该文介绍AE Studio与Anthropic合作研究的GRAM方法，即为每类两用知识设置专用、可移除的模块，训练两用数据时只更新对应模块，删除模块即可移除相应能力。作者在合成数据、真实混合文本和5000万至50亿参数多种规模上测试，称移除模块后通用性能未见下降，且比训练后“遗忘”方法更难被少量恶意数据恢复。作者明确这是初步研究，尚未用于生产模型。",
+    "keyPoints": [
+      "GRAM为病毒学、网络安全等两用知识设置可删除的专用模块",
+      "作者称删除模块可移除对应能力且未降低通用性能",
+      "研究属初步阶段，未在前沿规模或生产流程中验证"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5d7ed7d13f70d130",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing a way to reflect on how you use Claude",
+  "summary": "Anthropic以测试版推出反思功能，帮助用户追踪并可视化自己如何使用Claude，并判断使用时间是否与目标一致。",
+  "url": "https://www.anthropic.com/news/reflect-with-claude",
+  "date": "2026-07-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-07-09T13:20:00+00:00",
+  "titleEn": "Introducing a way to reflect on how you use Claude",
+  "titleZh": "推出回顾你如何使用Claude的新方式",
+  "details": {
+    "overview": "Anthropic以测试版推出反思功能，帮助用户追踪并可视化自己如何使用Claude，并判断使用时间是否与目标一致。仪表盘位于网页版或桌面应用的设置中，可回顾过去1、3、6或12个月的聊天活动，查看关键主题、使用模式和常见任务类型，还可设置安静时段或休息提醒。该功能面向开启记忆的Free、Pro和Max用户，不纳入隐身聊天及连接工具的底层文件。",
+    "keyPoints": [
+      "测试版仪表盘可回顾1至12个月的Claude使用主题与模式",
+      "支持设置安静时段和休息提醒，并提供使用建议",
+      "仅面向开启记忆的Free、Pro、Max用户，不纳入隐身聊天"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

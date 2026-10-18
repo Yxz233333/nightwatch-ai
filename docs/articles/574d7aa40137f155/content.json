@@ -1,0 +1,25 @@
+{
+  "id": "574d7aa40137f155",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing GPT-6.1 Sol",
+  "summary": "官方发布 GPT-6.1 Sol，称其面向编程、计算机使用和专业工作，具备接近 Astra 的智能水平，标准 API 输入与输出 token 价格仅为 Astra 的五分之一。",
+  "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+  "date": "2026-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-29T10:00:00+00:00",
+  "titleEn": "Introducing GPT-6.1 Sol",
+  "titleZh": "推出 GPT-6.1 Sol",
+  "details": {
+    "overview": "官方发布 GPT-6.1 Sol，称其面向编程、计算机使用和专业工作，具备接近 Astra 的智能水平，标准 API 输入与输出 token 价格仅为 Astra 的五分之一。原始材料仅有一句概述，未披露具体基准成绩、上下文长度、可用范围或与 Astra 的能力差距细节，因此无法进一步评估其实际表现。",
+    "keyPoints": [
+      "GPT-6.1 Sol 定位为接近 Astra 的智能水平",
+      "面向编程、计算机使用和专业工作场景",
+      "标准 API 输入输出 token 价格为 Astra 的五分之一"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

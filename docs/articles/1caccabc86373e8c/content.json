@@ -1,0 +1,25 @@
+{
+  "id": "1caccabc86373e8c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Cyber Operation: Phishing and scripting support",
+  "summary": "OpenAI封禁了一批账号，称其活动与公开报道过的威胁组织存在重叠，并呈现与中国情报需求相符的特征。",
+  "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-phishing-and-scripting-support",
+  "date": "2025-10-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-01T00:00:00+00:00",
+  "titleEn": "Cyber Operation: Phishing and scripting support",
+  "titleZh": "网络行动：钓鱼与脚本支持",
+  "details": {
+    "overview": "OpenAI封禁了一批账号，称其活动与公开报道过的威胁组织存在重叠，并呈现与中国情报需求相符的特征。原始发布内容称，这些账号利用AI支持钓鱼和脚本工作流。材料未提供组织名称、归因证据或独立验证，相关判断应视为发布方说法。",
+    "keyPoints": [
+      "OpenAI封禁活动与公开威胁组织重叠的账号",
+      "发布方称其呈现与中国情报需求相符的特征",
+      "涉事账号被指用AI支持钓鱼和脚本工作流"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

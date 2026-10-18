@@ -1,0 +1,24 @@
+{
+  "id": "fb4ebd7101ebd905",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "AI models are showing a greater ability to find and exploit vulnerabilities on realistic cyber ranges",
+  "summary": "该新闻基于官方发布记录，介绍Anthropic对Claude模型网络能力的评估。",
+  "url": "https://www.anthropic.com/research/cyber-toolkits-update",
+  "date": "2026-01-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-01-16T00:00:00+00:00",
+  "titleEn": "AI models are showing a greater ability to find and exploit vulnerabilities on realistic cyber ranges",
+  "titleZh": "AI模型在逼真网络靶场中展现更强的漏洞发现与利用能力",
+  "details": {
+    "overview": "该新闻基于官方发布记录，介绍Anthropic对Claude模型网络能力的评估。原文称，在模拟网络中，当前Claude模型仅用标准开源工具即可对数十台主机实施多阶段攻击，而前代模型需要定制工具包。测试中，Claude Sonnet 4.5在五轮试验中有两轮自主完成Equifax数据泄露模拟，但并非每次成功，且在九个网络中有五个仍需定制工具。作者认为这显示AI用于相对自主网络工作流的门槛正在快速降低，并强调及时修补已知漏洞等安全基础措施的重要性。",
+    "keyPoints": [
+      "Sonnet 4.5仅用Bash和Kali Linux即可在部分网络完成多阶段攻击",
+      "Equifax模拟中五轮成功两轮，并非稳定复现",
+      "作者强调及时打补丁等安全基础措施"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

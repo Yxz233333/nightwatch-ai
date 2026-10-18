@@ -1,0 +1,25 @@
+{
+  "id": "c052db1e25445693",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How loveholidays is making everyone a builder with Codex",
+  "summary": "该消息介绍loveholidays使用OpenAI Codex的实践，称其让软件开发在整个业务范围内更易获得，帮助团队更快把想法转化为产品。",
+  "url": "https://openai.com/index/loveholidays",
+  "date": "2026-08-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-26T00:00:00+00:00",
+  "titleEn": "How loveholidays is making everyone a builder with Codex",
+  "titleZh": "loveholidays如何借助Codex让人人都能参与构建",
+  "details": {
+    "overview": "该消息介绍loveholidays使用OpenAI Codex的实践，称其让软件开发在整个业务范围内更易获得，帮助团队更快把想法转化为产品。原文未给出具体使用规模、效果数据或部署细节，相关范围与限制需以官方原文为准。",
+    "keyPoints": [
+      "loveholidays使用OpenAI Codex开展软件开发。",
+      "目标是让开发能力覆盖整个业务，使团队更快把想法变成产品。",
+      "当前收录材料未提供使用规模与效果数据，需以官方原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

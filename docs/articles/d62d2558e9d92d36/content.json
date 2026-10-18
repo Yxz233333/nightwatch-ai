@@ -1,0 +1,24 @@
+{
+  "id": "d62d2558e9d92d36",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Gemini Spark is your 24/7 personal AI agent.",
+  "summary": "官方发布介绍Gemini Spark，称其提供一种全新的完成任务方式，可代表用户处理任务、协助管理数字生活。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2026-05-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|Gemini Spark is your 24/7 personal AI agent.|2026-05-19",
+  "titleEn": "Gemini Spark is your 24/7 personal AI agent.",
+  "titleZh": "Gemini Spark：全天候个人AI智能体",
+  "details": {
+    "overview": "官方发布介绍Gemini Spark，称其提供一种全新的完成任务方式，可代表用户处理任务、协助管理数字生活。该功能当天面向可信测试者推出，并将在未来几周以Beta形式面向美国18岁及以上的Google AI Ultra订阅者开放。用户可通过Gemini应用菜单中的Spark标签访问。官方表示，这标志着Gemini从回答问题的AI助手转变为能主动代表用户工作的助手。",
+    "keyPoints": [
+      "Gemini Spark可代表用户处理任务并管理数字生活",
+      "先向可信测试者推出，后以Beta面向美国Ultra订阅者",
+      "通过Gemini应用菜单中的Spark标签访问"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "6c6675f28a37f433",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing the Ettin Reranker Family",
+  "summary": "该条目仅提供标题“Introducing the Ettin Reranker Family”，摘要和sourceText均为空。",
+  "url": "https://huggingface.co/blog/ettin-reranker",
+  "date": "2026-05-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-05-19T00:00:00+00:00",
+  "titleEn": "Introducing the Ettin Reranker Family",
+  "titleZh": "Ettin Reranker系列发布",
+  "details": {
+    "overview": "该条目仅提供标题“Introducing the Ettin Reranker Family”，摘要和sourceText均为空。因此无法获知该系列的具体模型规模、训练数据、性能指标或发布范围。以下内容仅基于标题推断其为重排序（reranker）模型系列，具体信息不足，建议以官方原始发布为准。",
+    "keyPoints": [
+      "标题表明发布了Ettin Reranker系列。",
+      "当前收录材料未提供摘要或正文，具体功能与参数未知。",
+      "信息不足，需查阅官方原始发布记录。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "a47e35d91bf7325b",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.141.0 发布",
+  "summary": "Codex CLI 0.141.0 发布，新增远程执行器使用经认证的端到端加密 Noise 中继通道、跨平台远程执行保留执行器原生工作目录与 shell、选定执行器插件可按线程激活 stdio MCP 服务器等能力。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.141.0",
+  "date": "2026-06-18",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-06-18T04:43:06+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.141.0 发布",
+  "titleZh": "Codex CLI 0.141.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.141.0 发布，新增远程执行器使用经认证的端到端加密 Noise 中继通道、跨平台远程执行保留执行器原生工作目录与 shell、选定执行器插件可按线程激活 stdio MCP 服务器等能力。同时修复钩子信任绕过、Windows 沙箱凭据恢复、SQLite WAL 重置损坏等问题，并优化大型工具会话的延迟与内存占用。",
+    "keyPoints": [
+      "远程执行器默认使用经认证的端到端加密 Noise 中继通道",
+      "跨平台远程执行保留原生工作目录、shell 与文件系统权限路径",
+      "修复钩子信任绕过、Windows 沙箱凭据及 SQLite WAL 重置问题"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

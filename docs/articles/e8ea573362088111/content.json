@@ -1,0 +1,25 @@
+{
+  "id": "e8ea573362088111",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing ChatGPT Images 2.5",
+  "summary": "该官方发布内容介绍 ChatGPT Images 2.5，称其可帮助用户把想法、草图和参考照片转化为更个性化、更精致的图像，更好地体现用户构想。",
+  "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+  "date": "2026-09-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-08T11:30:00+00:00",
+  "titleEn": "Introducing ChatGPT Images 2.5",
+  "titleZh": "推出 ChatGPT Images 2.5",
+  "details": {
+    "overview": "该官方发布内容介绍 ChatGPT Images 2.5，称其可帮助用户把想法、草图和参考照片转化为更个性化、更精致的图像，更好地体现用户构想。原文为简短概述，未说明具体功能细节、可用范围或生成限制，相关信息需以原始发布为准。",
+    "keyPoints": [
+      "支持从想法、草图和参考照片生成图像",
+      "强调更个性化和更精致的输出效果",
+      "具体可用范围与限制原文未说明"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

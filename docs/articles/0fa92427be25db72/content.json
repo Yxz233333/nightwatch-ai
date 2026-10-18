@@ -1,0 +1,25 @@
+{
+  "id": "0fa92427be25db72",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+  "summary": "该条为官方发布记录，标题显示 PaddleOCR 3.5 支持通过 Transformers 后端运行 OCR 和文档解析任务。",
+  "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+  "date": "2026-05-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-05-18T15:12:46+00:00",
+  "titleEn": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+  "titleZh": "PaddleOCR 3.5：使用 Transformers 后端运行 OCR 与文档解析任务",
+  "details": {
+    "overview": "该条为官方发布记录，标题显示 PaddleOCR 3.5 支持通过 Transformers 后端运行 OCR 和文档解析任务。原始发布内容与摘要未提供支持的模型清单、性能数据、安装方式或兼容范围，因此只能确认新增了该后端路径，具体能力与限制需以官方原文为准。",
+    "keyPoints": [
+      "PaddleOCR 3.5 引入 Transformers 后端",
+      "可用于运行 OCR 与文档解析任务",
+      "支持模型与兼容范围需以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

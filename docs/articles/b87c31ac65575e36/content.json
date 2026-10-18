@@ -1,0 +1,24 @@
+{
+  "id": "b87c31ac65575e36",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Cheers to AI: ADAM Robot Bartender Makes Drinks at Vegas Golden Knights Game",
+  "summary": "在拉斯维加斯 T-Mobile 竞技场，金骑士队球迷可在观赛时看到机器人 ADAM 调制饮品。",
+  "url": "https://blogs.nvidia.com/blog/adam-robot-vegas-golden-knights-thor/",
+  "date": "2025-12-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-12-12T16:00:04+00:00",
+  "titleEn": "Cheers to AI: ADAM Robot Bartender Makes Drinks at Vegas Golden Knights Game",
+  "titleZh": "为 AI 干杯：ADAM 机器人调酒师在维加斯金骑士队比赛亮相",
+  "details": {
+    "overview": "在拉斯维加斯 T-Mobile 竞技场，金骑士队球迷可在观赛时看到机器人 ADAM 调制饮品。ADAM 全称 Automated Dual Arm Mixologist，即自动双臂调酒师，基于 NVIDIA Isaac 库开发。原文将其描述为 NHL 场馆中的新体验，但未披露调制种类、部署规模或运行效果等细节。",
+    "keyPoints": [
+      "ADAM 在拉斯维加斯 T-Mobile 竞技场调酒",
+      "全称为自动双臂调酒师",
+      "基于 NVIDIA Isaac 库开发"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

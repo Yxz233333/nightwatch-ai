@@ -1,0 +1,25 @@
+{
+  "id": "6969fe8b374d8b36",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models",
+  "summary": "该条目仅有标题与一句话摘要，未提供摘要正文或原始发布内容，因此无法确认Apriel-H1的具体研究对象、方法细节与实验结论。",
+  "url": "https://huggingface.co/blog/ServiceNow-AI/apriel-h1",
+  "date": "2025-11-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-11-19T05:19:07+00:00",
+  "titleEn": "Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models",
+  "titleZh": "Apriel-H1：蒸馏高效推理模型的意外关键",
+  "details": {
+    "overview": "该条目仅有标题与一句话摘要，未提供摘要正文或原始发布内容，因此无法确认Apriel-H1的具体研究对象、方法细节与实验结论。从标题看，内容涉及高效推理模型的蒸馏，并暗示存在一个“意外关键”因素。由于材料不足，本介绍仅能说明主题方向，不涉及任何性能数字或验证结论，具体推出范围与限制需以官方原文为准。",
+    "keyPoints": [
+      "主题为蒸馏高效推理模型，标题暗示存在意外关键因素。",
+      "材料仅有标题与摘要句，缺少方法、数据与结论细节。",
+      "具体推出范围与限制需以官方原始发布内容为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "32c4ebe6b8123bf1",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence",
+  "summary": "文章指出金融机构多年来构建了欺诈模型、信用模型、推荐引擎和风险系统等任务特定 AI，虽有效但受限于孤岛系统，难以形成对消费者金融行为的统一理解。",
+  "url": "https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/",
+  "date": "2026-06-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-02T06:00:36+00:00",
+  "titleEn": "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence",
+  "titleZh": "金融机构为何纷纷转向交易基础模型以构建自有智能",
+  "details": {
+    "overview": "文章指出金融机构多年来构建了欺诈模型、信用模型、推荐引擎和风险系统等任务特定 AI，虽有效但受限于孤岛系统，难以形成对消费者金融行为的统一理解。随着企业数据集增长，这一差距也在扩大。原文未完整展示后续关于交易基础模型的具体论述。",
+    "keyPoints": [
+      "金融机构已构建多种任务特定 AI 模型，但系统孤岛限制统一理解。",
+      "企业数据集增长使孤岛系统与统一理解之间的差距扩大。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

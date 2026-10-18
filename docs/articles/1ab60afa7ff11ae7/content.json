@@ -1,0 +1,24 @@
+{
+  "id": "1ab60afa7ff11ae7",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic opens Bengaluru office and announces new partnerships across India",
+  "summary": "Anthropic宣布正式开设班加罗尔办公室，同时公布在教育、农业、公共服务和企业领域的多项印度合作。",
+  "url": "https://www.anthropic.com/news/bengaluru-office-partnerships-across-india",
+  "date": "2026-02-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-02-16T13:49:00+00:00",
+  "titleEn": "Anthropic opens Bengaluru office and announces new partnerships across India",
+  "titleZh": "Anthropic开设班加罗尔办公室，并宣布多项印度合作",
+  "details": {
+    "overview": "Anthropic宣布正式开设班加罗尔办公室，同时公布在教育、农业、公共服务和企业领域的多项印度合作。原文称印度是Claude.ai第二大市场，近半使用涉及计算机与数学任务；公司称已在印度十种主要语言上改进训练数据，并将与Karya等机构构建本地化评测。合作方包括教育非营利组织Pratham、EkStep基金会、Adalat AI等，涉及考试练习工具、数字公共基础设施与司法信息WhatsApp热线。原文还列举Air India、CRED、Cognizant、Razorpay等企业使用案例，并称印度业务收入自2025年10月扩张以来翻倍。",
+    "keyPoints": [
+      "Anthropic正式开设班加罗尔办公室并公布多项印度合作。",
+      "合作覆盖教育、农业、司法服务与企业软件现代化。",
+      "原文称印度业务收入自2025年10月扩张以来翻倍。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

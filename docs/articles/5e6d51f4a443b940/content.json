@@ -1,0 +1,24 @@
+{
+  "id": "5e6d51f4a443b940",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Blowing Off Steam: How Power-Flexible AI Factories Can Stabilize the Global Energy Grid",
+  "summary": "该文章以 2020 年欧洲杯英格兰对德国比赛半场时英国大量观众同时烧水、导致国家电网需求骤升为例，引出电力需求波动问题，并讨论功率灵活型 AI 工厂在稳定全球能源电网方面的作用。",
+  "url": "https://blogs.nvidia.com/blog/power-flexible-ai-factories-energy-grid/",
+  "date": "2026-03-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-03-25T11:00:00+00:00",
+  "titleEn": "Blowing Off Steam: How Power-Flexible AI Factories Can Stabilize the Global Energy Grid",
+  "titleZh": "释放压力：功率灵活型 AI 工厂如何稳定全球电网",
+  "details": {
+    "overview": "该文章以 2020 年欧洲杯英格兰对德国比赛半场时英国大量观众同时烧水、导致国家电网需求骤升为例，引出电力需求波动问题，并讨论功率灵活型 AI 工厂在稳定全球能源电网方面的作用。原文仅提供开头段落，未给出具体方法、数据或结论，因此无法进一步说明其技术方案与效果。",
+    "keyPoints": [
+      "以半场烧水导致电网需求骤升为例说明电力波动。",
+      "讨论功率灵活型 AI 工厂对稳定全球电网的作用。",
+      "原文仅提供开头，未给出具体方法与数据。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

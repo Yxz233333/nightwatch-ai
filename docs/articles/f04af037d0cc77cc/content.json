@@ -1,0 +1,25 @@
+{
+  "id": "f04af037d0cc77cc",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Streaming datasets: 100x More Efficient",
+  "summary": "现有材料仅有标题“Streaming datasets: 100x More Efficient”，原始发布正文为空，摘要与标题相同，未提供作者、机构、方法或实验细节。",
+  "url": "https://huggingface.co/blog/streaming-datasets",
+  "date": "2025-10-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-10-27T00:00:00+00:00",
+  "titleEn": "Streaming datasets: 100x More Efficient",
+  "titleZh": "流式数据集：效率提升100倍",
+  "details": {
+    "overview": "现有材料仅有标题“Streaming datasets: 100x More Efficient”，原始发布正文为空，摘要与标题相同，未提供作者、机构、方法或实验细节。因此无法确认“100倍”所指的具体指标、对比基线或适用场景，也无法判断该结果是否经过独立验证。以下要点仅反映标题字面信息，材料明显不足。",
+    "keyPoints": [
+      "标题称流式数据集效率提升100倍",
+      "原始正文为空，无方法与实验细节",
+      "无法确认对比基线及结果是否经独立验证"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

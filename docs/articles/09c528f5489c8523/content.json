@@ -1,0 +1,25 @@
+{
+  "id": "09c528f5489c8523",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+  "summary": "该新闻称本地 AI 正变得更有用，AI 智能体从实验走向日常开发，能力更强的开放模型正缩小到可适配更多设备。",
+  "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+  "date": "2026-10-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-10-02T13:00:39+00:00",
+  "titleEn": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+  "titleZh": "NVIDIA DGX Spark 64GB 为开发者提供更多本地 AI 构建与扩展方式",
+  "details": {
+    "overview": "该新闻称本地 AI 正变得更有用，AI 智能体从实验走向日常开发，能力更强的开放模型正缩小到可适配更多设备。NVIDIA DGX Spark 将于本月通过 Acer 等主要制造商伙伴提供 64GB 统一内存版本。原文未给出价格、具体上市日期或性能数据。",
+    "keyPoints": [
+      "DGX Spark 将提供 64GB 统一内存版本。",
+      "本月通过 Acer 等制造商伙伴提供。",
+      "定位是让开发者在本地运行和扩展 AI。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

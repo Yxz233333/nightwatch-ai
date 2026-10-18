@@ -1,0 +1,25 @@
+{
+  "id": "2f81bd5f2de4f873",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Scaling social science research",
+  "summary": "摘要介绍，GABRIEL 是 OpenAI 发布的新开源工具包，利用 GPT 将定性文本和图像转换为定量数据，帮助社会科学家在更大规模上开展研究分析。",
+  "url": "https://openai.com/index/scaling-social-science-research",
+  "date": "2026-02-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-13T09:00:00+00:00",
+  "titleEn": "Scaling social science research",
+  "titleZh": "扩展社会科学研究规模",
+  "details": {
+    "overview": "摘要介绍，GABRIEL 是 OpenAI 发布的新开源工具包，利用 GPT 将定性文本和图像转换为定量数据，帮助社会科学家在更大规模上开展研究分析。原文未说明具体功能模块、支持的数据类型范围或验证情况。其意义在于为社会科学研究提供文本与图像量化的工具路径，但实际效果与适用边界需以官方原文为准。",
+    "keyPoints": [
+      "GABRIEL 是 OpenAI 的新开源工具包",
+      "用 GPT 把定性文本和图像转为定量数据",
+      "面向社会科学的大规模研究分析"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c6dd2ac73d97ee67",
+  "section": "news",
+  "category": "模型动态",
+  "title": "GPT-6 and Intelligent UI for everyone",
+  "summary": "官方发布信息显示，GPT-6 正以智能界面形式在全球 ChatGPT 中推出，提供更快的响应，并带来可视化与可交互的体验，用户可直接探索和使用。",
+  "url": "https://openai.com/index/gpt-6-for-everyone",
+  "date": "2026-10-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-10-07T00:00:00+00:00",
+  "titleEn": "GPT-6 and Intelligent UI for everyone",
+  "titleZh": "GPT-6 与面向所有人的智能界面",
+  "details": {
+    "overview": "官方发布信息显示，GPT-6 正以智能界面形式在全球 ChatGPT 中推出，提供更快的响应，并带来可视化与可交互的体验，用户可直接探索和使用。原文未说明具体模型版本差异、可用套餐或分阶段上线安排，这些信息需以官方原始发布记录为准。",
+    "keyPoints": [
+      "GPT-6 以智能界面形式在全球 ChatGPT 推出",
+      "强调更快响应与可视化、可交互体验",
+      "用户可直接探索和使用相关交互内容"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

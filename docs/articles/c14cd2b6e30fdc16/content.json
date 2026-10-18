@@ -1,0 +1,24 @@
+{
+  "id": "c14cd2b6e30fdc16",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
+  "summary": "该文称，搭载机密计算的NVIDIA GPU现已用于Apple私有云计算（PCC）中的机密推理，并随PCC从Apple自有数据中心扩展至Google Cloud。",
+  "url": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/",
+  "date": "2026-06-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-09T22:34:27+00:00",
+  "titleEn": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
+  "titleZh": "NVIDIA机密计算助力扩展Apple私有云计算",
+  "details": {
+    "overview": "该文称，搭载机密计算的NVIDIA GPU现已用于Apple私有云计算（PCC）中的机密推理，并随PCC从Apple自有数据中心扩展至Google Cloud。消息在Apple年度WWDC开发者大会上公布，NVIDIA GPU将为Apple Foundation Models提供服务器端推理支持，该模型由Apple与Google定制构建。当前收录材料未提供性能数据与部署规模。",
+    "keyPoints": [
+      "NVIDIA机密计算GPU用于Apple PCC的机密推理",
+      "PCC从Apple数据中心扩展至Google Cloud",
+      "为Apple与Google定制的Foundation Models提供服务器端推理"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

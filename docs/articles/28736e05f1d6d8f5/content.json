@@ -1,0 +1,25 @@
+{
+  "id": "28736e05f1d6d8f5",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Inside GPT-5 for Work",
+  "summary": "该指南简要说明 GPT-5 如何支撑真实业务工作流，覆盖市场营销、工程、财务、战略、法务和 IT 等职能，并介绍团队应如何评估其适用性。",
+  "url": "https://openai.com/business/guides-and-resources/inside-gpt5-our-best-model-for-work",
+  "date": "2026-01-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-14T21:43:17+00:00",
+  "titleEn": "Inside GPT-5 for Work",
+  "titleZh": "深入解析面向工作的 GPT-5",
+  "details": {
+    "overview": "该指南简要说明 GPT-5 如何支撑真实业务工作流，覆盖市场营销、工程、财务、战略、法务和 IT 等职能，并介绍团队应如何评估其适用性。原文仅提供上述主题概述，未给出具体客户案例、性能指标或评测方法细节；实际能力范围与限制需以官方原始发布为准。",
+    "keyPoints": [
+      "覆盖营销、工程、财务、战略、法务与 IT 等职能",
+      "说明 GPT-5 在真实业务工作流中的应用方式",
+      "提供团队评估 GPT-5 适用性的思路"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

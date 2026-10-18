@@ -1,0 +1,23 @@
+{
+  "id": "2fb68c410a24f120",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Changes to automatic switching to thinking in ChatGPT (Plus and Pro)",
+  "summary": "官方发布记录称，将面向全球 ChatGPT Plus 和 Pro 用户停用从 Instant 自动切换到 Thinking（推理）的功能；用户仍可在模型选择器中选择可用选项，让 ChatGPT 有更多时间思考或推理。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-pro",
+  "date": "2026-09-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Changes to automatic switching to thinking in ChatGPT (Plus and Pro)",
+  "titleZh": "ChatGPT（Plus 和 Pro）自动切换到思考模式的变更",
+  "details": {
+    "overview": "官方发布记录称，将面向全球 ChatGPT Plus 和 Pro 用户停用从 Instant 自动切换到 Thinking（推理）的功能；用户仍可在模型选择器中选择可用选项，让 ChatGPT 有更多时间思考或推理。同时，这些方案在网页版 ChatGPT 中的“更高智能”设置也将移除。出于安全目的，ChatGPT 仍可自动切换。",
+    "keyPoints": [
+      "全球 Plus 和 Pro 用户停用 Instant 到 Thinking 的自动切换",
+      "用户仍可在模型选择器中手动选择推理选项",
+      "网页版移除“更高智能”设置，安全目的自动切换保留"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

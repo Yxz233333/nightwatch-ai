@@ -1,0 +1,24 @@
+{
+  "id": "369d6763e6283fe6",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Transformers.js v4: Now Available on NPM!",
+  "summary": "该消息宣布 Transformers.js v4 已在 NPM 上发布。",
+  "url": "https://huggingface.co/blog/transformersjs-v4",
+  "date": "2026-02-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-02-09T00:00:00+00:00",
+  "titleEn": "Transformers.js v4: Now Available on NPM!",
+  "titleZh": "Transformers.js v4：现已在 NPM 上发布！",
+  "details": {
+    "overview": "该消息宣布 Transformers.js v4 已在 NPM 上发布。由于原始发布内容未提供具体功能、版本变更或使用限制，无法进一步说明其技术细节与适用范围。",
+    "keyPoints": [
+      "Transformers.js v4 已发布至 NPM。",
+      "原始发布记录未提供具体功能或变更说明。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

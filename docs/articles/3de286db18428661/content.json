@@ -1,0 +1,24 @@
+{
+  "id": "3de286db18428661",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "A global workspace in language models",
+  "summary": "该研究稿件提出，Claude 内部出现了一小组具有特殊作用的神经模式，作者称之为 J-space，名称来自发现它们所用的雅可比相关技术。",
+  "url": "https://www.anthropic.com/research/global-workspace",
+  "date": "2026-07-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-07-06T14:12:00+00:00",
+  "titleEn": "A global workspace in language models",
+  "titleZh": "语言模型中的全局工作空间",
+  "details": {
+    "overview": "该研究稿件提出，Claude 内部出现了一小组具有特殊作用的神经模式，作者称之为 J-space，名称来自发现它们所用的雅可比相关技术。每个模式关联一个词，但模式激活只表示该词“在模型心上”，并非模型正在说出它。作者称 J-space 并非人为设计，而是在训练中自行出现，并与网络其余部分连接较强，类似神经科学中全局工作空间理论的“广播”通道。研究还展示了读取和干预 J-space 的实验，例如替换模型所想运动项目的模式后改变其回答。作者强调，这不能说明 Claude 具有人类式意识。",
+    "keyPoints": [
+      "作者提出 Claude 内部存在名为 J-space 的特殊神经模式集合，每个模式关联一个词。",
+      "J-space 在训练中自行出现，作者认为它类似全局工作空间式的广播通道。",
+      "实验显示可读取并干预 J-space，从而观察或影响模型未说出的内部表征。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

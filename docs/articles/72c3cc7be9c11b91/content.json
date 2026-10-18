@@ -1,0 +1,25 @@
+{
+  "id": "72c3cc7be9c11b91",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Codex for (almost) everything",
+  "summary": "官方发布记录表示，更新后的Codex应用面向macOS和Windows，新增计算机使用、应用内浏览、图像生成、记忆和插件功能，以加速开发者工作流。",
+  "url": "https://openai.com/index/codex-for-almost-everything",
+  "date": "2026-04-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-16T10:00:00+00:00",
+  "titleEn": "Codex for (almost) everything",
+  "titleZh": "Codex几乎无所不能",
+  "details": {
+    "overview": "官方发布记录表示，更新后的Codex应用面向macOS和Windows，新增计算机使用、应用内浏览、图像生成、记忆和插件功能，以加速开发者工作流。材料未说明各功能的具体能力边界、可用时间或限制。",
+    "keyPoints": [
+      "Codex应用更新覆盖macOS和Windows平台。",
+      "新增计算机使用、应用内浏览、图像生成、记忆和插件。",
+      "官方称这些功能旨在加速开发者工作流。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

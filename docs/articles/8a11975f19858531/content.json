@@ -1,0 +1,25 @@
+{
+  "id": "8a11975f19858531",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Disrupting a Cambodia-based criminal scam operation",
+  "summary": "该官方发布内容称，OpenAI 处置了一个位于柬埔寨的诈骗运作，该运作使用 ChatGPT 支持投资、情感、赌博和冒充身份等诈骗手法。",
+  "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+  "date": "2026-07-31",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-31T00:00:00+00:00",
+  "titleEn": "Disrupting a Cambodia-based criminal scam operation",
+  "titleZh": "打击柬埔寨境内的犯罪诈骗活动",
+  "details": {
+    "overview": "该官方发布内容称，OpenAI 处置了一个位于柬埔寨的诈骗运作，该运作使用 ChatGPT 支持投资、情感、赌博和冒充身份等诈骗手法。当前收录材料仅给出这一概述，未说明具体处置方式、涉及账号数量、时间跨度或与执法机构的协作情况。因此可确认的是被打击对象的所在地、所用工具与四类被列举的诈骗类型，其余细节材料不足。",
+    "keyPoints": [
+      "被处置对象为位于柬埔寨的诈骗运作。",
+      "原文称其使用 ChatGPT 支持投资、情感、赌博与冒充身份类诈骗。",
+      "材料未披露处置方式、规模或协作细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

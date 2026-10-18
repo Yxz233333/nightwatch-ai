@@ -1,0 +1,25 @@
+{
+  "id": "f74c149c59b0279e",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.58.0 发布",
+  "summary": "Codex CLI 0.58.0版本发布，主要亮点包括支持gpt5.1模型系列，并增强应用服务器功能，如新增JSON schema生成命令、项目开始/完成事件、宏清理和减少样板代码。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.58.0",
+  "date": "2025-11-14",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-11-13T18:04:00+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.58.0 发布",
+  "titleZh": "Codex CLI 0.58.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.58.0版本发布，主要亮点包括支持gpt5.1模型系列，并增强应用服务器功能，如新增JSON schema生成命令、项目开始/完成事件、宏清理和减少样板代码。此外包含多项质量改进修复，涉及文档更新、TUI快捷键内联显示、seatbelt/Wayland/brew/compaction/cloud-tasks缺陷修复、更清晰的警告、认证感知状态输出和OTEL测试稳定化。该版本为CLI稳定版，桌面端功能以对应公告为准。",
+    "keyPoints": [
+      "新增对gpt5.1模型系列的支持，并更新模型选择器。",
+      "应用服务器增强：新增JSON schema生成命令和项目开始/完成事件。",
+      "修复多项问题，包括TUI快捷键内联显示和多个平台相关缺陷。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

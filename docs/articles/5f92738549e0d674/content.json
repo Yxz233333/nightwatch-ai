@@ -1,0 +1,25 @@
+{
+  "id": "5f92738549e0d674",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Bringing powerful AI to millions across Europe with Deutsche Telekom",
+  "summary": "OpenAI 与德国电信合作，为欧洲数百万人带来先进的多语言 AI 体验，并部署 ChatGPT Enterprise 帮助德国电信员工改善工作流程、加速创新。",
+  "url": "https://openai.com/index/deutsche-telekom-collaboration",
+  "date": "2025-12-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-09T00:00:00+00:00",
+  "titleEn": "Bringing powerful AI to millions across Europe with Deutsche Telekom",
+  "titleZh": "与德国电信合作，将强大 AI 带给欧洲数百万人",
+  "details": {
+    "overview": "OpenAI 与德国电信合作，为欧洲数百万人带来先进的多语言 AI 体验，并部署 ChatGPT Enterprise 帮助德国电信员工改善工作流程、加速创新。该发布未说明具体上线时间或覆盖国家细节。",
+    "keyPoints": [
+      "OpenAI 与德国电信合作提供多语言 AI 体验。",
+      "面向欧洲数百万用户。",
+      "部署 ChatGPT Enterprise 改善员工工作流程。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

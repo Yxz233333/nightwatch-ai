@@ -1,0 +1,23 @@
+{
+  "id": "499321118d4ed5e3",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Share files and folders from your Library",
+  "summary": "该官方功能更新说明 ChatGPT 资料库支持共享文件和文件夹：可邀请特定人员并赋予查看者或编辑者权限，也可在整个工作区范围内共享；共享对话框可查看、修改或移除访问权限，用户可在“共享给我”中找到并使用共享内容。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-files-and-folders-from-your-library",
+  "date": "2026-09-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Share files and folders from your Library",
+  "titleZh": "从资料库共享文件和文件夹",
+  "details": {
+    "overview": "该官方功能更新说明 ChatGPT 资料库支持共享文件和文件夹：可邀请特定人员并赋予查看者或编辑者权限，也可在整个工作区范围内共享；共享对话框可查看、修改或移除访问权限，用户可在“共享给我”中找到并使用共享内容。原文还说明，上传到共享文件夹的文件归文件夹所有者所有，仍记录上传者；若上传者被移除文件夹访问权限，文件留在该文件夹中且上传者失去访问权。",
+    "keyPoints": [
+      "可向特定人员或整个工作区共享，并设置查看者或编辑者权限",
+      "共享对话框支持查看、修改和移除访问权限",
+      "共享文件夹中的文件归文件夹所有者，上传者被移除权限后失去访问"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

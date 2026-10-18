@@ -1,0 +1,25 @@
+{
+  "id": "28636dd76f21d794",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+  "summary": "该文是PyTorch性能剖析系列的第二部分，主题为从nn.Linear模块出发，逐步走向融合的多层感知机（MLP）实现。",
+  "url": "https://huggingface.co/blog/torch-mlp-fusion",
+  "date": "2026-06-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-06-11T00:00:00+00:00",
+  "titleEn": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+  "titleZh": "PyTorch性能剖析（第二部分）：从nn.Linear到融合MLP",
+  "details": {
+    "overview": "该文是PyTorch性能剖析系列的第二部分，主题为从nn.Linear模块出发，逐步走向融合的多层感知机（MLP）实现。提供的材料仅有标题，缺少正文、摘要与原始发布内容，无法确认其具体剖析方法、性能数据或结论。因此本介绍仅能说明文章主题范围，不对加速幅度或实现细节作任何断言。",
+    "keyPoints": [
+      "主题为PyTorch性能剖析系列第二部分",
+      "讨论对象从nn.Linear模块延伸到融合MLP",
+      "材料仅有标题，具体方法与数据无法确认"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "797681406cb170e6",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Engineering more resilient crops for a warming climate",
+  "summary": "该发布称科学家正使用AlphaFold来强化一种光合作用酶，以培育更具韧性、更耐热的作物。",
+  "url": "https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/",
+  "date": "2025-12-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2025-12-04T16:23:24+00:00",
+  "titleEn": "Engineering more resilient crops for a warming climate",
+  "titleZh": "为变暖气候设计更具韧性的作物",
+  "details": {
+    "overview": "该发布称科学家正使用AlphaFold来强化一种光合作用酶，以培育更具韧性、更耐热的作物。摘要只给出这一研究方向，未说明涉及的酶名称、作物种类、实验进展或耐热效果，因此无法判断是否已取得可验证的田间结果。",
+    "keyPoints": [
+      "科学家使用AlphaFold研究光合作用酶",
+      "目标是强化酶以培育耐热作物",
+      "摘要未披露具体作物与实验效果"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

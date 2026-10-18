@@ -1,0 +1,25 @@
+{
+  "id": "fd45c6b0745f5c7b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "DevDay 2026 Recap",
+  "summary": "该条目是 OpenAI DevDay 2026 的活动回顾，原文称可查看超过 20 项发布内容，涵盖 GPT-6 Astra、ChatGPT、Codex、API、安全以及面向开发者的新工具。",
+  "url": "https://openai.com/index/devday-2026-recap",
+  "date": "2026-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-29T10:00:00+00:00",
+  "titleEn": "DevDay 2026 Recap",
+  "titleZh": "DevDay 2026 回顾",
+  "details": {
+    "overview": "该条目是 OpenAI DevDay 2026 的活动回顾，原文称可查看超过 20 项发布内容，涵盖 GPT-6 Astra、ChatGPT、Codex、API、安全以及面向开发者的新工具。材料仅为一句导览式描述，未逐项说明各发布的功能细节、可用范围或限制，因此具体内容需以官方原始发布记录为准。",
+    "keyPoints": [
+      "回顾涵盖 20 多项 DevDay 2026 发布内容",
+      "涉及 GPT-6 Astra、ChatGPT、Codex 与 API",
+      "还包括安全与面向开发者的新工具"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

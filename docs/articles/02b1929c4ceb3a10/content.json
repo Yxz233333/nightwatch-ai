@@ -1,0 +1,24 @@
+{
+  "id": "02b1929c4ceb3a10",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How to Get Started With Large Language Models on NVIDIA RTX PCs",
+  "summary": "文章面向希望在本地运行大语言模型的用户，指出本地运行可带来更多隐私与控制、无需订阅，但过去需在输出质量上妥协。",
+  "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-how-to-get-started-with-llms/",
+  "date": "2025-10-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-10-01T13:00:49+00:00",
+  "titleEn": "How to Get Started With Large Language Models on NVIDIA RTX PCs",
+  "titleZh": "如何在 NVIDIA RTX PC 上开始使用大语言模型",
+  "details": {
+    "overview": "文章面向希望在本地运行大语言模型的用户，指出本地运行可带来更多隐私与控制、无需订阅，但过去需在输出质量上妥协。原文提到新发布的开源权重模型，如 OpenAI 的 gpt-oss 和阿里巴巴的 Qwen 3，可直接在 PC 上运行，输出质量可用，尤其适合本地智能体 AI。原文为入门指南性质，具体硬件要求与操作步骤需以原文为准。",
+    "keyPoints": [
+      "本地运行大语言模型可提升隐私与控制，并免去订阅。",
+      "OpenAI gpt-oss 与阿里 Qwen 3 等开源权重模型可直接在 PC 运行。",
+      "原文强调此类模型适合本地智能体 AI 场景。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

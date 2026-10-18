@@ -1,0 +1,24 @@
+{
+  "id": "4fa3f4e0b937e663",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How NVIDIA H100 GPUs on CoreWeave’s AI Cloud Platform Delivered a Record-Breaking Graph500 Run",
+  "summary": "NVIDIA宣布在CoreWeave数据中心托管的加速计算集群上，取得每秒410万亿条遍历边（TEPS）的基准结果，位列第31届Graph500广度优先搜索榜单第一。",
+  "url": "https://blogs.nvidia.com/blog/h100-coreweave-graph500/",
+  "date": "2025-12-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-12-10T20:56:53+00:00",
+  "titleEn": "How NVIDIA H100 GPUs on CoreWeave’s AI Cloud Platform Delivered a Record-Breaking Graph500 Run",
+  "titleZh": "CoreWeave AI云平台上NVIDIA H100 GPU实现破纪录Graph500运行",
+  "details": {
+    "overview": "NVIDIA宣布在CoreWeave数据中心托管的加速计算集群上，取得每秒410万亿条遍历边（TEPS）的基准结果，位列第31届Graph500广度优先搜索榜单第一。该结果基于商用可获得的集群，用于大规模图处理。当前收录材料未提供集群规模、配置细节和测试条件，相关数据需以官方原始发布为准。",
+    "keyPoints": [
+      "取得410万亿TEPS的Graph500 BFS结果",
+      "位列第31届Graph500榜单第一",
+      "运行基于CoreWeave托管的商用集群"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

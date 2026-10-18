@@ -1,0 +1,24 @@
+{
+  "id": "224793c58e56e423",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Into the Omniverse: How Industrial AI and Digital Twins Accelerate Design, Engineering and Manufacturing Across Industries",
+  "summary": "该文指出，工业AI、数字孪生、AI物理仿真与加速AI基础设施正帮助各行业企业在真实建造之前，加速并规模化地完成产品、流程与设施的设计、仿真和优化。",
+  "url": "https://blogs.nvidia.com/blog/industrial-ai-digital-twins-omniverse/",
+  "date": "2026-03-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-03-12T15:00:51+00:00",
+  "titleEn": "Into the Omniverse: How Industrial AI and Digital Twins Accelerate Design, Engineering and Manufacturing Across Industries",
+  "titleZh": "迈向全宇宙：工业AI与数字孪生如何加速跨行业设计、工程与制造",
+  "details": {
+    "overview": "该文指出，工业AI、数字孪生、AI物理仿真与加速AI基础设施正帮助各行业企业在真实建造之前，加速并规模化地完成产品、流程与设施的设计、仿真和优化。当前收录材料未提供具体案例、数据或验证细节，仅作方向性概述。",
+    "keyPoints": [
+      "工业AI与数字孪生用于在真实建造前加速产品、流程和设施的设计与仿真。",
+      "AI物理与加速AI基础设施被列为支撑跨行业规模化优化的关键技术。",
+      "原文为方向性概述，未给出具体行业案例或量化效果。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

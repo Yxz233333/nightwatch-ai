@@ -1,0 +1,23 @@
+{
+  "id": "aaea019566cf3769",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Interrupt ChatGPT",
+  "summary": "该发布说明介绍 ChatGPT 新增的中断功能：用户可在长时间查询（如深度研究或 GPT-5 Pro）运行过程中补充新信息，无需重启对话，也不会丢失已有进度。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interrupt-chatgpt",
+  "date": "2025-11-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Interrupt ChatGPT",
+  "titleZh": "中断 ChatGPT",
+  "details": {
+    "overview": "该发布说明介绍 ChatGPT 新增的中断功能：用户可在长时间查询（如深度研究或 GPT-5 Pro）运行过程中补充新信息，无需重启对话，也不会丢失已有进度。原文举例说，若在挑选书架时想起墙面宽 72 英寸且不能打孔，可在侧边栏点击“update”并发送新消息，模型会据此调整方案。原文未说明具体推出范围与限制。",
+    "keyPoints": [
+      "长查询运行中可中断并补充信息，无需重启或丢失进度",
+      "通过侧边栏“update”发送新消息，模型据此调整处理方式",
+      "示例场景为挑选书架时补充墙面宽度与不能打孔的限制"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

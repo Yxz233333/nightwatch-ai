@@ -1,0 +1,25 @@
+{
+  "id": "784667d7dbe1424c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Romance scams: AI-enabled romance scam workflows",
+  "summary": "OpenAI 封禁了一批利用 AI 支持恋爱诈骗流程的账号。",
+  "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-romance-scam",
+  "date": "2026-02-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-01T00:00:00+00:00",
+  "titleEn": "Romance scams: AI-enabled romance scam workflows",
+  "titleZh": "恋爱诈骗：AI 辅助的恋爱诈骗工作流",
+  "details": {
+    "overview": "OpenAI 封禁了一批利用 AI 支持恋爱诈骗流程的账号。摘要显示，这些账号将 AI 用于接触目标、翻译、与受害者互动以及设置投资诈骗诱饵等环节。摘要未说明账号数量、受害规模或涉及地区，具体范围与限制应以原始发布为准。",
+    "keyPoints": [
+      "封禁账号将 AI 用于恋爱诈骗工作流",
+      "用途包括接触、翻译、与受害者互动",
+      "还涉及投资诈骗诱饵环节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

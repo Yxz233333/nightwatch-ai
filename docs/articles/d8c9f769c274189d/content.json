@@ -1,0 +1,25 @@
+{
+  "id": "d8c9f769c274189d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Sora 2 System Card",
+  "summary": "该文介绍 Sora 2，称其为新的先进视频与音频生成模型。",
+  "url": "https://openai.com/index/sora-2-system-card",
+  "date": "2025-09-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-30T00:00:00+00:00",
+  "titleEn": "Sora 2 System Card",
+  "titleZh": "Sora 2 系统卡",
+  "details": {
+    "overview": "该文介绍 Sora 2，称其为新的先进视频与音频生成模型。在 Sora 基础上，Sora 2 引入此前视频模型难以实现的能力，包括更准确的物理表现、更锐利的真实感、同步音频、更强的可控性以及更广的风格范围。原文为官方发布记录，未给出具体评测数据，实际推出范围与限制需以原文为准。",
+    "keyPoints": [
+      "Sora 2 是视频与音频生成模型，定位为先进水平。",
+      "相较前代，新增更准确物理、同步音频与更强可控性。",
+      "原文称其风格范围更广，真实感更锐利。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

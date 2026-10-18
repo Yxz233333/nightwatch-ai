@@ -1,0 +1,24 @@
+{
+  "id": "47df9e789b8527a1",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Introducing SyGra Studio",
+  "summary": "该消息宣布推出 SyGra Studio。",
+  "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
+  "date": "2026-02-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-02-05T16:52:28+00:00",
+  "titleEn": "Introducing SyGra Studio",
+  "titleZh": "推出 SyGra Studio",
+  "details": {
+    "overview": "该消息宣布推出 SyGra Studio。由于原始发布内容未提供具体功能、用途或可用范围，无法进一步说明其技术细节与意义。",
+    "keyPoints": [
+      "宣布推出 SyGra Studio。",
+      "原始发布记录未提供具体功能或用途说明。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

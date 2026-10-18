@@ -1,0 +1,25 @@
+{
+  "id": "485d1017797ac192",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Gemini 4 Argon: Built to solve your hardest problems",
+  "summary": "该条目与同批另一条 Gemini 4 Argon 发布标题相同，但摘要与原文正文均为空，仅有标题和“以官方原始发布记录为准”的说明。",
+  "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+  "date": "2026-10-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-10-13T16:01:52+00:00",
+  "titleEn": "Gemini 4 Argon: Built to solve your hardest problems",
+  "titleZh": "Gemini 4 Argon：为攻克最难问题而打造",
+  "details": {
+    "overview": "该条目与同批另一条 Gemini 4 Argon 发布标题相同，但摘要与原文正文均为空，仅有标题和“以官方原始发布记录为准”的说明。因此无法补充开放对象、能力指标、价格或范围等信息。可确认的仅是发布方将 Gemini 4 Argon 定位为用于解决最难问题的模型，其余细节需回到官方原文核对。",
+    "keyPoints": [
+      "标题将 Gemini 4 Argon 定位为解决最难问题",
+      "摘要与原文正文缺失，信息有限",
+      "开放范围与限制需以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

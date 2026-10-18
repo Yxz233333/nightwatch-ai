@@ -1,0 +1,24 @@
+{
+  "id": "d1aad1d3c121fb9e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA RTX Accelerates 4K AI Video Generation on PC With LTX-2 and ComfyUI Upgrades",
+  "summary": "NVIDIA 官方发布记录称，2025 年是 PC 端 AI 开发的突破之年：PC 级小语言模型准确率较 2024 年提升近 2 倍，明显缩小与云端前沿大模型的差距；Ollama、ComfyUI、llama.cpp、Unsloth 等 AI PC 开发者工具日趋成熟，受欢迎程度同比增长一倍。",
+  "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-ces-2026-open-models-video-generation/",
+  "date": "2026-01-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-01-06T05:30:18+00:00",
+  "titleEn": "NVIDIA RTX Accelerates 4K AI Video Generation on PC With LTX-2 and ComfyUI Upgrades",
+  "titleZh": "NVIDIA RTX 借助 LTX-2 与 ComfyUI 升级在 PC 上加速 4K AI 视频生成",
+  "details": {
+    "overview": "NVIDIA 官方发布记录称，2025 年是 PC 端 AI 开发的突破之年：PC 级小语言模型准确率较 2024 年提升近 2 倍，明显缩小与云端前沿大模型的差距；Ollama、ComfyUI、llama.cpp、Unsloth 等 AI PC 开发者工具日趋成熟，受欢迎程度同比增长一倍。原文摘要在此处截断，标题所指的 LTX-2 与 ComfyUI 升级及 4K 视频生成的具体细节未完整呈现。",
+    "keyPoints": [
+      "官方称 PC 级小模型准确率较 2024 年提升近 2 倍。",
+      "Ollama、ComfyUI 等 AI PC 工具受欢迎程度同比增长一倍。",
+      "原文摘要截断，4K 视频生成细节未完整披露。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

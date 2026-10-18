@@ -1,0 +1,25 @@
+{
+  "id": "c87314d1175dc69a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+  "summary": "该条目为官方发布记录，标题显示推出名为 FFASR 的排行榜，用于在真实世界场景中评测自动语音识别（ASR）系统。",
+  "url": "https://huggingface.co/blog/ffasr-leaderboard",
+  "date": "2026-06-24",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-06-24T00:00:00+00:00",
+  "titleEn": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+  "titleZh": "FFASR 排行榜发布：在真实场景中评测 ASR",
+  "details": {
+    "overview": "该条目为官方发布记录，标题显示推出名为 FFASR 的排行榜，用于在真实世界场景中评测自动语音识别（ASR）系统。提供的摘要与原文均只有标题，未说明榜单的评测数据来源、任务类型、指标定义、参与方式或首批结果。因此只能确认其目标是推动 ASR 在真实条件下的基准评测，具体方法与结论需以官方原文为准。",
+    "keyPoints": [
+      "官方发布 FFASR 排行榜，面向真实场景 ASR 评测。",
+      "材料仅有标题，未披露数据集与评测指标。",
+      "榜单方法与结果需以官方原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

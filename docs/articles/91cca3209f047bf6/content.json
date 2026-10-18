@@ -1,0 +1,25 @@
+{
+  "id": "91cca3209f047bf6",
+  "section": "news",
+  "category": "工具动态",
+  "title": "How we monitor internal coding agents for misalignment",
+  "summary": "该文介绍 OpenAI 如何利用思维链监测来研究内部编码代理的失准问题，通过分析真实部署环境中的使用情况来识别风险，并强化 AI 安全防护措施。",
+  "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+  "date": "2026-03-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-19T10:00:00+00:00",
+  "titleEn": "How we monitor internal coding agents for misalignment",
+  "titleZh": "我们如何监测内部编码代理的失准行为",
+  "details": {
+    "overview": "该文介绍 OpenAI 如何利用思维链监测来研究内部编码代理的失准问题，通过分析真实部署环境中的使用情况来识别风险，并强化 AI 安全防护措施。原始材料仅给出这一概述，未披露具体监测方法、样本规模、发现的失准类型或防护措施细节。因此该文的意义在于展示将安全监测嵌入实际部署的思路，具体结论需以原文为准，不宜视为已获独立验证。",
+    "keyPoints": [
+      "采用思维链监测研究内部编码代理的失准",
+      "分析真实部署场景以识别风险",
+      "目标是强化 AI 安全防护措施"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

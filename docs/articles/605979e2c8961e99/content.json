@@ -1,0 +1,25 @@
+{
+  "id": "605979e2c8961e99",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Apple is getting this wrong",
+  "summary": "OpenAI就Apple提起的诉讼作出回应，称该诉讼缺乏依据，并纠正其中关于OpenAI员工的指控，同时公开相关消息记录以说明事件经过。",
+  "url": "https://openai.com/index/apple-is-getting-this-wrong",
+  "date": "2026-08-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-03T22:00:00+00:00",
+  "titleEn": "Apple is getting this wrong",
+  "titleZh": "Apple在这件事上搞错了",
+  "details": {
+    "overview": "OpenAI就Apple提起的诉讼作出回应，称该诉讼缺乏依据，并纠正其中关于OpenAI员工的指控，同时公开相关消息记录以说明事件经过。原文仅提供这一概述，未披露诉讼具体内容、涉及员工或消息记录细节，相关说法均为OpenAI单方立场。",
+    "keyPoints": [
+      "OpenAI称Apple提起的诉讼缺乏依据",
+      "OpenAI纠正诉讼中关于其员工的指控",
+      "OpenAI公开消息记录说明事件经过"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

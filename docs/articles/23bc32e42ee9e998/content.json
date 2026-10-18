@@ -1,0 +1,25 @@
+{
+  "id": "23bc32e42ee9e998",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+  "summary": "现有材料仅有标题和一句摘要，说明德国电信正与OpenAI合作转型为“AI原生”电信公司，涉及客户服务、员工工作流、网络运营和语音的未来。",
+  "url": "https://openai.com/index/deutsche-telekom",
+  "date": "2026-07-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-10T07:00:00+00:00",
+  "titleEn": "How Deutsche Telekom is rewiring telecommunications with AI",
+  "titleZh": "德国电信如何借助AI重塑电信业",
+  "details": {
+    "overview": "现有材料仅有标题和一句摘要，说明德国电信正与OpenAI合作转型为“AI原生”电信公司，涉及客户服务、员工工作流、网络运营和语音的未来。当前收录材料未提供具体做法、覆盖范围或成效数据，因此无法展开更详细的技术与业务说明。",
+    "keyPoints": [
+      "主题为德国电信与OpenAI合作转型为AI原生电信公司",
+      "涉及客户服务、员工工作流、网络运营和语音未来四个方向",
+      "原文未给出具体实施细节与成效数据"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

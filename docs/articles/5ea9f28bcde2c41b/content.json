@@ -1,0 +1,25 @@
+{
+  "id": "5ea9f28bcde2c41b",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+  "summary": "该官方发布记录称，Perplexity 使用 Astra 撰写沟通内容、修改软件并监控生产系统，且相比早期模型，检查频率大幅降低。",
+  "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+  "date": "2026-09-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-14T00:00:00+00:00",
+  "titleEn": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+  "titleZh": "Perplexity 将端到端系统托付给 GPT-6 Astra",
+  "details": {
+    "overview": "该官方发布记录称，Perplexity 使用 Astra 撰写沟通内容、修改软件并监控生产系统，且相比早期模型，检查频率大幅降低。材料未说明 Astra 的具体能力边界、部署方式或可靠性数据，因此只能确认 Perplexity 在端到端系统任务中对 Astra 的使用方式与信任程度，相关效果需以原文为准。",
+    "keyPoints": [
+      "Perplexity 用 Astra 撰写沟通内容、修改软件和监控生产系统",
+      "相比早期模型，人工检查频率明显降低",
+      "材料未披露具体部署方式与可靠性数据"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5b984deb585c4b51",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Rahul Patil joins Anthropic as Chief Technology Officer",
+  "summary": "Anthropic 宣布 Rahul Patil 加入公司担任首席技术官，负责产品、计算、基础设施、推理、数据科学和安全等工程组织，以扩展 Claude 满足全球企业需求。",
+  "url": "https://www.anthropic.com/news/rahul-patil-joins-anthropic",
+  "date": "2025-10-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-10-07T19:16:00+00:00",
+  "titleEn": "Rahul Patil joins Anthropic as Chief Technology Officer",
+  "titleZh": "Rahul Patil 加入 Anthropic 担任首席技术官",
+  "details": {
+    "overview": "Anthropic 宣布 Rahul Patil 加入公司担任首席技术官，负责产品、计算、基础设施、推理、数据科学和安全等工程组织，以扩展 Claude 满足全球企业需求。Patil 拥有超过20年基础设施经验，曾任 Stripe CTO，并在 AWS、微软和 Oracle 云基础设施担任高级工程领导职务。原联合创始人兼 CTO Sam McCandlish 转任首席架构师，专注于大规模模型训练、预训练及研究生产力和强化学习基础设施。Anthropic 称目前服务超过30万企业客户。",
+    "keyPoints": [
+      "Rahul Patil 任 CTO，负责产品、基础设施、推理和安全等工程",
+      "Patil 曾任 Stripe CTO，并在 AWS、微软、Oracle 担任工程领导",
+      "联合创始人 Sam McCandlish 转任首席架构师，专注模型训练"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

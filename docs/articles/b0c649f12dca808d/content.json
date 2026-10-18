@@ -1,0 +1,24 @@
+{
+  "id": "b0c649f12dca808d",
+  "section": "news",
+  "category": "模型动态",
+  "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
+  "summary": "NVIDIA宣布其面向Robotaxi与自动驾驶车辆的前沿开放模型Alpamayo 2 Super现已可供商业使用。",
+  "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
+  "date": "2026-08-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-08-04T15:00:49+00:00",
+  "titleEn": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
+  "titleZh": "NVIDIA Alpamayo 2 Super：面向Robotaxi与自动驾驶的前沿开放模型现已开放商用",
+  "details": {
+    "overview": "NVIDIA宣布其面向Robotaxi与自动驾驶车辆的前沿开放模型Alpamayo 2 Super现已可供商业使用。原文指出，自动驾驶最难处理的是难以预判和训练的罕见复杂长尾场景，仅靠目标检测与运动预测不够，车辆还需理解情境、推理因果并选择正确动作。当前收录材料未提供模型规模、性能数据或商用许可细节。",
+    "keyPoints": [
+      "Alpamayo 2 Super面向Robotaxi与自动驾驶场景",
+      "官方称其现已开放商业使用",
+      "原文强调长尾场景需情境理解与因果推理能力"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "017bbf5f560dd734",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "1Password increases engineering productivity 21% with Codex",
+  "summary": "该文介绍 1Password 的工程师使用 Codex 快速构建新功能和内部工具，在维持严格安全策略的同时达到可投入生产的状态。",
+  "url": "https://openai.com/index/1password",
+  "date": "2026-09-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-08T00:00:00+00:00",
+  "titleEn": "1Password increases engineering productivity 21% with Codex",
+  "titleZh": "1Password 借助 Codex 将工程效率提升21%",
+  "details": {
+    "overview": "该文介绍 1Password 的工程师使用 Codex 快速构建新功能和内部工具，在维持严格安全策略的同时达到可投入生产的状态。标题称工程效率提升21%，但原始发布未说明该数字的统计口径、测量方法或对照基准，相关结论应视为发布方说法。",
+    "keyPoints": [
+      "1Password工程师用Codex构建新功能与内部工具",
+      "强调在严格安全策略下达到可投入生产状态",
+      "效率提升21%为发布方说法，未说明统计口径"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

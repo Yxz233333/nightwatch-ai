@@ -1,0 +1,25 @@
+{
+  "id": "0c535bb00ae2757a",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
+  "summary": "该稿件以实践回顾的形式，讨论如何对 GPT-OSS 开展智能体强化学习训练。",
+  "url": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl",
+  "date": "2026-01-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-01-27T01:53:15+00:00",
+  "titleEn": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
+  "titleZh": "解锁GPT-OSS的智能体强化学习训练：一次实践回顾",
+  "details": {
+    "overview": "该稿件以实践回顾的形式，讨论如何对 GPT-OSS 开展智能体强化学习训练。现有材料仅含标题与摘要，未说明所用训练框架、任务环境、奖励设计或实验结果，也未给出可复现的配置细节。因此只能确认其研究对象是 GPT-OSS 上的智能体 RL 训练流程，作者声称以实践经验总结为主。具体方法、效果与局限需查阅原文，现有材料不足以支撑结论性描述。",
+    "keyPoints": [
+      "研究对象为GPT-OSS的智能体强化学习训练",
+      "稿件定位为实践回顾，而非新模型发布",
+      "训练环境、奖励设计与结果在材料中缺失"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

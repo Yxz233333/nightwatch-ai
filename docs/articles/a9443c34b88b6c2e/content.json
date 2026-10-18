@@ -1,0 +1,25 @@
+{
+  "id": "a9443c34b88b6c2e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Revealing a key protein behind heart disease",
+  "summary": "该条目摘要称，AlphaFold 揭示了与心脏病相关的一种关键蛋白的结构。",
+  "url": "https://deepmind.google/blog/revealing-a-key-protein-behind-heart-disease/",
+  "date": "2025-11-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2025-11-25T15:52:51+00:00",
+  "titleEn": "Revealing a key protein behind heart disease",
+  "titleZh": "揭示心脏病背后的关键蛋白",
+  "details": {
+    "overview": "该条目摘要称，AlphaFold 揭示了与心脏病相关的一种关键蛋白的结构。材料未说明该蛋白名称、结构细节、研究团队或该结构对疾病机制与药物研发的具体意义，也未提及是否经过独立验证。因此只能确认作者声称的结构解析结果，相关结论与影响需以官方原始发布内容为准。",
+    "keyPoints": [
+      "摘要称 AlphaFold 揭示了心脏病相关关键蛋白的结构。",
+      "材料未给出蛋白名称、结构细节与研究团队。",
+      "未提及独立验证，结论需以官方原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

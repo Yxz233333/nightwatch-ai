@@ -1,0 +1,25 @@
+{
+  "id": "0e0a78d696b29c31",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
+  "summary": "现有材料仅包含标题，未提供摘要或原始发布正文，因此无法确认 Cosmos Reason 2 的具体研究对象、功能范围、性能表现或推出信息。",
+  "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
+  "date": "2026-01-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-01-05T22:56:51+00:00",
+  "titleEn": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
+  "titleZh": "NVIDIA Cosmos Reason 2 为物理 AI 带来高级推理能力",
+  "details": {
+    "overview": "现有材料仅包含标题，未提供摘要或原始发布正文，因此无法确认 Cosmos Reason 2 的具体研究对象、功能范围、性能表现或推出信息。可确定的是，官方标题称该产品为物理 AI 带来高级推理能力。以下要点仅依据标题提炼，具体结论与限制需以原始发布内容为准。",
+    "keyPoints": [
+      "官方标题称 Cosmos Reason 2 面向物理 AI 场景",
+      "标题强调其为物理 AI 带来高级推理能力",
+      "材料不足，未披露功能细节、性能数据与推出范围"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

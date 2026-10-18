@@ -1,0 +1,25 @@
+{
+  "id": "a28275b3561ef7c9",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "HiBob turns 2,500 GPTs into product and team growth",
+  "summary": "该内容介绍 HiBob 如何使用 ChatGPT Enterprise 和自定义 GPT 来扩大 AI 应用、提升收入、简化人力资源工作流程，并在 Bob 平台中提供 AI 驱动的功能。",
+  "url": "https://openai.com/index/hibob",
+  "date": "2025-10-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-08T08:00:00+00:00",
+  "titleEn": "HiBob turns 2,500 GPTs into product and team growth",
+  "titleZh": "HiBob 将 2,500 个 GPT 转化为产品和团队增长动力",
+  "details": {
+    "overview": "该内容介绍 HiBob 如何使用 ChatGPT Enterprise 和自定义 GPT 来扩大 AI 应用、提升收入、简化人力资源工作流程，并在 Bob 平台中提供 AI 驱动的功能。由于原始发布内容仅有摘要，未提供具体实施细节、数据或结果，因此无法进一步说明其具体做法和成效。",
+    "keyPoints": [
+      "HiBob 使用 ChatGPT Enterprise 和自定义 GPT 扩展 AI 应用",
+      "目标包括提升收入、简化 HR 工作流程",
+      "在 Bob 平台中交付 AI 驱动的功能"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

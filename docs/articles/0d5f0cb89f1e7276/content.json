@@ -1,0 +1,25 @@
+{
+  "id": "0d5f0cb89f1e7276",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "A milestone in expanding access to AI",
+  "summary": "OpenAI 宣布 ChatGPT 广告业务的年化收入运行率达到 10 亿美元，并将在全球范围扩展。",
+  "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+  "date": "2026-08-31",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-31T04:00:00+00:00",
+  "titleEn": "A milestone in expanding access to AI",
+  "titleZh": "扩大 AI 可及性的一座里程碑",
+  "details": {
+    "overview": "OpenAI 宣布 ChatGPT 广告业务的年化收入运行率达到 10 亿美元，并将在全球范围扩展。官方称此举旨在通过免费与可负担的方案，支持更广泛的 AI 可及性。发布内容未披露广告形式、覆盖国家数量或具体定价等细节。",
+    "keyPoints": [
+      "ChatGPT 广告年化收入运行率达 10 亿美元",
+      "广告业务将在全球范围扩展",
+      "官方称用于支持免费与低价 AI 访问"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

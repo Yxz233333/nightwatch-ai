@@ -1,0 +1,25 @@
+{
+  "id": "a1f5a31c7f0a6c3a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Scaling PostgreSQL to power 800 million ChatGPT users",
+  "summary": "该文介绍 OpenAI 如何通过副本、缓存、限流和工作负载隔离，将 PostgreSQL 扩展至每秒数百万次查询，以支撑 ChatGPT 的大规模用户访问。",
+  "url": "https://openai.com/index/scaling-postgresql",
+  "date": "2026-01-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-22T12:00:00+00:00",
+  "titleEn": "Scaling PostgreSQL to power 800 million ChatGPT users",
+  "titleZh": "扩展 PostgreSQL 以支撑 8 亿 ChatGPT 用户",
+  "details": {
+    "overview": "该文介绍 OpenAI 如何通过副本、缓存、限流和工作负载隔离，将 PostgreSQL 扩展至每秒数百万次查询，以支撑 ChatGPT 的大规模用户访问。摘要未披露具体架构细节或性能数据，仅概括了所用技术手段。",
+    "keyPoints": [
+      "采用副本、缓存、限流和工作负载隔离扩展 PostgreSQL。",
+      "目标为支撑每秒数百万次查询。",
+      "面向 ChatGPT 大规模用户场景。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

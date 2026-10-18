@@ -1,0 +1,25 @@
+{
+  "id": "0b2fc6e3206dd807",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Our principles",
+  "summary": "该官方发布说明介绍 OpenAI 的使命是确保通用人工智能（AGI）惠及全人类，并由 Sam Altman 分享指导其工作的五项原则。",
+  "url": "https://openai.com/index/our-principles",
+  "date": "2026-04-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-26T16:00:00+00:00",
+  "titleEn": "Our principles",
+  "titleZh": "我们的原则",
+  "details": {
+    "overview": "该官方发布说明介绍 OpenAI 的使命是确保通用人工智能（AGI）惠及全人类，并由 Sam Altman 分享指导其工作的五项原则。当前收录材料仅给出这一概述，未展开五项原则的具体内容，也未说明适用范围或限制，相关细节需以原始发布为准。",
+    "keyPoints": [
+      "OpenAI 使命表述为确保 AGI 惠及全人类",
+      "Sam Altman 分享指导工作的五项原则",
+      "原文未展开原则细节，需以原始发布为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

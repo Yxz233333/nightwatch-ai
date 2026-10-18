@@ -1,0 +1,25 @@
+{
+  "id": "57d6c252e7a90461",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.66.0 发布",
+  "summary": "Codex CLI 0.66.0 发布，重点更新包括执行策略（execpolicy）支持 TUI 白名单命令前缀、沙箱拒绝时提出修正建议、shell MCP 遵循同一规则，并检查管道各段以拦截不安全尾部命令。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.66.0",
+  "date": "2025-12-09",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-12-09T03:37:53+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.66.0 发布",
+  "titleZh": "Codex CLI 0.66.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.66.0 发布，重点更新包括执行策略（execpolicy）支持 TUI 白名单命令前缀、沙箱拒绝时提出修正建议、shell MCP 遵循同一规则，并检查管道各段以拦截不安全尾部命令。同时修复统一执行与 shell 稳定性、TUI 跨平台快捷键、Windows 补丁换行符保留及云执行分支支持等问题。",
+    "keyPoints": [
+      "执行策略增强：TUI 可白名单命令前缀，沙箱拒绝可提修正，管道分段检查。",
+      "统一执行与 shell 稳定性改进，修复 Windows 崩溃和会话残留。",
+      "云执行支持 --branch，Linux 制品通过 sigstore 签名。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

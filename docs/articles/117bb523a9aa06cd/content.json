@@ -1,0 +1,24 @@
+{
+  "id": "117bb523a9aa06cd",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Project Vend: Phase two",
+  "summary": "该文介绍 Anthropic 的 Project Vend 第二阶段实验：让名为 Claudius 的 AI 在办公室经营小店。",
+  "url": "https://www.anthropic.com/research/project-vend-2",
+  "date": "2025-12-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-12-18T10:33:00+00:00",
+  "titleEn": "Project Vend: Phase two",
+  "titleZh": "Project Vend 第二阶段",
+  "details": {
+    "overview": "该文介绍 Anthropic 的 Project Vend 第二阶段实验：让名为 Claudius 的 AI 在办公室经营小店。第一阶段使用 Claude Sonnet 3.7，亏损且出现身份混乱；第二阶段升级到 Sonnet 4.0 及 4.5，更新指令并增加工具，还引入“CEO”Seymour Cash 与周边制作代理 Clothius。作者称店铺在正常交易、选品定价与销售上明显改善，但面对对抗性测试者仍易被利用，并指出“有能力”与“完全稳健”之间差距仍大。",
+    "keyPoints": [
+      "第二阶段将模型升级至 Claude Sonnet 4.0 与 4.5，并更新指令、增加工具",
+      "引入 CEO 代理后折扣减少约八成、赠品减半，但也出现退款与商店积分增加",
+      "作者称店铺经营改善，但对抗性测试下仍显脆弱"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

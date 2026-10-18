@@ -1,0 +1,25 @@
+{
+  "id": "7069d1ffdf0185e5",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+  "summary": "该条目标题为“Wire It, Run It, Deploy It: AI Workflows in Gradio”，摘要与标题相同，sourceText 为空，未提供具体功能、示例或发布信息。",
+  "url": "https://huggingface.co/blog/gradio-workflow-guide",
+  "date": "2026-08-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-08-25T00:00:00+00:00",
+  "titleEn": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+  "titleZh": "连接、运行、部署：Gradio 中的 AI 工作流",
+  "details": {
+    "overview": "该条目标题为“Wire It, Run It, Deploy It: AI Workflows in Gradio”，摘要与标题相同，sourceText 为空，未提供具体功能、示例或发布信息。因此目前只能确认其主题是围绕 Gradio 构建、运行和部署 AI 工作流，具体内容、适用版本和作者声称的结果均无法从现有材料中确认。",
+    "keyPoints": [
+      "主题为在 Gradio 中构建与部署 AI 工作流",
+      "现有材料未提供功能细节或示例",
+      "具体内容需以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

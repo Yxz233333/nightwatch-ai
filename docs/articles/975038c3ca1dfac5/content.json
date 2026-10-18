@@ -1,0 +1,23 @@
+{
+  "id": "975038c3ca1dfac5",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Group chats in ChatGPT",
+  "summary": "OpenAI 正在试点 ChatGPT 群聊功能，允许用户将多人及 ChatGPT 纳入同一对话，共同规划旅行、做决策或协作项目。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#group-chats-in-chatgpt",
+  "date": "2025-11-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Group chats in ChatGPT",
+  "titleZh": "ChatGPT 群聊功能",
+  "details": {
+    "overview": "OpenAI 正在试点 ChatGPT 群聊功能，允许用户将多人及 ChatGPT 纳入同一对话，共同规划旅行、做决策或协作项目。ChatGPT 在群聊中可帮助搜索、总结、生成内容，并保持信息同步。该功能已在新西兰、日本、韩国和台湾的 ChatGPT Web、iOS 和 Android 平台开始推送。官方表示将根据试点早期反馈改进体验，并决定未来如何扩展到更多地区和套餐。",
+    "keyPoints": [
+      "群聊支持多人及 ChatGPT 同场协作，可用于规划、决策和项目合作。",
+      "ChatGPT 在群聊中提供搜索、总结和内容生成等辅助功能。",
+      "试点率先在新西兰、日本、韩国和台湾的 Web、iOS、Android 推出。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

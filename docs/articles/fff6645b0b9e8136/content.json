@@ -1,0 +1,23 @@
+{
+  "id": "fff6645b0b9e8136",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex and ChatGPT feature updates",
+  "summary": "该官方发布说明汇总多项更新：Plus 和 Pro 站点所有者可为 ChatGPT 托管的站点更换 URL，旧地址会重定向且保留路由与查询参数，自定义域名不变；Apple 芯片 Mac 上的 ChatGPT 桌面应用可通过 Apple Messages 插件读取、搜索并准备或发送 iMessage、SMS 和 RCS 消息，默认发送前需用户确认；Computer History 扩展至欧洲经济区、瑞士和英国，面向 macOS 桌面版 Pro 用户，默认关闭且需 Memories；Codex 对话可分享只读快照；固定对话在桌面版与 iOS 间同步，不含 Android。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-and-chatgpt-feature-updates",
+  "date": "2026-08-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Codex and ChatGPT feature updates",
+  "titleZh": "Codex 与 ChatGPT 功能更新",
+  "details": {
+    "overview": "该官方发布说明汇总多项更新：Plus 和 Pro 站点所有者可为 ChatGPT 托管的站点更换 URL，旧地址会重定向且保留路由与查询参数，自定义域名不变；Apple 芯片 Mac 上的 ChatGPT 桌面应用可通过 Apple Messages 插件读取、搜索并准备或发送 iMessage、SMS 和 RCS 消息，默认发送前需用户确认；Computer History 扩展至欧洲经济区、瑞士和英国，面向 macOS 桌面版 Pro 用户，默认关闭且需 Memories；Codex 对话可分享只读快照；固定对话在桌面版与 iOS 间同步，不含 Android。",
+    "keyPoints": [
+      "ChatGPT 托管站点可更换 URL，旧地址重定向，自定义域名不变。",
+      "Apple Messages 插件可读取、搜索并准备或发送消息，默认需确认。",
+      "Codex 对话可分享只读快照；固定对话在桌面版与 iOS 同步。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

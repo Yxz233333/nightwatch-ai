@@ -1,0 +1,25 @@
+{
+  "id": "fb4603bb42133acb",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Helping developers build safer AI experiences for teens",
+  "summary": "OpenAI发布了一套基于提示词的青少年安全策略，供使用gpt-oss-safeguard的开发者使用。",
+  "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+  "date": "2026-03-24",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-24T11:00:00+00:00",
+  "titleEn": "Helping developers build safer AI experiences for teens",
+  "titleZh": "帮助开发者构建更安全的青少年AI体验",
+  "details": {
+    "overview": "OpenAI发布了一套基于提示词的青少年安全策略，供使用gpt-oss-safeguard的开发者使用。该策略旨在帮助开发者对AI系统中与年龄相关的特定风险进行内容审核与管控。官方表示，此举是为了让开发者在构建面向青少年的AI应用时，能够更有效地识别和缓解潜在的安全隐患。目前该策略的具体适用范围和限制需以官方原始发布内容为准。",
+    "keyPoints": [
+      "OpenAI发布基于提示词的青少年安全策略，面向使用gpt-oss-safeguard的开发者。",
+      "该策略用于帮助审核和管控AI系统中与年龄相关的特定风险。",
+      "具体推出范围和限制需以官方原始发布记录为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "5e91e0ba3f5a989e",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Improved pronunciation help in ChatGPT",
+  "summary": "ChatGPT 的发音辅助功能得到更新：当用户询问某个单词或短语怎么读时，现在可以点击听取朗读，并查看音标拆解。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-pronunciation-help-in-chatgpt",
+  "date": "2026-08-31",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Improved pronunciation help in ChatGPT",
+  "titleZh": "ChatGPT 改进发音帮助",
+  "details": {
+    "overview": "ChatGPT 的发音辅助功能得到更新：当用户询问某个单词或短语怎么读时，现在可以点击听取朗读，并查看音标拆解。官方发布内容仅说明这两项交互变化，未披露支持的语言范围、音标体系或上线地区等细节。",
+    "keyPoints": [
+      "询问发音时可点击听取单词或短语朗读",
+      "同时展示音标拆解辅助理解读音"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

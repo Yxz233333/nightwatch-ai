@@ -1,0 +1,25 @@
+{
+  "id": "249743b05b0a1f0e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Sora 2 is here",
+  "summary": "该文介绍 Sora 2，称其为具备同步对话与音效的视频生成模型。",
+  "url": "https://openai.com/index/sora-2",
+  "date": "2025-09-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-30T00:00:00+00:00",
+  "titleEn": "Sora 2 is here",
+  "titleZh": "Sora 2 来了",
+  "details": {
+    "overview": "该文介绍 Sora 2，称其为具备同步对话与音效的视频生成模型。原文说明该产品已不再可用。由于原始发布内容极短，未提供模型能力细节、评测结果或适用范围，相关技术信息不足，需以当时官方原文为准。",
+    "keyPoints": [
+      "Sora 2 是视频生成模型，支持同步对话与音效。",
+      "原文注明 Sora 产品已不再可用。",
+      "原始内容简短，未给出评测或技术细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c98eae5bc3831d78",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Parloa builds service agents customers want to talk to",
+  "summary": "该文介绍Parloa利用OpenAI模型构建可扩展的语音驱动AI客服智能体，使企业能够设计、模拟并部署可靠的实时交互。",
+  "url": "https://openai.com/index/parloa",
+  "date": "2026-05-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-07T11:00:00+00:00",
+  "titleEn": "Parloa builds service agents customers want to talk to",
+  "titleZh": "Parloa打造用户愿意对话的服务智能体",
+  "details": {
+    "overview": "该文介绍Parloa利用OpenAI模型构建可扩展的语音驱动AI客服智能体，使企业能够设计、模拟并部署可靠的实时交互。摘要仅说明其依托OpenAI模型实现语音客服能力，未披露具体模型版本、性能指标或部署规模，因此本介绍只能概括其应用方向，不足以判断实际效果。",
+    "keyPoints": [
+      "Parloa基于OpenAI模型构建语音驱动的客服智能体。",
+      "企业可对交互进行设计、模拟与部署。",
+      "目标为可扩展且可靠的实时客户服务。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

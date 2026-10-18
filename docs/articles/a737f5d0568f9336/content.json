@@ -1,0 +1,23 @@
+{
+  "id": "a737f5d0568f9336",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Introducing GPT-Live-1 in ChatGPT Voice",
+  "summary": "官方发布称，ChatGPT Voice 迎来新体验：付费用户由 GPT-Live-1 驱动，免费用户使用 GPT-Live-1 mini。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-live-1-in-chatgpt-voice",
+  "date": "2026-07-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Introducing GPT-Live-1 in ChatGPT Voice",
+  "titleZh": "在 ChatGPT Voice 中引入 GPT-Live-1",
+  "details": {
+    "overview": "官方发布称，ChatGPT Voice 迎来新体验：付费用户由 GPT-Live-1 驱动，免费用户使用 GPT-Live-1 mini。两款模型可同时听与说，使轮流发言和打断更自然。GPT-Live-1 在 ChatGPT 对话内工作，语音回复与流式文本同时呈现，可调用网页搜索与记忆，通过支持的组件展示可视化结果，并在同一对话中处理文本和图像。该功能面向包括免费版在内的消费级方案，在 chatgpt.com 及 iOS、Android 应用的支持地区推出；发布时不适用于 Business、Enterprise、Edu 工作区，暂不支持视频或屏幕共享。",
+    "keyPoints": [
+      "付费用户使用 GPT-Live-1，免费用户使用 GPT-Live-1 mini",
+      "模型可同时听与说，语音回复与流式文本并列呈现",
+      "发布时不支持 Business、Enterprise、Edu 工作区及视频、屏幕共享"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

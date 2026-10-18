@@ -1,0 +1,25 @@
+{
+  "id": "ad4d2a2a8012f59a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI helps Hyatt advance AI among colleagues",
+  "summary": "该行业新闻摘要称，Hyatt 在全球员工范围内部署 ChatGPT Enterprise，使用 GPT-5.4 与 Codex，以提升生产力、运营效率和宾客体验。",
+  "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+  "date": "2026-04-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-20T00:00:00+00:00",
+  "titleEn": "OpenAI helps Hyatt advance AI among colleagues",
+  "titleZh": "OpenAI 助力 Hyatt 在员工中推进 AI 应用",
+  "details": {
+    "overview": "该行业新闻摘要称，Hyatt 在全球员工范围内部署 ChatGPT Enterprise，使用 GPT-5.4 与 Codex，以提升生产力、运营效率和宾客体验。提供的原文仅此一句，未说明部署规模、时间表、培训方式或效果评估方法，也未给出可核实的量化结果。因此本条目仅能概括发布方声称的部署与应用方向，具体成效尚缺乏材料支撑。",
+    "keyPoints": [
+      "Hyatt 在全球员工范围部署 ChatGPT Enterprise。",
+      "使用 GPT-5.4 与 Codex，目标为生产力、运营与宾客体验。",
+      "当前收录材料未提供部署规模与效果数据。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

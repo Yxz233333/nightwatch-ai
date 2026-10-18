@@ -1,0 +1,24 @@
+{
+  "id": "ff45e009b4613418",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
+  "summary": "现有材料仅为标题和一句摘要，指出Gemini Robotics ER 1.6增强空间推理和多视角理解，以支持自主机器人。",
+  "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+  "date": "2026-04-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-04-13T15:52:13+00:00",
+  "titleEn": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
+  "titleZh": "Gemini Robotics-ER 1.6：通过增强具身推理驱动真实机器人任务",
+  "details": {
+    "overview": "现有材料仅为标题和一句摘要，指出Gemini Robotics ER 1.6增强空间推理和多视角理解，以支持自主机器人。未提供具体技术细节、评测结果或推出范围，信息不足，建议补充原文后再作详细解读。",
+    "keyPoints": [
+      "Gemini Robotics ER 1.6增强空间推理能力。",
+      "提升多视角理解以支持自主机器人任务。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "854564a9f75bcb2d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+  "summary": "该发布介绍，谷歌 WeatherNext AI 模型如何帮助预报机构在历史性飓风 Melissa 登陆前为社区争取更多准备时间。",
+  "url": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+  "date": "2026-05-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-05-16T03:14:17+00:00",
+  "titleEn": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+  "titleZh": "WeatherNext 如何帮助国家飓风中心更好地预测飓风 Melissa 在牙买加的历史性登陆",
+  "details": {
+    "overview": "该发布介绍，谷歌 WeatherNext AI 模型如何帮助预报机构在历史性飓风 Melissa 登陆前为社区争取更多准备时间。当前收录材料仅给出这一概述，未披露具体预报误差、提前量数值或评估方法，因此无法量化其效果；相关细节与限制应以官方原始发布记录为准。",
+    "keyPoints": [
+      "WeatherNext AI 模型用于飓风 Melissa 的预报支持。",
+      "发布称其帮助预报机构为社区争取准备时间。",
+      "原文未给出具体预报精度或提前量数据。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

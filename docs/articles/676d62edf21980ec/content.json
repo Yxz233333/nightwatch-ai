@@ -1,0 +1,25 @@
+{
+  "id": "676d62edf21980ec",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+  "summary": "OpenAI 推出 Patch the Planet，这是 Daybreak 旗下的一项计划，旨在借助 AI 和专家审查，帮助开源软件维护者发现、验证并修复漏洞。",
+  "url": "https://openai.com/index/patch-the-planet",
+  "date": "2026-06-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-22T10:00:00+00:00",
+  "titleEn": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+  "titleZh": "Patch the Planet：支持开源维护者的 Daybreak 计划",
+  "details": {
+    "overview": "OpenAI 推出 Patch the Planet，这是 Daybreak 旗下的一项计划，旨在借助 AI 和专家审查，帮助开源软件维护者发现、验证并修复漏洞。官方摘要未说明参与方式、覆盖项目范围或资助安排，具体细节需以原始发布为准。",
+    "keyPoints": [
+      "Patch the Planet 是 Daybreak 旗下支持开源维护者的计划。",
+      "手段为 AI 结合专家审查。",
+      "目标是帮助发现、验证和修复漏洞。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

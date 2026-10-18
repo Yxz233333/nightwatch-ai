@@ -1,0 +1,25 @@
+{
+  "id": "860b2d7ec200f0f3",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "ChatGPT Sites",
+  "summary": "该条目为一条行业新闻，原始发布内容仅有一句：用 Codex 创建这类轻量级网站或应用。",
+  "url": "https://openai.com/academy/chatgpt-sites",
+  "date": "2026-06-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-02T10:00:00+00:00",
+  "titleEn": "ChatGPT Sites",
+  "titleZh": "ChatGPT Sites",
+  "details": {
+    "overview": "该条目为一条行业新闻，原始发布内容仅有一句：用 Codex 创建这类轻量级网站或应用。材料未说明 ChatGPT Sites 的具体功能形态、面向用户、可用范围或与 ChatGPT 的关系，也未提供摘要与更多细节，因此无法进一步介绍其研究对象或声称结果。",
+    "keyPoints": [
+      "原始发布内容称可用 Codex 创建轻量级网站或应用。",
+      "未说明 ChatGPT Sites 的功能细节与推出范围。",
+      "材料不足，无法确认其具体用途与限制。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

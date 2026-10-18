@@ -1,0 +1,24 @@
+{
+  "id": "e910dcdae859c527",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Into the Omniverse: Open World Foundation Models Generate Synthetic Worlds for Physical AI Development",
+  "summary": "官方发布内容指出，驱动机器人、自动驾驶车辆等智能机器的物理AI模型必须安全、能泛化到动态场景，并具备实时感知、推理与操作能力。",
+  "url": "https://blogs.nvidia.com/blog/scaling-physical-ai-omniverse/",
+  "date": "2025-10-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-10-29T13:00:30+00:00",
+  "titleEn": "Into the Omniverse: Open World Foundation Models Generate Synthetic Worlds for Physical AI Development",
+  "titleZh": "走进Omniverse：开放世界基础模型为物理AI开发生成合成世界",
+  "details": {
+    "overview": "官方发布内容指出，驱动机器人、自动驾驶车辆等智能机器的物理AI模型必须安全、能泛化到动态场景，并具备实时感知、推理与操作能力。当前收录材料仅给出这一背景性表述，未披露开放世界基础模型的具体方法、生成合成世界的规模或评测结果，材料不足以展开更多细节。",
+    "keyPoints": [
+      "物理AI模型需安全、可泛化并实时感知推理操作",
+      "原文聚焦开放世界基础模型生成合成世界用于物理AI开发",
+      "当前收录材料未提供具体方法与评测结果"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

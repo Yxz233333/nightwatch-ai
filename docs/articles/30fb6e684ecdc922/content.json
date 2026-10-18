@@ -1,0 +1,23 @@
+{
+  "id": "30fb6e684ecdc922",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Meetings plugin",
+  "summary": "官方发布记录介绍 Meetings 插件，目的是把会议上下文带入 ChatGPT，便于更快推进后续事项。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meetings-plugin",
+  "date": "2026-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Meetings plugin",
+  "titleZh": "会议插件",
+  "details": {
+    "overview": "官方发布记录介绍 Meetings 插件，目的是把会议上下文带入 ChatGPT，便于更快推进后续事项。该插件根据会议中的发言记录笔记，并把带行动项的个性化摘要保存到 ChatGPT Space，可设为私有或与团队共享，之后可让 ChatGPT 更新项目计划或起草跟进内容。笔记就绪后音频即被删除，无法访问或回放。该功能以 beta 形式在 macOS 版 ChatGPT 桌面应用向 Pro 和 Business 用户提供，Enterprise 即将支持。",
+    "keyPoints": [
+      "根据会议发言自动记录笔记并生成含行动项的摘要",
+      "摘要保存在 ChatGPT Space，可私有或共享给团队",
+      "笔记就绪后音频即删除，无法访问或回放"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

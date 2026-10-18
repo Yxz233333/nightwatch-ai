@@ -13,7 +13,7 @@
   "titleEn": "Bloch’s conjecture for surfaces with p_g=0",
   "titleZh": "p_g=0 曲面的 Bloch 猜想",
   "details": {
-    "overview": "稿件研究复代数曲面的零环与 Albanese 映射。作者声称对满足 p_g=0 的光滑连通射影复曲面证明 Bloch 猜想：整系数零次零环上的 Albanese 同态是同构。摘要未给出证明方法、所用工具或与已有部分结果的比较，也未说明该结论是否覆盖此前已知的特殊曲面类。",
+    "overview": "稿件研究复代数曲面的零环与 Albanese 映射。作者声称对满足 p_g=0 的光滑连通射影复曲面证明 Bloch 猜想：整系数零次零环上的 Albanese 同态是同构。当前收录摘要未给出证明方法、所用工具或与已有部分结果的比较，也未说明该结论是否覆盖此前已知的特殊曲面类。",
     "keyPoints": [
       "作者声称对 p_g=0 的光滑连通射影复曲面证明 Bloch 猜想。",
       "结论为整系数零次零环上的 Albanese 同态是同构。",

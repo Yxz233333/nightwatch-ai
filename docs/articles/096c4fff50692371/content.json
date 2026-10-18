@@ -1,0 +1,25 @@
+{
+  "id": "096c4fff50692371",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Fighting the New York Times’ invasion of user privacy",
+  "summary": "OpenAI表示正在反击《纽约时报》要求提供2000万条私人ChatGPT对话的要求，并加速新的安全和隐私保护措施以保护用户数据。",
+  "url": "https://openai.com/index/fighting-nyt-user-privacy-invasion",
+  "date": "2025-11-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-12T06:00:00+00:00",
+  "titleEn": "Fighting the New York Times’ invasion of user privacy",
+  "titleZh": "反击《纽约时报》对用户隐私的侵犯",
+  "details": {
+    "overview": "OpenAI表示正在反击《纽约时报》要求提供2000万条私人ChatGPT对话的要求，并加速新的安全和隐私保护措施以保护用户数据。当前收录材料未提供法律程序细节、对话内容范围或保护措施的具体内容。",
+    "keyPoints": [
+      "OpenAI反击《纽约时报》要求提供2000万条私人ChatGPT对话",
+      "OpenAI加速新的安全和隐私保护措施以保护用户数据",
+      "原文未说明法律程序细节或保护措施具体内容"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

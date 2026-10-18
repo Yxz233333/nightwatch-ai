@@ -1,0 +1,23 @@
+{
+  "id": "8bd705d22842dde7",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "New Pro plan options",
+  "summary": "OpenAI 推出每月 100 美元的新 Pro 套餐，并调整 Plus 与 Pro 的 Codex 用量方式。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-pro-plan-options",
+  "date": "2026-04-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "New Pro plan options",
+  "titleZh": "全新 Pro 套餐选项",
+  "details": {
+    "overview": "OpenAI 推出每月 100 美元的新 Pro 套餐，并调整 Plus 与 Pro 的 Codex 用量方式。100 美元 Pro 面向更长、更高强度的 Codex 会话，包含 GPT-5.4 无限使用、GPT-5.4 Pro 访问权，限时提供最高为 Plus 10 倍的 Codex 用量。200 美元 Pro 继续保留，其 Codex 促销延续至 5 月 31 日。Plus 临时 Codex 促销结束后，用量重新平衡为支持一周内更多会话。",
+    "keyPoints": [
+      "新增每月 100 美元 Pro 套餐，含 GPT-5.4 无限使用和 GPT-5.4 Pro 访问权。",
+      "该套餐限时提供最高为 Plus 10 倍的 Codex 用量，原标准为 5 倍。",
+      "200 美元 Pro 保留且 Codex 促销延续至 5 月 31 日；Plus 用量改为支持一周内更多会话。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

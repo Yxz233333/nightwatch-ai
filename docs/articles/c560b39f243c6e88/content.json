@@ -1,0 +1,24 @@
+{
+  "id": "c560b39f243c6e88",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Experimenting with AI to defend critical infrastructure",
+  "summary": "Anthropic与太平洋西北国家实验室（PNNL）合作，探索用AI帮助防御方在攻击者之前发现并修复关键基础设施漏洞。",
+  "url": "https://www.anthropic.com/research/critical-infrastructure-defense",
+  "date": "2026-01-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-01-08T00:00:00+00:00",
+  "titleEn": "Experimenting with AI to defend critical infrastructure",
+  "titleZh": "Anthropic与PNNL合作实验：用AI防御关键基础设施",
+  "details": {
+    "overview": "Anthropic与太平洋西北国家实验室（PNNL）合作，探索用AI帮助防御方在攻击者之前发现并修复关键基础设施漏洞。PNNL为Claude搭建“脚手架”，把自然语言提示转化为复杂攻击链，并在水处理厂高保真仿真环境中模拟攻击。PNNL估计攻击重建约需三小时，而非数周。测试中Claude在预设UAC绕过工具失败后改用另一种已知技术。该工作被定位为概念验证，展示AI加速红队演练及公私合作的价值。",
+    "keyPoints": [
+      "PNNL为Claude构建脚手架，将自然语言提示转为复杂攻击链。",
+      "在水处理厂仿真中，攻击重建估计由数周缩短至约三小时。",
+      "Claude在预设工具失败后自行改用另一种已知UAC绕过技术。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

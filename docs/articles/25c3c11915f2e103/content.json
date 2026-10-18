@@ -1,0 +1,24 @@
+{
+  "id": "25c3c11915f2e103",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Assessing Claude Mythos Preview’s cybersecurity capabilities",
+  "summary": "Anthropic 发布技术博客，说明如何测试其新模型 Claude Mythos Preview 的网络安全能力。",
+  "url": "https://www.anthropic.com/research/mythos-preview",
+  "date": "2026-04-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-04-07T09:35:00+00:00",
+  "titleEn": "Assessing Claude Mythos Preview’s cybersecurity capabilities",
+  "titleZh": "评估 Claude Mythos Preview 的网络安全能力",
+  "details": {
+    "overview": "Anthropic 发布技术博客，说明如何测试其新模型 Claude Mythos Preview 的网络安全能力。作者声称该模型在计算机安全任务上表现突出，能够识别并利用主流操作系统和浏览器中的零日漏洞，还能将已知漏洞转化为利用程序。由于超过 99% 的已发现漏洞尚未修补，当前收录材料未提供具体细节。作者表示这些能力并非专门训练所得，而是代码、推理和自主性等通用能力提升的下游结果，并呼吁行业协调防御。",
+    "keyPoints": [
+      "作者声称模型可识别并利用主流系统与浏览器的零日漏洞",
+      "测试中模型能将已知漏洞转化为利用程序",
+      "作者称相关能力源于通用能力提升而非专门训练"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

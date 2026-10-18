@@ -1,0 +1,25 @@
+{
+  "id": "bf868e6a5a8fcc34",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.63.0 发布",
+  "summary": "官方发布记录显示，Codex CLI 0.63.0 修复了启用网页搜索可能导致“Invalid value: 'other'.”错误的问题，并合并了若干 PR，包括为命令执行增加 Declined 状态、移除 model_max_output_tokens、清理 GitHub 发布中 bash 的重复条目。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.63.0",
+  "date": "2025-11-22",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-11-21T18:25:18+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.63.0 发布",
+  "titleZh": "Codex CLI 0.63.0 发布",
+  "details": {
+    "overview": "官方发布记录显示，Codex CLI 0.63.0 修复了启用网页搜索可能导致“Invalid value: 'other'.”错误的问题，并合并了若干 PR，包括为命令执行增加 Declined 状态、移除 model_max_output_tokens、清理 GitHub 发布中 bash 的重复条目。原文未说明桌面端功能变化，需以对应公告为准。",
+    "keyPoints": [
+      "修复启用网页搜索时出现“Invalid value: 'other'.”错误的问题。",
+      "为命令执行增加 Declined 状态，并移除 model_max_output_tokens。",
+      "清理 GitHub 发布中 bash 的重复条目。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

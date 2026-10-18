@@ -1,0 +1,23 @@
+{
+  "id": "6bd6e8cae021f4da",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Interactive content appears sooner on the web",
+  "summary": "该官方发布说明介绍，ChatGPT 生成的交互式内容现在可以在生成过程中就开始显示，而不必等到整个交互体验完全就绪。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-content-appears-sooner-on-the-web",
+  "date": "2026-08-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Interactive content appears sooner on the web",
+  "titleZh": "交互式内容在网页上更早出现",
+  "details": {
+    "overview": "该官方发布说明介绍，ChatGPT 生成的交互式内容现在可以在生成过程中就开始显示，而不必等到整个交互体验完全就绪。用户因此能更早看到交互内容，交互体验会以渐进方式出现在对话中。原文未说明具体适用范围、可用地区或限制条件，相关细节需以官方原始发布为准。",
+    "keyPoints": [
+      "交互式内容可在生成过程中逐步显示，无需等待全部完成。",
+      "交互体验改为在对话中渐进呈现，用户能更早看到内容。",
+      "原文未说明推出范围与限制，需以官方原始发布为准。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

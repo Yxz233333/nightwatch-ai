@@ -1,0 +1,25 @@
+{
+  "id": "ebb2b68fb79d9998",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Path to Astra: critical capabilities and frontier safeguards",
+  "summary": "该条目仅有标题和一句摘要，称Astra是OpenAI首个在Preparedness Framework下达到“关键”网络安全能力阈值的模型，并因此采用更强的发布保障措施。",
+  "url": "https://openai.com/index/path-to-astra",
+  "date": "2026-09-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-01T13:00:00+00:00",
+  "titleEn": "Path to Astra: critical capabilities and frontier safeguards",
+  "titleZh": "通往Astra之路：关键能力与前沿保障措施",
+  "details": {
+    "overview": "该条目仅有标题和一句摘要，称Astra是OpenAI首个在Preparedness Framework下达到“关键”网络安全能力阈值的模型，并因此采用更强的发布保障措施。当前收录材料未提供阈值定义、评估方法、具体保障内容或发布时间等细节，材料明显不足，相关结论应以官方完整发布为准。",
+    "keyPoints": [
+      "Astra被称首个达到关键网络安全能力阈值的OpenAI模型",
+      "发布将配套更强的保障措施",
+      "阈值标准与保障细节原文未展开"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

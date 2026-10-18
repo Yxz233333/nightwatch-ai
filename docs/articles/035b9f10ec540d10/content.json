@@ -1,0 +1,25 @@
+{
+  "id": "035b9f10ec540d10",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Amp puts AI agents to work beyond code with OpenAI models",
+  "summary": "该条目介绍工具 Amp 如何借助 OpenAI 模型拓展 AI 智能体的应用范围，使其工作不限于编写代码。",
+  "url": "https://openai.com/index/amp-beyond-coding",
+  "date": "2026-10-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-10-14T12:00:00+00:00",
+  "titleEn": "Amp puts AI agents to work beyond code with OpenAI models",
+  "titleZh": "Amp 借助 OpenAI 模型让 AI 智能体走出代码场景",
+  "details": {
+    "overview": "该条目介绍工具 Amp 如何借助 OpenAI 模型拓展 AI 智能体的应用范围，使其工作不限于编写代码。据摘要，涉及 GPT-6 Astra、Ultrafast、GPT-Live-1 以及 Sign in with ChatGPT。现有材料未说明具体使用场景、功能实现方式或效果数据，因此只能确认其主题与所涉模型和登录方式，实际能力与可用范围应以官方原文为准。",
+    "keyPoints": [
+      "Amp 借助 OpenAI 模型拓展智能体的非编码用途",
+      "涉及 GPT-6 Astra、Ultrafast 与 GPT-Live-1",
+      "还提到 Sign in with ChatGPT，具体用法未披露"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

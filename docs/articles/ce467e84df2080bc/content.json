@@ -1,0 +1,25 @@
+{
+  "id": "ce467e84df2080bc",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI co-founds Agentic AI Foundation, donates AGENTS.md",
+  "summary": "OpenAI 在 Linux 基金会下联合创立 Agentic AI Foundation，并捐赠 AGENTS.md，以支持安全智能体 AI 的开放、可互操作标准。",
+  "url": "https://openai.com/index/agentic-ai-foundation",
+  "date": "2025-12-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-09T09:00:00+00:00",
+  "titleEn": "OpenAI co-founds Agentic AI Foundation, donates AGENTS.md",
+  "titleZh": "OpenAI 联合创立 Agentic AI Foundation，捐赠 AGENTS.md",
+  "details": {
+    "overview": "OpenAI 在 Linux 基金会下联合创立 Agentic AI Foundation，并捐赠 AGENTS.md，以支持安全智能体 AI 的开放、可互操作标准。该发布未提供更多技术细节或实施范围。",
+    "keyPoints": [
+      "OpenAI 联合创立 Agentic AI Foundation，归属 Linux 基金会。",
+      "OpenAI 捐赠 AGENTS.md 以推动开放互操作标准。",
+      "目标是为安全智能体 AI 建立开放标准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

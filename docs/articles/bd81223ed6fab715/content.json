@@ -1,0 +1,25 @@
+{
+  "id": "bd81223ed6fab715",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Now everyone can put data to work",
+  "summary": "官方发布信息介绍 ChatGPT Work 中的 Data agent。",
+  "url": "https://openai.com/index/put-data-to-work",
+  "date": "2026-09-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-10T15:00:00+00:00",
+  "titleEn": "Now everyone can put data to work",
+  "titleZh": "现在人人都能让数据发挥作用",
+  "details": {
+    "overview": "官方发布信息介绍 ChatGPT Work 中的 Data agent。摘要表示，该功能可连接公司数据、发现洞察，并用自然语言借助 AI 构建交互式仪表板。原始材料仅给出这一句概述，未说明具体可用范围、数据连接方式或限制，相关细节需以官方原文为准。",
+    "keyPoints": [
+      "ChatGPT Work 推出 Data agent 功能。",
+      "可连接公司数据并发现洞察。",
+      "支持用自然语言构建交互式仪表板。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

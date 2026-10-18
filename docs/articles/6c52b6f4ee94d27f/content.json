@@ -1,0 +1,24 @@
+{
+  "id": "6c52b6f4ee94d27f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "The Future of AI Is Open and Proprietary",
+  "summary": "该文提出，AI正迅速成为核心业务基础设施，其发展由多样化的模型生态支撑：大模型与小模型、开放与专有、通用与专用并存。",
+  "url": "https://blogs.nvidia.com/blog/ai-future-open-and-proprietary/",
+  "date": "2026-03-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-03-25T19:00:04+00:00",
+  "titleEn": "The Future of AI Is Open and Proprietary",
+  "titleZh": "AI的未来是开放与专有并存",
+  "details": {
+    "overview": "该文提出，AI正迅速成为核心业务基础设施，其发展由多样化的模型生态支撑：大模型与小模型、开放与专有、通用与专用并存。作者认为这种多样性对未来的AI应用普及至关重要——每个应用都将由AI驱动，每个国家都将建设AI，每家公司都将使用AI。原文摘要在此处截断，未给出具体模型、政策主张或数据，相关判断属作者观点，具体内容以原文为准。",
+    "keyPoints": [
+      "作者认为AI正成为核心业务基础设施。",
+      "模型生态涵盖大小、开放与专有、通用与专用等多种类型。",
+      "作者称模型多样性对AI广泛应用至关重要。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

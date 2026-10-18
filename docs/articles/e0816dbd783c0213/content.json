@@ -1,0 +1,25 @@
+{
+  "id": "e0816dbd783c0213",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing group chats in ChatGPT",
+  "summary": "该发布宣布 ChatGPT 新增群聊功能，核心描述是让用户与他人以及 ChatGPT 在同一个对话中协作。",
+  "url": "https://openai.com/index/group-chats-in-chatgpt",
+  "date": "2025-11-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-13T00:00:00+00:00",
+  "titleEn": "Introducing group chats in ChatGPT",
+  "titleZh": "ChatGPT 推出群聊功能",
+  "details": {
+    "overview": "该发布宣布 ChatGPT 新增群聊功能，核心描述是让用户与他人以及 ChatGPT 在同一个对话中协作。提供的原文仅有这一句简介，未说明可用地区、账号类型、具体交互方式或推出时间等细节，因此无法进一步判断功能范围与限制。",
+    "keyPoints": [
+      "ChatGPT 新增群聊功能。",
+      "官方称用户可与他人及 ChatGPT 在同一对话中协作。",
+      "当前收录材料未提供可用范围、账号类型等细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5b29876c2b0d1a7b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
+  "summary": "NVIDIA与AWS合作，针对企业大规模部署AI系统时面临的低延迟推理、快速向量搜索、GPU性价比和可扩展基础设施等需求，在Amazon OpenSearch和Amazon EC2上提供NVIDIA AI基础设施，为企业提供更实用的部署路径。",
+  "url": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
+  "date": "2026-06-24",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-24T00:05:37+00:00",
+  "titleEn": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
+  "titleZh": "NVIDIA与AWS合作将AI大规模引入生产",
+  "details": {
+    "overview": "NVIDIA与AWS合作，针对企业大规模部署AI系统时面临的低延迟推理、快速向量搜索、GPU性价比和可扩展基础设施等需求，在Amazon OpenSearch和Amazon EC2上提供NVIDIA AI基础设施，为企业提供更实用的部署路径。原始材料未披露具体性能数据或价格信息。",
+    "keyPoints": [
+      "NVIDIA与AWS合作应对大规模AI部署的低延迟推理和向量搜索需求。",
+      "合作覆盖Amazon OpenSearch和Amazon EC2，提供NVIDIA AI基础设施。",
+      "旨在降低运维复杂度，为企业提供更实用的AI部署路径。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

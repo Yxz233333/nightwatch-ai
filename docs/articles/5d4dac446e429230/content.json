@@ -1,0 +1,23 @@
+{
+  "id": "5d4dac446e429230",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Edit memory settings for existing projects",
+  "summary": "该功能更新允许用户在项目创建后修改其记忆设置：打开项目，进入三点菜单的项目设置，在“记忆”下选择“默认记忆”或“仅项目记忆”。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#edit-memory-settings-for-existing-projects",
+  "date": "2026-08-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Edit memory settings for existing projects",
+  "titleZh": "为现有项目编辑记忆设置",
+  "details": {
+    "overview": "该功能更新允许用户在项目创建后修改其记忆设置：打开项目，进入三点菜单的项目设置，在“记忆”下选择“默认记忆”或“仅项目记忆”。选择仅项目记忆后，ChatGPT可用同一项目的对话作为上下文，但不引用项目外的记忆或对话，项目信息也不会进入项目外聊天所用记忆。更改可能需数小时生效，适用于所有ChatGPT套餐；共享项目仍固定为仅项目记忆，使用仅项目记忆的项目不支持ChatGPT Work。",
+    "keyPoints": [
+      "现有项目可在项目设置中切换默认记忆与仅项目记忆。",
+      "仅项目记忆隔离项目内外上下文，更改可能需数小时生效。",
+      "共享项目仍只能用仅项目记忆，且此类项目不支持ChatGPT Work。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

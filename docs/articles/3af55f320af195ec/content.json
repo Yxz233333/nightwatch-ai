@@ -1,0 +1,24 @@
+{
+  "id": "3af55f320af195ec",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
+  "summary": "在全国机器人周之际，NVIDIA 重点介绍将 AI 带入物理世界的相关突破，以及从农业、制造业到能源等领域日益增多的机器人应用。",
+  "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
+  "date": "2026-04-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-04-10T19:40:59+00:00",
+  "titleEn": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
+  "titleZh": "全国机器人周：最新物理 AI 研究、突破与资源",
+  "details": {
+    "overview": "在全国机器人周之际，NVIDIA 重点介绍将 AI 带入物理世界的相关突破，以及从农业、制造业到能源等领域日益增多的机器人应用。原文提到机器人学习、仿真与基础模型的进展正在加速开发，使机器人能够从虚拟环境中的训练走向实际应用。材料未展开具体研究成果与技术细节，相关范围与限制以官方原始发布为准。",
+    "keyPoints": [
+      "NVIDIA 在全国机器人周聚焦物理 AI 与机器人应用突破。",
+      "机器人应用覆盖农业、制造业、能源等行业。",
+      "机器人学习、仿真与基础模型进展加速开发进程。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "fff4cc19de71db04",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Lyria 3 Pro: Create longer tracks in more",
+  "summary": "该新闻称，Lyria 3 Pro支持生成更长且具备结构感知能力的曲目，并将Lyria引入更多Google产品和场景。",
+  "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+  "date": "2026-03-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-03-25T16:01:39+00:00",
+  "titleEn": "Lyria 3 Pro: Create longer tracks in more",
+  "titleZh": "Lyria 3 Pro：创作更长、更具结构感的曲目",
+  "details": {
+    "overview": "该新闻称，Lyria 3 Pro支持生成更长且具备结构感知能力的曲目，并将Lyria引入更多Google产品和场景。但提供的原文仅有一句概述，未说明曲目时长上限、结构感知的具体含义、可用产品列表或推出范围。因此无法评估其实际能力与限制。读者应以官方原始发布记录为准。",
+    "keyPoints": [
+      "Lyria 3 Pro声称可生成更长且具结构感知的曲目。",
+      "Lyria将被引入更多Google产品和场景。",
+      "材料未说明时长、结构细节或具体可用范围。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

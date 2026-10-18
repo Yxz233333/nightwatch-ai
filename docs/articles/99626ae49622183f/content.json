@@ -1,0 +1,25 @@
+{
+  "id": "99626ae49622183f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing Falcon ASR",
+  "summary": "现有材料仅包含标题“Introducing Falcon ASR”，未提供摘要或原始发布内容，无法确认其具体功能、支持语言、模型规格或推出范围。",
+  "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+  "date": "2026-10-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-10-07T13:21:03+00:00",
+  "titleEn": "Introducing Falcon ASR",
+  "titleZh": "推出 Falcon ASR",
+  "details": {
+    "overview": "现有材料仅包含标题“Introducing Falcon ASR”，未提供摘要或原始发布内容，无法确认其具体功能、支持语言、模型规格或推出范围。因此不对其性能与用途作进一步推断，相关信息需以官方原始发布为准。",
+    "keyPoints": [
+      "标题显示推出名为 Falcon ASR 的产品",
+      "材料未说明其功能与支持范围",
+      "具体规格需以官方原始发布为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

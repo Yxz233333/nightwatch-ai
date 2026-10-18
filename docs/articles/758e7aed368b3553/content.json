@@ -1,0 +1,25 @@
+{
+  "id": "758e7aed368b3553",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Netomi’s lessons for scaling agentic systems into the enterprise",
+  "summary": "该文介绍Netomi如何利用GPT-4.1和GPT-5.2扩展企业AI智能体，结合并发处理、治理和多步推理，以支撑可靠的生产工作流。",
+  "url": "https://openai.com/index/netomi",
+  "date": "2026-01-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-08T00:00:00+00:00",
+  "titleEn": "Netomi’s lessons for scaling agentic systems into the enterprise",
+  "titleZh": "Netomi将智能体系统扩展至企业级的经验",
+  "details": {
+    "overview": "该文介绍Netomi如何利用GPT-4.1和GPT-5.2扩展企业AI智能体，结合并发处理、治理和多步推理，以支撑可靠的生产工作流。原文摘要仅给出这一方向性描述，未披露具体客户、性能指标或部署规模。内容属于企业智能体落地经验分享，具体能力和限制需以官方原文为准。",
+    "keyPoints": [
+      "Netomi使用GPT-4.1和GPT-5.2扩展企业AI智能体。",
+      "方案结合并发、治理与多步推理以保障生产工作流可靠。",
+      "当前收录材料未提供具体客户、性能指标或部署规模。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "793e9bb176e71010",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT for Excel and Google Sheets",
+  "summary": "ChatGPT for Excel 和 Google Sheets 已在全球上线，以侧边栏形式嵌入 Microsoft Excel 和 Google Sheets，帮助用户就地构建、更新和理解表格。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-excel-and-google-sheets",
+  "date": "2026-05-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "ChatGPT for Excel and Google Sheets",
+  "titleZh": "面向 Excel 和 Google Sheets 的 ChatGPT",
+  "details": {
+    "overview": "ChatGPT for Excel 和 Google Sheets 已在全球上线，以侧边栏形式嵌入 Microsoft Excel 和 Google Sheets，帮助用户就地构建、更新和理解表格。官方称其可处理跟踪表、预算、公式、多标签文件、情景分析和表格清理，并在可用时支持 Skills 和应用。Free 和 Go 用户有有限用量，Plus 和 Pro 使用与 Codex 相同的智能体用量限制，可购买额外额度。官方提醒在使用公式或分析前核对输出。",
+    "keyPoints": [
+      "ChatGPT 以侧边栏形式进入 Excel 和 Google Sheets，已全球上线",
+      "可辅助公式、预算、多标签文件、情景分析与表格清理",
+      "Free 和 Go 限量使用，Plus 和 Pro 沿用 Codex 智能体用量限制",
+      "官方提醒在依赖公式或分析前核对输出"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

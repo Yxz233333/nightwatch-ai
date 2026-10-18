@@ -1,0 +1,23 @@
+{
+  "id": "e405196565246c40",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Improved plugin discovery on web and mobile",
+  "summary": "该官方更新说明称，ChatGPT 在网页端和移动端改进了插件推荐，排序会优先考虑用户安装后仍持续使用的插件，以便更相关的选项浮现。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-plugin-discovery-on-web-and-mobile",
+  "date": "2026-08-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Improved plugin discovery on web and mobile",
+  "titleZh": "网页端与移动端插件发现功能改进",
+  "details": {
+    "overview": "该官方更新说明称，ChatGPT 在网页端和移动端改进了插件推荐，排序会优先考虑用户安装后仍持续使用的插件，以便更相关的选项浮现。插件可用性取决于套餐、地区和 workspace 设置；本次更新不包含桌面端。原文未给出排序算法细节或效果数据。",
+    "keyPoints": [
+      "插件推荐排序优先考虑安装后仍被持续使用的插件",
+      "改进覆盖 ChatGPT 网页端和移动端，不含桌面端",
+      "插件可用性受套餐、地区和 workspace 设置影响"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

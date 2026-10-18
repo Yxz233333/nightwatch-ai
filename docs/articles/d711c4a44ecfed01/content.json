@@ -1,0 +1,25 @@
+{
+  "id": "d711c4a44ecfed01",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "AI literacy resources for teens and parents",
+  "summary": "OpenAI 发布新的 AI 素养资源，帮助青少年和家长审慎、安全、有信心地使用 ChatGPT。",
+  "url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
+  "date": "2025-12-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-18T11:00:00+00:00",
+  "titleEn": "AI literacy resources for teens and parents",
+  "titleZh": "面向青少年和家长的 AI 素养资源",
+  "details": {
+    "overview": "OpenAI 发布新的 AI 素养资源，帮助青少年和家长审慎、安全、有信心地使用 ChatGPT。指南包含经专家审阅的建议，涉及负责任使用、批判性思维、健康边界，以及如何支持青少年应对情绪或敏感话题。原文未说明资源的具体形式、篇幅或获取渠道细节。",
+    "keyPoints": [
+      "面向青少年和家长发布 AI 素养指南",
+      "内容含负责任使用、批判性思维与健康边界",
+      "包含支持青少年应对敏感话题的建议"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

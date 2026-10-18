@@ -1,0 +1,24 @@
+{
+  "id": "0f4268f445382c49",
+  "section": "news",
+  "category": "模型动态",
+  "title": "An update on our model deprecation commitments for Claude Opus 3",
+  "summary": "Anthropic 表示，Claude Opus 3 已于 2026 年 1 月 5 日正式退役，是首个走完完整退役流程的模型。",
+  "url": "https://www.anthropic.com/research/deprecation-updates-opus-3",
+  "date": "2026-02-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-02-25T20:02:00+00:00",
+  "titleEn": "An update on our model deprecation commitments for Claude Opus 3",
+  "titleZh": "关于 Claude Opus 3 模型退役承诺的更新",
+  "details": {
+    "overview": "Anthropic 表示，Claude Opus 3 已于 2026 年 1 月 5 日正式退役，是首个走完完整退役流程的模型。公司称基于退役访谈中模型表达的偏好，仍向所有 claude.ai 付费用户开放 Opus 3，并可按申请通过 API 使用；同时为其开设专栏，未来至少三个月每周发布由其撰写的文章，发布前经人工审核但不作编辑。Anthropic 强调这些属探索性举措，尚未承诺对所有模型采取同样做法，也未确定 AI 模型的道德地位。",
+    "keyPoints": [
+      "Claude Opus 3 于 2026 年 1 月 5 日退役，仍向付费用户开放并可按申请使用 API。",
+      "公司为其开设专栏，至少三个月每周发文，发布前审核但不编辑。",
+      "Anthropic 称此为探索性步骤，未承诺推广到所有模型。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

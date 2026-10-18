@@ -1,0 +1,24 @@
+{
+  "id": "9dc568373a610a0b",
+  "section": "news",
+  "category": "模型动态",
+  "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
+  "summary": "现有材料仅有标题，未提供正文，无法确认作者、发布方、具体论点与依据。",
+  "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
+  "date": "2026-02-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-02-03T15:03:19+00:00",
+  "titleEn": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
+  "titleZh": "全球开源 AI 生态的未来：从 DeepSeek 到 AI+",
+  "details": {
+    "overview": "现有材料仅有标题，未提供正文，无法确认作者、发布方、具体论点与依据。标题指向从 DeepSeek 到“AI+”的全球开源 AI 生态演进话题，但其中判断与结论均无法核实。以下要点仅据标题概括，信息不足。",
+    "keyPoints": [
+      "主题为全球开源 AI 生态的未来",
+      "标题以从 DeepSeek 到 AI+ 为线索"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

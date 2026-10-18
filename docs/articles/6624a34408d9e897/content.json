@@ -1,0 +1,25 @@
+{
+  "id": "6624a34408d9e897",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Gaia2 and ARE: Empowering the community to study agents",
+  "summary": "现有材料仅有标题“Gaia2 and ARE: Empowering the community to study agents”，缺少摘要与正文，无法确认 Gaia2 与 ARE 的具体定义、研究对象、发布形式或作者声称的结果。",
+  "url": "https://huggingface.co/blog/gaia2",
+  "date": "2025-09-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-09-22T00:00:00+00:00",
+  "titleEn": "Gaia2 and ARE: Empowering the community to study agents",
+  "titleZh": "Gaia2 与 ARE：赋能社区研究智能体",
+  "details": {
+    "overview": "现有材料仅有标题“Gaia2 and ARE: Empowering the community to study agents”，缺少摘要与正文，无法确认 Gaia2 与 ARE 的具体定义、研究对象、发布形式或作者声称的结果。因此不对其内容作进一步推断，建议以官方原始发布为准。",
+    "keyPoints": [
+      "标题指向 Gaia2 与 ARE 两项面向社区研究智能体的工作",
+      "材料未提供摘要与正文，具体内容不足",
+      "不对其结论与效果作推断"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

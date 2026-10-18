@@ -1,0 +1,25 @@
+{
+  "id": "64ba797e18e5bf35",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Operations workflows with ChatGPT Work",
+  "summary": "该内容介绍ChatGPT Work的实用工作流，用于创建倡议简报、战略更新、决策包和进度报告。",
+  "url": "https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex",
+  "date": "2026-05-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-15T00:00:00+00:00",
+  "titleEn": "Operations workflows with ChatGPT Work",
+  "titleZh": "使用ChatGPT Work的操作工作流",
+  "details": {
+    "overview": "该内容介绍ChatGPT Work的实用工作流，用于创建倡议简报、战略更新、决策包和进度报告。摘要未提供具体操作细节或案例，仅概述了应用场景，需参考原始发布获取完整信息。",
+    "keyPoints": [
+      "涵盖倡议简报和战略更新工作流",
+      "包括决策包和进度报告场景",
+      "旨在提升操作任务效率"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

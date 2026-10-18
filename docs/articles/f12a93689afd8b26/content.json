@@ -1,0 +1,25 @@
+{
+  "id": "f12a93689afd8b26",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+  "summary": "该新闻称在旧金山微软活动上，NVIDIA创始人兼CEO黄仁勋与微软CEO萨提亚·纳德拉介绍了双方如何协同设计软硬件，让AI代理在Windows PC上运行。",
+  "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+  "date": "2026-10-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-10-07T18:45:28+00:00",
+  "titleEn": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+  "titleZh": "NVIDIA与微软以RTX Spark和AI代理开启Windows PC新起点",
+  "details": {
+    "overview": "该新闻称在旧金山微软活动上，NVIDIA创始人兼CEO黄仁勋与微软CEO萨提亚·纳德拉介绍了双方如何协同设计软硬件，让AI代理在Windows PC上运行。黄仁勋表示NVIDIA因Windows而创立，如今AI代理正来到Windows。当前收录材料未提供具体产品规格、上市时间或性能数据。",
+    "keyPoints": [
+      "NVIDIA与微软协同设计软硬件以支持Windows PC上的AI代理。",
+      "黄仁勋称NVIDIA因Windows而创立，AI代理正进入Windows。",
+      "当前收录材料未提供具体产品规格或上市时间。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

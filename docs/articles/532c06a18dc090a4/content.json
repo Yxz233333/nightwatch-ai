@@ -1,0 +1,25 @@
+{
+  "id": "532c06a18dc090a4",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Simplex rethinks software development with Codex",
+  "summary": "这是一则客户案例类行业新闻。",
+  "url": "https://openai.com/index/simplex",
+  "date": "2026-05-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-07T00:00:00+00:00",
+  "titleEn": "Simplex rethinks software development with Codex",
+  "titleZh": "Simplex借助Codex重塑软件开发",
+  "details": {
+    "overview": "这是一则客户案例类行业新闻。官方摘要称，Simplex利用ChatGPT Enterprise和Codex提升软件开发效率，缩短设计、构建和测试环节的时间，并扩展AI驱动的工作流。当前收录材料未提供具体效率数据、团队规模或实施细节，相关结论来自官方发布记录，具体范围与限制需以原文为准。",
+    "keyPoints": [
+      "Simplex使用ChatGPT Enterprise和Codex支持软件开发",
+      "官方称其缩短了设计、构建与测试时间",
+      "案例称其扩展了AI驱动的工作流"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

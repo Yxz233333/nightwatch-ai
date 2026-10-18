@@ -1,0 +1,25 @@
+{
+  "id": "8b48459c0bbfe980",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Advancing Private AI Compute with secure, server-side memory",
+  "summary": "该官方发布信息介绍为个人 AI 的 Private AI Compute 引入私有的服务端内存。",
+  "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+  "date": "2026-09-24",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-09-23T16:00:57+00:00",
+  "titleEn": "Advancing Private AI Compute with secure, server-side memory",
+  "titleZh": "以安全的服务端内存推进私有 AI 计算",
+  "details": {
+    "overview": "该官方发布信息介绍为个人 AI 的 Private AI Compute 引入私有的服务端内存。原文仅有一句概述，未说明技术实现方式、可用范围、支持产品、时间表或安全机制的具体细节。可确认的是，发布方将“私有”和“服务端内存”作为该功能的表述重点，指向在服务端为个人 AI 提供内存能力的方向。由于材料有限，无法进一步判断其性能、隐私保障水平或适用条件，相关限制应以原文为准。",
+    "keyPoints": [
+      "为个人 AI 的 Private AI Compute 引入私有服务端内存。",
+      "当前收录材料未提供技术细节、支持范围与上线时间。",
+      "“私有”与“服务端内存”是此次发布的核心表述。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

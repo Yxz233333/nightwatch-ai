@@ -1,0 +1,24 @@
+{
+  "id": "a57f6b70ca56f436",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Building AI for cyber defenders",
+  "summary": "该官方发布称，AI 模型在网络安全任务中已具备实用价值。",
+  "url": "https://www.anthropic.com/research/building-ai-cyber-defenders",
+  "date": "2025-10-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-10-03T18:31:00+00:00",
+  "titleEn": "Building AI for cyber defenders",
+  "titleZh": "为网络防御者构建 AI",
+  "details": {
+    "overview": "该官方发布称，AI 模型在网络安全任务中已具备实用价值。团队投入研究提升 Claude 在代码与已部署系统中发现、分析并修复漏洞的能力，成果体现在 Claude Sonnet 4.5 上，其在发现代码漏洞等网络安全技能上可匹敌或超过两个月前发布的 Opus 4.1。文中还提到 DARPA AI Cyber Challenge 中团队用大模型查找并修补漏洞，以及 Safeguards 团队发现并阻断利用 Claude 的勒索与间谍活动，认为网络安全正处拐点。",
+    "keyPoints": [
+      "Sonnet 4.5 在发现代码漏洞等网络安全技能上可匹敌或超过 Opus 4.1",
+      "研究聚焦防御性任务：发现漏洞、修补漏洞、测试模拟基础设施",
+      "Safeguards 团队称发现并阻断利用 Claude 的勒索与间谍活动"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

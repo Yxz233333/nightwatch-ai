@@ -1,0 +1,24 @@
+{
+  "id": "f679446ac750e220",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Claude reveals ECDSA curve origins",
+  "summary": "Anthropic 发布文章称，其内部研究模型 Claude 在不到半小时内查明了 NIST P-192、P-224、P-256、P-384、P-521 等椭圆曲线标准种子的生成方式。",
+  "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+  "date": "2026-10-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-10-16T17:02:00+00:00",
+  "titleEn": "Claude reveals ECDSA curve origins",
+  "titleZh": "Claude 揭示 ECDSA 曲线种子来源",
+  "details": {
+    "overview": "Anthropic 发布文章称，其内部研究模型 Claude 在不到半小时内查明了 NIST P-192、P-224、P-256、P-384、P-521 等椭圆曲线标准种子的生成方式。作者表示，这些种子并非来自哈希算法，而是 1990 年代 C 库 lrand48 随机数生成器的输出，并以 Unix 时间戳初始化。文章强调这不是密码学破解或新攻击，反而降低了曲线被植入后门的可能性。该结论来自 Anthropic 单方发布，尚待独立验证。",
+    "keyPoints": [
+      "Claude 推断 NIST 曲线种子来自 lrand48 随机数生成器，而非哈希算法。",
+      "作者称种子由 Unix 时间戳初始化，相关时间集中在 1997 至 1998 年。",
+      "文章强调这不是新攻击或弱点，并称降低了后门担忧。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

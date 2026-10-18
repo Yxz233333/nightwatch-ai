@@ -1,0 +1,24 @@
+{
+  "id": "7c19c090f0271020",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+  "summary": "2026年5月25日，教皇利奥十四世发布关于人工智能的通谕《Magnifica humanitas》。",
+  "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+  "date": "2026-05-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-05-25T17:10:00+00:00",
+  "titleEn": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+  "titleZh": "Anthropic 联合创始人 Chris Olah 就教皇利奥十四世通谕《Magnifica humanitas》的发言",
+  "details": {
+    "overview": "2026年5月25日，教皇利奥十四世发布关于人工智能的通谕《Magnifica humanitas》。Anthropic 联合创始人 Chris Olah 受邀在梵蒂冈的介绍活动上发言，全文收录于此。他表示前沿 AI 实验室受商业、地缘政治及自尊等激励约束影响，需要外部批评者；并提出三项议题：对全球贫困者的责任、关于人类繁荣的道德想象，以及对 AI 模型本质的辨别。他还称研究团队在模型内部发现类神经科学结构、内省迹象及功能性情绪状态，但未说明其含义。",
+    "keyPoints": [
+      "Olah 称 AI 实验室受商业与地缘政治等激励约束，需外部批评者。",
+      "他提出全球贫困、人类繁荣与模型本质三项需教会发声的议题。",
+      "他称在模型内部发现内省迹象与功能性情绪状态，含义不明。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

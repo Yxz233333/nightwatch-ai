@@ -1,0 +1,25 @@
+{
+  "id": "997230372f4c1eb2",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Newer Models, Same Advantage",
+  "summary": "原始发布内容仅有标题“更新的模型，同样的优势”，未提供摘要或正文，无法确认涉及的具体模型、对比对象与结论依据。",
+  "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+  "date": "2026-07-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-07-16T11:49:48+00:00",
+  "titleEn": "Newer Models, Same Advantage",
+  "titleZh": "更新的模型，同样的优势",
+  "details": {
+    "overview": "原始发布内容仅有标题“更新的模型，同样的优势”，未提供摘要或正文，无法确认涉及的具体模型、对比对象与结论依据。因此不对其主张作任何推断，具体内容需以官方原文为准。",
+    "keyPoints": [
+      "原文仅提供标题，无摘要与正文。",
+      "无法确认涉及的具体模型与对比对象。",
+      "相关主张需以官方原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

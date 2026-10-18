@@ -1,0 +1,25 @@
+{
+  "id": "5a4d166f64d3fe7e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+  "summary": "该发布介绍Australian Payments Plus使用ChatGPT Enterprise和Codex应对支付业务复杂性，称其节省时间、提升质量，并保持人工判断在流程中的核心地位。",
+  "url": "https://openai.com/index/australian-payments-plus",
+  "date": "2026-07-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-07T00:00:00+00:00",
+  "titleEn": "Australian Payments Plus moves faster with ChatGPT and Codex",
+  "titleZh": "Australian Payments Plus借助ChatGPT与Codex加快支付业务处理",
+  "details": {
+    "overview": "该发布介绍Australian Payments Plus使用ChatGPT Enterprise和Codex应对支付业务复杂性，称其节省时间、提升质量，并保持人工判断在流程中的核心地位。原文仅为概述，未披露具体用例、量化收益或部署范围，因此相关效果应视为该机构的官方说法。",
+    "keyPoints": [
+      "AP+使用ChatGPT Enterprise和Codex处理支付业务复杂性",
+      "官方称其节省时间并提升质量",
+      "强调人工判断仍处于核心位置"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

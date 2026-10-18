@@ -1,0 +1,24 @@
+{
+  "id": "4b7366f835bcdcc0",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Into the Omniverse: OpenUSD and NVIDIA Halos Accelerate Safety for Robotaxis, Physical AI Systems",
+  "summary": "该发布指出，物理 AI 正从研究实验室走向现实世界，驱动智能机器人与自动驾驶车辆（如 Robotaxi），这些系统需要在不可预测条件下可靠地感知、推理和行动。",
+  "url": "https://blogs.nvidia.com/blog/openusd-halos-safety-robotaxi-physical-ai/",
+  "date": "2025-12-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-12-17T17:00:49+00:00",
+  "titleEn": "Into the Omniverse: OpenUSD and NVIDIA Halos Accelerate Safety for Robotaxis, Physical AI Systems",
+  "titleZh": "走进 Omniverse：OpenUSD 与 NVIDIA Halos 加速 Robotaxi 及物理 AI 系统安全",
+  "details": {
+    "overview": "该发布指出，物理 AI 正从研究实验室走向现实世界，驱动智能机器人与自动驾驶车辆（如 Robotaxi），这些系统需要在不可预测条件下可靠地感知、推理和行动。标题提到 OpenUSD 与 NVIDIA Halos 用于加速相关安全。原文未给出具体技术方案、测试结果或安全认证信息，相关能力需以原文为准。",
+    "keyPoints": [
+      "物理 AI 正从实验室走向真实场景",
+      "对象包括智能机器人与 Robotaxi",
+      "标题称 OpenUSD 与 Halos 加速安全"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

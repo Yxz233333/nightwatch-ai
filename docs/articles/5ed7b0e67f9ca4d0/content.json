@@ -1,0 +1,24 @@
+{
+  "id": "5ed7b0e67f9ca4d0",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models",
+  "summary": "现有材料仅有标题，无摘要与原始发布正文，无法确认具体方法细节、实验设置或作者声称的加速效果。",
+  "url": "https://huggingface.co/blog/intel-qwen3-agent",
+  "date": "2025-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-09-29T00:00:00+00:00",
+  "titleEn": "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models",
+  "titleZh": "在英特尔酷睿Ultra上以深度剪枝草稿模型加速Qwen3-8B智能体",
+  "details": {
+    "overview": "现有材料仅有标题，无摘要与原始发布正文，无法确认具体方法细节、实验设置或作者声称的加速效果。标题指向在英特尔酷睿Ultra平台上，利用深度剪枝的草稿模型加速Qwen3-8B智能体，但信息不足，需以原文为准。",
+    "keyPoints": [
+      "标题涉及在英特尔酷睿Ultra上加速Qwen3-8B智能体。",
+      "方法指向使用深度剪枝的草稿模型，具体细节缺失。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

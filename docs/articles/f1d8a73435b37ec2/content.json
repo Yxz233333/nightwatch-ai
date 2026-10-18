@@ -1,0 +1,24 @@
+{
+  "id": "f1d8a73435b37ec2",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "What do you want from AI?",
+  "summary": "Anthropic 表示将借助 Anthropic Interviewer 开展一项新研究，收集人们与 AI 相处的经历及对 AI 的期待。",
+  "url": "https://www.anthropic.com/research/your-thoughts-on-ai",
+  "date": "2026-09-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-09-29T16:39:00+00:00",
+  "titleEn": "What do you want from AI?",
+  "titleZh": "你想从 AI 得到什么？",
+  "details": {
+    "overview": "Anthropic 表示将借助 Anthropic Interviewer 开展一项新研究，收集人们与 AI 相处的经历及对 AI 的期待。参与者可自行决定是否公开完整访谈，公开后任何人都能阅读。Anthropic 称此举意在让公众声音参与 AI 收益与风险的权衡，而非仅由 AI 公司决定。原文还详细说明了公开访谈的隐私风险、不可完全撤回以及研究时间范围等信息。",
+    "keyPoints": [
+      "研究通过 Anthropic Interviewer 访谈用户，询问其与 AI 的经历和对 AI 公司的期待。",
+      "参与者可选择公开完整访谈，公开后任何人可阅读、保存和使用。",
+      "Anthropic 提示公开访谈可能被重新识别身份，且已保存内容无法删除。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

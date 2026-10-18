@@ -1,0 +1,24 @@
+{
+  "id": "4b61e26d00831059",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand",
+  "summary": "据NVIDIA官方发布信息，NVIDIA AI Cloud生态正在加速全球AI工厂基础设施建设，合作伙伴正扩大容量，以满足企业、初创公司、国家、AI实验室和开发者扩展代理式AI应用的需求。",
+  "url": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/",
+  "date": "2026-06-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-01T05:00:56+00:00",
+  "titleEn": "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand",
+  "titleZh": "NVIDIA AI云生态全球扩展以应对AI算力需求",
+  "details": {
+    "overview": "据NVIDIA官方发布信息，NVIDIA AI Cloud生态正在加速全球AI工厂基础设施建设，合作伙伴正扩大容量，以满足企业、初创公司、国家、AI实验室和开发者扩展代理式AI应用的需求。官方称NVIDIA AI Clouds是专为AI构建的云生态，服务于当前热门AI应用背后的token需求增长。当前收录材料未提供具体合作伙伴、容量数字或区域清单，相关范围以原始发布为准。",
+    "keyPoints": [
+      "NVIDIA AI Cloud生态正加速全球AI工厂基础设施建设。",
+      "合作伙伴扩大容量，服务企业、初创、国家、AI实验室和开发者。",
+      "官方称该生态面向代理式AI应用带来的token需求增长。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2d06e85c16c1b227",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Nemotron Labs: How Onboarding Teams of Specialized AI Agents Drives Productivity and Revenue for Businesses",
+  "summary": "该文属于Nemotron Labs博客系列，介绍开放模型、数据集与训练技术如何帮助企业在NVIDIA平台上构建专业化AI系统与应用。",
+  "url": "https://blogs.nvidia.com/blog/onboarding-teams-ai-agents-productivity-revenue-businesses/",
+  "date": "2025-09-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-09-19T15:00:39+00:00",
+  "titleEn": "Nemotron Labs: How Onboarding Teams of Specialized AI Agents Drives Productivity and Revenue for Businesses",
+  "titleZh": "Nemotron Labs：引入专业化AI智能体团队如何提升企业生产力与营收",
+  "details": {
+    "overview": "该文属于Nemotron Labs博客系列，介绍开放模型、数据集与训练技术如何帮助企业在NVIDIA平台上构建专业化AI系统与应用。原文摘要提到，每篇文章聚焦用开放技术栈在生产环境中交付实际价值的实践方式，例如透明的科研助手等。材料未给出具体企业案例、量化收益或验证细节，因此关于“提升生产力与营收”的具体机制与数据尚不明确。",
+    "keyPoints": [
+      "系列聚焦开放模型、数据集与训练技术在企业AI系统中的应用。",
+      "强调用开放技术栈在生产环境中交付实际价值。",
+      "当前收录材料未提供具体收益数据或独立验证细节。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "c4743d2763764017",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "More Than Meets the Eye: NVIDIA RTX-Accelerated Computers Now Connect Directly to Apple Vision Pro",
+  "summary": "该官方发布称，NVIDIA与Apple合作将NVIDIA CloudXR 6.0原生集成到visionOS，从而把由NVIDIA RTX驱动的仿真器和专业3D图形应用安全地传输到Apple Vision Pro。",
+  "url": "https://blogs.nvidia.com/blog/nvidia-cloudxr-apple-vision-pro/",
+  "date": "2026-03-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-03-17T17:00:58+00:00",
+  "titleEn": "More Than Meets the Eye: NVIDIA RTX-Accelerated Computers Now Connect Directly to Apple Vision Pro",
+  "titleZh": "不止所见：NVIDIA RTX加速计算机现可直接连接Apple Vision Pro",
+  "details": {
+    "overview": "该官方发布称，NVIDIA与Apple合作将NVIDIA CloudXR 6.0原生集成到visionOS，从而把由NVIDIA RTX驱动的仿真器和专业3D图形应用安全地传输到Apple Vision Pro。原文举例提到Innoactive XR串流方案上的Autodesk VRED沉浸式应用。材料未说明可用地区、硬件要求或性能表现，实际体验与限制需以原文为准。其意义在于把RTX级图形工作负载与头显端连接起来。",
+    "keyPoints": [
+      "CloudXR 6.0原生集成到visionOS，面向Apple Vision Pro。",
+      "可串流RTX驱动的仿真器与专业3D图形应用。",
+      "原文举例为Innoactive方案上的Autodesk VRED沉浸式应用。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

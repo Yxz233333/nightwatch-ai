@@ -1,0 +1,25 @@
+{
+  "id": "d9d27b702910d9c6",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Ensuring AI use in education leads to opportunity",
+  "summary": "OpenAI分享新工具、认证和测量资源，旨在帮助中小学和大学缩小AI能力差距并扩大机会。",
+  "url": "https://openai.com/index/ai-education-opportunity",
+  "date": "2026-03-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-05T09:00:00+00:00",
+  "titleEn": "Ensuring AI use in education leads to opportunity",
+  "titleZh": "确保教育中的AI使用带来机会",
+  "details": {
+    "overview": "OpenAI分享新工具、认证和测量资源，旨在帮助中小学和大学缩小AI能力差距并扩大机会。摘要未说明工具具体功能、认证类型或测量指标，需以原文为准。",
+    "keyPoints": [
+      "面向学校和大学提供新工具与认证资源。",
+      "强调测量资源以帮助缩小AI能力差距。",
+      "具体工具内容与适用范围以官方原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

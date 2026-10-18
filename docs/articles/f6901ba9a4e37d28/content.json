@@ -1,0 +1,25 @@
+{
+  "id": "f6901ba9a4e37d28",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Our response to the TanStack npm supply chain attack",
+  "summary": "OpenAI说明其对TanStack“Mini Shai-Hulud”供应链攻击的应对，概述为保护系统和签名证书所采取的措施，并解释macOS用户为何需在2026年6月12日前更新OpenAI应用。",
+  "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+  "date": "2026-05-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-13T00:00:00+00:00",
+  "titleEn": "Our response to the TanStack npm supply chain attack",
+  "titleZh": "我们对TanStack npm供应链攻击的回应",
+  "details": {
+    "overview": "OpenAI说明其对TanStack“Mini Shai-Hulud”供应链攻击的应对，概述为保护系统和签名证书所采取的措施，并解释macOS用户为何需在2026年6月12日前更新OpenAI应用。原文摘要提及介绍事件经过、受影响范围以及OpenAI如何加强对不断演变的软件供应链威胁的防御，但未给出具体技术细节。",
+    "keyPoints": [
+      "回应TanStack“Mini Shai-Hulud”供应链攻击",
+      "说明为保护系统和签名证书采取的措施",
+      "要求macOS用户在2026年6月12日前更新应用"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

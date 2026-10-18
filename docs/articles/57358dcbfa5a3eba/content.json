@@ -1,0 +1,23 @@
+{
+  "id": "57358dcbfa5a3eba",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Create and collaborate on Pages",
+  "summary": "官方发布介绍，用户可把对话转为 Page，也可从模板开始或直接在 Space 中写作。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-collaborate-on-pages",
+  "date": "2026-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Create and collaborate on Pages",
+  "titleZh": "创建并协作编辑 Pages",
+  "details": {
+    "overview": "官方发布介绍，用户可把对话转为 Page，也可从模板开始或直接在 Space 中写作。文本可自行编辑，或让 ChatGPT 修改、添加图表、生成交互内容。协作者能在同一 Page 上工作并留言，各自使用自己的 ChatGPT。Pages 沿用 Space 的可用性与分享设置；分享 Page 不会让他人访问你的私人对话或记忆，但添加到 Page 的信息对可查看者可见。",
+    "keyPoints": [
+      "支持把对话转为 Page、使用模板或直接在 Space 中写作。",
+      "可让 ChatGPT 修改文本、添加图表或创建交互内容。",
+      "分享 Page 不开放私人对话或记忆，但 Page 内容对查看者可见。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "efe0d2f46749fd91",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.101.0 发布",
+  "summary": "Codex CLI 发布 0.101.0 版本，主要修复模型解析、记忆输入和并发问题。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.101.0",
+  "date": "2026-02-13",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-02-12T20:05:52+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.101.0 发布",
+  "titleZh": "Codex CLI 0.101.0 发布",
+  "details": {
+    "overview": "Codex CLI 发布 0.101.0 版本，主要修复模型解析、记忆输入和并发问题。模型解析在按前缀选择时保留请求的模型 slug，避免引用被重写；第一阶段记忆输入排除开发者消息，减少噪声内容；降低记忆阶段处理并发以提升负载下的稳定性。此外清理简化了第一阶段记忆流水线代码，并更新远程模型测试的格式与测试套件卫生。",
+    "keyPoints": [
+      "模型解析按前缀选择时保留请求的模型 slug，使模型引用保持稳定。",
+      "第一阶段记忆输入排除开发者消息，减少噪声或不相关内容进入记忆。",
+      "降低记忆阶段处理并发，使整合/暂存在高负载下更稳定。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

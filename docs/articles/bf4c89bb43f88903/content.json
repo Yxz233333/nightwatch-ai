@@ -1,0 +1,25 @@
+{
+  "id": "bf4c89bb43f88903",
+  "section": "news",
+  "category": "工具动态",
+  "title": "How Higgsfield turns simple ideas into cinematic social videos",
+  "summary": "该新闻介绍Higgsfield平台利用OpenAI的GPT-4.1、GPT-5和Sora 2模型，让创作者从简单输入生成具有电影质感、适合社交媒体的视频。",
+  "url": "https://openai.com/index/higgsfield",
+  "date": "2026-01-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-21T10:00:00+00:00",
+  "titleEn": "How Higgsfield turns simple ideas into cinematic social videos",
+  "titleZh": "Higgsfield如何将简单创意转化为电影级社交视频",
+  "details": {
+    "overview": "该新闻介绍Higgsfield平台利用OpenAI的GPT-4.1、GPT-5和Sora 2模型，让创作者从简单输入生成具有电影质感、适合社交媒体的视频。原文仅提及技术组合与输出效果，未披露具体功能细节、使用限制或独立验证结果。",
+    "keyPoints": [
+      "Higgsfield借助GPT-4.1、GPT-5和Sora 2实现视频生成。",
+      "目标是将简单输入转化为电影级社交视频。",
+      "原文未说明具体推出范围与限制。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

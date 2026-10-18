@@ -1,0 +1,25 @@
+{
+  "id": "1c925470767757ea",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+  "summary": "据官方发布记录，Stampli 在截止日期固定、设计资源已被其他项目占用的情况下，使用 Codex 和 ChatGPT Work 将原本需要数周的发布物料制作压缩到数天完成，标题称发布耗时减少 68%。",
+  "url": "https://openai.com/index/stampli",
+  "date": "2026-08-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-20T00:00:00+00:00",
+  "titleEn": "Stampli cuts launch hours by 68% using ChatGPT Work",
+  "titleZh": "Stampli 借助 ChatGPT Work 将发布耗时缩短 68%",
+  "details": {
+    "overview": "据官方发布记录，Stampli 在截止日期固定、设计资源已被其他项目占用的情况下，使用 Codex 和 ChatGPT Work 将原本需要数周的发布物料制作压缩到数天完成，标题称发布耗时减少 68%。原文未说明具体衡量口径、样本范围或验证方式，因此该数字应视为发布方自述的使用效果，而非独立验证的结论。",
+    "keyPoints": [
+      "Stampli 面临固定截止日期且设计资源被占用。",
+      "借助 Codex 与 ChatGPT Work 把数周发布制作压缩到数天。",
+      "68% 的降幅为发布方自述，原文未给出测算细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

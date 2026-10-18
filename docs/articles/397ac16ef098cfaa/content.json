@@ -1,0 +1,25 @@
+{
+  "id": "397ac16ef098cfaa",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "New insights from Google’s AI & Economy ATLAS",
+  "summary": "该官方发布记录表示，已将 ATLAS 的数百万个全球数据点转化为可交互、开放访问的体验。",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+  "date": "2026-09-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google AI 官方博客",
+  "publishedAt": "2026-09-15T13:00:00+00:00",
+  "titleEn": "New insights from Google’s AI & Economy ATLAS",
+  "titleZh": "Google AI 与经济 ATLAS 的新洞察",
+  "details": {
+    "overview": "该官方发布记录表示，已将 ATLAS 的数百万个全球数据点转化为可交互、开放访问的体验。材料未说明 ATLAS 的具体指标口径、数据来源、覆盖范围或由此得出的经济结论，因此只能确认其成果形式为开放访问的交互式数据体验，具体洞察内容需以原文为准。",
+    "keyPoints": [
+      "将 ATLAS 数百万全球数据点转为交互式开放访问体验",
+      "材料未说明数据口径、来源与覆盖范围",
+      "具体经济洞察结论未在材料中给出"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

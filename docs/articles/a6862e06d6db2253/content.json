@@ -1,0 +1,24 @@
+{
+  "id": "a6862e06d6db2253",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Open Secret: How NVIDIA Nemotron Models, Datasets and Techniques Fuel AI Development",
+  "summary": "该文介绍NVIDIA Nemotron系列多模态AI模型、数据集和技术以开放形式提供给开发者和企业采用、修改和创新。",
+  "url": "https://blogs.nvidia.com/blog/nemotron-open-source-ai/",
+  "date": "2025-09-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-09-24T21:45:24+00:00",
+  "titleEn": "Open Secret: How NVIDIA Nemotron Models, Datasets and Techniques Fuel AI Development",
+  "titleZh": "公开的秘密：NVIDIA Nemotron模型、数据集和技术如何推动AI发展",
+  "details": {
+    "overview": "该文介绍NVIDIA Nemotron系列多模态AI模型、数据集和技术以开放形式提供给开发者和企业采用、修改和创新。原文将开放技术视为重大技术变革的一部分，并说明Nemotron家族旨在推动AI发展。但原始发布内容不完整，未提供模型具体能力、数据集规模或技术细节。",
+    "keyPoints": [
+      "Nemotron系列包括多模态AI模型、数据集和技术",
+      "以开放形式供开发者和企业采用与修改",
+      "原文内容不完整，未披露具体技术细节"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

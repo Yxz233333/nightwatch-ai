@@ -1,0 +1,24 @@
+{
+  "id": "a21fb983c048fa6d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Research Advances Robotics From Simulation to the Real World",
+  "summary": "据官方发布记录，该文指出机器人正从受控演示和脚本化自动化，转向真实世界中可泛化、可靠的具身自主。",
+  "url": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
+  "date": "2026-05-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-05-28T13:00:51+00:00",
+  "titleEn": "NVIDIA Research Advances Robotics From Simulation to the Real World",
+  "titleZh": "NVIDIA Research推动机器人从仿真走向真实世界",
+  "details": {
+    "overview": "据官方发布记录，该文指出机器人正从受控演示和脚本化自动化，转向真实世界中可泛化、可靠的具身自主。在ICRA上，NVIDIA Research的28篇被接收论文中有8篇展示仿真到真实的迁移正成为这一转变的基础，帮助机器人感知、推理、规划等。原文摘要在此处截断，未给出具体方法与验证结果。",
+    "keyPoints": [
+      "机器人正从受控演示转向真实世界具身自主",
+      "ICRA接收的28篇论文中有8篇聚焦仿真到真实迁移",
+      "原文称该迁移帮助机器人感知、推理与规划"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

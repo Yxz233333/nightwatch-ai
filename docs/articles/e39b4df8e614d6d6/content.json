@@ -1,0 +1,25 @@
+{
+  "id": "e39b4df8e614d6d6",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Circles powers telco personalization with OpenAI technology",
+  "summary": "该发布称 Circles 使用 OpenAI API 与 Codex 构建 AI 原生电信体验。",
+  "url": "https://openai.com/index/circles",
+  "date": "2026-08-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-03T00:00:00+00:00",
+  "titleEn": "Circles powers telco personalization with OpenAI technology",
+  "titleZh": "Circles 借助 OpenAI 技术实现电信个性化",
+  "details": {
+    "overview": "该发布称 Circles 使用 OpenAI API 与 Codex 构建 AI 原生电信体验。原文给出的数据包括每用户平均收入提升 22%、流失率降低 9%，并称开发效率有所改善。材料未说明统计口径、对比基线与验证方式，相关数字应视为发布方说法，具体范围与限制以原文为准。",
+    "keyPoints": [
+      "Circles 使用 OpenAI API 与 Codex 构建电信体验",
+      "发布称 ARPU 提升 22%、流失率降低 9%",
+      "发布称开发效率得到改善"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

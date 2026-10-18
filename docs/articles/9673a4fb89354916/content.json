@@ -1,0 +1,25 @@
+{
+  "id": "9673a4fb89354916",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Codex became a collaborator for OpenAI’s creative team",
+  "summary": "该文介绍 OpenAI 创意团队如何使用 Codex 构建自定义创意工具、加快构思，并借助具备上下文感知能力的 AI 更快完成原型制作。",
+  "url": "https://openai.com/index/codex-collaborator-creative-team",
+  "date": "2026-07-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-16T07:00:00+00:00",
+  "titleEn": "How Codex became a collaborator for OpenAI’s creative team",
+  "titleZh": "Codex 如何成为 OpenAI 创意团队的协作者",
+  "details": {
+    "overview": "该文介绍 OpenAI 创意团队如何使用 Codex 构建自定义创意工具、加快构思，并借助具备上下文感知能力的 AI 更快完成原型制作。原始摘要仅概述用途，未给出具体工具名称、效率数据或使用限制，相关细节需以官方原文为准。",
+    "keyPoints": [
+      "OpenAI 创意团队用 Codex 构建自定义创意工具。",
+      "Codex 用于加快构思与原型制作。",
+      "当前收录材料未提供具体效率数据与限制。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

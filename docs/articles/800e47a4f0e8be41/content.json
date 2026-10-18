@@ -1,0 +1,25 @@
+{
+  "id": "800e47a4f0e8be41",
+  "section": "news",
+  "category": "模型动态",
+  "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+  "summary": "该条目介绍 GPT-5.5 Instant 对 ChatGPT 默认模型的更新，官方称其回答更聪明、更准确，减少幻觉，并改进个性化控制。",
+  "url": "https://openai.com/index/gpt-5-5-instant",
+  "date": "2026-05-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-05T10:00:00+00:00",
+  "titleEn": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+  "titleZh": "GPT-5.5 Instant：更聪明、更清晰、更个性化",
+  "details": {
+    "overview": "该条目介绍 GPT-5.5 Instant 对 ChatGPT 默认模型的更新，官方称其回答更聪明、更准确，减少幻觉，并改进个性化控制。原文摘要未提供评测数据、对比基准或具体控制项细节，因此相关改进属于官方表述，实际效果与适用范围以原始发布为准。",
+    "keyPoints": [
+      "GPT-5.5 Instant 更新 ChatGPT 默认模型",
+      "官方称回答更准确并减少幻觉",
+      "更新包含改进的个性化控制"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

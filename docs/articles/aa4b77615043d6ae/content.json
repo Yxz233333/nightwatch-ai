@@ -1,0 +1,23 @@
+{
+  "id": "aa4b77615043d6ae",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Explore your health data with personalized summaries",
+  "summary": "官方发布说明称，用户现在可以在 Health 标签页中选择图表、指标或记录，基于已连接的健康信息获得个性化解释与洞察。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#explore-your-health-data-with-personalized-summaries",
+  "date": "2026-09-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Explore your health data with personalized summaries",
+  "titleZh": "用个性化摘要探索你的健康数据",
+  "details": {
+    "overview": "官方发布说明称，用户现在可以在 Health 标签页中选择图表、指标或记录，基于已连接的健康信息获得个性化解释与洞察。原文未说明支持哪些地区、设备或健康数据类型，也未披露摘要生成的技术细节与准确性验证情况。该功能体现 ChatGPT 健康数据功能的交互扩展，具体可用范围需查阅官方 Health 文档。",
+    "keyPoints": [
+      "可在 Health 标签页选择图表、指标或记录。",
+      "系统基于已连接健康信息生成个性化解释与洞察。",
+      "原文未说明支持范围与准确性验证细节。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

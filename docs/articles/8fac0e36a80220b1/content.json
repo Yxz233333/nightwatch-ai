@@ -13,7 +13,7 @@
   "titleEn": "Abelian covers, Gale correspondences, and the Hodge conjecture for powers",
   "titleZh": "阿贝尔覆盖、Gale对应与幂的Hodge猜想",
   "details": {
-    "overview": "稿件研究若干族代数簇自幂上的有理Hodge猜想。作者声称，在曲线的连通阿贝尔覆盖的全标记变形的每个张量Hodge-generic点处，其Jacobian的每个自幂上有理Hodge猜想成立，适用于任意基亏格与相容分支模式。对任意CM阿贝尔簇，作者还声称其与上述Jacobian乘积的每个自幂在同一Hodge-generic轨迹上成立。此外，对由至多两个同次方程切出的对角完全交的光滑标记族的一般成员，其每个自幂上猜想亦成立。摘要未给出证明细节。",
+    "overview": "稿件研究若干族代数簇自幂上的有理Hodge猜想。作者声称，在曲线的连通阿贝尔覆盖的全标记变形的每个张量Hodge-generic点处，其Jacobian的每个自幂上有理Hodge猜想成立，适用于任意基亏格与相容分支模式。对任意CM阿贝尔簇，作者还声称其与上述Jacobian乘积的每个自幂在同一Hodge-generic轨迹上成立。此外，对由至多两个同次方程切出的对角完全交的光滑标记族的一般成员，其每个自幂上猜想亦成立。当前收录摘要未给出证明细节。",
     "keyPoints": [
       "作者声称阿贝尔覆盖Jacobian自幂在张量Hodge-generic点处满足有理Hodge猜想。",
       "对CM阿贝尔簇与Jacobian乘积的自幂，同一轨迹上结论亦成立。",

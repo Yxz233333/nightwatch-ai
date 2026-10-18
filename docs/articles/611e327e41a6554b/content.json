@@ -1,0 +1,24 @@
+{
+  "id": "611e327e41a6554b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "‘Safety First, Always,’ NVIDIA VP of Automotive Says, Unveiling the Future of AI-Defined Vehicles at IAA Mobility",
+  "summary": "在慕尼黑 IAA Mobility 大会上，英伟达汽车业务副总裁 Ali Kani 介绍了从云端到车端的 AI 平台如何提升安全性、智能化水平。",
+  "url": "https://blogs.nvidia.com/blog/iaa-mobility-ai-defined-vehicles/",
+  "date": "2025-09-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-09-09T16:00:22+00:00",
+  "titleEn": "‘Safety First, Always,’ NVIDIA VP of Automotive Says, Unveiling the Future of AI-Defined Vehicles at IAA Mobility",
+  "titleZh": "英伟达汽车业务副总裁谈“安全第一”，在 IAA Mobility 展示 AI 定义汽车的未来",
+  "details": {
+    "overview": "在慕尼黑 IAA Mobility 大会上，英伟达汽车业务副总裁 Ali Kani 介绍了从云端到车端的 AI 平台如何提升安全性、智能化水平。原文编辑注说明，NVIDIA DRIVE Hyperion 已于 2026 年 9 月更名为 NVIDIA Hyperion，博客中相关名称已更新。摘要仅给出演讲主旨，未披露具体产品规格、合作车型或落地时间，相关细节需以官方原文为准。",
+    "keyPoints": [
+      "英伟达汽车业务副总裁 Ali Kani 在慕尼黑 IAA Mobility 发表演讲",
+      "主题为云端到车端 AI 平台带来的安全与智能化提升",
+      "NVIDIA DRIVE Hyperion 已更名为 NVIDIA Hyperion"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "c646abc4d19cf9df",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT for Academic Researchers",
+  "summary": "该公告介绍面向高校教职与博士后研究人员的 ChatGPT 学术计划：申请者可获 12 个月免费使用专属 ChatGPT 工作区，每个工作区最多五名成员，含商业数据保护与 ChatGPT Pro 级用量上限。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-for-academic-researchers",
+  "date": "2026-07-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "ChatGPT for Academic Researchers",
+  "titleZh": "面向学术研究人员的 ChatGPT",
+  "details": {
+    "overview": "该公告介绍面向高校教职与博士后研究人员的 ChatGPT 学术计划：申请者可获 12 个月免费使用专属 ChatGPT 工作区，每个工作区最多五名成员，含商业数据保护与 ChatGPT Pro 级用量上限。申请需用机构邮箱登录、经 SheerID 验证隶属关系，并提交一篇符合条件的论文和简短研究用途说明；获批后以 0 美元结账并创建空间，可邀请同机构最多四名已验证协作者。已属 ChatGPT Edu 机构者获批后走机构管理的 Edu 路径。计划仅覆盖 ChatGPT 访问，不含 API 额度。",
+    "keyPoints": [
+      "面向教职与博士后，提供 12 个月免费专属工作区，最多五名成员。",
+      "申请需机构邮箱、SheerID 验证、合格论文与研究用途说明。",
+      "含商业数据保护与 Pro 级用量上限，但不含 API 额度。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

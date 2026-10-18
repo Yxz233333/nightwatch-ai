@@ -1,0 +1,24 @@
+{
+  "id": "e694feca47796bca",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing Gemini 4 Argon: our frontier model for complex tasks",
+  "summary": "Google 宣布 Gemini 4 Argon 面向 Google AI Pro 和 Ultra 订阅者全球推出，称其为最新前沿模型，旨在端到端处理复杂任务。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2026-10-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|Introducing Gemini 4 Argon: our frontier model for complex tasks|2026-10-13",
+  "titleEn": "Introducing Gemini 4 Argon: our frontier model for complex tasks",
+  "titleZh": "推出 Gemini 4 Argon：面向复杂任务的前沿模型",
+  "details": {
+    "overview": "Google 宣布 Gemini 4 Argon 面向 Google AI Pro 和 Ultra 订阅者全球推出，称其为最新前沿模型，旨在端到端处理复杂任务。官方举例包括分析复杂财务报告、从分散来源创建演示文稿、构建交互式 3D 模型。Google 表示该模型将前沿智能带入日常工作流，帮助用户把想法转化为可用产出。当前收录材料未提供具体基准测试成绩或独立验证信息。",
+    "keyPoints": [
+      "Gemini 4 Argon 面向 Google AI Pro 和 Ultra 订阅者全球推出。",
+      "官方称其可端到端处理财务报告分析、演示文稿创建和 3D 模型构建等复杂任务。",
+      "Google 称该模型旨在将前沿智能带入日常工作流。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

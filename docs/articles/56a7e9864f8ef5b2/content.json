@@ -1,0 +1,25 @@
+{
+  "id": "56a7e9864f8ef5b2",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+  "summary": "该条目为模型动态，标题称推出Gemini 3.8 Live和Gemini 3.8 Live Extended Thinking。",
+  "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+  "date": "2026-09-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-09-15T17:05:57+00:00",
+  "titleEn": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+  "titleZh": "推出Gemini 3.8 Live与3.8 Live Extended Thinking",
+  "details": {
+    "overview": "该条目为模型动态，标题称推出Gemini 3.8 Live和Gemini 3.8 Live Extended Thinking。原始发布内容为空，仅有标题信息，未提供模型能力、上下文长度、可用平台、推出范围或价格等任何细节。因此本条目只能确认两个版本名称的存在，无法进一步介绍其功能差异或实际表现，相关限制应以官方原文为准。",
+    "keyPoints": [
+      "标题宣布推出Gemini 3.8 Live",
+      "同时推出3.8 Live Extended Thinking版本",
+      "原文无正文，能力与范围细节不足"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

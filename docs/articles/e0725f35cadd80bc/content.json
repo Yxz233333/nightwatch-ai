@@ -1,0 +1,25 @@
+{
+  "id": "e0725f35cadd80bc",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.120.0 发布",
+  "summary": "Codex CLI 0.120.0 为稳定版本发布，新增 Realtime V2 在后台智能体运行中流式展示进度并排队后续响应、TUI 中更易浏览的 Hook 活动展示、自定义状态行显示重命名后的线程标题、代码模式工具声明包含 MCP outputSchema 以更精确类型化结构化结果，以及 SessionStart 钩子区分 /clear 会话。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.120.0",
+  "date": "2026-04-11",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-04-11T02:53:49+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.120.0 发布",
+  "titleZh": "Codex CLI 0.120.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.120.0 为稳定版本发布，新增 Realtime V2 在后台智能体运行中流式展示进度并排队后续响应、TUI 中更易浏览的 Hook 活动展示、自定义状态行显示重命名后的线程标题、代码模式工具声明包含 MCP outputSchema 以更精确类型化结构化结果，以及 SessionStart 钩子区分 /clear 会话。修复涉及 Windows 提权沙箱、符号链接可写根权限、远程 WebSocket 崩溃、工具搜索结果排序等，并更新文档与内部可靠性改进。",
+    "keyPoints": [
+      "Realtime V2 可流式展示后台智能体进度并排队后续响应。",
+      "代码模式工具声明纳入 MCP outputSchema，结构化结果类型更精确。",
+      "修复 Windows 提权沙箱与符号链接可写根等权限问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

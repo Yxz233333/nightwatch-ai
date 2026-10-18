@@ -1,0 +1,24 @@
+{
+  "id": "a29c30186953fa38",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
+  "summary": "该文为NVIDIA官方发布，介绍边缘计算平台Jetson。",
+  "url": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
+  "date": "2026-07-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-07-28T15:00:19+00:00",
+  "titleEn": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
+  "titleZh": "强大算力如此紧凑，堪称利器——用NVIDIA Jetson随处构建AI",
+  "details": {
+    "overview": "该文为NVIDIA官方发布，介绍边缘计算平台Jetson。文中提到AI原生风投机构Conviction创始人、播客No Priors联合主持人Sarah Guo在一段视频中，以“当季最抢眼的配饰不在包里、而在包里装的东西”作比，强调Jetson平台在边缘侧构建AI的能力。原文摘要在此处截断，未给出具体规格、性能数据或使用范围，故仅能确认其宣传定位为紧凑形态下的AI算力。",
+    "keyPoints": [
+      "NVIDIA官方发布，主题为边缘AI平台Jetson",
+      "风投人Sarah Guo在视频中出镜推介该平台",
+      "当前收录材料未提供具体规格与性能数据"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "70234111ac1138cf",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How people are using ChatGPT",
+  "summary": "OpenAI 发布基于迄今最大规模 ChatGPT 使用研究的新成果，展示该工具如何通过个人和专业用途创造经济价值。",
+  "url": "https://openai.com/index/how-people-are-using-chatgpt",
+  "date": "2025-09-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-15T03:00:00+00:00",
+  "titleEn": "How people are using ChatGPT",
+  "titleZh": "人们如何使用 ChatGPT",
+  "details": {
+    "overview": "OpenAI 发布基于迄今最大规模 ChatGPT 使用研究的新成果，展示该工具如何通过个人和专业用途创造经济价值。摘要指出，采用范围正超越早期用户，缩小差距，使 AI 成为日常生活的一部分。当前收录材料未提供具体研究方法、样本量或数据细节。",
+    "keyPoints": [
+      "基于迄今最大规模 ChatGPT 使用研究。",
+      "展示个人与专业用途如何创造经济价值。",
+      "采用范围正超越早期用户，AI 融入日常生活。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

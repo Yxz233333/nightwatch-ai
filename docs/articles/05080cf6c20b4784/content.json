@@ -1,0 +1,25 @@
+{
+  "id": "05080cf6c20b4784",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.140.0 发布",
+  "summary": "Codex CLI 0.140.0 发布，新增 /usage 用量视图、/goal 保留超大文本与图片附件、codex delete 等永久删除会话方式、从 Claude Code 选择性导入的 /import、@ 统一提及菜单，以及 Amazon Bedrock API 密钥认证和本地凭据加密存储。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.140.0",
+  "date": "2026-06-16",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-06-15T21:06:37+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.140.0 发布",
+  "titleZh": "Codex CLI 0.140.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.140.0 发布，新增 /usage 用量视图、/goal 保留超大文本与图片附件、codex delete 等永久删除会话方式、从 Claude Code 选择性导入的 /import、@ 统一提及菜单，以及 Amazon Bedrock API 密钥认证和本地凭据加密存储。修复涉及 SQLite 状态库自动恢复、/review 崩溃、MCP 启动重试与 OAuth 凭据报告等。该版本为 CLI 稳定版，桌面端功能以对应公告为准。",
+    "keyPoints": [
+      "新增 /usage 用量视图、/goal 保留大文本与图片、永久删除会话及 /import 导入功能。",
+      "输入 @ 默认打开文件、插件与技能的统一提及菜单。",
+      "修复 SQLite 状态库损坏自动恢复、/review 崩溃及 MCP 启动重试等问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

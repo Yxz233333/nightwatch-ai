@@ -1,0 +1,25 @@
+{
+  "id": "ab5a7d90beef4083",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Our approach to advertising and expanding access to ChatGPT",
+  "summary": "该新闻摘要称，OpenAI计划在美国对ChatGPT免费版和Go版测试广告，以扩大AI的全球可负担访问，同时保护隐私、信任和回答质量。",
+  "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
+  "date": "2026-01-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-16T00:00:00+00:00",
+  "titleEn": "Our approach to advertising and expanding access to ChatGPT",
+  "titleZh": "OpenAI的广告策略与扩大ChatGPT访问的计划",
+  "details": {
+    "overview": "该新闻摘要称，OpenAI计划在美国对ChatGPT免费版和Go版测试广告，以扩大AI的全球可负担访问，同时保护隐私、信任和回答质量。原文仅有一句话，未说明广告形式、测试时间表、隐私保护的具体机制或对回答质量的影响评估方式。作者声称广告测试旨在扩大访问，但未提供数据或独立分析。该内容属于公司策略表述，读者应以官方原始发布记录为准。",
+    "keyPoints": [
+      "计划在美国对免费版和Go版测试广告",
+      "声称目标是扩大可负担访问并保护隐私与质量",
+      "当前收录材料未提供广告形式或测试时间表"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "5785468988866dec",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Putting frontier cyber models in more trusted hands",
+  "summary": "摘要表示，获批的Daybreak合作伙伴可以使用OpenAI的前沿网络安全模型，为客户提供经过授权、受治理的网络安全服务。",
+  "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+  "date": "2026-08-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-10T10:00:00+00:00",
+  "titleEn": "Putting frontier cyber models in more trusted hands",
+  "titleZh": "将前沿网络安全模型交到更多可信方手中",
+  "details": {
+    "overview": "摘要表示，获批的Daybreak合作伙伴可以使用OpenAI的前沿网络安全模型，为客户提供经过授权、受治理的网络安全服务。原文未说明合作伙伴名单、审批标准、服务范围或具体模型能力，也未提及独立验证或审查结论，相关限制需以官方原始发布为准。",
+    "keyPoints": [
+      "获批的Daybreak合作伙伴可使用OpenAI前沿网络安全模型。",
+      "服务定位为授权、受治理的网络安全服务。",
+      "当前收录材料未提供合作伙伴名单与审批标准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

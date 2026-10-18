@@ -1,0 +1,24 @@
+{
+  "id": "731794c4e6d0f7e7",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Labor market impacts of AI: A new measure and early evidence",
+  "summary": "稿件提出“观察暴露度”指标，结合大语言模型理论能力与Claude实际使用数据，衡量职业受AI影响程度。",
+  "url": "https://www.anthropic.com/research/labor-market-impacts",
+  "date": "2026-03-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-03-05T19:59:21.508000+00:00",
+  "titleEn": "Labor market impacts of AI: A new measure and early evidence",
+  "titleZh": "AI对劳动力市场的影响：一种新的衡量方法与早期证据",
+  "details": {
+    "overview": "稿件提出“观察暴露度”指标，结合大语言模型理论能力与Claude实际使用数据，衡量职业受AI影响程度。作者声称早期数据显示AI对就业影响有限，但该框架有助于在影响显现前识别脆弱岗位。研究意义在于建立可定期复用的测量方法，而非依赖事后分析。",
+    "keyPoints": [
+      "观察暴露度综合任务理论可行性与Claude实际使用，按任务时间加权聚合到职业层面。",
+      "早期数据中，计算机程序员覆盖度最高达75%，客服代表次之，30%劳动者覆盖度为零。",
+      "作者强调该指标捕捉部分渠道，需定期重访分析以识别经济扰动。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

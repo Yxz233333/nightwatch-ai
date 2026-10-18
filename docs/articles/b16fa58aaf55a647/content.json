@@ -13,7 +13,7 @@
   "titleEn": "A counterexample to Hadwiger's conjecture",
   "titleZh": "Hadwiger猜想的一个反例",
   "details": {
-    "overview": "该稿件声称否证了Hadwiger猜想：构造出任意大的图，使其色数超过Hadwiger数。摘要称这些例子的独立数至多为二，甚至其普通分数色数也超过Hadwiger数，因而也否证了Reed与Seymour讨论的分数着色弱化版本。摘要未给出构造细节或规模估计。若成立，将对图着色与图子式理论中的核心猜想产生重大影响。需注意这是AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
+    "overview": "该稿件声称否证了Hadwiger猜想：构造出任意大的图，使其色数超过Hadwiger数。摘要称这些例子的独立数至多为二，甚至其普通分数色数也超过Hadwiger数，因而也否证了Reed与Seymour讨论的分数着色弱化版本。当前收录摘要未给出构造细节或规模估计。若成立，将对图着色与图子式理论中的核心猜想产生重大影响。需注意这是AI产生的研究手稿，收录不表示已完成独立审查或同行评议。",
     "keyPoints": [
       "稿件声称构造任意大图，使色数超过Hadwiger数，从而否证Hadwiger猜想。",
       "例子独立数至多为二，分数色数也超过Hadwiger数。",

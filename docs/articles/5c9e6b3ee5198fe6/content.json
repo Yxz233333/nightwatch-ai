@@ -1,0 +1,25 @@
+{
+  "id": "5c9e6b3ee5198fe6",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing the Teen Safety Blueprint",
+  "summary": "该内容为OpenAI官方发布，介绍其“青少年安全蓝图”（Teen Safety Blueprint）。",
+  "url": "https://openai.com/index/introducing-the-teen-safety-blueprint",
+  "date": "2025-11-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-06T00:00:00+00:00",
+  "titleEn": "Introducing the Teen Safety Blueprint",
+  "titleZh": "Introducing the Teen Safety Blueprint",
+  "details": {
+    "overview": "该内容为OpenAI官方发布，介绍其“青少年安全蓝图”（Teen Safety Blueprint）。摘要表示，这是一份用于负责任地构建AI的路线图，涵盖安全防护措施、适龄设计以及与各方协作，目标是保护并赋能在线青少年。当前收录材料未提供具体防护机制、适用年龄范围、推出地区或实施时间，相关细节需以官方原始发布为准。",
+    "keyPoints": [
+      "官方发布“青少年安全蓝图”，定位为负责任构建AI的路线图。",
+      "摘要列出三大方向：安全防护、适龄设计与多方协作。",
+      "目标是保护并赋能在线青少年，具体范围与限制以原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

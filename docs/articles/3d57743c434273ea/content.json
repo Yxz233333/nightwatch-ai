@@ -1,0 +1,25 @@
+{
+  "id": "3d57743c434273ea",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+  "summary": "NVIDIA 宣布将于次日发布 NVIDIA RTX Spark，定位为面向创作者、游戏玩家和 AI 智能体的 Windows PC。",
+  "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
+  "date": "2026-10-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-10-15T17:00:23+00:00",
+  "titleEn": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+  "titleZh": "见证开端：庆祝 NVIDIA RTX Spark 发布",
+  "details": {
+    "overview": "NVIDIA 宣布将于次日发布 NVIDIA RTX Spark，定位为面向创作者、游戏玩家和 AI 智能体的 Windows PC。NVIDIA 邀请公众与合作伙伴参与全球发布活动。原始发布内容还发起“分享你的 Spark”活动，询问用户第一台 Windows PC 的故事。该新闻属于产品发布预告，具体规格、价格和上市范围未在提供材料中说明。",
+    "keyPoints": [
+      "NVIDIA RTX Spark 定位为面向创作者、游戏玩家和 AI 智能体的 Windows PC。",
+      "NVIDIA 将在全球举办发布活动邀请公众参与。",
+      "原始内容未披露具体规格、价格或上市范围。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

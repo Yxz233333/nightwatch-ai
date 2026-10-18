@@ -1,0 +1,23 @@
+{
+  "id": "0f9f9dbad917a816",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex app 26.324",
+  "summary": "Codex 应用 26.324 版本更新包括：重新设计技能与插件的浏览和管理页面；新增按窗口缩放，并在审查中更清晰地显示已编辑文件状态；侧边栏新增自动化标题和图标，并内置 Raycast 主题。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2026-03-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "Codex app 26.324",
+  "titleZh": "Codex 应用 26.324",
+  "details": {
+    "overview": "Codex 应用 26.324 版本更新包括：重新设计技能与插件的浏览和管理页面；新增按窗口缩放，并在审查中更清晰地显示已编辑文件状态；侧边栏新增自动化标题和图标，并内置 Raycast 主题。性能与修复方面，重新连接时保持已加载线程和项目可见，导航更快；修复归档卡死、Markdown 换行、热键窗口回归以及若干权限、终端和 worktree 问题，并包含其他性能改进与错误修复。",
+    "keyPoints": [
+      "重新设计技能与插件浏览管理页，新增按窗口缩放。",
+      "侧边栏新增自动化标题图标并内置 Raycast 主题。",
+      "修复归档卡死、Markdown 换行及权限、终端等问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

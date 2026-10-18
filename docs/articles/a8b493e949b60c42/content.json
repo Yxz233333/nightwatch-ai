@@ -1,0 +1,25 @@
+{
+  "id": "a8b493e949b60c42",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+  "summary": "该官方发布表示OpenAI支持欧盟《AI内容透明度行为准则》，推进内容来源标准与工具，帮助人们识别AI生成内容。",
+  "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+  "date": "2026-06-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-11T00:00:00+00:00",
+  "titleEn": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+  "titleZh": "支持欧洲构建可信AI生态的工作",
+  "details": {
+    "overview": "该官方发布表示OpenAI支持欧盟《AI内容透明度行为准则》，推进内容来源标准与工具，帮助人们识别AI生成内容。现有材料仅为一句简介，未说明OpenAI具体承诺的技术措施、实施时间或适用范围，因此只能确认其立场是支持欧盟在AI内容透明度与来源标注方面的规范工作，更多细节不足。",
+    "keyPoints": [
+      "OpenAI表示支持欧盟《AI内容透明度行为准则》",
+      "发布称将推进内容来源标准与工具，帮助识别AI生成内容",
+      "现有材料未披露具体技术措施与实施时间"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

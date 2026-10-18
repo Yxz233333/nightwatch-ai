@@ -1,0 +1,24 @@
+{
+  "id": "ba6b0715135f67ff",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Formalizing Fermat's Last Theorem",
+  "summary": "Anthropic 表示，Claude 在约 11 天内基本自主地用 Lean 语言写出了费马大定理的首个完整计算机核验证明，过程中生成 1300 万行 Lean 代码、证明约 2.95 万个中间定理。",
+  "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+  "date": "2026-09-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-09-04T15:27:00+00:00",
+  "titleEn": "Formalizing Fermat's Last Theorem",
+  "titleZh": "形式化费马大定理",
+  "details": {
+    "overview": "Anthropic 表示，Claude 在约 11 天内基本自主地用 Lean 语言写出了费马大定理的首个完整计算机核验证明，过程中生成 1300 万行 Lean 代码、证明约 2.95 万个中间定理。作者称该工作新颖之处在于验证而非新数学，并称证明经 Lean 检查、仅用三条标准公理，比较器确认定理陈述与 Mathlib 一致。Kevin Buzzard 评价其为重要一步。",
+    "keyPoints": [
+      "Claude 在约 11 天内基本自主完成 Lean 形式化，生成 1300 万行代码。",
+      "作者称证明经 Lean 检查，仅用三条标准公理，陈述与 Mathlib 一致。",
+      "作者强调新颖之处在于验证，而非产生新的数学结果。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "2c086b851d20264d",
+  "section": "news",
+  "category": "模型动态",
+  "title": "DeepSeek-V4.1-Flash-1017 Update",
+  "summary": "DeepSeek 将 V4.1 Flash 升级为 DeepSeek-V4.1-Flash-1017，官网和 APP 模型同步更新，API 调用方式和价格不变，使用 deepseek-flash 即可访问。",
+  "url": "https://api-docs.deepseek.com/updates/#deepseek-v41-flash-1017-update",
+  "date": "2026-10-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "DeepSeek 官方更新",
+  "titleEn": "DeepSeek-V4.1-Flash-1017 Update",
+  "titleZh": "DeepSeek-V4.1-Flash-1017 更新",
+  "details": {
+    "overview": "DeepSeek 将 V4.1 Flash 升级为 DeepSeek-V4.1-Flash-1017，官网和 APP 模型同步更新，API 调用方式和价格不变，使用 deepseek-flash 即可访问。官方称新模型在多项基准上较 V4.1 有明显提升，例如 HLE 无工具 42.6、Terminal-Bench 4.0 为 42.3、DeepSWE v1.1 为 77.0。同时任务运行时间和输出长度有所降低，官方称在多个 harness 上实现新的性能成本帕累托最优，并建议升级至 DeepSeek Harness 0.2.1-rc.1 或更高版本。",
+    "keyPoints": [
+      "DeepSeek-V4.1-Flash-1017 已更新官网和 APP，API 方式与价格不变。",
+      "官方基准包括 HLE 无工具 42.6、Terminal-Bench 4.0 42.3、DeepSWE v1.1 77.0。",
+      "官方称降低任务运行时间和输出长度，并建议升级 Harness 至 0.2.1-rc.1 以上。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

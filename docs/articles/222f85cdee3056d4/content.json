@@ -1,0 +1,24 @@
+{
+  "id": "222f85cdee3056d4",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
+  "summary": "该文指出电信运营商已从生成式AI自动化网络管理、客户服务和后台运营中获得显著回报，但多数影响仍基于任务。",
+  "url": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/",
+  "date": "2026-06-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-23T06:00:09+00:00",
+  "titleEn": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
+  "titleZh": "NVIDIA为电信运营带来可信的24/7 AI代理",
+  "details": {
+    "overview": "该文指出电信运营商已从生成式AI自动化网络管理、客户服务和后台运营中获得显著回报，但多数影响仍基于任务。文章认为自动化不再是终点，而是通往自主性的跳板。当前收录材料未提供具体产品细节或验证结果。",
+    "keyPoints": [
+      "电信运营商已获生成式AI回报",
+      "当前影响多为任务型自动化",
+      "自动化被视为通往自主性的跳板"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

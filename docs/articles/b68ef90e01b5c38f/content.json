@@ -1,0 +1,24 @@
+{
+  "id": "b68ef90e01b5c38f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Reaching Across the Isles: UK-LLM Brings AI to UK Languages With NVIDIA Nemotron",
+  "summary": "官方发布记录介绍，UK-LLM 主权 AI 计划正基于 NVIDIA Nemotron 构建 AI 模型，目标是让模型能用英语和威尔士语进行推理。",
+  "url": "https://blogs.nvidia.com/blog/uk-llm-nemotron/",
+  "date": "2025-09-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-09-14T01:00:21+00:00",
+  "titleEn": "Reaching Across the Isles: UK-LLM Brings AI to UK Languages With NVIDIA Nemotron",
+  "titleZh": "跨越群岛：UK-LLM 借助 NVIDIA Nemotron 将 AI 带入英国语言",
+  "details": {
+    "overview": "官方发布记录介绍，UK-LLM 主权 AI 计划正基于 NVIDIA Nemotron 构建 AI 模型，目标是让模型能用英语和威尔士语进行推理。威尔士语目前在威尔士约有 85 万人使用。原文还提到凯尔特语系包括康沃尔语、爱尔兰语、苏格兰盖尔语和威尔士语，是英国最古老的在世语言。材料未说明模型发布时间、评测结果或覆盖范围。",
+    "keyPoints": [
+      "UK-LLM 计划基于 NVIDIA Nemotron 构建 AI 模型",
+      "目标支持英语与威尔士语推理",
+      "威尔士语在威尔士约有 85 万使用者"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

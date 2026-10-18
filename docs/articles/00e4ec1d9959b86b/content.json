@@ -1,0 +1,25 @@
+{
+  "id": "00e4ec1d9959b86b",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.113.0 发布",
+  "summary": "Codex CLI 0.113.0 为稳定版本更新，新增内置 request_permissions 工具，使运行中的回合可在运行时申请额外权限，并在 TUI 中渲染审批调用；插件工作流扩展了市场发现、元数据、安装时鉴权与卸载端点；app-server 命令执行支持流式输入输出与 TTY/PTY；网页搜索支持完整工具配置；还引入权限配置语言与更细的沙箱策略。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.113.0",
+  "date": "2026-03-10",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-03-10T05:24:30+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.113.0 发布",
+  "titleZh": "Codex CLI 0.113.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.113.0 为稳定版本更新，新增内置 request_permissions 工具，使运行中的回合可在运行时申请额外权限，并在 TUI 中渲染审批调用；插件工作流扩展了市场发现、元数据、安装时鉴权与卸载端点；app-server 命令执行支持流式输入输出与 TTY/PTY；网页搜索支持完整工具配置；还引入权限配置语言与更细的沙箱策略。此外修复了鉴权、Windows 执行、插件加载与网络代理解析等问题。",
+    "keyPoints": [
+      "新增 request_permissions 工具支持运行时申请权限",
+      "app-server 命令执行支持流式 IO 与 TTY/PTY",
+      "新增权限配置语言并拆分文件系统与网络沙箱策略"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

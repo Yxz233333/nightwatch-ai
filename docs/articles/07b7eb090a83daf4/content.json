@@ -1,0 +1,23 @@
+{
+  "id": "07b7eb090a83daf4",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Partners With Mistral AI to Accelerate New Family of Open Models",
+  "summary": "Mistral AI 发布 Mistral 3 系列开源多语言、多模态模型，并针对 NVIDIA 超级计算与边缘平台进行优化。",
+  "url": "https://blogs.nvidia.com/blog/mistral-frontier-open-models/",
+  "date": "2025-12-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-12-02T18:00:30+00:00",
+  "titleEn": "NVIDIA Partners With Mistral AI to Accelerate New Family of Open Models",
+  "titleZh": "NVIDIA 与 Mistral AI 合作加速新一系列开放模型",
+  "details": {
+    "overview": "Mistral AI 发布 Mistral 3 系列开源多语言、多模态模型，并针对 NVIDIA 超级计算与边缘平台进行优化。原文称 Mistral Large 3 是混合专家（MoE）模型，不对每个 token 激活全部神经元，而只激活影响最大的部分，从而提升效率。原文摘要在此处截断，未提供具体基准成绩、模型规模、许可条款或上线时间，因此无法进一步评估其性能。",
+    "keyPoints": [
+      "Mistral AI 发布 Mistral 3 系列开源多语言、多模态模型，并针对 NVIDIA 平台优化。",
+      "Mistral Large 3 采用混合专家架构，只激活对每个 token 影响最大的部分以提升效率。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

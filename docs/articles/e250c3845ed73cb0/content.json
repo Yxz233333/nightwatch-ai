@@ -1,0 +1,25 @@
+{
+  "id": "e250c3845ed73cb0",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+  "summary": "官方发布信息显示，ChatGPT 引入改进版 GPT-5.6 Sol，称其在准确性与一致性方面有所提升；同时向免费用户扩大访问范围，并提供 GPT-5.6 Luna 的无限日常对话。",
+  "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+  "date": "2026-08-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-06T10:00:00+00:00",
+  "titleEn": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+  "titleZh": "在 ChatGPT 中改进 GPT‑5.6 Sol，并向免费用户扩大 GPT-5.6 Luna 访问",
+  "details": {
+    "overview": "官方发布信息显示，ChatGPT 引入改进版 GPT-5.6 Sol，称其在准确性与一致性方面有所提升；同时向免费用户扩大访问范围，并提供 GPT-5.6 Luna 的无限日常对话。当前收录材料未提供具体评测数据、可用地区或功能限制，相关范围与限制需以官方原文为准。",
+    "keyPoints": [
+      "ChatGPT 引入改进版 GPT-5.6 Sol",
+      "官方称其准确性与一致性有所提升",
+      "免费用户可获 GPT-5.6 Luna 无限日常对话"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

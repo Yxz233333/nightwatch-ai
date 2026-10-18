@@ -13,7 +13,7 @@
   "titleEn": "The Quasi-Riemann Hypothesis (alternate 11/12 proof)",
   "titleZh": "拟黎曼假设（11/12的另一种证明）",
   "details": {
-    "overview": "稿件声称证明拟黎曼假设：每个Dirichlet L函数（包括Riemann zeta函数）在Re s>11/12的半平面内无零点；并称对K=ℚ(√-3)上每个有限阶Hecke L函数也有同样的无零点半平面，特别排除了Landau–Siegel零点的存在。该声明若成立将大幅推进零点分布理论，但摘要未给出证明，且手稿为AI生成、未经独立审查，应谨慎看待。",
+    "overview": "稿件声称证明拟黎曼假设：每个Dirichlet L函数（包括Riemann zeta函数）在Re s>11/12的半平面内无零点；并称对K=ℚ(√-3)上每个有限阶Hecke L函数也有同样的无零点半平面，特别排除了Landau–Siegel零点的存在。该声明若成立将大幅推进零点分布理论，但当前收录摘要未给出证明，且手稿为AI生成、未经独立审查，应谨慎看待。",
     "keyPoints": [
       "声称Dirichlet L函数在Re s>11/12无零点。",
       "声称ℚ(√-3)上有限阶Hecke L函数同样无零点。",

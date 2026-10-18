@@ -1,0 +1,23 @@
+{
+  "id": "e8adf62c2c61e012",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Personal finance in ChatGPT expands to Plus users and Android",
+  "summary": "ChatGPT中的个人理财体验开始向美国地区的Plus用户推出，覆盖网页端和iOS；同时该功能也在美国面向Pro和Plus用户在安卓端上线。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personal-finance-in-chatgpt-expands-to-plus-users-and-android",
+  "date": "2026-06-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Personal finance in ChatGPT expands to Plus users and Android",
+  "titleZh": "ChatGPT个人理财功能扩展至Plus用户和安卓端",
+  "details": {
+    "overview": "ChatGPT中的个人理财体验开始向美国地区的Plus用户推出，覆盖网页端和iOS；同时该功能也在美国面向Pro和Plus用户在安卓端上线。符合条件的用户可安全连接受支持的金融账户，查看个人财务仪表盘，并基于自身财务背景向ChatGPT提问。当前收录材料未提供支持机构范围与具体限制，应以官方原文为准。",
+    "keyPoints": [
+      "个人理财体验向美国Plus用户推出，覆盖网页端和iOS。",
+      "该功能同时在美国面向Pro和Plus用户在安卓端上线。",
+      "符合条件用户可连接受支持账户、查看仪表盘并基于财务背景提问。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

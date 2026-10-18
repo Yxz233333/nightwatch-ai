@@ -1,0 +1,25 @@
+{
+  "id": "7c5e1971d8654518",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Disrupting a new covert influence campaign from Russia",
+  "summary": "据官方发布记录，OpenAI 封禁了一批源自俄罗斯的账号，这些账号利用 AI 推广一个虚构的、设在以色列的智库，以及一个称赞俄罗斯并批评西方的“主权”指数。",
+  "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+  "date": "2026-08-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-25T00:00:00+00:00",
+  "titleEn": "Disrupting a new covert influence campaign from Russia",
+  "titleZh": "打击来自俄罗斯的新型隐蔽影响行动",
+  "details": {
+    "overview": "据官方发布记录，OpenAI 封禁了一批源自俄罗斯的账号，这些账号利用 AI 推广一个虚构的、设在以色列的智库，以及一个称赞俄罗斯并批评西方的“主权”指数。原文摘要仅概述封禁对象和推广内容，未披露账号数量、运作时间或具体判定依据，相关细节需以官方原文为准。",
+    "keyPoints": [
+      "OpenAI 封禁源自俄罗斯的相关账号",
+      "账号利用 AI 推广虚构的以色列智库",
+      "同时推广称赞俄罗斯、批评西方的“主权”指数"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

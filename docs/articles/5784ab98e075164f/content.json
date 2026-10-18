@@ -1,0 +1,25 @@
+{
+  "id": "5784ab98e075164f",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.84.0 发布",
+  "summary": "Codex CLI 发布 0.84.0 稳定版本。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.84.0",
+  "date": "2026-01-15",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-01-15T01:29:12+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.84.0 发布",
+  "titleZh": "Codex CLI 0.84.0 发布",
+  "details": {
+    "overview": "Codex CLI 发布 0.84.0 稳定版本。本次更新在 Rust 协议与类型中为文本元素增加额外元数据，以支持更丰富的客户端渲染和模式演进；同时将发布构建任务超时从 30 分钟提高到 60 分钟，以缓解 Rust 发布流水线（尤其是 Windows 上）的不稳定问题。桌面端功能以对应公告为准。",
+    "keyPoints": [
+      "Rust 协议与类型新增文本元素元数据，支持更丰富渲染",
+      "发布构建超时由 30 分钟延长至 60 分钟",
+      "旨在减少 Rust 发布流水线的不稳定问题"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

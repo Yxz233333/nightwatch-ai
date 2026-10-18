@@ -1,0 +1,25 @@
+{
+  "id": "0babe38419360bd7",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Reimagining the mouse pointer for the AI era",
+  "summary": "该新闻称，Google DeepMind正将鼠标指针改造为具备上下文感知能力的AI伙伴，旨在减少传统提示词输入带来的摩擦，在Chrome及其他场景中实现更直观的AI协作。",
+  "url": "https://deepmind.google/blog/ai-pointer/",
+  "date": "2026-03-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-03-29T10:50:49+00:00",
+  "titleEn": "Reimagining the mouse pointer for the AI era",
+  "titleZh": "为AI时代重新构想鼠标指针",
+  "details": {
+    "overview": "该新闻称，Google DeepMind正将鼠标指针改造为具备上下文感知能力的AI伙伴，旨在减少传统提示词输入带来的摩擦，在Chrome及其他场景中实现更直观的AI协作。但提供的原文仅有一段概述，未说明具体交互方式、可用范围或技术细节。读者应以官方原始发布记录为准。",
+    "keyPoints": [
+      "Google DeepMind提出将鼠标指针变为上下文感知的AI伙伴。",
+      "目标是在Chrome等场景中减少传统提示词输入的摩擦。",
+      "材料未说明具体功能、推出时间或限制。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "4d888213a537bea8",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT app experience updates",
+  "summary": "该更新汇总ChatGPT应用的多项体验变化：用户可让ChatGPT就某主题进行互动测验并直接在对话中作答；符合条件的非共享项目可修改记忆设置；部分付费用户可看到基于对话历史和已连接工具的主页建议。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-app-experience-updates",
+  "date": "2026-08-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "ChatGPT app experience updates",
+  "titleZh": "ChatGPT应用体验更新",
+  "details": {
+    "overview": "该更新汇总ChatGPT应用的多项体验变化：用户可让ChatGPT就某主题进行互动测验并直接在对话中作答；符合条件的非共享项目可修改记忆设置；部分付费用户可看到基于对话历史和已连接工具的主页建议。网页端免费版和Go版可使用Think；安卓端听写按钮在添加文本或附件后仍保留，输入建议随输入同步更新，外接键盘保持输入框聚焦。Linux桌面应用以公开预览形式在指定发行版提供ChatGPT和Codex，内置浏览器可用，但尚不支持控制其他桌面应用。",
+    "keyPoints": [
+      "互动测验面向所有消费级及Edu套餐，支持网页和移动端。",
+      "符合条件的非共享项目可切换记忆设置，共享项目仍为仅项目记忆。",
+      "Linux桌面应用公开预览支持ChatGPT和Codex，暂不能控制其他桌面应用。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

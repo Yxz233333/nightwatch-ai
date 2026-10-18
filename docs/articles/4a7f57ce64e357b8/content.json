@@ -1,0 +1,24 @@
+{
+  "id": "4a7f57ce64e357b8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+  "summary": "该条目仅有标题与一句摘要，说明 Hugging Face 与 Cerebras 合作，将 Gemma 4 用于实时语音 AI。",
+  "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+  "date": "2026-07-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-07-01T00:00:00+00:00",
+  "titleEn": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+  "titleZh": "Hugging Face 与 Cerebras 将 Gemma 4 引入实时语音 AI",
+  "details": {
+    "overview": "该条目仅有标题与一句摘要，说明 Hugging Face 与 Cerebras 合作，将 Gemma 4 用于实时语音 AI。原始发布内容为空，因此无法确认具体的技术方案、模型版本细节、可用范围与限制。以下要点仅基于现有标题信息，材料不足，建议以官方原文为准。",
+    "keyPoints": [
+      "Hugging Face 与 Cerebras 合作，将 Gemma 4 用于实时语音 AI。",
+      "原始发布内容缺失，具体方案与推出范围不详。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

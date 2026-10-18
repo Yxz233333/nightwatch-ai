@@ -1,0 +1,23 @@
+{
+  "id": "50709690a78ec2af",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Frontier Red Team",
+  "summary": "Anthropic 的前沿红队对 AI 系统进行压力测试，以了解其当前能力范围并预判后续发展，就 AI 在网络安全、国家安全和自主系统方面的影响提供基于证据的分析。",
+  "url": "https://www.anthropic.com/research/team/frontier-red-team",
+  "date": "2026-10-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "titleEn": "Frontier Red Team",
+  "titleZh": "Anthropic 前沿红队",
+  "details": {
+    "overview": "Anthropic 的前沿红队对 AI 系统进行压力测试，以了解其当前能力范围并预判后续发展，就 AI 在网络安全、国家安全和自主系统方面的影响提供基于证据的分析。该团队同时推出 OSS Scanner，这是一个面向开源生态的自愿加入型漏洞扫描器，基于其在 Project Glasswing 中使用 Claude 发现漏洞的经验。加入的项目将免费获得由最强模型执行的定期全面安全扫描。",
+    "keyPoints": [
+      "前沿红队对 AI 系统进行压力测试，分析网络安全、国家安全和自主系统影响。",
+      "推出 OSS Scanner 开源生态自愿加入型漏洞扫描器。",
+      "加入项目可免费获得由最强模型执行的定期安全扫描。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

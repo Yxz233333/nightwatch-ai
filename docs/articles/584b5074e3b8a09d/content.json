@@ -1,0 +1,25 @@
+{
+  "id": "584b5074e3b8a09d",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Gemini 4 Argon: Built to solve your hardest problems",
+  "summary": "该发布宣布向开发者、企业、科研人员和消费者开放 Gemini 4 Argon，称其为最新前沿模型，定位是解决最难的问题。",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+  "date": "2026-10-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google AI 官方博客",
+  "publishedAt": "2026-10-13T16:00:00+00:00",
+  "titleEn": "Gemini 4 Argon: Built to solve your hardest problems",
+  "titleZh": "Gemini 4 Argon：为攻克最难问题而打造",
+  "details": {
+    "overview": "该发布宣布向开发者、企业、科研人员和消费者开放 Gemini 4 Argon，称其为最新前沿模型，定位是解决最难的问题。原文只有一句概述，未披露模型能力指标、上下文长度、价格、地区范围或与旧版本的对比数据。因此只能确认发布方声称的开放对象与模型定位，具体能力与限制需以官方原文为准。",
+    "keyPoints": [
+      "发布方称 Gemini 4 Argon 为最新前沿模型",
+      "面向开发者、企业、科研人员和消费者开放",
+      "定位为解决最难的问题，细节以原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

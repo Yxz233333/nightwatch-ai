@@ -1,0 +1,25 @@
+{
+  "id": "4c98d0fae8a27d5f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Sales workflows with ChatGPT Work",
+  "summary": "该官方内容介绍 ChatGPT Work 在销售场景中的实用工作流，覆盖管道简报、会议准备、客户计划、预测复盘和交易诊断等环节。",
+  "url": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
+  "date": "2026-07-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-14T00:00:00+00:00",
+  "titleEn": "Sales workflows with ChatGPT Work",
+  "titleZh": "使用 ChatGPT Work 的销售工作流",
+  "details": {
+    "overview": "该官方内容介绍 ChatGPT Work 在销售场景中的实用工作流，覆盖管道简报、会议准备、客户计划、预测复盘和交易诊断等环节。材料仅给出主题与适用场景，未提供具体操作步骤、效果数据或适用范围细节，因此无法进一步说明其实际表现。",
+    "keyPoints": [
+      "面向销售场景，涵盖管道简报与会议准备等环节",
+      "涉及客户计划、预测复盘与交易诊断",
+      "仅介绍工作流主题，未给出具体效果数据"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

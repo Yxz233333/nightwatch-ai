@@ -1,0 +1,25 @@
+{
+  "id": "3f1ff8b4f2d0104e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "1 million business customers putting AI to work",
+  "summary": "OpenAI官方发布称，全球已有超过100万家企业客户使用OpenAI，覆盖医疗健康、生命科学、金融服务等领域，ChatGPT与API正推动智能化工作方式。",
+  "url": "https://openai.com/index/1-million-businesses-putting-ai-to-work",
+  "date": "2025-11-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-05T05:00:00+00:00",
+  "titleEn": "1 million business customers putting AI to work",
+  "titleZh": "超100万企业客户正在用AI开展工作",
+  "details": {
+    "overview": "OpenAI官方发布称，全球已有超过100万家企业客户使用OpenAI，覆盖医疗健康、生命科学、金融服务等领域，ChatGPT与API正推动智能化工作方式。当前收录材料未提供客户构成、地区分布或使用效果数据，具体范围与限制以原始发布为准。",
+    "keyPoints": [
+      "全球超过100万家企业客户使用OpenAI",
+      "覆盖医疗健康、生命科学、金融服务等领域",
+      "ChatGPT与API被用于推动AI驱动的工作方式"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

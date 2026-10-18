@@ -1,0 +1,25 @@
+{
+  "id": "212aef320182c5bb",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+  "summary": "该条目仅有标题，原始发布内容为空，无法确认文章的具体论述、定义来源或作者观点。",
+  "url": "https://huggingface.co/blog/agent-glossary",
+  "date": "2026-05-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-05-25T00:00:00+00:00",
+  "titleEn": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+  "titleZh": "Harness、Scaffold 及值得厘清的 AI 智能体术语",
+  "details": {
+    "overview": "该条目仅有标题，原始发布内容为空，无法确认文章的具体论述、定义来源或作者观点。从标题看，内容应围绕 AI 智能体领域中的 harness、scaffold 等术语展开辨析，讨论这些概念应如何准确使用。由于缺少正文材料，本简介仅能说明主题方向，无法介绍具体定义、结论或研究意义，需以原文发布内容为准。",
+    "keyPoints": [
+      "标题指向 AI 智能体术语的辨析与厘清。",
+      "涉及 harness 与 scaffold 两个术语。",
+      "原始发布内容为空，无法提炼具体观点。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "99b139606a0f0e92",
+  "section": "news",
+  "category": "工具动态",
+  "title": "NVIDIA Blackwell Ultra Sets the Bar in New MLPerf Inference Benchmark",
+  "summary": "原文指出推理性能直接影响 AI 工厂的经济性：基础设施吞吐越高，高速产出的 token 越多，从而提升收入、降低总拥有成本并提高系统整体生产力。",
+  "url": "https://blogs.nvidia.com/blog/mlperf-inference-blackwell-ultra/",
+  "date": "2025-09-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-09-09T15:00:44+00:00",
+  "titleEn": "NVIDIA Blackwell Ultra Sets the Bar in New MLPerf Inference Benchmark",
+  "titleZh": "NVIDIA Blackwell Ultra 在新 MLPerf Inference 基准中树立标杆",
+  "details": {
+    "overview": "原文指出推理性能直接影响 AI 工厂的经济性：基础设施吞吐越高，高速产出的 token 越多，从而提升收入、降低总拥有成本并提高系统整体生产力。英伟达称 Blackwell Ultra 在最新 MLPerf Inference 基准中表现领先，但当前收录摘要未给出具体测试项目、成绩数字或对比对象，相关数据需以官方原文为准。",
+    "keyPoints": [
+      "原文强调推理吞吐直接影响 AI 工厂收入与总拥有成本",
+      "英伟达称 Blackwell Ultra 在新 MLPerf Inference 基准中领先",
+      "摘要未披露具体测试项目与成绩数字"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

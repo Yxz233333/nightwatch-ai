@@ -1,0 +1,24 @@
+{
+  "id": "4832d0e01f3dcb51",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "AI Factories: The New Infrastructure of Intelligence",
+  "summary": "据官方发布记录，该文将AI工厂称为“token工厂”，实时把电力转化为智能。",
+  "url": "https://blogs.nvidia.com/blog/ai-factories-the-new-infrastructure-of-intelligence/",
+  "date": "2026-05-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-05-27T16:00:36+00:00",
+  "titleEn": "AI Factories: The New Infrastructure of Intelligence",
+  "titleZh": "AI工厂：智能的新基础设施",
+  "details": {
+    "overview": "据官方发布记录，该文将AI工厂称为“token工厂”，实时把电力转化为智能。随着智能体AI规模扩大、企业部署常驻自主专用智能体，每瓦性能与每token成本成为关键经济指标。当前收录材料仅给出这一论点，未提供具体数据、案例或测算方法。",
+    "keyPoints": [
+      "AI工厂被描述为实时将电力转化为智能的token工厂",
+      "智能体AI规模化使每瓦性能与每token成本成为关键",
+      "当前收录材料未提供具体数据或测算案例"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "22a7f51240253025",
+  "section": "news",
+  "category": "模型动态",
+  "title": "A new way to express yourself: Gemini can now create music",
+  "summary": "官方发布信息显示，Gemini 应用现已集成其最先进的音乐生成模型 Lyria 3，用户可以通过文本或图像生成 30 秒的音乐曲目。",
+  "url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+  "date": "2026-02-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-02-18T16:01:38+00:00",
+  "titleEn": "A new way to express yourself: Gemini can now create music",
+  "titleZh": "表达自我的新方式：Gemini 现已支持创作音乐",
+  "details": {
+    "overview": "官方发布信息显示，Gemini 应用现已集成其最先进的音乐生成模型 Lyria 3，用户可以通过文本或图像生成 30 秒的音乐曲目。该功能定位为让任何人都能创作音乐，属于 Gemini 应用的功能更新。原文未说明可用地区、用户范围、生成质量或版权相关限制，相关细节需以官方原始发布为准。",
+    "keyPoints": [
+      "Gemini 应用集成音乐生成模型 Lyria 3。",
+      "用户可通过文本或图像生成 30 秒音乐曲目。",
+      "官方称该功能面向任何人创作音乐。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

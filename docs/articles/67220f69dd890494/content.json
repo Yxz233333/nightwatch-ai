@@ -1,0 +1,25 @@
+{
+  "id": "67220f69dd890494",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Core dump epidemiology: fixing an 18-year-old bug",
+  "summary": "OpenAI 工程师通过大规模核心转储分析来调试罕见的基础设施崩溃，过程中同时发现了一个硬件故障和一个长期存在的软件 bug。",
+  "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+  "date": "2026-06-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-30T00:00:00+00:00",
+  "titleEn": "Core dump epidemiology: fixing an 18-year-old bug",
+  "titleZh": "核心转储流行病学：修复一个 18 年前的 bug",
+  "details": {
+    "overview": "OpenAI 工程师通过大规模核心转储分析来调试罕见的基础设施崩溃，过程中同时发现了一个硬件故障和一个长期存在的软件 bug。原文摘要仅给出这一概述，未说明涉及的具体系统、崩溃频率、修复方式或影响范围，因此无法进一步展开技术细节。",
+    "keyPoints": [
+      "OpenAI 工程师用大规模核心转储分析调试罕见基础设施崩溃。",
+      "调查同时发现了一个硬件故障和一个长期存在的软件 bug。",
+      "摘要未披露具体系统、崩溃频率与修复方式。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

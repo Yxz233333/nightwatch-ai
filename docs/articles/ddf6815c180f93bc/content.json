@@ -1,0 +1,24 @@
+{
+  "id": "ddf6815c180f93bc",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing The Anthropic Institute",
+  "summary": "Anthropic 宣布成立 The Anthropic Institute，旨在应对强大AI将给社会带来的重大挑战。",
+  "url": "https://www.anthropic.com/news/the-anthropic-institute",
+  "date": "2026-03-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-03-11T10:45:00+00:00",
+  "titleEn": "Introducing The Anthropic Institute",
+  "titleZh": "Anthropic 研究所正式成立",
+  "details": {
+    "overview": "Anthropic 宣布成立 The Anthropic Institute，旨在应对强大AI将给社会带来的重大挑战。该研究所由联合创始人 Jack Clark 领导，整合前沿红队、社会影响与经济研究三个团队，并孵化预测AI进展、研究AI与法律系统互动等新方向。其称将利用前沿AI构建者独有的信息，与外部受众合作，同时扩大公共政策团队并开设华盛顿办公室。",
+    "keyPoints": [
+      "研究所由联合创始人 Jack Clark 领导，整合前沿红队、社会影响与经济研究团队。",
+      "将孵化AI进展预测及AI与法律系统互动等新研究，并与外部受众合作。",
+      "Anthropic 同步扩大公共政策团队，并计划春季在华盛顿开设首个办公室。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

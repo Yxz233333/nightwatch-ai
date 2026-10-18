@@ -1,0 +1,25 @@
+{
+  "id": "270f41c27b0cadb1",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing parental controls",
+  "summary": "该官方发布宣布推出家长控制功能和一个面向家长的新资源页面，帮助家庭引导 ChatGPT 在家庭环境中的使用方式。",
+  "url": "https://openai.com/index/introducing-parental-controls",
+  "date": "2025-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-29T03:00:00+00:00",
+  "titleEn": "Introducing parental controls",
+  "titleZh": "推出家长控制功能",
+  "details": {
+    "overview": "该官方发布宣布推出家长控制功能和一个面向家长的新资源页面，帮助家庭引导 ChatGPT 在家庭环境中的使用方式。当前收录材料仅给出这一概括性说明，未披露具体控制项、适用地区或上线时间，相关范围与限制需以原始发布为准。",
+    "keyPoints": [
+      "推出家长控制功能",
+      "新增面向家长的资源页面",
+      "帮助家庭引导 ChatGPT 的家庭使用方式"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

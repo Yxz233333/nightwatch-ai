@@ -1,0 +1,25 @@
+{
+  "id": "323f5c7c49ce255d",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Workspace agents",
+  "summary": "该内容介绍如何在 ChatGPT 中构建和使用工作区智能体，用于自动化可重复的工作流程、连接各类工具并简化团队日常运营。",
+  "url": "https://openai.com/academy/workspace-agents",
+  "date": "2026-04-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-22T10:00:00+00:00",
+  "titleEn": "Workspace agents",
+  "titleZh": "Workspace agents 工作区智能体",
+  "details": {
+    "overview": "该内容介绍如何在 ChatGPT 中构建和使用工作区智能体，用于自动化可重复的工作流程、连接各类工具并简化团队日常运营。材料仅为一句功能概述，未说明具体构建方式、可用工具范围、权限管理与推出时间，相关细节需以原始发布为准。",
+    "keyPoints": [
+      "主题是在 ChatGPT 中构建与使用工作区智能体",
+      "目标为自动化可重复工作流、连接工具、简化团队运营",
+      "具体构建方式、工具范围与推出时间原文未说明"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

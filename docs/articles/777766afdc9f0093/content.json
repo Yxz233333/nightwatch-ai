@@ -1,0 +1,24 @@
+{
+  "id": "777766afdc9f0093",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines",
+  "summary": "英伟达介绍其最新 AI 服务器的液冷方案：冷却液温度可高达 45 摄氏度（113 华氏度），高于热水浴缸约 38 至 40 摄氏度的水温。",
+  "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+  "date": "2026-06-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-22T05:00:22+00:00",
+  "titleEn": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines",
+  "titleZh": "比热水浴缸更热：45°C 冷却突破为 AI 大型设备降温",
+  "details": {
+    "overview": "英伟达介绍其最新 AI 服务器的液冷方案：冷却液温度可高达 45 摄氏度（113 华氏度），高于热水浴缸约 38 至 40 摄氏度的水温。文章称，更高的冷却液温度上限正是其更节能的原因。官方当前收录摘要未给出具体能效数据、机型或部署条件，相关结论需以原文为准。",
+    "keyPoints": [
+      "英伟达最新 AI 服务器冷却液温度上限为 45°C。",
+      "该温度高于热水浴缸约 38 至 40°C 的水温。",
+      "英伟达称更高温度上限使其更节能。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

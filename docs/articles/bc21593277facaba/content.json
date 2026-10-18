@@ -1,0 +1,25 @@
+{
+  "id": "bc21593277facaba",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+  "summary": "该条目为官方发布记录，介绍 Legora 在财务审阅工作流中使用 GPT-6 Astra 的案例：在数分钟内审阅 41 份文档，找出全部四个预先埋设的错误，并使该工作流性能提升近 40%。",
+  "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+  "date": "2026-09-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-03T12:00:00+00:00",
+  "titleEn": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+  "titleZh": "Legora 借助 GPT-6 Astra 在数分钟内审阅 41 份文档",
+  "details": {
+    "overview": "该条目为官方发布记录，介绍 Legora 在财务审阅工作流中使用 GPT-6 Astra 的案例：在数分钟内审阅 41 份文档，找出全部四个预先埋设的错误，并使该工作流性能提升近 40%。原始材料仅有一句概述，未说明测试设置、对照基线或统计口径，因此上述数字应视为官方转述的案例结果，而非独立验证结论。其意义在于展示该模型在文档审阅类任务中的应用示例。",
+    "keyPoints": [
+      "Legora 使用 GPT-6 Astra 在数分钟内审阅 41 份文档。",
+      "材料称其找出全部四个预先埋设的错误。",
+      "官方称该财务审阅工作流性能提升近 40%。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

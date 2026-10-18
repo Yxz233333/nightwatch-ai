@@ -1,0 +1,24 @@
+{
+  "id": "efbc07e6e531a401",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+  "summary": "英伟达表示，通用机器人和自主机器正从实验室走向大规模市场部署，由此产生对可在边缘运行基础模型的紧凑、高能效 AI 超级计算机的需求。",
+  "url": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
+  "date": "2026-07-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-07-15T23:00:54+00:00",
+  "titleEn": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+  "titleZh": "NVIDIA 推出全新 Jetson Thor 计算机，推动主流机器人与边缘 AI 发展",
+  "details": {
+    "overview": "英伟达表示，通用机器人和自主机器正从实验室走向大规模市场部署，由此产生对可在边缘运行基础模型的紧凑、高能效 AI 超级计算机的需求。为此，英伟达推出基于 Thor 架构的 T3000 和 T2000 新模块，面向主流机器人及边缘 AI 场景。原文摘要在此处截断，具体规格与上市信息未完整给出。",
+    "keyPoints": [
+      "英伟达推出基于 Thor 架构的 T3000 与 T2000 模块。",
+      "产品面向大规模机器人部署与边缘 AI 场景。",
+      "官方称需求源于机器人在边缘运行基础模型。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

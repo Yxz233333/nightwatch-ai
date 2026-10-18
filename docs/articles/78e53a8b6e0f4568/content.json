@@ -1,0 +1,25 @@
+{
+  "id": "78e53a8b6e0f4568",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
+  "summary": "该条目标题为 AprielGuard，定位为面向现代大语言模型系统的安全与对抗鲁棒性护栏。",
+  "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
+  "date": "2025-12-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-12-23T14:07:35+00:00",
+  "titleEn": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
+  "titleZh": "AprielGuard：面向现代 LLM 系统安全与对抗鲁棒性的护栏",
+  "details": {
+    "overview": "该条目标题为 AprielGuard，定位为面向现代大语言模型系统的安全与对抗鲁棒性护栏。提供的摘要与原文均只有标题，未说明其方法、训练数据、评测结果或适用范围。材料不足，无法介绍具体研究对象与作者声称的结果，相关内容需以官方原文为准。",
+    "keyPoints": [
+      "标题指向面向现代 LLM 系统的安全护栏。",
+      "强调安全性与对抗鲁棒性两个方向。",
+      "原文仅有标题，方法、数据与评测结果均未披露。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

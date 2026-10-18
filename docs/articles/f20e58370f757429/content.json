@@ -1,0 +1,24 @@
+{
+  "id": "f20e58370f757429",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Launching an opt-in vulnerability-finding service for open-source software",
+  "summary": "Anthropic 宣布推出 OSS Scanner，一个受 Project Glasswing 经验启发的开源生态选入式漏洞扫描器。",
+  "url": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source",
+  "date": "2026-10-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-10-08T19:00:00+00:00",
+  "titleEn": "Launching an opt-in vulnerability-finding service for open-source software",
+  "titleZh": "推出面向开源软件的选入式漏洞发现服务",
+  "details": {
+    "overview": "Anthropic 宣布推出 OSS Scanner，一个受 Project Glasswing 经验启发的开源生态选入式漏洞扫描器。加入项目可免费获得最强模型的定期安全扫描。报告称过去六个月扫描发现超过2.9万个候选漏洞，但仅人工复核约6000个。该服务输出完全由模型生成，无人工审核，因此报告可能不正确或无效。",
+    "keyPoints": [
+      "OSS Scanner 为加入的开源项目提供免费、定期的模型驱动安全扫描。",
+      "过去六个月发现超2.9万个候选漏洞，人工仅复核约6000个。",
+      "扫描报告完全由模型生成，无人工审核，可能存在误报。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

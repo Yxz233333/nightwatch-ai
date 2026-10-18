@@ -1,0 +1,24 @@
+{
+  "id": "7677d7a3874e0772",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
+  "summary": "该官方文章认为，电力是 AI 基础设施无法回避的约束，AI 工厂在固定功率预算内能生成多少 token 决定其收入和盈利能力，因此每瓦性能是 AI 工厂的基础指标。",
+  "url": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
+  "date": "2026-07-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-07-14T15:00:20+00:00",
+  "titleEn": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
+  "titleZh": "为何每瓦性能是 AI 基础设施效率的终极指标",
+  "details": {
+    "overview": "该官方文章认为，电力是 AI 基础设施无法回避的约束，AI 工厂在固定功率预算内能生成多少 token 决定其收入和盈利能力，因此每瓦性能是 AI 工厂的基础指标。文章称该指标无法被投机取巧，只能通过真实结果获得，并提到智能体 AI 正推动 token 需求。原文为节选，未给出具体测试数据、对比结果或第三方验证，相关结论以完整原文为准。",
+    "keyPoints": [
+      "文章称电力是 AI 基础设施的硬约束，固定功率下的 token 产出影响收入与盈利。",
+      "每瓦性能被定位为 AI 工厂的基础效率指标。",
+      "文章提到智能体 AI 推动 token 需求，但节选未提供具体数据。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

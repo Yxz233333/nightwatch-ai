@@ -1,0 +1,25 @@
+{
+  "id": "f84775b8bf6e13c9",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Responsible and safe use of AI",
+  "summary": "该内容介绍如何负责任地使用 AI，并给出在使用 ChatGPT 等工具时兼顾安全性、准确性与透明度的最佳实践。",
+  "url": "https://openai.com/academy/responsible-and-safe-use",
+  "date": "2026-04-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-10T00:00:00+00:00",
+  "titleEn": "Responsible and safe use of AI",
+  "titleZh": "负责任且安全地使用 AI",
+  "details": {
+    "overview": "该内容介绍如何负责任地使用 AI，并给出在使用 ChatGPT 等工具时兼顾安全性、准确性与透明度的最佳实践。原文仅概述这一主题方向，未列出具体操作步骤、适用场景或效果说明，详细内容与适用范围需以官方原始发布为准。",
+    "keyPoints": [
+      "主题为负责任地使用 AI 工具。",
+      "关注安全性、准确性与透明度三方面实践。",
+      "以 ChatGPT 等工具的使用为背景。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

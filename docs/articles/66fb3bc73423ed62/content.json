@@ -1,0 +1,24 @@
+{
+  "id": "66fb3bc73423ed62",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Open Source AI Week — How Developers and Contributors Are Advancing AI Innovation",
+  "summary": "开源 AI 周活动通过 PyTorch 会议、黑客松和工作坊等形式，展示了推动开源 AI 发展的创新、协作与社区力量。",
+  "url": "https://blogs.nvidia.com/blog/open-source-ai-week/",
+  "date": "2025-10-24",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-10-24T15:00:33+00:00",
+  "titleEn": "Open Source AI Week — How Developers and Contributors Are Advancing AI Innovation",
+  "titleZh": "开源 AI 周——开发者与贡献者如何推动 AI 创新",
+  "details": {
+    "overview": "开源 AI 周活动通过 PyTorch 会议、黑客松和工作坊等形式，展示了推动开源 AI 发展的创新、协作与社区力量。官方摘要提到，NVIDIA 高级深度学习框架工程师 Jonathan Dekhtiar 因在设计中的关键作用获得 PyTorch 贡献者奖。活动亮点还包括其他社区贡献表彰。该报道聚焦开源 AI 生态的社区动态，未涉及具体技术发布或产品更新。",
+    "keyPoints": [
+      "开源 AI 周通过会议、黑客松和工作坊展示社区创新与协作。",
+      "NVIDIA 工程师 Jonathan Dekhtiar 获 PyTorch 贡献者奖。",
+      "活动聚焦开源 AI 生态的社区贡献与协作。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

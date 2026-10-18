@@ -1,0 +1,24 @@
+{
+  "id": "e7aadc0f71260d17",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Where things stand with the Department of War",
+  "summary": "Anthropic首席执行官Dario Amodei发表声明，称公司收到美国战争部信函，被指定为供应链风险。",
+  "url": "https://www.anthropic.com/news/where-stand-department-war",
+  "date": "2026-03-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-03-05T21:43:00+00:00",
+  "titleEn": "Where things stand with the Department of War",
+  "titleZh": "与美国战争部相关事宜的现状说明",
+  "details": {
+    "overview": "Anthropic首席执行官Dario Amodei发表声明，称公司收到美国战争部信函，被指定为供应链风险。Anthropic认为该认定缺乏法律依据，将诉诸法院。声明强调该指定范围有限，仅涉及与战争部合同直接相关的Claude使用，不影响其他客户。公司还就泄露的内部帖子致歉，并表示将继续以象征性成本为战争部提供模型支持过渡。",
+    "keyPoints": [
+      "Anthropic 称被战争部指定为供应链风险，认为不合法并将起诉。",
+      "该指定仅适用于与战争部合同直接相关的 Claude 使用。",
+      "Anthropic 将为战争部提供模型过渡支持，并就泄露内部帖致歉。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

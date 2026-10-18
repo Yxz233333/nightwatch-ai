@@ -1,0 +1,23 @@
+{
+  "id": "b31c3773fa3a484e",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Rolling out age prediction",
+  "summary": "OpenAI 在 ChatGPT 消费者套餐中推出年龄预测模型，用于判断账户是否可能属于 18 岁以下用户，以便为青少年应用适当的体验和保护措施。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#rolling-out-age-prediction",
+  "date": "2026-01-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Rolling out age prediction",
+  "titleZh": "推出年龄预测功能",
+  "details": {
+    "overview": "OpenAI 在 ChatGPT 消费者套餐中推出年龄预测模型，用于判断账户是否可能属于 18 岁以下用户，以便为青少年应用适当的体验和保护措施。该模型综合行为与账户信号，包括账户存在时长、活跃时段、使用模式及用户自报年龄。若成年人被误判为未成年，可通过 Persona 自拍验证快速恢复。用户可在设置中查看保护措施并随时验证。",
+    "keyPoints": [
+      "年龄预测模型基于行为与账户信号判断用户是否可能未满18岁。",
+      "误判成人可通过 Persona 自拍验证在设置中恢复。",
+      "用户可随时检查已添加的保护措施并验证年龄。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

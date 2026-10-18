@@ -1,0 +1,23 @@
+{
+  "id": "54e1f03c419b89b9",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex Remote GA and DigitalOcean plugin",
+  "summary": "官方公告称 Codex Remote 现已在所有 ChatGPT 套餐中正式可用。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-remote-ga-and-digitalocean-plugin",
+  "date": "2026-06-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Codex Remote GA and DigitalOcean plugin",
+  "titleZh": "Codex Remote 正式可用与 DigitalOcean 插件",
+  "details": {
+    "overview": "官方公告称 Codex Remote 现已在所有 ChatGPT 套餐中正式可用。用户可从 ChatGPT 移动应用在已连接的 Mac 或 Windows 主机上开始或继续工作、查看进度并在手机上批准操作。远程控制采用每台受支持移动设备与每台主机之间经过认证的一对一二维码配对；6 月 8 日以来使用过的连接保持配对，更早的非活跃连接需重新配对；退出登录会关闭远程控制但不移除已有配对。新增 DigitalOcean Droplet Workspace 插件可创建 Droplet、配置 SSH 访问并接入 Codex 应用作为远程工作区，连接前需更新移动端与应用至最新版本。",
+    "keyPoints": [
+      "Codex Remote 面向所有 ChatGPT 套餐正式可用。",
+      "退出登录关闭远程控制但保留已有配对。",
+      "DigitalOcean 插件可创建 Droplet 并配置 SSH 接入。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

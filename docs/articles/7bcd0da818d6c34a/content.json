@@ -1,0 +1,24 @@
+{
+  "id": "7bcd0da818d6c34a",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing Claude Haiku 4.5",
+  "summary": "Anthropic 发布小型模型 Claude Haiku 4.5，称即日起向所有用户开放。",
+  "url": "https://www.anthropic.com/news/claude-haiku-4-5",
+  "date": "2025-10-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-10-15T17:00:00+00:00",
+  "titleEn": "Introducing Claude Haiku 4.5",
+  "titleZh": "推出 Claude Haiku 4.5",
+  "details": {
+    "overview": "Anthropic 发布小型模型 Claude Haiku 4.5，称即日起向所有用户开放。原文表示其编码性能接近五个月前的 Claude Sonnet 4，成本约为三分之一、速度超过两倍，并在使用计算机等部分任务上超过 Sonnet 4。定价为每百万输入/输出 token 1/5 美元，可通过 Claude API、Amazon Bedrock 与 Google Cloud Vertex AI 使用。安全方面，作者称其在对齐评估中表现优于前代，并按 ASL-2 标准发布。",
+    "keyPoints": [
+      "作者称编码性能接近 Sonnet 4，成本约三分之一、速度超两倍。",
+      "API 定价为每百万输入/输出 token 1/5 美元，多平台可用。",
+      "作者称对齐评估优于前代，按 ASL-2 标准发布。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "dd6be384a10d9fc2",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Unlock the power of images with AI Sheets",
+  "summary": "该消息介绍 AI Sheets 的图像相关能力，标题强调“释放图像的力量”。",
+  "url": "https://huggingface.co/blog/aisheets-unlock-images",
+  "date": "2025-10-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-10-21T00:00:00+00:00",
+  "titleEn": "Unlock the power of images with AI Sheets",
+  "titleZh": "用 AI Sheets 释放图像能力",
+  "details": {
+    "overview": "该消息介绍 AI Sheets 的图像相关能力，标题强调“释放图像的力量”。原始发布内容仅有这一句宣传式表述，未说明具体功能、支持的图像任务、使用方式、可用范围或限制。因此只能确认这是一项围绕图像处理的 AI Sheets 能力发布，具体细节需以官方原文为准。",
+    "keyPoints": [
+      "官方发布主题为 AI Sheets 的图像能力",
+      "原文未列出具体功能与使用方式",
+      "可用范围与限制需以原始发布为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

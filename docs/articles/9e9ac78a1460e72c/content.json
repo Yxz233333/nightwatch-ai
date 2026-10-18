@@ -1,0 +1,25 @@
+{
+  "id": "9e9ac78a1460e72c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Launching Health in ChatGPT",
+  "summary": "该条目与“ChatGPT 中的健康功能”为同一发布。",
+  "url": "https://openai.com/index/health-in-chatgpt",
+  "date": "2026-07-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-23T00:00:00+00:00",
+  "titleEn": "Launching Health in ChatGPT",
+  "titleZh": "在 ChatGPT 中推出健康功能",
+  "details": {
+    "overview": "该条目与“ChatGPT 中的健康功能”为同一发布。材料显示，符合条件的美国用户可安全连接医疗记录和 Apple Health，以获得更个性化的健康洞察并更好地理解自身健康状况。原始发布内容较短，未提供更多功能细节或适用范围。",
+    "keyPoints": [
+      "符合条件的美国用户可连接医疗记录和 Apple Health。",
+      "功能旨在提供个性化健康洞察。",
+      "原始发布内容较短，细节有限。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

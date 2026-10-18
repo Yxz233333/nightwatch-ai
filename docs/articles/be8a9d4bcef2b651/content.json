@@ -1,0 +1,23 @@
+{
+  "id": "be8a9d4bcef2b651",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Computer History 26.810",
+  "summary": "这是 ChatGPT macOS 桌面应用的一项可选功能更新：Computer History 会把用户在各应用和网站上的活动整理成记忆与时间线，供 ChatGPT 和 Codex 使用。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2026-08-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "Computer History 26.810",
+  "titleZh": "Computer History 26.810",
+  "details": {
+    "overview": "这是 ChatGPT macOS 桌面应用的一项可选功能更新：Computer History 会把用户在各应用和网站上的活动整理成记忆与时间线，供 ChatGPT 和 Codex 使用。用户可选择哪些应用和网站参与、暂停收集，并随时查看或删除历史。该功能面向 ChatGPT Pro、Business 和 Enterprise 用户，企业管理员需先开启权限；初期不覆盖欧洲经济区、瑞士和英国。原文另列出 Markdown 编辑器撤销重做历史保留、评论刷新时避免重复拉取请求评论等修复。",
+    "keyPoints": [
+      "Computer History 为可选功能，将跨应用和网站活动转为记忆与时间线，供 ChatGPT 和 Codex 使用。",
+      "用户可自选参与的应用和网站，暂停收集，并随时查看或删除历史记录。",
+      "面向 Pro、Business、Enterprise；企业需管理员开启，初期不含 EEA、瑞士和英国。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

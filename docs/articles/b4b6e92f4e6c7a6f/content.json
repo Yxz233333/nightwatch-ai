@@ -1,0 +1,25 @@
+{
+  "id": "b4b6e92f4e6c7a6f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Doppel’s AI defense system stops attacks before they spread",
+  "summary": "Doppel 使用 GPT-5 和强化微调来阻止深度伪造与冒名攻击。",
+  "url": "https://openai.com/index/doppel",
+  "date": "2025-10-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-28T10:00:00+00:00",
+  "titleEn": "Doppel’s AI defense system stops attacks before they spread",
+  "titleZh": "Doppel 的 AI 防御系统在攻击扩散前将其阻止",
+  "details": {
+    "overview": "Doppel 使用 GPT-5 和强化微调来阻止深度伪造与冒名攻击。官方摘要称，该方案将分析师工作量削减 80%，并将响应时间从数小时缩短至数分钟。该消息来自官方发布记录，具体效果和适用范围以原文为准。",
+    "keyPoints": [
+      "Doppel 采用 GPT-5 和强化微调防御深度伪造与冒名攻击。",
+      "官方称分析师工作量减少 80%。",
+      "官方称响应时间从数小时缩短至数分钟。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

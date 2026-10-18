@@ -1,0 +1,25 @@
+{
+  "id": "0b95fca6396d57c5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+  "summary": "该官方发布介绍了一种结合SkyPilot与Hugging Face的存储方案，允许用户在任意云上运行AI工作负载，并将数据存储在Hugging Face，实现零出口费用。",
+  "url": "https://huggingface.co/blog/skypilot-hf-storage",
+  "date": "2026-07-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-07-07T00:00:00+00:00",
+  "titleEn": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+  "titleZh": "在任意云上运行AI工作负载，在Hugging Face上存储：使用SkyPilot实现零出口存储",
+  "details": {
+    "overview": "该官方发布介绍了一种结合SkyPilot与Hugging Face的存储方案，允许用户在任意云上运行AI工作负载，并将数据存储在Hugging Face，实现零出口费用。摘要未提供具体技术细节、性能数据或适用范围，仅说明核心理念。其意义在于可能降低跨云数据迁移成本，但实际效果需以原文为准。",
+    "keyPoints": [
+      "方案支持在任意云上运行AI工作负载，数据存储于Hugging Face。",
+      "宣称实现零出口存储，可能减少跨云数据传输费用。",
+      "具体推出范围和限制需以官方原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

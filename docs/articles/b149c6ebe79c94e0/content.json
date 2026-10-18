@@ -1,0 +1,24 @@
+{
+  "id": "b149c6ebe79c94e0",
+  "section": "news",
+  "category": "模型动态",
+  "title": "How Claude’s text watermark works",
+  "summary": "该文说明未来Claude模型将在生成文本中加入水印，以配合欧盟《人工智能法案》，并解释其原理：模型逐词生成时，在多个同样合理的候选词之间，水印用密钥和前置词决定随机选择来源，从而留下读者不可见、持密钥者可检测的模式。",
+  "url": "https://www.anthropic.com/news/claude-text-watermark",
+  "date": "2026-08-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-08-14T19:16:00+00:00",
+  "titleEn": "How Claude’s text watermark works",
+  "titleZh": "Claude文本水印如何运作",
+  "details": {
+    "overview": "该文说明未来Claude模型将在生成文本中加入水印，以配合欧盟《人工智能法案》，并解释其原理：模型逐词生成时，在多个同样合理的候选词之间，水印用密钥和前置词决定随机选择来源，从而留下读者不可见、持密钥者可检测的模式。作者声称水印不改变输出质量，并引用SynthID-Text论文及内部测试；同时指出局限：只能估计文本部分由Claude撰写的可能性，短文本、事实性内容和轻度校对场景效果有限。",
+    "keyPoints": [
+      "水印只改变选词随机性的来源，不改变词义与可读性。",
+      "检测只能给出“文本部分由Claude撰写”的可能性，无法识别其他AI。",
+      "短文本、事实性段落和轻度校对中可承载水印的选择较少。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

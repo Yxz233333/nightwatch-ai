@@ -1,0 +1,23 @@
+{
+  "id": "83204000d6be9f76",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Create and share personalized sticker packs",
+  "summary": "ChatGPT 移动端新增贴纸包功能：用户可用一句提示词或一张照片生成一组贴纸，也可从首页或 Images 中选择模板。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-share-personalized-sticker-packs",
+  "date": "2026-08-31",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Create and share personalized sticker packs",
+  "titleZh": "创建并分享个性化贴纸包",
+  "details": {
+    "overview": "ChatGPT 移动端新增贴纸包功能：用户可用一句提示词或一张照片生成一组贴纸，也可从首页或 Images 中选择模板。生成的贴纸可下载，或在受支持的设备上添加到 iMessage、WhatsApp 等消息应用中使用。官方称该功能面向全球所有 ChatGPT 移动端用户开放，需更新应用后可见。",
+    "keyPoints": [
+      "可用提示词或照片生成一组消息贴纸",
+      "支持从首页或 Images 选择贴纸模板",
+      "可下载或添加到 iMessage、WhatsApp 等应用"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

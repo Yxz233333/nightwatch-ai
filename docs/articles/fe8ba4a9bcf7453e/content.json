@@ -1,0 +1,24 @@
+{
+  "id": "fe8ba4a9bcf7453e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "3.5 Flash delivers frontier-level intelligence for your daily life.",
+  "summary": "官方发布介绍Gemini 3.5 Flash，称其为完成高难度任务最快、最高效的模型，可在速度下提供前沿级智能。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2026-05-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|3.5 Flash delivers frontier-level intelligence for your daily life.|2026-05-19",
+  "titleEn": "3.5 Flash delivers frontier-level intelligence for your daily life.",
+  "titleZh": "3.5 Flash为日常生活带来前沿级智能",
+  "details": {
+    "overview": "官方发布介绍Gemini 3.5 Flash，称其为完成高难度任务最快、最高效的模型，可在速度下提供前沿级智能。它面向日常多文档分析和多步骤项目等场景，设计用于应对现实复杂性并帮助用户行动。该模型面向全球所有用户推出，可在模型下拉菜单中选择“3.5 Flash”访问。官方目标是让Gemini成为对所有人最有帮助的AI助手，使用户不必在速度与质量之间取舍。",
+    "keyPoints": [
+      "Gemini 3.5 Flash定位为快速高效完成高难度任务的模型",
+      "面向日常文档分析与多步骤项目等真实场景",
+      "全球推出，用户可在模型下拉菜单中选择使用"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ebe47efb0674a208",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Reimagining advertising with AI",
+  "summary": "该官方发布介绍OpenAI推出的AI驱动广告体验，包括Sponsored Agents、面向营销人员的工具，以及与HubSpot和Shopify的集成。",
+  "url": "https://openai.com/index/reimagining-advertising-with-ai",
+  "date": "2026-09-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-16T13:00:00+00:00",
+  "titleEn": "Reimagining advertising with AI",
+  "titleZh": "用AI重新构想广告",
+  "details": {
+    "overview": "该官方发布介绍OpenAI推出的AI驱动广告体验，包括Sponsored Agents、面向营销人员的工具，以及与HubSpot和Shopify的集成。材料仅列出这些方向，未说明具体功能形态、可用范围或定价，相关推出范围和限制需以原文为准。",
+    "keyPoints": [
+      "OpenAI推出AI驱动的广告体验。",
+      "内容包括Sponsored Agents与营销人员工具。",
+      "提及与HubSpot和Shopify的集成。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

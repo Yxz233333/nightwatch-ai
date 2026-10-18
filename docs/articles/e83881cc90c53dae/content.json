@@ -1,0 +1,24 @@
+{
+  "id": "e83881cc90c53dae",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Strengthening our defenses against distillation attacks",
+  "summary": "Anthropic 发文称已通过新方法将 Claude 遭蒸馏攻击的数据采集量减少约 90% 至 99%。",
+  "url": "https://www.anthropic.com/research/distillation-defenses",
+  "date": "2026-10-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-10-12T09:30:00+00:00",
+  "titleEn": "Strengthening our defenses against distillation attacks",
+  "titleZh": "加强对蒸馏攻击的防御",
+  "details": {
+    "overview": "Anthropic 发文称已通过新方法将 Claude 遭蒸馏攻击的数据采集量减少约 90% 至 99%。文章将非法蒸馏描述为利用欺诈账户网络大规模提取模型能力的行为，并称其带来安全和国家风险。Anthropic 介绍了防御措施，包括对推理内容进行摘要、检测提取隐藏推理的请求，以及在 Claude Fable 5.1 和 Opus 5.5 中引入 preserved thinking 等。文章也承认这些措施对合法用户和公司收入存在取舍。",
+    "keyPoints": [
+      "Anthropic 称新方法将蒸馏攻击的数据采集量减少约 90% 至 99%。",
+      "防御重点在于让蒸馏者更难获取 Claude 的推理记录。",
+      "公司承认防御措施对合法用户和自身收入存在取舍。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

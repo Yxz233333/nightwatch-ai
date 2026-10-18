@@ -1,0 +1,24 @@
+{
+  "id": "8ecf738160b78d10",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Lilly Deploys World’s Largest, Most Powerful AI Factory for Drug Discovery Using NVIDIA Blackwell-Based DGX SuperPOD",
+  "summary": "官方发布称，制药企业礼来正在部署由其完全拥有和运营的最大、最强AI工厂，用于药物发现，这是全球首个采用DGX B300系统的NVIDIA DGX SuperPOD。",
+  "url": "https://blogs.nvidia.com/blog/lilly-ai-factory-nvidia-blackwell-dgx-superpod/",
+  "date": "2025-10-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-10-28T18:00:02+00:00",
+  "titleEn": "Lilly Deploys World’s Largest, Most Powerful AI Factory for Drug Discovery Using NVIDIA Blackwell-Based DGX SuperPOD",
+  "titleZh": "礼来基于NVIDIA Blackwell的DGX SuperPOD部署全球最大最强药物发现AI工厂",
+  "details": {
+    "overview": "官方发布称，制药企业礼来正在部署由其完全拥有和运营的最大、最强AI工厂，用于药物发现，这是全球首个采用DGX B300系统的NVIDIA DGX SuperPOD。材料仅给出这一部署定位，未披露算力规模、上线时间或具体药物发现成果，相关细节需以原文为准。",
+    "keyPoints": [
+      "礼来部署用于药物发现的AI工厂",
+      "该设施由制药企业完全拥有和运营",
+      "采用全球首个DGX B300系统的NVIDIA DGX SuperPOD"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

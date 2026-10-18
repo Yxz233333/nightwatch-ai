@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-18T16:02:14.498Z",
+  "syncedAt": "2026-10-18T16:05:25.980Z",
   "articles": [
     {
       "id": "d5ac4abc71996d26",
@@ -539,7 +539,7 @@
       "titleEn": "GPT-6.1 Sol Ultrafast in Codex and ChatGPT Work",
       "titleZh": "Codex与ChatGPT Work中的GPT-6.1 Sol Ultrafast",
       "details": {
-        "overview": "该功能更新称Ultrafast模式可在Codex和ChatGPT Work中加速GPT-6.1 Sol的token生成。该模式面向Pro $500及符合条件的Enterprise和Edu计划；企业访问默认关闭，需工作区所有者启用。GPT-6.1 Sol Ultrafast支持在美国和欧洲（EEA+瑞士）进行推理驻留。原文未提供具体速度提升数据。",
+        "overview": "该功能更新称Ultrafast模式可在Codex和ChatGPT Work中加速GPT-6.1 Sol的token生成。该模式面向Pro $500及符合条件的Enterprise和Edu计划；企业访问默认关闭，需工作区所有者启用。GPT-6.1 Sol Ultrafast支持在美国和欧洲（EEA+瑞士）进行推理驻留。当前收录材料未提供具体速度提升数据。",
         "keyPoints": [
           "Ultrafast模式加速Codex和ChatGPT Work中GPT-6.1 Sol的token生成。",
           "面向Pro $500及符合条件的Enterprise和Edu计划，企业默认关闭需手动启用。",
@@ -1766,7 +1766,7 @@
       "date": "2026-09-29",
       "status": "官方已宣布；账户、套餐、客户端和灰度范围以原文为准。",
       "details": {
-        "overview": "该条目为功能更新类信息，主题是 Codex Cloud 支持跨设备继续编码任务。已有简介称其使用隔离云端工作区，可在本机休眠时继续执行任务。原文未提供摘要，具体账户要求、套餐、客户端支持与灰度范围均不明确，需以官方原文为准。本条不涉及研究结论，仅描述一项产品功能动态。",
+        "overview": "该条目为功能更新类信息，主题是 Codex Cloud 支持跨设备继续编码任务。已有简介称其使用隔离云端工作区，可在本机休眠时继续执行任务。当前收录材料未提供摘要，具体账户要求、套餐、客户端支持与灰度范围均不明确，需以官方原文为准。本条不涉及研究结论，仅描述一项产品功能动态。",
         "keyPoints": [
           "主题为 Codex Cloud 跨设备继续编码任务。",
           "简介称使用隔离云端工作区，本机休眠时仍可执行。",
@@ -2487,7 +2487,7 @@
         "keyPoints": [
           "macOS 26.924.20706 修复 CVE-2026-100754",
           "致谢 Objective-See Foundation 的 Patrick Wardle",
-          "原文未披露漏洞细节与影响范围"
+          "当前收录材料未提供漏洞细节与影响范围"
         ],
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       },
@@ -3179,7 +3179,7 @@
       "titleEn": "GPT-6 Sol and Luna in Work and Codex",
       "titleZh": "GPT-6 Sol 与 Luna 登陆 ChatGPT Work 和 Codex",
       "details": {
-        "overview": "官方发布信息显示，GPT-6 Sol 和 GPT-6 Luna 被引入 ChatGPT Work 与 Codex，这两款模型与 Chat 中可用的模型相互独立。Codex 桌面端会保留用户手动选择的模型，可用模型及推理强度选项取决于套餐与工作区设置。原文未披露模型能力、参数或评测细节，推出范围与限制需以原始发布为准。",
+        "overview": "官方发布信息显示，GPT-6 Sol 和 GPT-6 Luna 被引入 ChatGPT Work 与 Codex，这两款模型与 Chat 中可用的模型相互独立。Codex 桌面端会保留用户手动选择的模型，可用模型及推理强度选项取决于套餐与工作区设置。当前收录材料未提供模型能力、参数或评测细节，推出范围与限制需以原始发布为准。",
         "keyPoints": [
           "GPT-6 Sol 与 Luna 面向 ChatGPT Work 和 Codex，与 Chat 模型分开",
           "Codex 桌面端保留用户手动选择的模型",
@@ -6530,7 +6530,7 @@
         "keyPoints": [
           "版本26.814聚焦性能改进与缺陷修复。",
           "侧边栏项目在聊天活动变化时保持已保存顺序。",
-          "原文未披露其他改动或具体性能数据。"
+          "当前收录材料未提供其他改动或具体性能数据。"
         ],
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       },
@@ -7981,7 +7981,7 @@
       "titleEn": "ChatGPT Voice in Work and Codex on desktop",
       "titleZh": "ChatGPT 语音功能登陆 Work 与桌面端 Codex",
       "details": {
-        "overview": "OpenAI 宣布 ChatGPT 语音功能现已在 ChatGPT 桌面应用的 Work 和 Codex 中可用。用户可在语音模式中新建任务，自然说话、打断，并让语音功能利用所选体验可用的工具和权限来启动或协调工作。官方摘要还引导用户查看 ChatGPT 语音的定价与限制。原文未披露具体定价、可用地区或更细的功能边界。",
+        "overview": "OpenAI 宣布 ChatGPT 语音功能现已在 ChatGPT 桌面应用的 Work 和 Codex 中可用。用户可在语音模式中新建任务，自然说话、打断，并让语音功能利用所选体验可用的工具和权限来启动或协调工作。官方摘要还引导用户查看 ChatGPT 语音的定价与限制。当前收录材料未提供具体定价、可用地区或更细的功能边界。",
         "keyPoints": [
           "ChatGPT 语音已可在桌面应用的 Work 和 Codex 中使用。",
           "用户可在语音模式中新建任务，自然说话并打断。",
@@ -12476,7 +12476,7 @@
       "titleEn": "Codex for Chrome",
       "titleZh": "Codex for Chrome",
       "details": {
-        "overview": "这是 Codex 面向 Chrome 浏览器的扩展功能更新。官方说明称，安装该扩展后，Codex 能更好地在浏览器中处理应用和网站；它可在后台跨多个标签页并行工作，且不会接管用户的浏览器；用户仍可自行控制 Codex 能访问哪些网站。原文未披露具体推出范围、可用地区或功能限制，相关细节需以官方文档和原始发布为准。",
+        "overview": "这是 Codex 面向 Chrome 浏览器的扩展功能更新。官方说明称，安装该扩展后，Codex 能更好地在浏览器中处理应用和网站；它可在后台跨多个标签页并行工作，且不会接管用户的浏览器；用户仍可自行控制 Codex 能访问哪些网站。当前收录材料未提供具体推出范围、可用地区或功能限制，相关细节需以官方文档和原始发布为准。",
         "keyPoints": [
           "Codex 推出 Chrome 扩展，可在浏览器中处理应用和网站。",
           "支持在后台跨标签页并行工作，不接管浏览器。",
@@ -21840,7 +21840,7 @@
       "titleEn": "Custom prompts deprecated",
       "titleZh": "自定义提示词已弃用",
       "details": {
-        "overview": "Codex 宣布自定义提示词（Custom prompts）已弃用，建议改用 skills 来承载可复用的指令和工作流。原文仅给出这一弃用与替代建议，未说明弃用时间表、迁移方式或兼容安排，相关信息不足。",
+        "overview": "Codex 宣布自定义提示词（Custom prompts）已弃用，建议改用 skills 来承载可复用的指令和工作流。当前收录材料仅给出这一弃用与替代建议，未说明弃用时间表、迁移方式或兼容安排，相关信息不足。",
         "keyPoints": [
           "自定义提示词功能已被标记为弃用",
           "官方建议改用 skills 实现可复用指令与工作流",
@@ -23613,7 +23613,7 @@
       "titleEn": "Codex CLI 0.75.0 发布",
       "titleZh": "Codex CLI 0.75.0 发布",
       "details": {
-        "overview": "Codex CLI 0.75.0 发布，原始发布记录列出三项合并的 PR：新增启动画面（splash screen）、迁移到新的基于约束的加载策略、云端执行默认使用当前分支。原文未提供更多功能说明或变更细节，具体行为以对应版本为准。",
+        "overview": "Codex CLI 0.75.0 发布，原始发布记录列出三项合并的 PR：新增启动画面（splash screen）、迁移到新的基于约束的加载策略、云端执行默认使用当前分支。当前收录材料未提供更多功能说明或变更细节，具体行为以对应版本为准。",
         "keyPoints": [
           "新增启动画面",
           "迁移到基于约束的加载策略",
@@ -25473,7 +25473,7 @@
       "titleEn": "Codex CLI 0.60.1 发布",
       "titleZh": "Codex CLI 0.60.1 发布",
       "details": {
-        "overview": "这是 Codex CLI 的缺陷修复版本，发布说明称大部分重要新变更位于 0.59.0 版本。0.60.1 的主要修复是：API 用户的默认模型现为 gpt-5.1-codex。原文未提供更多功能变化或兼容性说明，桌面端功能另以对应公告为准。",
+        "overview": "这是 Codex CLI 的缺陷修复版本，发布说明称大部分重要新变更位于 0.59.0 版本。0.60.1 的主要修复是：API 用户的默认模型现为 gpt-5.1-codex。当前收录材料未提供更多功能变化或兼容性说明，桌面端功能另以对应公告为准。",
         "keyPoints": [
           "0.60.1 为缺陷修复版本，重要新变更主要在 0.59.0。",
           "API 用户默认模型改为 gpt-5.1-codex。",
@@ -26401,7 +26401,7 @@
       "titleEn": "GPT-5-Codex model update",
       "titleZh": "GPT-5-Codex 模型更新",
       "details": {
-        "overview": "官方发布 GPT-5-Codex 的小幅更新，摘要列出四项变化：使用 apply_patch 进行文件编辑更可靠；减少 git reset 等破坏性操作；遇到用户对文件的修改时表现更协作；在时间和用量上效率提升 3%。原文未提供测试方法或独立验证信息。",
+        "overview": "官方发布 GPT-5-Codex 的小幅更新，摘要列出四项变化：使用 apply_patch 进行文件编辑更可靠；减少 git reset 等破坏性操作；遇到用户对文件的修改时表现更协作；在时间和用量上效率提升 3%。当前收录材料未提供测试方法或独立验证信息。",
         "keyPoints": [
           "apply_patch 文件编辑更可靠",
           "减少 git reset 等破坏性操作",
@@ -26758,7 +26758,7 @@
         "keyPoints": [
           "ChatGPT Plus和Pro的Codex用户可购买按需额度",
           "按需额度用于套餐包含用量之外的额外Codex使用",
-          "原文未披露价格与额度数量细节"
+          "当前收录材料未提供价格与额度数量细节"
         ],
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       },
@@ -26781,7 +26781,7 @@
         "keyPoints": [
           "Codex和Sora用户可在达到套餐上限后购买额外用量",
           "Codex额度可在仪表板购买，Sora可购买更多视频生成次数",
-          "原文未披露额度价格与具体数量"
+          "当前收录材料未提供额度价格与具体数量"
         ],
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       },

@@ -13,7 +13,7 @@
   "titleEn": "A smooth three-torus diffeomorphism with simple Lebesgue spectrum",
   "titleZh": "具有简单Lebesgue谱的光滑三维环面微分同胚",
   "details": {
-    "overview": "稿件研究保测动力系统中的Banach简单Lebesgue谱问题。作者声称在光滑动力系统范围内解决了该问题的保概率形式：构造出三维环面上的C∞微分同胚，它保持标准体积，且其Koopman算子在全体均值为零的L2空间上具有简单Lebesgue谱。摘要未给出构造细节或谱论证步骤。该结果若成立，将为光滑系统中长期开放的简单Lebesgue谱问题提供首个三维环面例子。",
+    "overview": "稿件研究保测动力系统中的Banach简单Lebesgue谱问题。作者声称在光滑动力系统范围内解决了该问题的保概率形式：构造出三维环面上的C∞微分同胚，它保持标准体积，且其Koopman算子在全体均值为零的L2空间上具有简单Lebesgue谱。当前收录摘要未给出构造细节或谱论证步骤。该结果若成立，将为光滑系统中长期开放的简单Lebesgue谱问题提供首个三维环面例子。",
     "keyPoints": [
       "作者声称解决Banach简单Lebesgue谱问题的保概率形式。",
       "构造三维环面C∞微分同胚，保持标准体积。",

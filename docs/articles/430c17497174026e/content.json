@@ -1,0 +1,25 @@
+{
+  "id": "430c17497174026e",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing gpt-oss-safeguard",
+  "summary": "OpenAI 发布 gpt-oss-safeguard，这是一组开放权重的推理模型，专用于安全分类任务。",
+  "url": "https://openai.com/index/introducing-gpt-oss-safeguard",
+  "date": "2025-10-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-29T00:00:00+00:00",
+  "titleEn": "Introducing gpt-oss-safeguard",
+  "titleZh": "推出 gpt-oss-safeguard",
+  "details": {
+    "overview": "OpenAI 发布 gpt-oss-safeguard，这是一组开放权重的推理模型，专用于安全分类任务。开发者可借助这些模型应用并迭代自定义策略，从而在自身场景中灵活调整安全判定逻辑。该发布属于模型动态，具体推出范围和限制需以官方原文为准。",
+    "keyPoints": [
+      "gpt-oss-safeguard 是开放权重的推理模型，面向安全分类。",
+      "开发者可应用并迭代自定义策略，适配不同安全需求。",
+      "发布信息来自官方记录，推出范围以原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

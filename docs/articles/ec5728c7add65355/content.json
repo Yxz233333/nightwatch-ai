@@ -1,0 +1,24 @@
+{
+  "id": "ec5728c7add65355",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
+  "summary": "该新闻讨论 AI 工厂按兆瓦甚至吉瓦建设，每兆瓦工厂成本约 6000 万美元，运营者需要清晰的投资回报预期才会投入这种规模资本。",
+  "url": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
+  "date": "2026-10-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-10-01T13:00:49+00:00",
+  "titleEn": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
+  "titleZh": "高产、耐用、可替代：NVIDIA AI 工厂如何最大化投资回报",
+  "details": {
+    "overview": "该新闻讨论 AI 工厂按兆瓦甚至吉瓦建设，每兆瓦工厂成本约 6000 万美元，运营者需要清晰的投资回报预期才会投入这种规模资本。原文提出三个关键因素影响回报，但摘要仅展开“ earning capacity”一项，即工厂一年可能赚取什么，其余因素未在现有材料中说明。",
+    "keyPoints": [
+      "AI 工厂按兆瓦或吉瓦规模建设。",
+      "每兆瓦工厂成本约 6000 万美元。",
+      "投资回报受三个关键因素影响，摘要仅提及 earning capacity。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

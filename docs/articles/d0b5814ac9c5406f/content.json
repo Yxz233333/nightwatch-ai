@@ -1,0 +1,25 @@
+{
+  "id": "d0b5814ac9c5406f",
+  "section": "news",
+  "category": "模型动态",
+  "title": "With GPT-5, Wrtn builds lifestyle AI for millions in Korea",
+  "summary": "该官方摘要称，Wrtn 借助 GPT-5 将 AI 应用在韩国扩展至 650 万用户，打造融合生产力、创造力与学习的“生活 AI”，并正在向东亚其他地区扩张。",
+  "url": "https://openai.com/index/wrtn",
+  "date": "2025-10-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-02T10:00:00+00:00",
+  "titleEn": "With GPT-5, Wrtn builds lifestyle AI for millions in Korea",
+  "titleZh": "借助 GPT-5，Wrtn 在韩国为数百万用户打造生活 AI",
+  "details": {
+    "overview": "该官方摘要称，Wrtn 借助 GPT-5 将 AI 应用在韩国扩展至 650 万用户，打造融合生产力、创造力与学习的“生活 AI”，并正在向东亚其他地区扩张。材料仅提供这一概述，未说明具体产品形态、使用方式或效果评估细节，相关数据与范围应以原文为准。",
+    "keyPoints": [
+      "Wrtn 借助 GPT-5 在韩国将 AI 应用扩展至 650 万用户",
+      "其“生活 AI”融合生产力、创造力与学习场景",
+      "业务正从韩国向东亚其他地区扩张"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

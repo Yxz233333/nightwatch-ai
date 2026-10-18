@@ -1,0 +1,25 @@
+{
+  "id": "3d04b23e0852348c",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.79.0 发布",
+  "summary": "Codex CLI 0.79.0 版本更新公告。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.79.0",
+  "date": "2026-01-07",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-01-07T00:56:03+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.79.0 发布",
+  "titleZh": "Codex CLI 0.79.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.79.0 版本更新公告。新功能包括多会话“agent control”，使会话能以编程方式派生或向其他会话发消息；app-server 新增 thread/rollback，供 IDE 客户端撤销最近若干轮而不重写历史；新增 web_search_cached 仅用缓存搜索结果；允许在 codex exec resume 后传全局执行标志；TUI 显示按时间/版本定向的公告提示；新增 analytics 配置段。修复涉及 TUI2 转录重排、apply_patch 标记容错、托管配置绕过等。",
+    "keyPoints": [
+      "新增多会话 agent control，可编程派生或消息其他会话。",
+      "app-server 增加 thread/rollback，支持撤销最近 N 轮。",
+      "新增 web_search_cached，仅使用缓存搜索结果。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

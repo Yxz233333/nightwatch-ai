@@ -1,0 +1,25 @@
+{
+  "id": "e1fb70f1f894b88e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How NVIDIA scales expertise with ChatGPT Work",
+  "summary": "该文介绍 NVIDIA 团队使用 ChatGPT Work 的实践，称其用于减少人工任务、连接快速变化的信号，并在全球范围内推广成功的工作流程。",
+  "url": "https://openai.com/index/nvidia/chatgpt-work",
+  "date": "2026-08-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-18T00:00:00+00:00",
+  "titleEn": "How NVIDIA scales expertise with ChatGPT Work",
+  "titleZh": "NVIDIA 如何借助 ChatGPT Work 扩展专业能力",
+  "details": {
+    "overview": "该文介绍 NVIDIA 团队使用 ChatGPT Work 的实践，称其用于减少人工任务、连接快速变化的信号，并在全球范围内推广成功的工作流程。当前收录材料仅给出这一概括性描述，未披露具体团队、使用场景、效果数据或部署范围，相关细节需以官方原始发布为准。",
+    "keyPoints": [
+      "NVIDIA 团队使用 ChatGPT Work 开展日常工作。",
+      "用途包括减少人工任务与连接快速变化的信号。",
+      "目标是在全球范围推广成功工作流程。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

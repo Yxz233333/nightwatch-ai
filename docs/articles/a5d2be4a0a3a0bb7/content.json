@@ -1,0 +1,25 @@
+{
+  "id": "a5d2be4a0a3a0bb7",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.39.0 发布",
+  "summary": "Codex CLI 0.39.0 为稳定版本发布，新增 /review 命令。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.39.0",
+  "date": "2025-09-19",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-09-18T21:48:53+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.39.0 发布",
+  "titleZh": "Codex CLI 0.39.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.39.0 为稳定版本发布，新增 /review 命令。合并的 PR 涉及多项修复与调整：分离对话与沙箱的工作目录关注点、重构记录视图以处理 HistoryCells、修复 TUI 通知缺失报错、改用 tokio 互斥锁与异步函数避免阻塞工作线程、修复 Rust 引用细节、在 TUI 退出时提示 codex resume、使 ESC 在自动压缩时可用、统一动画、切换到 uuid_v7 并收紧 ConversationId 使用等。",
+    "keyPoints": [
+      "新增 /review 命令",
+      "修复 TUI 通知缺失报错，并让 ESC 在自动压缩时可用",
+      "改用 tokio 互斥锁与异步函数以避免阻塞工作线程"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

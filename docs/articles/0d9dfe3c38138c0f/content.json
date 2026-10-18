@@ -1,0 +1,25 @@
+{
+  "id": "0d9dfe3c38138c0f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+  "summary": "该条目介绍 AI 实验室 Third Moment Research 的智能体实践：据摘要，其借助 GPT-6 Astra、GPT-6.1 Sol、Codex 以及面向网络安全的 Daybreak，构建能够长时间专注并随使用而改进的智能体，并称可让 1 万个智能体运行 36 小时以上。",
+  "url": "https://openai.com/index/third-moment-research",
+  "date": "2026-10-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-10-14T07:00:00+00:00",
+  "titleEn": "How Third Moment Research runs 10,000 agents for 36+ hours",
+  "titleZh": "Third Moment Research 如何让 1 万个智能体持续运行 36 小时以上",
+  "details": {
+    "overview": "该条目介绍 AI 实验室 Third Moment Research 的智能体实践：据摘要，其借助 GPT-6 Astra、GPT-6.1 Sol、Codex 以及面向网络安全的 Daybreak，构建能够长时间专注并随使用而改进的智能体，并称可让 1 万个智能体运行 36 小时以上。现有材料未说明具体任务类型、改进机制与评测方式，相关规模与时长数据均来自该实验室自述，未经独立验证。",
+    "keyPoints": [
+      "该实验室称让 1 万个智能体运行 36 小时以上",
+      "所用模型包括 GPT-6 Astra、GPT-6.1 Sol 与 Codex",
+      "还使用面向网络安全的 Daybreak，细节未披露"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

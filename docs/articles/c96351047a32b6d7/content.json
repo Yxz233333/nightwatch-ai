@@ -1,0 +1,23 @@
+{
+  "id": "c96351047a32b6d7",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Retiring GPT-5.2 models",
+  "summary": "OpenAI宣布，自2026年6月12日起，GPT-5.2模型不再在ChatGPT中提供，涉及GPT-5.2 Instant、GPT-5.2 Thinking和GPT-5.2 Pro。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-52-models",
+  "date": "2026-06-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Retiring GPT-5.2 models",
+  "titleZh": "GPT-5.2系列模型退役",
+  "details": {
+    "overview": "OpenAI宣布，自2026年6月12日起，GPT-5.2模型不再在ChatGPT中提供，涉及GPT-5.2 Instant、GPT-5.2 Thinking和GPT-5.2 Pro。此前使用GPT-5.2的现有对话将自动转到对应的GPT-5.5模型继续，GPT-5.5模型仍在ChatGPT中可用。该退役计划已在发布GPT-5.3 Instant时预告。原文说明，模型通常会在继任者发布后继续在ChatGPT中提供90天。",
+    "keyPoints": [
+      "自2026年6月12日起，GPT-5.2 Instant、Thinking和Pro不再在ChatGPT提供。",
+      "使用GPT-5.2的现有对话将自动转到对应的GPT-5.5模型。",
+      "该退役已在GPT-5.3 Instant发布时预告，模型一般在继任者发布后保留90天。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

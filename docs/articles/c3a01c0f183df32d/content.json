@@ -1,0 +1,25 @@
+{
+  "id": "c3a01c0f183df32d",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.72.0 发布",
+  "summary": "Codex CLI 0.72.0 发布说明列出多项更新：清理配置 API 与配置加载流程；为 API 密钥用户启用远程压缩；恢复 TUI 中 MCP 启动进度消息并改用最新磁盘值显示服务器状态；改进 Windows 与 PowerShell 支持；更新沙箱与安全设置；并针对 gpt-5.2 调整提示与推理警告。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.72.0",
+  "date": "2025-12-13",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-12-13T01:22:42+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.72.0 发布",
+  "titleZh": "Codex CLI 0.72.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.72.0 发布说明列出多项更新：清理配置 API 与配置加载流程；为 API 密钥用户启用远程压缩；恢复 TUI 中 MCP 启动进度消息并改用最新磁盘值显示服务器状态；改进 Windows 与 PowerShell 支持；更新沙箱与安全设置；并针对 gpt-5.2 调整提示与推理警告。该版本为 CLI 稳定版，桌面端功能以对应公告为准。",
+    "keyPoints": [
+      "新增配置 API 并清理配置加载流程",
+      "API 密钥会话支持远程压缩",
+      "改进 Windows/PowerShell 与沙箱安全"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

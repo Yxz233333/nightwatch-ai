@@ -1,0 +1,24 @@
+{
+  "id": "ba9bfb685e49d41c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "5 Companies Using NVIDIA AI for Clean Energy",
+  "summary": "原文称，清洁能源并不稀缺，但大规模采用受制于基础设施老旧、研发周期长和前期成本等瓶颈。",
+  "url": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
+  "date": "2026-09-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-09-21T10:00:35+00:00",
+  "titleEn": "5 Companies Using NVIDIA AI for Clean Energy",
+  "titleZh": "五家利用 NVIDIA AI 推进清洁能源的公司",
+  "details": {
+    "overview": "原文称，清洁能源并不稀缺，但大规模采用受制于基础设施老旧、研发周期长和前期成本等瓶颈。在纽约气候周上，NVIDIA 重点介绍五家将 AI 融入基础的清洁能源公司，以加速从研究到落地的进程。原文在此截断，未列出公司名称、具体项目或量化成效，需以完整发布内容为准。",
+    "keyPoints": [
+      "NVIDIA 在纽约气候周介绍五家清洁能源公司",
+      "这些公司将 AI 融入清洁能源项目基础",
+      "原文未列出公司名称与具体成效数据"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

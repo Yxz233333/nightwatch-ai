@@ -1,0 +1,25 @@
+{
+  "id": "f051df76e50b12b8",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.129.0 发布",
+  "summary": "Codex CLI 发布0.129.0稳定版本，TUI新增模态Vim编辑、重设计的恢复/分叉选择器、原始回滚模式、/ide上下文注入和工作区感知的/diff。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.129.0",
+  "date": "2026-05-08",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-05-07T17:02:13+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.129.0 发布",
+  "titleZh": "Codex CLI 0.129.0 发布",
+  "details": {
+    "overview": "Codex CLI 发布0.129.0稳定版本，TUI新增模态Vim编辑、重设计的恢复/分叉选择器、原始回滚模式、/ide上下文注入和工作区感知的/diff。状态行支持主题配色与PR、分支变更摘要，插件管理支持工作区共享与访问控制，钩子可在压缩前后运行。修复涵盖tmux中的复制、Windows输入延迟、Linux与Windows沙箱启动可靠性及代理环境下的自定义CA登录等。",
+    "keyPoints": [
+      "TUI支持模态Vim编辑与/ide上下文注入、工作区感知/diff",
+      "插件管理新增工作区共享、访问控制与远程包同步",
+      "修复Linux/Windows沙箱启动、tmux复制与Windows输入延迟"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

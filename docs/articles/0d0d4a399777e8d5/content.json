@@ -1,0 +1,23 @@
+{
+  "id": "0d0d4a399777e8d5",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Location Sharing",
+  "summary": "ChatGPT 新增可选的设备位置共享功能，默认关闭，用户可在设置的数据控制中随时开启或关闭。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#location-sharing",
+  "date": "2026-03-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Location Sharing",
+  "titleZh": "位置共享",
+  "details": {
+    "overview": "ChatGPT 新增可选的设备位置共享功能，默认关闭，用户可在设置的数据控制中随时开启或关闭。开启后 ChatGPT 可获取精确位置，用于提供本地推荐、新闻和天气等更相关信息；移动端可单独关闭精确位置而保留大致位置。官方说明精确位置数据在使用后即删除，但若回复中包含附近餐厅名称或地图等信息，该内容会像普通回复一样留在聊天记录中。设有家长控制的家长可为青少年关闭该功能。该功能面向 iOS、Android 和网页端的全部 ChatGPT 消费者套餐推出。",
+    "keyPoints": [
+      "位置共享默认关闭，用户可在设置的数据控制中随时更改。",
+      "开启后启用精确位置，移动端可单独关闭精确位置保留大致位置。",
+      "官方称精确位置数据使用后删除，但相关回复内容会留在聊天记录。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "6e320b457389da28",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing the Australian Youth Safety Blueprint",
+  "summary": "据官方发布记录，OpenAI推出“澳大利亚青少年安全蓝图”，以六大支柱为框架，规划更安全的AI体验，目标是既保护青少年又赋能青少年。",
+  "url": "https://openai.com/index/australian-youth-safety-blueprint",
+  "date": "2026-09-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-18T12:00:00+00:00",
+  "titleEn": "Introducing the Australian Youth Safety Blueprint",
+  "titleZh": "推出澳大利亚青少年安全蓝图",
+  "details": {
+    "overview": "据官方发布记录，OpenAI推出“澳大利亚青少年安全蓝图”，以六大支柱为框架，规划更安全的AI体验，目标是既保护青少年又赋能青少年。现有材料仅给出框架名称与总体定位，未披露各支柱的具体内容、实施方式或时间安排，相关细节应以原始发布为准。",
+    "keyPoints": [
+      "OpenAI发布澳大利亚青少年安全蓝图",
+      "采用六大支柱框架规划更安全的AI体验",
+      "兼顾保护与赋能青少年的双重目标"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

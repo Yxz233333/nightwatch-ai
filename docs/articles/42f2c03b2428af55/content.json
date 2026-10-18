@@ -1,0 +1,24 @@
+{
+  "id": "42f2c03b2428af55",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Measuring AI agent autonomy in practice",
+  "summary": "该研究利用隐私保护工具分析Claude Code与公共API中数百万次人机交互，考察人们给予智能体多少自主权、随经验如何变化、涉及哪些领域以及动作是否有风险。",
+  "url": "https://www.anthropic.com/research/measuring-agent-autonomy",
+  "date": "2026-02-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-02-18T15:10:00+00:00",
+  "titleEn": "Measuring AI agent autonomy in practice",
+  "titleZh": "实测AI智能体的自主性",
+  "details": {
+    "overview": "该研究利用隐私保护工具分析Claude Code与公共API中数百万次人机交互，考察人们给予智能体多少自主权、随经验如何变化、涉及哪些领域以及动作是否有风险。发布称Claude Code的回合时长中位数约45秒，而99.9分位回合时长在2025年10月至2026年1月间从不足25分钟增至超过45分钟。内部使用数据显示，8月至12月最难任务成功率翻倍，每会话人工干预从5.4次降至3.3次。作者认为实践中授予的自主权落后于模型能力。",
+    "keyPoints": [
+      "分析Claude Code与公共API中数百万次人机交互",
+      "99.9分位回合时长从不足25分钟增至超过45分钟",
+      "内部最难任务成功率翻倍，每会话人工干预从5.4次降至3.3次"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

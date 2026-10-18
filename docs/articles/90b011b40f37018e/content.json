@@ -1,0 +1,25 @@
+{
+  "id": "90b011b40f37018e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Project Genie: Experimenting with infinite, interactive worlds",
+  "summary": "该官方发布称，Project Genie是一个实验性研究原型，可让用户创建并探索世界。",
+  "url": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+  "date": "2026-01-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-01-29T17:01:05+00:00",
+  "titleEn": "Project Genie: Experimenting with infinite, interactive worlds",
+  "titleZh": "Project Genie：试验无限、可交互的世界",
+  "details": {
+    "overview": "该官方发布称，Project Genie是一个实验性研究原型，可让用户创建并探索世界。美国地区的Google AI Ultra订阅用户可试用。原文未说明具体技术细节、可用时长或功能限制，相关推出范围与限制应以原文为准。",
+    "keyPoints": [
+      "Project Genie是实验性研究原型，可创建并探索世界",
+      "面向美国Google AI Ultra订阅用户开放试用",
+      "当前收录材料未提供技术细节与具体限制"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

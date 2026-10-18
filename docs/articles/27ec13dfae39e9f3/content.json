@@ -1,0 +1,23 @@
+{
+  "id": "27ec13dfae39e9f3",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT 更新：October 3, 2025",
+  "summary": "OpenAI 称正在更新 GPT-5 Instant，使其更能识别并支持处于痛苦中的人。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#october-3-2025",
+  "date": "2025-10-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "ChatGPT 更新：October 3, 2025",
+  "titleZh": "ChatGPT 更新：2025 年 10 月 3 日",
+  "details": {
+    "overview": "OpenAI 称正在更新 GPT-5 Instant，使其更能识别并支持处于痛苦中的人。该模型被训练以更准确识别和回应潜在的心理与情绪困扰迹象，更新由心理健康专家指导，帮助 ChatGPT 缓和对话并在适当时引导至现实危机资源。此前实时路由器会把出现急性困扰迹象的敏感对话转给推理模型，现在 GPT-5 Instant 在这类问题上表现与 GPT-5 Thinking 相当；当选用 GPT-5 Auto 或非推理模型时，这类对话将改由 GPT-5 Instant 处理。更新自当日起开始向 ChatGPT 用户推送。",
+    "keyPoints": [
+      "GPT-5 Instant 被训练更准确识别和回应心理与情绪困扰迹象",
+      "更新由心理健康专家指导，可缓和对话并引导现实危机资源",
+      "选用 Auto 或非推理模型时，敏感对话将路由至 GPT-5 Instant"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

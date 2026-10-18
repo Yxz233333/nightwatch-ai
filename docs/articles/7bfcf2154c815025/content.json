@@ -1,0 +1,24 @@
+{
+  "id": "7bfcf2154c815025",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Working with the US Department of Energy to unlock the next era of scientific discovery",
+  "summary": "Anthropic 与美国能源部（DOE）宣布多年期合作，作为 Genesis Mission 的一部分，聚焦美国能源主导、生物与生命科学、科研生产力三个领域，可能影响全部 17 个国家实验室的工作。",
+  "url": "https://www.anthropic.com/news/genesis-mission-partnership",
+  "date": "2025-12-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-12-18T19:30:00+00:00",
+  "titleEn": "Working with the US Department of Energy to unlock the next era of scientific discovery",
+  "titleZh": "与美国能源部合作，开启科学发现的新时代",
+  "details": {
+    "overview": "Anthropic 与美国能源部（DOE）宣布多年期合作，作为 Genesis Mission 的一部分，聚焦美国能源主导、生物与生命科学、科研生产力三个领域，可能影响全部 17 个国家实验室的工作。Anthropic 计划向 DOE 研究人员提供 Claude 及工程师团队开发专用工具。文中提到此前与 DOE 的合作包括与国家核安全管理局共同开发核风险分类器，以及在劳伦斯利弗莫尔国家实验室部署 Claude。",
+    "keyPoints": [
+      "合作聚焦能源主导、生物与生命科学、科研生产力三个领域",
+      "计划向 DOE 研究人员提供 Claude 与工程师团队开发的专用工具",
+      "此前合作包括核风险分类器与劳伦斯利弗莫尔实验室部署 Claude"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

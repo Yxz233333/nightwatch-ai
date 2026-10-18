@@ -1,0 +1,25 @@
+{
+  "id": "ec654453f9d30d10",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.95.0 发布",
+  "summary": "该版本为CLI稳定版更新。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.95.0",
+  "date": "2026-02-04",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-02-04T04:54:32+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.95.0 发布",
+  "titleZh": "Codex CLI 0.95.0 发布",
+  "details": {
+    "overview": "该版本为CLI稳定版更新。新功能包括：macOS上可用codex app启动Codex桌面端并在缺失时自动下载DMG；支持从~/.agents/skills加载个人技能并兼容旧路径，新增列出和下载公共远程技能的API与事件；/plan支持内联提示参数和粘贴图片；Shell相关工具可并行执行；Shell执行可获取CODEX_THREAD_ID；Linux沙箱引入Bubblewrap与FFI接线。修复涉及Git命令审批、线程列表、沙箱模式、中断后挂起、审查模式审批事件和401错误诊断等。",
+    "keyPoints": [
+      "macOS新增codex app启动桌面端，缺失时自动下载DMG",
+      "支持从~/.agents/skills加载个人技能，并新增公共远程技能列表与下载API",
+      "修复Git命令绕过审批、codex exec中断后挂起及401错误诊断等问题"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

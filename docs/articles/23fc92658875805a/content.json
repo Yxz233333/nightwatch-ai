@@ -1,0 +1,25 @@
+{
+  "id": "23fc92658875805a",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Warp’s big bet on building open source with GPT-5.5",
+  "summary": "该消息称，Warp 使用 GPT-5.5 及 OpenAI 模型，在本地、云端和开源开发工作流中协调多个编码智能体。",
+  "url": "https://openai.com/index/warp",
+  "date": "2026-05-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-27T00:00:00+00:00",
+  "titleEn": "Warp’s big bet on building open source with GPT-5.5",
+  "titleZh": "Warp 押注用 GPT-5.5 构建开源",
+  "details": {
+    "overview": "该消息称，Warp 使用 GPT-5.5 及 OpenAI 模型，在本地、云端和开源开发工作流中协调多个编码智能体。当前收录材料仅给出这一句概括，未说明具体实现方式、适用范围或效果数据。其意义在于展示编码智能体从单一工具走向跨环境协同的一种尝试，但相关能力与限制仍需以官方原始发布为准。",
+    "keyPoints": [
+      "Warp 使用 GPT-5.5 及 OpenAI 模型协调编码智能体。",
+      "覆盖本地、云端与开源开发三类工作流。",
+      "当前收录材料未提供具体实现细节与效果数据。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

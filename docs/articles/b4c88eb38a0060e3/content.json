@@ -1,0 +1,25 @@
+{
+  "id": "b4c88eb38a0060e3",
+  "section": "news",
+  "category": "模型动态",
+  "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+  "summary": "现有材料仅有标题和一句摘要，称GPT-5.6提供“每个token更多智能、每美元更强性能、按需为最难工作提供更多能力”。",
+  "url": "https://openai.com/index/gpt-5-6",
+  "date": "2026-07-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-09T10:00:00+00:00",
+  "titleEn": "GPT-5.6: Frontier intelligence that scales with your ambition",
+  "titleZh": "GPT-5.6：随你雄心扩展的前沿智能",
+  "details": {
+    "overview": "现有材料仅有标题和一句摘要，称GPT-5.6提供“每个token更多智能、每美元更强性能、按需为最难工作提供更多能力”。原文未给出基准测试、上下文长度、可用范围或定价等具体信息，因此无法核实或展开其能力描述。",
+    "keyPoints": [
+      "标题称GPT-5.6为可随需求扩展的前沿智能",
+      "摘要强调每token更多智能与每美元更强性能",
+      "当前收录材料未提供基准数据、可用范围或定价细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

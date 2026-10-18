@@ -13,7 +13,7 @@
   "titleEn": "A finite-time singularity of Calabi flow on projective space",
   "titleZh": "射影空间上Calabi流的有限时间奇点",
   "details": {
-    "overview": "稿件研究ℂP¹⁰的Fubini–Study类中Calabi流的长时间行为。作者声称构造该类的光滑Kähler度量，使Calabi流在有限时间内标量曲率无界，从而否定Chen的光滑长期存在猜想，即使所在类含常标量曲率度量。摘要未给出构造细节或奇点类型分析。该结果说明Calabi流即便从良好初始类出发也可能在有限时间爆破。",
+    "overview": "稿件研究ℂP¹⁰的Fubini–Study类中Calabi流的长时间行为。作者声称构造该类的光滑Kähler度量，使Calabi流在有限时间内标量曲率无界，从而否定Chen的光滑长期存在猜想，即使所在类含常标量曲率度量。当前收录摘要未给出构造细节或奇点类型分析。该结果说明Calabi流即便从良好初始类出发也可能在有限时间爆破。",
     "keyPoints": [
       "在ℂP¹⁰的Fubini–Study类中构造光滑Kähler度量。",
       "作者声称其Calabi流在有限时间内标量曲率无界。",

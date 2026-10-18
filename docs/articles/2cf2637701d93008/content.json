@@ -1,0 +1,24 @@
+{
+  "id": "2cf2637701d93008",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Inside Mirakl's agentic commerce vision",
+  "summary": "Mirakl正通过AI代理和ChatGPT Enterprise重新定义商务，实现更快的文档处理、更智能的客户支持，并朝着构建代理原生商务平台Mirakl Nexus的方向发展。",
+  "url": "https://openai.com/index/mirakl",
+  "date": "2025-12-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-01T22:00:00+00:00",
+  "titleEn": "Inside Mirakl's agentic commerce vision",
+  "titleZh": "Mirakl的代理式商务愿景",
+  "details": {
+    "overview": "Mirakl正通过AI代理和ChatGPT Enterprise重新定义商务，实现更快的文档处理、更智能的客户支持，并朝着构建代理原生商务平台Mirakl Nexus的方向发展。原文仅提供这一概述，未披露具体技术细节、性能数据或推出时间。",
+    "keyPoints": [
+      "Mirakl利用AI代理和ChatGPT Enterprise提升文档与客服效率。",
+      "公司正构建代理原生商务平台Mirakl Nexus。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

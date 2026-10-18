@@ -1,0 +1,23 @@
+{
+  "id": "321b3a53ca4f4164",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Tag @Codex on GitHub Issues and PRs",
+  "summary": "OpenAI 宣布用户可在队友的拉取请求中标记 @codex，用于提出澄清问题、请求后续处理或让 Codex 直接修改；GitHub Issues 也支持 @codex 提及，用户可从任意 issue 启动任务而无需离开现有工作流。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2025-10-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "Tag @Codex on GitHub Issues and PRs",
+  "titleZh": "在 GitHub Issues 和 PR 中 @Codex",
+  "details": {
+    "overview": "OpenAI 宣布用户可在队友的拉取请求中标记 @codex，用于提出澄清问题、请求后续处理或让 Codex 直接修改；GitHub Issues 也支持 @codex 提及，用户可从任意 issue 启动任务而无需离开现有工作流。原文配图展示 Codex 在被提及后回应拉取请求和 issue。材料未说明可用套餐、权限控制或代码变更的审查方式。",
+    "keyPoints": [
+      "可在队友的 GitHub 拉取请求中 @codex 提问或请求修改。",
+      "GitHub Issues 支持 @codex 提及，可直接从 issue 启动任务。",
+      "官方称用户无需离开现有工作流即可使用。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

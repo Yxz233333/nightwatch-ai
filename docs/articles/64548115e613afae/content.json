@@ -1,0 +1,25 @@
+{
+  "id": "64548115e613afae",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Building AI infrastructure with the Effingham County community",
+  "summary": "OpenAI 宣布在佐治亚州 Effingham 县建设 Project Camellia，并作出负责任能源、社区投资、就业以及提供 Codex 访问权限等承诺。",
+  "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+  "date": "2026-07-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-22T13:00:00+00:00",
+  "titleEn": "Building AI infrastructure with the Effingham County community",
+  "titleZh": "与 Effingham 县社区共建 AI 基础设施",
+  "details": {
+    "overview": "OpenAI 宣布在佐治亚州 Effingham 县建设 Project Camellia，并作出负责任能源、社区投资、就业以及提供 Codex 访问权限等承诺。原文仅概述上述方向，未披露项目规模、投资金额或时间安排，具体推出范围与限制需以官方原文为准。",
+    "keyPoints": [
+      "OpenAI 在佐治亚州 Effingham 县宣布 Project Camellia",
+      "承诺涉及负责任能源、社区投资与就业",
+      "同时承诺提供 Codex 访问权限"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

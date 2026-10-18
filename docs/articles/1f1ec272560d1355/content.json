@@ -1,0 +1,25 @@
+{
+  "id": "1f1ec272560d1355",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.125.0 发布",
+  "summary": "Codex CLI 0.125.0 稳定版发布，更新集中在 app-server 集成与权限体系。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.125.0",
+  "date": "2026-04-25",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-04-24T18:00:38+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.125.0 发布",
+  "titleZh": "Codex CLI 0.125.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.125.0 稳定版发布，更新集中在 app-server 集成与权限体系。新增 Unix socket 传输、支持分页的 resume/fork、粘性环境与远程线程配置/存储；插件管理可安装远程插件并升级市场；权限配置可在 TUI 会话、用户轮次、MCP 沙箱状态、shell 提权与 app-server API 间往返。此外，模型发现改由模型提供方负责，`codex exec --json` 报告推理 token 用量，并修复多项界面与执行服务问题。",
+    "keyPoints": [
+      "app-server 新增 Unix socket 传输、粘性环境与远程线程配置",
+      "权限配置可在 TUI、MCP 沙箱与 app-server API 间往返",
+      "`codex exec --json` 现报告推理 token 用量"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

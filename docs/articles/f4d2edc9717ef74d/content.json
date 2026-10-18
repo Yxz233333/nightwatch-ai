@@ -1,0 +1,23 @@
+{
+  "id": "f4d2edc9717ef74d",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Updates to ChatGPT on iOS",
+  "summary": "该官方更新说明介绍 iOS 版 ChatGPT 的两项体验调整：用户可长按“+”按钮打开最近照片，并选择一张加入对话，使附加近期照片更快捷；同时连接状态提示更清晰，ChatGPT 会在等待网络连接时告知用户。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-ios",
+  "date": "2026-08-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Updates to ChatGPT on iOS",
+  "titleZh": "iOS 版 ChatGPT 更新",
+  "details": {
+    "overview": "该官方更新说明介绍 iOS 版 ChatGPT 的两项体验调整：用户可长按“+”按钮打开最近照片，并选择一张加入对话，使附加近期照片更快捷；同时连接状态提示更清晰，ChatGPT 会在等待网络连接时告知用户。访问最近照片需授予照片访问权限。原文未说明其他平台是否同步。",
+    "keyPoints": [
+      "长按“+”按钮可打开最近照片并选择加入对话",
+      "ChatGPT 会在等待网络连接时给出提示",
+      "使用最近照片功能需授予照片访问权限"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

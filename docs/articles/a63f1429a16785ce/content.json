@@ -1,0 +1,25 @@
+{
+  "id": "a63f1429a16785ce",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+  "summary": "现有材料仅有标题，未提供正文或摘要，无法确认具体模型、作者声称的结果及发布细节。",
+  "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+  "date": "2026-04-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-04-09T00:00:00+00:00",
+  "titleEn": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+  "titleZh": "基于 Sentence Transformers 的多模态嵌入与重排序模型",
+  "details": {
+    "overview": "现有材料仅有标题，未提供正文或摘要，无法确认具体模型、作者声称的结果及发布细节。标题指向基于 Sentence Transformers 的多模态嵌入与重排序模型，可能涉及多模态检索相关能力，但材料不足，以下要点仅据标题概括，具体内容需以原始发布为准。",
+    "keyPoints": [
+      "标题涉及基于 Sentence Transformers 的多模态嵌入模型。",
+      "标题同时涉及重排序模型，具体实现与效果当前收录材料未提供。",
+      "材料仅有标题，发布范围与评测结果均不明确。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

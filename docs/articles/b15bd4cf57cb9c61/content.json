@@ -1,0 +1,25 @@
+{
+  "id": "b15bd4cf57cb9c61",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+  "summary": "NVIDIA 发布 Nemotron 3 Nano Omni，标题显示其定位为面向文档、音频与视频智能体的长上下文多模态模型。",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+  "date": "2026-04-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-04-28T15:58:57+00:00",
+  "titleEn": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+  "titleZh": "NVIDIA 推出 Nemotron 3 Nano Omni：面向文档、音频与视频智能体的长上下文多模态智能",
+  "details": {
+    "overview": "NVIDIA 发布 Nemotron 3 Nano Omni，标题显示其定位为面向文档、音频与视频智能体的长上下文多模态模型。由于原始发布内容为空，仅有标题信息，无法确认模型参数规模、上下文长度、基准测试结果、开放方式或可用平台等关键细节。本条仅能依据标题说明其名称与目标应用方向，具体能力与限制需以 NVIDIA 官方原文为准，不宜据此推断性能表现。",
+    "keyPoints": [
+      "NVIDIA 发布 Nemotron 3 Nano Omni 模型",
+      "标题定位为面向文档、音频与视频智能体的长上下文多模态智能",
+      "原始内容为空，参数、上下文长度与开放方式等均未披露"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

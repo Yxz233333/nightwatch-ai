@@ -1,0 +1,24 @@
+{
+  "id": "d1986c5735ff6c5b",
+  "section": "news",
+  "category": "模型动态",
+  "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+  "summary": "Anthropic与PwC宣布扩大战略联盟，深化PwC使用Claude构建技术、执行交易并为各行业客户重塑企业职能。",
+  "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
+  "date": "2026-05-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-05-14T17:00:00+00:00",
+  "titleEn": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+  "titleZh": "PwC部署Claude以构建技术、执行交易并为客户重塑企业职能",
+  "details": {
+    "overview": "Anthropic与PwC宣布扩大战略联盟，深化PwC使用Claude构建技术、执行交易并为各行业客户重塑企业职能。PwC将向数十万员工推广Claude，并培训认证3万名美国专业人员，同时建立联合卓越中心。双方旨在帮助企业替换为前AI时代构建的系统，客户报告交付改进高达70%。",
+    "keyPoints": [
+      "PwC扩大与Anthropic合作，向数十万员工部署Claude",
+      "将培训认证3万名美国专业人员并建立联合卓越中心",
+      "客户报告交付改进高达70%，聚焦金融、医疗等受监管行业"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

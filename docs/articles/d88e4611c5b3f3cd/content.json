@@ -1,0 +1,24 @@
+{
+  "id": "d88e4611c5b3f3cd",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
+  "summary": "该官方内容介绍在阿姆斯特丹举行的 IBC 大会，会期为 9 月 11 日至 14 日，汇聚媒体娱乐行业的创意、技术与商业人士。",
+  "url": "https://blogs.nvidia.com/blog/ibc-news-2026/",
+  "date": "2026-09-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-09-09T16:00:42+00:00",
+  "titleEn": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
+  "titleZh": "NVIDIA 在 IBC 为广播、体育和全球流媒体带来实时 AI",
+  "details": {
+    "overview": "该官方内容介绍在阿姆斯特丹举行的 IBC 大会，会期为 9 月 11 日至 14 日，汇聚媒体娱乐行业的创意、技术与商业人士。材料称有来自 170 多个国家的逾 4.4 万名参会者、1300 多个展览和 600 多位演讲者。标题指向 NVIDIA 在大会上展示面向广播、体育和全球流媒体的实时 AI，但正文摘要未展开具体产品。",
+    "keyPoints": [
+      "IBC 于 9 月 11 日至 14 日在阿姆斯特丹举行。",
+      "官方称逾 4.4 万名参会者来自 170 多个国家。",
+      "标题指向 NVIDIA 面向广播、体育与流媒体的实时 AI。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

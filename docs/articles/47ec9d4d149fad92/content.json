@@ -1,0 +1,25 @@
+{
+  "id": "47ec9d4d149fad92",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+  "summary": "该文介绍huggingface_hub的每周发布流程，结合AI、开放工具与人工审核。",
+  "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+  "date": "2026-06-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-06-23T00:00:00+00:00",
+  "titleEn": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+  "titleZh": "每周借助AI、开放工具与人工审核发布huggingface_hub",
+  "details": {
+    "overview": "该文介绍huggingface_hub的每周发布流程，结合AI、开放工具与人工审核。当前收录材料未提供具体技术细节或验证结果，仅说明发布方式。",
+    "keyPoints": [
+      "每周发布huggingface_hub",
+      "结合AI与开放工具",
+      "保留人工审核环节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

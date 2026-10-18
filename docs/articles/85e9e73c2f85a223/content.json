@@ -1,0 +1,23 @@
+{
+  "id": "85e9e73c2f85a223",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "As Open Models Spark AI Boom, NVIDIA Jetson Brings It to Life at the Edge",
+  "summary": "文章以 Cat 306 CR 小型挖掘机为引子，描述其重量略低于八吨、可装入标准集装箱、驾驶室约电话亭大小，适用于空间紧张的施工现场。",
+  "url": "https://blogs.nvidia.com/blog/jetson-generative-ai-edge-oss/",
+  "date": "2026-03-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-03-10T16:43:40+00:00",
+  "titleEn": "As Open Models Spark AI Boom, NVIDIA Jetson Brings It to Life at the Edge",
+  "titleZh": "开放模型掀起 AI 热潮，NVIDIA Jetson 将其带到边缘",
+  "details": {
+    "overview": "文章以 Cat 306 CR 小型挖掘机为引子，描述其重量略低于八吨、可装入标准集装箱、驾驶室约电话亭大小，适用于空间紧张的施工现场。现有材料在此处截断，尚未展开 NVIDIA Jetson 如何在边缘侧支持开放模型与 AI 应用，因此无法完整概括其技术方案与结论。",
+    "keyPoints": [
+      "文章以 Cat 306 CR 小型挖掘机为例描述紧凑型工程机械的使用场景。",
+      "现有材料在挖掘机描述后截断，未展开 Jetson 边缘 AI 的具体内容。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

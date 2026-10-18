@@ -1,0 +1,25 @@
+{
+  "id": "a9e88cf679fb22f1",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+  "summary": "该官方发布内容介绍 Gemini Robotics ER 2，称其帮助机器人进行推理、协作并解决现实任务。",
+  "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+  "date": "2026-07-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-07-30T15:00:59+00:00",
+  "titleEn": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+  "titleZh": "Gemini Robotics ER 2：以视频理解、任务编排与多机器人协作驱动机器人",
+  "details": {
+    "overview": "该官方发布内容介绍 Gemini Robotics ER 2，称其帮助机器人进行推理、协作并解决现实任务。原文表示该模型在面向机器人应用的视频理解、工具编排与多机器人协作方面实现了显著进步。材料仅为一段概述，未披露具体基准结果、机器人平台、可用范围或与前一版本的对比数据，因此只能确认其宣称的三项能力方向与“显著进步”这一表述。",
+    "keyPoints": [
+      "Gemini Robotics ER 2 面向机器人推理、协作与现实任务。",
+      "原文称其在视频理解、工具编排与多机器人协作上有显著进步。",
+      "材料未给出基准数据、平台或可用范围。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

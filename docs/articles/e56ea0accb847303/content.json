@@ -1,0 +1,25 @@
+{
+  "id": "e56ea0accb847303",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "BNY builds “AI for everyone, everywhere” with OpenAI",
+  "summary": "BNY 借助 OpenAI 在全企业范围扩大 AI 应用，核心平台名为 Eliza。",
+  "url": "https://openai.com/index/bny",
+  "date": "2025-12-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-12T00:00:00+00:00",
+  "titleEn": "BNY builds “AI for everyone, everywhere” with OpenAI",
+  "titleZh": "BNY 携手 OpenAI 构建“人人、处处可用”的 AI",
+  "details": {
+    "overview": "BNY 借助 OpenAI 在全企业范围扩大 AI 应用，核心平台名为 Eliza。摘要称，超过 2 万名员工在该平台上构建 AI 智能体，以提升效率并改善客户成果。当前收录材料未提供具体智能体数量、效率提升幅度或部署时间表，相关范围与限制需以官方原始发布为准。",
+    "keyPoints": [
+      "BNY 通过 Eliza 平台扩大企业内 AI 应用",
+      "2 万多名员工在平台上构建 AI 智能体",
+      "目标为提升效率与客户成果"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

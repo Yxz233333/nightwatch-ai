@@ -1,0 +1,25 @@
+{
+  "id": "5240767e448d3ac1",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI and Foxconn collaborate to strengthen U.S. manufacturing across the AI supply chain",
+  "summary": "官方发布称，OpenAI 与富士康将合作在美国设计并制造下一代 AI 基础设施硬件。",
+  "url": "https://openai.com/index/openai-and-foxconn-collaborate",
+  "date": "2025-11-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-20T14:50:00+00:00",
+  "titleEn": "OpenAI and Foxconn collaborate to strengthen U.S. manufacturing across the AI supply chain",
+  "titleZh": "OpenAI 与富士康合作加强美国 AI 供应链制造",
+  "details": {
+    "overview": "官方发布称，OpenAI 与富士康将合作在美国设计并制造下一代 AI 基础设施硬件。双方计划开发多代数据中心系统，强化美国供应链，并在本土生产关键组件，以加速先进 AI 基础设施建设。当前收录材料未提供投资规模、时间表、具体工厂地点或产品细节，相关范围与限制应以原始发布为准。",
+    "keyPoints": [
+      "双方将在美国设计并制造下一代 AI 基础设施硬件。",
+      "合作计划开发多代数据中心系统并强化美国供应链。",
+      "关键组件将在美国本土生产，以加速先进 AI 基础设施。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

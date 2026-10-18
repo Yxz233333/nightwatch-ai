@@ -1,0 +1,24 @@
+{
+  "id": "2c34ccf0e3ba260a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron",
+  "summary": "Palantir 推出新的智能引擎，使用 NVIDIA Nemotron 开放模型服务美国政府机构需求，文章将其置于美国开源创新传统中讨论。",
+  "url": "https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/",
+  "date": "2026-06-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-29T10:59:38+00:00",
+  "titleEn": "Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron",
+  "titleZh": "开放模型、封闭环境：Palantir 携手 NVIDIA Nemotron 为美国政府机构提供安全 AI",
+  "details": {
+    "overview": "Palantir 推出新的智能引擎，使用 NVIDIA Nemotron 开放模型服务美国政府机构需求，文章将其置于美国开源创新传统中讨论。材料为官方发布摘要，未说明部署范围、安全机制细节或性能数据，因此介绍限于合作方向与开放模型定位，具体能力需以原文为准。",
+    "keyPoints": [
+      "Palantir 新智能引擎采用 NVIDIA Nemotron 开放模型",
+      "目标用户为美国政府部门",
+      "强调开放模型与安全环境的结合"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

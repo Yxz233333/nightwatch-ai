@@ -1,0 +1,23 @@
+{
+  "id": "5b4b174898f01349",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Introducing Codex for Linear",
+  "summary": "官方发布介绍 Codex 与 Linear 的新集成：用户可在 Linear 议题中指派或提及 @Codex 来启动 Codex 云端任务；Codex 工作过程中会把进展回写到 Linear，并提供已完成任务的链接，便于审阅、发起 PR 或继续工作。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2025-12-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "Introducing Codex for Linear",
+  "titleZh": "推出面向 Linear 的 Codex",
+  "details": {
+    "overview": "官方发布介绍 Codex 与 Linear 的新集成：用户可在 Linear 议题中指派或提及 @Codex 来启动 Codex 云端任务；Codex 工作过程中会把进展回写到 Linear，并提供已完成任务的链接，便于审阅、发起 PR 或继续工作。原文还提到可通过 MCP 在本地连接 Codex 与 Linear，具体配置参见 Codex for Linear 文档。",
+    "keyPoints": [
+      "在 Linear 议题中指派或提及 @Codex 即可启动云端任务。",
+      "Codex 将进展回写 Linear，并附完成任务链接。",
+      "同时支持通过 MCP 在本地连接 Codex 与 Linear。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

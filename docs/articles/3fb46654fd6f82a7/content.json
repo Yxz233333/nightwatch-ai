@@ -1,0 +1,25 @@
+{
+  "id": "3fb46654fd6f82a7",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Helping 1,000 small businesses build with AI",
+  "summary": "官方发布称，OpenAI 与 DoorDash、SCORE 及本地组织合作，帮助 1000 家小企业使用 AI。",
+  "url": "https://openai.com/index/small-business-ai-jam",
+  "date": "2025-11-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-20T06:00:00+00:00",
+  "titleEn": "Helping 1,000 small businesses build with AI",
+  "titleZh": "帮助 1000 家小企业用 AI 开展业务",
+  "details": {
+    "overview": "官方发布称，OpenAI 与 DoorDash、SCORE 及本地组织合作，帮助 1000 家小企业使用 AI。项目名为 Small Business AI Jam，面向街边小企业主提供实操工具与培训，帮助其参与竞争并实现增长。原文未说明培训内容、覆盖地区、时间安排或费用等细节，具体推出范围和限制应以原始发布为准。",
+    "keyPoints": [
+      "OpenAI 联合 DoorDash、SCORE 及本地组织帮助 1000 家小企业。",
+      "Small Business AI Jam 提供实操工具与培训。",
+      "目标受众为街边小企业主，旨在助其竞争与增长。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "c01f54c6b3565b4a",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Audio uploads in ChatGPT",
+  "summary": "OpenAI 发布功能更新，允许用户向 ChatGPT 上传音频文件，用于生成转录文本、总结录音内容并针对录音提问。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#audio-uploads-in-chatgpt",
+  "date": "2026-10-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Audio uploads in ChatGPT",
+  "titleZh": "ChatGPT 支持上传音频文件",
+  "details": {
+    "overview": "OpenAI 发布功能更新，允许用户向 ChatGPT 上传音频文件，用于生成转录文本、总结录音内容并针对录音提问。官方说明可将会议、访谈或讲座转为结构化笔记或后续邮件草稿。该功能面向付费 ChatGPT 订阅与工作区，可用性受工作区设置、地区、客户端版本和模型影响；转录可能出错，不同语言表现存在差异。",
+    "keyPoints": [
+      "可上传受支持的音频文件，生成转录、总结并针对内容提问",
+      "适用于会议、访谈、讲座，可整理为笔记或邮件草稿",
+      "仅对付费订阅与工作区开放，可用性受设置、地区、版本和模型影响"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

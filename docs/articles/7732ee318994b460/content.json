@@ -1,0 +1,25 @@
+{
+  "id": "7732ee318994b460",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.128.0 发布",
+  "summary": "这是 Codex CLI 的稳定版本更新，主要新增持久化 /goal 工作流，配套应用服务端 API、模型工具、运行时续接与 TUI 的创建、暂停、恢复和清除控制；同时加入 codex update 命令、可配置 TUI 键位、权限配置扩展、插件市场安装与远程缓存、外部代理会话导入，以及 MultiAgentV2 的线程上限与等待时间配置。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.128.0",
+  "date": "2026-05-01",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-04-30T16:40:28+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.128.0 发布",
+  "titleZh": "Codex CLI 0.128.0 发布",
+  "details": {
+    "overview": "这是 Codex CLI 的稳定版本更新，主要新增持久化 /goal 工作流，配套应用服务端 API、模型工具、运行时续接与 TUI 的创建、暂停、恢复和清除控制；同时加入 codex update 命令、可配置 TUI 键位、权限配置扩展、插件市场安装与远程缓存、外部代理会话导入，以及 MultiAgentV2 的线程上限与等待时间配置。修复方面涉及恢复与中断挂起、TUI 终端缩放重排、托管网络与 Windows 沙箱边界情况，以及 Bedrock 模型支持。",
+    "keyPoints": [
+      "新增持久化 /goal 工作流，覆盖 API、模型工具、运行时与 TUI 控制。",
+      "扩展权限配置与插件工作流，支持市场安装、远程缓存和外部代理会话导入。",
+      "修复恢复中断挂起、TUI 重排、托管网络与 Windows 沙箱等问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "e356acf13045b35a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How RingCentral builds AI-native work from engineering to ops",
+  "summary": "该官方发布内容介绍 RingCentral 使用 ChatGPT Work 与 Codex 的实践，称其借此加速 AI 产品开发，并在工程与运维之间集中运营智能。",
+  "url": "https://openai.com/index/ringcentral",
+  "date": "2026-08-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-12T00:00:00+00:00",
+  "titleEn": "How RingCentral builds AI-native work from engineering to ops",
+  "titleZh": "RingCentral 如何从工程到运维构建 AI 原生工作方式",
+  "details": {
+    "overview": "该官方发布内容介绍 RingCentral 使用 ChatGPT Work 与 Codex 的实践，称其借此加速 AI 产品开发，并在工程与运维之间集中运营智能。当前收录材料未提供具体部署规模、效率数据或实施细节，相关范围与限制需以官方原始发布为准。",
+    "keyPoints": [
+      "案例对象为 RingCentral，涉及工程与运维环节。",
+      "使用 ChatGPT Work 与 Codex 加速 AI 产品开发。",
+      "目标之一是集中化跨工程与运维的运营智能。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

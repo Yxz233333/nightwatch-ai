@@ -1,0 +1,24 @@
+{
+  "id": "9428539c346c2c7c",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Anthropic partners with CodePath to bring Claude to the US’s largest collegiate computer science program",
+  "summary": "Anthropic宣布与CodePath合作，将Claude和Claude Code引入其课程与职业项目，覆盖社区学院、州立大学和传统黑人院校的2万多名学生。",
+  "url": "https://www.anthropic.com/news/anthropic-codepath-partnership",
+  "date": "2026-02-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-02-13T20:47:00+00:00",
+  "titleEn": "Anthropic partners with CodePath to bring Claude to the US’s largest collegiate computer science program",
+  "titleZh": "Anthropic与CodePath合作，将Claude引入美国最大的高校计算机科学项目",
+  "details": {
+    "overview": "Anthropic宣布与CodePath合作，将Claude和Claude Code引入其课程与职业项目，覆盖社区学院、州立大学和传统黑人院校的2万多名学生。CodePath将把Claude整合进AI工程基础、AI工程应用和开源毕业项目等课程，学生可学习用Claude Code构建项目并参与真实开源贡献。原文称2025年秋季已有100多名学生试用Claude Code参与GitLab等开源项目，霍华德大学也推出了相关入门课程。双方还计划开展公开研究，探讨AI如何改变编程教育与经济机会。",
+    "keyPoints": [
+      "合作覆盖2万多名社区学院、州立大学和HBCU学生。",
+      "Claude与Claude Code被整合进多门AI工程课程。",
+      "双方将公开研究AI对编程教育和机会的影响。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

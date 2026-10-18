@@ -1,0 +1,24 @@
+{
+  "id": "309f04d86d598f5a",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Making Claude a chemist",
+  "summary": "Anthropic 与合成、计算和分析化学家合作提升 Claude 的化学能力，并发布首份白皮书，聚焦化学家最常见的分析输入——NMR 谱图。",
+  "url": "https://www.anthropic.com/research/making-claude-a-chemist",
+  "date": "2026-06-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-06-05T20:57:00+00:00",
+  "titleEn": "Making Claude a chemist",
+  "titleZh": "让 Claude 成为化学家",
+  "details": {
+    "overview": "Anthropic 与合成、计算和分析化学家合作提升 Claude 的化学能力，并发布首份白皮书，聚焦化学家最常见的分析输入——NMR 谱图。稿件称，团队从模型训练截止后发表的 ChemRxiv 预印本中选取 20 个化合物，比较 Claude Opus 4.7、Opus 4.6、Sonnet 4.6 与 ChemDraw、MestReNova 的谱图预测表现，并测试 Claude 由实验谱图反推结构的能力。作者强调这只是初步进展，未消除化学数据长期存在的问题。",
+    "keyPoints": [
+      "测试集取自模型训练截止后发表的预印本，共 20 个化合物，覆盖四类 NMR 挑战。",
+      "氢谱上 Opus 4.7 平均误差约 ±0.079 ppm，作者称低于常用容差窗口。",
+      "碳谱上 Opus 4.7 与 MestReNova 接近持平，作者称 Claude 还能从谱图反推结构。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

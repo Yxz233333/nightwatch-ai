@@ -1,0 +1,23 @@
+{
+  "id": "34074ca4a0f52d60",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Updates to ChatGPT on Android",
+  "summary": "该官方发布说明介绍 ChatGPT Android 应用的两项界面改进：生成的图片现在以全宽显示，填满对话宽度，更方便查看；侧边栏现在最多显示八条最近对话，更方便浏览近期聊天。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-chatgpt-on-android",
+  "date": "2026-08-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Updates to ChatGPT on Android",
+  "titleZh": "ChatGPT Android 版更新",
+  "details": {
+    "overview": "该官方发布说明介绍 ChatGPT Android 应用的两项界面改进：生成的图片现在以全宽显示，填满对话宽度，更方便查看；侧边栏现在最多显示八条最近对话，更方便浏览近期聊天。原文注明这些改进适用于 ChatGPT Android 应用 1.2026.216 或更高版本。发布说明未提及其他平台或更多功能变化。",
+    "keyPoints": [
+      "生成的图片在对话中以全宽显示，便于查看。",
+      "侧边栏最多显示八条最近对话，便于浏览。",
+      "适用于 ChatGPT Android 应用 1.2026.216 或更高版本。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

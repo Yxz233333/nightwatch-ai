@@ -1,0 +1,24 @@
+{
+  "id": "959b318b6684365d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "🤗 Kernels: Major Updates",
+  "summary": "该官方发布标题为“🤗 Kernels：重大更新”，但摘要和原文内容均未提供，无法获知具体更新内容、研究对象或意义。",
+  "url": "https://huggingface.co/blog/revamped-kernels",
+  "date": "2026-07-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-07-06T00:00:00+00:00",
+  "titleEn": "🤗 Kernels: Major Updates",
+  "titleZh": "🤗 Kernels：重大更新",
+  "details": {
+    "overview": "该官方发布标题为“🤗 Kernels：重大更新”，但摘要和原文内容均未提供，无法获知具体更新内容、研究对象或意义。材料不足，仅能确认其属于行业新闻板块。建议查阅原始发布以获取完整信息。",
+    "keyPoints": [
+      "标题表明Hugging Face Kernels有重大更新。",
+      "摘要和原文缺失，无法提炼具体要点。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

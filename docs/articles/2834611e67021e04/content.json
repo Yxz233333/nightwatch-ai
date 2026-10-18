@@ -1,0 +1,25 @@
+{
+  "id": "2834611e67021e04",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Announcing OpenAI Grove Cohort 2",
+  "summary": "OpenAI 宣布 Grove 创始人项目第二期开放申请。",
+  "url": "https://openai.com/index/openai-grove",
+  "date": "2026-01-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-02T10:00:00+00:00",
+  "titleEn": "Announcing OpenAI Grove Cohort 2",
+  "titleZh": "OpenAI Grove 第二期开放申请",
+  "details": {
+    "overview": "OpenAI 宣布 Grove 创始人项目第二期开放申请。该项目为期五周，面向处于任何阶段的个人，从仅有想法到已有产品均可参与。摘要表示，参与者可获得 5 万美元 API 额度、AI 工具早期访问权限，以及 OpenAI 团队的手把手指导。当前收录材料未提供名额、申请截止时间与选拔标准，具体范围与限制以官方原文为准。",
+    "keyPoints": [
+      "项目为期五周，面向从创意阶段到已有产品的各类创始人。",
+      "参与者可获得 5 万美元 API 额度与 AI 工具早期访问。",
+      "OpenAI 团队提供手把手指导，名额与截止时间未披露。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

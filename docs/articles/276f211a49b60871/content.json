@@ -1,0 +1,24 @@
+{
+  "id": "276f211a49b60871",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Introducing CodeMender: an AI agent for code security",
+  "summary": "材料仅提供标题和一句简介，称CodeMender是利用先进AI修复关键软件漏洞的智能体。",
+  "url": "https://deepmind.google/blog/introducing-codemender-an-ai-agent-for-code-security/",
+  "date": "2025-10-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2025-10-06T00:00:00+00:00",
+  "titleEn": "Introducing CodeMender: an AI agent for code security",
+  "titleZh": "推出CodeMender：用于代码安全的AI智能体",
+  "details": {
+    "overview": "材料仅提供标题和一句简介，称CodeMender是利用先进AI修复关键软件漏洞的智能体。由于缺乏原始发布内容，无法确认其具体功能、技术细节、可用范围或验证情况，建议以官方完整发布为准。",
+    "keyPoints": [
+      "CodeMender被描述为用于代码安全的AI智能体。",
+      "简介称其利用先进AI修复关键软件漏洞。",
+      "原始发布内容不足，具体功能与范围未知。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

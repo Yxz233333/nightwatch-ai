@@ -1,0 +1,25 @@
+{
+  "id": "92c8b0aee72ec0af",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+  "summary": "该消息称，Asana在Codex中使用GPT-6 Astra，使其浏览器智能体在测试中成本降低76倍、速度提升5倍，目的是为客户提供能力更强的模型。",
+  "url": "https://openai.com/index/asana-browser-agent",
+  "date": "2026-10-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-10-09T07:00:00+00:00",
+  "titleEn": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+  "titleZh": "Asana在浏览器测试中用GPT-6.1 Sol将模型成本降低76倍",
+  "details": {
+    "overview": "该消息称，Asana在Codex中使用GPT-6 Astra，使其浏览器智能体在测试中成本降低76倍、速度提升5倍，目的是为客户提供能力更强的模型。当前收录材料仅给出这一结果性表述，未披露测试方法、基准细节或适用范围，相关推出范围与限制需以原始发布为准。",
+    "keyPoints": [
+      "Asana在Codex中使用GPT-6 Astra改造浏览器智能体",
+      "官方称测试中成本降低76倍、速度提升5倍",
+      "目标是向客户提供能力更强的模型"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

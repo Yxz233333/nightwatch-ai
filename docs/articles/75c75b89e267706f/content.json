@@ -1,0 +1,23 @@
+{
+  "id": "75c75b89e267706f",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "More visual responses",
+  "summary": "该官方发布称，ChatGPT的回答变得更可视化、更易浏览：日常问题可能附带一目了然的视觉内容，如查看团队最新数据、单位换算或快速计算；回答还会高亮重要人物、地点、产品和概念，点击高亮可打开含关键事实与可信来源的侧边面板。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-visual-responses",
+  "date": "2026-01-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "More visual responses",
+  "titleZh": "更可视化的回答",
+  "details": {
+    "overview": "该官方发布称，ChatGPT的回答变得更可视化、更易浏览：日常问题可能附带一目了然的视觉内容，如查看团队最新数据、单位换算或快速计算；回答还会高亮重要人物、地点、产品和概念，点击高亮可打开含关键事实与可信来源的侧边面板。该功能在iOS、Android和网页端全球推出。原文未说明具体覆盖范围与限制。",
+    "keyPoints": [
+      "日常回答可包含直观视觉内容，如数据、换算与计算",
+      "回答高亮人物、地点、产品和概念，点击可看关键事实与来源",
+      "在iOS、Android和网页端全球推出"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

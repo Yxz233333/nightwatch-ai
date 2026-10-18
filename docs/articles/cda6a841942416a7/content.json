@@ -1,0 +1,25 @@
+{
+  "id": "cda6a841942416a7",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.61.0 发布",
+  "summary": "官方发布记录显示，Codex CLI 0.61.0 集成 ExecPolicy2 并重构 exec-server，为独立 MCP 使用做准备；改进截断与错误上报，单次截断减少重复工作，错误事件可携带可选状态码；加固回退 shell 选择，降低 world-writable 目录警告噪音并改进 Windows 提示；修复推理显示、保留 /review 后页脚上下文，模型迁移界面仅显示一次。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.61.0",
+  "date": "2025-11-21",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-11-20T16:14:58+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.61.0 发布",
+  "titleZh": "Codex CLI 0.61.0 发布",
+  "details": {
+    "overview": "官方发布记录显示，Codex CLI 0.61.0 集成 ExecPolicy2 并重构 exec-server，为独立 MCP 使用做准备；改进截断与错误上报，单次截断减少重复工作，错误事件可携带可选状态码；加固回退 shell 选择，降低 world-writable 目录警告噪音并改进 Windows 提示；修复推理显示、保留 /review 后页脚上下文，模型迁移界面仅显示一次。",
+    "keyPoints": [
+      "核心集成 ExecPolicy2，重构 exec-server 并补充快速入门文档。",
+      "单次截断减少重复工作，错误事件可携带可选状态码。",
+      "修复推理显示与 /review 后页脚上下文，模型迁移界面仅显示一次。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

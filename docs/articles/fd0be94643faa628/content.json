@@ -1,0 +1,24 @@
+{
+  "id": "fd0be94643faa628",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+  "summary": "该发布指出，开源AI已展示共享模型、数据和工具能加速开发者创新，机器人领域也有同样机会，但物理AI发展仍受制于昂贵且分散的数据集、机器人基础模型、仿真、算力与验证工具。",
+  "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+  "date": "2026-07-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-07-07T06:00:26+00:00",
+  "titleEn": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+  "titleZh": "NVIDIA与Hugging Face为LeRobot开源机器人社区带来新模型与框架",
+  "details": {
+    "overview": "该发布指出，开源AI已展示共享模型、数据和工具能加速开发者创新，机器人领域也有同样机会，但物理AI发展仍受制于昂贵且分散的数据集、机器人基础模型、仿真、算力与验证工具。NVIDIA与Hugging Face据此为LeRobot开源机器人社区引入新模型和框架，原文未展开具体模型名称与功能细节。",
+    "keyPoints": [
+      "开源共享模式被认为可加速机器人领域创新",
+      "物理AI发展受数据集、基础模型、仿真与算力等资源制约",
+      "NVIDIA与Hugging Face为LeRobot社区引入新模型和框架"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

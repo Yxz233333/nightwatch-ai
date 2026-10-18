@@ -1,0 +1,25 @@
+{
+  "id": "a8c27b86127cf668",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Uniting biological toolkits for a new approach to ALS",
+  "summary": "该发布介绍，Co-Scientist 将波士顿儿童医院与 MIT 的实验室联合起来，探索针对 ALS 的 RNA 新疗法。",
+  "url": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
+  "date": "2026-05-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-05-16T07:53:11+00:00",
+  "titleEn": "Uniting biological toolkits for a new approach to ALS",
+  "titleZh": "整合生物工具包，探索 ALS 治疗新路径",
+  "details": {
+    "overview": "该发布介绍，Co-Scientist 将波士顿儿童医院与 MIT 的实验室联合起来，探索针对 ALS 的 RNA 新疗法。原文只说明合作方与研究大方向，未披露具体技术路线、实验数据或疗效结论，因此无法判断进展；相关细节与限制应以官方原始发布记录为准。",
+    "keyPoints": [
+      "Co-Scientist 促成波士顿儿童医院与 MIT 实验室合作。",
+      "研究方向为基于 RNA 的 ALS 新疗法。",
+      "当前收录材料未提供具体实验数据与结论。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

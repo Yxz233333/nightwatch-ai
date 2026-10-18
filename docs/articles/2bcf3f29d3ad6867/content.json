@@ -1,0 +1,25 @@
+{
+  "id": "2bcf3f29d3ad6867",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+  "summary": "官方发布摘要称，Jalapeño 是 OpenAI 的一款定制推理芯片，面向现代模型提供更快、更节能的 AI 推理，并具有更高吞吐量和更低延迟。",
+  "url": "https://openai.com/index/jalapeno-first-results",
+  "date": "2026-08-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-25T07:00:00+00:00",
+  "titleEn": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+  "titleZh": "Jalapeño 首批结果显示 AI 推理速度与效率行业领先",
+  "details": {
+    "overview": "官方发布摘要称，Jalapeño 是 OpenAI 的一款定制推理芯片，面向现代模型提供更快、更节能的 AI 推理，并具有更高吞吐量和更低延迟。现有材料仅为一句产品描述，未给出具体基准数据、测试方法或第三方验证信息，因此“行业领先”属于发布方说法，实际性能表现尚缺乏可核对的细节。",
+    "keyPoints": [
+      "Jalapeño 被描述为 OpenAI 的定制推理芯片",
+      "发布方称其推理更快、更节能，吞吐更高、延迟更低",
+      "材料未提供基准数据或第三方验证细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

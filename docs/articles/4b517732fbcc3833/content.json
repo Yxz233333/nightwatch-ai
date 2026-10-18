@@ -1,0 +1,25 @@
+{
+  "id": "4b517732fbcc3833",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Prompting fundamentals",
+  "summary": "官方发布的学习类内容，介绍提示词（prompting）基础知识。",
+  "url": "https://openai.com/academy/prompting",
+  "date": "2026-04-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-10T00:00:00+00:00",
+  "titleEn": "Prompting fundamentals",
+  "titleZh": "提示词基础",
+  "details": {
+    "overview": "官方发布的学习类内容，介绍提示词（prompting）基础知识。据摘要，内容包括如何撰写清晰、有效的提示词，以便从ChatGPT获得更好、更有用的回复。原文仅有一句摘要，未提供具体技巧、示例或适用范围。",
+    "keyPoints": [
+      "介绍提示词的基础概念。",
+      "重点是撰写清晰、有效的提示词。",
+      "目标是获得更好、更有用的回复。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "a3b8635c867db780",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "A scorecard for the AI age",
+  "summary": "据原始发布内容，OpenAI首席财务官Sarah Friar提出一套实用的AI记分卡，用于衡量投资回报，维度包括有用工作量、每个成功任务的成本、可靠性和算力回报。",
+  "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+  "date": "2026-07-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-17T10:00:00+00:00",
+  "titleEn": "A scorecard for the AI age",
+  "titleZh": "AI时代的记分卡",
+  "details": {
+    "overview": "据原始发布内容，OpenAI首席财务官Sarah Friar提出一套实用的AI记分卡，用于衡量投资回报，维度包括有用工作量、每个成功任务的成本、可靠性和算力回报。原文仅为一句概述，未给出各指标的计算方法、基准数据或实际应用案例，也未说明该框架是否经过独立验证，相关表述应视为作者观点。",
+    "keyPoints": [
+      "OpenAI CFO Sarah Friar提出衡量AI投资回报的记分卡。",
+      "四个维度为有用工作量、每成功任务成本、可靠性和算力回报。",
+      "材料未给出指标计算方法或实际应用数据。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

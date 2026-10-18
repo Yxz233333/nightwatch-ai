@@ -1,0 +1,24 @@
+{
+  "id": "1887d6d57c75be8a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+  "summary": "官方信息称，Claude Fable 5 已重新部署并向所有用户全球开放。",
+  "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+  "date": "2026-07-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-07-02T21:07:00+00:00",
+  "titleEn": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+  "titleZh": "Fable 5 网络安全防护措施与越狱严重性框架的更多细节",
+  "details": {
+    "overview": "官方信息称，Claude Fable 5 已重新部署并向所有用户全球开放。此次说明重点有两部分：一是随模型推出的网络安全分类器，明确其设计拦截与不拦截的伤害类型，并区分禁止用途、高风险双重用途等类别；二是与 Glasswing 伙伴合作拟定的 AI 越狱严重性框架初稿，用于以一致术语描述越狱风险。官方表示，网络安全能力常具双重用途，因此不打算封锁全部相关活动，而是训练分类器区分风险等级，并配合访问控制、安全训练和离线监控等措施。",
+    "keyPoints": [
+      "Fable 5 已重新部署并全球开放，官方补充其网络安全分类器的拦截范围。",
+      "分类器区分禁止用途与高风险双重用途，并保留一定安全余量。",
+      "官方发布越狱严重性框架初稿，并设立漏洞提交项目征集反馈。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "4686e8346ab4052d",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Review pull requests with Codex",
+  "summary": "官方发布记录介绍 Codex 中的 Code Review 功能：用户可查看拉取请求的摘要与差异、审阅发现的问题并就改动展开讨论。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#review-pull-requests-with-codex",
+  "date": "2026-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Review pull requests with Codex",
+  "titleZh": "用 Codex 审查拉取请求",
+  "details": {
+    "overview": "官方发布记录介绍 Codex 中的 Code Review 功能：用户可查看拉取请求的摘要与差异、审阅发现的问题并就改动展开讨论。流程上先打开拉取请求、检查改动，再让 Codex 解释某段内容或协助处理潜在问题，之后给出反馈。该功能通过 Code Review 插件在受支持的桌面端与网页端提供，仓库访问遵循所连接账户与工作区权限。",
+    "keyPoints": [
+      "可查看拉取请求摘要、差异与审查发现并讨论改动",
+      "可让 Codex 解释代码段落或协助处理潜在问题",
+      "通过 Code Review 插件提供，仓库访问受账户与工作区权限约束"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

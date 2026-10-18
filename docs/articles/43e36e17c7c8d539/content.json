@@ -1,0 +1,24 @@
+{
+  "id": "43e36e17c7c8d539",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Confidential submission of draft S-1 to the SEC",
+  "summary": "OpenAI确认已向美国证券交易委员会（SEC）保密提交S-1草案，并表示尚未确定进一步行动的时间安排。",
+  "url": "https://openai.com/index/openai-submits-confidential-s-1",
+  "date": "2026-06-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-08T14:00:00+00:00",
+  "titleEn": "Confidential submission of draft S-1 to the SEC",
+  "titleZh": "向美国SEC保密提交S-1草案",
+  "details": {
+    "overview": "OpenAI确认已向美国证券交易委员会（SEC）保密提交S-1草案，并表示尚未确定进一步行动的时间安排。当前收录材料未提供发行规模、估值、承销商或上市时间等任何细节。",
+    "keyPoints": [
+      "OpenAI确认已向SEC保密提交S-1草案。",
+      "OpenAI表示尚未确定进一步行动的时间安排。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

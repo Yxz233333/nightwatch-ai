@@ -1,0 +1,25 @@
+{
+  "id": "0b9deb9022fe2429",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing the OpenAI Safety Bug Bounty program",
+  "summary": "OpenAI 宣布推出安全漏洞赏金计划，旨在识别 AI 滥用与安全风险，涵盖智能体漏洞、提示注入和数据外泄等方向。",
+  "url": "https://openai.com/index/safety-bug-bounty",
+  "date": "2026-03-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-25T00:00:00+00:00",
+  "titleEn": "Introducing the OpenAI Safety Bug Bounty program",
+  "titleZh": "推出 OpenAI 安全漏洞赏金计划",
+  "details": {
+    "overview": "OpenAI 宣布推出安全漏洞赏金计划，旨在识别 AI 滥用与安全风险，涵盖智能体漏洞、提示注入和数据外泄等方向。原文仅提供一句简介，未说明奖励金额、参与方式、适用范围或评审标准，因此无法进一步介绍该计划的具体安排。",
+    "keyPoints": [
+      "计划目标是识别 AI 滥用与安全风险。",
+      "关注方向包括智能体漏洞、提示注入和数据外泄。",
+      "当前收录材料未提供奖励金额与参与方式等细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

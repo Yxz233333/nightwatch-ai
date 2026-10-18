@@ -1,0 +1,24 @@
+{
+  "id": "21b210ffad159e24",
+  "section": "news",
+  "category": "工具动态",
+  "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+  "summary": "该官方发布称，系统性能、基础设施高效扩展与持续软件优化是决定AI推理经济性的关键因素：更高系统性能意味着生成更多token、带来更高收入；高效扩展意味着增加硬件时吞吐按比例增长；持续优化意味着从基础设施投资中获得更多价值。",
+  "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
+  "date": "2026-09-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-09-16T15:00:48+00:00",
+  "titleEn": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+  "titleZh": "NVIDIA Vera Rubin NVL72在MLPerf Inference v6.1首秀中展现领先性能",
+  "details": {
+    "overview": "该官方发布称，系统性能、基础设施高效扩展与持续软件优化是决定AI推理经济性的关键因素：更高系统性能意味着生成更多token、带来更高收入；高效扩展意味着增加硬件时吞吐按比例增长；持续优化意味着从基础设施投资中获得更多价值。原文摘要在此处截断，未给出具体测试成绩与对比数据。",
+    "keyPoints": [
+      "提出系统性能、扩展效率与软件优化是AI推理经济性三大杠杆",
+      "称更高系统性能可生成更多token并带来更高收入",
+      "称高效扩展可使吞吐随硬件增加按比例增长"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

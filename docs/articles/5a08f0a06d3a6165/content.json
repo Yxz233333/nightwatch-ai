@@ -1,0 +1,25 @@
+{
+  "id": "5a08f0a06d3a6165",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "BBVA and OpenAI collaborate to transform global banking",
+  "summary": "该消息称，BBVA 通过一项多年期 AI 转型计划扩大与 OpenAI 的合作，将 ChatGPT Enterprise 推广至全部 12 万名员工。",
+  "url": "https://openai.com/index/bbva-collaboration-expansion",
+  "date": "2025-12-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-12T00:00:00+00:00",
+  "titleEn": "BBVA and OpenAI collaborate to transform global banking",
+  "titleZh": "BBVA 与 OpenAI 合作推动全球银行业转型",
+  "details": {
+    "overview": "该消息称，BBVA 通过一项多年期 AI 转型计划扩大与 OpenAI 的合作，将 ChatGPT Enterprise 推广至全部 12 万名员工。双方表示将共同开发 AI 解决方案，用于改善客户互动、简化运营流程，并帮助构建 AI 原生银行体验。当前收录材料未提供具体部署时间表、效果指标或独立评估结果。",
+    "keyPoints": [
+      "BBVA 计划将 ChatGPT Enterprise 覆盖全部 12 万名员工。",
+      "双方合作定位为多年期 AI 转型项目。",
+      "目标包括改善客户互动、简化运营和构建 AI 原生银行体验。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

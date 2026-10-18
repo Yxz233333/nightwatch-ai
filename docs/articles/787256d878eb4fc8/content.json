@@ -1,0 +1,24 @@
+{
+  "id": "787256d878eb4fc8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Signs of introspection in large language models",
+  "summary": "该研究探讨大型语言模型能否内省自身内部状态。",
+  "url": "https://www.anthropic.com/research/introspection",
+  "date": "2025-10-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-10-29T01:20:00+00:00",
+  "titleEn": "Signs of introspection in large language models",
+  "titleZh": "大型语言模型中的内省迹象",
+  "details": {
+    "overview": "该研究探讨大型语言模型能否内省自身内部状态。作者采用“概念注入”方法，将已知神经活动模式注入模型，测试其能否察觉并识别注入概念。摘要表示，当前Claude模型表现出一定程度的内省意识和内部状态控制，但该能力高度不可靠且范围有限，作者强调尚无证据表明模型能像人类一样内省。测试中Claude Opus 4和4.1表现最佳。",
+    "keyPoints": [
+      "研究采用概念注入法，将已知神经活动模式注入模型以测试其内省能力。",
+      "摘要称Claude模型表现出有限内省意识，但该能力高度不可靠且范围有限。",
+      "作者表示最强大的测试模型Claude Opus 4和4.1在内省测试中表现最佳。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "83331f45f0d480b0",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Testing ads in ChatGPT (Free, Go)",
+  "summary": "官方发布称，开始在美国面向 Free 和 Go 套餐的已登录成年用户测试 ChatGPT 中的广告，测试先从部分用户开始，并将在未来数周逐步扩大。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#testing-ads-in-chatgpt-free-go",
+  "date": "2026-02-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Testing ads in ChatGPT (Free, Go)",
+  "titleZh": "在 ChatGPT 中测试广告（Free、Go）",
+  "details": {
+    "overview": "官方发布称，开始在美国面向 Free 和 Go 套餐的已登录成年用户测试 ChatGPT 中的广告，测试先从部分用户开始，并将在未来数周逐步扩大。Plus、Pro、Business、Enterprise 和 Education 套餐不含广告。官方表示回答独立于广告生成，广告始终标注为赞助并与自然回答在视觉上分开；广告使用留在 ChatGPT 内的信息，不向广告主共享聊天或个人详情，广告主仅获得曝光、点击等汇总表现信息。用户可关闭广告、反馈、查看展示原因、一键删除广告数据并管理个性化。测试期间，健康、心理、政治等敏感或受监管话题的对话不展示广告，也不向告知或经预测未满 18 岁的用户展示。",
+    "keyPoints": [
+      "美国 Free 与 Go 已登录成年用户先行测试，付费套餐不含广告",
+      "回答独立生成，广告标注赞助并与自然回答视觉分开",
+      "广告主仅获汇总表现数据，敏感话题与未成年用户不展示"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "fa0d77ce36894ae5",
+  "section": "news",
+  "category": "工具动态",
+  "title": "NVIDIA Blackwell: Born for Extreme-Scale AI Inference",
+  "summary": "原文称NVIDIA Blackwell是一整套系统架构的核心，该架构专为驱动“AI工厂”而设计，通过推理使用规模最大、最复杂的AI模型来生产智能。",
+  "url": "https://blogs.nvidia.com/blog/blackwell-ai-inference/",
+  "date": "2025-09-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-09-18T15:00:25+00:00",
+  "titleEn": "NVIDIA Blackwell: Born for Extreme-Scale AI Inference",
+  "titleZh": "NVIDIA Blackwell：为超大规模AI推理而生",
+  "details": {
+    "overview": "原文称NVIDIA Blackwell是一整套系统架构的核心，该架构专为驱动“AI工厂”而设计，通过推理使用规模最大、最复杂的AI模型来生产智能。材料仅给出这一定位性描述，未披露具体性能数字、产品配置或可用范围，相关细节需以官方原始发布为准。",
+    "keyPoints": [
+      "Blackwell被定位为整套系统架构的核心。",
+      "目标场景是使用超大复杂模型进行AI推理。",
+      "原文未给出具体性能数据或推出范围。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

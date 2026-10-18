@@ -1,0 +1,24 @@
+{
+  "id": "5ed2e7ee93b9c8cd",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Combating online child sexual exploitation & abuse",
+  "summary": "该文介绍OpenAI如何通过严格的使用政策、先进的检测工具和行业协作来打击网络儿童性剥削与虐待，目标是阻止、报告并预防AI被滥用。",
+  "url": "https://openai.com/index/combating-online-child-sexual-exploitation-abuse",
+  "date": "2025-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-29T03:00:00+00:00",
+  "titleEn": "Combating online child sexual exploitation & abuse",
+  "titleZh": "打击网络儿童性剥削与虐待",
+  "details": {
+    "overview": "该文介绍OpenAI如何通过严格的使用政策、先进的检测工具和行业协作来打击网络儿童性剥削与虐待，目标是阻止、报告并预防AI被滥用。原始材料仅为一句概述，未披露检测工具的具体机制、报告流程或合作方细节，因此只能确认其主题为平台层面的滥用防治措施。",
+    "keyPoints": [
+      "OpenAI称通过严格使用政策与检测工具打击相关滥用。",
+      "强调行业协作以阻止、报告并预防AI被滥用。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

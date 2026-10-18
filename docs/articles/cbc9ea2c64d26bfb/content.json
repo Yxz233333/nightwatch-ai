@@ -1,0 +1,23 @@
+{
+  "id": "cbc9ea2c64d26bfb",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Improved memory for finding details from past chats (Plus & Pro)",
+  "summary": "当启用参考聊天历史时，ChatGPT 现在能更可靠地从过往聊天中查找特定细节。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-memory-for-finding-details-from-past-chats-plus-pro",
+  "date": "2026-01-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Improved memory for finding details from past chats (Plus & Pro)",
+  "titleZh": "改进记忆：更可靠地从过往聊天中查找细节（Plus 与 Pro）",
+  "details": {
+    "overview": "当启用参考聊天历史时，ChatGPT 现在能更可靠地从过往聊天中查找特定细节。用于回答问题的任何过往聊天都会作为来源显示，以便用户打开并查看原始上下文。该记忆改进现面向全球 Plus 和 Pro 用户提供。",
+    "keyPoints": [
+      "启用参考聊天历史后，ChatGPT 可更可靠地从过往聊天中查找特定细节。",
+      "用于回答的过往聊天会作为来源显示，可打开查看原始上下文。",
+      "该改进面向全球 Plus 和 Pro 用户提供。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

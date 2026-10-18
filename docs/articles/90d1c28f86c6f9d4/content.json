@@ -1,0 +1,24 @@
+{
+  "id": "90d1c28f86c6f9d4",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Building on our commitment to American scientific discovery",
+  "summary": "该新闻称Anthropic将在三年内向联邦“Genesis Mission”计划投入1.5亿美元，用于加速AI驱动的科学与技术发现。",
+  "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+  "date": "2026-10-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-10-08T13:00:00+00:00",
+  "titleEn": "Building on our commitment to American scientific discovery",
+  "titleZh": "Anthropic承诺投入1.5亿美元支持美国科学发现",
+  "details": {
+    "overview": "该新闻称Anthropic将在三年内向联邦“Genesis Mission”计划投入1.5亿美元，用于加速AI驱动的科学与技术发现。资金将让Claude面向NASA、NIH、NSF等超过15个参与机构开放。Anthropic此前已与DOE合作将Claude引入国家实验室，并推出Claude Science、学术席位及AI for Science等项目。原文未说明各机构具体使用方式或效果。",
+    "keyPoints": [
+      "Anthropic三年投入1.5亿美元支持Genesis Mission。",
+      "资金用于向NASA、NIH、NSF等超15个机构提供Claude。",
+      "此前已与DOE合作将Claude引入国家实验室。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

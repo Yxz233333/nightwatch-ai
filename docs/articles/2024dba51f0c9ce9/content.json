@@ -1,0 +1,24 @@
+{
+  "id": "2024dba51f0c9ce9",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Accelerating the cyber defense ecosystem that protects us all",
+  "summary": "该消息称，领先安全公司与企业加入 OpenAI 的 Trusted Access for Cyber 计划，使用 GPT-5.4-Cyber 并借助 1000 万美元 API 赠款加强全球网络防御。",
+  "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+  "date": "2026-04-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-16T00:00:00+00:00",
+  "titleEn": "Accelerating the cyber defense ecosystem that protects us all",
+  "titleZh": "加速保护我们所有人的网络防御生态",
+  "details": {
+    "overview": "该消息称，领先安全公司与企业加入 OpenAI 的 Trusted Access for Cyber 计划，使用 GPT-5.4-Cyber 并借助 1000 万美元 API 赠款加强全球网络防御。原文仅提供这一句摘要，未披露参与机构名单、赠款分配方式或具体防御效果，因此无法进一步说明合作细节与验证情况。",
+    "keyPoints": [
+      "安全公司与企业加入 OpenAI 的 Trusted Access for Cyber 计划。",
+      "参与方使用 GPT-5.4-Cyber 并获 1000 万美元 API 赠款。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2446c7f84dc2a93d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Snowflake and Anthropic announce $200 million partnership to bring agentic AI to global enterprises",
+  "summary": "Anthropic 与 Snowflake 宣布扩大战略合作，签署多年期 2 亿美元协议，使 Claude 模型通过 Amazon Bedrock、Google Cloud Vertex AI 和 Microsoft Azure 在 Snowflake 平台上面向超过 12,600 家全球客户提供，并建立联合市场推广计划，聚焦在企业部署 AI 智能体。",
+  "url": "https://www.anthropic.com/news/snowflake-anthropic-expanded-partnership",
+  "date": "2025-12-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-12-03T21:10:00+00:00",
+  "titleEn": "Snowflake and Anthropic announce $200 million partnership to bring agentic AI to global enterprises",
+  "titleZh": "Snowflake 与 Anthropic 宣布 2 亿美元合作，将智能体 AI 带入全球企业",
+  "details": {
+    "overview": "Anthropic 与 Snowflake 宣布扩大战略合作，签署多年期 2 亿美元协议，使 Claude 模型通过 Amazon Bedrock、Google Cloud Vertex AI 和 Microsoft Azure 在 Snowflake 平台上面向超过 12,600 家全球客户提供，并建立联合市场推广计划，聚焦在企业部署 AI 智能体。双方称合作可让客户在受治理的数据环境中用 Claude 分析结构化与非结构化数据；Snowflake 内部也使用 Claude Code 与基于 Snowflake Intelligence 的销售助手。",
+    "keyPoints": [
+      "多年期 2 亿美元协议，Claude 经三大云在 Snowflake 提供。",
+      "覆盖超 12,600 家客户，并设联合市场推广计划。",
+      "重点是在受治理数据环境中部署处理多步分析的 AI 智能体。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "494939ef26f43441",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Higgsfield takes AI video from 1 minute to over 10",
+  "summary": "Higgsfield 宣布为创作者提供更长视频能力，称借助 GPT-6 Astra 可将 AI 视频从 1 分钟延长到 10 分钟以上，并通过 GPT-Image-2.5 提供更精确的视觉效果，同时借助 GPT-Live 探索语音电影制作路径。",
+  "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+  "date": "2026-10-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-10-13T12:00:00+00:00",
+  "titleEn": "Higgsfield takes AI video from 1 minute to over 10",
+  "titleZh": "Higgsfield 将 AI 视频从 1 分钟延长至 10 分钟以上",
+  "details": {
+    "overview": "Higgsfield 宣布为创作者提供更长视频能力，称借助 GPT-6 Astra 可将 AI 视频从 1 分钟延长到 10 分钟以上，并通过 GPT-Image-2.5 提供更精确的视觉效果，同时借助 GPT-Live 探索语音电影制作路径。原文仅提供一句摘要，未披露具体技术细节、可用范围或独立验证信息。",
+    "keyPoints": [
+      "Higgsfield 称借助 GPT-6 Astra 将 AI 视频时长从 1 分钟延长至 10 分钟以上。",
+      "GPT-Image-2.5 用于提供更精确的视觉效果。",
+      "GPT-Live 被描述为通往语音电影制作的路径。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

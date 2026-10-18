@@ -1,0 +1,25 @@
+{
+  "id": "e24c0036e6a3f050",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Continuous batching from first principles",
+  "summary": "该条目仅有标题“从第一性原理理解连续批处理”，摘要与原文内容均未提供。",
+  "url": "https://huggingface.co/blog/continuous_batching",
+  "date": "2025-11-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-11-25T00:00:00+00:00",
+  "titleEn": "Continuous batching from first principles",
+  "titleZh": "从第一性原理理解连续批处理",
+  "details": {
+    "overview": "该条目仅有标题“从第一性原理理解连续批处理”，摘要与原文内容均未提供。仅可判断其主题与推理服务中的连续批处理（continuous batching）技术相关，可能涉及原理性讲解。由于缺少正文，无法说明具体研究对象、作者观点或结论，材料不足，需以官方原始发布内容为准。",
+    "keyPoints": [
+      "标题指向连续批处理技术的原理性讲解。",
+      "材料未提供正文，无法确认具体内容与结论。",
+      "细节不足，需以官方原始发布为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

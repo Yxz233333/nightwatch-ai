@@ -1,0 +1,23 @@
+{
+  "id": "216c3d5894e78def",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Retiring GPT-4o and other legacy models",
+  "summary": "原文说明，OpenAI 已按此前公告从 ChatGPT 中停用 GPT-4o、GPT-4.1、GPT-4.1 mini 和 OpenAI o4-mini，同时也停用此前已公告的 GPT-5（Instant 与 Thinking）。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-4o-and-other-legacy-models",
+  "date": "2026-02-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Retiring GPT-4o and other legacy models",
+  "titleZh": "停用 GPT-4o 及其他旧版模型",
+  "details": {
+    "overview": "原文说明，OpenAI 已按此前公告从 ChatGPT 中停用 GPT-4o、GPT-4.1、GPT-4.1 mini 和 OpenAI o4-mini，同时也停用此前已公告的 GPT-5（Instant 与 Thinking）。原文明确表示目前 API 没有变化，具体细节指向博客文章和帮助中心。该条目属于 ChatGPT 侧的功能更新，涉及模型下线安排，但不涉及 API 调整。",
+    "keyPoints": [
+      "ChatGPT 停用 GPT-4o、GPT-4.1、GPT-4.1 mini 与 o4-mini",
+      "同时停用 GPT-5 的 Instant 与 Thinking",
+      "原文称目前 API 没有变化"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "aaa73da25329767c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "The full stack behind abundant intelligence",
+  "summary": "据官方发布记录，OpenAI 首席财务官 Sarah Friar 撰文解释芯片、算力、模型和产品各层面的进步如何相互叠加，从而以更大规模和更低成本提供更有用的智能。",
+  "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+  "date": "2026-08-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-25T07:05:00+00:00",
+  "titleEn": "The full stack behind abundant intelligence",
+  "titleZh": "充裕智能背后的全栈体系",
+  "details": {
+    "overview": "据官方发布记录，OpenAI 首席财务官 Sarah Friar 撰文解释芯片、算力、模型和产品各层面的进步如何相互叠加，从而以更大规模和更低成本提供更有用的智能。原文摘要仅给出这一总体论述，未披露具体成本数据、规模指标或技术路线细节，相关结论应以官方原文为准。",
+    "keyPoints": [
+      "由 OpenAI CFO Sarah Friar 阐述全栈视角",
+      "强调芯片、算力、模型与产品的叠加效应",
+      "目标是更大规模、更低成本地提供有用智能"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

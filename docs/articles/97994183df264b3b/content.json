@@ -1,0 +1,25 @@
+{
+  "id": "97994183df264b3b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+  "summary": "材料仅有标题，主题为把 GitHub CI 迁移到 Hugging Face Jobs。",
+  "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+  "date": "2026-06-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-06-09T00:00:00+00:00",
+  "titleEn": "Migrating Your GitHub CI to Hugging Face Jobs",
+  "titleZh": "将 GitHub CI 迁移到 Hugging Face Jobs",
+  "details": {
+    "overview": "材料仅有标题，主题为把 GitHub CI 迁移到 Hugging Face Jobs。原始发布内容为空，缺少迁移步骤、适用场景与效果说明，无法展开具体介绍。",
+    "keyPoints": [
+      "主题为将 GitHub CI 迁移至 Hugging Face Jobs",
+      "当前收录材料未提供迁移步骤与适用场景",
+      "原文未给出效果或性能数据"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "896ecc0030ec1c09",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Introducing ChatGPT Work",
+  "summary": "官方推出ChatGPT Work，定位为处理更长、更复杂任务的智能体，可研究分析信息、跨已连接应用和文件工作，并产出文档、表格、演示、报告和Sites。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work",
+  "date": "2026-07-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Introducing ChatGPT Work",
+  "titleZh": "推出ChatGPT Work",
+  "details": {
+    "overview": "官方推出ChatGPT Work，定位为处理更长、更复杂任务的智能体，可研究分析信息、跨已连接应用和文件工作，并产出文档、表格、演示、报告和Sites。用户可跟踪进度、回答问题、调整方向并审批重要操作；Scheduled Tasks支持一次性、定时或触发式运行及变更监控。网页和移动端向付费方案推出，Free与Go除外，Pro、Pro Lite、Enterprise和Edu优先。",
+    "keyPoints": [
+      "可跨应用与文件研究分析，并生成文档、表格、演示和报告",
+      "Scheduled Tasks支持单次、定时、触发运行及变更监控",
+      "付费方案分批推出，Free与Go不包含；企业版有两周预览"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

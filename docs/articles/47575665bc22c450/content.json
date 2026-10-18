@@ -1,0 +1,24 @@
+{
+  "id": "47575665bc22c450",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Open Sources Aerial Software to Accelerate AI-Native 6G",
+  "summary": "该新闻称NVIDIA将把Aerial软件开源，以帮助电信行业构建AI原生的5G和6G网络。",
+  "url": "https://blogs.nvidia.com/blog/open-source-aerial-ai-native-6g/",
+  "date": "2025-10-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-10-28T18:00:10+00:00",
+  "titleEn": "NVIDIA Open Sources Aerial Software to Accelerate AI-Native 6G",
+  "titleZh": "NVIDIA开源Aerial软件，加速AI原生6G发展",
+  "details": {
+    "overview": "该新闻称NVIDIA将把Aerial软件开源，以帮助电信行业构建AI原生的5G和6G网络。开源后的软件将可在多种NVIDIA平台上使用，包括NVIDIA DGX Spark。新闻表示开源软件与强大易用的超级计算机结合将推动电信创新，但未披露具体开源时间表、许可条款或性能数据。",
+    "keyPoints": [
+      "NVIDIA宣布将Aerial软件开源，用于构建AI原生5G和6G网络。",
+      "开源软件将可在多种NVIDIA平台使用，包括DGX Spark。",
+      "新闻未披露具体开源时间表、许可条款或性能数据。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

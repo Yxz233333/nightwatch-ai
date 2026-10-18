@@ -1,0 +1,25 @@
+{
+  "id": "c6368ee68db01d89",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.145.0 发布",
+  "summary": "Codex CLI 0.145.0 发布，新增实验性分页线程历史、扩展 /import 以迁移 Cursor 和 Claude Code 的设置与 MCP 服务器等、实验性 Amazon Bedrock 登录与自定义端点支持、音频输入与工具输出及流式实时 V3 对话，并稳定多智能体 V2 体验。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.145.0",
+  "date": "2026-07-22",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-07-21T18:21:04+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.145.0 发布",
+  "titleZh": "Codex CLI 0.145.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.145.0 发布，新增实验性分页线程历史、扩展 /import 以迁移 Cursor 和 Claude Code 的设置与 MCP 服务器等、实验性 Amazon Bedrock 登录与自定义端点支持、音频输入与工具输出及流式实时 V3 对话，并稳定多智能体 V2 体验。修复涉及分支保留、终端响应、MCP 启动与认证、Windows 沙箱和审批处理等。该版本为 CLI 稳定版，桌面端功能以对应公告为准。",
+    "keyPoints": [
+      "新增实验性分页线程历史，支持恢复、搜索、持久名称和子智能体。",
+      "/import 可迁移 Cursor 和 Claude Code 的设置、MCP 服务器、插件与会话。",
+      "新增实验性 Amazon Bedrock 登录与自定义端点，默认模型为 GPT-5.6 Sol。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

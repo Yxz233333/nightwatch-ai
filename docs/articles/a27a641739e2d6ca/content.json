@@ -1,0 +1,23 @@
+{
+  "id": "a27a641739e2d6ca",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Improvements to search in ChatGPT",
+  "summary": "OpenAI 宣布对 ChatGPT 中的搜索功能进行进一步改进，使结果更准确、可靠和有用。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-in-chatgpt",
+  "date": "2025-09-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Improvements to search in ChatGPT",
+  "titleZh": "ChatGPT 搜索功能改进",
+  "details": {
+    "overview": "OpenAI 宣布对 ChatGPT 中的搜索功能进行进一步改进，使结果更准确、可靠和有用。具体改进包括：事实性方面减少幻觉，提升答案质量；购物方面更好地检测购物意图，在用户需要时展示产品，不需要时保持结果聚焦；格式方面优化答案排版，便于快速理解且不丢失细节或质量。当前收录材料未提供具体测试数据或推出范围。",
+    "keyPoints": [
+      "事实性改进：减少幻觉，提升答案质量。",
+      "购物意图检测更准：需要时展示产品，不需要时保持聚焦。",
+      "答案格式优化，便于快速理解且不丢失细节。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

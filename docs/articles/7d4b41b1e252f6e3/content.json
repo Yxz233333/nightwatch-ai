@@ -1,0 +1,23 @@
+{
+  "id": "7d4b41b1e252f6e3",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "5.2 Personality System Prompt Update",
+  "summary": "该更新将 GPT-5.2 Instant 的默认个性调整为更对话化，并更好地根据上下文调整语气，使交流更顺畅自然。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#52-personality-system-prompt-update",
+  "date": "2026-01-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "5.2 Personality System Prompt Update",
+  "titleZh": "5.2 个性系统提示更新",
+  "details": {
+    "overview": "该更新将 GPT-5.2 Instant 的默认个性调整为更对话化，并更好地根据上下文调整语气，使交流更顺畅自然。用户仍可在设置的个人化菜单中选择不同的基础风格和语气，并调节温暖度、表情符号使用等特征。",
+    "keyPoints": [
+      "GPT-5.2 Instant 默认个性更对话化、更适应上下文。",
+      "用户可在个人化菜单选择不同基础风格和语气。",
+      "可调节温暖度和表情符号使用等特征。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

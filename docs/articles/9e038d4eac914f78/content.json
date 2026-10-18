@@ -1,0 +1,24 @@
+{
+  "id": "9e038d4eac914f78",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Using AI to perceive the universe in greater depth",
+  "summary": "稿件提出一种名为Deep Loop Shaping的AI控制方法，用于改善引力波天文台的反馈控制。",
+  "url": "https://deepmind.google/blog/using-ai-to-perceive-the-universe-in-greater-depth/",
+  "date": "2025-09-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2025-09-04T00:00:00+00:00",
+  "titleEn": "Using AI to perceive the universe in greater depth",
+  "titleZh": "用AI更深入地感知宇宙",
+  "details": {
+    "overview": "稿件提出一种名为Deep Loop Shaping的AI控制方法，用于改善引力波天文台的反馈控制。作者称，该方法与LIGO和GSSI合作开发，并在路易斯安那州利文斯顿天文台验证，将LIGO最不稳定反馈环路的噪声降低30至100倍，提升干涉仪镜面稳定性。摘要表示，若应用于全部镜面控制环路，有望帮助天文学家每年探测更多事件；未来也可用于振动抑制、噪声消除等工程问题。",
+    "keyPoints": [
+      "Deep Loop Shaping采用强化学习与频域奖励，降低控制噪声。",
+      "作者称在LIGO利文斯顿实测中噪声降低30至100倍。",
+      "摘要表示应用于全部镜面环路或可每年探测数百更多事件。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "0f6589825ed3510d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Measuring LLMs’ ability to develop exploits",
+  "summary": "该稿件介绍两个新的学术基准 ExploitBench 与 ExploitGym，以及更新版 SCONE-bench，用于量化大语言模型开发漏洞利用的能力。",
+  "url": "https://www.anthropic.com/research/exploit-evals",
+  "date": "2026-05-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-05-22T17:00:00+00:00",
+  "titleEn": "Measuring LLMs’ ability to develop exploits",
+  "titleZh": "衡量大语言模型开发漏洞利用的能力",
+  "details": {
+    "overview": "该稿件介绍两个新的学术基准 ExploitBench 与 ExploitGym，以及更新版 SCONE-bench，用于量化大语言模型开发漏洞利用的能力。作者称在三个基准上 Mythos Preview 均优于所有其他受测模型，其中在 ExploitBench 的 41 个 V8 漏洞中于 21 个实现任意代码执行，而其他模型在两个变体中均未实现一次。摘要表示，这进一步说明开发漏洞利用所需的知识门槛可能随此类能力普及而显著下降。",
+    "keyPoints": [
+      "ExploitBench 将漏洞利用开发拆为 16 项能力、五个层级，程序化自动评分，无人工或模型裁判。",
+      "在 V8 基准 41 个已修补漏洞上，Mythos Preview 于 21 个实现任意代码执行，其他模型为零。",
+      "作者称 Mythos Preview 是唯一能可靠逃逸 V8 沙箱的受测模型，在过半测试环境中做到。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

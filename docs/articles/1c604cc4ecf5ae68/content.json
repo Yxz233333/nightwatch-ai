@@ -1,0 +1,25 @@
+{
+  "id": "1c604cc4ecf5ae68",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+  "summary": "据官方发布记录，Wasmer 使用 Codex 与 GPT-5.5 构建面向边缘计算的 Node.js 运行时，官方称开发速度提升 10 至 20 倍，交付周期从数月缩短至数周。",
+  "url": "https://openai.com/index/wasmer",
+  "date": "2026-06-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-03T12:00:00+00:00",
+  "titleEn": "How Wasmer used Codex to build a Node.js runtime for the edge",
+  "titleZh": "Wasmer 如何用 Codex 构建边缘 Node.js 运行时",
+  "details": {
+    "overview": "据官方发布记录，Wasmer 使用 Codex 与 GPT-5.5 构建面向边缘计算的 Node.js 运行时，官方称开发速度提升 10 至 20 倍，交付周期从数月缩短至数周。该材料仅给出上述概括性说法，未披露具体技术实现、性能指标或独立验证结果，读者应将其视为厂商自述的效率宣称。",
+    "keyPoints": [
+      "Wasmer 借助 Codex 与 GPT-5.5 开发边缘 Node.js 运行时",
+      "官方称开发加速 10 至 20 倍，交付从数月缩至数周",
+      "材料未披露技术细节与独立验证，属官方自述"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ecaa90f55715a438",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+  "summary": "该官方内容介绍 CyberAgent 使用 ChatGPT Enterprise 和 Codex，在广告、媒体和游戏业务中安全地扩大 AI 应用、提升质量并加快决策。",
+  "url": "https://openai.com/index/cyberagent",
+  "date": "2026-04-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-09T00:00:00+00:00",
+  "titleEn": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+  "titleZh": "CyberAgent 借助 ChatGPT Enterprise 和 Codex 加速发展",
+  "details": {
+    "overview": "该官方内容介绍 CyberAgent 使用 ChatGPT Enterprise 和 Codex，在广告、媒体和游戏业务中安全地扩大 AI 应用、提升质量并加快决策。原文仅为概述性说明，未提供具体部署规模、量化效果或独立验证结果。",
+    "keyPoints": [
+      "CyberAgent 在广告、媒体和游戏业务中使用相关工具",
+      "目标包括安全扩展 AI 应用、提升质量与加快决策"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

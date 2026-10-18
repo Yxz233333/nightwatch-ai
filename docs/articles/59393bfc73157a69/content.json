@@ -1,0 +1,24 @@
+{
+  "id": "59393bfc73157a69",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How AI Is Unlocking Level 4 Autonomous Driving",
+  "summary": "该文从 SAE 2014 年建立的车辆自动化分级框架切入，回顾从 L1 驾驶辅助到 L5 完全自动化的路线图，并讨论各级别实现时间的预测。",
+  "url": "https://blogs.nvidia.com/blog/level-4-autonomous-driving-ai/",
+  "date": "2025-10-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-10-20T15:00:51+00:00",
+  "titleEn": "How AI Is Unlocking Level 4 Autonomous Driving",
+  "titleZh": "AI 如何解锁 L4 级自动驾驶",
+  "details": {
+    "overview": "该文从 SAE 2014 年建立的车辆自动化分级框架切入，回顾从 L1 驾驶辅助到 L5 完全自动化的路线图，并讨论各级别实现时间的预测。原始内容在此处截断，未给出文章对 AI 推动 L4 级自动驾驶的具体论点、案例或数据。因此目前只能确认文章主题是 AI 与 L4 级自动驾驶的关系，具体结论需以原文为准。",
+    "keyPoints": [
+      "文章以 SAE 的 L1 至 L5 自动化分级为背景",
+      "原文讨论各级别实现时间的预测",
+      "AI 解锁 L4 的具体论点需以原文为准"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "f3f029c362ea909f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Advances Autonomous Networks With Agentic AI Blueprints and Telco Reasoning Models",
+  "summary": "NVIDIA 发文称，自主网络正从未来愿景变为电信运营商的当前优先事项，其《电信业 AI 现状》报告显示网络自动化是投资与回报最高的 AI 用例。",
+  "url": "https://blogs.nvidia.com/blog/nvidia-agentic-ai-blueprints-telco-reasoning-models/",
+  "date": "2026-03-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-03-01T07:00:45+00:00",
+  "titleEn": "NVIDIA Advances Autonomous Networks With Agentic AI Blueprints and Telco Reasoning Models",
+  "titleZh": "NVIDIA 以代理式 AI 蓝图和电信推理模型推进自主网络",
+  "details": {
+    "overview": "NVIDIA 发文称，自主网络正从未来愿景变为电信运营商的当前优先事项，其《电信业 AI 现状》报告显示网络自动化是投资与回报最高的 AI 用例。文章区分自动化与自主性：前者执行预定义工作流，后者更进一步。原文摘要在此处截断，未给出蓝图与推理模型的具体内容，相关细节需以原文为准。",
+    "keyPoints": [
+      "NVIDIA 称其报告显示网络自动化是电信业投资回报最高的 AI 用例。",
+      "文章区分自动化与自主性，强调自主性不止于执行预定义工作流。",
+      "摘要截断，代理式 AI 蓝图与电信推理模型细节未在材料中展开。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

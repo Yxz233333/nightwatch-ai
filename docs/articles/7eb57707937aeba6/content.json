@@ -1,0 +1,25 @@
+{
+  "id": "7eb57707937aeba6",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+  "summary": "现有材料仅有标题，未提供正文、作者或具体论点。",
+  "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+  "date": "2026-06-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-06-01T13:51:18+00:00",
+  "titleEn": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+  "titleZh": "超越大语言模型：可扩展企业AI应用为何依赖代理逻辑",
+  "details": {
+    "overview": "现有材料仅有标题，未提供正文、作者或具体论点。标题表明文章讨论企业AI规模化应用为何不仅依赖大语言模型，还取决于“代理逻辑”（Agent Logic）。由于缺少原文内容，无法说明其具体研究对象、论证依据或结论，相关信息不足，应以原始发布为准。",
+    "keyPoints": [
+      "标题主张企业AI规模化应用依赖代理逻辑。",
+      "现有材料未提供正文、作者或论证细节。",
+      "无法确认文章的具体结论与依据。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

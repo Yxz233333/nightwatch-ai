@@ -1,0 +1,24 @@
+{
+  "id": "cf1e65805ba77496",
+  "section": "news",
+  "category": "模型动态",
+  "title": "How Claude is accelerating protein design and analytical chemistry",
+  "summary": "该文分享两项实验结果，展示 Claude 在生命科学中的辅助作用。",
+  "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+  "date": "2026-08-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-08-18T14:45:00+00:00",
+  "titleEn": "How Claude is accelerating protein design and analytical chemistry",
+  "titleZh": "Claude 如何加速蛋白质设计与分析化学",
+  "details": {
+    "overview": "该文分享两项实验结果，展示 Claude 在生命科学中的辅助作用。其一，作者用 Claude（Mythos Preview 与 Opus 4.8）针对 15 个靶点从头设计蛋白质结合体，称其中 14 个靶点成功，单次设计命中率约 22% 至 35%，高于当前常见的 10% 至 15%，部分设计结合强度超过已发表最佳结果。其二，Claude Opus 5 仅凭合同实验室原始文件与两句提示，在 23 和 19 分钟内完成 NMR 与 LC-MS 数据分析，氢计数与纯度结果与实验室自身分析一致。作者称这些结果说明 Claude 可缩短复杂科研任务所需时间与计算门槛。",
+    "keyPoints": [
+      "作者称 Claude 针对 15 个靶点中的 14 个成功设计蛋白质结合体。",
+      "单次设计命中率 22% 至 35%，高于当前常见的 10% 至 15%。",
+      "Opus 5 在约 20 分钟内完成 NMR 与 LC-MS 数据分析并与实验室结果一致。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "0f74ee9d494f7d6c",
+  "section": "news",
+  "category": "模型动态",
+  "title": "DeepSeek-V4.1-Flash Release",
+  "summary": "DeepSeek 正式发布 DeepSeek-V4.1-Flash 模型，称其是新架构家族中最小的一款，具备原生多模态视觉理解能力。",
+  "url": "https://api-docs.deepseek.com/updates/#deepseek-v41-flash-release",
+  "date": "2026-09-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "DeepSeek 官方更新",
+  "titleEn": "DeepSeek-V4.1-Flash Release",
+  "titleZh": "DeepSeek-V4.1-Flash 发布",
+  "details": {
+    "overview": "DeepSeek 正式发布 DeepSeek-V4.1-Flash 模型，称其是新架构家族中最小的一款，具备原生多模态视觉理解能力。新架构旨在实现更高能力上限、更快推理、更高吞吐量，并可扩展至更大模型。官方公布了多项基准测试分数，并宣布该模型已在 DeepSeek API 上线，模型名称为 deepseek-flash。上一代 V4 Flash 和 V4 Flash Vision Exp 已退役，旧模型名暂时路由至 V4.1 Flash。官方还决定在 2026 年 9 月 14 日后继续提供 DeepSeek V4 Pro 的 API 服务，计费方式不变，并相应降低了 API 价格。",
+    "keyPoints": [
+      "DeepSeek-V4.1-Flash 是新架构家族最小模型，具备原生多模态视觉理解。",
+      "新架构设计目标包括更高能力上限、更快推理、更高吞吐和可扩展性。",
+      "模型已上线 DeepSeek API，模型名为 deepseek-flash，API 价格相应降低。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

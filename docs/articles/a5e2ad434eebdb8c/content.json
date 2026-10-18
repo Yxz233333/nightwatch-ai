@@ -1,0 +1,25 @@
+{
+  "id": "a5e2ad434eebdb8c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+  "summary": "OpenAI 与普华永道（PwC）宣布合作，帮助企业使用 AI 智能体自动化财务工作流、改进预测、加强控制，并推动 CFO 职能现代化。",
+  "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+  "date": "2026-05-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-04T21:00:00+00:00",
+  "titleEn": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+  "titleZh": "OpenAI 与普华永道合作重塑 CFO 办公室",
+  "details": {
+    "overview": "OpenAI 与普华永道（PwC）宣布合作，帮助企业使用 AI 智能体自动化财务工作流、改进预测、加强控制，并推动 CFO 职能现代化。原文为合作意向与目标层面的说明，未披露具体产品、客户数量或成效数据，相关能力与落地范围以原始发布为准。",
+    "keyPoints": [
+      "OpenAI 与 PwC 合作，面向企业财务场景引入 AI 智能体",
+      "合作目标包括自动化财务工作流与改进预测",
+      "双方称将加强控制并推动 CFO 职能现代化"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

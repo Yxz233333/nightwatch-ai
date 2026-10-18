@@ -1,0 +1,26 @@
+{
+  "id": "67cc0aed52dbc850",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Learning more about Claude's mathematical capabilities",
+  "summary": "Anthropic 员工让 Claude 尝试黎曼猜想未果，但一个未发布的研究版 Claude 在相关问题上改进了黎曼 zeta 函数满足猜想的零点比例下界，从 41.6% 提高到 67.2%。",
+  "url": "https://www.anthropic.com/research/riemann-zeta",
+  "date": "2026-08-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-08-10T17:00:00+00:00",
+  "breakthrough": true,
+  "breakthroughField": "AI 数学研究",
+  "titleEn": "Learning more about Claude's mathematical capabilities",
+  "titleZh": "进一步了解 Claude 的数学能力",
+  "details": {
+    "overview": "Anthropic 员工让 Claude 尝试黎曼猜想未果，但一个未发布的研究版 Claude 在相关问题上改进了黎曼 zeta 函数满足猜想的零点比例下界，从 41.6% 提高到 67.2%。原文称该结果借鉴了数学家数十年研究和 Bombieri 2000 年论文，由 Anthropic 两位数学家研究验证，并生成可形式化验证的证明；外部专家 Brian Conrey 与 Dan Goldston 也审阅了论文。Anthropic 表示不预期这些技术能证明黎曼猜想，但视其为 AI 数学能力进展的例证。",
+    "keyPoints": [
+      "未发布研究版 Claude 将 zeta 函数零点比例下界从 41.6% 提升至 67.2%。",
+      "结果由 Anthropic 数学家验证，并生成 Lean 形式化证明通过 comparator 校验。",
+      "Anthropic 称不预期该技术路线能直接证明黎曼猜想。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

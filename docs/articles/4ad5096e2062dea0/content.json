@@ -1,0 +1,23 @@
+{
+  "id": "4ad5096e2062dea0",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Outlook shared mailboxes and calendars in ChatGPT",
+  "summary": "ChatGPT 的 Outlook 邮件与日历应用现可在用户拥有权限时处理委派或共享的 Outlook 资源。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#outlook-shared-mailboxes-and-calendars-in-chatgpt",
+  "date": "2026-04-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Outlook shared mailboxes and calendars in ChatGPT",
+  "titleZh": "ChatGPT 中的 Outlook 共享邮箱与日历",
+  "details": {
+    "overview": "ChatGPT 的 Outlook 邮件与日历应用现可在用户拥有权限时处理委派或共享的 Outlook 资源。用户可让 ChatGPT 读取共享邮箱邮件、浏览文件夹、标记已读或未读、移动邮件，并以该邮箱名义发送纯文本邮件；对共享日历可创建、更新、回复、取消、删除事件或添加小附件。使用时需连接应用并提供准确的共享邮箱地址或目标日历，可用性取决于微软权限与工作区应用设置。",
+    "keyPoints": [
+      "可读取共享邮箱邮件、浏览文件夹、标记已读未读、移动邮件并发送纯文本邮件。",
+      "可对共享 Outlook 日历创建、更新、回复、取消、删除事件或添加小附件。",
+      "需连接 Outlook 应用并提供准确共享邮箱地址或目标日历，可用性受微软权限限制。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

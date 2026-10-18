@@ -1,0 +1,25 @@
+{
+  "id": "0cfed80331ebbb1c",
+  "section": "news",
+  "category": "模型动态",
+  "title": "We Got Claude to Fine-Tune an Open Source LLM",
+  "summary": "现有材料仅有标题，未提供摘要或原始发布正文，无法确认所用开源模型、微调方法、数据来源与评测结果。",
+  "url": "https://huggingface.co/blog/hf-skills-training",
+  "date": "2025-12-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-12-04T00:00:00+00:00",
+  "titleEn": "We Got Claude to Fine-Tune an Open Source LLM",
+  "titleZh": "我们让 Claude 微调了一个开源大模型",
+  "details": {
+    "overview": "现有材料仅有标题，未提供摘要或原始发布正文，无法确认所用开源模型、微调方法、数据来源与评测结果。标题表明内容涉及让 Claude 参与对一个开源大语言模型的微调。以下要点仅从标题提炼，关于效果与可行性的结论材料不足。",
+    "keyPoints": [
+      "主题为让 Claude 参与微调开源大模型。",
+      "材料未说明所用模型与微调方法。",
+      "材料未提供评测结果与效果结论。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

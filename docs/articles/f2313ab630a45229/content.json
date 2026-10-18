@@ -1,0 +1,23 @@
+{
+  "id": "f2313ab630a45229",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex app 26.304",
+  "summary": "本条介绍 Codex 应用登陆 Windows。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2026-03-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "Codex app 26.304",
+  "titleZh": "Windows 版 Codex 应用",
+  "details": {
+    "overview": "本条介绍 Codex 应用登陆 Windows。原文称该应用提供统一界面，用于跨项目工作、并行运行智能体线程并集中审阅结果。它原生运行于 Windows，使用 PowerShell 和原生 Windows 沙箱实现有界权限，因此用户无需迁移到 WSL、虚拟机或关闭沙箱即可使用。Windows 版包含与其他平台相同的核心功能，如 Skills、后台运行的 Automations、处理同一项目独立任务的 Worktrees，也可切换智能体与集成终端在 WSL 中运行。原文给出 Microsoft Store 下载与登录方式。",
+    "keyPoints": [
+      "Codex 应用现已提供 Windows 版，原生使用 PowerShell 与 Windows 沙箱。",
+      "支持并行智能体线程、Skills、Automations 与 Worktrees 等核心功能。",
+      "用户可切换智能体与集成终端在 WSL 中运行。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "9cceb23f90523c4b",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Retiring group chats in ChatGPT",
+  "summary": "OpenAI宣布自7月9日起，网页、iOS和Android用户将无法新建群聊、把现有对话转为群聊或通过邀请链接加入群聊。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-group-chats-in-chatgpt",
+  "date": "2026-07-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Retiring group chats in ChatGPT",
+  "titleZh": "ChatGPT 将停用群聊功能",
+  "details": {
+    "overview": "OpenAI宣布自7月9日起，网页、iOS和Android用户将无法新建群聊、把现有对话转为群聊或通过邀请链接加入群聊。现有群聊暂时仍可使用；当某个群聊变为只读后，用户仍可访问其中已分享的消息、文件和图片。个人ChatGPT对话不受影响。原文未说明停用原因及后续替代方案。",
+    "keyPoints": [
+      "7月9日起网页、iOS和Android停止新建和加入群聊",
+      "现有群聊暂时保留，转为只读后仍可访问历史内容",
+      "个人ChatGPT对话不受此次调整影响"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

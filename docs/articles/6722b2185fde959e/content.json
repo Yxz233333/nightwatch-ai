@@ -1,0 +1,24 @@
+{
+  "id": "6722b2185fde959e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
+  "summary": "原文仅提供标题“Introducing Waypoint-1: Real-time interactive video diffusion from Overworld”，未包含摘要或正文内容，无法确认模型的具体能力、技术细节或发布范围。",
+  "url": "https://huggingface.co/blog/waypoint-1",
+  "date": "2026-01-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-01-20T00:00:00+00:00",
+  "titleEn": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
+  "titleZh": "Overworld 推出 Waypoint-1：实时交互式视频扩散模型",
+  "details": {
+    "overview": "原文仅提供标题“Introducing Waypoint-1: Real-time interactive video diffusion from Overworld”，未包含摘要或正文内容，无法确认模型的具体能力、技术细节或发布范围。材料不足，建议以官方发布原文为准。",
+    "keyPoints": [
+      "原文仅含标题，无摘要或正文。",
+      "无法提炼具体功能或发布信息。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

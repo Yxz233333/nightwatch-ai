@@ -1,0 +1,25 @@
+{
+  "id": "6998988e2bfc17f8",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.139.0 发布",
+  "summary": "Codex CLI 发布 0.139.0 版本更新。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.139.0",
+  "date": "2026-06-10",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-06-09T20:13:29+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.139.0 发布",
+  "titleZh": "Codex CLI 0.139.0 发布",
+  "details": {
+    "overview": "Codex CLI 发布 0.139.0 版本更新。代码模式现可直接调用独立网页搜索，包括在嵌套 JavaScript 工具调用中获取纯文本搜索结果；工具与连接器输入模式保留 oneOf 和 allOf，大型模式压缩时保留更多浅层结构，以提升对复杂 MCP 工具的兼容性。codex doctor 报告新增编辑器与分页器环境信息，JSON 输出中对原始值做脱敏。插件市场自动化更完善，列表 JSON 包含市场来源并可先用缓存目录。此外修复了 resume/fork 参数误判、子代理 MCP 启动告警串线、图片编辑路径、波浪号 URL 链接化等问题。",
+    "keyPoints": [
+      "代码模式可直接调用独立网页搜索，并接收纯文本搜索结果",
+      "工具输入模式保留 oneOf/allOf，提升复杂 MCP 工具兼容性",
+      "修复 resume/fork 尾随参数被误读为会话 ID 的问题"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

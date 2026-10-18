@@ -1,0 +1,25 @@
+{
+  "id": "ed4a7a1e382e3f5f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "TRUSTBANK uses AI agents to personalize Furusato Nozei gifts",
+  "summary": "TRUSTBANK 与 Recursive 合作，基于 OpenAI 模型构建 Choice AI，用于简化日本故乡税（Furusato Nozei）礼品发现流程。",
+  "url": "https://openai.com/index/trustbank",
+  "date": "2026-01-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-27T00:00:00+00:00",
+  "titleEn": "TRUSTBANK uses AI agents to personalize Furusato Nozei gifts",
+  "titleZh": "TRUSTBANK 用 AI 智能体个性化故乡税礼品推荐",
+  "details": {
+    "overview": "TRUSTBANK 与 Recursive 合作，基于 OpenAI 模型构建 Choice AI，用于简化日本故乡税（Furusato Nozei）礼品发现流程。该工具提供个性化对话式推荐。原文摘要未披露具体模型、上线范围或效果数据，因此无法评估推荐质量与实际收益。",
+    "keyPoints": [
+      "TRUSTBANK 与 Recursive 合作构建 Choice AI。",
+      "该工具基于 OpenAI 模型实现对话式个性化推荐。",
+      "目标是简化故乡税礼品的发现与选择。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

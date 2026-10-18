@@ -1,0 +1,24 @@
+{
+  "id": "1ad3b09a2bb77362",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "ChatGPT for research",
+  "summary": "该官方指南介绍如何将 ChatGPT 用于研究，包括收集来源、分析信息，并形成有结构、带引用的见解。",
+  "url": "https://openai.com/academy/research",
+  "date": "2026-04-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-10T00:00:00+00:00",
+  "titleEn": "ChatGPT for research",
+  "titleZh": "用 ChatGPT 做研究",
+  "details": {
+    "overview": "该官方指南介绍如何将 ChatGPT 用于研究，包括收集来源、分析信息，并形成有结构、带引用的见解。原文仅为概述性说明，未涉及具体研究流程细节或结果验证。",
+    "keyPoints": [
+      "介绍 ChatGPT 在研究中的用法",
+      "涵盖来源收集、信息分析与带引用的结构化输出"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

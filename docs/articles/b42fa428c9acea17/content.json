@@ -1,0 +1,23 @@
+{
+  "id": "b42fa428c9acea17",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT in Apple CarPlay",
+  "summary": "OpenAI 正在将 ChatGPT 引入 Apple CarPlay，提供免提语音体验。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-in-apple-carplay",
+  "date": "2026-04-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "ChatGPT in Apple CarPlay",
+  "titleZh": "ChatGPT 登陆 Apple CarPlay",
+  "details": {
+    "overview": "OpenAI 正在将 ChatGPT 引入 Apple CarPlay，提供免提语音体验。用户需使用 iOS 26.4 或更新版本并连接支持的车辆，即可直接从 CarPlay 界面发起新的语音对话，或继续之前在 ChatGPT 移动应用语音模式中的对话。具体推出范围和限制以官方原文为准。",
+    "keyPoints": [
+      "ChatGPT 在 CarPlay 中支持免提语音对话。",
+      "需 iOS 26.4 或更新版本并连接支持的车辆。",
+      "可发起新对话或恢复移动应用中的语音对话。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

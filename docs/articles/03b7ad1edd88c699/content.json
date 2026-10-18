@@ -1,0 +1,25 @@
+{
+  "id": "03b7ad1edd88c699",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Improving support with every interaction at OpenAI",
+  "summary": "该官方发布介绍 OpenAI 如何用 AI 改进客户支持，缩短响应时间、提升质量，并在业务高速增长时扩展支持能力。",
+  "url": "https://openai.com/index/openai-support-model",
+  "date": "2025-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-29T13:30:00+00:00",
+  "titleEn": "Improving support with every interaction at OpenAI",
+  "titleZh": "OpenAI 通过每次交互改进支持服务",
+  "details": {
+    "overview": "该官方发布介绍 OpenAI 如何用 AI 改进客户支持，缩短响应时间、提升质量，并在业务高速增长时扩展支持能力。当前收录材料仅给出这一概括性描述，未披露所用模型、具体指标或实施细节，相关数据与范围需以原始发布为准。",
+    "keyPoints": [
+      "用 AI 改进客户支持流程",
+      "目标是缩短响应时间并提升质量",
+      "强调在高速增长下扩展支持能力"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

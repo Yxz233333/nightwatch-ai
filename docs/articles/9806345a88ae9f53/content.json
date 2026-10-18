@@ -1,0 +1,25 @@
+{
+  "id": "9806345a88ae9f53",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "New ways to learn math and science in ChatGPT",
+  "summary": "ChatGPT 推出面向数学与科学的交互式可视化讲解，帮助学生在实时操作中探索公式、变量与概念。",
+  "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+  "date": "2026-03-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-10T10:00:00+00:00",
+  "titleEn": "New ways to learn math and science in ChatGPT",
+  "titleZh": "ChatGPT 中学习数学与科学的新方式",
+  "details": {
+    "overview": "ChatGPT 推出面向数学与科学的交互式可视化讲解，帮助学生在实时操作中探索公式、变量与概念。当前收录材料仅给出这一概括性描述，未说明具体主题数量、交互形式细节或推出范围，相关限制需以官方原文为准。",
+    "keyPoints": [
+      "ChatGPT 推出数学与科学的交互式可视化讲解",
+      "学生可实时探索公式、变量与概念",
+      "具体主题范围与推出细节原文未展开"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

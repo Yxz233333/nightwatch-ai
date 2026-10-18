@@ -1,0 +1,23 @@
+{
+  "id": "19206e23bc97df8e",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "GPT-5.4 Thinking in ChatGPT",
+  "summary": "该条目为ChatGPT功能更新，称GPT-5.4将推理、编码与智能体工作流进展整合为单一前沿模型，并吸收GPT-5.3-Codex的编码能力，改进跨工具、软件环境及表格、演示文稿、文档等专业任务的表现。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-54-thinking-in-chatgpt",
+  "date": "2026-03-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "GPT-5.4 Thinking in ChatGPT",
+  "titleZh": "ChatGPT中的GPT-5.4 Thinking",
+  "details": {
+    "overview": "该条目为ChatGPT功能更新，称GPT-5.4将推理、编码与智能体工作流进展整合为单一前沿模型，并吸收GPT-5.3-Codex的编码能力，改进跨工具、软件环境及表格、演示文稿、文档等专业任务的表现。在ChatGPT中，GPT-5.4 Thinking可先给出思考计划，允许用户在生成过程中调整方向，并改进深度网络研究与上下文窗口管理。",
+    "keyPoints": [
+      "GPT-5.4 Thinking整合推理、编码与智能体能力。",
+      "可先展示思考计划，支持用户在响应中调整方向。",
+      "改进深度网络研究与上下文窗口管理。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

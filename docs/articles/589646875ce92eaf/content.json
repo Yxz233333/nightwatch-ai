@@ -1,0 +1,24 @@
+{
+  "id": "589646875ce92eaf",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Strengthening our safeguards through collaboration with US CAISI and UK AISI",
+  "summary": "Anthropic 表示，过去一年与美国 CAISI 和英国 AISI 合作，向政府红队提供模型开发各阶段的系统访问权限，重点测试用于识别和阻止越狱的 Constitutional Classifiers。",
+  "url": "https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi",
+  "date": "2025-09-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-09-12T18:37:00+00:00",
+  "titleEn": "Strengthening our safeguards through collaboration with US CAISI and UK AISI",
+  "titleZh": "通过与美英 AI 安全机构合作强化防护措施",
+  "details": {
+    "overview": "Anthropic 表示，过去一年与美国 CAISI 和英国 AISI 合作，向政府红队提供模型开发各阶段的系统访问权限，重点测试用于识别和阻止越狱的 Constitutional Classifiers。政府红队在 Claude Opus 4 和 4.1 部署前后发现多种漏洞，技术团队据此加强防护。原文还总结：更全面的模型访问有助于红队发现漏洞，持续迭代测试能挖掘复杂问题，政府评估与漏洞赏金等外部途径形成互补。",
+    "keyPoints": [
+      "向美英政府红队开放模型开发各阶段系统访问",
+      "红队测试 Constitutional Classifiers 并发现部署前后漏洞",
+      "反馈用于加强防护，并强调持续迭代与多途径评估互补"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

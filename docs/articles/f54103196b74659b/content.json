@@ -1,0 +1,24 @@
+{
+  "id": "f54103196b74659b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
+  "summary": "该文讨论加速计算基础设施的供电问题。",
+  "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
+  "date": "2026-08-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-08-11T15:00:06+00:00",
+  "titleEn": "Why Scaling AI Compute Performance Requires a New Power Architecture",
+  "titleZh": "为何扩展AI算力性能需要新的供电架构",
+  "details": {
+    "overview": "该文讨论加速计算基础设施的供电问题。原文指出，每一代加速计算都对底层基础设施提出更高要求，包括更强算力、更高机架密度以及更高效可扩展的配电。作者强调瓶颈不只是瓦数，而是电力从电网到GPU的传输方式；传统供电以交流电从电网输送。发布内容在此截断，未给出具体新架构方案或数据。其意义在于把供电路径视为AI算力扩展的关键环节。",
+    "keyPoints": [
+      "每代加速计算都要求更高机架密度与更高效配电",
+      "作者认为瓶颈在于电力从电网到GPU的传输方式",
+      "原文提到传统供电以交流电输送，但内容截断"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

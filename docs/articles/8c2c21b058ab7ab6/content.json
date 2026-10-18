@@ -1,0 +1,24 @@
+{
+  "id": "8c2c21b058ab7ab6",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Preparing for AI’s economic impact: exploring policy responses",
+  "summary": "Anthropic表示，强大AI将如何改变经济结构仍不确定，但随模型能力提升和大规模采用，政策制定者需要更多可用的应对工具。",
+  "url": "https://www.anthropic.com/research/economic-policy-responses",
+  "date": "2025-10-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-10-14T08:00:00+00:00",
+  "titleEn": "Preparing for AI’s economic impact: exploring policy responses",
+  "titleZh": "为AI的经济影响做准备：探讨政策应对",
+  "details": {
+    "overview": "Anthropic表示，强大AI将如何改变经济结构仍不确定，但随模型能力提升和大规模采用，政策制定者需要更多可用的应对工具。文章提到其经济指数显示用户越来越倾向把完整任务交给Claude，而非协作完成，并预计这一趋势会加速。公司据此与全球经济学家和政策专家讨论，按影响程度整理出三类政策思路：几乎适用于所有情景的技能培训与许可改革；中度加速情景下对失业者的财政支持及可能的自动化税；快速变化情景下的主权财富基金和新增政府收入方式。文中强调这些提案不代表Anthropic自身政策立场。",
+    "keyPoints": [
+      "经济指数显示用户更倾向把完整任务交给Claude而非协作。",
+      "政策思路按影响程度分为普遍适用、中度加速和快速变化三类。",
+      "提案包括技能培训、许可改革、自动化税与主权财富基金等。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

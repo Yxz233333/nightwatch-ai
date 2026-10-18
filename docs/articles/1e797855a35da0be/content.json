@@ -1,0 +1,24 @@
+{
+  "id": "1e797855a35da0be",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Strengthening our Frontier Safety Framework",
+  "summary": "现有材料仅显示官方发布 Frontier Safety Framework（FSF）第三版，称其为识别与缓解先进 AI 模型严重风险的最全面方法，但摘要被截断，正文缺失。",
+  "url": "https://deepmind.google/blog/strengthening-our-frontier-safety-framework/",
+  "date": "2025-09-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2025-09-22T00:00:00+00:00",
+  "titleEn": "Strengthening our Frontier Safety Framework",
+  "titleZh": "强化我们的前沿安全框架",
+  "details": {
+    "overview": "现有材料仅显示官方发布 Frontier Safety Framework（FSF）第三版，称其为识别与缓解先进 AI 模型严重风险的最全面方法，但摘要被截断，正文缺失。因此无法确认该版本新增的具体风险类别、评估流程或缓解措施，相关细节应以官方原文为准。",
+    "keyPoints": [
+      "发布前沿安全框架 FSF 的第三版",
+      "官方称其为识别与缓解先进 AI 严重风险的最全面方法",
+      "摘要被截断，具体更新内容材料不足"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

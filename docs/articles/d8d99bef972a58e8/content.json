@@ -1,0 +1,25 @@
+{
+  "id": "d8d99bef972a58e8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "AI progress and recommendations",
+  "summary": "该文以简短表述指出 AI 正在快速发展，并认为人们有机会塑造其进展方向，使其朝向发现、安全以及惠及所有人的更好未来。",
+  "url": "https://openai.com/index/ai-progress-and-recommendations",
+  "date": "2025-11-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-06T00:00:00+00:00",
+  "titleEn": "AI progress and recommendations",
+  "titleZh": "AI 进展与建议",
+  "details": {
+    "overview": "该文以简短表述指出 AI 正在快速发展，并认为人们有机会塑造其进展方向，使其朝向发现、安全以及惠及所有人的更好未来。原文当前收录摘要未给出具体建议内容、政策主张或技术细节，因此无法进一步展开。",
+    "keyPoints": [
+      "文章主题为 AI 快速发展及其方向塑造",
+      "提出朝向发现、安全与更好未来的目标",
+      "原文未展开具体建议或措施"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "b319112aa0d8636e",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
+  "summary": "该发布介绍 Transformers v5 在分词（Tokenization）方面的改进方向，标题强调更简单、更清晰、更模块化。",
+  "url": "https://huggingface.co/blog/tokenizers",
+  "date": "2025-12-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-12-18T00:00:00+00:00",
+  "titleEn": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
+  "titleZh": "Transformers v5 中的分词：更简单、更清晰、更模块化",
+  "details": {
+    "overview": "该发布介绍 Transformers v5 在分词（Tokenization）方面的改进方向，标题强调更简单、更清晰、更模块化。原始发布内容未提供具体技术细节、改动范围或兼容性说明，因此无法确认具体实现方式与影响。",
+    "keyPoints": [
+      "主题为 Transformers v5 的分词模块调整",
+      "官方表述强调简单、清晰与模块化",
+      "原文未给出具体改动细节与适用范围"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

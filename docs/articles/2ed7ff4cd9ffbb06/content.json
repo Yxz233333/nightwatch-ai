@@ -1,0 +1,24 @@
+{
+  "id": "2ed7ff4cd9ffbb06",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Disrupting malicious uses of AI: October 2025",
+  "summary": "该内容为 OpenAI 2025年10月报告，介绍其如何检测和打击 AI 的恶意使用，包括如何应对滥用、执行政策并保护用户免受现实世界伤害。",
+  "url": "https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-october-2025",
+  "date": "2025-10-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-07T03:00:00+00:00",
+  "titleEn": "Disrupting malicious uses of AI: October 2025",
+  "titleZh": "打击 AI 恶意使用：2025年10月",
+  "details": {
+    "overview": "该内容为 OpenAI 2025年10月报告，介绍其如何检测和打击 AI 的恶意使用，包括如何应对滥用、执行政策并保护用户免受现实世界伤害。由于原始发布内容仅有摘要，未提供具体案例、数据或措施细节，因此无法进一步说明报告的具体发现和行动。",
+    "keyPoints": [
+      "报告主题为检测和打击 AI 恶意使用",
+      "涉及应对滥用、执行政策和保护用户"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

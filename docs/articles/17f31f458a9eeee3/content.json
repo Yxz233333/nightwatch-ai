@@ -1,0 +1,23 @@
+{
+  "id": "17f31f458a9eeee3",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Find live jobs and format your resume in ChatGPT",
+  "summary": "ChatGPT 新增求职辅助功能，可帮助用户搜索实时职位并定制简历。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#find-live-jobs-and-format-your-resume-in-chatgpt",
+  "date": "2026-06-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Find live jobs and format your resume in ChatGPT",
+  "titleZh": "在 ChatGPT 中查找实时职位并格式化简历",
+  "details": {
+    "overview": "ChatGPT 新增求职辅助功能，可帮助用户搜索实时职位并定制简历。职位搜索功能会从 Indeed、Upwork、Appcast 及网络来源聚合实时列表和自由职业机会，并根据用户经验、技能和目标进行个性化推荐，用户可通过链接直接申请。用户还可上传或创建简历，针对特定职位进行定制，并下载专业格式的版本。该功能在美国面向 Free、Go、Plus 和 Pro 用户开放；简历格式化功能在全球网页版所有计划中提供英文支持。",
+    "keyPoints": [
+      "ChatGPT 可聚合 Indeed、Upwork 等来源的实时职位和自由职业机会。",
+      "搜索结果基于用户经验、技能和目标个性化推荐，支持链接直接申请。",
+      "用户可上传或创建简历，针对特定职位定制并下载专业格式。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "7ff522fcb8ff0d32",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing OpenAI Frontier",
+  "summary": "OpenAI 发布企业平台 OpenAI Frontier，用于构建、部署和管理 AI 智能体，并提供共享上下文、入职引导、权限与治理能力。",
+  "url": "https://openai.com/index/introducing-openai-frontier",
+  "date": "2026-02-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-05T06:00:00+00:00",
+  "titleEn": "Introducing OpenAI Frontier",
+  "titleZh": "推出 OpenAI Frontier",
+  "details": {
+    "overview": "OpenAI 发布企业平台 OpenAI Frontier，用于构建、部署和管理 AI 智能体，并提供共享上下文、入职引导、权限与治理能力。原始发布内容仅有一句概述，未披露定价、可用地区、支持的模型或具体治理机制，相关范围与限制需以原文为准。",
+    "keyPoints": [
+      "定位为企业级 AI 智能体构建、部署与管理平台",
+      "提供共享上下文、入职引导、权限和治理能力",
+      "当前收录材料未提供定价、可用地区与支持模型"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

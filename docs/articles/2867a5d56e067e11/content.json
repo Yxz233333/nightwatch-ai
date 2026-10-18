@@ -1,0 +1,25 @@
+{
+  "id": "2867a5d56e067e11",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.152.1 发布",
+  "summary": "这是Codex CLI的0.152.1版本发布说明，属于小型修复版本。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.152.1",
+  "date": "2026-09-02",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-09-01T22:33:02+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.152.1 发布",
+  "titleZh": "Codex CLI 0.152.1 发布",
+  "details": {
+    "overview": "这是Codex CLI的0.152.1版本发布说明，属于小型修复版本。原文仅列出一项缺陷修复：Guardian审批审查现在会遵循通过模型元数据提供的Node REPL策略。除此之外未提及新功能、性能变化或兼容性调整。该版本为CLI稳定版本，桌面端功能以另行公告为准。",
+    "keyPoints": [
+      "Guardian审批审查遵循模型元数据中的Node REPL策略",
+      "本次为缺陷修复版本，未列出新增功能",
+      "CLI稳定版，桌面端功能另见公告"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

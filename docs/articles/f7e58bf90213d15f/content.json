@@ -1,0 +1,25 @@
+{
+  "id": "f7e58bf90213d15f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Why teens deserve access to safe AI",
+  "summary": "据原始发布内容，OpenAI介绍其如何让ChatGPT对青少年更安全，措施包括适龄保护、学习工具、家长控制以及与专家的合作。",
+  "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+  "date": "2026-07-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-16T16:00:00+00:00",
+  "titleEn": "Why teens deserve access to safe AI",
+  "titleZh": "青少年为何应获得安全的AI访问",
+  "details": {
+    "overview": "据原始发布内容，OpenAI介绍其如何让ChatGPT对青少年更安全，措施包括适龄保护、学习工具、家长控制以及与专家的合作。原文仅为一句概述，未说明具体保护机制、家长控制的功能范围、合作专家身份或上线地区与时间，相关推出范围和限制需以原文为准。",
+    "keyPoints": [
+      "OpenAI称正为青少年提供适龄保护与学习工具。",
+      "原文提及家长控制与专家合作两项措施。",
+      "材料未披露具体机制、合作方或上线范围。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

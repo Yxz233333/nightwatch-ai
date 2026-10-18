@@ -1,0 +1,23 @@
+{
+  "id": "1c7d65eabbd0dfd4",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Scan repositories with Codex Security Cloud",
+  "summary": "官方发布记录介绍 Codex Security Cloud，可按需或按计划扫描 GitHub 仓库，持续检查则审阅新提交。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scan-repositories-with-codex-security-cloud",
+  "date": "2026-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Scan repositories with Codex Security Cloud",
+  "titleZh": "用 Codex Security Cloud 扫描代码仓库",
+  "details": {
+    "overview": "官方发布记录介绍 Codex Security Cloud，可按需或按计划扫描 GitHub 仓库，持续检查则审阅新提交。Codex 会调查发现的问题、去除重复项，并准备待审阅的修复建议。扫描在云端运行，关闭笔记本电脑后仍可继续。使用需具备相应工作区权限、仓库设置与计费配置；现有 Codex Security 客户需先选择加入才会产生付费使用。该功能仅在 Codex Security Cloud 内提供对 Daybreak Blue 模型的访问。",
+    "keyPoints": [
+      "支持按需或按计划扫描 GitHub 仓库，并持续检查新提交",
+      "Codex 调查问题、去除重复并准备待审阅的修复建议",
+      "扫描在云端运行，关闭电脑后仍可继续"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

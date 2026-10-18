@@ -1,0 +1,24 @@
+{
+  "id": "e5ede8a01799ce1e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How to Unlock Accelerated AI Storage Performance With RDMA for S3-Compatible Storage",
+  "summary": "该文章讨论AI工作负载对可扩展且经济高效存储的需求，指出到2028年企业每年将产生近400泽字节数据，其中90%为非结构化数据，并提及本地基础设施与云之间的数据可移植性需求。",
+  "url": "https://blogs.nvidia.com/blog/s3-compatible-ai-storage/",
+  "date": "2025-11-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-11-14T16:00:54+00:00",
+  "titleEn": "How to Unlock Accelerated AI Storage Performance With RDMA for S3-Compatible Storage",
+  "titleZh": "如何通过RDMA为兼容S3的存储解锁加速AI存储性能",
+  "details": {
+    "overview": "该文章讨论AI工作负载对可扩展且经济高效存储的需求，指出到2028年企业每年将产生近400泽字节数据，其中90%为非结构化数据，并提及本地基础设施与云之间的数据可移植性需求。文章标题表明将介绍如何利用RDMA提升兼容S3存储的AI存储性能，但摘要内容不完整，未给出具体技术方案或性能数据。",
+    "keyPoints": [
+      "AI工作负载数据密集，需要更可扩展且经济的存储方案。",
+      "预计到2028年企业年数据量近400泽字节，90%为非结构化数据。",
+      "文章关注通过RDMA加速兼容S3存储的性能，但细节未在摘要中展开。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

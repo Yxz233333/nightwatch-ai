@@ -1,0 +1,25 @@
+{
+  "id": "c58ed6d0510716d6",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Advancing science and math with GPT-5.2",
+  "summary": "该消息称，GPT-5.2 是 OpenAI 在数学和科学方面最强的模型，在 GPQA Diamond 和 FrontierMath 等基准上取得新的最优结果。",
+  "url": "https://openai.com/index/gpt-5-2-for-science-and-math",
+  "date": "2025-12-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-11T10:00:00+00:00",
+  "titleEn": "Advancing science and math with GPT-5.2",
+  "titleZh": "用 GPT-5.2 推进科学与数学研究",
+  "details": {
+    "overview": "该消息称，GPT-5.2 是 OpenAI 在数学和科学方面最强的模型，在 GPQA Diamond 和 FrontierMath 等基准上取得新的最优结果。文章表示这些提升已转化为实际研究进展，包括解决一个开放理论问题并生成可靠的数学证明。上述基准成绩与研究案例均为发布方陈述，当前收录材料未提供独立复现或同行评审信息。",
+    "keyPoints": [
+      "GPT-5.2 在 GPQA Diamond 和 FrontierMath 上被称取得新最优结果。",
+      "发布方称模型解决了一个开放理论问题。",
+      "发布方称模型能生成可靠的数学证明，但未附独立验证。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

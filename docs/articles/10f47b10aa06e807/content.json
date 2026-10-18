@@ -1,0 +1,24 @@
+{
+  "id": "10f47b10aa06e807",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How workers are unlocking new ways of working",
+  "summary": "该官方发布提到OpenAI经济研究的新内容，展示员工如何在传统角色之外使用AI，以及哪些新活动成为其工作中反复出现的部分。",
+  "url": "https://openai.com/index/unlocking-new-ways-of-working",
+  "date": "2026-09-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-16T09:00:00+00:00",
+  "titleEn": "How workers are unlocking new ways of working",
+  "titleZh": "员工如何解锁新的工作方式",
+  "details": {
+    "overview": "该官方发布提到OpenAI经济研究的新内容，展示员工如何在传统角色之外使用AI，以及哪些新活动成为其工作中反复出现的部分。原文仅有一句概述，未给出研究方法、样本规模或具体发现，因此无法判断结论的适用范围与验证情况。",
+    "keyPoints": [
+      "OpenAI经济研究关注员工在传统角色之外使用AI的方式",
+      "研究识别哪些新活动成为工作中反复出现的部分"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

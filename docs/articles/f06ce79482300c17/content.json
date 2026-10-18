@@ -1,0 +1,24 @@
+{
+  "id": "f06ce79482300c17",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Microsoft, NVIDIA, and Anthropic announce strategic partnerships",
+  "summary": "微软、英伟达和 Anthropic 宣布新战略合作。",
+  "url": "https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships",
+  "date": "2025-11-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-11-18T15:00:24.254000+00:00",
+  "titleEn": "Microsoft, NVIDIA, and Anthropic announce strategic partnerships",
+  "titleZh": "微软、英伟达与 Anthropic 宣布战略合作",
+  "details": {
+    "overview": "微软、英伟达和 Anthropic 宣布新战略合作。Anthropic 承诺购买 300 亿美元 Azure 计算容量，并额外签约最高 1 吉瓦算力，初期采用英伟达 Grace Blackwell 和 Vera Rubin 系统。英伟达与微软分别承诺向 Anthropic 投资最高 100 亿和 50 亿美元。微软 Foundry 客户将可访问 Claude 前沿模型，使 Claude 成为唯一在三大云服务上可用的前沿模型。亚马逊仍是 Anthropic 主要云提供商和训练伙伴。",
+    "keyPoints": [
+      "Anthropic 承诺购买 300 亿美元 Azure 算力，并额外签约最高 1 吉瓦容量。",
+      "英伟达和微软分别向 Anthropic 投资最高 100 亿和 50 亿美元。",
+      "Claude 将通过微软 Foundry 提供，成为唯一登陆三大云的前沿模型。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

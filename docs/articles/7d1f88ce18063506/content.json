@@ -1,0 +1,25 @@
+{
+  "id": "7d1f88ce18063506",
+  "section": "news",
+  "category": "模型动态",
+  "title": "GPT-5.1: A smarter, more conversational ChatGPT",
+  "summary": "OpenAI宣布升级GPT-5系列，推出更温暖、能力更强的模型，并新增自定义ChatGPT语气和风格的方式。",
+  "url": "https://openai.com/index/gpt-5-1",
+  "date": "2025-11-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-12T00:00:00+00:00",
+  "titleEn": "GPT-5.1: A smarter, more conversational ChatGPT",
+  "titleZh": "GPT-5.1：更智能、更对话式的ChatGPT",
+  "details": {
+    "overview": "OpenAI宣布升级GPT-5系列，推出更温暖、能力更强的模型，并新增自定义ChatGPT语气和风格的方式。GPT-5.1从发布当天起向付费用户逐步推出。官方未在摘要中说明具体能力提升幅度或技术细节。",
+    "keyPoints": [
+      "GPT-5系列升级为更温暖、能力更强的模型",
+      "新增自定义ChatGPT语气和风格的方式",
+      "GPT-5.1从发布当天起向付费用户逐步推出"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

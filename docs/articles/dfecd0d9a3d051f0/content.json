@@ -1,0 +1,24 @@
+{
+  "id": "dfecd0d9a3d051f0",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Korea Joins AI Industrial Revolution: NVIDIA CEO Jensen Huang Unveils Historic Partnership at APEC Summit",
+  "summary": "据官方原始发布记录，在韩国庆州举行的 APEC 峰会上，NVIDIA CEO 黄仁勋宣布韩国将以主权 AI 方式推进发展，并获得超过 25 万块 NVIDIA GPU 支持。",
+  "url": "https://blogs.nvidia.com/blog/korea-ai-apec-ceo-summit/",
+  "date": "2025-10-31",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-10-31T14:00:36+00:00",
+  "titleEn": "Korea Joins AI Industrial Revolution: NVIDIA CEO Jensen Huang Unveils Historic Partnership at APEC Summit",
+  "titleZh": "韩国加入 AI 工业革命：NVIDIA CEO 黄仁勋在 APEC 峰会揭晓历史性合作",
+  "details": {
+    "overview": "据官方原始发布记录，在韩国庆州举行的 APEC 峰会上，NVIDIA CEO 黄仁勋宣布韩国将以主权 AI 方式推进发展，并获得超过 25 万块 NVIDIA GPU 支持。黄仁勋表示，韩国不仅要建设 AI 基础设施，更要构建生态体系。当前收录材料未提供合作方名单、GPU 型号、部署时间表与投资金额等细节，相关范围与限制需以官方原文为准。",
+    "keyPoints": [
+      "黄仁勋在 APEC 峰会宣布韩国主权 AI 合作",
+      "合作涉及超过 25 万块 NVIDIA GPU 支持",
+      "黄仁勋强调应构建生态体系而非仅建基础设施"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

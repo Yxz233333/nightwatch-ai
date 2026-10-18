@@ -1,0 +1,24 @@
+{
+  "id": "7a5c6891d8b9aa04",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Statement from Dario Amodei on our discussions with the Department of War",
+  "summary": "Anthropic CEO Dario Amodei 就与战争部的磋商及 AI 国家安全用途发表声明。",
+  "url": "https://www.anthropic.com/news/statement-department-of-war",
+  "date": "2026-02-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-02-26T21:55:36.531000+00:00",
+  "titleEn": "Statement from Dario Amodei on our discussions with the Department of War",
+  "titleZh": "Dario Amodei 关于与战争部磋商的声明",
+  "details": {
+    "overview": "Anthropic CEO Dario Amodei 就与战争部的磋商及 AI 国家安全用途发表声明。他称公司率先在前沿 AI 企业中于美国政府涉密网络、国家实验室部署模型，并为国家安全客户提供定制模型；但坚持两项例外不应写入合同。声明称战争部威胁将公司移出系统、列为供应链风险并援引《国防生产法》，公司表示不会因此改变立场，若被移出将配合平稳过渡。",
+    "keyPoints": [
+      "Amodei 称 Anthropic 率先在美政府涉密网络部署前沿模型",
+      "公司坚持两项例外不纳入战争部合同",
+      "声明称面临供应链风险认定与《国防生产法》威胁"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

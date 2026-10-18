@@ -1,0 +1,24 @@
+{
+  "id": "9ba8984676109c14",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Building more helpful ChatGPT experiences for everyone",
+  "summary": "OpenAI 表示正与专家合作，通过家长控制加强对青少年的保护，并在 ChatGPT 中将敏感对话路由至推理模型。",
+  "url": "https://openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone",
+  "date": "2025-09-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-02T04:00:00+00:00",
+  "titleEn": "Building more helpful ChatGPT experiences for everyone",
+  "titleZh": "为所有人打造更有帮助的 ChatGPT 体验",
+  "details": {
+    "overview": "OpenAI 表示正与专家合作，通过家长控制加强对青少年的保护，并在 ChatGPT 中将敏感对话路由至推理模型。原文仅有这一句概述，未说明合作专家、家长控制的具体功能、敏感对话的判定方式与上线时间，相关细节材料不足。",
+    "keyPoints": [
+      "与专家合作，并通过家长控制加强对青少年的保护。",
+      "将敏感对话路由至推理模型处理，具体判定与范围未披露。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

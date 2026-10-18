@@ -1,0 +1,23 @@
+{
+  "id": "959f389bc93f5299",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Scheduled tasks in ChatGPT",
+  "summary": "OpenAI 更新 ChatGPT 的定时任务功能：侧边栏新增“Scheduled”页面，用户可集中查看活动任务、下次运行时间，并进行暂停、恢复、编辑或删除。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-in-chatgpt",
+  "date": "2026-06-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Scheduled tasks in ChatGPT",
+  "titleZh": "ChatGPT 中的定时任务",
+  "details": {
+    "overview": "OpenAI 更新 ChatGPT 的定时任务功能：侧边栏新增“Scheduled”页面，用户可集中查看活动任务、下次运行时间，并进行暂停、恢复、编辑或删除。任务整体更快更可靠，可按具体时间或上午、下午、晚上等时间窗口安排；监控类任务可搜索网页并检查已连接应用的变化，仅在值得报告时通知。该功能向 Plus、Pro、Business 和 Enterprise 用户推出，活动任务上限因套餐而异，任务每小时最多运行一次，无人值守任务可能在一段时间无活动后自动暂停。Pulse 将停用，Pro 用户自发布日起仍可访问 14 天。",
+    "keyPoints": [
+      "新增 Scheduled 页面，可集中查看、暂停、编辑或删除任务。",
+      "支持按具体时间或上午、下午、晚上等窗口安排任务。",
+      "向 Plus、Pro、Business、Enterprise 推出，任务每小时最多运行一次。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

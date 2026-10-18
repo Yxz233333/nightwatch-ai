@@ -1,0 +1,25 @@
+{
+  "id": "01b4fc5aac3cecff",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How ChatGPT adoption has expanded",
+  "summary": "OpenAI 依据 Signals 数据说明 ChatGPT 的全球采用情况：用户使用频率上升，探索更多能力，并在不同地区和语言上带动增长。",
+  "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+  "date": "2026-06-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-30T09:00:00+00:00",
+  "titleEn": "How ChatGPT adoption has expanded",
+  "titleZh": "ChatGPT 采用范围如何扩大",
+  "details": {
+    "overview": "OpenAI 依据 Signals 数据说明 ChatGPT 的全球采用情况：用户使用频率上升，探索更多能力，并在不同地区和语言上带动增长。该材料为官方发布摘要，未给出具体数字或分区域明细，因此只能概括其声称的总体趋势，不能视为独立验证的结论。",
+    "keyPoints": [
+      "OpenAI Signals 数据显示 ChatGPT 全球采用增长",
+      "用户使用量增加并探索更多功能",
+      "增长覆盖不同地区和语言"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "913f3d0bfe2d22c2",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Training Design for Text-to-Image Models: Lessons from Ablations",
+  "summary": "现有材料仅有标题，未提供摘要或正文，无法确认具体研究对象、实验设置与结论。",
+  "url": "https://huggingface.co/blog/Photoroom/prx-part2",
+  "date": "2026-02-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-02-03T11:25:53+00:00",
+  "titleEn": "Training Design for Text-to-Image Models: Lessons from Ablations",
+  "titleZh": "文生图模型的训练设计：来自消融实验的经验",
+  "details": {
+    "overview": "现有材料仅有标题，未提供摘要或正文，无法确认具体研究对象、实验设置与结论。标题表明该稿件围绕文生图模型的训练设计，通过消融实验总结经验。作者身份、数据与结果均不明确，以下要点仅据标题概括，信息不足。",
+    "keyPoints": [
+      "研究对象为文生图模型的训练设计",
+      "方法上依赖消融实验总结经验"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

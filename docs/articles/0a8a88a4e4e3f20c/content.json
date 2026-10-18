@@ -1,0 +1,25 @@
+{
+  "id": "0a8a88a4e4e3f20c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Evaluating AI’s ability to perform scientific research tasks",
+  "summary": "OpenAI 推出 FrontierScience 基准，用于测试 AI 在物理、化学和生物学中的推理能力，以衡量其向真实科学研究推进的进展。",
+  "url": "https://openai.com/index/frontierscience",
+  "date": "2025-12-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-16T09:00:00+00:00",
+  "titleEn": "Evaluating AI’s ability to perform scientific research tasks",
+  "titleZh": "评估 AI 执行科学研究任务的能力",
+  "details": {
+    "overview": "OpenAI 推出 FrontierScience 基准，用于测试 AI 在物理、化学和生物学中的推理能力，以衡量其向真实科学研究推进的进展。摘要未说明题目构成、评分方式或测试结果，因此无法判断模型实际表现；该基准的定位是评估工具，而非证明 AI 已能独立完成科研。",
+    "keyPoints": [
+      "OpenAI 推出 FrontierScience 基准",
+      "覆盖物理、化学、生物学推理测试",
+      "用于衡量 AI 向真实科研的进展"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

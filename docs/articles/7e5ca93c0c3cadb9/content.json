@@ -1,0 +1,24 @@
+{
+  "id": "7e5ca93c0c3cadb9",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
+  "summary": "现有材料仅有标题，未提供正文内容，无法确认其具体研究对象、方法或结论。",
+  "url": "https://huggingface.co/blog/community-evals",
+  "date": "2026-02-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-02-04T00:00:00+00:00",
+  "titleEn": "Community Evals: Because we're done trusting black-box leaderboards over the community",
+  "titleZh": "社区评测：不再只信任黑箱排行榜",
+  "details": {
+    "overview": "现有材料仅有标题，未提供正文内容，无法确认其具体研究对象、方法或结论。标题表达了对黑箱式排行榜的不信任，并指向社区评测这一方向，但作者身份、发布平台与具体主张均不明确。以下要点仅据标题概括，信息不足。",
+    "keyPoints": [
+      "标题主张不再单纯信任黑箱排行榜",
+      "提出以社区评测作为替代方向"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

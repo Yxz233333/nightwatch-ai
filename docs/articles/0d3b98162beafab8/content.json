@@ -1,0 +1,27 @@
+{
+  "id": "0d3b98162beafab8",
+  "section": "news",
+  "category": "模型动态",
+  "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+  "summary": "据原始发布记录，OpenAI的一个模型解决了有80年历史的单位距离问题，并推翻了离散几何中的一项重要猜想。",
+  "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+  "date": "2026-05-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-20T00:00:00+00:00",
+  "breakthrough": true,
+  "breakthroughField": "AI 数学研究",
+  "titleEn": "An OpenAI model has disproved a central conjecture in discrete geometry",
+  "titleZh": "OpenAI模型推翻离散几何核心猜想",
+  "details": {
+    "overview": "据原始发布记录，OpenAI的一个模型解决了有80年历史的单位距离问题，并推翻了离散几何中的一项重要猜想。该记录将此事称为AI驱动数学的一个里程碑。材料未提供模型名称、证明细节或独立验证信息，因此具体结论仍需以原始论文或后续审查为准。",
+    "keyPoints": [
+      "OpenAI模型解决了80年历史的单位距离问题",
+      "该结果推翻了离散几何中的一项重要猜想",
+      "原始记录称其为AI驱动数学的里程碑"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

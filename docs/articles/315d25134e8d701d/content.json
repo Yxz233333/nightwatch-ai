@@ -1,0 +1,24 @@
+{
+  "id": "315d25134e8d701d",
+  "section": "news",
+  "category": "模型动态",
+  "title": "How scientists are using Claude to accelerate research and discovery",
+  "summary": "该新闻介绍斯坦福和MIT等实验室使用Claude构建科研系统。",
+  "url": "https://www.anthropic.com/news/accelerating-scientific-research",
+  "date": "2026-01-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-01-15T20:46:00+00:00",
+  "titleEn": "How scientists are using Claude to accelerate research and discovery",
+  "titleZh": "科学家如何用Claude加速研究与发现",
+  "details": {
+    "overview": "该新闻介绍斯坦福和MIT等实验室使用Claude构建科研系统。斯坦福的Biomni平台整合数百种工具，用户以自然语言提出请求，系统自动选择资源，可形成假设、设计实验方案并分析超过25个生物学子领域。原文举例称，一项全基因组关联分析在早期试验中从数月缩短至20分钟；Biomni还在盲评中设计的分子克隆方案与有五年以上经验博士后相当。MIT的Cheeseman实验室则用Claude辅助解读CRISPR筛选产生的基因聚类。作者表示这些系统仍不完美，需专家编码方法作为技能来引导。",
+    "keyPoints": [
+      "Biomni整合数百工具，自然语言驱动跨25+子领域分析",
+      "早期试验中GWAS分析从数月缩短至20分钟",
+      "系统仍不完美，需专家编码方法作为技能引导"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

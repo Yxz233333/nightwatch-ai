@@ -1,0 +1,23 @@
+{
+  "id": "79e74228b80ffa90",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "New ways to shop in ChatGPT",
+  "summary": "ChatGPT 在移动端和网页端推出购物相关功能。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-ways-to-shop-in-chatgpt",
+  "date": "2026-10-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "New ways to shop in ChatGPT",
+  "titleZh": "ChatGPT 中的购物新方式",
+  "details": {
+    "overview": "ChatGPT 在移动端和网页端推出购物相关功能。服装和配饰商品列表会出现“试穿”按钮，用户选择后拍摄或上传自拍，即可用 ChatGPT Images 生成虚拟试穿效果；参考照片会被保存以便后续使用，并可在设置的个人化选项中更改或删除。用户还可将商品保存至收藏夹，或在 ChatGPT 资料库中新建文件夹整理。官方未说明该功能的具体覆盖范围与限制。",
+    "keyPoints": [
+      "商品列表提供“试穿”按钮，可上传自拍生成虚拟试穿图",
+      "参考照片保存后可在设置中更改或删除",
+      "商品可保存至收藏夹或资料库文件夹，支持移动端与网页端"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

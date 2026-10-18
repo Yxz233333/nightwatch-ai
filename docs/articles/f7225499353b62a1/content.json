@@ -1,0 +1,24 @@
+{
+  "id": "f7225499353b62a1",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+  "summary": "Anthropic宣布收购Vercept，以加强Claude的计算机使用能力。",
+  "url": "https://www.anthropic.com/news/acquires-vercept",
+  "date": "2026-02-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-02-25T17:00:00+00:00",
+  "titleEn": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+  "titleZh": "Anthropic收购Vercept，推进Claude的计算机使用能力",
+  "details": {
+    "overview": "Anthropic宣布收购Vercept，以加强Claude的计算机使用能力。原文称用户正用Claude处理跨代码库编写运行、多来源研究综合和跨工具团队工作流等复杂任务，计算机使用让Claude能在实时应用中像人操作键盘一样完成多步任务。Vercept专注让AI在人类日常软件中感知与行动，联合创始人包括Kiana Ehsani、Luca Weihs和Ross Girshick；其外部产品将在未来数周内关停。原文还称Claude Sonnet 4.6在OSWorld上的表现从2024年底不足15%提升至72.5%。",
+    "keyPoints": [
+      "Anthropic收购Vercept，强化Claude在实时应用中的计算机使用能力。",
+      "Vercept外部产品将在未来数周内关停，团队加入Anthropic。",
+      "原文称Sonnet模型在OSWorld上从不足15%提升至72.5%。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

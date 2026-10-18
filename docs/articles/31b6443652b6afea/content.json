@@ -1,0 +1,25 @@
+{
+  "id": "31b6443652b6afea",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How to connect AI usage to business value",
+  "summary": "该官方发布介绍ChatGPT Work与Codex的分析功能，帮助团队了解AI使用情况与支出、识别培训需求，并将AI采用情况与业务成果关联。",
+  "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+  "date": "2026-09-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-16T12:00:00+00:00",
+  "titleEn": "How to connect AI usage to business value",
+  "titleZh": "如何将AI使用与业务价值关联起来",
+  "details": {
+    "overview": "该官方发布介绍ChatGPT Work与Codex的分析功能，帮助团队了解AI使用情况与支出、识别培训需求，并将AI采用情况与业务成果关联。原文未展开具体指标、数据口径或适用范围，仅说明分析能力的目标用途。",
+    "keyPoints": [
+      "ChatGPT Work与Codex提供分析功能，用于了解AI使用与支出",
+      "可据此识别团队培训需求",
+      "目标是把AI采用情况与业务成果关联"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

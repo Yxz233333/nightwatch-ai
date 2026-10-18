@@ -1,0 +1,24 @@
+{
+  "id": "1573bd30283f9eb6",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Cognizant will make Claude available to 350,000 employees, accelerating enterprise AI adoption and internal transformation",
+  "summary": "Cognizant宣布将向全球最多35万名员工部署Claude，结合代理工具、自身工程平台和行业蓝图，帮助客户与内部团队从AI试验走向生产成果。",
+  "url": "https://www.anthropic.com/news/cognizant-partnership",
+  "date": "2025-11-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-11-04T13:00:00+00:00",
+  "titleEn": "Cognizant will make Claude available to 350,000 employees, accelerating enterprise AI adoption and internal transformation",
+  "titleZh": "Cognizant将向35万名员工提供Claude，加速企业AI采用与内部转型",
+  "details": {
+    "overview": "Cognizant宣布将向全球最多35万名员工部署Claude，结合代理工具、自身工程平台和行业蓝图，帮助客户与内部团队从AI试验走向生产成果。员工将在关键职能、工程和交付团队使用Claude，并用Claude Code加速编码、测试、文档和DevOps流程。Cognizant还将Claude模型、Claude Code、MCP和Agent SDK与其核心工程平台对接，以便客户将AI与现有数据和应用程序集成，并在人工监督下编排多步骤工作。",
+    "keyPoints": [
+      "Cognizant计划向全球最多35万名员工部署Claude",
+      "使用Claude Code加速编码、测试、文档和DevOps工作流",
+      "将Claude模型、MCP和Agent SDK对接核心工程平台，支持客户集成与多步骤编排"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

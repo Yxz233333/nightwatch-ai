@@ -1,0 +1,23 @@
+{
+  "id": "6cbe2bf46d235191",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex app 26.320",
+  "summary": "Codex 应用 26.320 版本更新说明列出了若干新功能与修复。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2026-03-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "Codex app 26.320",
+  "titleZh": "Codex 应用 26.320",
+  "details": {
+    "overview": "Codex 应用 26.320 版本更新说明列出了若干新功能与修复。新功能包括新增 Floating Composer v2、为终端增加按词和按行跳转的快捷键，以及改进插件发现界面和已保存图片的文件路径渲染。性能与修复方面，解决了子代理轮次条目缺失时侧边栏崩溃的问题，修复弹出线程的路由问题，并保留撰写器中图片附件的本地路径，另有一些性能改进与错误修复。原始材料未说明具体推出范围与限制。",
+    "keyPoints": [
+      "新增 Floating Composer v2 与终端按词、按行跳转快捷键",
+      "改进插件发现界面与已保存图片的文件路径渲染",
+      "修复子代理条目缺失导致的侧边栏崩溃及弹出线程路由问题"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

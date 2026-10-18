@@ -1,0 +1,24 @@
+{
+  "id": "3e0f19692d939e09",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Estimating AI productivity gains from Claude conversations",
+  "summary": "Anthropic经济研究利用隐私保护分析方法，从Claude.ai抽取十万条真实对话，估算任务在有和无AI协助下的完成时间。",
+  "url": "https://www.anthropic.com/research/estimating-productivity-gains",
+  "date": "2025-11-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-11-25T11:05:00+00:00",
+  "titleEn": "Estimating AI productivity gains from Claude conversations",
+  "titleZh": "从Claude对话估算AI生产力增益",
+  "details": {
+    "overview": "Anthropic经济研究利用隐私保护分析方法，从Claude.ai抽取十万条真实对话，估算任务在有和无AI协助下的完成时间。基于Claude的估算，这些任务平均约需90分钟，Claude将单个任务提速约80%。外推后作者提出，当前代AI模型可能使美国劳动生产率年增长提高1.8%，约为近年增速的两倍。作者明确这不是未来预测，未考虑采用率及更强AI的影响，也未计入人工验证时间。",
+    "keyPoints": [
+      "研究基于十万条真实Claude对话，用模型估算任务耗时与提速幅度。",
+      "作者估算任务平均约90分钟，Claude使单个任务提速约80%。",
+      "外推称可能使美国劳动生产率年增长提高1.8%，但明确非未来预测。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

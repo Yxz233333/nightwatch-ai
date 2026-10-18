@@ -1,0 +1,25 @@
+{
+  "id": "018b1fc6f791dfa6",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Strengthening ChatGPT’s responses in sensitive conversations",
+  "summary": "OpenAI 宣布与 170 多位心理健康专家合作，改进 ChatGPT 在敏感对话中的表现。",
+  "url": "https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations",
+  "date": "2025-10-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-27T10:00:00+00:00",
+  "titleEn": "Strengthening ChatGPT’s responses in sensitive conversations",
+  "titleZh": "加强 ChatGPT 在敏感对话中的回应能力",
+  "details": {
+    "overview": "OpenAI 宣布与 170 多位心理健康专家合作，改进 ChatGPT 在敏感对话中的表现。官方摘要称，改进后的模型能更好地识别用户痛苦情绪、以共情方式回应，并引导用户寻求现实世界支持，同时将不安全回应减少了最多 80%。该工作旨在让 ChatGPT 在敏感时刻更安全、更具支持性。具体评估方法和适用范围需以原始发布为准。",
+    "keyPoints": [
+      "OpenAI 与 170 多位心理健康专家合作改进 ChatGPT 敏感对话能力。",
+      "官方称不安全回应最多减少 80%，并增强共情与转介支持。",
+      "改进聚焦识别痛苦情绪并引导用户获取现实帮助。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

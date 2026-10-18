@@ -1,0 +1,24 @@
+{
+  "id": "42e2c635fd8890f4",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "The Ultimate Black Friday Deal Is Here",
+  "summary": "英伟达宣布黑色星期五促销：新GeForce NOW Ultimate会员前三个月享受50%折扣，以半价获得云端GeForce RTX 5080级性能。",
+  "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2025/",
+  "date": "2025-11-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-11-27T14:00:37+00:00",
+  "titleEn": "The Ultimate Black Friday Deal Is Here",
+  "titleZh": "终极黑色星期五优惠来了",
+  "details": {
+    "overview": "英伟达宣布黑色星期五促销：新GeForce NOW Ultimate会员前三个月享受50%折扣，以半价获得云端GeForce RTX 5080级性能。同时，NVIDIA Blackwell RTX升级已在所有服务器全面上线。材料未说明优惠截止日期或适用地区。",
+    "keyPoints": [
+      "新GeForce NOW Ultimate会员前三个月五折。",
+      "云端提供GeForce RTX 5080级性能。",
+      "Blackwell RTX升级已在所有服务器上线。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

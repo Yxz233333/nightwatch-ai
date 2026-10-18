@@ -1,0 +1,25 @@
+{
+  "id": "90c883ecb5d2e5a3",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Announces New Investments in the UK Startup Ecosystem",
+  "summary": "该官方发布称，英国各行业正在使用全栈技术，部署规模快速增长，从转型中的企业到解决难题的初创公司。",
+  "url": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
+  "date": "2026-10-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-10-14T06:04:15+00:00",
+  "titleEn": "NVIDIA Announces New Investments in the UK Startup Ecosystem",
+  "titleZh": "NVIDIA宣布对英国初创企业生态的新投资",
+  "details": {
+    "overview": "该官方发布称，英国各行业正在使用全栈技术，部署规模快速增长，从转型中的企业到解决难题的初创公司。NVIDIA表示正践行这一原则，包括一项为期五年、2.5亿美元的算力承诺，用于加强英国的智能体安全与安保。原文摘要在此处截断，未说明受益对象、算力形式或具体合作安排，因此无法进一步描述投资细节。",
+    "keyPoints": [
+      "NVIDIA宣布面向英国初创企业生态的新投资",
+      "包括五年2.5亿美元算力承诺，用于智能体安全与安保",
+      "原文摘要截断，未披露受益对象与具体安排"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

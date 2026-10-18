@@ -1,0 +1,23 @@
+{
+  "id": "1e58f2a67bdd0a76",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Finances expands to Free and Go users",
+  "summary": "ChatGPT 中的 Finances 功能正在向美国 Free 和 Go 用户推出，覆盖网页、iOS 和 Android。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#finances-expands-to-free-and-go-users",
+  "date": "2026-10-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Finances expands to Free and Go users",
+  "titleZh": "Finances 扩展至 Free 和 Go 用户",
+  "details": {
+    "overview": "ChatGPT 中的 Finances 功能正在向美国 Free 和 Go 用户推出，覆盖网页、iOS 和 Android。用户可安全连接金融账户，以发现省钱方式、理解支出并梳理投资，回答将基于用户的财务信息。原文未说明具体连接机构、数据安全机制或功能限制。",
+    "keyPoints": [
+      "Finances 面向美国 Free 和 Go 用户推出。",
+      "覆盖网页、iOS 和 Android 平台。",
+      "可连接金融账户，获得基于个人财务的回答。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

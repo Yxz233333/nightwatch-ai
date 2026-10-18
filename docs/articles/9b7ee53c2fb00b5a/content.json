@@ -1,0 +1,24 @@
+{
+  "id": "9b7ee53c2fb00b5a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Trustworthy agents in practice",
+  "summary": "Anthropic官方发布文章，介绍AI智能体的工作原理与治理思路。",
+  "url": "https://www.anthropic.com/research/trustworthy-agents",
+  "date": "2026-04-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-04-09T16:34:00+00:00",
+  "titleEn": "Trustworthy agents in practice",
+  "titleZh": "在实践中构建可信的AI智能体",
+  "details": {
+    "overview": "Anthropic官方发布文章，介绍AI智能体的工作原理与治理思路。文章将智能体定义为能自主规划、调用工具并循环执行任务的模型，并以Claude Cowork提交差旅报销为例说明其运行方式。作者提出智能体由模型、运行框架、工具和环境四层构成，每层既是能力来源也是监管节点，并围绕人类控制、价值对齐、安全、透明和隐私五项原则，结合权限配置、Plan Mode等产品决策展开讨论，呼吁行业与政府共建共享基础设施。",
+    "keyPoints": [
+      "智能体在自我导向循环中规划、行动、观察并调整，直至完成任务或请求人工介入。",
+      "模型、运行框架、工具和环境四层共同决定智能体行为，任一层配置不当都可能被利用。",
+      "Plan Mode让用户预先审阅整体计划而非逐步批准，把监督重心从单步转向策略。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

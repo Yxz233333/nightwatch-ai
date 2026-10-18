@@ -1,0 +1,25 @@
+{
+  "id": "aa39d42dce727df8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Cyber Operation: Russian-speaking malware tooling",
+  "summary": "OpenAI封禁了一批可能与俄语犯罪团伙有关的账号。",
+  "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-russian-speaking-malware-tooling",
+  "date": "2025-10-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-01T00:00:00+00:00",
+  "titleEn": "Cyber Operation: Russian-speaking malware tooling",
+  "titleZh": "网络行动：俄语恶意软件工具",
+  "details": {
+    "overview": "OpenAI封禁了一批可能与俄语犯罪团伙有关的账号。据原始发布内容，这些账号利用AI构建恶意软件加载器、规避层、凭据窃取脚本和C2基础设施。材料仅说明封禁与用途，未披露账号数量、工具细节或独立验证情况。",
+    "keyPoints": [
+      "OpenAI封禁可能与俄语犯罪团伙有关的账号",
+      "涉事账号被指用AI构建恶意软件加载器与规避层",
+      "相关用途还包括凭据窃取脚本和C2基础设施"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

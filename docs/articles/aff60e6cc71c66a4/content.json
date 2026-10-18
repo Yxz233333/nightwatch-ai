@@ -1,0 +1,24 @@
+{
+  "id": "aff60e6cc71c66a4",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Paving the way for agents in biology",
+  "summary": "Anthropic Science发布文章，作者Laura Luebbert基于团队研究指出，生物数据基础设施需对AI智能体更友好。",
+  "url": "https://www.anthropic.com/research/agents-in-biology",
+  "date": "2026-06-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-06-08T13:20:00+00:00",
+  "titleEn": "Paving the way for agents in biology",
+  "titleZh": "为生物学智能体铺路",
+  "details": {
+    "overview": "Anthropic Science发布文章，作者Laura Luebbert基于团队研究指出，生物数据基础设施需对AI智能体更友好。团队让Claude、Biomni OSS、Edison Analysis和GPT等科研智能体从NCBI Virus检索序列数据，即使最强模型也无法稳定达到可靠数据集构建所需的准确率；加入确定性检索层gget virus后准确率升至近100%。文章认为确定性检索工具目前对提升智能体工作流可靠性至关重要，生物数据库需面向智能体这一规模化用户设计。",
+    "keyPoints": [
+      "科研智能体从NCBI Virus检索序列数据时，最强模型也无法稳定达到可靠数据集构建的准确率。",
+      "加入确定性检索层gget virus后，检索准确率升至近100%。",
+      "作者认为生物数据库需面向智能体设计，确定性检索工具目前对可靠性至关重要。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "f43ccd5e879ae7ed",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+  "summary": "现有材料仅有标题，未提供摘要或原始发布内容，无法确认具体研究对象、作者声称的结果及其意义。",
+  "url": "https://huggingface.co/blog/waypoint-1-5",
+  "date": "2026-04-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-04-09T00:00:00+00:00",
+  "titleEn": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+  "titleZh": "Waypoint-1.5：面向日常 GPU 的更高保真交互世界",
+  "details": {
+    "overview": "现有材料仅有标题，未提供摘要或原始发布内容，无法确认具体研究对象、作者声称的结果及其意义。标题指向面向日常 GPU 的更高保真交互世界，但相关细节不足，需以原始发布内容为准。",
+    "keyPoints": [
+      "标题指向面向日常 GPU 的交互世界",
+      "材料不足，无法提炼具体结果或意义"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

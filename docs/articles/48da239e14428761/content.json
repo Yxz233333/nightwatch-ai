@@ -1,0 +1,24 @@
+{
+  "id": "48da239e14428761",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "AI fundamentals",
+  "summary": "该官方指南面向初学者介绍人工智能的基本概念，说明 AI 是什么、如何运作，以及 ChatGPT 等工具如何使用大语言模型。",
+  "url": "https://openai.com/academy/what-is-ai",
+  "date": "2026-04-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-10T00:00:00+00:00",
+  "titleEn": "AI fundamentals",
+  "titleZh": "AI 基础",
+  "details": {
+    "overview": "该官方指南面向初学者介绍人工智能的基本概念，说明 AI 是什么、如何运作，以及 ChatGPT 等工具如何使用大语言模型。当前收录材料仅给出这一概述性说明，未涉及具体技术细节、数据或验证结论。",
+    "keyPoints": [
+      "面向初学者解释 AI 是什么及其基本运作方式",
+      "说明 ChatGPT 等工具与大语言模型的关系"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

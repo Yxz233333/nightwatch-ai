@@ -1,0 +1,25 @@
+{
+  "id": "386a0200cccd5398",
+  "section": "news",
+  "category": "工具动态",
+  "title": "From model to agent: Equipping the Responses API with a computer environment",
+  "summary": "OpenAI 官方发布记录介绍了其如何借助 Responses API、shell 工具与托管容器构建智能体运行时，使智能体能够使用文件、工具并保持状态，从而安全、可扩展地运行。",
+  "url": "https://openai.com/index/equip-responses-api-computer-environment",
+  "date": "2026-03-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-11T11:00:00+00:00",
+  "titleEn": "From model to agent: Equipping the Responses API with a computer environment",
+  "titleZh": "从模型到智能体：为 Responses API 配备计算机环境",
+  "details": {
+    "overview": "OpenAI 官方发布记录介绍了其如何借助 Responses API、shell 工具与托管容器构建智能体运行时，使智能体能够使用文件、工具并保持状态，从而安全、可扩展地运行。当前收录材料仅给出这一概括性说明，未披露具体实现细节、性能数据或适用范围，相关限制需以官方原文为准。",
+    "keyPoints": [
+      "基于 Responses API、shell 工具与托管容器构建智能体运行时",
+      "目标是让智能体安全、可扩展地使用文件、工具与状态",
+      "具体实现细节与推出范围原文未展开，需以原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

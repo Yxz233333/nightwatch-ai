@@ -1,0 +1,25 @@
+{
+  "id": "dcb3d7129eabd02d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How ChatGPT learns about the world while protecting privacy",
+  "summary": "该官方发布介绍 ChatGPT 的隐私保护机制：减少训练数据中的个人数据，并让用户自行决定对话是否用于改进 AI 模型。",
+  "url": "https://openai.com/index/how-chatgpt-protects-privacy",
+  "date": "2026-05-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-06T08:00:00+00:00",
+  "titleEn": "How ChatGPT learns about the world while protecting privacy",
+  "titleZh": "ChatGPT 如何在保护隐私的同时了解世界",
+  "details": {
+    "overview": "该官方发布介绍 ChatGPT 的隐私保护机制：减少训练数据中的个人数据，并让用户自行决定对话是否用于改进 AI 模型。当前收录材料仅给出这一概述，未披露具体技术细节、适用范围或验证结果，相关推出范围和限制需以原始发布为准。",
+    "keyPoints": [
+      "官方称 ChatGPT 会减少训练数据中的个人数据",
+      "用户可控制自己的对话是否用于改进 AI 模型",
+      "当前收录材料未提供具体技术实现与适用范围"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

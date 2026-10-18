@@ -1,0 +1,24 @@
+{
+  "id": "816d491a09b98f2d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+  "summary": "现有材料仅有一句标题式摘要，称开源社区正在支持面向智能体强化学习（Agentic RL）的OpenEnv。",
+  "url": "https://huggingface.co/blog/openenv-agentic-rl",
+  "date": "2026-06-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-06-08T00:00:00+00:00",
+  "titleEn": "The Open Source Community is backing OpenEnv for Agentic RL",
+  "titleZh": "开源社区支持面向智能体强化学习的OpenEnv",
+  "details": {
+    "overview": "现有材料仅有一句标题式摘要，称开源社区正在支持面向智能体强化学习（Agentic RL）的OpenEnv。当前收录材料未提供OpenEnv的具体功能、参与方、支持形式或发布时间等信息，无法进一步展开。",
+    "keyPoints": [
+      "开源社区正在支持OpenEnv。",
+      "OpenEnv面向智能体强化学习（Agentic RL）。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

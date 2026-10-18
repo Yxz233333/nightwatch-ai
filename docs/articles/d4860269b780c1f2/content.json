@@ -1,0 +1,25 @@
+{
+  "id": "d4860269b780c1f2",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Nemotron-Personas-India: Synthesized Data for Sovereign AI",
+  "summary": "该发布主题为Nemotron-Personas-India，即面向“主权AI”的合成人物数据。",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-personas-india",
+  "date": "2025-10-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-10-13T23:00:42+00:00",
+  "titleEn": "Nemotron-Personas-India: Synthesized Data for Sovereign AI",
+  "titleZh": "Nemotron-Personas-India：面向主权AI的合成数据",
+  "details": {
+    "overview": "该发布主题为Nemotron-Personas-India，即面向“主权AI”的合成人物数据。材料仅给出标题，未说明数据规模、构建方法、覆盖语言或使用方式，也未提供评测结果。从标题可判断其关注为印度场景构建合成人物数据，以支持本地化、自主可控的AI开发，但具体内容与效果需以原始发布为准。",
+    "keyPoints": [
+      "主题为面向主权AI的印度合成人物数据集。",
+      "材料未披露数据规模、构建方法与评测结果。",
+      "具体内容与限制需以原始发布为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

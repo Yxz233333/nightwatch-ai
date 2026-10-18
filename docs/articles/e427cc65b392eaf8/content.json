@@ -1,0 +1,25 @@
+{
+  "id": "e427cc65b392eaf8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "The state of enterprise AI",
+  "summary": "该条目主题为企业 AI 采用情况，摘要称以数据驱动的方式展示组织如何从试验阶段走向实际生产力提升与新能力。",
+  "url": "https://openai.com/business/guides-and-resources/the-state-of-enterprise-ai-2025-report",
+  "date": "2025-12-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-17T00:00:00+00:00",
+  "titleEn": "The state of enterprise AI",
+  "titleZh": "企业 AI 现状",
+  "details": {
+    "overview": "该条目主题为企业 AI 采用情况，摘要称以数据驱动的方式展示组织如何从试验阶段走向实际生产力提升与新能力。现有材料仅有标题与一句摘要，未提供具体数据、调研方法、样本范围或结论细节，因此无法展开介绍研究对象与作者声称的具体结果。读者应以官方原始发布内容为准。",
+    "keyPoints": [
+      "主题为企业 AI 采用情况",
+      "摘要称关注从试验到生产力提升的路径",
+      "材料未披露具体数据与方法细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

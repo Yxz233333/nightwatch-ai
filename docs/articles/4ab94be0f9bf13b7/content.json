@@ -1,0 +1,25 @@
+{
+  "id": "4ab94be0f9bf13b7",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "DiScoFormer: One transformer for density and score, across distributions",
+  "summary": "该条目仅有标题，原始发布内容为空，未提供论文摘要、作者、实验设置或结果。",
+  "url": "https://huggingface.co/blog/allenai/discoformer",
+  "date": "2026-06-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-06-29T18:02:48+00:00",
+  "titleEn": "DiScoFormer: One transformer for density and score, across distributions",
+  "titleZh": "DiScoFormer：一个 transformer 同时建模密度与得分，跨分布适用",
+  "details": {
+    "overview": "该条目仅有标题，原始发布内容为空，未提供论文摘要、作者、实验设置或结果。从标题看，稿件提出名为 DiScoFormer 的 transformer，声称可同时建模密度与得分，并跨分布适用。由于缺少摘要与正文，无法介绍具体方法、验证方式或研究意义，信息明显不足。",
+    "keyPoints": [
+      "标题显示 DiScoFormer 用一个 transformer 同时建模密度与得分。",
+      "标题声称该方法可跨分布适用。",
+      "原始内容为空，缺少摘要、实验与结果信息。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

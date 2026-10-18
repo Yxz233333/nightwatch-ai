@@ -1,0 +1,25 @@
+{
+  "id": "fcbecc405f7866da",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Inside JetBrains—the company reshaping how the world writes code",
+  "summary": "该报道聚焦 JetBrains 将 GPT-5 集成到其编程工具中的动向。",
+  "url": "https://openai.com/index/jetbrains-2025",
+  "date": "2025-11-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-25T00:00:00+00:00",
+  "titleEn": "Inside JetBrains—the company reshaping how the world writes code",
+  "titleZh": "走进 JetBrains：重塑全球写代码方式的公司",
+  "details": {
+    "overview": "该报道聚焦 JetBrains 将 GPT-5 集成到其编程工具中的动向。摘要称，这一整合可帮助数百万开发者在设计、推理和构建软件时更快完成工作。材料未说明具体涉及哪些产品、开放范围与使用限制，相关细节需以官方原始发布为准。其意义在于把前沿模型能力嵌入开发者日常工具链，但实际效果尚待更多信息。",
+    "keyPoints": [
+      "JetBrains 正将 GPT-5 集成进其编程工具中。",
+      "摘要称可帮助数百万开发者更快设计、推理和构建软件。",
+      "具体产品范围与限制未在材料中说明，需以原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

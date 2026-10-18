@@ -1,0 +1,25 @@
+{
+  "id": "2186bab522a160bd",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
+  "summary": "该消息称可借助Unsloth与Hugging Face Jobs免费训练AI模型。",
+  "url": "https://huggingface.co/blog/unsloth-jobs",
+  "date": "2026-02-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-02-20T00:00:00+00:00",
+  "titleEn": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
+  "titleZh": "使用Unsloth与Hugging Face Jobs免费训练AI模型",
+  "details": {
+    "overview": "该消息称可借助Unsloth与Hugging Face Jobs免费训练AI模型。原始发布内容为空，仅有标题和一句摘要，未说明免费额度、支持模型、硬件资源、时间限制或申请条件，因此无法进一步介绍具体细节。",
+    "keyPoints": [
+      "结合Unsloth与Hugging Face Jobs训练AI模型",
+      "官方表述为免费训练",
+      "当前收录材料未提供额度、资源与限制条件"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

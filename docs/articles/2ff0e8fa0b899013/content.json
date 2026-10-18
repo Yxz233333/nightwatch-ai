@@ -1,0 +1,25 @@
+{
+  "id": "2ff0e8fa0b899013",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+  "summary": "该新闻介绍Oracle在招聘、工程和运营等场景中，利用ChatGPT Work和Codex将专家知识转化为快速、可重复的工作流程。",
+  "url": "https://openai.com/index/oracle",
+  "date": "2026-10-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-10-08T16:00:00+00:00",
+  "titleEn": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+  "titleZh": "Oracle如何借助ChatGPT和Codex将数天工作缩短至数分钟",
+  "details": {
+    "overview": "该新闻介绍Oracle在招聘、工程和运营等场景中，利用ChatGPT Work和Codex将专家知识转化为快速、可重复的工作流程。当前收录材料未提供具体案例细节或量化指标，仅概括性描述其应用方向。",
+    "keyPoints": [
+      "Oracle在招聘、工程和运营领域使用ChatGPT Work与Codex。",
+      "目标是将专家知识转化为快速、可重复的工作流程。",
+      "当前收录材料未提供具体工作流细节或效率提升数据。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

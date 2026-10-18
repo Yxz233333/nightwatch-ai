@@ -1,0 +1,25 @@
+{
+  "id": "3f5801b89b944815",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Custom Kernels for All from Codex and Claude",
+  "summary": "该条目仅有标题与摘要，未提供正文内容，无法确认具体研究对象、作者声称的结果或技术细节。",
+  "url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+  "date": "2026-02-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-02-13T00:00:00+00:00",
+  "titleEn": "Custom Kernels for All from Codex and Claude",
+  "titleZh": "Codex 与 Claude 为所有人提供自定义内核",
+  "details": {
+    "overview": "该条目仅有标题与摘要，未提供正文内容，无法确认具体研究对象、作者声称的结果或技术细节。标题指向 Codex 与 Claude 在自定义内核方面的能力，但推出范围、适用平台与限制均不明确。建议以官方原始发布记录为准，在获取完整原文后再补充准确介绍。",
+    "keyPoints": [
+      "标题涉及 Codex 与 Claude 的自定义内核能力",
+      "原始材料未提供正文，具体实现与范围不明",
+      "推出范围与限制需以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

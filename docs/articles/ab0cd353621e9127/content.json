@@ -1,0 +1,27 @@
+{
+  "id": "ab0cd353621e9127",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Our First Proof submissions",
+  "summary": "该文分享AI模型针对First Proof数学挑战提交的证明尝试。",
+  "url": "https://openai.com/index/first-proof-submissions",
+  "date": "2026-02-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-20T14:30:00+00:00",
+  "breakthrough": true,
+  "breakthroughField": "AI 数学研究",
+  "titleEn": "Our First Proof submissions",
+  "titleZh": "我们的First Proof提交",
+  "details": {
+    "overview": "该文分享AI模型针对First Proof数学挑战提交的证明尝试。摘要表示，这项挑战用于测试研究级推理能力，题目为专家级数学问题。当前收录材料未提供模型名称、题目数量、证明完成度或评估结果，也未说明是否经过独立评审，因此具体表现尚不明确。",
+    "keyPoints": [
+      "分享AI模型对First Proof数学挑战的证明尝试",
+      "该挑战用于测试专家级问题上的研究级推理能力",
+      "当前收录材料未提供模型名称、题目数量与评估结果"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

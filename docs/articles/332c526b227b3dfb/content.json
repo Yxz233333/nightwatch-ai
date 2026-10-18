@@ -1,0 +1,25 @@
+{
+  "id": "332c526b227b3dfb",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Building a safe, effective sandbox to enable Codex on Windows",
+  "summary": "该官方发布介绍OpenAI如何构建安全有效的沙箱，以在Windows上启用Codex，并通过受控的文件访问和网络限制来约束其行为。",
+  "url": "https://openai.com/index/building-codex-windows-sandbox",
+  "date": "2026-05-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-13T11:00:00+00:00",
+  "titleEn": "Building a safe, effective sandbox to enable Codex on Windows",
+  "titleZh": "为在Windows上启用Codex构建安全有效的沙箱",
+  "details": {
+    "overview": "该官方发布介绍OpenAI如何构建安全有效的沙箱，以在Windows上启用Codex，并通过受控的文件访问和网络限制来约束其行为。原始材料仅提供这一概述，未披露沙箱的具体实现方式、限制粒度或测试结果，因此无法进一步说明技术细节与实际效果。",
+    "keyPoints": [
+      "为在Windows上启用Codex构建沙箱",
+      "沙箱包含受控文件访问与网络限制",
+      "当前收录材料未提供具体实现与测试结果"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

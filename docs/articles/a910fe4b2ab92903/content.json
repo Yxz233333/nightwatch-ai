@@ -1,0 +1,24 @@
+{
+  "id": "a910fe4b2ab92903",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Launching the Anthropic Economic Futures Programme in the UK and Europe",
+  "summary": "Anthropic 宣布将其“经济未来项目”扩展至英国和欧洲，首场活动是在伦敦政治经济学院举办研讨会。",
+  "url": "https://www.anthropic.com/news/economic-futures-uk-europe",
+  "date": "2025-11-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-11-05T07:48:51.082000+00:00",
+  "titleEn": "Launching the Anthropic Economic Futures Programme in the UK and Europe",
+  "titleZh": "Anthropic 在英国和欧洲启动经济未来项目",
+  "details": {
+    "overview": "Anthropic 宣布将其“经济未来项目”扩展至英国和欧洲，首场活动是在伦敦政治经济学院举办研讨会。项目包括面向英国和欧盟研究者的研究资助与 Claude 使用额度、评估 AI 政策的论坛，以及提供更细粒度的实际 AI 使用数据。原文称，Anthropic 经济指数显示 Claude 在欧洲多用于编程，在英国多用于学术研究与写作，在德国多用于设备校准与维修，在法国多用于餐饮购物和夜生活信息。",
+    "keyPoints": [
+      "项目扩展至英国和欧洲，首场研讨会在伦敦政治经济学院举行。",
+      "面向英国和欧盟研究者提供研究资助和 Claude 使用额度。",
+      "将提供更细粒度的实际 AI 使用数据，供政策讨论参考。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "3332430119cd7518",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "D4RT: Teaching AI to see the world in four dimensions",
+  "summary": "该新闻摘要称，D4RT是一种统一、高效的四维重建与跟踪方法，速度比先前方法快至多300倍。",
+  "url": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+  "date": "2026-01-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-01-16T10:39:00+00:00",
+  "titleEn": "D4RT: Teaching AI to see the world in four dimensions",
+  "titleZh": "D4RT：教AI以四维视角看世界",
+  "details": {
+    "overview": "该新闻摘要称，D4RT是一种统一、高效的四维重建与跟踪方法，速度比先前方法快至多300倍。原文仅有一句话，未说明技术细节、实验设置、对比基线或“四维”具体指代（通常为三维空间加时间）。作者声称其在效率和统一性上有显著提升，但未提供可验证的评估数据或同行审查信息。读者应将其视为方法发布声明，而非已获独立验证的结论。",
+    "keyPoints": [
+      "D4RT统一进行四维重建与跟踪",
+      "声称速度比先前方法快至多300倍",
+      "当前收录材料未提供技术细节或验证数据"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

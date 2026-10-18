@@ -1,0 +1,25 @@
+{
+  "id": "c0766cd65f3a1d20",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing Astra for Law",
+  "summary": "该官方发布记录称，OpenAI for Law 面向法律工作提供前沿智能能力，支持定制律所工作流、连接法律数据源，并配备适用于保密客户工作的法律级管控。",
+  "url": "https://openai.com/index/astra-for-law",
+  "date": "2026-09-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-17T00:00:00+00:00",
+  "titleEn": "Introducing Astra for Law",
+  "titleZh": "推出面向法律行业的 Astra",
+  "details": {
+    "overview": "该官方发布记录称，OpenAI for Law 面向法律工作提供前沿智能能力，支持定制律所工作流、连接法律数据源，并配备适用于保密客户工作的法律级管控。当前收录材料未提供具体功能清单、可用范围与限制，相关细节需以原始发布为准。",
+    "keyPoints": [
+      "面向法律行业提供前沿智能能力，并支持定制律所工作流",
+      "可连接法律数据源，配备面向保密客户工作的法律级管控",
+      "原文未说明具体功能、推出范围与限制"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

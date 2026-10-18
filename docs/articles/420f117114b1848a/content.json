@@ -1,0 +1,24 @@
+{
+  "id": "420f117114b1848a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Expanding our use of Google Cloud TPUs and Services",
+  "summary": "Anthropic 宣布扩大与 Google Cloud 的合作，计划使用最多一百万块 TPU，大幅增加算力资源。",
+  "url": "https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services",
+  "date": "2025-10-24",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-10-23T18:46:00+00:00",
+  "titleEn": "Expanding our use of Google Cloud TPUs and Services",
+  "titleZh": "扩大对 Google Cloud TPU 及服务的使用",
+  "details": {
+    "overview": "Anthropic 宣布扩大与 Google Cloud 的合作，计划使用最多一百万块 TPU，大幅增加算力资源。该扩展价值数十亿美元，预计 2026 年上线超过 1 吉瓦容量。Anthropic 称其企业客户超过 30 万家，大客户数量过去一年增长近 7 倍。公司采用 TPU、Trainium 和 GPU 多平台策略，并继续与亚马逊合作 Project Rainier。此外，Anthropic 向 METR 提供员工级访问权限以评估系统安全，并与 Hugging Face 等机构进行早期讨论。",
+    "keyPoints": [
+      "Anthropic 计划使用最多一百万块 Google Cloud TPU，扩展价值数十亿美元。",
+      "预计 2026 年上线超过 1 吉瓦容量，服务超 30 万企业客户。",
+      "维持 TPU、Trainium 和 GPU 多平台算力策略。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

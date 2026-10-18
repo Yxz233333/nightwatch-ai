@@ -1,0 +1,25 @@
+{
+  "id": "c93325074473decb",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Getting started with ChatGPT",
+  "summary": "这是 ChatGPT 的入门说明，面向新用户介绍如何使用 ChatGPT、开启第一次对话，并了解用 AI 进行写作、头脑风暴和解决问题的简单方式。",
+  "url": "https://openai.com/academy/getting-started",
+  "date": "2026-07-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-10T00:00:00+00:00",
+  "titleEn": "Getting started with ChatGPT",
+  "titleZh": "ChatGPT 入门指南",
+  "details": {
+    "overview": "这是 ChatGPT 的入门说明，面向新用户介绍如何使用 ChatGPT、开启第一次对话，并了解用 AI 进行写作、头脑风暴和解决问题的简单方式。原文内容简短，未涉及具体功能细节、使用限制或推出范围，相关限制需以官方原文为准。",
+    "keyPoints": [
+      "介绍如何开始使用 ChatGPT",
+      "引导用户开启第一次对话",
+      "列举写作、头脑风暴、解决问题等用途"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

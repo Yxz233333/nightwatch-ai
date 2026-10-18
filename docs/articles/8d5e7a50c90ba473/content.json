@@ -1,0 +1,26 @@
+{
+  "id": "8d5e7a50c90ba473",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.151.0 发布",
+  "summary": "Codex CLI 发布 0.151.0 稳定版本。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.151.0",
+  "date": "2026-08-29",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-08-29T09:55:39+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.151.0 发布",
+  "titleZh": "Codex CLI 0.151.0 发布",
+  "details": {
+    "overview": "Codex CLI 发布 0.151.0 稳定版本。新功能包括：为可选 MCP 服务器发现工具增加可配置宽限期；扩展可在 MCP 工具结果进入模型前检查或替换；插件目录合并各仓库配置并报告无效项目市场。修复涉及 TUI 权限配置保留、切换或回退模型时工具可用性与推理强度、远程沙箱路径语义、MCP 结构化错误保留及子代理令牌计入根目标预算等。",
+    "keyPoints": [
+      "可选 MCP 服务器工具发现增加可配置宽限期",
+      "扩展可在结果进入模型前检查或替换 MCP 工具结果",
+      "修复切换模型时工具可用性与推理强度错误",
+      "远程沙箱按执行器实际主目录与路径约定执行"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "e41fc77b595227a5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+  "summary": "Anthropic 宣布在首尔开设办公室，并公布与韩国企业、初创公司和研究机构的多项合作。",
+  "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+  "date": "2026-06-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-06-17T19:34:00+00:00",
+  "titleEn": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+  "titleZh": "Anthropic 开设首尔办公室并宣布韩国 AI 生态新合作",
+  "details": {
+    "overview": "Anthropic 宣布在首尔开设办公室，并公布与韩国企业、初创公司和研究机构的多项合作。公司还与韩国科学技术信息通信部签署谅解备忘录，推进公共部门 AI 安全与网络安全合作，包括与韩国 AI 安全研究所评估韩语模型安全。NAVER、Nexon、LG CNS、三星 SDS 等被列为使用 Claude 的机构，NAIRL 研究人员将获得 Claude 访问权限。",
+    "keyPoints": [
+      "Anthropic 在首尔设办公室，由 KiYoung Choi 领导并招聘多个岗位",
+      "与韩国科技信息通信部签 MOU，合作评估韩语模型安全与网络威胁",
+      "NAVER 全员工程组织部署 Claude Code，LG CNS、三星 SDS 等也在推广"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

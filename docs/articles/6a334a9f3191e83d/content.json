@@ -1,0 +1,25 @@
+{
+  "id": "6a334a9f3191e83d",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.119.0 发布",
+  "summary": "Codex CLI 0.119.0 为稳定版本发布，实时语音会话默认改用 v2 WebRTC 路径，支持可配置传输、语音选择与原生 TUI 媒体支持；MCP Apps 与自定义 MCP 服务器获得资源读取、工具调用元数据、工具搜索、服务器驱动征询与文件参数上传等更丰富支持；远程与应用服务器工作流新增出站 WebSocket 传输、远程 --cd 转发等。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.119.0",
+  "date": "2026-04-11",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-04-10T22:44:21+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.119.0 发布",
+  "titleZh": "Codex CLI 0.119.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.119.0 为稳定版本发布，实时语音会话默认改用 v2 WebRTC 路径，支持可配置传输、语音选择与原生 TUI 媒体支持；MCP Apps 与自定义 MCP 服务器获得资源读取、工具调用元数据、工具搜索、服务器驱动征询与文件参数上传等更丰富支持；远程与应用服务器工作流新增出站 WebSocket 传输、远程 --cd 转发等。此外 TUI 支持 Ctrl+O 复制最新回复、/resume 按 ID 或名称跳转会话，并修复状态限流、恢复流程与沙箱边界等问题。",
+    "keyPoints": [
+      "实时语音会话默认采用 v2 WebRTC 路径并支持语音选择。",
+      "MCP Apps 与自定义 MCP 服务器支持资源读取和工具搜索等。",
+      "TUI 可用 Ctrl+O 复制最新回复，/resume 支持按 ID 跳转。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

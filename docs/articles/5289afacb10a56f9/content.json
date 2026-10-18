@@ -1,0 +1,25 @@
+{
+  "id": "5289afacb10a56f9",
+  "section": "news",
+  "category": "模型动态",
+  "title": "New in llama.cpp: Model Management",
+  "summary": "llama.cpp发布模型管理相关更新，但原始发布内容为空，仅有标题。",
+  "url": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
+  "date": "2025-12-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-12-11T15:47:44+00:00",
+  "titleEn": "New in llama.cpp: Model Management",
+  "titleZh": "llama.cpp 新增模型管理功能",
+  "details": {
+    "overview": "llama.cpp发布模型管理相关更新，但原始发布内容为空，仅有标题。现有材料不足以说明该功能的具体对象、操作方式、适用范围和限制。建议以官方原始发布记录为准，后续补充详细信息后再评估其意义。",
+    "keyPoints": [
+      "llama.cpp新增模型管理相关功能",
+      "原始发布内容为空，细节不足",
+      "具体范围与限制需以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "d946b6b68fdf5419",
+  "section": "news",
+  "category": "模型动态",
+  "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+  "summary": "该条目介绍OpenAI的自动化红队系统GPT-Red，摘要称其通过自我对弈提升AI安全、对齐以及抵御提示注入的鲁棒性。",
+  "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+  "date": "2026-07-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-15T10:00:00+00:00",
+  "titleEn": "GPT-Red: Unlocking Self-Improvement for Robustness",
+  "titleZh": "GPT-Red：解锁面向鲁棒性的自我改进",
+  "details": {
+    "overview": "该条目介绍OpenAI的自动化红队系统GPT-Red，摘要称其通过自我对弈提升AI安全、对齐以及抵御提示注入的鲁棒性。原文仅有一句概述，未说明系统架构、评测方法、具体指标或适用范围，也未提供独立验证信息。因此其效果描述应视为官方介绍性说法，具体能力与限制需以原始发布内容为准。",
+    "keyPoints": [
+      "GPT-Red是OpenAI的自动化红队系统",
+      "摘要称其用自我对弈提升安全、对齐与提示注入鲁棒性",
+      "原文未给出架构、指标或验证细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

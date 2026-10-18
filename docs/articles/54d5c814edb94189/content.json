@@ -1,0 +1,24 @@
+{
+  "id": "54d5c814edb94189",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Hermes Unlocks Self-Improving AI Agents, Powered by NVIDIA RTX PCs and DGX Spark",
+  "summary": "报道称，智能体AI正在改变用户完成工作的方式。",
+  "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-hermes-agent-dgx-spark/",
+  "date": "2026-05-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-05-13T13:00:10+00:00",
+  "titleEn": "Hermes Unlocks Self-Improving AI Agents, Powered by NVIDIA RTX PCs and DGX Spark",
+  "titleZh": "Hermes解锁自我改进AI智能体，由NVIDIA RTX PC和DGX Spark驱动",
+  "details": {
+    "overview": "报道称，智能体AI正在改变用户完成工作的方式。在OpenClaw取得成功后，社区开始接纳新的开源智能体框架，最新出现的是Hermes Agent，其在不到三个月内GitHub星标数超过14万。原文摘要提及该框架由NVIDIA RTX PC和DGX Spark提供支持，并指向自我改进能力，但未说明具体机制、性能数据或适用范围。",
+    "keyPoints": [
+      "Hermes Agent为新兴开源智能体框架",
+      "不到三个月GitHub星标数超过14万",
+      "由NVIDIA RTX PC和DGX Spark提供支持"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

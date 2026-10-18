@@ -1,0 +1,24 @@
+{
+  "id": "17e21692cc10b0ee",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "AdventHealth advances whole-person care with OpenAI",
+  "summary": "该文介绍 AdventHealth 使用 ChatGPT for Healthcare 简化工作流程、减轻行政负担，从而把更多时间还给患者照护。",
+  "url": "https://openai.com/index/adventhealth",
+  "date": "2026-05-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-21T12:00:00+00:00",
+  "titleEn": "AdventHealth advances whole-person care with OpenAI",
+  "titleZh": "AdventHealth 借助 OpenAI 推进全人照护",
+  "details": {
+    "overview": "该文介绍 AdventHealth 使用 ChatGPT for Healthcare 简化工作流程、减轻行政负担，从而把更多时间还给患者照护。原文仅提供一句话摘要，未披露部署范围、使用规模或效果数据，相关细节不足。",
+    "keyPoints": [
+      "AdventHealth 采用 ChatGPT for Healthcare 用于医疗场景。",
+      "目标为简化流程、减少行政负担并把时间还给患者照护。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -13,7 +13,7 @@
   "titleEn": "A counterexample to the nearby Lagrangian conjecture",
   "titleZh": "邻近Lagrangian猜想的反例",
   "details": {
-    "overview": "稿件研究无限制邻近Lagrangian猜想。作者声称对某个充分大的偶数N，在余切丛T*(S^9×S^{N-1})中构造了一个闭的精确光滑嵌入Lagrangian，它与底流形微分同胚但不与零截面Hamilton同痕，从而否证了该猜想。该结果若成立，将表明邻近Lagrangian猜想在无限制情形下不成立，对辛拓扑有重要影响。摘要未给出构造细节或独立验证。",
+    "overview": "稿件研究无限制邻近Lagrangian猜想。作者声称对某个充分大的偶数N，在余切丛T*(S^9×S^{N-1})中构造了一个闭的精确光滑嵌入Lagrangian，它与底流形微分同胚但不与零截面Hamilton同痕，从而否证了该猜想。该结果若成立，将表明邻近Lagrangian猜想在无限制情形下不成立，对辛拓扑有重要影响。当前收录摘要未给出构造细节或独立验证。",
     "keyPoints": [
       "对充分大偶数N，在T*(S^9×S^{N-1})中构造闭精确光滑嵌入Lagrangian。",
       "该Lagrangian与底流形微分同胚，但不与零截面Hamilton同痕。",

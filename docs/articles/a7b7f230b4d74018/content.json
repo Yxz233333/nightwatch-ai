@@ -1,0 +1,25 @@
+{
+  "id": "a7b7f230b4d74018",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Helping small businesses put AI to work",
+  "summary": "OpenAI 宣布与美国 SBDC 合作，为小企业扩大实操性 AI 培训和地方支持，同时发布一份关于小型团队如何使用 AI 的新报告。",
+  "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+  "date": "2026-09-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-30T10:00:00+00:00",
+  "titleEn": "Helping small businesses put AI to work",
+  "titleZh": "帮助小企业用上 AI",
+  "details": {
+    "overview": "OpenAI 宣布与美国 SBDC 合作，为小企业扩大实操性 AI 培训和地方支持，同时发布一份关于小型团队如何使用 AI 的新报告。原文未说明培训内容、覆盖范围或报告的具体发现，因此只能确认合作与报告发布这两项信息。",
+    "keyPoints": [
+      "OpenAI 与美国 SBDC 合作，扩大小企业的实操 AI 培训与本地支持。",
+      "同期发布一份关于小型团队如何使用 AI 的新报告。",
+      "当前收录材料未提供培训细节与报告具体结论。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "5b29a1ff627b0421",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+  "summary": "该条为官方发布记录，标题称Gemini Robotics 2将“全身智能”引入机器人。",
+  "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+  "date": "2026-07-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-07-28T13:21:37+00:00",
+  "titleEn": "Gemini Robotics 2 brings whole body intelligence to robots",
+  "titleZh": "Gemini Robotics 2为机器人带来全身智能",
+  "details": {
+    "overview": "该条为官方发布记录，标题称Gemini Robotics 2将“全身智能”引入机器人。提供的摘要与标题一致，sourceText为空，未包含模型能力细节、适用机器人形态、发布时间或可用范围等信息。因此只能确认这是一项面向机器人方向的模型更新，其具体技术内容与效果尚缺乏材料支撑，需以官方原文为准。",
+    "keyPoints": [
+      "官方发布，属模型动态类更新",
+      "标题指向机器人“全身智能”能力",
+      "材料未提供技术细节与推出范围"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

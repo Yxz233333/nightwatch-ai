@@ -1,0 +1,25 @@
+{
+  "id": "736d0206b82317aa",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
+  "summary": "该稿件提出名为 Alyah ⭐️ 的评测工作，目标是更稳健地评估阿拉伯语大模型在阿联酋方言上的能力。",
+  "url": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
+  "date": "2026-01-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-01-27T10:26:42+00:00",
+  "titleEn": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
+  "titleZh": "Alyah ⭐️：面向阿拉伯语大模型阿联酋方言能力的稳健评测",
+  "details": {
+    "overview": "该稿件提出名为 Alyah ⭐️ 的评测工作，目标是更稳健地评估阿拉伯语大模型在阿联酋方言上的能力。现有材料仅给出标题与摘要，未提供评测集构成、任务类型、参评模型或具体结果，因此无法说明作者声称的结论与数值。其意义在于把方言能力从通用阿拉伯语评测中单独提出，提示需要针对地域变体设计评测。具体方法与发现需以原文为准。",
+    "keyPoints": [
+      "稿件聚焦阿拉伯语大模型的阿联酋方言能力评测",
+      "标题强调“稳健评测”，但当前收录摘要未给出方法与指标",
+      "评测集、参评模型与结果在现有材料中缺失"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

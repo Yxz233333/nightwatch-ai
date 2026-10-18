@@ -1,0 +1,25 @@
+{
+  "id": "a56f3ccdb98fdc2c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How to manage AI investments in the agentic era",
+  "summary": "该官方内容以企业如何在智能体时代管理 AI 投资为主题，提出通过衡量每美元产生的有用工作量、提升效率以及扩展高价值工作流来管理投资。",
+  "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+  "date": "2026-07-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-14T10:00:00+00:00",
+  "titleEn": "How to manage AI investments in the agentic era",
+  "titleZh": "如何在智能体时代管理 AI 投资",
+  "details": {
+    "overview": "该官方内容以企业如何在智能体时代管理 AI 投资为主题，提出通过衡量每美元产生的有用工作量、提升效率以及扩展高价值工作流来管理投资。原文仅为导语式摘要，未给出具体企业案例、衡量方法细节或数据，也未说明这些做法是否经过独立验证。因此只能确认其讨论方向，具体内容需以完整原文为准。",
+    "keyPoints": [
+      "主题是智能体时代企业如何管理 AI 投资。",
+      "提出以每美元有用工作量衡量投资，并提升效率。",
+      "强调扩展高价值工作流，当前收录材料未提供具体案例或数据。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

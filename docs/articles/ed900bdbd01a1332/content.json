@@ -1,0 +1,25 @@
+{
+  "id": "ed900bdbd01a1332",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing computer use in Gemini 3.5 Flash",
+  "summary": "该条目为官方发布记录，标题显示 Gemini 3.5 Flash 引入“计算机使用”（computer use）能力，即让模型操作计算机界面完成任务。",
+  "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+  "date": "2026-06-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-06-24T16:30:01+00:00",
+  "titleEn": "Introducing computer use in Gemini 3.5 Flash",
+  "titleZh": "Gemini 3.5 Flash 引入计算机使用能力",
+  "details": {
+    "overview": "该条目为官方发布记录，标题显示 Gemini 3.5 Flash 引入“计算机使用”（computer use）能力，即让模型操作计算机界面完成任务。提供的摘要与原文均只有标题，未说明具体功能范围、支持平台、可用地区或限制条件，因此无法介绍具体实现方式与效果。其意义在于 Gemini 系列模型开始覆盖计算机操作类任务，但推出范围与限制需以官方原文为准。",
+    "keyPoints": [
+      "官方发布记录显示 Gemini 3.5 Flash 新增计算机使用能力。",
+      "材料仅有标题，未披露支持平台、范围与限制。",
+      "具体可用性需以官方原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

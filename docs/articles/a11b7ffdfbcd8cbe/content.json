@@ -1,0 +1,25 @@
+{
+  "id": "a11b7ffdfbcd8cbe",
+  "section": "news",
+  "category": "模型动态",
+  "title": "GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum",
+  "summary": "该增补文件为 GPT-5 系统卡补充 GPT-5.1 Instant 和 GPT-5.1 Thinking 的更新安全指标，并新增针对心理健康和情感依赖的评估。",
+  "url": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-1",
+  "date": "2025-11-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-12T00:00:00+00:00",
+  "titleEn": "GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum",
+  "titleZh": "GPT-5.1 Instant 与 GPT-5.1 Thinking 系统卡增补",
+  "details": {
+    "overview": "该增补文件为 GPT-5 系统卡补充 GPT-5.1 Instant 和 GPT-5.1 Thinking 的更新安全指标，并新增针对心理健康和情感依赖的评估。原始材料仅提供一句摘要，未披露具体评估方法、得分或结论，因此无法判断两款模型的安全表现或与先前版本的差异。",
+    "keyPoints": [
+      "增补文件提供 GPT-5.1 Instant 和 Thinking 的更新安全指标。",
+      "新增心理健康和情感依赖两项评估。",
+      "原始材料未披露具体评估方法、得分或结论。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "56fe8249594c8d46",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Composer predictions in Codex",
+  "summary": "该功能以测试版形式在Codex桌面应用中提供，根据当前对话线程推测用户的下一条消息。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#composer-predictions-in-codex",
+  "date": "2026-10-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Composer predictions in Codex",
+  "titleZh": "Codex中的Composer预测",
+  "details": {
+    "overview": "该功能以测试版形式在Codex桌面应用中提供，根据当前对话线程推测用户的下一条消息。Codex回复后，消息框可能显示建议，按Tab接受后可编辑再发送，接受不会自动发送。测试版面向18岁及以上、受支持地区的个人ChatGPT Pro用户，支持使用GPT-6 Astra或GPT-6.1 Sol的本地与SSH线程。预测默认开启，可在设置中关闭；测试期间生成预测不计入Codex用量限额。",
+    "keyPoints": [
+      "根据当前Codex对话推测下一条消息，按Tab接受为可编辑草稿",
+      "面向18岁以上个人ChatGPT Pro用户，支持本地与SSH线程",
+      "测试期间生成预测不计入用量限额，可在设置中关闭"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

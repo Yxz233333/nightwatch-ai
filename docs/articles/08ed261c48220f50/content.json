@@ -1,0 +1,25 @@
+{
+  "id": "08ed261c48220f50",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
+  "summary": "现有材料仅有标题，称推出 AnyLanguageModel，为 Apple 平台上的本地与远程大语言模型提供统一 API。",
+  "url": "https://huggingface.co/blog/anylanguagemodel",
+  "date": "2025-11-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-11-20T00:00:00+00:00",
+  "titleEn": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
+  "titleZh": "推出 AnyLanguageModel：为 Apple 平台本地与远程 LLM 提供统一 API",
+  "details": {
+    "overview": "现有材料仅有标题，称推出 AnyLanguageModel，为 Apple 平台上的本地与远程大语言模型提供统一 API。原始发布正文为空，未提供具体功能、支持模型、平台版本或获取方式等信息，因此无法进一步说明其研究对象、作者声称结果或研究意义。相关细节不足，应以原始发布为准。",
+    "keyPoints": [
+      "标题称该 API 统一本地与远程 LLM 的调用方式。",
+      "目标平台为 Apple 平台。",
+      "原始正文为空，功能与范围细节不足。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

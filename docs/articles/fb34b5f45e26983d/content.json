@@ -1,0 +1,25 @@
+{
+  "id": "fb34b5f45e26983d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Chatham scales its capital markets expertise with OpenAI",
+  "summary": "据摘要，Chatham Financial使用Codex与GPT-5.6构建技术并重新设计工作流，将交易验证时间从30分钟缩短至4分钟以内。",
+  "url": "https://openai.com/index/chatham-financial",
+  "date": "2026-10-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-10-02T00:00:00+00:00",
+  "titleEn": "Chatham scales its capital markets expertise with OpenAI",
+  "titleZh": "Chatham借助OpenAI扩展资本市场专业能力",
+  "details": {
+    "overview": "据摘要，Chatham Financial使用Codex与GPT-5.6构建技术并重新设计工作流，将交易验证时间从30分钟缩短至4分钟以内。原始发布内容仅提供这一句结果描述，未说明具体部署范围、验证方法或适用条件，相关效率数据来自发布方自述，尚不构成独立验证。",
+    "keyPoints": [
+      "Chatham Financial使用Codex与GPT-5.6构建技术、重设计工作流。",
+      "发布方称交易验证时间由30分钟缩短至4分钟以内。",
+      "原始材料简短，未披露部署范围与验证方法。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

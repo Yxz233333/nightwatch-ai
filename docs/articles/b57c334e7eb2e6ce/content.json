@@ -1,0 +1,25 @@
+{
+  "id": "b57c334e7eb2e6ce",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Continuously hardening ChatGPT Atlas against prompt injection",
+  "summary": "OpenAI 表示正在加强 ChatGPT Atlas 对提示注入攻击的防御，采用经强化学习训练的自动化红队测试。",
+  "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
+  "date": "2025-12-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-22T00:00:00+00:00",
+  "titleEn": "Continuously hardening ChatGPT Atlas against prompt injection",
+  "titleZh": "持续加固 ChatGPT Atlas 以抵御提示注入",
+  "details": {
+    "overview": "OpenAI 表示正在加强 ChatGPT Atlas 对提示注入攻击的防御，采用经强化学习训练的自动化红队测试。摘要称，这一“发现—修补”的主动循环有助于尽早识别新型利用方式，并在 AI 更具代理能力时加固浏览器代理的防护。当前收录材料未提供攻击样本、修补数量或效果评估数据，相关结论以官方原文为准。",
+    "keyPoints": [
+      "采用强化学习训练的自动化红队测试发现提示注入问题。",
+      "以主动的发现—修补循环尽早识别新型利用方式。",
+      "目标是随 AI 代理能力增强而加固浏览器代理防御。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

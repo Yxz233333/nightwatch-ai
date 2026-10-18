@@ -1,0 +1,24 @@
+{
+  "id": "1f54b1fa2406afc2",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Sharing our compliance framework for California's Transparency in Frontier AI Act",
+  "summary": "Anthropic 发布前沿合规框架（FCF），说明其如何评估与管理灾难性 AI 风险，以配合将于 1 月 1 日生效的加州《前沿 AI 透明度法案》（SB 53）。",
+  "url": "https://www.anthropic.com/news/compliance-framework-SB53",
+  "date": "2025-12-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-12-19T20:00:00+00:00",
+  "titleEn": "Sharing our compliance framework for California's Transparency in Frontier AI Act",
+  "titleZh": "分享我们针对加州《前沿 AI 透明度法案》的合规框架",
+  "details": {
+    "overview": "Anthropic 发布前沿合规框架（FCF），说明其如何评估与管理灾难性 AI 风险，以配合将于 1 月 1 日生效的加州《前沿 AI 透明度法案》（SB 53）。框架覆盖网络攻击、化生放核威胁、AI 破坏与失控风险，并列出分级能力评估与缓解措施、模型权重保护及安全事件响应。公司称 FCF 将作为 SB 53 等监管要求的合规框架，而负责任扩展政策（RSP）继续作为自愿安全政策，并呼吁建立联邦层面的 AI 透明度框架。",
+    "keyPoints": [
+      "FCF 覆盖网络攻击、化生放核、AI 破坏与失控等风险类别",
+      "框架包含分级能力评估、缓解措施、权重保护与事件响应",
+      "FCF 用于 SB 53 合规，RSP 继续作为自愿安全政策"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

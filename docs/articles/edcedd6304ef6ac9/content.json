@@ -1,0 +1,25 @@
+{
+  "id": "edcedd6304ef6ac9",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Our response to the Axios developer tool compromise",
+  "summary": "OpenAI 就 Axios 供应链攻击作出回应，说明已轮换 macOS 代码签名证书并更新相关应用，同时确认没有用户数据遭到泄露。",
+  "url": "https://openai.com/index/axios-developer-tool-compromise",
+  "date": "2026-04-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-10T00:00:00+00:00",
+  "titleEn": "Our response to the Axios developer tool compromise",
+  "titleZh": "我们对 Axios 开发者工具供应链事件的回应",
+  "details": {
+    "overview": "OpenAI 就 Axios 供应链攻击作出回应，说明已轮换 macOS 代码签名证书并更新相关应用，同时确认没有用户数据遭到泄露。当前收录材料仅给出上述处置与结论，未披露攻击细节、受影响版本范围或后续措施，具体情况以官方原始发布为准。",
+    "keyPoints": [
+      "OpenAI 回应 Axios 供应链攻击事件。",
+      "已轮换 macOS 代码签名证书并更新应用。",
+      "官方确认没有用户数据被泄露。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

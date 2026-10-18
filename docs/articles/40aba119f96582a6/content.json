@@ -1,0 +1,25 @@
+{
+  "id": "40aba119f96582a6",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+  "summary": "该条目仅有标题，未提供摘要或正文。",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+  "date": "2026-06-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-06-04T18:57:45+00:00",
+  "titleEn": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+  "titleZh": "Nemotron 3.5 内容安全：面向全球企业 AI 的可定制多模态安全",
+  "details": {
+    "overview": "该条目仅有标题，未提供摘要或正文。从标题可知其主题为 Nemotron 3.5 内容安全，定位为面向全球企业 AI 的可定制多模态安全能力。由于缺少原始发布内容，无法说明具体功能、适用模型、推出范围或技术细节，相关信息不足。",
+    "keyPoints": [
+      "标题指向 Nemotron 3.5 内容安全，强调可定制的多模态安全能力。",
+      "定位为面向全球企业 AI 的安全方案。",
+      "原始材料仅有标题，功能与推出范围等信息不足。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

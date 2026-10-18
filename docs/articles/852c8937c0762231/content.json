@@ -1,0 +1,25 @@
+{
+  "id": "852c8937c0762231",
+  "section": "news",
+  "category": "工具动态",
+  "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+  "summary": "该发布标题表明，用户可从 Hugging Face 一键跳转至 Amazon SageMaker Studio。",
+  "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+  "date": "2026-07-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-07-07T21:15:33+00:00",
+  "titleEn": "From Hugging Face to Amazon SageMaker Studio in one click",
+  "titleZh": "从 Hugging Face 一键进入 Amazon SageMaker Studio",
+  "details": {
+    "overview": "该发布标题表明，用户可从 Hugging Face 一键跳转至 Amazon SageMaker Studio。原始发布内容为空，仅有标题与重复的一句摘要，未说明具体操作流程、支持的模型或数据集类型、可用地区及限制条件。因此只能确认这是一项打通 Hugging Face 与 SageMaker Studio 的便捷入口类工具更新，其实际功能范围与推出情况需以官方原文为准。",
+    "keyPoints": [
+      "主题为从 Hugging Face 一键进入 SageMaker Studio",
+      "原始材料未说明操作流程、支持范围或地区限制",
+      "具体功能与推出情况需以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

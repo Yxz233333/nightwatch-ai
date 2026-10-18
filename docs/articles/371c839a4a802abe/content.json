@@ -1,0 +1,25 @@
+{
+  "id": "371c839a4a802abe",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Instacart and OpenAI partner on AI shopping experiences",
+  "summary": "该发布称OpenAI与Instacart正在深化长期合作，把首个完全集成的杂货购物与Instant Checkout支付应用引入ChatGPT。",
+  "url": "https://openai.com/index/instacart-partnership",
+  "date": "2025-12-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-08T06:00:00+00:00",
+  "titleEn": "Instacart and OpenAI partner on AI shopping experiences",
+  "titleZh": "Instacart与OpenAI合作打造AI购物体验",
+  "details": {
+    "overview": "该发布称OpenAI与Instacart正在深化长期合作，把首个完全集成的杂货购物与Instant Checkout支付应用引入ChatGPT。摘要只说明合作方向和应用形态，未披露上线时间、适用地区、支持商品范围或支付细节，相关限制需以原始发布为准。",
+    "keyPoints": [
+      "OpenAI与Instacart深化长期合作伙伴关系",
+      "计划把集成式杂货购物应用引入ChatGPT",
+      "该应用包含Instant Checkout支付功能"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

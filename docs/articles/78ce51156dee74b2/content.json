@@ -1,0 +1,24 @@
+{
+  "id": "78ce51156dee74b2",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Deutsche Telekom and NVIDIA Launch Industrial AI Cloud — a New Era for Germany’s Industrial Transformation",
+  "summary": "德国电信与NVIDIA在柏林发布被称为全球首个的工业AI云，定位为主权级、企业级平台，计划于2026年初上线。",
+  "url": "https://blogs.nvidia.com/blog/germany-industrial-ai-cloud-launch/",
+  "date": "2025-11-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-11-04T12:56:41+00:00",
+  "titleEn": "Deutsche Telekom and NVIDIA Launch Industrial AI Cloud — a New Era for Germany’s Industrial Transformation",
+  "titleZh": "德国电信与NVIDIA推出工业AI云，开启德国工业转型新阶段",
+  "details": {
+    "overview": "德国电信与NVIDIA在柏林发布被称为全球首个的工业AI云，定位为主权级、企业级平台，计划于2026年初上线。合作结合德国电信的基础设施与运营能力，以及NVIDIA的AI和Omniverse数字孪生平台，用于支持德国工业转型的AI时代。当前收录材料未提供平台定价、具体客户或性能指标。",
+    "keyPoints": [
+      "双方发布主权级、企业级工业AI云平台",
+      "平台计划于2026年初上线",
+      "结合德国电信基础设施与NVIDIA AI及Omniverse数字孪生平台"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

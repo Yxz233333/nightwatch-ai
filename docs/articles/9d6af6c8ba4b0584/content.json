@@ -1,0 +1,25 @@
+{
+  "id": "9d6af6c8ba4b0584",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.142.2 发布",
+  "summary": "Codex CLI 发布 0.142.2 稳定版本，更新日志列出新功能与缺陷修复。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.142.2",
+  "date": "2026-06-25",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-06-25T07:32:07+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.142.2 发布",
+  "titleZh": "Codex CLI 0.142.2 发布",
+  "details": {
+    "overview": "Codex CLI 发布 0.142.2 稳定版本，更新日志列出新功能与缺陷修复。新功能包括：在受支持时 MCP 工具默认使用工具搜索，以改善工具发现并兼容旧模型与提供商；macOS 认证客户端在启用相应选项时可遵循系统代理、PAC 与 WPAD 设置；插件可通过本地清单和远程目录提供深色模式标志；应用可利用服务端提供的可见性与更快模型元数据显示更丰富的安全缓冲界面。修复涉及远程插件精选排名、Bedrock 凭证过期提示、远程 stdio MCP 工作目录、远程图像输入校验、PowerShell 命令审批等。",
+    "keyPoints": [
+      "MCP 工具在受支持时默认启用工具搜索。",
+      "macOS 认证客户端可遵循系统代理与 PAC/WPAD 设置。",
+      "修复 Bedrock 凭证过期提示与远程图像输入校验等问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

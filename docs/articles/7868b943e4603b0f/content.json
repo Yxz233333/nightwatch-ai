@@ -1,0 +1,25 @@
+{
+  "id": "7868b943e4603b0f",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.112.0 发布",
+  "summary": "Codex CLI 0.112.0 为稳定版本更新，新增 @plugin 提及，使用户可在对话中直接引用插件并自动带入相关 MCP、应用或技能上下文；更新模型选择界面以反映最新模型目录；将可执行权限配置合并进每回合沙箱策略，用于 zsh-fork 技能执行。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.112.0",
+  "date": "2026-03-09",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-03-08T20:44:14+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.112.0 发布",
+  "titleZh": "Codex CLI 0.112.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.112.0 为稳定版本更新，新增 @plugin 提及，使用户可在对话中直接引用插件并自动带入相关 MCP、应用或技能上下文；更新模型选择界面以反映最新模型目录；将可执行权限配置合并进每回合沙箱策略，用于 zsh-fork 技能执行。修复方面包括 JS REPL 绑定在失败单元后保持、SIGTERM 优雅关闭、js_repl 图像仅接受 data: URL、Linux bubblewrap 用户命名空间隔离等。",
+    "keyPoints": [
+      "新增 @plugin 提及并自动带入插件上下文",
+      "模型选择界面同步最新模型目录",
+      "修复 JS REPL 绑定持久化与沙箱隔离问题"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

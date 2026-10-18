@@ -1,0 +1,25 @@
+{
+  "id": "b3e41bbc6010f0db",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Hugging Face and VirusTotal collaborate to strengthen AI security",
+  "summary": "现有材料仅显示 Hugging Face 与 VirusTotal 将合作加强 AI 安全，标题与摘要内容相同，未提供合作方式、覆盖范围、时间安排或具体安全机制等细节。",
+  "url": "https://huggingface.co/blog/virustotal",
+  "date": "2025-10-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-10-22T00:00:00+00:00",
+  "titleEn": "Hugging Face and VirusTotal collaborate to strengthen AI security",
+  "titleZh": "Hugging Face 与 VirusTotal 合作加强 AI 安全",
+  "details": {
+    "overview": "现有材料仅显示 Hugging Face 与 VirusTotal 将合作加强 AI 安全，标题与摘要内容相同，未提供合作方式、覆盖范围、时间安排或具体安全机制等细节。因此只能确认双方存在这一合作意向，无法说明其技术方案或实际效果，相关结论需以官方后续发布为准。",
+    "keyPoints": [
+      "Hugging Face 与 VirusTotal 宣布合作。",
+      "合作目标为加强 AI 安全。",
+      "当前收录材料未提供合作方式与具体范围。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

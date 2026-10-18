@@ -1,0 +1,24 @@
+{
+  "id": "148773f1b66c556b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Developing Enterprise Frontier Safeguards with our customers",
+  "summary": "Anthropic宣布推出Enterprise Frontier Safeguards（EFS），将零数据保留的隐私性与检测滥用的安全监控结合，数据存放在客户自控的云基础设施中。",
+  "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+  "date": "2026-09-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-09-01T23:31:00+00:00",
+  "titleEn": "Developing Enterprise Frontier Safeguards with our customers",
+  "titleZh": "与客户共同开发企业前沿安全保障",
+  "details": {
+    "overview": "Anthropic宣布推出Enterprise Frontier Safeguards（EFS），将零数据保留的隐私性与检测滥用的安全监控结合，数据存放在客户自控的云基础设施中。原文称该方案与百余家客户及AWS、谷歌云、微软Azure合作设计，支持Claude Code、Claude Enterprise、Amazon Bedrock等平台，今秋起分阶段推出，Anthropic不收取EFS费用。原文还说明Fable 5起实行30天数据保留的原因，并强调从未未经许可用企业数据训练。",
+    "keyPoints": [
+      "EFS让客户在自有云账户存储数据并自行审查监控信号",
+      "支持Claude Code、Bedrock、Azure等多个平台，今秋分阶段推出",
+      "Anthropic称不收取EFS费用，存储等由云厂商计费"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

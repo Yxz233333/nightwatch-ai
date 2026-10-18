@@ -1,0 +1,24 @@
+{
+  "id": "12430b3037024770",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Faster Than a Click: Hyperlink Agent Search Now Available on NVIDIA RTX PCs",
+  "summary": "文章指出，基于大语言模型的AI助手是强大的生产力工具，但缺乏正确上下文和信息时难以提供细致相关的答案。",
+  "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-nexa-hyperlink-local-agent/",
+  "date": "2025-11-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-11-12T14:00:21+00:00",
+  "titleEn": "Faster Than a Click: Hyperlink Agent Search Now Available on NVIDIA RTX PCs",
+  "titleZh": "快过点击：超链接代理搜索现已在NVIDIA RTX PC上提供",
+  "details": {
+    "overview": "文章指出，基于大语言模型的AI助手是强大的生产力工具，但缺乏正确上下文和信息时难以提供细致相关的答案。多数基于LLM的聊天应用允许用户提供少量文件作为上下文，但往往无法访问散落在幻灯片、笔记、PDF和图像中的所有信息。原文摘要在此处截断，未说明超链接代理搜索的具体功能、可用范围或性能数据。",
+    "keyPoints": [
+      "基于LLM的AI助手缺乏上下文时难以提供细致相关答案",
+      "多数聊天应用仅允许用户提供少量文件作为上下文",
+      "原文未说明超链接代理搜索的具体功能与可用范围"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

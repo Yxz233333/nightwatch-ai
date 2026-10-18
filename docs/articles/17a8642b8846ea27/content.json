@@ -1,0 +1,23 @@
+{
+  "id": "17a8642b8846ea27",
+  "section": "news",
+  "category": "模型动态",
+  "title": "DeepSeek-V4-Flash-Vision-Exp Release",
+  "summary": "该官方发布说明称，多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp 已在 DeepSeek API 平台上线，属实验性模型，可通过设置 model='deepseek-v4-flash-vision-exp' 调用。",
+  "url": "https://api-docs.deepseek.com/updates/#deepseek-v4-flash-vision-exp-release",
+  "date": "2026-08-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "DeepSeek 官方更新",
+  "titleEn": "DeepSeek-V4-Flash-Vision-Exp Release",
+  "titleZh": "DeepSeek-V4-Flash-Vision-Exp 发布",
+  "details": {
+    "overview": "该官方发布说明称，多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp 已在 DeepSeek API 平台上线，属实验性模型，可通过设置 model='deepseek-v4-flash-vision-exp' 调用。原文列出 Terminal Bench 2.1、NL2Repo、DeepSWE、DSBench-Hard、AutomationBench、ApexBench、Agents' Last Exam、Chartography、ZeroBench 等基准分数，并说明纯文本能力与 DeepSeek-V4-Flash 相当，需视觉理解的智能体基准显著提升，接近 Opus-4.8。",
+    "keyPoints": [
+      "实验性多模态视觉理解模型已上线 DeepSeek API 平台。",
+      "原文列出多项基准分数，并说明测试框架与参数设置。",
+      "作者称纯文本能力与 V4-Flash 相当，视觉智能体能力显著提升。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

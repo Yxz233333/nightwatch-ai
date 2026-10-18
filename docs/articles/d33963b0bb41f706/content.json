@@ -1,0 +1,23 @@
+{
+  "id": "d33963b0bb41f706",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Files and Projects in ChatGPT Voice",
+  "summary": "ChatGPT语音中的GPT-Live现已支持文件上传和Projects。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#files-and-projects-in-chatgpt-voice",
+  "date": "2026-08-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Files and Projects in ChatGPT Voice",
+  "titleZh": "ChatGPT语音中的文件与Projects",
+  "details": {
+    "overview": "ChatGPT语音中的GPT-Live现已支持文件上传和Projects。摘要表示，用户可在语音对话中上传文件并分析其内容或就文件提问；也可在Projects中使用语音，引用近期项目对话、来源和项目指令。原文未说明支持的文件类型、大小限制、可用套餐与地区范围，这些限制需以官方原始发布为准。",
+    "keyPoints": [
+      "ChatGPT语音中的GPT-Live支持在语音对话中上传文件并分析内容。",
+      "语音可在Projects中使用，引用近期项目对话、来源与项目指令。",
+      "当前收录材料未提供文件类型、大小限制与可用范围。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

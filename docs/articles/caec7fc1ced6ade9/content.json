@@ -1,0 +1,24 @@
+{
+  "id": "caec7fc1ced6ade9",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Snap Decisions: How Open Libraries for Accelerated Data Processing Boost A/B Testing for Snapchat",
+  "summary": "Snapchat 的母公司 Snap 采用 NVIDIA 在 Google Cloud 上的开源数据处理库来加速开发，以跟上社交媒体功能快速迭代的节奏。",
+  "url": "https://blogs.nvidia.com/blog/snap-accelerated-data-processing/",
+  "date": "2026-03-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-03-17T13:00:23+00:00",
+  "titleEn": "Snap Decisions: How Open Libraries for Accelerated Data Processing Boost A/B Testing for Snapchat",
+  "titleZh": "Snap Decisions：加速数据处理的开源库如何提升 Snapchat 的 A/B 测试",
+  "details": {
+    "overview": "Snapchat 的母公司 Snap 采用 NVIDIA 在 Google Cloud 上的开源数据处理库来加速开发，以跟上社交媒体功能快速迭代的节奏。Snapchat 月活跃用户超过 9.4 亿，每个新功能上线前都要经过一系列测试。该报道介绍了 Snap 如何利用这些开源库提升 A/B 测试效率，但摘要未提供具体技术细节或量化结果。",
+    "keyPoints": [
+      "Snap 采用 NVIDIA 在 Google Cloud 上的开源数据处理库加速开发。",
+      "Snapchat 月活跃用户超 9.4 亿，新功能需经过测试流程。",
+      "开源库旨在提升 A/B 测试效率，具体效果未在摘要中量化。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

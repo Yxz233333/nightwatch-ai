@@ -1,0 +1,24 @@
+{
+  "id": "898f56856018fd91",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA DGX SuperPOD Sets the Stage for Rubin-Based Systems",
+  "summary": "NVIDIA 官方发布记录称，DGX SuperPOD 正为基于 NVIDIA Rubin 平台的大规模系统部署铺路。",
+  "url": "https://blogs.nvidia.com/blog/dgx-superpod-rubin/",
+  "date": "2026-01-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-01-05T22:50:10+00:00",
+  "titleEn": "NVIDIA DGX SuperPOD Sets the Stage for Rubin-Based Systems",
+  "titleZh": "NVIDIA DGX SuperPOD 为基于 Rubin 的系统铺路",
+  "details": {
+    "overview": "NVIDIA 官方发布记录称，DGX SuperPOD 正为基于 NVIDIA Rubin 平台的大规模系统部署铺路。在拉斯维加斯 CES 展会上，NVIDIA 推出 Rubin 平台，由六款新芯片组成，官方称其构成一台强大的 AI 超级计算机，并针对加速智能体类工作负载而设计。原文摘要在此处截断，芯片规格、性能数据与上市信息未完整呈现。",
+    "keyPoints": [
+      "DGX SuperPOD 为 Rubin 平台的大规模部署铺路。",
+      "Rubin 平台由六款新芯片组成，定位为一台 AI 超级计算机。",
+      "官方称其面向加速智能体类工作负载设计。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

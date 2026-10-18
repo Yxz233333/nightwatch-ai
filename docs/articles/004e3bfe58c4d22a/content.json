@@ -1,0 +1,25 @@
+{
+  "id": "004e3bfe58c4d22a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "New ways to buy ChatGPT ads",
+  "summary": "OpenAI 扩展 ChatGPT 广告，推出测试版自助广告管理器、按点击付费竞价和增强的衡量工具。",
+  "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+  "date": "2026-05-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-05T00:00:00+00:00",
+  "titleEn": "New ways to buy ChatGPT ads",
+  "titleZh": "购买 ChatGPT 广告的新方式",
+  "details": {
+    "overview": "OpenAI 扩展 ChatGPT 广告，推出测试版自助广告管理器、按点击付费竞价和增强的衡量工具。官方摘要称这些功能旨在保护隐私，并将对话与广告分开。当前收录材料未提供定价、覆盖范围或具体衡量指标，因此无法进一步说明投放细节与效果。",
+    "keyPoints": [
+      "推出测试版自助式广告管理器。",
+      "支持按点击付费（CPC）竞价。",
+      "提供增强衡量工具，并称保护隐私、对话与广告分离。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

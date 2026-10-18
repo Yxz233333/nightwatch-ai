@@ -1,0 +1,23 @@
+{
+  "id": "af62305ad83342ae",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Scheduled tasks can respond to app updates and be shared",
+  "summary": "官方发布记录显示，ChatGPT Work 的定时任务可通过 webhook 在受支持应用发生变化时触发，例如收到新 Gmail 邮件、Slack 频道消息或 GitHub 拉取请求变动，减少反复查看。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scheduled-tasks-can-respond-to-app-updates-and-be-shared",
+  "date": "2026-08-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Scheduled tasks can respond to app updates and be shared",
+  "titleZh": "定时任务可响应应用更新并支持分享",
+  "details": {
+    "overview": "官方发布记录显示，ChatGPT Work 的定时任务可通过 webhook 在受支持应用发生变化时触发，例如收到新 Gmail 邮件、Slack 频道消息或 GitHub 拉取请求变动，减少反复查看。用户还可分享任务，让他人查看并自定义指令、连接自己的应用并创建独立副本。Plus 和 Pro 用户可在网页、iOS 和 Android 上创建 webhook 触发任务；Free 用户最多创建三个活跃定时任务，且 Free 与 Go 用户不能创建 webhook 触发任务。",
+    "keyPoints": [
+      "定时任务可用 webhook 响应 Gmail、Slack 和 GitHub 变化",
+      "分享后接收方可自定义并创建独立副本",
+      "Free 用户最多三个活跃任务，Free 与 Go 不支持 webhook 触发"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

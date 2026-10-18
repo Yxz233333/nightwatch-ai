@@ -1,0 +1,24 @@
+{
+  "id": "b2c0f05fa3df7447",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic Economic Index report: Cadences",
+  "summary": "Anthropic 发布新一期经济指数报告，关注人们何时使用 Claude、用它产出什么，以及如何看待 AI 对工作的影响。",
+  "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
+  "date": "2026-06-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-06-26T20:08:00+00:00",
+  "titleEn": "Anthropic Economic Index report: Cadences",
+  "titleZh": "Anthropic 经济指数报告：节奏",
+  "details": {
+    "overview": "Anthropic 发布新一期经济指数报告，关注人们何时使用 Claude、用它产出什么，以及如何看待 AI 对工作的影响。原文说明因 Claude Code 与 Cowork 带来长时智能体任务，数据管线已调整，并引入每日采样遥测与 2026 年 4 月启动的调查。报告称使用节奏随工作日与周末变化，个人用途占比在周末上升，税务相关请求在申报截止日前激增。",
+    "keyPoints": [
+      "数据管线调整以覆盖长时智能体任务",
+      "周末个人用途对话占比由约 35% 升至近 50%",
+      "美国报税截止日前税务相关请求显著激增"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

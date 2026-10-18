@@ -1,0 +1,24 @@
+{
+  "id": "aa0a7afd28c1c972",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone",
+  "summary": "据原文，Coherent 在得克萨斯州谢尔曼为扩建的生产大楼举行动工仪式。",
+  "url": "https://blogs.nvidia.com/blog/coherent-texas-ai-optical/",
+  "date": "2026-06-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-16T22:10:56+00:00",
+  "titleEn": "Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone",
+  "titleZh": "Coherent 扩建得州工厂破土动工，扩大 AI 光互连产能",
+  "details": {
+    "overview": "据原文，Coherent 在得克萨斯州谢尔曼为扩建的生产大楼举行动工仪式。公司生产用于连接 AI 系统的激光器、光学元件和化合物半导体，并称运营着全球首条 6 英寸磷化铟产线（原文在此处截断）。原文将 AI 计算比作以光速运行，并强调相关光学器件在得州制造。材料未给出投资额、产能数字或投产时间，扩建的实际影响尚无法量化。",
+    "keyPoints": [
+      "Coherent 在得州谢尔曼为扩建生产大楼破土动工。",
+      "公司生产激光器、光学元件与化合物半导体，用于连接 AI 系统。",
+      "原文称其运营全球首条 6 英寸磷化铟产线，但内容在此截断。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

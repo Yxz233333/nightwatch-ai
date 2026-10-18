@@ -1,0 +1,25 @@
+{
+  "id": "ee54c017b2906a43",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+  "summary": "该文介绍两个 API 设置如何提升 GPT-5.6 在 ARC-AGI-3 基准上的表现，称通过保留推理和启用压缩提高了得分与效率。",
+  "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+  "date": "2026-07-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-29T15:00:00+00:00",
+  "titleEn": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+  "titleZh": "启用两项设置如何使我们在 ARC-AGI-3 基准上的得分增至三倍",
+  "details": {
+    "overview": "该文介绍两个 API 设置如何提升 GPT-5.6 在 ARC-AGI-3 基准上的表现，称通过保留推理和启用压缩提高了得分与效率。原始发布记录未给出具体分数、测试条件或对比基线，相关数据需以官方原文为准。",
+    "keyPoints": [
+      "两个 API 设置使 GPT-5.6 在 ARC-AGI-3 上得分提升",
+      "作者称机制涉及保留推理与启用压缩",
+      "具体分数与测试条件以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

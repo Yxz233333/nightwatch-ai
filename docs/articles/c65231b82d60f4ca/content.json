@@ -1,0 +1,25 @@
+{
+  "id": "c65231b82d60f4ca",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Commonwealth Bank of Australia builds AI fluency at scale",
+  "summary": "澳大利亚联邦银行与 OpenAI 合作，向 5 万名员工部署 ChatGPT Enterprise，以大规模构建 AI 素养，改善客户服务和欺诈响应。",
+  "url": "https://openai.com/index/commonwealth-bank-of-australia",
+  "date": "2025-12-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-09T00:00:00+00:00",
+  "titleEn": "Commonwealth Bank of Australia builds AI fluency at scale",
+  "titleZh": "澳大利亚联邦银行大规模构建 AI 素养",
+  "details": {
+    "overview": "澳大利亚联邦银行与 OpenAI 合作，向 5 万名员工部署 ChatGPT Enterprise，以大规模构建 AI 素养，改善客户服务和欺诈响应。该发布未说明部署时间表或具体成效数据。",
+    "keyPoints": [
+      "合作对象为澳大利亚联邦银行与 OpenAI。",
+      "向 5 万名员工推广 ChatGPT Enterprise。",
+      "目标包括提升客户服务与欺诈响应。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

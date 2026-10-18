@@ -1,0 +1,24 @@
+{
+  "id": "c57b721183bd57ad",
+  "section": "news",
+  "category": "模型动态",
+  "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+  "summary": "毕马威宣布与Anthropic建立全球联盟，将Claude引入其业务核心。",
+  "url": "https://www.anthropic.com/news/anthropic-kpmg",
+  "date": "2026-05-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-05-19T12:30:10.501000+00:00",
+  "titleEn": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+  "titleZh": "毕马威将Claude整合进核心业务及27.6万余名员工",
+  "details": {
+    "overview": "毕马威宣布与Anthropic建立全球联盟，将Claude引入其业务核心。毕马威将把Claude嵌入其客户工作平台Digital Gateway，首先面向税务和法律客户推出新工具；全球27.6万余名员工都将获得Claude访问权限。Anthropic还指定毕马威为私募股权领域首选合作伙伴，双方将共同为私募股权被投企业构建Claude驱动的新产品。合作还涉及网络安全领域，利用Claude发现和修复关键系统漏洞。",
+    "keyPoints": [
+      "毕马威将Claude嵌入Digital Gateway平台，先用于税务和法律客户",
+      "全球27.6万余名毕马威员工将获得Claude访问权限",
+      "双方将在私募股权和网络安全等领域共同开发产品"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

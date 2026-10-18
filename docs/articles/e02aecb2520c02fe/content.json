@@ -1,0 +1,25 @@
+{
+  "id": "e02aecb2520c02fe",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI to acquire Astral",
+  "summary": "该消息称 OpenAI 将收购 Astral，官方摘要给出的理由是加速 Codex 的成长，以驱动下一代 Python 开发者工具。",
+  "url": "https://openai.com/index/openai-to-acquire-astral",
+  "date": "2026-03-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-19T00:00:00+00:00",
+  "titleEn": "OpenAI to acquire Astral",
+  "titleZh": "OpenAI 将收购 Astral",
+  "details": {
+    "overview": "该消息称 OpenAI 将收购 Astral，官方摘要给出的理由是加速 Codex 的成长，以驱动下一代 Python 开发者工具。原始材料仅有一句概述，未披露交易金额、时间表、Astral 现有产品的后续安排，也未说明收购完成条件。因此目前只能确认收购意向与官方表述的目标方向，具体影响需以原文及后续公告为准。",
+    "keyPoints": [
+      "OpenAI 宣布将收购 Astral",
+      "官方称此举旨在加速 Codex 成长",
+      "目标指向下一代 Python 开发者工具"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

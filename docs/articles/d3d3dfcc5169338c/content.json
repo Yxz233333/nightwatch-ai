@@ -1,0 +1,25 @@
+{
+  "id": "d3d3dfcc5169338c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Omio is building the future of conversational travel",
+  "summary": "据官方发布记录，旅行平台Omio使用OpenAI技术驱动对话式旅行体验，加速产品开发，并推动公司向AI原生企业转型。",
+  "url": "https://openai.com/index/omio",
+  "date": "2026-06-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-23T00:00:00+00:00",
+  "titleEn": "How Omio is building the future of conversational travel",
+  "titleZh": "Omio如何构建对话式旅行的未来",
+  "details": {
+    "overview": "据官方发布记录，旅行平台Omio使用OpenAI技术驱动对话式旅行体验，加速产品开发，并推动公司向AI原生企业转型。原始材料未披露具体技术方案、使用规模或效果数据。",
+    "keyPoints": [
+      "Omio利用OpenAI技术打造对话式旅行体验。",
+      "该合作旨在加速产品开发并推动Omio转型为AI原生公司。",
+      "官方未披露具体技术细节或量化效果。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

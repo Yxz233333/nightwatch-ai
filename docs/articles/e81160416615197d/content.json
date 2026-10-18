@@ -1,0 +1,24 @@
+{
+  "id": "e81160416615197d",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Agentic coding and persistent returns to expertise",
+  "summary": "Anthropic 基于约 23.5 万人、约 40 万次交互会话的隐私保护分析，考察 Claude Code 的实际使用。",
+  "url": "https://www.anthropic.com/research/claude-code-expertise",
+  "date": "2026-06-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-06-16T11:00:00+00:00",
+  "titleEn": "Agentic coding and persistent returns to expertise",
+  "titleZh": "智能体编程与专业知识的持久回报",
+  "details": {
+    "overview": "Anthropic 基于约 23.5 万人、约 40 万次交互会话的隐私保护分析，考察 Claude Code 的实际使用。摘要表示，约 56% 的会话用于编写、修复或测试与编排代码，17% 用于运维软件；人平均做出约 70% 的规划决策，但仅约 20% 的执行决策。作者声称领域专长而非编程熟练度更能提升工具使用效果，专家更常成功且更易纠错，但专家与中级者差距不大。",
+    "keyPoints": [
+      "分析覆盖约 23.5 万人、约 40 万次交互会话，时间跨度为 2025 年 10 月至 2026 年 4 月。",
+      "约 56% 会话用于写、修、测试或编排代码，17% 用于运维软件。",
+      "人平均做约 70% 规划决策、20% 执行决策；作者称领域专长比编程熟练度更关键。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

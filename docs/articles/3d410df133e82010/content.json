@@ -1,0 +1,24 @@
+{
+  "id": "3d410df133e82010",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "For Robotaxis, Safety Must Be Built In, Not Bolted On",
+  "summary": "该文以无人驾驶出租车到站接客的场景开篇，讨论Robotaxi的安全设计思路。",
+  "url": "https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/",
+  "date": "2026-06-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-10T19:00:12+00:00",
+  "titleEn": "For Robotaxis, Safety Must Be Built In, Not Bolted On",
+  "titleZh": "对Robotaxi而言，安全须内建而非外挂",
+  "details": {
+    "overview": "该文以无人驾驶出租车到站接客的场景开篇，讨论Robotaxi的安全设计思路。原文可见内容仅包含编辑说明（NVIDIA DRIVE Hyperion于2026年9月更名为NVIDIA Hyperion）和引子段落，未展开具体技术方案或测试结果。因此无法确认其安全架构细节与验证情况，仅能判断文章主张安全能力应在系统设计阶段内建，而非事后附加。",
+    "keyPoints": [
+      "文章主张Robotaxi安全应在设计阶段内建，而非事后附加",
+      "原文仅提供更名说明与场景引子，未给出技术细节",
+      "涉及NVIDIA Hyperion平台，具体方案原文未展开"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

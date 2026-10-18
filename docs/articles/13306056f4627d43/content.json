@@ -1,0 +1,25 @@
+{
+  "id": "13306056f4627d43",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+  "summary": "据官方发布记录，Gemini for Science 是一组科学工具与实验的集合，目标是扩大科学探索的规模并提升其精确度。",
+  "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+  "date": "2026-05-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-05-17T13:50:34+00:00",
+  "titleEn": "Gemini for Science: AI experiments and tools for a new era of discovery",
+  "titleZh": "Gemini for Science：面向新发现时代的 AI 实验与工具",
+  "details": {
+    "overview": "据官方发布记录，Gemini for Science 是一组科学工具与实验的集合，目标是扩大科学探索的规模并提升其精确度。原文未列出具体工具名称、适用学科、使用方式或开放范围，因此只能确认其定位为科研场景的 AI 工具集合，具体功能与限制需以官方原文为准。",
+    "keyPoints": [
+      "Gemini for Science 定位为科学工具与实验的集合",
+      "目标是扩大科学探索的规模与精确度",
+      "具体工具与开放范围需以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

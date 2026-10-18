@@ -1,0 +1,25 @@
+{
+  "id": "908e17f11d616efe",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.116.0 发布",
+  "summary": "Codex CLI 0.116.0 是一次稳定版本更新，作者在更新说明中列出了新功能与修复。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.116.0",
+  "date": "2026-03-20",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-03-19T17:51:35+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.116.0 发布",
+  "titleZh": "Codex CLI 0.116.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.116.0 是一次稳定版本更新，作者在更新说明中列出了新功能与修复。新功能包括：app-server 终端界面在引导流程中支持设备码方式登录 ChatGPT 并刷新已有令牌；插件安装流程更顺畅，可提示安装缺失插件、遵循建议白名单并远程同步安装状态；新增 userpromptsubmit 钩子，可在提示执行前拦截或增强；实时会话启动时带入近期线程上下文并减少音频播放中的自我打断。修复涉及首轮卡顿、远程恢复历史、Linux 沙箱启动等。",
+    "keyPoints": [
+      "app-server TUI 支持设备码登录 ChatGPT 并可刷新令牌",
+      "新增 userpromptsubmit 钩子，可在提示执行前拦截或增强",
+      "修复首轮因 websocket 预热导致的卡顿并改进 Linux 沙箱启动"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

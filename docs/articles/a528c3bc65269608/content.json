@@ -1,0 +1,24 @@
+{
+  "id": "a528c3bc65269608",
+  "section": "news",
+  "category": "模型动态",
+  "title": "3.6 Flash: An upgraded model for your daily life",
+  "summary": "官方发布介绍Gemini 3.6 Flash，称其为Flash模型的升级版本，用于处理日常任务，例如快速分析多份文档，或借助Canvas工具完成构建可用原型等多步骤项目。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2026-07-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|3.6 Flash: An upgraded model for your daily life|2026-07-21",
+  "titleEn": "3.6 Flash: An upgraded model for your daily life",
+  "titleZh": "3.6 Flash：面向日常生活的升级模型",
+  "details": {
+    "overview": "官方发布介绍Gemini 3.6 Flash，称其为Flash模型的升级版本，用于处理日常任务，例如快速分析多份文档，或借助Canvas工具完成构建可用原型等多步骤项目。发布称该模型面向全球所有Gemini应用用户开放，用户可在模型下拉菜单中选择“3.6 Flash”。官方表示目标是让用户无需在速度与质量之间取舍，但未给出具体性能指标或评测数据。",
+    "keyPoints": [
+      "Gemini 3.6 Flash定位为面向日常任务的Flash升级版。",
+      "官方称全球Gemini应用用户可在下拉菜单中选择使用。",
+      "发布强调无需在速度与质量之间做取舍，未给出评测数据。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "3291976144a70d52",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Built to benefit everyone",
+  "summary": "该官方发布记录称，OpenAI 的资本重组旨在强化以使命为核心的治理结构，并扩大资源投入，以确保人工智能惠及所有人，同时负责任地推进创新。",
+  "url": "https://openai.com/index/built-to-benefit-everyone",
+  "date": "2025-10-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-28T06:00:00+00:00",
+  "titleEn": "Built to benefit everyone",
+  "titleZh": "为惠及所有人而构建",
+  "details": {
+    "overview": "该官方发布记录称，OpenAI 的资本重组旨在强化以使命为核心的治理结构，并扩大资源投入，以确保人工智能惠及所有人，同时负责任地推进创新。原文篇幅极短，未说明重组的具体结构、资金来源或治理安排细节，因此只能确认其对外表述的目标与方向。",
+    "keyPoints": [
+      "官方称资本重组强化以使命为核心的治理",
+      "表述目标为扩大资源使 AI 惠及所有人",
+      "强调在推进创新的同时保持负责任"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

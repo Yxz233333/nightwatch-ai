@@ -1,0 +1,25 @@
+{
+  "id": "7a8f81520a8862a4",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Mixpanel security incident: what OpenAI users need to know",
+  "summary": "OpenAI就Mixpanel安全事件发布说明，称事件涉及有限的API分析数据。",
+  "url": "https://openai.com/index/mixpanel-incident",
+  "date": "2025-11-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-26T19:00:00+00:00",
+  "titleEn": "Mixpanel security incident: what OpenAI users need to know",
+  "titleZh": "Mixpanel安全事件：OpenAI用户需要了解的内容",
+  "details": {
+    "overview": "OpenAI就Mixpanel安全事件发布说明，称事件涉及有限的API分析数据。摘要明确表示，没有API内容、凭证或支付详情遭到泄露。材料未说明受影响用户数量、事件时间线或具体补救措施。",
+    "keyPoints": [
+      "Mixpanel安全事件涉及有限的API分析数据。",
+      "未暴露API内容、凭证或支付详情。",
+      "OpenAI说明了事件情况及用户保护措施。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "40c7f6980aa71920",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.65.0 发布",
+  "summary": "Codex CLI 0.65.0 版本更新公告，主要变化包括将 Codex Max 设为默认模型并修复 TUI 中异步套同步代码引发的崩溃；新增 /resume 斜杠命令并提升恢复会话性能；提示与工具提示改用 Markdown 渲染并加粗“Tip”标签；TUI 支持 Ctrl-P/N 导航、按屏幕行数限制 shell 输出、恢复 Windows 剪贴板图片粘贴；history.jsonl 可按 history.max_bytes 裁剪，默认忽略 __pycache__ 等目录。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.65.0",
+  "date": "2025-12-05",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-12-04T18:23:17+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.65.0 发布",
+  "titleZh": "Codex CLI 0.65.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.65.0 版本更新公告，主要变化包括将 Codex Max 设为默认模型并修复 TUI 中异步套同步代码引发的崩溃；新增 /resume 斜杠命令并提升恢复会话性能；提示与工具提示改用 Markdown 渲染并加粗“Tip”标签；TUI 支持 Ctrl-P/N 导航、按屏幕行数限制 shell 输出、恢复 Windows 剪贴板图片粘贴；history.jsonl 可按 history.max_bytes 裁剪，默认忽略 __pycache__ 等目录。",
+    "keyPoints": [
+      "Codex Max 成为默认模型，并修复 TUI 异步套同步导致的崩溃。",
+      "新增 /resume 命令并优化恢复性能，便于继续此前工作。",
+      "history.jsonl 支持按 history.max_bytes 裁剪，默认忽略 __pycache__ 等目录。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

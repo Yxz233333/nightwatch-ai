@@ -1,0 +1,25 @@
+{
+  "id": "2caa9173b448de29",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Sea's View on the Future of Agentic Software Development with Codex",
+  "summary": "该行业新闻介绍 Sea Limited 首席产品官（CPO）就公司在工程团队中部署 Codex 作出说明，目标是加速亚洲地区的 AI 原生软件开发。",
+  "url": "https://openai.com/index/sea-david-chen",
+  "date": "2026-05-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-14T20:30:00+00:00",
+  "titleEn": "Sea's View on the Future of Agentic Software Development with Codex",
+  "titleZh": "Sea 对以 Codex 推进智能体式软件开发未来的看法",
+  "details": {
+    "overview": "该行业新闻介绍 Sea Limited 首席产品官（CPO）就公司在工程团队中部署 Codex 作出说明，目标是加速亚洲地区的 AI 原生软件开发。当前收录材料仅给出这一概括性表述，未披露部署规模、具体团队范围或效果数据。其意义在于反映企业级用户将 Codex 引入研发流程的动向，但实际推出范围与限制需以官方原文为准。",
+    "keyPoints": [
+      "Sea Limited 首席产品官说明在工程团队部署 Codex 的原因",
+      "目标为加速亚洲地区的 AI 原生软件开发",
+      "当前收录材料未提供部署规模、范围与效果数据"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

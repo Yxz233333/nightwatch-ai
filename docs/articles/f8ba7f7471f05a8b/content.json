@@ -1,0 +1,24 @@
+{
+  "id": "f8ba7f7471f05a8b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "A small number of samples can poison LLMs of any size",
+  "summary": "Anthropic 与英国 AI 安全研究所、艾伦·图灵研究所的联合研究指出，仅 250 份恶意文档即可在大型语言模型中植入“后门”，且与模型规模或训练数据量无关。",
+  "url": "https://www.anthropic.com/research/small-samples-poison",
+  "date": "2025-10-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-10-09T13:50:00+00:00",
+  "titleEn": "A small number of samples can poison LLMs of any size",
+  "titleZh": "少量样本即可毒化任意规模的大语言模型",
+  "details": {
+    "overview": "Anthropic 与英国 AI 安全研究所、艾伦·图灵研究所的联合研究指出，仅 250 份恶意文档即可在大型语言模型中植入“后门”，且与模型规模或训练数据量无关。研究测试了 600M 至 13B 参数模型，发现相同少量毒化文档即可生效，挑战了攻击者需控制一定比例训练数据的假设。该研究聚焦于产生乱码文本的窄后门，作者称其在前沿模型中风险有限，但希望借此推动数据毒化与防御研究。",
+    "keyPoints": [
+      "仅 250 份恶意文档即可在 600M 至 13B 参数模型中植入后门。",
+      "毒化成功所需文档数近乎恒定，与模型规模和训练数据量无关。",
+      "研究聚焦产生乱码文本的窄后门，作者称前沿模型风险有限。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

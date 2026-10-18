@@ -1,0 +1,24 @@
+{
+  "id": "0a7a2559bca2de44",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing Gemini 3 Flash, a major upgrade to your everyday AI",
+  "summary": "官方发布信息显示，Gemini 3 Flash 已成为 Gemini 应用的新默认模型，相较 Gemini 2.5 Flash 在能力上有明显提升。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2025-12-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|Introducing Gemini 3 Flash, a major upgrade to your everyday AI|2025-12-17",
+  "titleEn": "Introducing Gemini 3 Flash, a major upgrade to your everyday AI",
+  "titleZh": "Gemini 3 Flash 发布：日常 AI 体验的重大升级",
+  "details": {
+    "overview": "官方发布信息显示，Gemini 3 Flash 已成为 Gemini 应用的新默认模型，相较 Gemini 2.5 Flash 在能力上有明显提升。原文称其具备接近更大模型的推理水平，并在多模态理解上有显著进步，用户可通过图片、音频、文本等方式提问。在应用中可选择“Fast”获取快速回答，或选择“Thinking”更快处理复杂问题；Gemini 3 Pro 仍以“Pro”选项提供，被定位为高级数学与编程的最佳选择。此举意在把新一代智能带给所有用户的日常任务。",
+    "keyPoints": [
+      "Gemini 3 Flash 成为 Gemini 应用新默认模型，替代 Gemini 2.5 Flash。",
+      "原文称其推理水平接近更大模型，多模态理解显著提升。",
+      "应用内提供 Fast 与 Thinking 两种模式，Pro 仍面向高级数学与编程。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "5ee836ea9c2c1ee7",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing LifeSciBench",
+  "summary": "据摘要，LifeSciBench 是一个由专家撰写并评审的基准，用于评估 AI 系统处理真实生命科学研究任务与决策的表现。",
+  "url": "https://openai.com/index/introducing-life-sci-bench",
+  "date": "2026-06-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-17T00:00:00+00:00",
+  "titleEn": "Introducing LifeSciBench",
+  "titleZh": "推出 LifeSciBench",
+  "details": {
+    "overview": "据摘要，LifeSciBench 是一个由专家撰写并评审的基准，用于评估 AI 系统处理真实生命科学研究任务与决策的表现。原文未说明题目数量、覆盖学科、评分方式或已测试模型的结果。其意义在于为生命科学场景中的 AI 评估提供专家参与构建的测试集，但基准本身的效度与区分度仍需后续使用检验，读者应以官方原文为准。",
+    "keyPoints": [
+      "LifeSciBench 是专家撰写、专家评审的生命科学基准。",
+      "评估对象是 AI 系统在真实科研任务与决策中的表现。",
+      "当前收录材料未提供题目规模、学科覆盖与评分方式。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

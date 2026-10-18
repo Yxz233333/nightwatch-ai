@@ -1,0 +1,25 @@
+{
+  "id": "29b8cb3f61ef66ef",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Making ChatGPT better for clinicians",
+  "summary": "OpenAI 宣布面向通过验证的美国医生、执业护士和药剂师免费提供 ChatGPT for Clinicians，用于支持临床诊疗、文书记录与研究工作。",
+  "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+  "date": "2026-04-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-22T15:00:00+00:00",
+  "titleEn": "Making ChatGPT better for clinicians",
+  "titleZh": "让 ChatGPT 更好地服务临床医生",
+  "details": {
+    "overview": "OpenAI 宣布面向通过验证的美国医生、执业护士和药剂师免费提供 ChatGPT for Clinicians，用于支持临床诊疗、文书记录与研究工作。材料未说明验证方式、免费范围的具体边界、数据保护措施与可用功能清单，相关限制需以原始发布为准。",
+    "keyPoints": [
+      "面向通过验证的美国医生、执业护士与药剂师免费提供",
+      "用途定位为临床诊疗、文书记录与研究支持",
+      "验证方式、功能范围与数据保护细节当前收录材料未提供"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

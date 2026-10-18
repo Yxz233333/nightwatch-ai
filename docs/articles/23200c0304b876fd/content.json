@@ -1,0 +1,25 @@
+{
+  "id": "23200c0304b876fd",
+  "section": "news",
+  "category": "模型动态",
+  "title": "GPT-6 Astra: A new generation of intelligence",
+  "summary": "官方发布记录称 GPT-6 Astra 是迄今最智能且对齐的模型，并在计算机使用、编程、网络安全和科学方面具备最先进能力。",
+  "url": "https://openai.com/index/gpt-6-astra",
+  "date": "2026-09-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-03T11:00:00+00:00",
+  "titleEn": "GPT-6 Astra: A new generation of intelligence",
+  "titleZh": "GPT-6 Astra：新一代智能",
+  "details": {
+    "overview": "官方发布记录称 GPT-6 Astra 是迄今最智能且对齐的模型，并在计算机使用、编程、网络安全和科学方面具备最先进能力。当前收录材料仅给出这一概括性描述，未提供具体评测数据、基准结果或可用范围细节。该介绍只能说明作者声称的定位与能力方向，不能视为已获独立验证的结论，具体能力与限制需以官方原文为准。",
+    "keyPoints": [
+      "官方称 Astra 是迄今最智能且对齐的模型。",
+      "声称在计算机使用、编程、网络安全和科学方面具备最先进能力。",
+      "原文未给出具体评测数据与可用范围细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

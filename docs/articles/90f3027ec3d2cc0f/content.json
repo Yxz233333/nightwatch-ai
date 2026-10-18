@@ -1,0 +1,25 @@
+{
+  "id": "90f3027ec3d2cc0f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI announces strategic collaboration with Japan’s Digital Agency",
+  "summary": "该官方摘要称，OpenAI 与日本数字厅建立合作，旨在推动生成式 AI 在公共服务中的应用，支持国际 AI 治理，并促进全球范围内安全、可信的 AI 采用。",
+  "url": "https://openai.com/global-affairs/strategic-collaboration-with-japan-digital-agency",
+  "date": "2025-10-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-02T00:00:00+00:00",
+  "titleEn": "OpenAI announces strategic collaboration with Japan’s Digital Agency",
+  "titleZh": "OpenAI 宣布与日本数字厅开展战略合作",
+  "details": {
+    "overview": "该官方摘要称，OpenAI 与日本数字厅建立合作，旨在推动生成式 AI 在公共服务中的应用，支持国际 AI 治理，并促进全球范围内安全、可信的 AI 采用。材料仅提供这一概述，未说明合作的具体项目、时间表或实施范围，相关内容应以原文为准。",
+    "keyPoints": [
+      "合作方为 OpenAI 与日本数字厅",
+      "目标包括推动生成式 AI 在公共服务中的应用",
+      "同时支持国际 AI 治理与安全可信的 AI 采用"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

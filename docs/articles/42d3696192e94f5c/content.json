@@ -1,0 +1,25 @@
+{
+  "id": "42d3696192e94f5c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+  "summary": "该条目仅有标题和一句摘要，称ChatGPT现可连接可信医疗健康数据，帮助临床医生安全获取患者背景信息、医学研究资料等。",
+  "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+  "date": "2026-09-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-01T12:00:00+00:00",
+  "titleEn": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+  "titleZh": "医疗机构现可将EHR及更多行业数据接入ChatGPT",
+  "details": {
+    "overview": "该条目仅有标题和一句摘要，称ChatGPT现可连接可信医疗健康数据，帮助临床医生安全获取患者背景信息、医学研究资料等。原文未说明接入的具体数据源、合规机制、可用地区或上线时间，材料不足以评估其实际能力与限制，需以官方完整发布内容为准。",
+    "keyPoints": [
+      "ChatGPT可连接可信医疗健康数据",
+      "面向临床医生获取患者背景与医学研究信息",
+      "具体数据源与合规细节当前收录材料未提供"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

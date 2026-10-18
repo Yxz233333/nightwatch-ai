@@ -1,0 +1,25 @@
+{
+  "id": "e8a60e39779f43e8",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.42.0 发布",
+  "summary": "该发布列出 Codex CLI 0.42.0 的主要变更：引入基于 Rust SDK 的实验性 MCP 客户端，新增 responses-api-proxy 组件，加入 CODEX_SECURE_MODE=1 安全模式以限制进程可观测性，并让 codex exec 事件更明确。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.42.0",
+  "date": "2025-09-27",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-09-26T18:42:34+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.42.0 发布",
+  "titleZh": "Codex CLI 0.42.0 发布",
+  "details": {
+    "overview": "该发布列出 Codex CLI 0.42.0 的主要变更：引入基于 Rust SDK 的实验性 MCP 客户端，新增 responses-api-proxy 组件，加入 CODEX_SECURE_MODE=1 安全模式以限制进程可观测性，并让 codex exec 事件更明确。此外还包含危险命令检查、Windows 安全处理、/status 改版、无分页会话列表等体验改进，以及多项稳定性修复和内部重构。",
+    "keyPoints": [
+      "引入实验性 Rust SDK MCP 客户端与 responses-api-proxy",
+      "新增 CODEX_SECURE_MODE=1 限制进程可观测性",
+      "codex exec 事件更明确并加强危险命令检查"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

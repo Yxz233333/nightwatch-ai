@@ -1,0 +1,25 @@
+{
+  "id": "08f81190bdc47715",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.49.0 发布",
+  "summary": "Codex CLI 0.49.0 是命令行工具的稳定版本。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.49.0",
+  "date": "2025-10-25",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-10-24T18:58:35+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.49.0 发布",
+  "titleZh": "Codex CLI 0.49.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.49.0 是命令行工具的稳定版本。发布说明明确指出，与 v0.48.0 相比没有重大变更，该版本主要用于测试 Homebrew 升级脚本。因此，本次更新不包含面向用户的功能改进或问题修复，属于发布流程中的测试性版本。桌面端功能以对应公告为准。",
+    "keyPoints": [
+      "0.49.0 与 0.48.0 相比无重大变更。",
+      "该版本用于测试 Homebrew 升级脚本。",
+      "属于发布流程中的测试性版本，非功能更新。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

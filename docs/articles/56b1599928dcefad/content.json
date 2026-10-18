@@ -1,0 +1,25 @@
+{
+  "id": "56b1599928dcefad",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Addendum to GPT-5 System Card: Sensitive conversations",
+  "summary": "该官方系统卡附录称，GPT-5 在处理敏感对话方面有所改进，并引入针对情感依赖、心理健康与抗越狱能力的新基准。",
+  "url": "https://openai.com/index/gpt-5-system-card-sensitive-conversations",
+  "date": "2025-10-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-27T10:00:00+00:00",
+  "titleEn": "Addendum to GPT-5 System Card: Sensitive conversations",
+  "titleZh": "GPT-5 系统卡附录：敏感对话",
+  "details": {
+    "overview": "该官方系统卡附录称，GPT-5 在处理敏感对话方面有所改进，并引入针对情感依赖、心理健康与抗越狱能力的新基准。原文仅为摘要性描述，未给出基准名称、测试方法、具体得分或与前一版本的对比数据，因此无法评估改进幅度，也不能视为已获独立验证的结论。",
+    "keyPoints": [
+      "系统卡附录聚焦 GPT-5 处理敏感对话的改进",
+      "新增情感依赖、心理健康与抗越狱能力基准",
+      "当前收录材料未提供具体得分与对比数据"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

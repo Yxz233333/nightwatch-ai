@@ -1,0 +1,25 @@
+{
+  "id": "555336dc18838663",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Putting sign language AI into users’ hands",
+  "summary": "该官方发布内容介绍手语转文本模型 SL2T（sign-language-to-text），称其为一项突破性模型，用于为聋人和听障用户提供新的手语功能。",
+  "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+  "date": "2026-08-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-08-12T14:01:59+00:00",
+  "titleEn": "Putting sign language AI into users’ hands",
+  "titleZh": "把手语 AI 交到用户手中",
+  "details": {
+    "overview": "该官方发布内容介绍手语转文本模型 SL2T（sign-language-to-text），称其为一项突破性模型，用于为聋人和听障用户提供新的手语功能。原文未说明支持的手语种类、准确率、上线平台与可用范围，这些信息需以官方原始发布为准。",
+    "keyPoints": [
+      "推出的是手语转文本模型 SL2T。",
+      "目标用户为聋人和听障人群。",
+      "该模型为新的手语功能提供支持。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "b480f340237d7dbe",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "BBVA puts AI at the core of banking with OpenAI",
+  "summary": "该官方发布介绍西班牙对外银行（BBVA）如何将ChatGPT Enterprise扩展到10万名员工，并与OpenAI合作，加速全球范围内AI驱动的银行转型。",
+  "url": "https://openai.com/index/bbva",
+  "date": "2026-06-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-11T00:00:00+00:00",
+  "titleEn": "BBVA puts AI at the core of banking with OpenAI",
+  "titleZh": "BBVA与OpenAI合作，将AI置于银行业务核心",
+  "details": {
+    "overview": "该官方发布介绍西班牙对外银行（BBVA）如何将ChatGPT Enterprise扩展到10万名员工，并与OpenAI合作，加速全球范围内AI驱动的银行转型。现有材料仅为一句简介，未披露合作的具体范围、部署方式、时间表或效果评估，因此只能确认其主题是企业级AI在银行内部的大规模推广及双方合作意向，更多细节不足。",
+    "keyPoints": [
+      "BBVA将ChatGPT Enterprise扩展到10万名员工",
+      "BBVA与OpenAI合作推进AI驱动的银行转型",
+      "现有材料未披露部署细节与效果评估"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

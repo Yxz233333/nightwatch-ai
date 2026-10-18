@@ -1,0 +1,24 @@
+{
+  "id": "d3aab67f6b6761ac",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation",
+  "summary": "Anthropic 宣布完成 300 亿美元 G 轮融资，由 GIC 和 Coatue 领投，投后估值 3800 亿美元。",
+  "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+  "date": "2026-02-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-02-12T19:00:00+00:00",
+  "titleEn": "Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation",
+  "titleZh": "Anthropic 完成 300 亿美元 G 轮融资，投后估值 3800 亿美元",
+  "details": {
+    "overview": "Anthropic 宣布完成 300 亿美元 G 轮融资，由 GIC 和 Coatue 领投，投后估值 3800 亿美元。公司称年化收入达 140 亿美元，过去三年每年增长超 10 倍；年支出超 100 万美元的客户超过 500 家，财富 10 强中有 8 家使用 Claude。Claude Code 年化收入超 25 亿美元，自 2026 年初翻倍以上。资金将用于前沿研究、产品开发和基础设施扩展。",
+    "keyPoints": [
+      "G 轮融资 300 亿美元，由 GIC 和 Coatue 领投，投后估值 3800 亿美元。",
+      "公司称年化收入达 140 亿美元，年支出超 100 万美元的客户超过 500 家。",
+      "Claude Code 年化收入超 25 亿美元，企业使用占其收入一半以上。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

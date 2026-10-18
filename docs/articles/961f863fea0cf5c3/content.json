@@ -1,0 +1,23 @@
+{
+  "id": "961f863fea0cf5c3",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Tasks are now in Pulse",
+  "summary": "该条目为 ChatGPT 的功能更新：Tasks 允许用户设置由 ChatGPT 自动运行的提示任务，现在可在 Pulse 中集中管理。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#tasks-are-now-in-pulse",
+  "date": "2025-12-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Tasks are now in Pulse",
+  "titleZh": "Tasks 现已纳入 Pulse",
+  "details": {
+    "overview": "该条目为 ChatGPT 的功能更新：Tasks 允许用户设置由 ChatGPT 自动运行的提示任务，现在可在 Pulse 中集中管理。用户可在聊天或 Pulse 中创建任务，并在创建后随时在 Pulse 中编辑与查看。摘要注明 Pulse 仅在 ChatGPT Pro 中可用。材料未披露任务数量上限、执行频率等细节，应以官方原始发布记录为准。",
+    "keyPoints": [
+      "Tasks 可在 Pulse 中集中查看与管理",
+      "任务可在聊天或 Pulse 中创建，并随时编辑查看",
+      "Pulse 仅在 ChatGPT Pro 中可用"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

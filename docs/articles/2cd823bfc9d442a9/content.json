@@ -1,0 +1,23 @@
+{
+  "id": "2cd823bfc9d442a9",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Browser upgrades, multi-repository review, and image editing 26.727",
+  "summary": "该更新介绍 ChatGPT 桌面应用在浏览、代码审查和生成图像编辑方面的改进。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2026-07-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "Browser upgrades, multi-repository review, and image editing 26.727",
+  "titleZh": "浏览器升级、多仓库审查与图像编辑 26.727",
+  "details": {
+    "overview": "该更新介绍 ChatGPT 桌面应用在浏览、代码审查和生成图像编辑方面的改进。内置浏览器支持地址栏访问历史记录、搜索 Google，并可在设置中管理历史；Chrome 扩展支持提及打开的标签页、引入高亮文本、就 YouTube 视频提问以及右键调用 ChatGPT。多文件夹项目可跨仓库查看改动并统一审查差异；生成图像可在扩展查看器中切换 Focused 与 Canvas 视图并发送定向编辑。",
+    "keyPoints": [
+      "内置浏览器支持历史记录访问、搜索与设置管理",
+      "Chrome 扩展可提及标签页、引入高亮文本并就视频提问",
+      "多仓库项目可统一查看改动并审查差异"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

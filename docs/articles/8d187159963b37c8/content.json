@@ -1,0 +1,25 @@
+{
+  "id": "8d187159963b37c8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "The PR you would have opened yourself",
+  "summary": "该条目仅有标题“你本会自己提交的PR”，原始发布内容为空，无法确认具体研究对象、作者声称结果或研究意义。",
+  "url": "https://huggingface.co/blog/transformers-to-mlx",
+  "date": "2026-04-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-04-16T00:00:00+00:00",
+  "titleEn": "The PR you would have opened yourself",
+  "titleZh": "你本会自己提交的PR",
+  "details": {
+    "overview": "该条目仅有标题“你本会自己提交的PR”，原始发布内容为空，无法确认具体研究对象、作者声称结果或研究意义。材料不足以撰写通俗介绍，仅能保留原标题。",
+    "keyPoints": [
+      "标题指向代码拉取请求相关主题。",
+      "原始内容缺失，无法提炼具体结论。",
+      "材料不足，无法确认发布背景与范围。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

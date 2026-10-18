@@ -1,0 +1,25 @@
+{
+  "id": "48e15fd13e2632d2",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators",
+  "summary": "OpenAI与Broadcom宣布一项多年合作，将部署10吉瓦由OpenAI设计的AI加速器，并共同开发下一代系统和以太网解决方案，以在2029年前支持可扩展、高能效的AI基础设施。",
+  "url": "https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration",
+  "date": "2025-10-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-13T06:00:00+00:00",
+  "titleEn": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators",
+  "titleZh": "OpenAI与Broadcom宣布战略合作，部署10吉瓦OpenAI设计的AI加速器",
+  "details": {
+    "overview": "OpenAI与Broadcom宣布一项多年合作，将部署10吉瓦由OpenAI设计的AI加速器，并共同开发下一代系统和以太网解决方案，以在2029年前支持可扩展、高能效的AI基础设施。",
+    "keyPoints": [
+      "OpenAI与Broadcom达成多年合作",
+      "部署10吉瓦OpenAI设计的AI加速器",
+      "共同开发系统与以太网方案，目标2029年"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

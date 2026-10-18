@@ -1,0 +1,24 @@
+{
+  "id": "9d9c9f3b61fcea52",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Let skills in Gemini tackle your most repetitive tasks",
+  "summary": "谷歌宣布在全球 Gemini 聊天中推出“技能”（skills），即一组可复用的指令，用于告诉 Gemini 如何处理特定任务，相当于保存好的快捷提示。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2026-09-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|Let skills in Gemini tackle your most repetitive tasks|2026-09-30",
+  "titleEn": "Let skills in Gemini tackle your most repetitive tasks",
+  "titleZh": "让 Gemini 中的技能处理你最重复的任务",
+  "details": {
+    "overview": "谷歌宣布在全球 Gemini 聊天中推出“技能”（skills），即一组可复用的指令，用于告诉 Gemini 如何处理特定任务，相当于保存好的快捷提示。Gemini 可从对话中帮助用户创建自定义技能，并在匹配提示出现时自动运行；多个技能还可叠加使用。原文称技能将取代 Gems，并会自动迁移原有 Gems。该功能当时面向 18 岁以上用户。",
+    "keyPoints": [
+      "技能是可复用的指令集，可在匹配提示出现时自动运行。",
+      "支持从对话中创建自定义技能，并可叠加多个技能完成较大任务。",
+      "技能将取代 Gems，原有 Gems 会被自动迁移；当时面向 18 岁以上用户。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

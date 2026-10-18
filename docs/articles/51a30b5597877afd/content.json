@@ -1,0 +1,25 @@
+{
+  "id": "51a30b5597877afd",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Third-party cyber evaluations involving OpenAI models",
+  "summary": "OpenAI就近期涉及自身模型的第三方网络安全评估事件作出说明，并介绍为加强AI模型测试与评估而新增的防护措施。",
+  "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+  "date": "2026-08-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-04T19:00:00+00:00",
+  "titleEn": "Third-party cyber evaluations involving OpenAI models",
+  "titleZh": "涉及OpenAI模型的第三方网络安全评估",
+  "details": {
+    "overview": "OpenAI就近期涉及自身模型的第三方网络安全评估事件作出说明，并介绍为加强AI模型测试与评估而新增的防护措施。当前收录材料仅给出这一概述，未披露事件细节、涉及模型范围或具体防护机制，相关推出范围与限制需以官方原文为准。",
+    "keyPoints": [
+      "OpenAI说明近期涉及自身模型的第三方网络安全评估事件",
+      "官方称将新增防护措施以加强模型测试与评估",
+      "当前收录材料未提供事件细节与具体防护机制"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

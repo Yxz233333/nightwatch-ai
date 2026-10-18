@@ -1,0 +1,24 @@
+{
+  "id": "95f86d2c0877e5c4",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Starcloud Is Bringing Data Centers to Outer Space",
+  "summary": "该报道介绍NVIDIA Inception计划中的初创公司Starcloud，其设想将数据中心部署到太空。",
+  "url": "https://blogs.nvidia.com/blog/starcloud/",
+  "date": "2025-10-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-10-15T13:00:55+00:00",
+  "titleEn": "How Starcloud Is Bringing Data Centers to Outer Space",
+  "titleZh": "Starcloud如何把数据中心送上太空",
+  "details": {
+    "overview": "该报道介绍NVIDIA Inception计划中的初创公司Starcloud，其设想将数据中心部署到太空。公司预计天基数据中心可带来低至十分之一的能源成本，并减少地球上的能源消耗需求。材料仅提供这一概括性表述，未披露技术方案、部署时间表或验证数据，相关预测属于公司自身判断，尚待进一步核实。",
+    "keyPoints": [
+      "Starcloud为NVIDIA Inception计划中的初创公司。",
+      "公司预计天基数据中心能源成本可低至十分之一。",
+      "还称可减少地球上的能源消耗需求。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

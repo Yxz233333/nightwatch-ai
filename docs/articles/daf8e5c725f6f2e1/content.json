@@ -1,0 +1,24 @@
+{
+  "id": "daf8e5c725f6f2e1",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic and Teach For All launch global AI training initiative for educators",
+  "summary": "Anthropic 与 Teach For All 合作，通过 AI 素养与创作者集体（LCC）为 63 个国家的 10 万多名教育者提供 AI 工具和培训，覆盖 150 多万学生。",
+  "url": "https://www.anthropic.com/news/anthropic-teach-for-all",
+  "date": "2026-01-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-01-21T00:20:00+00:00",
+  "titleEn": "Anthropic and Teach For All launch global AI training initiative for educators",
+  "titleZh": "Anthropic 与 Teach For All 推出全球教育者 AI 培训计划",
+  "details": {
+    "overview": "Anthropic 与 Teach For All 合作，通过 AI 素养与创作者集体（LCC）为 63 个国家的 10 万多名教育者提供 AI 工具和培训，覆盖 150 多万学生。教师被视为 AI 的共同设计者，提供实地反馈以影响产品演进。计划包括 AI 素养学习系列、Claude Connect 社区和 Claude Lab 创新空间。",
+    "keyPoints": [
+      "覆盖 63 个国家、10 万多名教育者和 150 多万学生。",
+      "教师作为共同设计者，提供反馈影响 Claude 产品演进。",
+      "包含 AI 素养学习系列、Claude Connect 和 Claude Lab 三个项目。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

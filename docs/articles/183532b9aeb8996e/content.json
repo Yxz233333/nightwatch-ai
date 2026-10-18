@@ -1,0 +1,25 @@
+{
+  "id": "183532b9aeb8996e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+  "summary": "现有材料仅提供英文标题，没有摘要或原始发布内容，无法确认作者、具体方法与实验结论。",
+  "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+  "date": "2026-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-09-29T13:07:00+00:00",
+  "titleEn": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+  "titleZh": "不仅核对事实，还要核对来源：面向 MCP 智能体的来源感知验证",
+  "details": {
+    "overview": "现有材料仅提供英文标题，没有摘要或原始发布内容，无法确认作者、具体方法与实验结论。标题指向面向 MCP 智能体的验证问题，强调在核对事实之外还要核对信息来源。由于材料不足，本条目仅能说明题名所涉主题，不能介绍具体研究对象、声称结果或研究意义。",
+    "keyPoints": [
+      "标题聚焦 MCP 智能体的来源感知验证。",
+      "强调不仅核对事实，还要核对信息来源。",
+      "材料仅有标题，无法提炼具体方法与结论。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

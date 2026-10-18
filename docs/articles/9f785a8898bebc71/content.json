@@ -1,0 +1,24 @@
+{
+  "id": "9f785a8898bebc71",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Why do we take LLMs seriously as a potential source of biorisk?",
+  "summary": "Anthropic 发文解释为何将生物风险视为负责任 AI 开发的关键评估要素。",
+  "url": "https://www.anthropic.com/research/biorisk",
+  "date": "2025-09-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-09-05T00:00:00+00:00",
+  "titleEn": "Why do we take LLMs seriously as a potential source of biorisk?",
+  "titleZh": "为什么我们将 LLM 视为生物风险的潜在来源？",
+  "details": {
+    "overview": "Anthropic 发文解释为何将生物风险视为负责任 AI 开发的关键评估要素。文章指出，LLM 在生物学知识评估中接近甚至超越专家水平，且可能降低恶意行为者获取危险信息的门槛。作者强调这是低概率高影响场景，并非危言耸听，但需通过评估和防护措施加以应对。",
+    "keyPoints": [
+      "LLM 在病毒学等生物学评估中接近或超越专家水平。",
+      "AI 可能降低恶意行为者获取危险信息的门槛。",
+      "作者称生物风险属低概率高影响场景，需评估防护。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "77e7b5daba934dfa",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Building with the GPT-5 Model Series: A Practical Guide",
+  "summary": "该指南面向初创团队，说明如何迁移到 Responses API、设计智能体、调优提示词并对 GPT-5 系列模型进行引导，以构建可靠的 AI 工作流。",
+  "url": "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-with-ai",
+  "date": "2026-01-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-15T00:09:56+00:00",
+  "titleEn": "Building with the GPT-5 Model Series: A Practical Guide",
+  "titleZh": "使用 GPT-5 模型系列构建应用：实用指南",
+  "details": {
+    "overview": "该指南面向初创团队，说明如何迁移到 Responses API、设计智能体、调优提示词并对 GPT-5 系列模型进行引导，以构建可靠的 AI 工作流。原文只提供上述主题概述，未给出迁移步骤细节、效果数据或兼容性说明；具体可用范围和限制需以官方原始发布为准。",
+    "keyPoints": [
+      "面向初创团队，讲解迁移至 Responses API",
+      "涵盖智能体设计与提示词调优",
+      "目标是对 GPT-5 模型进行引导并构建可靠工作流"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

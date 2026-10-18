@@ -1,0 +1,25 @@
+{
+  "id": "7aa3bca73678a39a",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Public AI on Hugging Face Inference Providers 🔥",
+  "summary": "该消息标题显示，Public AI已接入Hugging Face推理提供商。",
+  "url": "https://huggingface.co/blog/inference-providers-publicai",
+  "date": "2025-09-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-09-17T00:00:00+00:00",
+  "titleEn": "Public AI on Hugging Face Inference Providers 🔥",
+  "titleZh": "Public AI上线Hugging Face推理提供商",
+  "details": {
+    "overview": "该消息标题显示，Public AI已接入Hugging Face推理提供商。材料未提供可用模型、接入方式、地区范围或定价等信息，具体推出范围与限制需以官方原文为准。",
+    "keyPoints": [
+      "Public AI接入Hugging Face推理提供商",
+      "材料未说明可用模型与接入细节",
+      "推出范围与限制以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "99224a24df3b1cd5",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face",
+  "summary": "现有材料仅有标题，称 Google Cloud C4 与 Intel、Hugging Face 合作，在 GPT OSS 上带来 70% 的总拥有成本（TCO）改善。",
+  "url": "https://huggingface.co/blog/gpt-oss-on-intel-xeon",
+  "date": "2025-10-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-10-16T00:00:00+00:00",
+  "titleEn": "Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face",
+  "titleZh": "Google Cloud C4 携手 Intel 与 Hugging Face，为 GPT OSS 带来 70% TCO 改善",
+  "details": {
+    "overview": "现有材料仅有标题，称 Google Cloud C4 与 Intel、Hugging Face 合作，在 GPT OSS 上带来 70% 的总拥有成本（TCO）改善。没有摘要或原始发布正文，无法确认测试条件、基准配置与具体实现方式。因此仅按标题转述该说法，不对其适用范围作推断。",
+    "keyPoints": [
+      "标题称 Google Cloud C4 在 GPT OSS 上实现 70% TCO 改善。",
+      "合作方为 Intel 与 Hugging Face。",
+      "材料无正文，测试条件与适用范围不明。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "638578aded63427a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Delivering AI-Ready Enterprise Data With GPU-Accelerated AI Storage",
+  "summary": "该文讨论将AI智能体投入生产所面临的数据障碍。",
+  "url": "https://blogs.nvidia.com/blog/ai-data-platform-gpu-accelerated-storage/",
+  "date": "2025-11-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-11-18T16:00:34+00:00",
+  "titleEn": "Delivering AI-Ready Enterprise Data With GPU-Accelerated AI Storage",
+  "titleZh": "以GPU加速的AI存储交付AI就绪的企业数据",
+  "details": {
+    "overview": "该文讨论将AI智能体投入生产所面临的数据障碍。原文引用Gartner说法称约40%的AI原型能进入生产，受访者将数据可用性与质量列为AI采用的首要障碍之一。文章以人类员工作类比，指出AI智能体同样需要安全、相关的数据支撑，并引出GPU加速AI存储用于交付AI就绪企业数据的主题。由于原文在此处截断，具体产品方案与效果未在材料中展开。",
+    "keyPoints": [
+      "原文引用Gartner称约40%的AI原型能进入生产。",
+      "数据可用性与质量被列为AI采用的首要障碍之一。",
+      "主张AI智能体需要安全、相关的数据支撑。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

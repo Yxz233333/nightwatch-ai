@@ -1,0 +1,24 @@
+{
+  "id": "5112550bbec113a7",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Now Live: The World’s Most Powerful AI Factory for Pharmaceutical Discovery and Development",
+  "summary": "礼来本周宣布上线一座由制药公司完全自有并运营的AI工厂，称其为同类中最强，用于帮助团队更快、更准确、更大规模地推进医学进展。",
+  "url": "https://blogs.nvidia.com/blog/lilly-ai-factory-live/",
+  "date": "2026-02-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-02-26T19:00:58+00:00",
+  "titleEn": "Now Live: The World’s Most Powerful AI Factory for Pharmaceutical Discovery and Development",
+  "titleZh": "礼来推出面向药物发现与开发的最强AI工厂",
+  "details": {
+    "overview": "礼来本周宣布上线一座由制药公司完全自有并运营的AI工厂，称其为同类中最强，用于帮助团队更快、更准确、更大规模地推进医学进展。该设施名为LillyPod，原文称其为全球首个采用DGX B300系统的NVIDIA DGX SuperPOD。材料未披露算力规模、上线时间表或具体应用项目，相关推出范围与限制以原文为准。",
+    "keyPoints": [
+      "礼来上线自有并自营的AI工厂LillyPod，面向药物发现与开发。",
+      "原文称其为全球首个采用DGX B300系统的NVIDIA DGX SuperPOD。",
+      "官方称目标是让医学进展更快、更准确并达到前所未有规模。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

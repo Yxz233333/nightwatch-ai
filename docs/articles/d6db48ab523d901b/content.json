@@ -1,0 +1,24 @@
+{
+  "id": "d6db48ab523d901b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+  "summary": "Anthropic宣布在新加坡开设亚太区第五个办公室，并与新加坡数码发展及新闻部签署谅解备忘录。",
+  "url": "https://www.anthropic.com/news/singapore-office-opening",
+  "date": "2026-10-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-10-14T08:30:00+00:00",
+  "titleEn": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+  "titleZh": "Anthropic在新加坡开设办公室并与新加坡政府签署谅解备忘录",
+  "details": {
+    "overview": "Anthropic宣布在新加坡开设亚太区第五个办公室，并与新加坡数码发展及新闻部签署谅解备忘录。双方计划在AI安全、安全防护与模型评估，AI采用及影响研究，以及公共和私营部门负责任采用等方面合作。原文提到新加坡是其活跃市场之一，Claude已用于GovTech Singapore、Grab和DBS等服务；双方还将开展模型评估、测试标准和事件响应的技术交流，并支持中小企业负责任采用AI和公共部门AI能力建设。",
+    "keyPoints": [
+      "在新加坡设亚太第五个办公室，与数码发展及新闻部签MOU",
+      "合作涵盖AI安全、模型评估、采用影响研究与负责任采用",
+      "计划与新加坡AI安全机构开展模型评估等技术交流"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

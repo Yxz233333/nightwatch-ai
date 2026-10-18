@@ -1,0 +1,23 @@
+{
+  "id": "7383c5b427f4e39a",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "GPT-6 and Intelligent UI in ChatGPT",
+  "summary": "官方发布称在ChatGPT中引入GPT-6与Intelligent UI。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-6-and-intelligent-ui-in-chatgpt",
+  "date": "2026-10-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "GPT-6 and Intelligent UI in ChatGPT",
+  "titleZh": "ChatGPT中的GPT-6与智能界面",
+  "details": {
+    "overview": "官方发布称在ChatGPT中引入GPT-6与Intelligent UI。ChatGPT可结合文本、视觉与交互元素，按问题自动选择并排对比、图表或计算器、分账工具、游戏等格式，必要时仍用纯文本回答；GPT-6还能在继续思考或调用工具时先行作答并补充发现。推出方面，今日起面向Plus、Pro、Business、Enterprise在Chat标签全球上线，明日起扩展至Free与Go；企业可用性取决于管理员设置。Plus等使用GPT-6 Sol，Free与Go使用GPT-6 Luna；Pro推理选项仍用GPT-6 Astra且不支持智能界面；Work与Codex所用模型不变。",
+    "keyPoints": [
+      "ChatGPT可按问题自动组合文本、视觉与交互元素作答。",
+      "GPT-6可先作答再继续思考或调用工具并补充结果。",
+      "今日起面向Plus、Pro、Business、Enterprise上线，次日扩展至Free与Go。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

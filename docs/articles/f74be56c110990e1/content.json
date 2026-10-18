@@ -1,0 +1,25 @@
+{
+  "id": "f74be56c110990e1",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Uber uses OpenAI to help people earn smarter and book faster",
+  "summary": "这是一则企业合作类行业新闻。",
+  "url": "https://openai.com/index/uber",
+  "date": "2026-05-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-06T00:00:00+00:00",
+  "titleEn": "Uber uses OpenAI to help people earn smarter and book faster",
+  "titleZh": "Uber借助OpenAI帮助司机更聪明地赚钱、乘客更快叫车",
+  "details": {
+    "overview": "这是一则企业合作类行业新闻。官方摘要称，Uber使用OpenAI技术驱动AI助手和语音功能，在全球实时市场中帮助司机更聪明地赚钱、乘客更快完成叫车。当前收录材料未提供具体功能名称、覆盖市场、上线时间或效果数据，相关细节需以官方原始发布记录为准。",
+    "keyPoints": [
+      "Uber使用OpenAI技术驱动AI助手与语音功能",
+      "官方称其帮助司机更聪明地赚钱、乘客更快叫车",
+      "应用场景为全球实时市场"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

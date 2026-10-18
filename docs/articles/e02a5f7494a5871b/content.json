@@ -1,0 +1,25 @@
+{
+  "id": "e02a5f7494a5871b",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.111.0 发布",
+  "summary": "Codex CLI 0.111.0版本发布，新增快速模式默认启用、js_repl支持动态导入本地.js和.mjs文件、会话开始时告知模型已启用插件、App-server v2以结构化请求/响应流程暴露MCP elicitation、扩展图像工作流支持等。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.111.0",
+  "date": "2026-03-06",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-03-05T19:12:13+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.111.0 发布",
+  "titleZh": "Codex CLI 0.111.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.111.0版本发布，新增快速模式默认启用、js_repl支持动态导入本地.js和.mjs文件、会话开始时告知模型已启用插件、App-server v2以结构化请求/响应流程暴露MCP elicitation、扩展图像工作流支持等。同时修复了恢复线程时保留git上下文的问题，并新增工件工作流示例技能文档。",
+    "keyPoints": [
+      "快速模式默认启用，TUI 头部显示会话运行模式。",
+      "js_repl 支持动态导入本地 .js 和 .mjs 文件。",
+      "修复恢复线程时丢失 git 上下文的问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

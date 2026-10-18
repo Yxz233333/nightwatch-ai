@@ -1,0 +1,25 @@
+{
+  "id": "dd46e468e2b84d05",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing GPT-6 Sol and Luna",
+  "summary": "该官方发布信息介绍 GPT-6 Sol 和 Luna 两款模型，称二者将前沿智能带入日常工作，并在能力与成本之间提供不同平衡。",
+  "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+  "date": "2026-09-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-22T18:00:00+00:00",
+  "titleEn": "Introducing GPT-6 Sol and Luna",
+  "titleZh": "推出 GPT-6 Sol 与 Luna",
+  "details": {
+    "overview": "该官方发布信息介绍 GPT-6 Sol 和 Luna 两款模型，称二者将前沿智能带入日常工作，并在能力与成本之间提供不同平衡。原文未说明两款模型的具体参数、上下文长度、可用平台、定价、上线地区或基准测试结果，也未解释 Sol 与 Luna 各自的定位差异。可确认的是，发布方将两者描述为面向日常工作的前沿模型，并以能力与成本的不同组合作为区分点。相关范围与限制应以原文为准。",
+    "keyPoints": [
+      "发布 GPT-6 Sol 与 Luna 两款模型。",
+      "官方称两者面向日常工作并带来前沿智能。",
+      "两款模型在能力与成本之间提供不同平衡。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

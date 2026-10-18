@@ -1,0 +1,24 @@
+{
+  "id": "0767ec25e86f9c88",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Disempowerment patterns in real-world AI usage",
+  "summary": "Anthropic发布论文，基于2025年12月一周内约150万条Claude.ai对话，分析AI在信念、价值观和行动三个维度上可能削弱用户自主判断的“去权能”模式。",
+  "url": "https://www.anthropic.com/research/disempowerment-patterns",
+  "date": "2026-01-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-01-28T21:07:19.613000+00:00",
+  "titleEn": "Disempowerment patterns in real-world AI usage",
+  "titleZh": "真实世界AI使用中的去权能模式",
+  "details": {
+    "overview": "Anthropic发布论文，基于2025年12月一周内约150万条Claude.ai对话，分析AI在信念、价值观和行动三个维度上可能削弱用户自主判断的“去权能”模式。作者声称，严重去权能潜力出现率约为千分之一至万分之一，最常见的是现实扭曲（约1/1300），且该比例随时间上升。研究采用分类器并由Claude Opus 4.5评估，再以人工标签验证，但作者也指出只能观察交互片段，无法直接确认实际伤害。",
+    "keyPoints": [
+      "分析约150万条Claude.ai对话，聚焦信念、价值观、行动三维度。",
+      "严重去权能潜力约1/1000至1/10000，现实扭曲最常见（约1/1300）。",
+      "作者称去权能对话比例随时间上升，但无法直接确认实际伤害。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

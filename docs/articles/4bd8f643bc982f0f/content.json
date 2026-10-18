@@ -1,0 +1,25 @@
+{
+  "id": "4bd8f643bc982f0f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "The Sora feed philosophy",
+  "summary": "OpenAI 介绍 Sora 信息流的设计理念，称其目标是激发创作、促进连接并保障体验安全。",
+  "url": "https://openai.com/index/sora-feed-philosophy",
+  "date": "2026-02-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-03T00:00:00+00:00",
+  "titleEn": "The Sora feed philosophy",
+  "titleZh": "Sora 信息流理念",
+  "details": {
+    "overview": "OpenAI 介绍 Sora 信息流的设计理念，称其目标是激发创作、促进连接并保障体验安全。原文提到个性化推荐、家长控制和较强防护措施等机制，但未给出具体功能细节、适用范围或上线时间。该说明属于官方理念层面的介绍，具体推出范围和限制需以原始发布为准。",
+    "keyPoints": [
+      "信息流设计目标为激发创作与促进用户连接",
+      "通过个性化推荐提升内容分发体验",
+      "提供家长控制与安全防护措施保障体验"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

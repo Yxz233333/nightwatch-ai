@@ -1,0 +1,25 @@
+{
+  "id": "827c3507ea7308e2",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Aligning to What? Rethinking Agent Generalization in MiniMax M2",
+  "summary": "现有材料仅有标题，缺少摘要与正文，无法确认具体研究对象、方法、实验设置与作者结论。",
+  "url": "https://huggingface.co/blog/MiniMax-AI/aligning-to-what",
+  "date": "2025-10-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-10-30T10:03:45+00:00",
+  "titleEn": "Aligning to What? Rethinking Agent Generalization in MiniMax M2",
+  "titleZh": "对齐什么？重新思考 MiniMax M2 中的智能体泛化",
+  "details": {
+    "overview": "现有材料仅有标题，缺少摘要与正文，无法确认具体研究对象、方法、实验设置与作者结论。标题指向对 MiniMax M2 中智能体泛化问题的重新审视，并质疑“对齐”的目标本身，但稿件是否提出新方法、给出何种证据均不明确。以下要点仅据标题提炼，具体结论需以原文为准。",
+    "keyPoints": [
+      "标题聚焦 MiniMax M2 的智能体泛化问题",
+      "标题以“对齐什么”质疑对齐目标本身",
+      "材料不足，未提供方法、实验与结论细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

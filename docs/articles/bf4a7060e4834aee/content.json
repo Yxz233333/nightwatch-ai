@@ -1,0 +1,24 @@
+{
+  "id": "bf4a7060e4834aee",
+  "section": "news",
+  "category": "工具动态",
+  "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
+  "summary": "该条目仅有标题，原始发布内容为空，无法提供具体研究对象、作者声称结果或研究意义。",
+  "url": "https://huggingface.co/blog/openenv-turing",
+  "date": "2026-02-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-02-12T00:00:00+00:00",
+  "titleEn": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
+  "titleZh": "OpenEnv实践：在真实环境中评估工具使用型智能体",
+  "details": {
+    "overview": "该条目仅有标题，原始发布内容为空，无法提供具体研究对象、作者声称结果或研究意义。根据标题推测，内容可能涉及OpenEnv在真实环境中评估工具使用型智能体的实践，但缺乏原文依据，不应展开。",
+    "keyPoints": [
+      "原始发布内容为空，无法提炼具体要点。",
+      "标题提及OpenEnv实践与工具使用型智能体评估。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

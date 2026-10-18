@@ -1,0 +1,23 @@
+{
+  "id": "80e571a313d132b3",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "GPT-5.1 Pro: Clearer, more capable answers for complex work",
+  "summary": "该官方发布宣布将 GPT-5 Pro 更新为 GPT-5.1 Pro。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-51-pro-clearer-more-capable-answers-for-complex-work",
+  "date": "2025-11-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "GPT-5.1 Pro: Clearer, more capable answers for complex work",
+  "titleZh": "GPT-5.1 Pro：为复杂工作提供更清晰、更强大的回答",
+  "details": {
+    "overview": "该官方发布宣布将 GPT-5 Pro 更新为 GPT-5.1 Pro。原文表示，在早期测试中用户一致更偏好 GPT-5.1 Pro，尤其在写作辅助、数据科学和商业问题上评分较高，测试者强调其回答在清晰度、相关性和结构上有改进。GPT-5.1 Pro 当日起向所有 ChatGPT Pro 用户推出，并可在模型选择器中使用；GPT-5 Pro 将作为旧版模型保留 90 天后退役。",
+    "keyPoints": [
+      "GPT-5 Pro 更新为 GPT-5.1 Pro，早期测试中用户更偏好新版",
+      "测试者称其在清晰度、相关性和结构上有改进",
+      "当日起向 ChatGPT Pro 用户推出，旧版保留 90 天"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

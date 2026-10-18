@@ -1,0 +1,23 @@
+{
+  "id": "43939f0c3ab0cd18",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex MCP server removed",
+  "summary": "官方发布记录显示，codex mcp-server 命令与独立的 codex-mcp-server 二进制在 2026 年 8 月 24 日被弃用后现已移除。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2026-09-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "Codex MCP server removed",
+  "titleZh": "Codex MCP server 已移除",
+  "details": {
+    "overview": "官方发布记录显示，codex mcp-server 命令与独立的 codex-mcp-server 二进制在 2026 年 8 月 24 日被弃用后现已移除。依赖这两个命令启动的集成需在升级 Codex 前完成调整，改用 Codex app server 接入；但 app-server 命令仍属实验性，官方明确不支持生产负载。Codex 仍可通过 codex mcp 连接外部 MCP 服务器。",
+    "keyPoints": [
+      "codex mcp-server 命令与独立二进制在弃用后被移除，需在升级前更新集成。",
+      "官方建议改用 Codex app server，但该命令为实验性，不支持生产负载。",
+      "Codex 仍支持通过 codex mcp 连接外部 MCP 服务器。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

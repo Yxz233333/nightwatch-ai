@@ -1,0 +1,25 @@
+{
+  "id": "bcf3a496a7d7ff41",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.132.0 发布",
+  "summary": "Codex CLI 发布 0.132.0 稳定版本。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.132.0",
+  "date": "2026-05-20",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-05-20T01:52:52+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.132.0 发布",
+  "titleZh": "Codex CLI 0.132.0 发布",
+  "details": {
+    "overview": "Codex CLI 发布 0.132.0 稳定版本。新功能包括：Python SDK 支持一等认证，涵盖 API 密钥登录、ChatGPT 浏览器与设备码流程、账户检查及登出接口；Python 轮次 API 支持直接传入纯字符串，并返回含条目、耗时与用量数据的 TurnResult；codex exec resume 接受 --output-schema，使恢复的自动化任务在保留会话上下文的同时强制结构化 JSON 输出；TUI 启动因终端能力探测批量化而加快；远程执行器注册可使用标准 Codex 认证；应用服务器轮次可保留原始分辨率本地图像等图像保真度。修复涉及目标续跑在用量上限或重复阻塞时停止、会话选择器提示与粘贴、多会话 TUI 的 MCP 调用与征询回复路由、远程会话 WebSocket 保活与差异路径显示、Windows 安装检测与静态 CRT 链接等。",
+    "keyPoints": [
+      "Python SDK 新增一等认证与更易用的轮次 API，支持字符串输入和 TurnResult。",
+      "exec resume 支持 --output-schema，恢复会话时仍强制结构化 JSON 输出。",
+      "修复目标续跑在用量上限或重复阻塞时停止，避免循环消耗令牌。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

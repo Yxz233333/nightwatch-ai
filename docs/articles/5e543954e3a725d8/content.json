@@ -1,0 +1,25 @@
+{
+  "id": "5e543954e3a725d8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "SentinelOne cuts malware analysis from weeks to hours",
+  "summary": "该官方内容称，SentinelOne借助OpenAI Daybreak将原本数周的恶意软件分析缩短至数小时，从而腾出能力调查更多威胁。",
+  "url": "https://openai.com/index/sentinelone",
+  "date": "2026-10-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-10-14T12:00:00+00:00",
+  "titleEn": "SentinelOne cuts malware analysis from weeks to hours",
+  "titleZh": "SentinelOne将恶意软件分析从数周缩短至数小时",
+  "details": {
+    "overview": "该官方内容称，SentinelOne借助OpenAI Daybreak将原本数周的恶意软件分析缩短至数小时，从而腾出能力调查更多威胁。原文未说明具体工作流、样本规模、准确率或对比基准，相关效率提升的适用范围需以原文为准。",
+    "keyPoints": [
+      "SentinelOne使用OpenAI Daybreak加速恶意软件分析",
+      "分析时间从数周缩短至数小时",
+      "释放团队能力以调查更多威胁"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

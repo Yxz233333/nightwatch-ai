@@ -1,0 +1,24 @@
+{
+  "id": "1fddf720dd647ba2",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Make the switch: Seamlessly bring your AI memories and chat history to Gemini",
+  "summary": "该文称即日起面向所有消费者账户在设置页推出迁移工具，用户可将个人上下文、偏好和完整聊天记录从其他AI应用导入Gemini。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2026-03-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|Make the switch: Seamlessly bring your AI memories and chat history to Gemini|2026-03-26",
+  "titleEn": "Make the switch: Seamlessly bring your AI memories and chat history to Gemini",
+  "titleZh": "一键切换：将AI记忆与聊天记录无缝迁移至Gemini",
+  "details": {
+    "overview": "该文称即日起面向所有消费者账户在设置页推出迁移工具，用户可将个人上下文、偏好和完整聊天记录从其他AI应用导入Gemini。迁移记忆时，在设置中选择导入，将建议提示词粘贴到其他AI应用，再把生成的摘要复制回Gemini；也可上传其他服务商聊天记录的ZIP文件继续此前对话。此外，“过往聊天”功能将更名为“记忆”，并在未来几周内在应用中推出。原文未说明支持哪些服务商及地区限制。",
+    "keyPoints": [
+      "设置页新增迁移工具，面向所有消费者账户推出。",
+      "可通过摘要提示词或ZIP文件导入记忆与聊天记录。",
+      "“过往聊天”将更名为“记忆”，未来几周内在应用推出。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

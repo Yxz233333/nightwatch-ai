@@ -1,0 +1,24 @@
+{
+  "id": "2ed1d937748115db",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
+  "summary": "该文为NVIDIA官方发布。",
+  "url": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
+  "date": "2026-07-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-07-27T00:45:42+00:00",
+  "titleEn": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
+  "titleZh": "NVIDIA借助Vera CPU加速下一代CPU与GPU设计",
+  "details": {
+    "overview": "该文为NVIDIA官方发布。文中指出，随着工程团队开发日益复杂的CPU、GPU与AI系统，现代芯片设计复杂度持续上升。为此NVIDIA与Cadence、Synopsys合作，针对NVIDIA Vera CPU优化关键电子设计自动化（EDA）应用，并已在内部部署Vera。摘要在此截断，未给出性能提升幅度、部署规模或时间表，相关数据需以原文为准。",
+    "keyPoints": [
+      "与Cadence、Synopsys合作优化EDA应用",
+      "优化目标平台为NVIDIA Vera CPU",
+      "NVIDIA已在内部部署Vera，未披露性能数据"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "0a08360fe5b1905d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA and Thinking Machines Lab Announce Long-Term Gigawatt-Scale Strategic Partnership",
+  "summary": "NVIDIA 与 Thinking Machines Lab 宣布多年战略合作，计划部署至少一吉瓦的下一代 NVIDIA Vera Rubin 系统，用于支持 Thinking Machines 的前沿模型训练，以及提供可定制大规模 AI 的平台。",
+  "url": "https://blogs.nvidia.com/blog/nvidia-thinking-machines-lab/",
+  "date": "2026-03-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-03-10T13:00:11+00:00",
+  "titleEn": "NVIDIA and Thinking Machines Lab Announce Long-Term Gigawatt-Scale Strategic Partnership",
+  "titleZh": "NVIDIA 与 Thinking Machines Lab 宣布长期吉瓦级战略合作",
+  "details": {
+    "overview": "NVIDIA 与 Thinking Machines Lab 宣布多年战略合作，计划部署至少一吉瓦的下一代 NVIDIA Vera Rubin 系统，用于支持 Thinking Machines 的前沿模型训练，以及提供可定制大规模 AI 的平台。原文称 Vera Rubin 平台部署目标为明年年初，合作还包含其他内容，但摘要在此截断。具体条款、部署地点与范围应以官方原文为准。",
+    "keyPoints": [
+      "计划部署至少一吉瓦 Vera Rubin 系统",
+      "用于前沿模型训练与可定制 AI 平台",
+      "Vera Rubin 平台部署目标为明年年初"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

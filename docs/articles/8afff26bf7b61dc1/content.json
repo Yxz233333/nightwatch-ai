@@ -1,0 +1,25 @@
+{
+  "id": "8afff26bf7b61dc1",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Measuring benchmark optimization in speech recognition",
+  "summary": "该条目仅有标题，称关注语音识别中的基准优化测量，未提供摘要或原始发布内容。",
+  "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+  "date": "2026-08-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-08-21T00:00:00+00:00",
+  "titleEn": "Measuring benchmark optimization in speech recognition",
+  "titleZh": "衡量语音识别中的基准优化",
+  "details": {
+    "overview": "该条目仅有标题，称关注语音识别中的基准优化测量，未提供摘要或原始发布内容。因此无法说明具体研究对象、作者声称的结果及其意义。以下要点仅依据标题，信息明显不足，需查阅官方原文后再作判断。",
+    "keyPoints": [
+      "标题指向语音识别中的基准优化测量问题",
+      "缺少摘要与原文，无法确认研究方法与结论",
+      "具体结果与意义需以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

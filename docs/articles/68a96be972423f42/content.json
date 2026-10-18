@@ -1,0 +1,25 @@
+{
+  "id": "68a96be972423f42",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+  "summary": "该条目为官方发布记录，标题显示推出 OlmoEarth embeddings，支持从 OlmoEarth Studio 导出定制嵌入以供下游分析。",
+  "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+  "date": "2026-08-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-08-12T16:14:36+00:00",
+  "titleEn": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+  "titleZh": "推出 OlmoEarth embeddings：从 OlmoEarth Studio 导出定制嵌入用于下游分析",
+  "details": {
+    "overview": "该条目为官方发布记录，标题显示推出 OlmoEarth embeddings，支持从 OlmoEarth Studio 导出定制嵌入以供下游分析。但材料未提供摘要或原文，无法说明嵌入的维度、支持的数据类型、导出方式、适用用户范围及具体下游任务。相关能力与限制需以官方原文为准。",
+    "keyPoints": [
+      "官方发布 OlmoEarth embeddings 功能",
+      "支持从 OlmoEarth Studio 导出定制嵌入",
+      "材料未说明维度、数据范围与适用条件"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

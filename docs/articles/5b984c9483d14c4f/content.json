@@ -13,7 +13,7 @@
   "titleEn": "Fontaine–Mazur modularity at the prime 2",
   "titleZh": "素数2处的Fontaine–Mazur模性",
   "details": {
-    "overview": "稿件研究素数2处的Fontaine–Mazur模性猜想。作者声称，每个连续、不可约、奇的两维2-adic表示，若在有限多个素数外非分歧、在2处de Rham且Hodge–Tate权互异，则差一个Tate twist后是模的。摘要表示这解决了ℚ上奇正则二维Fontaine–Mazur猜想在2处的情形，并涵盖所有剩余表示。该结果的意义在于把模性提升定理推进到素数2这一长期困难的边界情形；但稿件尚未经独立审查，摘要未给出证明细节。",
+    "overview": "稿件研究素数2处的Fontaine–Mazur模性猜想。作者声称，每个连续、不可约、奇的两维2-adic表示，若在有限多个素数外非分歧、在2处de Rham且Hodge–Tate权互异，则差一个Tate twist后是模的。摘要表示这解决了ℚ上奇正则二维Fontaine–Mazur猜想在2处的情形，并涵盖所有剩余表示。该结果的意义在于把模性提升定理推进到素数2这一长期困难的边界情形；但稿件尚未经独立审查，当前收录摘要未给出证明细节。",
     "keyPoints": [
       "对象为ℚ上连续不可约奇二维2-adic表示，2处de Rham且Hodge–Tate权互异。",
       "作者声称此类表示在Tate twist意义下模，涵盖所有剩余表示。",

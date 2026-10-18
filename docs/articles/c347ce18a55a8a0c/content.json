@@ -1,0 +1,25 @@
+{
+  "id": "c347ce18a55a8a0c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How agents are transforming work",
+  "summary": "OpenAI 发布一篇研究论文，摘要表示该文考察 AI 智能体如何改变工作方式，称其能够承担更长、更复杂的任务，并在多种岗位中扩展生产力。",
+  "url": "https://openai.com/index/how-agents-are-transforming-work",
+  "date": "2026-06-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-25T02:00:00+00:00",
+  "titleEn": "How agents are transforming work",
+  "titleZh": "智能体如何改变工作方式",
+  "details": {
+    "overview": "OpenAI 发布一篇研究论文，摘要表示该文考察 AI 智能体如何改变工作方式，称其能够承担更长、更复杂的任务，并在多种岗位中扩展生产力。提供的材料仅为一句摘要，未说明研究方法、数据来源、样本规模或具体结论，也未提及是否经过独立验证。因此可确认的是作者声称的方向：智能体正从短任务走向长流程任务，并影响不同角色的工作效率。",
+    "keyPoints": [
+      "OpenAI 新论文聚焦 AI 智能体对工作方式的影响。",
+      "摘要称智能体可执行更长、更复杂的任务。",
+      "作者声称生产力在多种岗位中得到扩展。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

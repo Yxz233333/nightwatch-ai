@@ -1,0 +1,25 @@
+{
+  "id": "b5b79204af55ee03",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "The Defender’s Window",
+  "summary": "该条目围绕AI对网络安全的双向影响展开，指出AI正在同时改变攻击方与防御方的方式。",
+  "url": "https://openai.com/index/the-defenders-window",
+  "date": "2026-08-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-17T05:30:00+00:00",
+  "titleEn": "The Defender’s Window",
+  "titleZh": "防御者的窗口",
+  "details": {
+    "overview": "该条目围绕AI对网络安全的双向影响展开，指出AI正在同时改变攻击方与防御方的方式。摘要表示内容将介绍OpenAI如何加强自身防御，以及安全团队当前可以采取的措施。原始发布未给出具体攻击案例、防御技术细节或效果数据，相关结论需以原文为准。",
+    "keyPoints": [
+      "AI正在同时重塑攻击方与防御方的网络安全格局。",
+      "内容涉及OpenAI加强自身防御的做法。",
+      "面向安全团队给出当前可采取的措施建议。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

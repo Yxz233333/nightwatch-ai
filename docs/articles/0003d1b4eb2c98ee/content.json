@@ -1,0 +1,25 @@
+{
+  "id": "0003d1b4eb2c98ee",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Codex Security: now in research preview",
+  "summary": "Codex Security是一款AI应用安全代理，摘要称其通过分析项目上下文来检测、验证和修补复杂漏洞，旨在提高置信度并减少噪音。",
+  "url": "https://openai.com/index/codex-security-now-in-research-preview",
+  "date": "2026-03-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-06T10:00:00+00:00",
+  "titleEn": "Codex Security: now in research preview",
+  "titleZh": "Codex Security：研究预览版发布",
+  "details": {
+    "overview": "Codex Security是一款AI应用安全代理，摘要称其通过分析项目上下文来检测、验证和修补复杂漏洞，旨在提高置信度并减少噪音。目前处于研究预览阶段，具体功能范围与限制需以原文为准。",
+    "keyPoints": [
+      "定位为AI应用安全代理，强调结合项目上下文分析漏洞。",
+      "声称可检测、验证并修补复杂漏洞，降低误报噪音。",
+      "当前为研究预览版，推出范围与限制以官方原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

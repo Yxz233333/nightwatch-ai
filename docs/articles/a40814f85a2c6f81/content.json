@@ -1,0 +1,25 @@
+{
+  "id": "a40814f85a2c6f81",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Asana completed a years-long code migration in 2 weeks with Codex",
+  "summary": "该文介绍 Asana 使用 OpenAI Codex 替换一套过时的测试系统，称整个迁移在两周内完成，模型与基础设施成本约为 1.2 万美元。",
+  "url": "https://openai.com/index/asana",
+  "date": "2026-08-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-18T07:00:00+00:00",
+  "titleEn": "Asana completed a years-long code migration in 2 weeks with Codex",
+  "titleZh": "Asana 借助 Codex 两周完成历时数年的代码迁移",
+  "details": {
+    "overview": "该文介绍 Asana 使用 OpenAI Codex 替换一套过时的测试系统，称整个迁移在两周内完成，模型与基础设施成本约为 1.2 万美元。当前收录材料仅给出这一概括性结果，未披露迁移规模、具体流程、质量验证方式或可复现条件，相关细节需以官方原始发布为准。",
+    "keyPoints": [
+      "Asana 用 Codex 替换过时测试系统。",
+      "迁移在两周内完成，原文称此前历时数年。",
+      "模型与基础设施成本约 1.2 万美元。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

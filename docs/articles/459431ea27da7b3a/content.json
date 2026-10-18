@@ -1,0 +1,24 @@
+{
+  "id": "459431ea27da7b3a",
+  "section": "news",
+  "category": "工具动态",
+  "title": "AWS, Google, Microsoft and OCI Boost AI Inference Performance for Cloud Customers With NVIDIA Dynamo",
+  "summary": "该文章属于Think SMART系列，聚焦领先AI服务提供商、开发者和企业如何利用NVIDIA全栈推理平台的最新进展提升推理性能和投资回报率。",
+  "url": "https://blogs.nvidia.com/blog/think-smart-dynamo-ai-inference-data-center/",
+  "date": "2025-11-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-11-13T16:00:58+00:00",
+  "titleEn": "AWS, Google, Microsoft and OCI Boost AI Inference Performance for Cloud Customers With NVIDIA Dynamo",
+  "titleZh": "AWS、Google、Microsoft和OCI借助NVIDIA Dynamo提升云客户AI推理性能",
+  "details": {
+    "overview": "该文章属于Think SMART系列，聚焦领先AI服务提供商、开发者和企业如何利用NVIDIA全栈推理平台的最新进展提升推理性能和投资回报率。文章提及NVIDIA Blackwell提供最高性能和效率及最低总拥有成本，但摘要内容不完整，未具体说明各云厂商如何借助Dynamo提升性能的细节。",
+    "keyPoints": [
+      "文章讨论AWS、Google、Microsoft和OCI利用NVIDIA Dynamo提升AI推理性能。",
+      "NVIDIA Blackwell被描述为提供最高性能和效率及最低总拥有成本。",
+      "内容属于Think SMART系列，关注推理性能和投资回报。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

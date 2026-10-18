@@ -1,0 +1,24 @@
+{
+  "id": "4bd2f18f4177feeb",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Announcing the Anthropic Economic Index Survey",
+  "summary": "Anthropic 经济研究团队宣布启动 Anthropic 经济指数调查，通过 Anthropic Interviewer 每月随机邀请部分 Claude 用户，了解 AI 对工作、招聘和生产力的影响及未来预期。",
+  "url": "https://www.anthropic.com/research/economic-index-survey-announcement",
+  "date": "2026-04-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-04-22T14:27:03.434000+00:00",
+  "titleEn": "Announcing the Anthropic Economic Index Survey",
+  "titleZh": "宣布 Anthropic 经济指数调查",
+  "details": {
+    "overview": "Anthropic 经济研究团队宣布启动 Anthropic 经济指数调查，通过 Anthropic Interviewer 每月随机邀请部分 Claude 用户，了解 AI 对工作、招聘和生产力的影响及未来预期。调查旨在补充传统劳动统计，捕捉人们的第一手体验和观点变化。原文还提及一份基于 81,000 份开放式回答的配套报告，但未给出调查结果。",
+    "keyPoints": [
+      "启动月度调查，通过 Anthropic Interviewer 随机邀请账户满两周的 Claude 用户。",
+      "调查询问 AI 对工作、招聘、生产力及未来经济预期的影响。",
+      "数据将以隐私保护方式与 Claude 使用数据结合，用于经济研究和发布洞察。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "b1517ad8c8697417",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Creating, editing, and scheduling Sites",
+  "summary": "该公告介绍 Sites 的编辑与调度更新。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#creating-editing-and-scheduling-sites",
+  "date": "2026-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Creating, editing, and scheduling Sites",
+  "titleZh": "创建、编辑和安排 Sites",
+  "details": {
+    "overview": "该公告介绍 Sites 的编辑与调度更新。Plus 和 Pro 的站点所有者与编辑者可在桌面浏览器中从已发布站点选择“编辑站点”，继续在 ChatGPT 中编辑、审阅更改并在准备好后发布。站点所有者还可通过 Automations 创建周期性云端计划。这些更新在支持 Sites 的地区和环境中可用，原文未说明具体支持范围。",
+    "keyPoints": [
+      "Plus 和 Pro 的站点所有者与编辑者可从已发布站点继续编辑",
+      "编辑后可审阅更改并在准备好时发布",
+      "站点所有者可通过 Automations 创建周期性云端计划"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

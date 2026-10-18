@@ -1,0 +1,24 @@
+{
+  "id": "ccb07b54c0053f2b",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing Claude for Teachers",
+  "summary": "官方发布推出 Claude for Teachers，面向美国经过验证的 K-12 教育工作者免费提供高级 Claude 能力、教学技能库，以及覆盖全美 50 州学术标准、与标准对齐的课程资源。",
+  "url": "https://www.anthropic.com/news/claude-for-teachers",
+  "date": "2026-07-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-07-14T15:00:00+00:00",
+  "titleEn": "Introducing Claude for Teachers",
+  "titleZh": "推出 Claude for Teachers",
+  "details": {
+    "overview": "官方发布推出 Claude for Teachers，面向美国经过验证的 K-12 教育工作者免费提供高级 Claude 能力、教学技能库，以及覆盖全美 50 州学术标准、与标准对齐的课程资源。发布称该产品连接 Learning Commons，使 Claude 在起草教案时能按教学标准搭建支架，并接入 OpenSciEd、IM v.360 等课程资源。作者表示早期证据显示面向教师的 AI 工具可强化教学实践，但学生端 AI 工具影响不一。产品仅限教育工作者，并配有 K-12 隐私条款。",
+    "keyPoints": [
+      "美国验证通过的 K-12 教育工作者可免费使用高级 Claude 能力与教学技能库。",
+      "通过 Learning Commons 接入全美 50 州学术标准及配套课程资源。",
+      "产品仅限教育工作者，配有面向 K-12 的隐私条款与教师条款。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

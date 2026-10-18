@@ -1,0 +1,25 @@
+{
+  "id": "2a9051dc8ff4864a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing EVMbench",
+  "summary": "官方发布称，OpenAI与Paradigm联合推出EVMbench，这是一个评估AI智能体检测、修补和利用高危智能合约漏洞能力的基准。",
+  "url": "https://openai.com/index/introducing-evmbench",
+  "date": "2026-02-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-18T00:00:00+00:00",
+  "titleEn": "Introducing EVMbench",
+  "titleZh": "EVMbench 发布",
+  "details": {
+    "overview": "官方发布称，OpenAI与Paradigm联合推出EVMbench，这是一个评估AI智能体检测、修补和利用高危智能合约漏洞能力的基准。当前收录材料仅给出这一句介绍，未披露基准的任务规模、评分方式、参与模型及测试结果，也未说明是否经过独立验证。因此可确认的是基准的定位与三项评估能力，具体设计与数据需以原始发布为准。",
+    "keyPoints": [
+      "由OpenAI与Paradigm联合推出",
+      "评估AI智能体检测高危智能合约漏洞的能力",
+      "同时评估修补与利用此类漏洞的能力"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

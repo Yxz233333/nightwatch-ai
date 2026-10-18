@@ -1,0 +1,25 @@
+{
+  "id": "8d7dc57826f41802",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "From data to decisions: how LSEG is scaling trusted AI",
+  "summary": "该文介绍伦敦证券交易所集团（LSEG）如何使用OpenAI在其全球业务中规模化可信AI，以加速洞察、缩短发布周期，并赋能4000名员工。",
+  "url": "https://openai.com/index/lseg",
+  "date": "2026-06-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-10T00:00:00+00:00",
+  "titleEn": "From data to decisions: how LSEG is scaling trusted AI",
+  "titleZh": "从数据到决策：LSEG如何规模化可信AI",
+  "details": {
+    "overview": "该文介绍伦敦证券交易所集团（LSEG）如何使用OpenAI在其全球业务中规模化可信AI，以加速洞察、缩短发布周期，并赋能4000名员工。提供的材料仅为摘要，未披露具体应用场景、部署方式与效果衡量方法，相关成效表述应视为官方单方介绍，具体以原文为准。",
+    "keyPoints": [
+      "LSEG使用OpenAI在全球业务中规模化可信AI",
+      "官方称可加速洞察并缩短发布周期",
+      "覆盖4000名员工，具体场景原文未展开"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

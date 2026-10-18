@@ -1,0 +1,24 @@
+{
+  "id": "333a5274cba2bb72",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing Claude Opus 5",
+  "summary": "Anthropic 发布 Claude Opus 5，称其在编码和知识工作评估上达到新的先进水平，价格是 Claude Fable 5 的一半，但网络安全任务仍落后于 Mythos 5。",
+  "url": "https://www.anthropic.com/news/claude-opus-5",
+  "date": "2026-07-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-07-24T17:00:00+00:00",
+  "titleEn": "Introducing Claude Opus 5",
+  "titleZh": "推出 Claude Opus 5",
+  "details": {
+    "overview": "Anthropic 发布 Claude Opus 5，称其在编码和知识工作评估上达到新的先进水平，价格是 Claude Fable 5 的一半，但网络安全任务仍落后于 Mythos 5。Opus 5 与 Opus 4.8 同价，每百万输入 token 5 美元、输出 token 25 美元，并成为 Claude Max 默认模型。官方称其在 Frontier-Bench、CursorBench 等评估中表现提升，在生命科学评估中优于 Opus 4.8，并具备更强的自我验证与迭代能力。安全方面，Opus 5 不推进高风险双重用途能力前沿，网络安全分类器限制较 Fable 5 更少。",
+    "keyPoints": [
+      "Opus 5 与 Opus 4.8 同价，输入每百万 token 5 美元、输出 25 美元。",
+      "官方称其在 Frontier-Bench 和 CursorBench 等编码评估中表现领先。",
+      "网络安全任务仍落后 Mythos 5，但分类器干预频率预计比 Fable 5 低约 85%。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "3dd8fe724439dab4",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+  "summary": "该官方发布指出，日本拥有领先制造商、机器人先驱、基础设施构建者和知名游戏公司，是借助 NVIDIA 技术构建全栈 AI 的全球中心之一。",
+  "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
+  "date": "2026-07-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-07-15T10:51:37+00:00",
+  "titleEn": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+  "titleZh": "NVIDIA 与日本将全栈 AI 与机器人技术带入各行各业",
+  "details": {
+    "overview": "该官方发布指出，日本拥有领先制造商、机器人先驱、基础设施构建者和知名游戏公司，是借助 NVIDIA 技术构建全栈 AI 的全球中心之一。本周 NVIDIA 与日本合作伙伴展示当地 AI 生态系统的最新进展，并提示读者回访获取更新。原文未列出具体产品、合作项目或技术细节，也未说明适用范围与时间表，因此无法进一步介绍具体成果。",
+    "keyPoints": [
+      "日本被描述为全球 AI 中心之一，覆盖制造、机器人、基础设施与游戏等行业。",
+      "NVIDIA 与日本合作伙伴本周展示当地 AI 生态系统最新进展。",
+      "当前收录材料未提供具体产品、合作项目或技术指标，仅提示后续更新。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

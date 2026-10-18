@@ -1,0 +1,25 @@
+{
+  "id": "caa5022690781cf6",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing Trusted Access for Cyber",
+  "summary": "OpenAI 发布 Trusted Access for Cyber，一种基于信任的框架。",
+  "url": "https://openai.com/index/trusted-access-for-cyber",
+  "date": "2026-02-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-05T10:00:00+00:00",
+  "titleEn": "Introducing Trusted Access for Cyber",
+  "titleZh": "推出 Cyber 可信访问",
+  "details": {
+    "overview": "OpenAI 发布 Trusted Access for Cyber，一种基于信任的框架。官方摘要表示，该框架旨在扩大对前沿网络能力的访问，同时加强对滥用的防护。原始发布内容仅有一句概述，未披露具体准入条件、适用对象或防护机制细节，相关范围与限制需以原文为准。",
+    "keyPoints": [
+      "推出基于信任的框架 Trusted Access for Cyber",
+      "目标是扩大前沿网络能力访问并加强防滥用",
+      "当前收录材料未提供准入条件与具体防护机制细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

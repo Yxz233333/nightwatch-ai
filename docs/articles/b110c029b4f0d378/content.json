@@ -1,0 +1,25 @@
+{
+  "id": "b110c029b4f0d378",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.138.0 发布",
+  "summary": "Codex CLI 发布 0.138.0 版本。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.138.0",
+  "date": "2026-06-09",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-06-08T23:00:27+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.138.0 发布",
+  "titleZh": "Codex CLI 0.138.0 发布",
+  "details": {
+    "overview": "Codex CLI 发布 0.138.0 版本。新增 /app 命令可将当前 CLI 线程移交到 macOS 和原生 Windows 的 Codex Desktop，Windows 工作区启动可直接进入桌面端。本地图片附件与独立图片生成会向模型暴露保存路径，便于后续编辑与引用。推理强度选择更灵活，TUI 为缺少 Alt 键绑定的终端增加备用快捷键，模型定义的强度档位按模型声明顺序呈现。应用服务器集成可读取账户 token 用量，并支持 v2 个人访问令牌。插件自动化支持更多 JSON 结构化输出。另修复目标编辑多行粘贴、分叉线程标题、流式输出空白等问题。",
+    "keyPoints": [
+      "/app 命令可将 CLI 线程移交到 macOS 与 Windows 桌面端",
+      "本地图片附件与生成图片向模型暴露保存路径",
+      "推理强度支持模型定义档位及终端备用快捷键"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

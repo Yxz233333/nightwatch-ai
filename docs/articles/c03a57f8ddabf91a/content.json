@@ -1,0 +1,25 @@
+{
+  "id": "c03a57f8ddabf91a",
+  "section": "news",
+  "category": "模型动态",
+  "title": "DeepSeek-V4: a million-token context that agents can actually use",
+  "summary": "该条目标题称 DeepSeek-V4 具备智能体可实际使用的百万 token 上下文，但原始发布内容为空，仅有标题与摘要。",
+  "url": "https://huggingface.co/blog/deepseekv4",
+  "date": "2026-04-24",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-04-24T00:00:00+00:00",
+  "titleEn": "DeepSeek-V4: a million-token context that agents can actually use",
+  "titleZh": "DeepSeek-V4：智能体可实际使用的百万 token 上下文",
+  "details": {
+    "overview": "该条目标题称 DeepSeek-V4 具备智能体可实际使用的百万 token 上下文，但原始发布内容为空，仅有标题与摘要。因此无法确认模型的具体能力、评测结果、开放范围或使用限制。以下要点仅反映标题所传达的信息，具体细节需以官方原始发布为准。",
+    "keyPoints": [
+      "标题称 DeepSeek-V4 支持百万 token 上下文",
+      "标题强调该上下文可供智能体实际使用",
+      "原始发布内容为空，细节无法核实"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

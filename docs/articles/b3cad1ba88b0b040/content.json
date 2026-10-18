@@ -1,0 +1,25 @@
+{
+  "id": "b3cad1ba88b0b040",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.130.0 发布",
+  "summary": "Codex CLI 发布0.130.0稳定版本，新增插件详情展示捆绑钩子、插件分享链接元数据与可发现性控制，并加入codex remote-control作为启动无头远程可控app-server的简化入口。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.130.0",
+  "date": "2026-05-09",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-05-08T23:09:55+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.130.0 发布",
+  "titleZh": "Codex CLI 0.130.0 发布",
+  "details": {
+    "overview": "Codex CLI 发布0.130.0稳定版本，新增插件详情展示捆绑钩子、插件分享链接元数据与可发现性控制，并加入codex remote-control作为启动无头远程可控app-server的简化入口。应用服务器客户端可分页浏览大型线程，Bedrock认证支持AWS登录凭据。修复方面涉及实时线程配置刷新、补丁操作后的差异准确性、线程存储路径处理及Windows沙箱权限等。",
+    "keyPoints": [
+      "新增codex remote-control入口，用于启动无头远程可控app-server",
+      "插件详情展示捆绑钩子，分享支持链接元数据与可发现性控制",
+      "修复实时线程配置刷新、部分补丁失败后差异准确性等问题"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "4dbd335b53968a9a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Everyday work with ChatGPT Work",
+  "summary": "现有材料仅说明这是一篇介绍 ChatGPT Work 实用工作流的文章，涉及重复性任务、更新、研究、规划和团队运营等场景。",
+  "url": "https://openai.com/academy/how-to-use-chatgpt-work-for-everyday-tasks",
+  "date": "2026-04-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-23T10:00:00+00:00",
+  "titleEn": "Everyday work with ChatGPT Work",
+  "titleZh": "用 ChatGPT Work 处理日常工作",
+  "details": {
+    "overview": "现有材料仅说明这是一篇介绍 ChatGPT Work 实用工作流的文章，涉及重复性任务、更新、研究、规划和团队运营等场景。原文未给出具体操作步骤、适用条件或效果数据，因此无法进一步说明各工作流的细节。读者可将其视为面向日常办公场景的用法介绍，具体内容以原文为准。",
+    "keyPoints": [
+      "主题为 ChatGPT Work 的实用工作流。",
+      "覆盖重复任务、更新、研究、规划与团队运营等场景。",
+      "当前收录材料未提供具体步骤或效果数据。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

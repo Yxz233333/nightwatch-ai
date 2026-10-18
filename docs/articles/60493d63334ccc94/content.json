@@ -1,0 +1,25 @@
+{
+  "id": "60493d63334ccc94",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+  "summary": "现有材料仅有标题，未提供摘要或原文内容，无法确认具体研究对象、方法细节与作者声称的结果。",
+  "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+  "date": "2026-09-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-09-03T00:00:00+00:00",
+  "titleEn": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+  "titleZh": "用 100 步 GRPO 微调 350M 模型以改善结构化输出",
+  "details": {
+    "overview": "现有材料仅有标题，未提供摘要或原文内容，无法确认具体研究对象、方法细节与作者声称的结果。标题显示该稿件涉及用 100 步 GRPO 对 350M 参数模型进行微调，以改善结构化输出。由于材料不足，本介绍仅能说明标题层面的主题，不能补充实验设置、数据、评测或结论，相关细节需以原文为准。",
+    "keyPoints": [
+      "标题指向用 GRPO 微调 350M 模型以改善结构化输出。",
+      "标题提及训练步数为 100 步。",
+      "材料不足，无法确认方法细节与结果。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

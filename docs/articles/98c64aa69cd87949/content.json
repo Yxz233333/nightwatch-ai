@@ -1,0 +1,25 @@
+{
+  "id": "98c64aa69cd87949",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Our approach to age prediction",
+  "summary": "ChatGPT 正在推出年龄预测功能，用于估计账户属于 18 岁以下还是以上，并对青少年应用保护措施，同时随时间推移不断优化准确性。",
+  "url": "https://openai.com/index/our-approach-to-age-prediction",
+  "date": "2026-01-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-20T00:00:00+00:00",
+  "titleEn": "Our approach to age prediction",
+  "titleZh": "我们的年龄预测方法",
+  "details": {
+    "overview": "ChatGPT 正在推出年龄预测功能，用于估计账户属于 18 岁以下还是以上，并对青少年应用保护措施，同时随时间推移不断优化准确性。原文未详细说明模型信号、验证方式或具体保护内容，仅概述了推出目的与持续改进方向。",
+    "keyPoints": [
+      "ChatGPT 推出年龄预测以区分18岁以下与以上账户。",
+      "对青少年账户应用相应保护措施。",
+      "模型准确性将随时间持续优化。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

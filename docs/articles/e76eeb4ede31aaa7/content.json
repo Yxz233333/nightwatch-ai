@@ -1,0 +1,23 @@
+{
+  "id": "e76eeb4ede31aaa7",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Zendesk & OneNote Plugins in ChatGPT and Codex [Beta]",
+  "summary": "该条目为功能更新。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#zendesk-onenote-plugins-in-chatgpt-and-codex-beta",
+  "date": "2026-09-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Zendesk & OneNote Plugins in ChatGPT and Codex [Beta]",
+  "titleZh": "ChatGPT 与 Codex 中的 Zendesk 和 OneNote 插件（Beta）",
+  "details": {
+    "overview": "该条目为功能更新。官方表示在插件目录中新增 Zendesk 与 OneNote 两个插件，均处于 Beta 阶段。Zendesk 插件帮助团队在 ChatGPT 和 Codex 中查看支持工单与客户历史、查找相关知识并准备回复，成员需连接自己的 Zendesk 账户，仅能处理其有权访问的支持信息。OneNote 插件用于查找和总结笔记、汇总决策与行动项，并通过受支持的操作创建或更新笔记。材料未说明可用地区与套餐范围。",
+    "keyPoints": [
+      "插件目录新增 Zendesk 与 OneNote 插件，标注为 Beta",
+      "Zendesk 插件需成员连接本人账户，仅访问其有权信息",
+      "OneNote 插件支持查找总结笔记及创建更新笔记"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

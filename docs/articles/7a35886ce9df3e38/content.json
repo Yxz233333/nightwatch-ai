@@ -1,0 +1,25 @@
+{
+  "id": "7a35886ce9df3e38",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Our approach to bioresilience",
+  "summary": "Google DeepMind 与 Isomorphic Labs 表示，双方共同分享在生物韧性与 AI 模型方面的做法。",
+  "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+  "date": "2026-07-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-07-16T09:30:42+00:00",
+  "titleEn": "Our approach to bioresilience",
+  "titleZh": "我们在生物韧性方面的做法",
+  "details": {
+    "overview": "Google DeepMind 与 Isomorphic Labs 表示，双方共同分享在生物韧性与 AI 模型方面的做法。原始摘要仅说明这一联合发布，未披露具体模型、方法细节或应用范围，相关主张与限制需以官方原文为准。",
+    "keyPoints": [
+      "Google DeepMind 与 Isomorphic Labs 联合发布。",
+      "内容涉及生物韧性与 AI 模型的做法。",
+      "当前收录材料未提供具体模型与方法细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

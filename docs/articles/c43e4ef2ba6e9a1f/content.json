@@ -1,0 +1,25 @@
+{
+  "id": "c43e4ef2ba6e9a1f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+  "summary": "该条为官方发布记录，标题称NVIDIA Cosmos-H-Dreams将实时生成式仿真引入手术机器人领域。",
+  "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+  "date": "2026-07-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-07-27T09:32:20+00:00",
+  "titleEn": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+  "titleZh": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成式仿真",
+  "details": {
+    "overview": "该条为官方发布记录，标题称NVIDIA Cosmos-H-Dreams将实时生成式仿真引入手术机器人领域。提供的摘要与标题相同，sourceText为空，未包含模型架构、仿真精度、合作机构或验证结果等信息。因此只能确认这是一项面向手术机器人场景的生成式仿真方向发布，其技术细节与实际效果尚缺乏材料支撑，需以官方原文为准。",
+    "keyPoints": [
+      "官方发布，主题为手术机器人仿真",
+      "核心卖点为实时生成式仿真能力",
+      "材料未提供技术细节与验证结果"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

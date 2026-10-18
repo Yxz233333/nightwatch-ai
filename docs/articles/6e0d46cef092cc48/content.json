@@ -1,0 +1,23 @@
+{
+  "id": "6e0d46cef092cc48",
+  "section": "news",
+  "category": "模型动态",
+  "title": "DeepSeek-V3.2-Speciale",
+  "summary": "DeepSeek 发布 DeepSeek-V3.2-Speciale，通过临时接口地址提供服务，定价与 V3.2 相同，但不支持工具调用。",
+  "url": "https://api-docs.deepseek.com/updates/#deepseek-v32-speciale",
+  "date": "2025-12-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "DeepSeek 官方更新",
+  "titleEn": "DeepSeek-V3.2-Speciale",
+  "titleZh": "DeepSeek-V3.2-Speciale",
+  "details": {
+    "overview": "DeepSeek 发布 DeepSeek-V3.2-Speciale，通过临时接口地址提供服务，定价与 V3.2 相同，但不支持工具调用。该接口可用至 2025 年 12 月 15 日 15:59（UTC），官方提示更多细节需参阅相关文档。原文未说明模型能力差异、参数规模或正式上线安排，具体限制以官方发布为准。",
+    "keyPoints": [
+      "通过临时 endpoint 提供，base_url 中标注 2025 年 12 月 15 日到期。",
+      "定价与 V3.2 相同，且不支持工具调用。",
+      "可用截止时间为 2025 年 12 月 15 日 15:59（UTC）。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "eb3de8ffdb670902",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Securing the future of AI agents",
+  "summary": "原文介绍用“AI 控制路线图”保护内部系统，将传统防护措施与实时监控相结合。",
+  "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+  "date": "2026-06-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-06-16T15:46:31+00:00",
+  "titleEn": "Securing the future of AI agents",
+  "titleZh": "保障 AI 智能体的未来安全",
+  "details": {
+    "overview": "原文介绍用“AI 控制路线图”保护内部系统，将传统防护措施与实时监控相结合。材料仅给出这一概括性描述，未说明路线图的具体组成、适用系统、实施步骤或验证结果。该内容属于 AI 安全治理方向的行业动态，具体范围和限制需以官方原文为准。",
+    "keyPoints": [
+      "提出用 AI 控制路线图保护内部系统。",
+      "方法结合传统防护措施与实时监控。",
+      "当前收录材料未提供路线图的具体组成或实施细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

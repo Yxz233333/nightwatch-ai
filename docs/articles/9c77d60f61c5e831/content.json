@@ -1,0 +1,24 @@
+{
+  "id": "9c77d60f61c5e831",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Acquires Open-Source Workload Management Provider SchedMD",
+  "summary": "NVIDIA 宣布收购 SchedMD，后者是面向高性能计算与 AI 的开源工作负载管理系统 Slurm 的主要开发者。",
+  "url": "https://blogs.nvidia.com/blog/nvidia-acquires-schedmd/",
+  "date": "2025-12-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-12-15T16:30:11+00:00",
+  "titleEn": "NVIDIA Acquires Open-Source Workload Management Provider SchedMD",
+  "titleZh": "NVIDIA 收购开源工作负载管理提供商 SchedMD",
+  "details": {
+    "overview": "NVIDIA 宣布收购 SchedMD，后者是面向高性能计算与 AI 的开源工作负载管理系统 Slurm 的主要开发者。官方称此举旨在加强开源软件生态，并推动面向研究人员、开发者和企业的 AI 创新。NVIDIA 表示将继续以开源、厂商中立的方式开发和分发 Slurm。当前收录材料未提供交易金额与时间等细节，具体安排以官方完整公告为准。",
+    "keyPoints": [
+      "NVIDIA 收购 Slurm 主要开发者 SchedMD。",
+      "官方称旨在加强开源生态并推动 AI 创新。",
+      "承诺继续以开源、厂商中立方式开发和分发 Slurm。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

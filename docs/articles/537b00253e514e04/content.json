@@ -1,0 +1,24 @@
+{
+  "id": "537b00253e514e04",
+  "section": "news",
+  "category": "工具动态",
+  "title": "BigCodeArena: Judging code generations end to end with code executions",
+  "summary": "该条目标题为“BigCodeArena：通过代码执行端到端评判代码生成”，但原始发布内容为空，仅有标题和摘要。",
+  "url": "https://huggingface.co/blog/bigcode/arena",
+  "date": "2025-10-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-10-07T09:37:25+00:00",
+  "titleEn": "BigCodeArena: Judging code generations end to end with code executions",
+  "titleZh": "BigCodeArena：通过代码执行端到端评判代码生成",
+  "details": {
+    "overview": "该条目标题为“BigCodeArena：通过代码执行端到端评判代码生成”，但原始发布内容为空，仅有标题和摘要。因此无法提供关于其具体研究对象、方法、作者声称结果或研究意义的详细信息。材料不足，仅能确认其主题涉及通过代码执行来端到端评判代码生成。",
+    "keyPoints": [
+      "标题表明研究通过代码执行端到端评判代码生成",
+      "原始发布内容为空，无法提炼具体方法或结果"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

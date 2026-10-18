@@ -1,0 +1,25 @@
+{
+  "id": "15cb03fd43176fd4",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing GPT-5.2",
+  "summary": "官方发布推出GPT-5.2，称其为面向日常专业工作的最先进前沿模型，具备领先的推理、长上下文理解、编程与视觉能力。",
+  "url": "https://openai.com/index/introducing-gpt-5-2",
+  "date": "2025-12-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-11T00:00:00+00:00",
+  "titleEn": "Introducing GPT-5.2",
+  "titleZh": "推出GPT-5.2",
+  "details": {
+    "overview": "官方发布推出GPT-5.2，称其为面向日常专业工作的最先进前沿模型，具备领先的推理、长上下文理解、编程与视觉能力。原文表示可在ChatGPT和OpenAI API中使用，以支持更快、更可靠的智能体工作流。材料未给出基准测试数据、定价与具体可用范围，相关能力表述为官方声称。",
+    "keyPoints": [
+      "GPT-5.2定位为日常专业工作的前沿模型",
+      "官方称具备领先推理、长上下文、编程与视觉能力",
+      "可在ChatGPT与OpenAI API中用于智能体工作流"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

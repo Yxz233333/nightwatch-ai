@@ -1,0 +1,25 @@
+{
+  "id": "1b829d52423a8608",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex 仓库组件：Cygwin build inputs and matching source for Windows voice 测试版发布",
+  "summary": "该发布提供仅用于 CI 的构建工具，用于原生 Windows 语音版本，明确不包含在 Codex 用户包中。",
+  "url": "https://github.com/openai/codex/releases/tag/voice-cygwin-108b38cf67cbb731",
+  "date": "2026-09-11",
+  "status": "已发布的测试版本，不代表稳定版已开放。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-09-10T20:19:50+00:00",
+  "releaseChannel": "prerelease",
+  "titleEn": "Codex 仓库组件：Cygwin build inputs and matching source for Windows voice 测试版发布",
+  "titleZh": "Codex 仓库组件：Cygwin 构建输入与 Windows 语音测试版对应源码发布",
+  "details": {
+    "overview": "该发布提供仅用于 CI 的构建工具，用于原生 Windows 语音版本，明确不包含在 Codex 用户包中。内容包括 103 个固定版本 Cygwin 二进制包及签名索引、83 个对应源码包归档、二进制到源码的映射文件，以及源码访问与许可声明。二进制和源码的 SHA-256 固定值位于 Codex 仓库的语音快照文件中。此为测试版本，不代表稳定版已开放。",
+    "keyPoints": [
+      "归档仅用于 CI 构建，不包含在 Codex 用户包中。",
+      "包含 103 个固定 Cygwin 二进制包和 83 个对应源码包。",
+      "提供源码映射、许可声明及仓库中的 SHA-256 固定值。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

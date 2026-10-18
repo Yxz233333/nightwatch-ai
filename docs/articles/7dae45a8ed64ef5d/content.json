@@ -1,0 +1,24 @@
+{
+  "id": "7dae45a8ed64ef5d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How to Get Started With Visual Generative AI on NVIDIA RTX PCs",
+  "summary": "该文介绍 AI 内容生成已嵌入 Adobe、Canva 等日常工具，图像模型可稳定输出照片级真实结果，视频模型能生成长且连贯的片段，并遵循创作指令。",
+  "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-comfyui-tutorial/",
+  "date": "2026-01-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-01-22T14:00:57+00:00",
+  "titleEn": "How to Get Started With Visual Generative AI on NVIDIA RTX PCs",
+  "titleZh": "如何在 NVIDIA RTX PC 上开始使用视觉生成式 AI",
+  "details": {
+    "overview": "该文介绍 AI 内容生成已嵌入 Adobe、Canva 等日常工具，图像模型可稳定输出照片级真实结果，视频模型能生成长且连贯的片段，并遵循创作指令。创作者越来越多地在本地 RTX PC 上运行这些工作流。摘要未说明具体工具版本或性能指标。",
+    "keyPoints": [
+      "AI 内容生成已嵌入 Adobe、Canva 等日常工具。",
+      "图像模型可输出照片级真实结果，视频模型可生成长连贯片段。",
+      "创作者越来越多在本地 RTX PC 上运行工作流。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

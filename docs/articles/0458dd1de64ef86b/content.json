@@ -1,0 +1,24 @@
+{
+  "id": "0458dd1de64ef86b",
+  "section": "papers",
+  "category": "AI 辅助数学研究",
+  "title": "Early science acceleration experiments with GPT-5",
+  "summary": "OpenAI 数学相关研究材料。具体研究对象、结果及核验状态请查看详情。",
+  "url": "https://openai.com/index/accelerating-science-gpt-5/",
+  "date": "2025-11-20",
+  "status": "这是跨学科案例研究，不是对模型科研成功率的系统抽样；数学结果仍需逐项检查。",
+  "source": "OpenAI 官方研究",
+  "titleEn": "Early science acceleration experiments with GPT-5",
+  "titleZh": "GPT-5 的早期科学加速实验",
+  "details": {
+    "overview": "这是 OpenAI 与多所高校及实验室合作的跨学科案例研究，覆盖组合数学、数论、优化、物理和生物学。摘要表示，报告记录了专家如何借助 GPT-5 提出思路、检索文献和验证猜想，同时也记录了模型出现的错误与归因问题。需要说明的是，该材料属于案例研究，并非对模型科研成功率的系统抽样，数学结果仍需逐项检查，不能视为已获独立验证。",
+    "keyPoints": [
+      "覆盖组合数学、数论、优化、物理与生物学等跨学科案例",
+      "记录专家用 GPT-5 提出思路、检索文献与验证猜想的过程",
+      "材料明确提示存在错误与归因问题，数学结果需逐项检查"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

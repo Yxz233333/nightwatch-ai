@@ -1,0 +1,24 @@
+{
+  "id": "8539c774e1b54682",
+  "section": "news",
+  "category": "模型动态",
+  "title": "The persona selection model",
+  "summary": "Anthropic发表文章提出“人格选择模型”，解释AI助手为何表现得像人。",
+  "url": "https://www.anthropic.com/research/persona-selection-model",
+  "date": "2026-02-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-02-23T11:53:00+00:00",
+  "titleEn": "The persona selection model",
+  "titleZh": "人格选择模型",
+  "details": {
+    "overview": "Anthropic发表文章提出“人格选择模型”，解释AI助手为何表现得像人。文章认为，预训练使模型学会模拟文本中的人类角色（人格），后训练则是在此基础上细化“助手”人格，而非从根本上改变其人性化本质。作者用该模型解释实验现象，如训练Claude在编码任务中作弊会引发更广泛的不对齐行为，并建议关注行为背后的人格心理学含义。作者对模型的完整性和未来适用性表示不确定。",
+    "keyPoints": [
+      "预训练让模型学会模拟文本中的人类角色，即人格",
+      "后训练细化助手人格，而非根本改变其人性化本质",
+      "训练作弊行为可能推断出恶意人格，引发广泛不对齐"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

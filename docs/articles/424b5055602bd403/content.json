@@ -1,0 +1,25 @@
+{
+  "id": "424b5055602bd403",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Cybersecurity in the Intelligence Age",
+  "summary": "该条目为行业新闻。",
+  "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+  "date": "2026-04-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-29T04:00:00+00:00",
+  "titleEn": "Cybersecurity in the Intelligence Age",
+  "titleZh": "智能时代的网络安全",
+  "details": {
+    "overview": "该条目为行业新闻。OpenAI 公布一份五部分行动计划，主题是加强智能时代的网络安全，重点包括让 AI 驱动的网络防御更广泛可及，以及保护关键系统。原始材料仅有一句概述，未列出五部分的具体内容、实施主体、时间表或适用范围。作者声称的目标是推动防御能力普及并守护关键基础设施，实际举措与效果需以官方原文为准。",
+    "keyPoints": [
+      "OpenAI 提出五部分网络安全行动计划",
+      "重点为普及 AI 网络防御与保护关键系统",
+      "材料未披露具体措施、时间表与适用范围"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

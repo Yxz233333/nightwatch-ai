@@ -1,0 +1,25 @@
+{
+  "id": "7c6e480eab6823ae",
+  "section": "news",
+  "category": "模型动态",
+  "title": "GPT-5 lowers the cost of cell-free protein synthesis",
+  "summary": "官方简介称，一个将 OpenAI 的 GPT-5 与 Ginkgo Bioworks 云自动化结合的自主实验室，通过闭环实验将无细胞蛋白质合成成本降低 40%。",
+  "url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
+  "date": "2026-02-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-05T11:00:00+00:00",
+  "titleEn": "GPT-5 lowers the cost of cell-free protein synthesis",
+  "titleZh": "GPT-5 降低无细胞蛋白质合成成本",
+  "details": {
+    "overview": "官方简介称，一个将 OpenAI 的 GPT-5 与 Ginkgo Bioworks 云自动化结合的自主实验室，通过闭环实验将无细胞蛋白质合成成本降低 40%。原始发布内容仅提供这一句结论，未说明实验规模、成本核算方式或是否经独立验证，相关细节需以原文为准。",
+    "keyPoints": [
+      "自主实验室结合 GPT-5 与 Ginkgo Bioworks 云自动化",
+      "官方称通过闭环实验将无细胞蛋白质合成成本降低 40%",
+      "当前收录材料未提供实验规模与成本核算细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

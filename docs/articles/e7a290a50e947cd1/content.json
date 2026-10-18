@@ -1,0 +1,24 @@
+{
+  "id": "e7a290a50e947cd1",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Reverse engineering Claude's CVE-2026-2796 exploit",
+  "summary": "该文深入分析Claude如何为Firefox漏洞CVE-2026-2796编写利用代码。",
+  "url": "https://www.anthropic.com/research/exploit",
+  "date": "2026-03-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-03-06T00:00:00+00:00",
+  "titleEn": "Reverse engineering Claude's CVE-2026-2796 exploit",
+  "titleZh": "逆向分析 Claude 对 CVE-2026-2796 漏洞的利用",
+  "details": {
+    "overview": "该文深入分析Claude如何为Firefox漏洞CVE-2026-2796编写利用代码。作者称在测试环境中，Claude Opus 4.6在约350次尝试中成功将两个漏洞转化为利用程序，但仅能在移除部分安全特性的测试环境运行，尚不能编写绕过浏览器沙箱的完整利用链。作者认为这反映LLM网络能力提升的早期迹象。",
+    "keyPoints": [
+      "Claude Opus 4.6 在测试环境中为 CVE-2026-2796 编写了利用代码。",
+      "该利用仅能在移除部分安全特性的测试环境运行，非完整利用链。",
+      "作者称此为 LLM 网络能力提升的早期预警信号。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

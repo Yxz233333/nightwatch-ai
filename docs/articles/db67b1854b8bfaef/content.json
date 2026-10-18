@@ -1,0 +1,25 @@
+{
+  "id": "db67b1854b8bfaef",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "GLM-5.2: Built for Long-Horizon Tasks",
+  "summary": "现有材料仅有标题“GLM-5.2: Built for Long-Horizon Tasks”，没有摘要或原始发布正文，无法确认模型的具体能力、参数、发布时间与适用范围。",
+  "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+  "date": "2026-06-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-06-17T09:01:25+00:00",
+  "titleEn": "GLM-5.2: Built for Long-Horizon Tasks",
+  "titleZh": "GLM-5.2：为长周期任务而打造",
+  "details": {
+    "overview": "现有材料仅有标题“GLM-5.2: Built for Long-Horizon Tasks”，没有摘要或原始发布正文，无法确认模型的具体能力、参数、发布时间与适用范围。标题表明该模型定位为面向长周期任务，但这一说法尚缺乏可核实的细节支撑。建议读者以官方原始发布内容为准，不宜据此推断具体性能或可用性。",
+    "keyPoints": [
+      "标题显示 GLM-5.2 定位为面向长周期任务。",
+      "材料未提供模型能力、参数或发布范围的细节。",
+      "相关结论需以官方原文为准，暂无法进一步核实。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

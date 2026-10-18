@@ -1,0 +1,24 @@
+{
+  "id": "1352c50cacab15e2",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How employment is changing at Anthropic",
+  "summary": "该报告利用Anthropic内部就业、AI使用、产出指标、员工调查、日历和招聘记录等数据，并访谈17名员工，考察AI如何重塑公司工作与雇佣。",
+  "url": "https://www.anthropic.com/research/employment-at-anthropic",
+  "date": "2026-10-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-10-16T16:26:00+00:00",
+  "titleEn": "How employment is changing at Anthropic",
+  "titleZh": "Anthropic的就业变化",
+  "details": {
+    "overview": "该报告利用Anthropic内部就业、AI使用、产出指标、员工调查、日历和招聘记录等数据，并访谈17名员工，考察AI如何重塑公司工作与雇佣。摘要表示，公司快速扩张的同时，初级技术岗位相对招聘放缓，技术部门初级员工占比从2025年初的21%降至14%，初级技术招聘占比从27%降至9%；工程师和非技术员工在采用编码智能体后生产率明显跃升。招聘更强调自主性与判断力，公司还建立岗位风险预警并优先内部转岗。",
+    "keyPoints": [
+      "技术部门初级员工占比从2025年初21%降至14%，初级技术招聘占比从27%降至9%。",
+      "员工采用编码智能体后生产率明显跃升，招聘更看重自主性与判断力。",
+      "公司建立岗位风险预警系统，并优先推动内部转岗。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

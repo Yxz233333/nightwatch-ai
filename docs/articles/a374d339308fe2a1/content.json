@@ -1,0 +1,25 @@
+{
+  "id": "a374d339308fe2a1",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Brainstorming with ChatGPT",
+  "summary": "该页面介绍如何用ChatGPT进行头脑风暴：激发想法、梳理思路，并把粗略概念转化为结构化、可执行的计划。",
+  "url": "https://openai.com/academy/brainstorming",
+  "date": "2026-04-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-10T00:00:00+00:00",
+  "titleEn": "Brainstorming with ChatGPT",
+  "titleZh": "用ChatGPT进行头脑风暴",
+  "details": {
+    "overview": "该页面介绍如何用ChatGPT进行头脑风暴：激发想法、梳理思路，并把粗略概念转化为结构化、可执行的计划。原文为使用指导，未提供具体行业案例或对创意质量的评测结论。",
+    "keyPoints": [
+      "用于激发想法和梳理思路",
+      "把粗略概念转化为结构化计划",
+      "强调输出可执行，原文未给出案例"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

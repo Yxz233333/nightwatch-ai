@@ -1,0 +1,25 @@
+{
+  "id": "34c3b8c3c0c4115a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "20x Faster TRL Fine-tuning with RapidFire AI",
+  "summary": "该官方发布记录称，RapidFire AI 可将 TRL 微调速度提升至 20 倍。",
+  "url": "https://huggingface.co/blog/rapidfireai",
+  "date": "2025-11-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-11-21T00:00:00+00:00",
+  "titleEn": "20x Faster TRL Fine-tuning with RapidFire AI",
+  "titleZh": "使用 RapidFire AI 将 TRL 微调速度提升 20 倍",
+  "details": {
+    "overview": "该官方发布记录称，RapidFire AI 可将 TRL 微调速度提升至 20 倍。当前收录材料未提供具体技术细节、测试条件或适用范围，因此无法判断该加速比在何种模型、数据与硬件配置下成立。对关注大模型微调效率的开发者而言，这一说法指向训练流程加速方向，但实际效果需以官方原文和后续验证为准。",
+    "keyPoints": [
+      "官方发布称 RapidFire AI 可将 TRL 微调提速 20 倍",
+      "原文未说明测试模型、数据规模与硬件条件",
+      "推出范围和限制需以官方原始发布为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

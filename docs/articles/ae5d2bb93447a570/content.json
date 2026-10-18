@@ -1,0 +1,25 @@
+{
+  "id": "ae5d2bb93447a570",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing IndQA",
+  "summary": "OpenAI官方发布推出IndQA，这是一个用于评估AI系统在印度语言中表现的新基准。",
+  "url": "https://openai.com/index/introducing-indqa",
+  "date": "2025-11-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-03T22:30:00+00:00",
+  "titleEn": "Introducing IndQA",
+  "titleZh": "OpenAI推出IndQA",
+  "details": {
+    "overview": "OpenAI官方发布推出IndQA，这是一个用于评估AI系统在印度语言中表现的新基准。据摘要，IndQA由领域专家参与构建，覆盖12种语言和10个知识领域，测试文化理解与推理能力。当前收录材料未提供具体题目规模、评分方式或模型测试结果。",
+    "keyPoints": [
+      "IndQA是评估AI系统印度语言能力的新基准",
+      "由领域专家参与构建",
+      "覆盖12种语言和10个知识领域，测试文化理解与推理"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

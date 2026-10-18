@@ -1,0 +1,25 @@
+{
+  "id": "e8a5fd2ea8c84dd8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "From games to biology and beyond: 10 years of AlphaGo’s impact",
+  "summary": "该官方发布以 AlphaGo 问世十年为节点，回顾其影响。",
+  "url": "https://deepmind.google/blog/10-years-of-alphago/",
+  "date": "2026-03-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-03-09T13:52:36+00:00",
+  "titleEn": "From games to biology and beyond: 10 years of AlphaGo’s impact",
+  "titleZh": "从游戏到生物学及更多领域：AlphaGo 影响的十年",
+  "details": {
+    "overview": "该官方发布以 AlphaGo 问世十年为节点，回顾其影响。原文摘要表示，文章探讨 AlphaGo 如何催化科学发现，并铺就通往通用人工智能（AGI）的路径。材料仅提供这一概括性表述，未给出具体案例、数据或研究结论，因此关于其在生物学等领域的具体作用与成效，应以原始发布全文为准，不宜据此推断已获独立验证。",
+    "keyPoints": [
+      "以 AlphaGo 十年为节点进行回顾",
+      "称其正在催化科学发现",
+      "提出其铺就通往 AGI 的路径"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

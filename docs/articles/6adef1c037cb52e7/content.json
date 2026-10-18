@@ -1,0 +1,25 @@
+{
+  "id": "6adef1c037cb52e7",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.137.0 发布",
+  "summary": "Codex CLI 0.137.0 为稳定版本更新。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.137.0",
+  "date": "2026-06-04",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-06-04T01:17:20+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.137.0 发布",
+  "titleZh": "Codex CLI 0.137.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.137.0 为稳定版本更新。终端界面支持 F13–F24 快捷键、可搜索菜单粘贴和精简推理状态项；企业与管理员流程可显示月度额度并应用云端配置包；远程控制客户端可通过 app-server v2 RPC 配对并管理授权；插件支持 JSON 输出与远程目录建议缓存。另修复取消提示后草稿恢复、插件加载顺序与去重、macOS 与 Windows 启动可靠性等问题。",
+    "keyPoints": [
+      "终端界面新增 F13–F24 快捷键与可搜索菜单粘贴",
+      "企业流程支持月度额度显示与云端配置包",
+      "远程控制可通过 app-server v2 RPC 配对和管理授权"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

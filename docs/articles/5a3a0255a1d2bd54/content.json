@@ -1,0 +1,25 @@
+{
+  "id": "5a3a0255a1d2bd54",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+  "summary": "该条目标题指向机器人AI在嵌入式平台上的落地流程，涉及数据集录制、视觉-语言-动作模型微调与端侧优化三个环节。",
+  "url": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
+  "date": "2026-03-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-03-05T14:16:49+00:00",
+  "titleEn": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+  "titleZh": "将机器人AI引入嵌入式平台：数据集录制、VLA微调与端侧优化",
+  "details": {
+    "overview": "该条目标题指向机器人AI在嵌入式平台上的落地流程，涉及数据集录制、视觉-语言-动作模型微调与端侧优化三个环节。但提供的原始发布内容为空，仅有标题与摘要重复，缺少具体方法、平台、模型与结果信息，因此无法介绍其研究对象与作者声称的结论。",
+    "keyPoints": [
+      "主题涵盖数据集录制、VLA微调与端侧优化。",
+      "面向嵌入式平台部署机器人AI。",
+      "原始发布内容缺失，无法提炼具体方法与结果。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

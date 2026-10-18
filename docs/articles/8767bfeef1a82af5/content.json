@@ -1,0 +1,25 @@
+{
+  "id": "8767bfeef1a82af5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Hugging Face Models on Foundry Managed Compute",
+  "summary": "该条目仅有标题，摘要与原文正文均为空，无法确认具体研究对象、发布内容或作者声称的结果。",
+  "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+  "date": "2026-07-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-07-07T15:20:06+00:00",
+  "titleEn": "Hugging Face Models on Foundry Managed Compute",
+  "titleZh": "Foundry托管计算上的Hugging Face模型",
+  "details": {
+    "overview": "该条目仅有标题，摘要与原文正文均为空，无法确认具体研究对象、发布内容或作者声称的结果。仅从标题看，其主题可能涉及在Foundry托管计算环境中使用Hugging Face模型，但材料不足，不能推断功能、范围或意义。",
+    "keyPoints": [
+      "标题指向Foundry托管计算上的Hugging Face模型",
+      "摘要与原文正文为空，缺少可核实细节",
+      "无法确认具体功能、适用范围或结果"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "2b3e78e483d4de7a",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Toggle thinking time in the message composer",
+  "summary": "该更新称，ChatGPT为Plus、Business和Pro用户提供GPT-5思考时长控制。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle-thinking-time-in-the-message-composer",
+  "date": "2025-09-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Toggle thinking time in the message composer",
+  "titleZh": "在消息输入框中切换思考时间",
+  "details": {
+    "overview": "该更新称，ChatGPT为Plus、Business和Pro用户提供GPT-5思考时长控制。选择带思考的GPT-5后，输入框会出现思考时间切换：Standard为新默认，兼顾速度与智能；Extended为Plus此前的默认；Pro另有Light和Heavy两档。所有查询默认Standard，用户选择会被保存并用于后续查询。该切换已在chatgpt.com上线，网页设置暂不同步到移动端，iOS和Android将在未来数周支持。",
+    "keyPoints": [
+      "Plus、Business和Pro用户可在输入框选择GPT-5思考时长",
+      "Standard为新默认，Extended为Plus此前默认，Pro另有Light和Heavy",
+      "切换已在网页版上线，移动端将在未来数周支持"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

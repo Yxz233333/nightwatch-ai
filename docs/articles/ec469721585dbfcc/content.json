@@ -1,0 +1,23 @@
+{
+  "id": "ec469721585dbfcc",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "File Library in ChatGPT",
+  "summary": "ChatGPT上线文件库功能，用户上传或创建的PDF、表格、图片等文件会自动保存到Library，便于长期查找与复用。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#file-library-in-chatgpt",
+  "date": "2026-03-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "File Library in ChatGPT",
+  "titleZh": "ChatGPT文件库",
+  "details": {
+    "overview": "ChatGPT上线文件库功能，用户上传或创建的PDF、表格、图片等文件会自动保存到Library，便于长期查找与复用。用户可在输入框通过“最近文件”快速引用，或在侧边栏Library标签浏览全部已上传文件，也可直接向ChatGPT询问已保存文件的内容。Library目前仅限网页版；输入框最近文件与文件搜索支持iOS和Android。文件保留至用户删除，临时对话中的上传文件不会保存。该功能面向Plus、Pro和Business用户全球滚动推出，欧洲经济区、瑞士和英国稍后开放。",
+    "keyPoints": [
+      "上传或创建的文件自动存入Library，保留至用户手动删除",
+      "Library仅限网页版，移动端支持最近文件与文件搜索",
+      "面向Plus、Pro、Business全球滚动推出，欧洲经济区等地稍后"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

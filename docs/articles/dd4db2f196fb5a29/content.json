@@ -1,0 +1,25 @@
+{
+  "id": "dd4db2f196fb5a29",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Staying ahead in the age of AI",
+  "summary": "官方发布信息称，该内容面向领导者，讨论如何借助清晰战略、培训、治理与加速创新来建设“AI 就绪”的组织。",
+  "url": "https://openai.com/business/guides-and-resources/staying-ahead-in-the-age-of-ai",
+  "date": "2025-12-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-16T00:00:00+00:00",
+  "titleEn": "Staying ahead in the age of AI",
+  "titleZh": "在 AI 时代保持领先",
+  "details": {
+    "overview": "官方发布信息称，该内容面向领导者，讨论如何借助清晰战略、培训、治理与加速创新来建设“AI 就绪”的组织。原文仅为导语式概述，未给出具体方法框架、案例数据或效果结论，因此无法判断其建议的实际成效，需以完整原文为准。",
+    "keyPoints": [
+      "面向领导者，主题是建设 AI 就绪型组织。",
+      "提及清晰战略、培训、治理与加速创新四个方向。",
+      "原文为概述性导语，未提供具体框架或数据。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "fccb4163672139c9",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Applications for the Rosalind Academic Plan",
+  "summary": "该发布介绍 Rosalind 学术计划：符合条件的学术实验室可申请免费使用 ChatGPT 开展生命科学研究。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#applications-for-the-rosalind-academic-plan",
+  "date": "2026-10-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Applications for the Rosalind Academic Plan",
+  "titleZh": "Rosalind 学术计划开放申请",
+  "details": {
+    "overview": "该发布介绍 Rosalind 学术计划：符合条件的学术实验室可申请免费使用 ChatGPT 开展生命科学研究。获批实验室最多可获得 30 个 ChatGPT Business Standard 席位，免费期最长 12 个月，GPT-Rosalind 访问还需通过可信访问审批。申请面向美国高校实验室，由首席研究员或实验室负责人代表提交；提交申请不等于立即获得访问权限，获批后需按指引设置工作区并为成员启用访问。已纳入 OpenAI 企业协议的实验室应走所在高校的访问流程。",
+    "keyPoints": [
+      "获批实验室最多可获 30 个 ChatGPT Business Standard 席位，免费最长 12 个月。",
+      "GPT-Rosalind 访问须经可信访问审批，申请不等于立即获得权限。",
+      "申请面向美国高校实验室，由首席研究员或实验室负责人代表提交。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

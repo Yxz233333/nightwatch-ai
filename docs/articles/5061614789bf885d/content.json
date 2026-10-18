@@ -1,0 +1,24 @@
+{
+  "id": "5061614789bf885d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing Labs",
+  "summary": "Anthropic宣布扩展Labs团队，专注孵化处于Claude能力前沿的实验性产品。",
+  "url": "https://www.anthropic.com/news/introducing-anthropic-labs",
+  "date": "2026-01-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-01-13T19:05:00+00:00",
+  "titleEn": "Introducing Labs",
+  "titleZh": "Anthropic推出Labs",
+  "details": {
+    "overview": "Anthropic宣布扩展Labs团队，专注孵化处于Claude能力前沿的实验性产品。原首席产品官Mike Krieger加入Labs与Ben Mann共事，Ami Vora接手产品组织。官方称Claude Code已从研究预览成长为十亿美元级产品，MCP月下载达1亿次。原文还提到向METR提供类员工访问权限以评估系统安全，并与Hugging Face等机构初步洽谈。",
+    "keyPoints": [
+      "Labs定位为孵化Claude能力前沿的实验性产品团队",
+      "Mike Krieger转入Labs，Ami Vora领导产品组织",
+      "官方称Claude Code六个月成长为十亿美元级产品，MCP月下载1亿次"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

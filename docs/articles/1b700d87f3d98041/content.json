@@ -1,0 +1,25 @@
+{
+  "id": "1b700d87f3d98041",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Scout24 is building the next generation of real-estate search with AI",
+  "summary": "官方发布介绍Scout24基于GPT-5构建了一款对话式助手，用于重塑房产搜索体验。",
+  "url": "https://openai.com/index/scout24",
+  "date": "2025-12-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-09T16:00:00+00:00",
+  "titleEn": "How Scout24 is building the next generation of real-estate search with AI",
+  "titleZh": "Scout24如何用AI打造下一代房产搜索",
+  "details": {
+    "overview": "官方发布介绍Scout24基于GPT-5构建了一款对话式助手，用于重塑房产搜索体验。原文称该助手通过澄清性问题、摘要和个性化房源推荐引导用户。材料未披露具体技术架构、上线范围与效果数据，相关功能描述以官方原文为准。",
+    "keyPoints": [
+      "Scout24基于GPT-5构建对话式房产搜索助手",
+      "助手通过澄清性问题与摘要引导用户",
+      "提供个性化房源推荐"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

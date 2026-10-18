@@ -1,0 +1,24 @@
+{
+  "id": "16e14402383369c2",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "ABB Robotics Taps NVIDIA Omniverse to Deliver Industrial‑Grade Physical AI at Scale",
+  "summary": "ABB Robotics与NVIDIA宣布合作，将NVIDIA Omniverse库集成到ABB的RobotStudio编程与仿真套件中，使平台具备物理精确的仿真能力。",
+  "url": "https://blogs.nvidia.com/blog/abb-robotics-omniverse/",
+  "date": "2026-03-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-03-09T15:00:34+00:00",
+  "titleEn": "ABB Robotics Taps NVIDIA Omniverse to Deliver Industrial‑Grade Physical AI at Scale",
+  "titleZh": "ABB Robotics 借助 NVIDIA Omniverse 大规模交付工业级物理 AI",
+  "details": {
+    "overview": "ABB Robotics与NVIDIA宣布合作，将NVIDIA Omniverse库集成到ABB的RobotStudio编程与仿真套件中，使平台具备物理精确的仿真能力。摘要称此举可大幅缩短工程时间，并将部署成本降低最多40%。具体实施范围和客户可用性需以原文为准。",
+    "keyPoints": [
+      "ABB Robotics 与 NVIDIA 合作将 Omniverse 库集成至 RobotStudio。",
+      "集成后平台提供物理精确的仿真能力。",
+      "摘要称可大幅缩短工程时间，部署成本降低最多40%。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

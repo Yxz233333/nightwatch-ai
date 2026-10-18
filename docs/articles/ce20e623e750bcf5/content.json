@@ -1,0 +1,24 @@
+{
+  "id": "ce20e623e750bcf5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "India’s Global Systems Integrators Build Next Wave of Enterprise Agents With NVIDIA AI, Transforming Back Office and Customer Support",
+  "summary": "官方发布信息显示，智能体 AI 正在重塑印度科技行业，并在全球服务交付中带来显著提升。",
+  "url": "https://blogs.nvidia.com/blog/india-enterprise-ai-agents/",
+  "date": "2026-02-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-02-18T00:30:41+00:00",
+  "titleEn": "India’s Global Systems Integrators Build Next Wave of Enterprise Agents With NVIDIA AI, Transforming Back Office and Customer Support",
+  "titleZh": "印度全球系统集成商借助 NVIDIA AI 构建新一代企业智能体，变革后台与客户支持",
+  "details": {
+    "overview": "官方发布信息显示，智能体 AI 正在重塑印度科技行业，并在全球服务交付中带来显著提升。印度科技企业利用 NVIDIA AI Enterprise 软件和 NVIDIA Nemotron 模型，在呼叫中心、电信和医疗等行业加速提升生产力与效率。Infosys、Persistent、Tech Mahindra 和 Wipro 被列为推动业务转型的领先企业，重点改善后台等场景。当前收录材料未提供具体效率数据或部署规模。",
+    "keyPoints": [
+      "印度系统集成商利用 NVIDIA AI Enterprise 和 Nemotron 模型构建企业智能体。",
+      "应用场景覆盖呼叫中心、电信和医疗等行业。",
+      "Infosys、Persistent、Tech Mahindra 和 Wipro 被列为领先推动者。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

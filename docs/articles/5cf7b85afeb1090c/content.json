@@ -1,0 +1,25 @@
+{
+  "id": "5cf7b85afeb1090c",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing GPT-5.4 mini and nano",
+  "summary": "OpenAI 推出 GPT-5.4 mini 和 nano，它们是 GPT-5.4 的更小、更快版本，针对编码、工具使用、多模态推理以及高吞吐量 API 和子代理工作负载进行了优化。",
+  "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+  "date": "2026-03-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-17T10:00:00+00:00",
+  "titleEn": "Introducing GPT-5.4 mini and nano",
+  "titleZh": "推出 GPT-5.4 mini 和 nano",
+  "details": {
+    "overview": "OpenAI 推出 GPT-5.4 mini 和 nano，它们是 GPT-5.4 的更小、更快版本，针对编码、工具使用、多模态推理以及高吞吐量 API 和子代理工作负载进行了优化。摘要未提供具体基准测试结果或性能对比数据。",
+    "keyPoints": [
+      "GPT-5.4 mini 和 nano 是 GPT-5.4 的更小更快版本。",
+      "针对编码、工具使用和多模态推理优化。",
+      "面向高吞吐量 API 和子代理工作负载。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

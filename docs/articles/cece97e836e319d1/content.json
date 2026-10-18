@@ -1,0 +1,24 @@
+{
+  "id": "cece97e836e319d1",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic acquires Stainless",
+  "summary": "Anthropic宣布收购Stainless，后者是SDK与MCP服务器工具构建商。",
+  "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+  "date": "2026-05-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-05-18T17:02:00+00:00",
+  "titleEn": "Anthropic acquires Stainless",
+  "titleZh": "Anthropic收购Stainless",
+  "details": {
+    "overview": "Anthropic宣布收购Stainless，后者是SDK与MCP服务器工具构建商。官方称，AI前沿正从回答问题的模型转向能行动的智能体，而智能体的能力取决于可连接的系统。Stainless自Anthropic API早期起便支持生成其所有官方SDK，并能将API规范转化为TypeScript、Python、Go、Java等语言的SDK、CLI和MCP服务器。Anthropic表示，此次收购旨在增强Claude连接外部数据与工具的能力。",
+    "keyPoints": [
+      "Anthropic收购SDK与MCP服务器工具商Stainless",
+      "Stainless曾支持生成Anthropic所有官方SDK",
+      "收购旨在增强Claude连接外部数据与工具的能力"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

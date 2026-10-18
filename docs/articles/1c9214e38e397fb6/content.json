@@ -1,0 +1,25 @@
+{
+  "id": "1c9214e38e397fb6",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.142.3 发布",
+  "summary": "Codex CLI发布0.142.3版本。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.142.3",
+  "date": "2026-06-27",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-06-26T21:29:20+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.142.3 发布",
+  "titleZh": "Codex CLI 0.142.3 发布",
+  "details": {
+    "overview": "Codex CLI发布0.142.3版本。更新说明将其列为日常维护事项，并明确这是仅含维护内容的补丁版本，自0.142.2以来没有面向用户的变化，完整变更记录可在GitHub上对比0.142.2与0.142.3查看。该版本属于CLI稳定版本，桌面端功能以对应公告为准。",
+    "keyPoints": [
+      "Codex CLI发布0.142.3版本。",
+      "该版本为仅含维护内容的补丁版本，无面向用户变化。",
+      "完整变更记录可在GitHub对比0.142.2与0.142.3查看。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "da4c9b3ad1dba14d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Paint It Blackwell: GeForce RTX 5080 SuperPOD Rollout Begins",
+  "summary": "英伟达宣布 GeForce NOW 云游戏平台开始部署基于 Blackwell 架构的 GeForce RTX 5080 级 SuperPOD 服务器。",
+  "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-blackwell-rtx-launch/",
+  "date": "2025-09-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-09-10T13:00:06+00:00",
+  "titleEn": "Paint It Blackwell: GeForce RTX 5080 SuperPOD Rollout Begins",
+  "titleZh": "Paint It Blackwell：GeForce RTX 5080 SuperPOD 开始部署",
+  "details": {
+    "overview": "英伟达宣布 GeForce NOW 云游戏平台开始部署基于 Blackwell 架构的 GeForce RTX 5080 级 SuperPOD 服务器。官方表示，GeForce NOW Ultimate 会员将陆续在就近服务器上获得 RTX 5080 级性能，从而在《DUNE: Awakening》《Borderlands 4》《Hell Is Us》《Dying Light: The Beast》等大作中获得更丰富的体验。原文未给出具体上线地区、时间表或性能对比数据，实际推出范围与限制需以官方原文为准。",
+    "keyPoints": [
+      "GeForce NOW 开始部署 Blackwell 架构 RTX 5080 级 SuperPOD 服务器",
+      "Ultimate 会员将陆续在就近服务器获得 RTX 5080 级云游戏性能",
+      "官方点名多款大作将受益，但未公布具体上线地区与时间"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

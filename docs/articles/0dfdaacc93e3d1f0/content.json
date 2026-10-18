@@ -1,0 +1,25 @@
+{
+  "id": "0dfdaacc93e3d1f0",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI frontier models and Codex are now available on AWS",
+  "summary": "OpenAI 的前沿模型和 Codex 现已在 AWS 上全面可用，为企业提供通过现有 AWS 环境、控制和采购流程构建 OpenAI 应用的新途径。",
+  "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+  "date": "2026-06-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-01T10:00:00+00:00",
+  "titleEn": "OpenAI frontier models and Codex are now available on AWS",
+  "titleZh": "OpenAI 前沿模型和 Codex 现已在 AWS 上可用",
+  "details": {
+    "overview": "OpenAI 的前沿模型和 Codex 现已在 AWS 上全面可用，为企业提供通过现有 AWS 环境、控制和采购流程构建 OpenAI 应用的新途径。客户可以开始使用 OpenAI on AWS，并加速从评估到生产的过渡。此举旨在降低企业采用 OpenAI 技术的门槛，利用 AWS 广泛的基础设施和企业服务，使企业能够更便捷地集成和部署 OpenAI 模型。",
+    "keyPoints": [
+      "OpenAI 前沿模型和 Codex 在 AWS 上全面可用，企业可通过现有 AWS 流程采购。",
+      "客户可利用 AWS 环境、控制和采购工作流构建 OpenAI 应用。",
+      "该合作旨在加速企业从评估到生产的过渡。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

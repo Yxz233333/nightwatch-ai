@@ -1,0 +1,25 @@
+{
+  "id": "8a0967c5e8bcdabe",
+  "section": "news",
+  "category": "模型动态",
+  "title": "GPT-5.3-Codex System Card",
+  "summary": "该条目为 GPT-5.3-Codex 的系统卡页面。",
+  "url": "https://openai.com/index/gpt-5-3-codex-system-card",
+  "date": "2026-02-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-05T00:00:00+00:00",
+  "titleEn": "GPT-5.3-Codex System Card",
+  "titleZh": "GPT-5.3-Codex 系统卡",
+  "details": {
+    "overview": "该条目为 GPT-5.3-Codex 的系统卡页面。官方简介称，它是迄今能力最强的智能体编程模型，结合 GPT-5.2-Codex 的前沿编程性能与 GPT-5.2 的推理和专业能力。原始发布内容仅提供这一句概述，未列出系统卡中的评估项目、风险类别或安全测试结果，具体内容需以系统卡原文为准。",
+    "keyPoints": [
+      "系统卡对应 GPT-5.3-Codex 模型",
+      "官方称其为迄今最强智能体编程模型",
+      "结合 GPT-5.2-Codex 编程性能与 GPT-5.2 推理和专业知识"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

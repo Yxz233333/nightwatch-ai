@@ -1,0 +1,25 @@
+{
+  "id": "bbcbdb5f62da9ba5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Advancing the next era of national science",
+  "summary": "OpenAI 发布声明，介绍其推动美国科学发展的承诺，表示将与美国能源部及国家实验室合作，利用前沿 AI 加速科学发现。",
+  "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+  "date": "2026-07-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-22T12:00:00+00:00",
+  "titleEn": "Advancing the next era of national science",
+  "titleZh": "推进国家科学的新时代",
+  "details": {
+    "overview": "OpenAI 发布声明，介绍其推动美国科学发展的承诺，表示将与美国能源部及国家实验室合作，利用前沿 AI 加速科学发现。当前收录材料仅给出这一合作方向，未披露具体项目、时间表或成果细节，相关范围与限制需以官方原文为准。",
+    "keyPoints": [
+      "OpenAI 表示将与美能源部及国家实验室合作",
+      "目标是以前沿 AI 加速科学发现",
+      "当前收录材料未提供具体项目与实施细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

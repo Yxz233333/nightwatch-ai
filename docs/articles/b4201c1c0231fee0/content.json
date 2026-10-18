@@ -1,0 +1,23 @@
+{
+  "id": "b4201c1c0231fee0",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Box, Dropbox, and SharePoint are now in Library",
+  "summary": "ChatGPT Library 在原有 Google Drive 基础上新增 Box、Dropbox 和 SharePoint。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#box-dropbox-and-sharepoint-are-now-in-library",
+  "date": "2026-09-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Box, Dropbox, and SharePoint are now in Library",
+  "titleZh": "Box、Dropbox 和 SharePoint 现已接入 Library",
+  "details": {
+    "overview": "ChatGPT Library 在原有 Google Drive 基础上新增 Box、Dropbox 和 SharePoint。连接后用户可浏览和搜索文件与文件夹，并通过 Add from Library 或 @mentions 将所需文件加入对话，无需重复上传。用户可在对话旁查看支持的文件预览并追溯引用来源，也可让 ChatGPT 对文件进行总结、分析、比较或创作，或选定文件夹跨文件处理。官方称该集成正向多个用户层级在网页版 Chat 和 Work 中推出，移动端支持稍后跟进，现有文件权限和工作区控制仍然适用。",
+    "keyPoints": [
+      "Box、Dropbox、SharePoint 加入 ChatGPT Library，与 Google Drive 并列。",
+      "可通过 Add from Library 或 @mentions 添加文件，无需再次上传。",
+      "支持文件预览、引用追溯及跨文件夹处理，移动端支持稍后跟进。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

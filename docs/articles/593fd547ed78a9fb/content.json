@@ -1,0 +1,25 @@
+{
+  "id": "593fd547ed78a9fb",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Improved Gemini audio models for powerful voice experiences",
+  "summary": "原始发布记录标题显示，Gemini 音频模型获得改进，目标是提供更强的语音体验。",
+  "url": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
+  "date": "2025-12-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2025-12-12T17:50:50+00:00",
+  "titleEn": "Improved Gemini audio models for powerful voice experiences",
+  "titleZh": "改进的 Gemini 音频模型带来强大语音体验",
+  "details": {
+    "overview": "原始发布记录标题显示，Gemini 音频模型获得改进，目标是提供更强的语音体验。由于 sourceText 为空，摘要也未说明模型名称、能力变化、开放范围或限制，无法进一步介绍具体改进内容与效果，相关信息需以官方原文为准。",
+    "keyPoints": [
+      "Gemini 音频模型获得改进",
+      "定位为强大语音体验",
+      "当前收录材料未提供能力与范围细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

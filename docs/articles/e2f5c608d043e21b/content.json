@@ -1,0 +1,24 @@
+{
+  "id": "e2f5c608d043e21b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Arm will be @ PyTorch Conference, Join Us!",
+  "summary": "材料仅包含标题，未提供摘要或正文内容，无法确定具体研究对象、作者声称结果或研究意义。",
+  "url": "https://huggingface.co/blog/Arm/arm-at-pytorch-conference",
+  "date": "2025-10-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-10-10T17:35:04+00:00",
+  "titleEn": "Arm will be @ PyTorch Conference, Join Us!",
+  "titleZh": "Arm将参加PyTorch大会，欢迎加入！",
+  "details": {
+    "overview": "材料仅包含标题，未提供摘要或正文内容，无法确定具体研究对象、作者声称结果或研究意义。",
+    "keyPoints": [
+      "标题显示Arm将参加PyTorch大会",
+      "原始发布内容为空，无更多信息"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

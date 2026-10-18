@@ -1,0 +1,25 @@
+{
+  "id": "5f784530dbea960c",
+  "section": "news",
+  "category": "工具动态",
+  "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+  "summary": "该官方发布介绍 AlphaEvolve 这一由 Gemini 驱动的编码智能体，称其算法正在商业、基础设施和科学领域产生影响。",
+  "url": "https://deepmind.google/blog/alphaevolve-impact/",
+  "date": "2026-05-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-05-06T10:43:49+00:00",
+  "titleEn": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+  "titleZh": "AlphaEvolve：我们的 Gemini 驱动编码智能体如何扩大跨领域影响",
+  "details": {
+    "overview": "该官方发布介绍 AlphaEvolve 这一由 Gemini 驱动的编码智能体，称其算法正在商业、基础设施和科学领域产生影响。当前收录材料仅给出这一概述，未披露具体应用案例、性能数据或验证方式，相关结论与范围需以原始发布为准。",
+    "keyPoints": [
+      "AlphaEvolve 是由 Gemini 驱动的编码智能体",
+      "官方称其影响覆盖商业、基础设施与科学领域",
+      "当前收录材料未提供具体案例与效果数据"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "dcce7b79b581fe95",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Donating our open-source alignment tool",
+  "summary": "Anthropic宣布将开源对齐测试工具箱Petri更新至3.0版本，并把开发工作移交给AI评估非营利组织Meridian Labs。",
+  "url": "https://www.anthropic.com/research/donating-open-source-petri",
+  "date": "2026-05-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-05-07T20:17:00+00:00",
+  "titleEn": "Donating our open-source alignment tool",
+  "titleZh": "捐赠我们的开源对齐工具",
+  "details": {
+    "overview": "Anthropic宣布将开源对齐测试工具箱Petri更新至3.0版本，并把开发工作移交给AI评估非营利组织Meridian Labs。Petri于2025年10月推出，可测试模型是否存在欺骗、谄媚及配合有害请求等倾向，自Claude Sonnet 4.5起用于其对齐评估。原文称英国AI安全研究所已将其用于评估模型破坏AI研究的倾向。移交旨在保持工具独立于任何AI实验室。",
+    "keyPoints": [
+      "Petri是测试欺骗、谄媚等倾向的开源对齐测试工具箱",
+      "3.0版本开发移交Meridian Labs，以保持独立于AI实验室",
+      "原文称英国AI安全研究所已将其用于模型评估"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

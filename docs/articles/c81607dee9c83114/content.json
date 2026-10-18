@@ -1,0 +1,25 @@
+{
+  "id": "c81607dee9c83114",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs",
+  "summary": "AMD与OpenAI宣布一项多年战略合作，计划部署总计6吉瓦的AMD Instinct GPU，用于支持OpenAI的下一代AI基础设施，并加速全球AI创新。",
+  "url": "https://openai.com/index/openai-amd-strategic-partnership",
+  "date": "2025-10-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-06T06:00:00+00:00",
+  "titleEn": "AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs",
+  "titleZh": "AMD与OpenAI宣布战略合作，部署6吉瓦AMD GPU",
+  "details": {
+    "overview": "AMD与OpenAI宣布一项多年战略合作，计划部署总计6吉瓦的AMD Instinct GPU，用于支持OpenAI的下一代AI基础设施，并加速全球AI创新。其中，首批1吉瓦的部署将于2026年开始。该合作旨在为OpenAI提供大规模算力支持，具体部署细节和范围以官方原始发布为准。",
+    "keyPoints": [
+      "双方达成为期多年的战略合作，部署6吉瓦AMD Instinct GPU。",
+      "首批1吉瓦部署计划于2026年启动。",
+      "合作旨在为OpenAI下一代AI基础设施提供算力，推动全球AI创新。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

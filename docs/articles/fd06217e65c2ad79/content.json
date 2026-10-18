@@ -1,0 +1,25 @@
+{
+  "id": "fd06217e65c2ad79",
+  "section": "news",
+  "category": "模型动态",
+  "title": "GPT-5.5 Bio Bug Bounty",
+  "summary": "现有材料仅有标题和一句摘要，称其介绍OpenAI生物赏金计划的相关细节，标题指向GPT-5.5。",
+  "url": "https://openai.com/index/bio-bug-bounty",
+  "date": "2026-07-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-09T10:00:00+00:00",
+  "titleEn": "GPT-5.5 Bio Bug Bounty",
+  "titleZh": "GPT-5.5 生物漏洞赏金计划",
+  "details": {
+    "overview": "现有材料仅有标题和一句摘要，称其介绍OpenAI生物赏金计划的相关细节，标题指向GPT-5.5。原文未说明赏金范围、参与方式、奖励规则或时间安排，材料明显不足，无法进一步描述该计划的具体内容与意义。",
+    "keyPoints": [
+      "标题指向GPT-5.5相关的生物漏洞赏金计划",
+      "摘要仅称介绍OpenAI生物赏金计划细节",
+      "当前收录材料未提供范围、参与方式或奖励规则"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "3f03281c5dc824c5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Roche Scales NVIDIA AI Factories Globally to Accelerate Drug Discovery, Diagnostic Solutions and Manufacturing Breakthroughs",
+  "summary": "罗氏宣布在全球业务中部署超过3500块NVIDIA Blackwell GPU，并将AI嵌入整个价值链，以大规模提升研发生产力、下一代诊断和制造效率。",
+  "url": "https://blogs.nvidia.com/blog/roche-ai-factories-omniverse/",
+  "date": "2026-03-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-03-16T20:30:59+00:00",
+  "titleEn": "Roche Scales NVIDIA AI Factories Globally to Accelerate Drug Discovery, Diagnostic Solutions and Manufacturing Breakthroughs",
+  "titleZh": "罗氏在全球范围扩展NVIDIA AI工厂，加速药物发现、诊断解决方案与制造突破",
+  "details": {
+    "overview": "罗氏宣布在全球业务中部署超过3500块NVIDIA Blackwell GPU，并将AI嵌入整个价值链，以大规模提升研发生产力、下一代诊断和制造效率。该部署覆盖其全球运营，旨在加速药物发现、诊断解决方案和制造领域的突破。当前收录材料未提供具体时间表、投资金额或独立验证结果。",
+    "keyPoints": [
+      "部署超过3500块NVIDIA Blackwell GPU，覆盖全球运营。",
+      "AI嵌入整个价值链，旨在提升研发、诊断和制造效率。",
+      "目标为加速药物发现、诊断解决方案与制造突破。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

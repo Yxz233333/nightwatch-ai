@@ -1,0 +1,25 @@
+{
+  "id": "af1b9a91a6b6418f",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+  "summary": "官方发布摘要称，GPT-6 Astra 能生成结构更清晰、更贴合上下文的法律文档，从而让律师将精力集中在策略上。",
+  "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+  "date": "2026-09-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-23T12:00:00+00:00",
+  "titleEn": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+  "titleZh": "Harvey 借助 GPT-6 Astra 将法律上下文转化为更佳草稿",
+  "details": {
+    "overview": "官方发布摘要称，GPT-6 Astra 能生成结构更清晰、更贴合上下文的法律文档，从而让律师将精力集中在策略上。该表述来自发布方，摘要未提供具体评测数据、对比基线或独立验证信息，实际效果需结合后续材料判断。",
+    "keyPoints": [
+      "摘要称 GPT-6 Astra 生成的法律文档更具结构性和上下文感知能力。",
+      "发布方称此举可让律师更专注于策略工作。",
+      "当前收录摘要未给出评测数据或独立验证细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

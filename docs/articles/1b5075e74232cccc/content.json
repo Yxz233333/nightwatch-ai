@@ -1,0 +1,24 @@
+{
+  "id": "1b5075e74232cccc",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now",
+  "summary": "该消息称，NVIDIA负责超大规模与高性能计算的副总裁Ian Buck在AI生态中亲手交付Vera CPU系统，Vera已开始规模化出货。",
+  "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
+  "date": "2026-08-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-08-27T13:00:17+00:00",
+  "titleEn": "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now",
+  "titleZh": "交付Vera：NVIDIA首款为智能体打造的CPU现已出货",
+  "details": {
+    "overview": "该消息称，NVIDIA负责超大规模与高性能计算的副总裁Ian Buck在AI生态中亲手交付Vera CPU系统，Vera已开始规模化出货。原文仅说明交付与出货状态，未披露规格、价格或适用范围的细节，相关限制需以官方原文为准。",
+    "keyPoints": [
+      "NVIDIA称Vera是其首款为智能体打造的CPU，现已开始规模化出货。",
+      "副总裁Ian Buck在AI生态中亲手交付Vera CPU系统。",
+      "当前收录材料未提供规格、价格与具体适用范围，需以官方原文为准。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

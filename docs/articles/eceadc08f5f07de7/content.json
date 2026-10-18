@@ -1,0 +1,25 @@
+{
+  "id": "eceadc08f5f07de7",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.153.1 发布",
+  "summary": "该版本新增一项功能：支持通过 API 配置 GPT-6-Astra，同时不改变默认模型，也不在模型选择器中显示它。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.153.1",
+  "date": "2026-09-04",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-09-03T21:02:56+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.153.1 发布",
+  "titleZh": "Codex CLI 0.153.1 发布",
+  "details": {
+    "overview": "该版本新增一项功能：支持通过 API 配置 GPT-6-Astra，同时不改变默认模型，也不在模型选择器中显示它。对应改动为将 GPT-6-Astra 模型目录回移至 0.153 分支（#42605）。官方说明该版本为 CLI 稳定版本，桌面端功能以对应公告为准。",
+    "keyPoints": [
+      "新增通过 API 配置 GPT-6-Astra 的能力。",
+      "配置后不改变默认模型，也不在模型选择器中显示。",
+      "对应改动为将 GPT-6-Astra 模型目录回移至 0.153（#42605）。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "85d92887b23b357f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Operation “No Bell”: Coordinated criticism of the US and allies",
+  "summary": "OpenAI 封禁了一批与代号“No Bell”的行动相关的账号。",
+  "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-no-bell",
+  "date": "2026-02-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-01T00:00:00+00:00",
+  "titleEn": "Operation “No Bell”: Coordinated criticism of the US and allies",
+  "titleZh": "“No Bell”行动：协同批评美国及其盟友",
+  "details": {
+    "overview": "OpenAI 封禁了一批与代号“No Bell”的行动相关的账号。该行动此前未被公开报道，OpenAI 判断其很可能源自俄罗斯，利用 AI 生成针对美国及其盟友的批评内容，面向非洲各地受众传播。摘要未披露账号数量、具体平台或影响范围，相关细节应以原始发布为准。",
+    "keyPoints": [
+      "OpenAI 封禁与“No Bell”行动相关的账号",
+      "该行动此前未被报道，很可能源自俄罗斯",
+      "利用 AI 生成批评美国及其盟友的内容，面向非洲受众"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

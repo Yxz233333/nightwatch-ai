@@ -1,0 +1,24 @@
+{
+  "id": "f8ca6a07cc577393",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "FLUX.2 Image Generation Models Now Released, Optimized for NVIDIA RTX GPUs",
+  "summary": "Black Forest Labs 宣布发布 FLUX.2 系列图像生成模型，并称其为先进水平。",
+  "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-flux-2-comfyui/",
+  "date": "2025-11-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-11-25T15:53:21+00:00",
+  "titleEn": "FLUX.2 Image Generation Models Now Released, Optimized for NVIDIA RTX GPUs",
+  "titleZh": "FLUX.2 图像生成模型发布，针对 NVIDIA RTX GPU 优化",
+  "details": {
+    "overview": "Black Forest Labs 宣布发布 FLUX.2 系列图像生成模型，并称其为先进水平。摘要提到该系列包含多项新工具与能力，其中多参考功能可生成数十张相似的图像变体，具备照片级细节和更干净的字体表现。材料未给出模型规模、授权方式或基准测试数据，也未说明“针对 RTX GPU 优化”的具体技术细节，推出范围与限制需以官方原文为准。",
+    "keyPoints": [
+      "Black Forest Labs 发布 FLUX.2 系列图像生成模型。",
+      "多参考功能可生成数十张相似变体，强调照片级细节与更干净字体。",
+      "材料未提供基准数据与授权细节，范围限制以原文为准。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

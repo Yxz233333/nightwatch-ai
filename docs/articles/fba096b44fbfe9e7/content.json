@@ -1,0 +1,23 @@
+{
+  "id": "fba096b44fbfe9e7",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Voice on macOS desktop app is retiring (effective January 15, 2026)",
+  "summary": "该公告称，ChatGPT macOS 应用中的语音体验将于 2026 年 1 月 15 日停用，目的是把语音体验统一并改进到各应用中。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#voice-on-macos-desktop-app-is-retiring-effective-january-15-2026",
+  "date": "2025-12-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Voice on macOS desktop app is retiring (effective January 15, 2026)",
+  "titleZh": "macOS 桌面应用中的语音功能将停用（2026 年 1 月 15 日生效）",
+  "details": {
+    "overview": "该公告称，ChatGPT macOS 应用中的语音体验将于 2026 年 1 月 15 日停用，目的是把语音体验统一并改进到各应用中。语音功能将继续在 chatgpt.com、iOS、Android 和 Windows 应用提供，macOS 上其他 ChatGPT 功能不受影响。原文未说明停用的技术原因或后续替代方案。",
+    "keyPoints": [
+      "ChatGPT macOS 应用的语音体验于 2026 年 1 月 15 日停用。",
+      "语音功能继续在网页、iOS、Android 和 Windows 应用提供。",
+      "macOS 上其他 ChatGPT 功能不受此次调整影响。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ead8ce83b22475ea",
+  "section": "news",
+  "category": "工具动态",
+  "title": "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale",
+  "summary": "NVIDIA Research 的这篇发布以机器人夹爪和自动驾驶系统为例，强调通用性：夹爪的价值在于能用从未握过的工具连续抓取新物体，自动驾驶系统的安全不仅在于能推理单一情境。",
+  "url": "https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/",
+  "date": "2026-06-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-03T15:00:57+00:00",
+  "titleEn": "NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale",
+  "titleZh": "NVIDIA Research 在先进抓取、更智能的自动驾驶与大规模智能体训练上取得进展",
+  "details": {
+    "overview": "NVIDIA Research 的这篇发布以机器人夹爪和自动驾驶系统为例，强调通用性：夹爪的价值在于能用从未握过的工具连续抓取新物体，自动驾驶系统的安全不仅在于能推理单一情境。原文正文在此处截断，未给出具体方法、实验结果或论文细节，因此无法确认各项研究的具体结论，相关内容需以完整原文为准。",
+    "keyPoints": [
+      "研究主题包括机器人抓取、自动驾驶与智能体训练",
+      "强调夹爪对新物体和新工具的泛化能力",
+      "原文正文截断，具体方法与结果无法确认"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

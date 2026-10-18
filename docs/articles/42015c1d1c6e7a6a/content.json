@@ -15,9 +15,10 @@
       "材料未给出公开论文数量与Lean形式化覆盖范围。",
       "审查状态需关注原始材料，公开不等于已获同行评议。"
     ],
-    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
   },
   "breakthrough": true,
   "breakthroughField": "AI 与数学",
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
   "interest": []
 }

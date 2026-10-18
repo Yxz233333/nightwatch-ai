@@ -1,0 +1,24 @@
+{
+  "id": "94ea14eceef01386",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Petri: An open-source auditing tool to accelerate AI safety research",
+  "summary": "Anthropic发布开源自动化审计工具Petri（并行风险交互探索工具），旨在加速AI安全研究。",
+  "url": "https://www.anthropic.com/research/petri-open-source-auditing",
+  "date": "2025-10-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-10-06T11:10:00+00:00",
+  "titleEn": "Petri: An open-source auditing tool to accelerate AI safety research",
+  "titleZh": "Petri：加速AI安全研究的开源审计工具",
+  "details": {
+    "overview": "Anthropic发布开源自动化审计工具Petri（并行风险交互探索工具），旨在加速AI安全研究。Petri通过自动化智能体模拟用户和工具，与目标AI系统进行多轮对话，测试其行为假设，并由LLM评判员对对话进行多维度评分，标记最令人担忧的记录供人工审查。作者声称，该工具能处理构建新模型广泛理解所需的大量工作，使研究人员仅需几分钟即可测试多个行为假设。Petri已在Claude 4和Claude Sonnet 4.5系统卡中使用，英国AI安全研究所也使用了预发布版本。试点测试覆盖14个前沿模型和111条种子指令，发现Claude Sonnet 4.5在“不对齐行为”总体得分上风险最低，略优于GPT-5。作者强调评估结果非常初步，指标简化，场景有限，但认为即使粗略指标也有助于分类和聚焦对齐工作。",
+    "keyPoints": [
+      "Petri是开源自动化审计工具，通过多轮对话测试目标模型行为并评分。",
+      "试点覆盖14个前沿模型和111条种子指令，Claude Sonnet 4.5总体风险得分最低。",
+      "作者强调评估初步且指标简化，但有助于识别需深入调查的行为。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "e18c736cd7c615db",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Easier model selection in ChatGPT",
+  "summary": "该条目为 ChatGPT 功能更新。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#easier-model-selection-in-chatgpt",
+  "date": "2026-04-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Easier model selection in ChatGPT",
+  "titleZh": "ChatGPT 模型选择更便捷",
+  "details": {
+    "overview": "该条目为 ChatGPT 功能更新。OpenAI 把模型选择移到输入框区域，用户可在撰写提示词的同一位置查找并切换模型；同时把思考强度控制并入模型选择器，选择 Thinking 或 Pro 模型时可直接设定思考强度。该更新面向网页端 ChatGPT 的 Plus、Pro 和 Business 订阅用户。原文未说明移动端安排或后续扩展计划。",
+    "keyPoints": [
+      "模型选择移至输入框，可在写提示词处切换",
+      "思考强度控制并入模型选择器",
+      "网页端 Plus、Pro、Business 用户可用"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "a4b49e41d2214b68",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+  "summary": "该官方发布称，Google DeepMind 与游戏工作室合作，对突破性的 AI 游戏玩法进行原型验证，并回顾其在游戏 AI 领域15年的研究积累，标题以 Atari 和 EVE Online 作为跨度示例。",
+  "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+  "date": "2026-08-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-08-21T11:59:48+00:00",
+  "titleEn": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+  "titleZh": "从 Atari 到 EVE Online：建立在15年游戏 AI 研究之上",
+  "details": {
+    "overview": "该官方发布称，Google DeepMind 与游戏工作室合作，对突破性的 AI 游戏玩法进行原型验证，并回顾其在游戏 AI 领域15年的研究积累，标题以 Atari 和 EVE Online 作为跨度示例。当前收录材料未提供合作工作室名单、原型内容或技术细节，相关进展应以官方原文为准。",
+    "keyPoints": [
+      "Google DeepMind 与游戏工作室合作原型验证 AI 玩法",
+      "发布以15年游戏 AI 研究积累为背景",
+      "当前收录材料未提供合作方名单与原型技术细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

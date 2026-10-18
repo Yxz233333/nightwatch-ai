@@ -1,0 +1,25 @@
+{
+  "id": "5c68ce52c140d780",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Jupyter Agents: training LLMs to reason with notebooks",
+  "summary": "现有材料仅有标题，未提供摘要或正文内容，无法确认该工作的具体研究对象、方法细节与作者声称的结果。",
+  "url": "https://huggingface.co/blog/jupyter-agent-2",
+  "date": "2025-09-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-09-10T00:00:00+00:00",
+  "titleEn": "Jupyter Agents: training LLMs to reason with notebooks",
+  "titleZh": "Jupyter Agents：训练大语言模型用笔记本推理",
+  "details": {
+    "overview": "现有材料仅有标题，未提供摘要或正文内容，无法确认该工作的具体研究对象、方法细节与作者声称的结果。从标题看，主题是训练大语言模型借助 Jupyter 笔记本进行推理，属于面向代码与计算环境的智能体训练方向。由于缺少原文信息，本条目不对其方法、数据或效果作任何推断，建议以官方原始发布内容为准。",
+    "keyPoints": [
+      "标题指向训练大语言模型使用 Jupyter 笔记本进行推理",
+      "现有材料缺少摘要与正文，方法细节无法确认",
+      "不对效果与结论作推断，需以原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

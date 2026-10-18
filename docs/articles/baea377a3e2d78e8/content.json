@@ -1,0 +1,25 @@
+{
+  "id": "baea377a3e2d78e8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+  "summary": "该消息称oMLX的创建者兼维护者Jun Kim加入Hugging Face，以支持MLX社区。",
+  "url": "https://huggingface.co/blog/omlx",
+  "date": "2026-09-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-09-22T00:00:00+00:00",
+  "titleEn": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+  "titleZh": "oMLX创建者兼维护者Jun Kim加入Hugging Face，支持MLX社区",
+  "details": {
+    "overview": "该消息称oMLX的创建者兼维护者Jun Kim加入Hugging Face，以支持MLX社区。原文仅有标题，未提供其具体职责、加入时间、oMLX项目后续安排或Hugging Face相关计划等信息，因此无法进一步说明这一人事变动对MLX生态的实际影响，需以官方后续发布为准。",
+    "keyPoints": [
+      "oMLX创建者兼维护者Jun Kim加入Hugging Face",
+      "官方表述其目的是支持MLX社区",
+      "当前收录材料未提供具体职责与项目安排"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

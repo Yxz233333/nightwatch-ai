@@ -1,0 +1,24 @@
+{
+  "id": "d64ca76d24ad2722",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "From Simulation to Production: How to Build Robots With AI",
+  "summary": "该官方发布称，NVIDIA推出最新开放模型与框架，将仿真、机器人学习与嵌入式计算结合起来，以加速从云端到机器人的工作流。",
+  "url": "https://blogs.nvidia.com/blog/build-robots-with-ai/",
+  "date": "2026-03-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-03-18T13:00:13+00:00",
+  "titleEn": "From Simulation to Production: How to Build Robots With AI",
+  "titleZh": "从仿真到生产：如何用AI构建机器人",
+  "details": {
+    "overview": "该官方发布称，NVIDIA推出最新开放模型与框架，将仿真、机器人学习与嵌入式计算结合起来，以加速从云端到机器人的工作流。材料仅给出这一总体定位，未披露具体模型名称、性能数据或适用范围，因此无法判断实际效果。其意义在于把机器人开发中的仿真训练与部署环节纳入同一套工具链思路，但相关能力仍需以原文及后续验证为准。",
+    "keyPoints": [
+      "发布内容为开放模型与框架，覆盖仿真、机器人学习和嵌入式计算。",
+      "目标是加速云端到机器人的工作流衔接。",
+      "原文未给出具体模型、性能指标或适用范围。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

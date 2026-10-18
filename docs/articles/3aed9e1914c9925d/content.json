@@ -1,0 +1,25 @@
+{
+  "id": "3aed9e1914c9925d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Measuring the performance of our models on real-world tasks",
+  "summary": "OpenAI 官方发布信息称，其推出名为 GDPval 的新评估，用于衡量模型在真实世界中具有经济价值的任务上的表现，覆盖 44 种职业。",
+  "url": "https://openai.com/index/gdpval",
+  "date": "2025-09-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-25T09:00:00+00:00",
+  "titleEn": "Measuring the performance of our models on real-world tasks",
+  "titleZh": "衡量模型在真实世界任务中的表现",
+  "details": {
+    "overview": "OpenAI 官方发布信息称，其推出名为 GDPval 的新评估，用于衡量模型在真实世界中具有经济价值的任务上的表现，覆盖 44 种职业。原文摘要未说明任务样本规模、评分方式与具体评测结果，相关细节与结论应以官方原文为准。",
+    "keyPoints": [
+      "OpenAI 推出新评估 GDPval，聚焦真实世界中有经济价值的任务。",
+      "该评估覆盖 44 种职业。",
+      "当前收录材料未提供任务规模、评分方式与具体结果。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

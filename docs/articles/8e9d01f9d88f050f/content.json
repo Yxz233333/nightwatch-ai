@@ -1,0 +1,24 @@
+{
+  "id": "8e9d01f9d88f050f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Descript engineers multilingual video dubbing at scale",
+  "summary": "该文介绍Descript利用OpenAI推理模型，实现大型内容库的自动本地化，同时保留时间轴和语义。",
+  "url": "https://openai.com/index/descript",
+  "date": "2026-03-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-06T00:00:00+00:00",
+  "titleEn": "How Descript engineers multilingual video dubbing at scale",
+  "titleZh": "Descript 工程师如何大规模实现多语言视频配音",
+  "details": {
+    "overview": "该文介绍Descript利用OpenAI推理模型，实现大型内容库的自动本地化，同时保留时间轴和语义。摘要未披露具体技术方案或效果数据。",
+    "keyPoints": [
+      "Descript 使用 OpenAI 推理模型实现自动本地化。",
+      "该方案旨在不丢失时间轴和语义的情况下处理大型内容库。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

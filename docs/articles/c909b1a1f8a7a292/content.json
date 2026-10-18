@@ -1,0 +1,24 @@
+{
+  "id": "c909b1a1f8a7a292",
+  "section": "news",
+  "category": "模型动态",
+  "title": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI",
+  "summary": "NVIDIA在NeurIPS大会上宣布进一步扩展其开放AI模型、数据集和工具集合，旨在为全球研究者提供数字AI和物理AI的最新进展。",
+  "url": "https://blogs.nvidia.com/blog/neurips-open-source-digital-physical-ai/",
+  "date": "2025-12-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-12-01T17:00:48+00:00",
+  "titleEn": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI",
+  "titleZh": "在NeurIPS上，NVIDIA推进数字与物理AI的开放模型开发",
+  "details": {
+    "overview": "NVIDIA在NeurIPS大会上宣布进一步扩展其开放AI模型、数据集和工具集合，旨在为全球研究者提供数字AI和物理AI的最新进展。这些资源潜在应用于几乎所有研究领域。原文未具体说明模型名称、数据集规模或工具细节，仅强调社区可依赖开源技术作为研究基础。",
+    "keyPoints": [
+      "NVIDIA在NeurIPS扩展开放AI模型、数据集和工具集合。",
+      "资源面向数字AI与物理AI，潜在应用覆盖几乎所有研究领域。",
+      "强调开源技术是全球研究者工作的基础。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

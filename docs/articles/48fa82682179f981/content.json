@@ -1,0 +1,25 @@
+{
+  "id": "48fa82682179f981",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+  "summary": "NVIDIA 宣布发布 Nemotron 3.5 Super VL，这是一个开放的 1200 亿参数模型，官方称其面向专用常驻智能体，具备最快的任务完成速度与最高准确率。",
+  "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+  "date": "2026-10-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-10-15T15:00:24+00:00",
+  "titleEn": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+  "titleZh": "从数据中心到桌面：NVIDIA 扩展 Nemotron 家族，推出最高效率 Super VL 与 Bolt 模型",
+  "details": {
+    "overview": "NVIDIA 宣布发布 Nemotron 3.5 Super VL，这是一个开放的 1200 亿参数模型，官方称其面向专用常驻智能体，具备最快的任务完成速度与最高准确率。同时推出两款边缘模型：Nemotron 3.5 Bolt 74B-A9B 24GB，针对本地智能体工作负载在每 GB 智能与速度间做平衡；以及 Nemotron 3.5 Bolt E4B 4GB。原文摘要在此截断，未披露基准测试细节与可用范围。",
+    "keyPoints": [
+      "发布开放 1200 亿参数模型 Nemotron 3.5 Super VL",
+      "Bolt 74B-A9B 24GB 面向本地智能体负载平衡智能与速度",
+      "另推出 Nemotron 3.5 Bolt E4B 4GB 边缘模型"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "d013c0c85cb1e1cb",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing Google Antigravity 2.0",
+  "summary": "该条为 Google 官方发布记录，标题宣布推出 Antigravity 2.0，但原始发布内容与摘要均未提供功能细节、适用范围或技术说明。",
+  "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+  "date": "2026-05-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-05-17T19:43:45+00:00",
+  "titleEn": "Introducing Google Antigravity 2.0",
+  "titleZh": "Google Antigravity 2.0 发布",
+  "details": {
+    "overview": "该条为 Google 官方发布记录，标题宣布推出 Antigravity 2.0，但原始发布内容与摘要均未提供功能细节、适用范围或技术说明。因此目前只能确认这是一次版本发布，无法介绍其具体能力、与上一版的差异或可用范围，相关限制需以官方原文为准。",
+    "keyPoints": [
+      "官方发布记录宣布推出 Antigravity 2.0 版本",
+      "原始内容未提供功能、范围或技术细节",
+      "具体推出范围和限制需以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

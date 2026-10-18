@@ -1,0 +1,25 @@
+{
+  "id": "93f694dbedff9d7d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "AI in Japan—OpenAI’s Japan Economic Blueprint",
+  "summary": "OpenAI 发布“日本经济蓝图”，摘要称该蓝图阐述日本如何利用 AI 推动创新、增强竞争力并实现可持续和包容性增长。",
+  "url": "https://openai.com/index/japan-economic-blueprint",
+  "date": "2025-10-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-22T00:00:00+00:00",
+  "titleEn": "AI in Japan—OpenAI’s Japan Economic Blueprint",
+  "titleZh": "AI 在日本——OpenAI 的日本经济蓝图",
+  "details": {
+    "overview": "OpenAI 发布“日本经济蓝图”，摘要称该蓝图阐述日本如何利用 AI 推动创新、增强竞争力并实现可持续和包容性增长。现有材料仅给出这一总体定位，未说明蓝图的具体政策建议、实施路径、合作对象或时间表，因此无法评估其细节与可行性。相关表述应视为 OpenAI 的倡议性文件，而非已获验证的政策效果。",
+    "keyPoints": [
+      "OpenAI 发布面向日本的“经济蓝图”。",
+      "蓝图主张日本利用 AI 促进创新与竞争力。",
+      "目标包括可持续和包容性增长。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

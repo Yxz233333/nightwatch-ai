@@ -1,0 +1,25 @@
+{
+  "id": "c0cc1d17f97e1abb",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI and NVIDIA announce strategic partnership to deploy 10 gigawatts of NVIDIA systems",
+  "summary": "OpenAI 与 NVIDIA 宣布建立战略合作伙伴关系，将部署总容量 10 吉瓦、由 NVIDIA 系统驱动的 AI 数据中心，首阶段于 2026 年启动。",
+  "url": "https://openai.com/index/openai-nvidia-systems-partnership",
+  "date": "2025-09-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-22T08:45:00+00:00",
+  "titleEn": "OpenAI and NVIDIA announce strategic partnership to deploy 10 gigawatts of NVIDIA systems",
+  "titleZh": "OpenAI 与 NVIDIA 宣布战略合作，部署 10 吉瓦 NVIDIA 系统",
+  "details": {
+    "overview": "OpenAI 与 NVIDIA 宣布建立战略合作伙伴关系，将部署总容量 10 吉瓦、由 NVIDIA 系统驱动的 AI 数据中心，首阶段于 2026 年启动。该消息属于基础设施合作类行业动态，明确了合作规模与首阶段时间点，但当前收录材料未提供具体选址、投资结构、系统型号或分阶段建设节奏，相关细节需以官方原始发布为准。",
+    "keyPoints": [
+      "双方建立战略合作，部署 10 吉瓦由 NVIDIA 系统驱动的 AI 数据中心。",
+      "首阶段计划于 2026 年启动。",
+      "当前收录材料未提供选址、投资结构与系统型号等细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "5b00e1b712e32135",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing ChatGPT Pulse",
+  "summary": "OpenAI面向移动端Pro用户发布ChatGPT Pulse预览版。",
+  "url": "https://openai.com/index/introducing-chatgpt-pulse",
+  "date": "2025-09-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-25T00:00:00+00:00",
+  "titleEn": "Introducing ChatGPT Pulse",
+  "titleZh": "推出ChatGPT Pulse",
+  "details": {
+    "overview": "OpenAI面向移动端Pro用户发布ChatGPT Pulse预览版。Pulse是一种新体验，ChatGPT会主动进行研究，基于用户聊天、反馈以及日历等连接应用，提供个性化更新。原文未说明更新频率、具体支持的应用类型或预览版限制。",
+    "keyPoints": [
+      "面向移动端Pro用户发布预览版",
+      "ChatGPT主动研究并生成个性化更新",
+      "更新依据聊天、反馈和日历等连接应用"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

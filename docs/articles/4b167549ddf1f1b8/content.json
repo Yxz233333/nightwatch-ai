@@ -1,0 +1,25 @@
+{
+  "id": "4b167549ddf1f1b8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Podium is arming 10,000+ SMBs with AI agents",
+  "summary": "该官方发布介绍Podium基于OpenAI的GPT-5构建名为“Jerry”的AI助手，用于服务中小企业客户。",
+  "url": "https://openai.com/index/podium",
+  "date": "2025-12-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-11T00:00:00+00:00",
+  "titleEn": "How Podium is arming 10,000+ SMBs with AI agents",
+  "titleZh": "Podium如何用AI智能体赋能1万多家中小企业",
+  "details": {
+    "overview": "该官方发布介绍Podium基于OpenAI的GPT-5构建名为“Jerry”的AI助手，用于服务中小企业客户。原文称其带来300%增长，并改变Main Street企业的客户服务方式。材料仅给出概括性描述，未披露具体功能细节、统计口径与适用范围，相关数字与效果应以原文为准。",
+    "keyPoints": [
+      "Podium基于OpenAI的GPT-5构建AI助手“Jerry”",
+      "原文称该AI助手带来300%增长",
+      "面向1万多家中小企业，改变客户服务方式"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

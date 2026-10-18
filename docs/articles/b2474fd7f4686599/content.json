@@ -1,0 +1,25 @@
+{
+  "id": "b2474fd7f4686599",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+  "summary": "文章指出，电信运营商正越来越多地以开放模型构建其 AI 战略，原因不仅是成本。",
+  "url": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
+  "date": "2026-10-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-10-06T13:00:19+00:00",
+  "titleEn": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+  "titleZh": "电信运营商为何将 AI 战略建立在开放模型之上",
+  "details": {
+    "overview": "文章指出，电信运营商正越来越多地以开放模型构建其 AI 战略，原因不仅是成本。开放模型让运营商能在自主网络、客户服务等关键工作负载中实现对 AI 的信任、控制与定制。文中提到 NVIDIA 最新的电信行业 AI 状况报告反映了这一转变，但提供的原文摘要在此处截断，未给出报告的具体数据与结论。",
+    "keyPoints": [
+      "电信运营商日益以开放模型为基础制定 AI 战略",
+      "动因包括对关键工作负载的信任、控制与定制需求，而非仅成本",
+      "NVIDIA 电信 AI 状况报告被视为反映这一转变，但当前收录摘要未给出具体数据"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

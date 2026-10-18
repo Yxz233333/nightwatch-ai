@@ -1,0 +1,25 @@
+{
+  "id": "ef531e5b28360fd2",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Building standards for the next phase of AI",
+  "summary": "官方摘要表示，OpenAI 勾勒了一条通往全球共享 AI 标准的路径，呼吁通过协调一致的评估、报告和治理来提升安全性。",
+  "url": "https://openai.com/index/building-standards-next-phase-ai",
+  "date": "2026-09-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-21T10:00:00+00:00",
+  "titleEn": "Building standards for the next phase of AI",
+  "titleZh": "为 AI 下一阶段构建标准",
+  "details": {
+    "overview": "官方摘要表示，OpenAI 勾勒了一条通往全球共享 AI 标准的路径，呼吁通过协调一致的评估、报告和治理来提升安全性。原文未说明标准的具体条款、实施时间表或参与方范围，相关主张属于发布方提出的方向性倡议，需以完整原文为准。",
+    "keyPoints": [
+      "OpenAI 提出共享全球 AI 标准的路径",
+      "倡议协调评估、报告与治理以提升安全",
+      "原文未给出标准细则与实施时间表"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

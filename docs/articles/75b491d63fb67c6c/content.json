@@ -1,0 +1,24 @@
+{
+  "id": "75b491d63fb67c6c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
+  "summary": "Anthropic 与 Blackstone、Hellman & Friedman 和 Goldman Sachs 宣布成立一家新的 AI 服务公司，面向各行业中型企业，将 Claude 引入其核心运营。",
+  "url": "https://www.anthropic.com/news/enterprise-ai-services-company",
+  "date": "2026-05-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-05-04T15:42:00+00:00",
+  "titleEn": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
+  "titleZh": "与 Blackstone、Hellman & Friedman 和 Goldman Sachs 共建企业 AI 服务公司",
+  "details": {
+    "overview": "Anthropic 与 Blackstone、Hellman & Friedman 和 Goldman Sachs 宣布成立一家新的 AI 服务公司，面向各行业中型企业，将 Claude 引入其核心运营。Anthropic 的应用 AI 工程师将与新公司工程团队合作，识别 Claude 最能发挥影响之处、构建定制方案并长期支持客户。新公司还获得 General Atlantic、Leonard Green、Apollo Global Management、GIC 和 Sequoia Capital 等机构支持，并将加入 Claude 合作伙伴网络。",
+    "keyPoints": [
+      "新公司由 Anthropic 与 Blackstone、Hellman & Friedman、Goldman Sachs 共同成立。",
+      "面向中型企业，由 Anthropic 应用 AI 工程师与工程团队合作构建定制 Claude 方案。",
+      "获得多家另类资产管理机构支持，并将加入 Claude 合作伙伴网络。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

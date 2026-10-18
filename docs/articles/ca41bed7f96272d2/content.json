@@ -1,0 +1,25 @@
+{
+  "id": "ca41bed7f96272d2",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Supercharge your OCR Pipelines with Open Models",
+  "summary": "该消息围绕使用开放模型增强 OCR 流水线展开，标题强调“提速”。",
+  "url": "https://huggingface.co/blog/ocr-open-models",
+  "date": "2025-10-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-10-21T00:00:00+00:00",
+  "titleEn": "Supercharge your OCR Pipelines with Open Models",
+  "titleZh": "用开放模型为你的 OCR 流水线提速",
+  "details": {
+    "overview": "该消息围绕使用开放模型增强 OCR 流水线展开，标题强调“提速”。原始发布内容仅有这一句标题式表述，未说明涉及哪些开放模型、具体 OCR 任务、性能数据或部署方式，也未给出适用范围与限制。因此目前只能确认这是一项面向 OCR 流水线的开放模型相关发布，具体内容需以官方原文为准。",
+    "keyPoints": [
+      "官方发布主题为开放模型与 OCR 流水线",
+      "原文未列出模型名称与性能数据",
+      "适用范围需以原始发布为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

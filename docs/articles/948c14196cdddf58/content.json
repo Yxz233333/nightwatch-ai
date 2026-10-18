@@ -1,0 +1,24 @@
+{
+  "id": "948c14196cdddf58",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Enabling independent research on how people use Claude",
+  "summary": "Anthropic 表示，其今年早些时候开展试点，让外部研究者通过隐私保护分析工具 Anthropic Insights 研究聚合的真实 Claude 使用数据。",
+  "url": "https://www.anthropic.com/research/enabling-independent-research",
+  "date": "2026-08-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-08-26T18:00:00+00:00",
+  "titleEn": "Enabling independent research on how people use Claude",
+  "titleZh": "支持关于人们如何使用 Claude 的独立研究",
+  "details": {
+    "overview": "Anthropic 表示，其今年早些时候开展试点，让外部研究者通过隐私保护分析工具 Anthropic Insights 研究聚合的真实 Claude 使用数据。三个研究组——斯坦福 SALT 实验室、牛津大学人类信息处理实验室与 METR——各自设计研究问题，分析约 25 万条 2026 年 4 月至 5 月的 Claude.ai 或 Claude Code 对话。作者称这可能是外部研究者首次对 AI 公司自身使用数据开展公开独立研究，并公开了各项目的聚合数据。文中还讨论了隐私审查、问题措辞敏感性等运行挑战，部分研究结果仍在整理中。",
+    "keyPoints": [
+      "三家外部机构通过 Anthropic Insights 分析约 25 万条聚合对话数据。",
+      "作者称合同审查权限于隐私、政策违规、机密信息与研究准确性。",
+      "试点暴露隐私审查耗时与问题措辞敏感等扩展难题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

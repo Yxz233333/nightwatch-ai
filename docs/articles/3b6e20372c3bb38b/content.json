@@ -1,0 +1,25 @@
+{
+  "id": "3b6e20372c3bb38b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Work with Codex from anywhere",
+  "summary": "该行业新闻介绍，用户可通过 ChatGPT 移动应用在任何地方使用 Codex，跨设备与远程环境实时监控、引导并批准编码任务。",
+  "url": "https://openai.com/index/work-with-codex-from-anywhere",
+  "date": "2026-05-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-14T13:00:00+00:00",
+  "titleEn": "Work with Codex from anywhere",
+  "titleZh": "随时随地使用 Codex",
+  "details": {
+    "overview": "该行业新闻介绍，用户可通过 ChatGPT 移动应用在任何地方使用 Codex，跨设备与远程环境实时监控、引导并批准编码任务。当前收录材料仅给出这一概括说明，未披露支持平台、套餐范围或具体限制。其意义在于将编码智能体的操作入口延伸到移动端，但实际可用范围需以官方原文为准。",
+    "keyPoints": [
+      "通过 ChatGPT 移动应用在任意地点使用 Codex",
+      "可跨设备与远程环境实时监控、引导和批准编码任务",
+      "当前收录材料未提供支持平台与套餐范围"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

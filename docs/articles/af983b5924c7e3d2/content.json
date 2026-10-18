@@ -1,0 +1,23 @@
+{
+  "id": "af983b5924c7e3d2",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Branch conversations on web",
+  "summary": "ChatGPT网页版新增对话分支功能，用户可在不丢失原始对话线程的情况下探索不同方向。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#branch-conversations-on-web",
+  "date": "2025-09-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Branch conversations on web",
+  "titleZh": "网页版ChatGPT支持对话分支",
+  "details": {
+    "overview": "ChatGPT网页版新增对话分支功能，用户可在不丢失原始对话线程的情况下探索不同方向。操作方式为将鼠标悬停在某条消息上，点击“更多操作”（⋯），选择“在新聊天中分支”，即可从该点开始一段独立对话。官方称该功能即日起面向所有已登录的网页版用户开放。材料未提及其他平台的支持情况。",
+    "keyPoints": [
+      "网页版ChatGPT可对任意消息创建分支对话。",
+      "操作路径为悬停消息后点击更多操作并选择分支。",
+      "该功能即日起面向所有已登录网页版用户开放。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

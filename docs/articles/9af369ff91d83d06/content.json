@@ -1,0 +1,23 @@
+{
+  "id": "9af369ff91d83d06",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex updates: Computer use and remote control for Windows, usage profiles",
+  "summary": "Codex 应用在 Windows 上支持计算机使用，符合条件的用户可让 Codex 查看、点击并输入 Windows 应用，用于测试、调试和改进开发内容。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-updates-computer-use-and-remote-control-for-windows-usage-profiles",
+  "date": "2026-05-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Codex updates: Computer use and remote control for Windows, usage profiles",
+  "titleZh": "Codex 更新：Windows 计算机使用与远程控制、使用情况资料",
+  "details": {
+    "overview": "Codex 应用在 Windows 上支持计算机使用，符合条件的用户可让 Codex 查看、点击并输入 Windows 应用，用于测试、调试和改进开发内容。用户可在 Windows 设备上开始工作，并通过 iOS、Android 上的 ChatGPT 或 Mac 上的 Codex 远程查看进度、继续线程和调整工作。Windows 设备仍作为项目文件、shell、应用服务器和本地上下文的宿主。该版本还包含基础设施更新和 Codex Profiles。Windows 计算机使用在发布时未在欧洲经济区、英国和瑞士提供。",
+    "keyPoints": [
+      "符合条件的用户可在 Windows 应用中使用计算机使用功能。",
+      "远程控制时 Windows 设备仍托管项目文件和本地上下文。",
+      "Windows 计算机使用发布时未覆盖欧洲经济区、英国和瑞士。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

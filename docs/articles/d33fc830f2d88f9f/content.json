@@ -1,0 +1,23 @@
+{
+  "id": "d33fc830f2d88f9f",
+  "section": "news",
+  "category": "模型动态",
+  "title": "DeepSeek-V4-Flash Update",
+  "summary": "该发布称 DeepSeek-V4-Flash API 正式版进入公测，调用方式不变，将模型名设为 deepseek-v4-flash 即可使用最新版本。",
+  "url": "https://api-docs.deepseek.com/updates/#deepseek-v4-flash-update",
+  "date": "2026-07-31",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "DeepSeek 官方更新",
+  "titleEn": "DeepSeek-V4-Flash Update",
+  "titleZh": "DeepSeek-V4-Flash 更新",
+  "details": {
+    "overview": "该发布称 DeepSeek-V4-Flash API 正式版进入公测，调用方式不变，将模型名设为 deepseek-v4-flash 即可使用最新版本。原文列出 Terminal Bench 2.1 为 82.7、NL2Repo 为 54.2、Cybergym 为 76.7、DeepSWE 为 54.4 等多项基准成绩，并说明代码智能体任务使用 DeepSeek Harness 最小模式、max effort、topp=0.95、temperature=1.0 测试；DSBench 两项为内部测试集。",
+    "keyPoints": [
+      "API 进入公测，模型名设为 deepseek-v4-flash 即可调用",
+      "公布 Terminal Bench 2.1 82.7、NL2Repo 54.2 等成绩",
+      "代码智能体任务采用 DeepSeek Harness 最小模式等设置"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

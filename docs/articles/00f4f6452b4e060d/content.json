@@ -1,0 +1,25 @@
+{
+  "id": "00f4f6452b4e060d",
+  "section": "news",
+  "category": "模型动态",
+  "title": "One Year Since the “DeepSeek Moment”",
+  "summary": "该新闻标题为“DeepSeek时刻”一周年，但提供的摘要和原文内容均只有标题本身，未包含任何具体事件描述、数据或作者观点。",
+  "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
+  "date": "2026-01-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-01-20T15:02:10+00:00",
+  "titleEn": "One Year Since the “DeepSeek Moment”",
+  "titleZh": "“DeepSeek时刻”一周年",
+  "details": {
+    "overview": "该新闻标题为“DeepSeek时刻”一周年，但提供的摘要和原文内容均只有标题本身，未包含任何具体事件描述、数据或作者观点。因此无法确认“DeepSeek时刻”具体指代什么，也无法介绍其研究对象或声称结果。仅能确定这是一篇回顾性新闻，发布时间在所谓“时刻”一年之后。由于材料严重不足，建议读者查阅原始发布记录以获取完整信息。",
+    "keyPoints": [
+      "标题指向“DeepSeek时刻”一周年回顾",
+      "当前收录材料未提供具体事件或数据细节",
+      "需以官方原始发布记录为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

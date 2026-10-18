@@ -1,0 +1,24 @@
+{
+  "id": "181c3760eafb6094",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+  "summary": "一项随机对照试验的结果显示，Gemini的引导式学习（Guided Learning）功能在提升参与度和加速学习方面具有潜力。",
+  "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+  "date": "2026-06-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-06-08T13:04:59+00:00",
+  "titleEn": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+  "titleZh": "衡量塞拉利昂及其他地区AI辅助学习的影响",
+  "details": {
+    "overview": "一项随机对照试验的结果显示，Gemini的引导式学习（Guided Learning）功能在提升参与度和加速学习方面具有潜力。当前收录材料未提供试验规模、地点细节、效果量或同行评审状态，仅称结果来自随机对照试验。",
+    "keyPoints": [
+      "随机对照试验结果显示Gemini引导式学习功能具有提升参与度和加速学习的潜力。",
+      "研究覆盖塞拉利昂及其他地区。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

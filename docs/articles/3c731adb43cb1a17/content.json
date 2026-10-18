@@ -1,0 +1,23 @@
+{
+  "id": "3c731adb43cb1a17",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT Work can now complete tasks on signed-in websites",
+  "summary": "官方发布说明称，ChatGPT Work 在网页端和移动端的浏览器可协助完成部分需要登录的网站任务：用户提出任务后，若网站支持认证，ChatGPT 会弹出登录界面供用户安全输入凭据，可能还需输入安全验证码；登录后它继续执行任务，会话可能保持登录以便后续任务。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-work-can-now-complete-tasks-on-signed-in-websites",
+  "date": "2026-08-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "ChatGPT Work can now complete tasks on signed-in websites",
+  "titleZh": "ChatGPT Work 现可在需登录的网站上完成任务",
+  "details": {
+    "overview": "官方发布说明称，ChatGPT Work 在网页端和移动端的浏览器可协助完成部分需要登录的网站任务：用户提出任务后，若网站支持认证，ChatGPT 会弹出登录界面供用户安全输入凭据，可能还需输入安全验证码；登录后它继续执行任务，会话可能保持登录以便后续任务。原文强调模型看不到用户名和密码，凭据不用于训练也不被存储，并支持密码管理器；用户可控制可访问的网站，涉及预订或付款等后果性操作前会请求确认。该功能面向 Plus 和 Pro 套餐。",
+    "keyPoints": [
+      "需登录网站时由用户自行输入凭据，模型看不到用户名和密码",
+      "会话可能保持登录状态，凭据不存储也不用于模型训练",
+      "预订、付款等后果性操作前会请求用户确认"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

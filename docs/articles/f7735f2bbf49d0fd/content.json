@@ -1,0 +1,25 @@
+{
+  "id": "f7735f2bbf49d0fd",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "SyGra: The One-Stop Framework for Building Data for LLMs and SLMs",
+  "summary": "该条目仅有标题，摘要与原文正文均缺失，无法确认作者、机构、框架组成或评测结果。",
+  "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-data-gen-framework",
+  "date": "2025-09-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-09-22T06:45:05+00:00",
+  "titleEn": "SyGra: The One-Stop Framework for Building Data for LLMs and SLMs",
+  "titleZh": "SyGra：面向 LLM 与 SLM 数据构建的一站式框架",
+  "details": {
+    "overview": "该条目仅有标题，摘要与原文正文均缺失，无法确认作者、机构、框架组成或评测结果。从标题看，SyGra 定位为面向大语言模型（LLM）与小语言模型（SLM）的数据构建一站式框架，即围绕训练数据生成与组织提供统一工具。由于材料不足，本介绍不对其功能模块、支持的数据类型或实际效果作推断，具体内容需以原始发布为准。",
+    "keyPoints": [
+      "标题显示 SyGra 是面向 LLM 与 SLM 的数据构建框架。",
+      "定位为“一站式”，但具体功能模块当前收录材料未提供。",
+      "摘要与正文缺失，效果与适用范围无法核实。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

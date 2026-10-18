@@ -1,0 +1,25 @@
+{
+  "id": "a4ebd1339376da21",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Our decision on Cursor following its acquisition by SpaceX",
+  "summary": "该发布说明，在Cursor被SpaceX收购之后，OpenAI决定逐步终止向Cursor提供OpenAI模型的合同。",
+  "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+  "date": "2026-08-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-28T06:00:00+00:00",
+  "titleEn": "Our decision on Cursor following its acquisition by SpaceX",
+  "titleZh": "在Cursor被SpaceX收购后，我们关于Cursor的决定",
+  "details": {
+    "overview": "该发布说明，在Cursor被SpaceX收购之后，OpenAI决定逐步终止向Cursor提供OpenAI模型的合同。当前收录材料仅给出这一决定本身，未说明终止的时间表、过渡安排或对用户的具体影响，也未解释收购与合同终止之间的具体关联。",
+    "keyPoints": [
+      "OpenAI宣布将逐步终止向Cursor提供OpenAI模型的合同",
+      "该决定作出于Cursor被SpaceX收购之后",
+      "当前收录材料未提供终止时间表及对用户的具体影响"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

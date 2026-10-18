@@ -1,0 +1,24 @@
+{
+  "id": "fc5adbe168263145",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+  "summary": "文章讨论物理AI从研究走向大规模部署时面临的安全问题。",
+  "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
+  "date": "2026-09-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-09-21T16:00:46+00:00",
+  "titleEn": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+  "titleZh": "为何大规模部署物理AI需要每一层都具备安全性",
+  "details": {
+    "overview": "文章讨论物理AI从研究走向大规模部署时面临的安全问题。原文引用ABI Research预测2035年3至5级自动驾驶汽车保有量将达4900万辆，Omdia估计2026至2035年间约6000万台工业机器人将被部署。随着这些机器进入道路、工厂、仓库等与人共享的环境，作者提出安全需贯穿各层。摘要未展开具体安全框架与措施，细节不足。",
+    "keyPoints": [
+      "引用ABI Research预测2035年3至5级自动驾驶汽车保有量达4900万辆",
+      "引用Omdia估计2026至2035年约6000万台工业机器人将部署",
+      "指出机器进入与人共享环境，强调各层安全的重要性"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

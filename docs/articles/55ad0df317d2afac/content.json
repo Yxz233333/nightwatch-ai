@@ -1,0 +1,25 @@
+{
+  "id": "55ad0df317d2afac",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.144.3 发布",
+  "summary": "这是 Codex CLI 的 0.144.3 版本发布记录。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.144.3",
+  "date": "2026-07-13",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-07-13T06:12:19+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.144.3 发布",
+  "titleZh": "Codex CLI 0.144.3 发布",
+  "details": {
+    "overview": "这是 Codex CLI 的 0.144.3 版本发布记录。原文说明，自 rust-v0.144.2 以来没有合并任何拉取请求改动，本次仅发布版本号，属于纯版本发布，未包含功能或修复内容。原文只给出与上一版本的完整变更对比链接，未提供其他细节。",
+    "keyPoints": [
+      "自 rust-v0.144.2 起无合并的拉取请求改动",
+      "本次为仅更新版本号的发布",
+      "原文仅附完整变更对比链接"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

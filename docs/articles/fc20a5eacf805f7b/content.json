@@ -1,0 +1,25 @@
+{
+  "id": "fc20a5eacf805f7b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing GeneBench-Pro",
+  "summary": "该条目介绍新基准 GeneBench-Pro，用于测试 AI 在基因组学、生物学和科学研究中的表现，评测基于复杂的真实世界数据集。",
+  "url": "https://openai.com/index/introducing-genebench-pro",
+  "date": "2026-06-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-30T00:00:00+00:00",
+  "titleEn": "Introducing GeneBench-Pro",
+  "titleZh": "推出 GeneBench-Pro",
+  "details": {
+    "overview": "该条目介绍新基准 GeneBench-Pro，用于测试 AI 在基因组学、生物学和科学研究中的表现，评测基于复杂的真实世界数据集。原始发布内容仅有一句摘要，未说明任务构成、数据规模、参评模型与具体结果。以下要点仅依据现有摘要，材料不足，细节应以官方原文为准。",
+    "keyPoints": [
+      "GeneBench-Pro 是面向基因组学、生物学与科学研究的 AI 基准测试。",
+      "评测使用复杂的真实世界数据集。",
+      "原始内容有限，任务设计与评测结果不详。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

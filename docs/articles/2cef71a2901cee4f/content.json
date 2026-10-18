@@ -13,7 +13,7 @@
   "titleEn": "Reconstruction of Function Fields from Mod-ℓ Milnor K-Theory",
   "titleZh": "由模ℓ Milnor K理论重构函数域",
   "details": {
-    "overview": "稿件证明模ℓ的Bogomolov–Pop重构定理，适用于特征不等于ℓ的任意代数闭域上超越次数至少二的函数域。作者声称群K^M₁/ℓ与K^M₂/ℓ连同其完整双线性积可决定完美闭包及其常数域；每个相容同构由域同构诱导，至多差F_ℓ^×中一个标量，正特征下域同构仅有Frobenius歧义。摘要未给出证明，手稿未经独立审查。",
+    "overview": "稿件证明模ℓ的Bogomolov–Pop重构定理，适用于特征不等于ℓ的任意代数闭域上超越次数至少二的函数域。作者声称群K^M₁/ℓ与K^M₂/ℓ连同其完整双线性积可决定完美闭包及其常数域；每个相容同构由域同构诱导，至多差F_ℓ^×中一个标量，正特征下域同构仅有Frobenius歧义。当前收录摘要未给出证明，手稿未经独立审查。",
     "keyPoints": [
       "对超越次数≥2的函数域证明模ℓ Bogomolov–Pop重构。",
       "K^M₁/ℓ与K^M₂/ℓ及双线性积决定完美闭包与常数域。",

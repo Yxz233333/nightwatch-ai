@@ -1,0 +1,23 @@
+{
+  "id": "f7906d958d784330",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Create and collaborate on slides in ChatGPT",
+  "summary": "该功能更新介绍ChatGPT Slides：用户可从对话、文件或大纲开始制作演示文稿，也可分享示例幻灯片以引导风格和版式；可直接编辑文字、图片、形状和图表，或让ChatGPT修改；可邀请团队成员在Space中实时共同编辑并共享评论；可直接在ChatGPT中演示，网页版可导出为PowerPoint、PDF或Google Slides，桌面应用可在已安装相应软件时用PowerPoint或Keynote打开。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-and-collaborate-on-slides-in-chatgpt",
+  "date": "2026-10-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Create and collaborate on slides in ChatGPT",
+  "titleZh": "在ChatGPT中创建和协作制作幻灯片",
+  "details": {
+    "overview": "该功能更新介绍ChatGPT Slides：用户可从对话、文件或大纲开始制作演示文稿，也可分享示例幻灯片以引导风格和版式；可直接编辑文字、图片、形状和图表，或让ChatGPT修改；可邀请团队成员在Space中实时共同编辑并共享评论；可直接在ChatGPT中演示，网页版可导出为PowerPoint、PDF或Google Slides，桌面应用可在已安装相应软件时用PowerPoint或Keynote打开。原文称该功能正面向具备Space访问权限的符合条件的Pro、Business和Enterprise用户推出。",
+    "keyPoints": [
+      "可从对话、文件或大纲创建幻灯片，并用示例幻灯片引导风格。",
+      "支持实时协作编辑、共享评论，以及直接演示或导出。",
+      "正面向具备Space访问权限的符合条件的Pro、Business和Enterprise用户推出。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

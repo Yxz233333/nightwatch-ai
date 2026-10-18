@@ -1,0 +1,23 @@
+{
+  "id": "9a840dbc646a80e2",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "GPT-5.5 Instant Update",
+  "summary": "OpenAI更新ChatGPT中使用最广的模型GPT-5.5 Instant，重点提升对话质量，尤其在用户做决策、寻求建议、规划、调研选项或购物时。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-55-instant-update",
+  "date": "2026-06-24",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "GPT-5.5 Instant Update",
+  "titleZh": "GPT-5.5 Instant更新",
+  "details": {
+    "overview": "OpenAI更新ChatGPT中使用最广的模型GPT-5.5 Instant，重点提升对话质量，尤其在用户做决策、寻求建议、规划、调研选项或购物时。模型能更好识别问题背后的目标，跨多轮保持上下文，并更可靠地遵循包含多个约束的复杂指令。当用户补充条件或提出异议时，模型能更有效调整而非重复原方案。购物和本地商家查询也更实用，能结合位置信息整合产品推荐、商家信息和图片。整体回复更协调、有设计感。",
+    "keyPoints": [
+      "GPT-5.5 Instant更新提升对话质量，聚焦决策、建议、规划和购物场景。",
+      "模型增强目标识别与多轮上下文保持，更可靠地遵循复杂多约束指令。",
+      "购物与本地查询能更好利用位置信息，整合推荐、商家信息和图片。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

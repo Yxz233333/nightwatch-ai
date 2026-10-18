@@ -1,0 +1,23 @@
+{
+  "id": "c787a4ef0f647560",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Connect multiple accounts to plugins in ChatGPT",
+  "summary": "OpenAI宣布ChatGPT插件现可连接多个账户，支持范围不再局限于Gmail、Google日历和Google联系人。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connect-multiple-accounts-to-plugins-in-chatgpt",
+  "date": "2026-09-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Connect multiple accounts to plugins in ChatGPT",
+  "titleZh": "在ChatGPT插件中连接多个账户",
+  "details": {
+    "overview": "OpenAI宣布ChatGPT插件现可连接多个账户，支持范围不再局限于Gmail、Google日历和Google联系人。用户可把个人账户与工作账户带入同一段对话，让ChatGPT跨个人和工作账户查找信息并协助完成任务。该功能面向所有ChatGPT套餐，覆盖网页、移动端和桌面端。",
+    "keyPoints": [
+      "ChatGPT插件支持连接多个账户，范围超出Gmail、日历和联系人。",
+      "个人与工作账户可在同一对话中使用，便于跨账户查找信息。",
+      "该功能面向所有ChatGPT套餐，覆盖网页、移动端和桌面端。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

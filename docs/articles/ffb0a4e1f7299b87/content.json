@@ -1,0 +1,23 @@
+{
+  "id": "ffb0a4e1f7299b87",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Slack connector and app",
+  "summary": "OpenAI推出两种新方式将Slack与ChatGPT结合：一个将Slack上下文引入ChatGPT的连接器，以及一个可在Slack内与ChatGPT对话的ChatGPT应用。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#slack-connector-and-app",
+  "date": "2025-10-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Slack connector and app",
+  "titleZh": "Slack连接器与应用",
+  "details": {
+    "overview": "OpenAI推出两种新方式将Slack与ChatGPT结合：一个将Slack上下文引入ChatGPT的连接器，以及一个可在Slack内与ChatGPT对话的ChatGPT应用。用户可在Slack侧边栏中提问、总结长线程、起草回复并搜索消息和文件，聊天记录也会同步至ChatGPT侧边栏。",
+    "keyPoints": [
+      "推出Slack连接器与ChatGPT应用两种集成方式",
+      "支持在Slack内总结线程、起草回复和搜索",
+      "聊天记录跨平台同步，语义搜索限特定套餐"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

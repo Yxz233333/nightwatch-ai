@@ -1,0 +1,25 @@
+{
+  "id": "e6407efed109ac96",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`",
+  "summary": "该消息标题显示LeRobotDataset升级至v3.0，目标是把大规模数据集引入lerobot。",
+  "url": "https://huggingface.co/blog/lerobot-datasets-v3",
+  "date": "2025-09-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-09-16T00:00:00+00:00",
+  "titleEn": "`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`",
+  "titleZh": "LeRobotDataset:v3.0：将大规模数据集引入lerobot",
+  "details": {
+    "overview": "该消息标题显示LeRobotDataset升级至v3.0，目标是把大规模数据集引入lerobot。材料未提供数据集规模、格式变化、兼容性或使用方式等细节，具体推出范围与限制需以官方原文为准。",
+    "keyPoints": [
+      "LeRobotDataset发布v3.0版本",
+      "目标是将大规模数据集引入lerobot",
+      "数据集规模与格式变化等细节未说明"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "99ed7db2c7c08ce7",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Investing in multi-agent AI safety research",
+  "summary": "该文宣布Google DeepMind与合作伙伴发起一项总额1000万美元的资助征集，面向多智能体AI安全研究。",
+  "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+  "date": "2026-06-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-06-10T10:21:19+00:00",
+  "titleEn": "Investing in multi-agent AI safety research",
+  "titleZh": "投资多智能体AI安全研究",
+  "details": {
+    "overview": "该文宣布Google DeepMind与合作伙伴发起一项总额1000万美元的资助征集，面向多智能体AI安全研究。提供的材料仅为摘要，未说明申请条件、资助周期、评审方式或研究议题范围。因此本介绍仅能确认资助方、金额与研究方向，具体安排需以官方原始发布为准。",
+    "keyPoints": [
+      "Google DeepMind与合作伙伴发起资助征集",
+      "总额为1000万美元",
+      "研究方向为多智能体AI安全"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

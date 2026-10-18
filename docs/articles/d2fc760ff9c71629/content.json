@@ -1,0 +1,23 @@
+{
+  "id": "d2fc760ff9c71629",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Legacy deep research mode deprecation notice",
+  "summary": "该通知说明旧版深度研究模式将于 2026 年 3 月 26 日（星期四）移除。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#legacy-deep-research-mode-deprecation-notice",
+  "date": "2026-03-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Legacy deep research mode deprecation notice",
+  "titleZh": "旧版深度研究模式弃用通知",
+  "details": {
+    "overview": "该通知说明旧版深度研究模式将于 2026 年 3 月 26 日（星期四）移除。官方强调此次变更仅影响旧版模式，当前深度研究体验保持不变，历史对话与结果仍可访问。通知还引导用户查阅 ChatGPT 中深度研究的相关说明。材料未说明旧版模式的具体功能差异或迁移建议，用户需以原文为准。",
+    "keyPoints": [
+      "旧版深度研究模式将于 2026 年 3 月 26 日移除",
+      "仅影响旧版模式，当前深度研究体验不变",
+      "历史对话与结果仍可访问"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "9797a443e315d79d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Converting inbound leads into customers at OpenAI",
+  "summary": "该文介绍OpenAI内部使用AI销售助手来筛选入站线索、个性化回复，并帮助销售团队转化客户兴趣。",
+  "url": "https://openai.com/index/openai-inbound-sales-assistant",
+  "date": "2025-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-29T13:30:00+00:00",
+  "titleEn": "Converting inbound leads into customers at OpenAI",
+  "titleZh": "OpenAI如何将入站线索转化为客户",
+  "details": {
+    "overview": "该文介绍OpenAI内部使用AI销售助手来筛选入站线索、个性化回复，并帮助销售团队转化客户兴趣。原始材料仅有一句概述，未披露具体工具细节、效果数据或验证方式，因此只能确认其主题为内部AI销售助手的应用经验分享，不能推断实际转化效果。",
+    "keyPoints": [
+      "OpenAI内部使用AI销售助手筛选入站线索。",
+      "该助手用于个性化回复并协助销售团队转化客户兴趣。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

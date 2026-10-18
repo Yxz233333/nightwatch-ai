@@ -1,0 +1,24 @@
+{
+  "id": "11b86cb52b4cb833",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+  "summary": "Perplexity宣布其本地版智能体“便携计算机”已在Windows平台上线，并由NVIDIA GPU加速。",
+  "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+  "date": "2026-09-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-09-14T15:00:52+00:00",
+  "titleEn": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+  "titleZh": "Perplexity便携计算机现已登陆Windows，由NVIDIA RTX加速",
+  "details": {
+    "overview": "Perplexity宣布其本地版智能体“便携计算机”已在Windows平台上线，并由NVIDIA GPU加速。该产品是Perplexity Computer智能体的本地版本，可规划并执行多步骤任务，利用本地模型分析数据、汇总信息，从而在PC上直接完成更多工作，同时把敏感信息保留在设备端。当前收录材料未提供具体模型、硬件要求与可用范围。",
+    "keyPoints": [
+      "便携计算机是Perplexity Computer智能体的本地版本，可规划并执行多步骤任务。",
+      "由NVIDIA GPU加速，使用本地模型分析数据并汇总信息。",
+      "主打在PC本地处理工作，让敏感信息留在设备上。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

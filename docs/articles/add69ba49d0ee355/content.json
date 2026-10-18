@@ -1,0 +1,23 @@
+{
+  "id": "add69ba49d0ee355",
+  "section": "news",
+  "category": "模型动态",
+  "title": "DeepSeek-V3.1-Terminus",
+  "summary": "DeepSeek 官方发布记录显示，deepseek-chat 与 deepseek-reasoner 两个接口均已升级至 DeepSeek-V3.1-Terminus，前者对应非思考模式，后者对应思考模式。",
+  "url": "https://api-docs.deepseek.com/updates/#deepseek-v31-terminus",
+  "date": "2025-09-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "DeepSeek 官方更新",
+  "titleEn": "DeepSeek-V3.1-Terminus",
+  "titleZh": "DeepSeek-V3.1-Terminus",
+  "details": {
+    "overview": "DeepSeek 官方发布记录显示，deepseek-chat 与 deepseek-reasoner 两个接口均已升级至 DeepSeek-V3.1-Terminus，前者对应非思考模式，后者对应思考模式。此次更新在保持模型原有能力的基础上，针对用户反馈的问题做了修正：一是语言一致性，减少中英文混杂和偶发异常字符；二是智能体能力，进一步优化 Code Agent 与 Search Agent 的表现。当前收录材料未提供具体评测数据、推出范围与限制，需以官方原始发布为准。",
+    "keyPoints": [
+      "deepseek-chat 与 deepseek-reasoner 均升级至 DeepSeek-V3.1-Terminus，分别对应非思考与思考模式。",
+      "更新保持原有能力，并减少中英文混杂与偶发异常字符，改善语言一致性。",
+      "进一步优化 Code Agent 与 Search Agent 的智能体表现。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

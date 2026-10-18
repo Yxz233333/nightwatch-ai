@@ -1,0 +1,24 @@
+{
+  "id": "7f0a28406b5a70af",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
+  "summary": "该报道称，Emerald AI、Google和NVIDIA宣布成立AI能源管理联盟（AEMA），定位为首个此类联盟，目标是推进数据中心动态管理用电。",
+  "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
+  "date": "2026-09-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-09-16T13:00:33+00:00",
+  "titleEn": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
+  "titleZh": "Emerald AI、Google与NVIDIA联合成立联盟，推进灵活AI数据中心",
+  "details": {
+    "overview": "该报道称，Emerald AI、Google和NVIDIA宣布成立AI能源管理联盟（AEMA），定位为首个此类联盟，目标是推进数据中心动态管理用电。原文将AI工厂称为智能时代的基础设施，并指出负责任地扩展规模既取决于数据中心内部创新，也取决于电网侧创新。原文在此处截断，未披露联盟成员规模、实施时间表或具体技术方案。",
+    "keyPoints": [
+      "三方宣布成立AI能源管理联盟AEMA",
+      "联盟聚焦数据中心动态管理电力使用",
+      "原文称扩展AI工厂需电网与数据中心两侧创新"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

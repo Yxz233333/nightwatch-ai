@@ -1,0 +1,25 @@
+{
+  "id": "e8bbb3340da1c071",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+  "summary": "该条目标题指向 Ulysses 序列并行方法，主题是在百万级 Token 上下文的规模下进行训练。",
+  "url": "https://huggingface.co/blog/ulysses-sp",
+  "date": "2026-03-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-03-09T00:00:00+00:00",
+  "titleEn": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+  "titleZh": "Ulysses 序列并行：百万级 Token 上下文训练",
+  "details": {
+    "overview": "该条目标题指向 Ulysses 序列并行方法，主题是在百万级 Token 上下文的规模下进行训练。但提供的摘要与原文内容仅有标题本身，缺少方法细节、实验设置与结果数据。因此只能确认其讨论对象为长上下文训练中的序列并行技术，无法进一步说明作者声称的具体效果或意义，相关内容需以原始发布为准。",
+    "keyPoints": [
+      "主题为 Ulysses 序列并行方法",
+      "面向百万级 Token 上下文训练场景",
+      "材料仅有标题，缺少方法与结果细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

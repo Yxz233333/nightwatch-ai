@@ -1,0 +1,24 @@
+{
+  "id": "d9901bac02036484",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Update to 2.5 Flash in Gemini",
+  "summary": "Gemini应用用户现可使用增强版Gemini 2.5 Flash。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2025-09-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|Update to 2.5 Flash in Gemini|2025-09-25",
+  "titleEn": "Update to 2.5 Flash in Gemini",
+  "titleZh": "Gemini中2.5 Flash更新",
+  "details": {
+    "overview": "Gemini应用用户现可使用增强版Gemini 2.5 Flash。该版本改进了回答的组织和格式，使用标题、列表和表格使复杂输出更清晰易读，同时提升了图像理解能力，能更好地解读和回应上传内容。官方建议可尝试用图表解题或上传课堂笔记进行整理、总结或制作闪卡。当前收录材料未提供性能提升的具体数据。",
+    "keyPoints": [
+      "增强版Gemini 2.5 Flash已向Gemini应用用户开放",
+      "改进格式组织，使用标题、列表和表格提升可读性",
+      "提升图像理解，可解读图表和上传内容"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

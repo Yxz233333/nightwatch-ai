@@ -1,0 +1,25 @@
+{
+  "id": "278a5e2cad44dc0f",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
+  "summary": "该条目为 GPT-5.2 系统卡的增补文件，主题为 GPT-5.2-Codex。",
+  "url": "https://openai.com/index/gpt-5-2-codex-system-card",
+  "date": "2025-12-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-18T00:00:00+00:00",
+  "titleEn": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
+  "titleZh": "GPT-5.2 系统卡增补：GPT-5.2-Codex",
+  "details": {
+    "overview": "该条目为 GPT-5.2 系统卡的增补文件，主题为 GPT-5.2-Codex。现有材料仅包含标题与一句摘要，未提供模型能力、评测结果、适用范围或限制等具体内容，因此无法介绍其研究对象与作者声称的结果。读者应以官方原始发布记录为准，了解当时的推出范围与限制。",
+    "keyPoints": [
+      "条目性质为 GPT-5.2 系统卡的增补文件",
+      "主题为 GPT-5.2-Codex 模型",
+      "材料未披露能力、评测与适用范围细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

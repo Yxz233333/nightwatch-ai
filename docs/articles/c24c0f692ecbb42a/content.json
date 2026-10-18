@@ -1,0 +1,25 @@
+{
+  "id": "c24c0f692ecbb42a",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+  "summary": "据官方发布信息，JetBrains推出名为Mellum2的模型，标题显示其为120亿参数的混合专家（Mixture-of-Experts）模型。",
+  "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+  "date": "2026-06-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-06-01T15:45:17+00:00",
+  "titleEn": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+  "titleZh": "JetBrains推出Mellum2：120亿参数混合专家模型",
+  "details": {
+    "overview": "据官方发布信息，JetBrains推出名为Mellum2的模型，标题显示其为120亿参数的混合专家（Mixture-of-Experts）模型。现有材料仅有标题，未提供训练方法、基准测试、开放范围或使用限制等细节，因此无法进一步说明其能力与意义，具体信息应以原始发布为准。",
+    "keyPoints": [
+      "JetBrains推出Mellum2模型。",
+      "标题显示该模型为120亿参数混合专家架构。",
+      "现有材料缺少训练、评测和开放范围等细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

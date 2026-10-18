@@ -1,0 +1,24 @@
+{
+  "id": "85de084a6778157c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "UC Santa Cruz Maps Coastal Flooding With NVIDIA Accelerated Computing",
+  "summary": "NVIDIA 官方发布记录称，美国沿海社区在 30 年内发生洪水的概率为 26%，并预计因气候变化导致的海平面上升而升高。",
+  "url": "https://blogs.nvidia.com/blog/uc-santa-cruz-maps-coastal-flooding/",
+  "date": "2025-10-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-10-21T16:30:16+00:00",
+  "titleEn": "UC Santa Cruz Maps Coastal Flooding With NVIDIA Accelerated Computing",
+  "titleZh": "加州大学圣克鲁兹分校借助 NVIDIA 加速计算绘制沿海洪水地图",
+  "details": {
+    "overview": "NVIDIA 官方发布记录称，美国沿海社区在 30 年内发生洪水的概率为 26%，并预计因气候变化导致的海平面上升而升高。加州大学圣克鲁兹分校沿海气候韧性中心主任 Michael Beck 教授专注于建模和绘制相关效益。原文在此处截断，未说明具体方法、使用哪些 NVIDIA 技术、地图覆盖范围或研究结论，因此只能确认该团队在从事沿海洪水建模与制图工作。",
+    "keyPoints": [
+      "美国沿海社区 30 年内洪水概率为 26%。",
+      "海平面上升预计使这些地区更脆弱。",
+      "Michael Beck 团队聚焦沿海洪水建模与制图。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "0ee07a6d847855db",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Personalization settings are now in Settings",
+  "summary": "官方发布记录表示，个性化设置不再在独立弹窗中打开。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personalization-settings-are-now-in-settings",
+  "date": "2025-09-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Personalization settings are now in Settings",
+  "titleZh": "个性化设置现已迁入“设置”页面",
+  "details": {
+    "overview": "官方发布记录表示，个性化设置不再在独立弹窗中打开。用户可直接在“设置 → 个性化”中管理个性化选项、选择 ChatGPT 人格、添加自定义指令并更新记忆。该调整属于界面入口变化，原文未说明具体上线范围或时间表，相关限制应以官方原始发布记录为准。",
+    "keyPoints": [
+      "个性化设置不再使用独立弹窗",
+      "可在设置→个性化中管理人格、自定义指令和记忆",
+      "原文未说明具体推出范围与限制"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

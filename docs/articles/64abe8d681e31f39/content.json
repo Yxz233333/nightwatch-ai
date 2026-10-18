@@ -1,0 +1,24 @@
+{
+  "id": "64abe8d681e31f39",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing Claude for Small Business",
+  "summary": "Anthropic 发布 Claude for Small Business，一套连接器与预置工作流，将 Claude 嵌入小企业常用工具，包括 Intuit QuickBooks、PayPal、HubSpot、Canva、Docusign、Google Workspace 和 Microsoft 365，可处理薪资规划、月末结账、销售活动、催收发票等任务。",
+  "url": "https://www.anthropic.com/news/claude-for-small-business",
+  "date": "2026-05-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-05-13T16:00:00+00:00",
+  "titleEn": "Introducing Claude for Small Business",
+  "titleZh": "推出面向小型企业的 Claude",
+  "details": {
+    "overview": "Anthropic 发布 Claude for Small Business，一套连接器与预置工作流，将 Claude 嵌入小企业常用工具，包括 Intuit QuickBooks、PayPal、HubSpot、Canva、Docusign、Google Workspace 和 Microsoft 365，可处理薪资规划、月末结账、销售活动、催收发票等任务。产品通过 Claude Cowork 开关安装，附带 15 个智能体工作流和 15 项技能，发送、发布或付款前需用户批准。原文还提到与 PayPal 合作的免费课程、线下培训巡展，以及与 Workday 基金会、社区发展金融机构的合作。",
+    "keyPoints": [
+      "连接 QuickBooks、PayPal、HubSpot 等小企业常用工具",
+      "含 15 个智能体工作流与 15 项技能，操作前需用户批准",
+      "配套 PayPal 免费课程、线下巡展及 CDFI 合作"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

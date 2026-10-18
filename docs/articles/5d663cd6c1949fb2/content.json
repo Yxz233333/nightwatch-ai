@@ -1,0 +1,24 @@
+{
+  "id": "5d663cd6c1949fb2",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Blackwell Raises Bar in New InferenceMAX Benchmarks, Delivering Unmatched Performance and Lowest Cost Per Token",
+  "summary": "NVIDIA 官方发布称，Blackwell 架构在 SemiAnalysis 新推出的 InferenceMAX v1 基准测试中表现突出，取得最高性能和最佳整体效率。",
+  "url": "https://blogs.nvidia.com/blog/blackwell-inferencemax-benchmark-results/",
+  "date": "2025-10-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-10-09T23:22:25+00:00",
+  "titleEn": "NVIDIA Blackwell Raises Bar in New InferenceMAX Benchmarks, Delivering Unmatched Performance and Lowest Cost Per Token",
+  "titleZh": "NVIDIA Blackwell 在全新 InferenceMAX 基准测试中提升标准，实现无与伦比的性能和最低的每 Token 成本",
+  "details": {
+    "overview": "NVIDIA 官方发布称，Blackwell 架构在 SemiAnalysis 新推出的 InferenceMAX v1 基准测试中表现突出，取得最高性能和最佳整体效率。该架构将每百万 Token 的成本较上一代降低了 15 倍。InferenceMAX v1 被描述为首个独立基准，用于衡量跨多种模型和真实场景的总体计算成本。官方强调其投资回报率最佳。",
+    "keyPoints": [
+      "Blackwell 在 InferenceMAX v1 中取得最高性能和最佳整体效率。",
+      "每百万 Token 成本较上一代降低 15 倍。",
+      "InferenceMAX v1 是首个衡量多模型真实场景总计算成本的独立基准。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

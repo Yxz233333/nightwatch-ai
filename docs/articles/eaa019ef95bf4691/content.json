@@ -1,0 +1,24 @@
+{
+  "id": "eaa019ef95bf4691",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Inside Genebench-Pro",
+  "summary": "该条目标题为“深入 Genebench-Pro”，应是对 GeneBench-Pro 基准的进一步介绍。",
+  "url": "https://openai.com/index/genebench-pro/case-studies",
+  "date": "2026-06-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-30T00:00:00+00:00",
+  "titleEn": "Inside Genebench-Pro",
+  "titleZh": "深入 Genebench-Pro",
+  "details": {
+    "overview": "该条目标题为“深入 Genebench-Pro”，应是对 GeneBench-Pro 基准的进一步介绍。但原始发布内容为空，摘要也仅为标题本身，无法确认其任务设计、数据集、评测方法或结果。材料不足，以下要点仅基于标题，具体内容应以官方原文为准。",
+    "keyPoints": [
+      "条目为对 Genebench-Pro 基准的深入介绍。",
+      "原始发布内容缺失，具体细节不详。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

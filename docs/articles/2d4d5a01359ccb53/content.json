@@ -1,0 +1,24 @@
+{
+  "id": "2d4d5a01359ccb53",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Improving Fable 5's biology safeguards",
+  "summary": "Anthropic 官方表示，其重写了 Fable 5 生物学安全分类器的规则集，并基于专家反馈更新训练数据后重新训练，使日常健康与教育类问题触发的回退大幅减少。",
+  "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+  "date": "2026-08-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-08-07T01:00:00+00:00",
+  "titleEn": "Improving Fable 5's biology safeguards",
+  "titleZh": "改进 Fable 5 的生物学安全防护",
+  "details": {
+    "overview": "Anthropic 官方表示，其重写了 Fable 5 生物学安全分类器的规则集，并基于专家反馈更新训练数据后重新训练，使日常健康与教育类问题触发的回退大幅减少。官方称测试中生物学相关回退减少约 85%，但病毒学、毒理学与分子设计等两用请求仍会回退至 Opus 5，因此尚不适用于专业生物学研究与药物开发。原文强调仍会存在误报，相关数据为厂商自测结果。",
+    "keyPoints": [
+      "重写分类器规则并重新训练以减少误报",
+      "官方称测试中生物学相关回退减少约 85%",
+      "两用专业生物学请求仍回退至 Opus 5"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

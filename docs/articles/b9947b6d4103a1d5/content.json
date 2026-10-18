@@ -1,0 +1,24 @@
+{
+  "id": "b9947b6d4103a1d5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+  "summary": "该文介绍Skild AI新推出的S1机器人基础模型。",
+  "url": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
+  "date": "2026-09-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-09-10T16:30:35+00:00",
+  "titleEn": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+  "titleZh": "Skild AI借助NVIDIA物理AI让机器人从单段视频学习新任务",
+  "details": {
+    "overview": "该文介绍Skild AI新推出的S1机器人基础模型。原文指出，制造车间、仓库和生产线的任务与布局经常变化，多数机器人需大量重新编程才能跟上。S1旨在从单段视频演示中学习此前未见过的长时程任务，并借助NVIDIA物理AI技术。该模型于上周发布，当前收录材料未提供具体性能数据与适用范围。",
+    "keyPoints": [
+      "S1是Skild AI新发布的机器人基础模型。",
+      "设计目标是从单段视频演示学习未见过的长时程任务。",
+      "针对产线与仓库任务频繁变化、机器人需大量重编程的问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

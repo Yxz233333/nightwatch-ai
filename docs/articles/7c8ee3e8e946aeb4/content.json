@@ -1,0 +1,24 @@
+{
+  "id": "7c8ee3e8e946aeb4",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
+  "summary": "该报道介绍 NVIDIA 验证工程师 Sakeena Fiza 的工作。",
+  "url": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
+  "date": "2026-09-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-09-23T15:00:32+00:00",
+  "titleEn": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
+  "titleZh": "Sakeena Fiza 助力 NVIDIA 硬件实现规模化成功",
+  "details": {
+    "overview": "该报道介绍 NVIDIA 验证工程师 Sakeena Fiza 的工作。她将验证工作比作侦探查案，称验证工程师要照亮系统的每个角落，拿到系统后首先思考如何找出问题。原文仅呈现这一人物视角的开头，未展开具体技术方法或成果数据，因此可确认的信息有限。",
+    "keyPoints": [
+      "介绍 NVIDIA 验证工程师 Sakeena Fiza 的岗位视角",
+      "以侦探比喻说明验证工程师排查系统隐患的工作方式",
+      "原文未展开具体验证方法或量化成果"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

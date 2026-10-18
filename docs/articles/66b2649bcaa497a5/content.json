@@ -1,0 +1,25 @@
+{
+  "id": "66b2649bcaa497a5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Bringing ChatGPT to GenAI.mil",
+  "summary": "OpenAI for Government 宣布在 GenAI.mil 上部署定制版 ChatGPT，面向美国国防团队提供安全、注重安全的 AI 能力。",
+  "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+  "date": "2026-02-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-09T11:00:00+00:00",
+  "titleEn": "Bringing ChatGPT to GenAI.mil",
+  "titleZh": "将 ChatGPT 引入 GenAI.mil",
+  "details": {
+    "overview": "OpenAI for Government 宣布在 GenAI.mil 上部署定制版 ChatGPT，面向美国国防团队提供安全、注重安全的 AI 能力。现有材料仅有一句摘要，未说明部署规模、具体功能、使用限制或安全措施细节，因此无法进一步描述其技术实现与适用范围。以下要点仅依据该摘要提炼，具体情况以官方原始发布为准。",
+    "keyPoints": [
+      "OpenAI for Government 宣布在 GenAI.mil 部署定制 ChatGPT",
+      "面向美国国防团队提供安全、注重安全的 AI",
+      "材料未披露部署规模与功能细节，以原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

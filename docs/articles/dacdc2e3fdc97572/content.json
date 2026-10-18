@@ -1,0 +1,25 @@
+{
+  "id": "dacdc2e3fdc97572",
+  "section": "news",
+  "category": "工具动态",
+  "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
+  "summary": "该发布宣布 TRL 进入 v1.0，定位为随领域发展而演进的训练后（post-training）库。",
+  "url": "https://huggingface.co/blog/trl-v1",
+  "date": "2026-03-31",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-03-31T00:00:00+00:00",
+  "titleEn": "TRL v1.0: Post-Training Library Built to Move with the Field",
+  "titleZh": "TRL v1.0：随领域演进的训练后库",
+  "details": {
+    "overview": "该发布宣布 TRL 进入 v1.0，定位为随领域发展而演进的训练后（post-training）库。原文仅提供标题与一句摘要，未说明具体 API 变更、兼容性策略、支持的方法或迁移指南，也未给出性能数据与适用范围。因此本条只能确认其版本里程碑与训练后库的定位，具体功能与限制需以官方原始发布记录为准。",
+    "keyPoints": [
+      "TRL 发布 v1.0 版本，定位为训练后库",
+      "强调随领域演进的设计取向",
+      "原文未说明 API 变更、兼容性与迁移方式"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

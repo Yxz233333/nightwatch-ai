@@ -1,0 +1,23 @@
+{
+  "id": "a0e593551aa6c69f",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Retiring OpenAI o3 and GPT-4.5",
+  "summary": "据官方发布记录，OpenAI将继续在ChatGPT中退役使用量有限的旧模型。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-openai-o3-and-gpt-45",
+  "date": "2026-05-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Retiring OpenAI o3 and GPT-4.5",
+  "titleZh": "OpenAI o3与GPT-4.5将退役",
+  "details": {
+    "overview": "据官方发布记录，OpenAI将继续在ChatGPT中退役使用量有限的旧模型。o3将在90天过渡期后于2026年8月26日从ChatGPT退役，GPT-4.5将在30天过渡期后于2026年6月26日退役。两者目前仅通过模型设置向付费用户提供。官方明确这些变更仅适用于ChatGPT，API不受影响。",
+    "keyPoints": [
+      "o3将于2026年8月26日从ChatGPT退役，过渡期90天",
+      "GPT-4.5将于2026年6月26日退役，过渡期30天",
+      "变更仅适用于ChatGPT，API不受影响"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

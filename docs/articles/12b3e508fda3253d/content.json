@@ -1,0 +1,25 @@
+{
+  "id": "12b3e508fda3253d",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Gemini 4 Argon for Robotics",
+  "summary": "该条目为 Gemini 4 Argon 在机器人方向应用的官方发布记录。",
+  "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+  "date": "2026-10-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-10-13T16:01:58+00:00",
+  "titleEn": "Gemini 4 Argon for Robotics",
+  "titleZh": "面向机器人领域的 Gemini 4 Argon",
+  "details": {
+    "overview": "该条目为 Gemini 4 Argon 在机器人方向应用的官方发布记录。现有材料仅有标题与一句摘要，未说明具体机器人任务、能力边界、合作方或可用范围，也未提供任何性能数据。因此只能确认其主题为面向机器人领域的 Gemini 4 Argon，具体内容与限制应以官方原文为准。",
+    "keyPoints": [
+      "主题为 Gemini 4 Argon 在机器人领域的应用",
+      "材料未披露具体任务、能力与性能数据",
+      "可用范围与限制需以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "4c3017a382f5382b",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Introducing ChatGPT Sites in public beta",
+  "summary": "官方发布称ChatGPT Sites让用户无需离开ChatGPT即可把工作或想法变成交互式网站或轻量应用，可制作仪表盘、项目跟踪器、发布日历、原型、内部门户和报告，并在分享前预览和修改。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-sites-in-public-beta",
+  "date": "2026-07-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Introducing ChatGPT Sites in public beta",
+  "titleZh": "ChatGPT Sites开启公开测试",
+  "details": {
+    "overview": "官方发布称ChatGPT Sites让用户无需离开ChatGPT即可把工作或想法变成交互式网站或轻量应用，可制作仪表盘、项目跟踪器、发布日历、原型、内部门户和报告，并在分享前预览和修改。Business和Enterprise客户此前已可使用，现可公开发布并通过URL分享给任何人。Sites同时向Pro、Pro Lite和Edu用户公开测试，Plus随后；Free和Go不可用，欧洲经济区、瑞士和英国暂不提供公开发布及扩展测试。",
+    "keyPoints": [
+      "可在ChatGPT内创建仪表盘、跟踪器、原型和报告等网站",
+      "Business和Enterprise客户可将Sites公开发布并通过URL分享",
+      "Pro、Pro Lite、Edu进入公开测试，Free与Go不可用"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

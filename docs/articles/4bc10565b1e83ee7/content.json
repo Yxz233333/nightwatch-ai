@@ -1,0 +1,25 @@
+{
+  "id": "4bc10565b1e83ee7",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.54.0 发布",
+  "summary": "Codex CLI 0.54.0发布，主要为错误修复和文档调整。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.54.0",
+  "date": "2025-11-05",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-11-04T18:53:40+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.54.0 发布",
+  "titleZh": "Codex CLI 0.54.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.54.0发布，主要为错误修复和文档调整。该版本尝试通过固定musl 1.2.5修复DNS问题，但后被确认为错误修复并在0.55.0中回滚。合并了多项PR，涉及推理增量忽略、账户更新、符号链接跟随、配置示例等。",
+    "keyPoints": [
+      "版本以错误修复和文档调整为主。",
+      "固定musl 1.2.5的修复后被回滚。",
+      "合并多项PR，包括忽略推理增量、跟随符号链接等。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

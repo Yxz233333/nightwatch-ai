@@ -1,0 +1,25 @@
+{
+  "id": "995b246a1dadd4f8",
+  "section": "news",
+  "category": "模型动态",
+  "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+  "summary": "该消息称GGML与llama.cpp加入Hugging Face，目标是保障本地AI的长期进展。",
+  "url": "https://huggingface.co/blog/ggml-joins-hf",
+  "date": "2026-02-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-02-20T00:00:00+00:00",
+  "titleEn": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+  "titleZh": "GGML与llama.cpp加入Hugging Face，以保障本地AI的长期发展",
+  "details": {
+    "overview": "该消息称GGML与llama.cpp加入Hugging Face，目标是保障本地AI的长期进展。原始发布内容为空，仅有标题和一句摘要，未说明合作形式、团队安排、治理结构或对现有用户的影响，因此无法进一步介绍具体细节。",
+    "keyPoints": [
+      "GGML与llama.cpp加入Hugging Face",
+      "官方表述目标为保障本地AI的长期进展",
+      "当前收录材料未提供合作形式与具体安排"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

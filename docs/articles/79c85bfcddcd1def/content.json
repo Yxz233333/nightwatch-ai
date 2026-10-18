@@ -1,0 +1,23 @@
+{
+  "id": "79c85bfcddcd1def",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Improvements to search response quality in Voice",
+  "summary": "该公告说明 ChatGPT Voice 的搜索回答得到改进，可提供更完整、更新的答案，并改善了对购物结果的访问。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improvements-to-search-response-quality-in-voice",
+  "date": "2026-01-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Improvements to search response quality in Voice",
+  "titleZh": "ChatGPT Voice搜索回答质量改进",
+  "details": {
+    "overview": "该公告说明 ChatGPT Voice 的搜索回答得到改进，可提供更完整、更新的答案，并改善了对购物结果的访问。现有材料仅有一句概述，未说明改进涉及哪些地区、语言或用户范围，也未给出上线时间与具体技术手段。因此只能确认功能方向是提升语音场景下搜索回答的完整性与时效性，并扩展购物结果。适用范围与限制以官方原文为准。",
+    "keyPoints": [
+      "改进ChatGPT Voice中的搜索回答质量",
+      "答案更完整、更新，并改善购物结果访问",
+      "适用地区与上线范围材料未说明"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

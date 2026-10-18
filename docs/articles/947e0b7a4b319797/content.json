@@ -1,0 +1,24 @@
+{
+  "id": "947e0b7a4b319797",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Gemini introduces Personal Intelligence",
+  "summary": "Gemini 推出 Personal Intelligence 测试版，允许用户将 Gemini 连接至 Gmail、Photos、YouTube 和 Search 等 Google 应用，以获得更主动、个性化的体验。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2026-01-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|Gemini introduces Personal Intelligence|2026-01-20",
+  "titleEn": "Gemini introduces Personal Intelligence",
+  "titleZh": "Gemini 推出个人智能功能",
+  "details": {
+    "overview": "Gemini 推出 Personal Intelligence 测试版，允许用户将 Gemini 连接至 Gmail、Photos、YouTube 和 Search 等 Google 应用，以获得更主动、个性化的体验。该功能以隐私为中心设计，默认关闭，用户可自主选择连接哪些应用并随时关闭。测试版面向美国 Google AI Pro 和 AI Ultra 订阅者，覆盖 Web、Android 和 iOS，暂不适用于 Google Workspace 商业和教育计划。",
+    "keyPoints": [
+      "用户可自主选择将 Gemini 连接至 Gmail、Photos、YouTube 和 Search。",
+      "连接默认关闭，用户可随时关闭该功能。",
+      "测试版面向美国 Google AI Pro 和 AI Ultra 订阅者。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

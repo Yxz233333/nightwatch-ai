@@ -1,0 +1,23 @@
+{
+  "id": "e83a6997a4271445",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Personal finances in ChatGPT",
+  "summary": "ChatGPT开始推出个人财务体验，美国Pro用户可安全连接支持的金融账户，查看资金流向仪表板，并基于财务背景提问。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#personal-finances-in-chatgpt",
+  "date": "2026-05-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Personal finances in ChatGPT",
+  "titleZh": "ChatGPT中的个人财务功能",
+  "details": {
+    "overview": "ChatGPT开始推出个人财务体验，美国Pro用户可安全连接支持的金融账户，查看资金流向仪表板，并基于财务背景提问。该功能在网页和iOS上可用，可查看支出、账单、订阅、净资产和投资信息，并通过Plaid连接账户。ChatGPT可帮助理解和规划，但不能转移资金、支付账单、进行交易、报税或充当财务顾问。",
+    "keyPoints": [
+      "美国Pro用户可连接金融账户查看财务仪表板",
+      "支持支出、账单、订阅、净资产和投资信息查看",
+      "ChatGPT不能执行资金转移或提供财务建议"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

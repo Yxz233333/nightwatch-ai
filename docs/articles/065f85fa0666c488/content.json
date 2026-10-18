@@ -1,0 +1,24 @@
+{
+  "id": "065f85fa0666c488",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Gemini responses are now even richer, more dynamic, and interactive.",
+  "summary": "该新闻称Gemini的回复不再只是大段文字，针对特定主题可展示更具交互性的探索方式，例如缩放高分辨率图像以逐层查看信息，或生成30至60秒的旁白视频概览。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2026-05-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|Gemini responses are now even richer, more dynamic, and interactive.|2026-05-19",
+  "titleEn": "Gemini responses are now even richer, more dynamic, and interactive.",
+  "titleZh": "Gemini回复更丰富、更动态、更具交互性",
+  "details": {
+    "overview": "该新闻称Gemini的回复不再只是大段文字，针对特定主题可展示更具交互性的探索方式，例如缩放高分辨率图像以逐层查看信息，或生成30至60秒的旁白视频概览。新回复还可包含交错图片、时间线等。Gemini会针对每个提示推理最佳信息组织方式。交互式多层图像和视频概览目前以英语在全球范围内面向特定主题、使用“Pro”模型的用户提供。这是其Neural Expressive设计语言的一部分。",
+    "keyPoints": [
+      "Gemini针对特定主题提供交互式多层图像和30-60秒旁白视频概览。",
+      "新回复可包含交错图片、时间线等，并自动推理最佳信息组织方式。",
+      "交互式多层图像和视频概览目前仅英语、特定主题、Pro模型可用。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

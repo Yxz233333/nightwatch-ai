@@ -1,0 +1,24 @@
+{
+  "id": "93726991e4e4f29b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic Economic Index: Tracking AI’s role in the US and global economy",
+  "summary": "Anthropic 发布第三份经济指数报告，扩展地理数据分析。",
+  "url": "https://www.anthropic.com/research/economic-index-geography",
+  "date": "2025-09-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-09-15T09:00:00+00:00",
+  "titleEn": "Anthropic Economic Index: Tracking AI’s role in the US and global economy",
+  "titleZh": "Anthropic 经济指数：追踪 AI 在美国与全球经济中的角色",
+  "details": {
+    "overview": "Anthropic 发布第三份经济指数报告，扩展地理数据分析。报告发现美国 Claude 使用量远超其他国家，印度第二，巴西、日本、韩国紧随。作者引入 Anthropic AI 使用指数（AUI），按工作年龄人口调整使用份额，发现以色列、新加坡等小国领先，且人均 GDP 与 AUI 强相关（全球 1% 更高 GDP 对应 0.7% 更高 AUI；美国州内为 1.8%）。报告还追踪任务变化：教育任务占比从 9% 升至 13%，管理从 5% 降至 3%。作者开放数据集并推出交互网站。",
+    "keyPoints": [
+      "美国 Claude 使用量全球第一，印度第二，巴西、日本、韩国紧随。",
+      "人均 GDP 与 AUI 强相关：全球 1% 更高 GDP 对应 0.7% 更高 AUI。",
+      "教育任务占比从 9% 升至 13%，管理任务从 5% 降至 3%。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

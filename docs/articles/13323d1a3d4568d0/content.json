@@ -1,0 +1,23 @@
+{
+  "id": "13323d1a3d4568d0",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "The new ChatGPT desktop app brings Chat, Work, and Codex together",
+  "summary": "官方发布信息显示，新版 ChatGPT 桌面应用面向 macOS 和 Windows 全球提供，把用于问答对话的 Chat、用于调研与交付成果的 Work、用于软件开发的 Codex 合并到同一应用。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#the-new-chatgpt-desktop-app-brings-chat-work-and-codex-together",
+  "date": "2026-07-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "The new ChatGPT desktop app brings Chat, Work, and Codex together",
+  "titleZh": "新版 ChatGPT 桌面应用整合 Chat、Work 与 Codex",
+  "details": {
+    "overview": "官方发布信息显示，新版 ChatGPT 桌面应用面向 macOS 和 Windows 全球提供，把用于问答对话的 Chat、用于调研与交付成果的 Work、用于软件开发的 Codex 合并到同一应用。经用户授权后，Work 可调用本地文件和桌面应用；内置浏览器可让 ChatGPT 从网站收集信息，并配合受支持的网页工具与文件。Codex 新增差异内联编辑、侧栏拉取请求审查、更快的计算机使用，以及单项目多仓库支持。原 Codex 应用用户按常规更新即可迁移，旧版 ChatGPT 桌面应用可能保留为 ChatGPT Classic。",
+    "keyPoints": [
+      "新版桌面应用面向 macOS 与 Windows 全球提供，整合 Chat、Work、Codex 三类能力。",
+      "Work 经用户授权可使用本地文件与桌面应用，内置浏览器可访问网站及受支持的网页工具。",
+      "Codex 新增差异内联编辑、侧栏 PR 审查、更快计算机使用和单项目多仓库支持。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

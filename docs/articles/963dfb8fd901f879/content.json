@@ -1,0 +1,25 @@
+{
+  "id": "963dfb8fd901f879",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing Storage Buckets on the Hugging Face Hub",
+  "summary": "原文标题显示 Hugging Face Hub 推出存储桶（Storage Buckets）功能，但未提供正文内容，因此无法说明其具体功能、适用场景、容量或推出范围。",
+  "url": "https://huggingface.co/blog/storage-buckets",
+  "date": "2026-03-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-03-10T00:00:00+00:00",
+  "titleEn": "Introducing Storage Buckets on the Hugging Face Hub",
+  "titleZh": "Hugging Face Hub 推出存储桶",
+  "details": {
+    "overview": "原文标题显示 Hugging Face Hub 推出存储桶（Storage Buckets）功能，但未提供正文内容，因此无法说明其具体功能、适用场景、容量或推出范围。相关信息需以官方原始发布为准。",
+    "keyPoints": [
+      "Hugging Face Hub 推出存储桶功能",
+      "原文无正文，具体功能与范围不明",
+      "相关信息需以官方原始发布为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

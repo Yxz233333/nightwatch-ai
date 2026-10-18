@@ -1,0 +1,25 @@
+{
+  "id": "81c7ca67a3ca1149",
+  "section": "news",
+  "category": "工具动态",
+  "title": "How Much Memory Does Your Agent Actually Need?",
+  "summary": "现有材料仅有标题“How Much Memory Does Your Agent Actually Need?”，没有摘要或原始发布正文，无法确认作者、研究对象、具体方法或结论。",
+  "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+  "date": "2026-08-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-08-18T18:09:38+00:00",
+  "titleEn": "How Much Memory Does Your Agent Actually Need?",
+  "titleZh": "你的智能体究竟需要多少记忆？",
+  "details": {
+    "overview": "现有材料仅有标题“How Much Memory Does Your Agent Actually Need?”，没有摘要或原始发布正文，无法确认作者、研究对象、具体方法或结论。因此本条只能说明该文围绕智能体的记忆需求这一主题展开，其余信息不足，不宜推测其提出的方案、评测结果或适用场景。",
+    "keyPoints": [
+      "标题聚焦智能体实际需要多少记忆。",
+      "材料未提供作者、方法或结论信息。",
+      "具体内容不足，无法进一步概括。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

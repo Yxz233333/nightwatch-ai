@@ -1,0 +1,25 @@
+{
+  "id": "f198c6e8700e887a",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.160.1 发布",
+  "summary": "该补丁版本更新日志显示，Codex CLI 0.160.1 主要修复一个问题：在使用显式配置的远程环境变量启动远程 stdio MCP 服务器时，保留 SYSTEMROOT、TEMP 和 TMP，使 Unix 主机能够保留 Windows 执行器的启动环境。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.160.1",
+  "date": "2026-10-06",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-10-05T18:29:37+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.160.1 发布",
+  "titleZh": "Codex CLI 0.160.1 发布",
+  "details": {
+    "overview": "该补丁版本更新日志显示，Codex CLI 0.160.1 主要修复一个问题：在使用显式配置的远程环境变量启动远程 stdio MCP 服务器时，保留 SYSTEMROOT、TEMP 和 TMP，使 Unix 主机能够保留 Windows 执行器的启动环境。该修复已回移植到 0.160 分支。",
+    "keyPoints": [
+      "修复远程 stdio MCP 服务器启动时的环境变量保留问题",
+      "保留 SYSTEMROOT、TEMP、TMP 三个变量",
+      "相关修复已回移植到 0.160 分支"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

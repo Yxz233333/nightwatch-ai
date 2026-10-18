@@ -1,0 +1,23 @@
+{
+  "id": "53a77e7d1914ab00",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT Images on Web and Mobile (iOS & Android)",
+  "summary": "官方发布信息称，ChatGPT Images 推出新改进版本，由官方称为迄今最好的图像生成模型驱动。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-on-web-and-mobile-ios-android",
+  "date": "2025-12-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "ChatGPT Images on Web and Mobile (iOS & Android)",
+  "titleZh": "ChatGPT Images 登陆网页与移动端（iOS 与 Android）",
+  "details": {
+    "overview": "官方发布信息称，ChatGPT Images 推出新改进版本，由官方称为迄今最好的图像生成模型驱动。原文强调其精确的指令遵循与编辑能力，使 AI 图像创作从日常修图到创意变换更实用。用户创建的所有图像会自动保存在 chatgpt.com/images 的“My images”下，便于集中浏览、回看与复用，无需翻找历史对话。该功能面向 Free、Go、Plus、Edu 和 Pro 方案提供，Business 与 Enterprise 即将推出。",
+    "keyPoints": [
+      "ChatGPT Images 新版本由官方称为迄今最好的图像生成模型驱动。",
+      "强调精确指令遵循与编辑，图像自动保存至 My images。",
+      "面向 Free、Go、Plus、Edu、Pro 提供，Business 与 Enterprise 即将推出。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

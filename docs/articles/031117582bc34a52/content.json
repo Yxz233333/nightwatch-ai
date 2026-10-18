@@ -1,0 +1,24 @@
+{
+  "id": "031117582bc34a52",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Claude is a space to think",
+  "summary": "Anthropic在该文中宣布Claude将保持无广告，并解释广告激励与“真正有帮助的AI助手”不相容。",
+  "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+  "date": "2026-02-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-02-04T18:00:00+00:00",
+  "titleEn": "Claude is a space to think",
+  "titleZh": "Claude是一片思考的空间",
+  "details": {
+    "overview": "Anthropic在该文中宣布Claude将保持无广告，并解释广告激励与“真正有帮助的AI助手”不相容。作者称对Claude对话的分析显示，相当一部分涉及敏感或深度个人话题，也有复杂软件工程与深度工作用途，广告会显得不合时宜。文章还讨论广告可能影响模型回答、诱导优化参与度，并说明其商业模式为企业合同与付费订阅，同时提到教育、非营利折扣及智能体商务等方向。",
+    "keyPoints": [
+      "Anthropic宣布Claude保持无广告，称广告激励与助手的定位不相容",
+      "作者称对话分析显示相当部分涉及敏感或个人化话题，广告在此类场景不合适",
+      "公司称收入来自企业合同与付费订阅，并会透明说明是否重新审视该做法"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

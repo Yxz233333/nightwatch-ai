@@ -1,0 +1,25 @@
+{
+  "id": "c3a0ae273037f426",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Learn ChatGPT workflows for finance teams",
+  "summary": "该页面介绍面向财务团队的实用ChatGPT工作流，覆盖财务分析、报告、规划以及面向决策的沟通。",
+  "url": "https://openai.com/academy/finance",
+  "date": "2026-04-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-10T00:00:00+00:00",
+  "titleEn": "Learn ChatGPT workflows for finance teams",
+  "titleZh": "学习面向财务团队的ChatGPT工作流",
+  "details": {
+    "overview": "该页面介绍面向财务团队的实用ChatGPT工作流，覆盖财务分析、报告、规划以及面向决策的沟通。原文为工作流学习材料，未说明具体财务模型、数据口径或合规要求。",
+    "keyPoints": [
+      "工作流覆盖财务分析与报告",
+      "涉及规划及面向决策的沟通",
+      "原文未给出具体财务模型或数据口径"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -13,7 +13,7 @@
   "titleEn": "Vanishing of higher bounded Hochschild cohomology",
   "titleZh": "高阶有界Hochschild上同调的消没",
   "details": {
-    "overview": "稿件研究复von Neumann代数上取值于自身的有界Hochschild上同调。作者声称证明了次数至少为2的每个有界Hochschild余循环都有有界原语，并结合已有的次数1内导子定理，正面解决了Kadison–Ringrose上同调猜想。该结果若成立，将统一处理高阶上同调的消没问题，对算子代数上同调理论有重要意义。摘要未给出证明细节或独立验证信息。",
+    "overview": "稿件研究复von Neumann代数上取值于自身的有界Hochschild上同调。作者声称证明了次数至少为2的每个有界Hochschild余循环都有有界原语，并结合已有的次数1内导子定理，正面解决了Kadison–Ringrose上同调猜想。该结果若成立，将统一处理高阶上同调的消没问题，对算子代数上同调理论有重要意义。当前收录摘要未给出证明细节或独立验证信息。",
     "keyPoints": [
       "证明复von Neumann代数上次数≥2的有界Hochschild余循环均有有界原语。",
       "结合次数1内导子定理，声称正面解决Kadison–Ringrose上同调猜想。",

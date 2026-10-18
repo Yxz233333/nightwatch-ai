@@ -1,0 +1,25 @@
+{
+  "id": "d5eaaccf501a7409",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Mixture of Experts (MoEs) in Transformers",
+  "summary": "现有材料仅包含标题“Transformer 中的混合专家（MoEs）”，没有摘要或正文内容，无法确认具体研究对象、作者结论与发表信息。",
+  "url": "https://huggingface.co/blog/moe-transformers",
+  "date": "2026-02-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-02-26T00:00:00+00:00",
+  "titleEn": "Mixture of Experts (MoEs) in Transformers",
+  "titleZh": "Transformer 中的混合专家（MoE）",
+  "details": {
+    "overview": "现有材料仅包含标题“Transformer 中的混合专家（MoEs）”，没有摘要或正文内容，无法确认具体研究对象、作者结论与发表信息。因此本条仅能说明主题涉及 Transformer 架构中的混合专家机制，其余内容不足，需以原始发布全文为准。",
+    "keyPoints": [
+      "主题为 Transformer 架构中的混合专家（MoE）机制。",
+      "现有材料仅有标题，缺少摘要与正文细节。",
+      "具体结论与适用范围需查阅原始发布内容。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

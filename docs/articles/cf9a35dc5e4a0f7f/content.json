@@ -1,0 +1,25 @@
+{
+  "id": "cf9a35dc5e4a0f7f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How an astrophysicist uses Codex to help simulate black holes",
+  "summary": "该官方发布以天体物理学家Chi-kwan Chan为例，介绍其使用Codex构建黑洞模拟，帮助科学家研究极端物理并检验爱因斯坦广义相对论。",
+  "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+  "date": "2026-06-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-11T00:00:00+00:00",
+  "titleEn": "How an astrophysicist uses Codex to help simulate black holes",
+  "titleZh": "一位天体物理学家如何用Codex帮助模拟黑洞",
+  "details": {
+    "overview": "该官方发布以天体物理学家Chi-kwan Chan为例，介绍其使用Codex构建黑洞模拟，帮助科学家研究极端物理并检验爱因斯坦广义相对论。现有材料仅为一句简介，未说明具体模拟方法、Codex承担的工作环节或结果细节，因此只能确认其主题是Codex在黑洞模拟研究中的应用，更多技术内容不足。",
+    "keyPoints": [
+      "主题为天体物理学家Chi-kwan Chan使用Codex构建黑洞模拟",
+      "发布称该工作帮助研究极端物理并检验广义相对论",
+      "现有材料仅一句简介，缺少方法与结果细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

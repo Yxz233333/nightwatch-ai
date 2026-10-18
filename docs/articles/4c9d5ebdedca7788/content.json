@@ -1,0 +1,25 @@
+{
+  "id": "4c9d5ebdedca7788",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.28.0 发布",
+  "summary": "Codex CLI 0.28.0 发布，重点在 TUI 打磨与稳定性：修复输入卡顿、重做消息样式、去除流式消息多余空行、在存在 AGENTS.md 时隐藏“/init”提示、忽略空输入回车以避免排队空消息、捕获光标位置错误防崩溃等。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.28.0",
+  "date": "2025-09-03",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-09-02T22:20:34+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.28.0 发布",
+  "titleZh": "Codex CLI 0.28.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.28.0 发布，重点在 TUI 打磨与稳定性：修复输入卡顿、重做消息样式、去除流式消息多余空行、在存在 AGENTS.md 时隐藏“/init”提示、忽略空输入回车以避免排队空消息、捕获光标位置错误防崩溃等。构建方面改进 Windows ARM 构建可靠性与发布速度，并在发布镜像安装 zstd。另含文档修正、模型切换日志与依赖升级。",
+    "keyPoints": [
+      "TUI 修复输入卡顿、消息样式与流式空行，并避免空输入产生空消息。",
+      "改进 Windows ARM 构建可靠性，在发布镜像安装 zstd 并预热缓存。",
+      "新增用户切换模型时的日志，并升级 regex-lite 等依赖。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

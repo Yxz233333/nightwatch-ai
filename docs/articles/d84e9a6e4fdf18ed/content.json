@@ -1,0 +1,25 @@
+{
+  "id": "d84e9a6e4fdf18ed",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+  "summary": "该条目仅有标题与一句摘要，未提供正文内容。",
+  "url": "https://huggingface.co/blog/webgpu-kernels",
+  "date": "2026-09-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-09-01T00:00:00+00:00",
+  "titleEn": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+  "titleZh": "推出@huggingface/kernels：面向本地AI的200多个WebGPU内核",
+  "details": {
+    "overview": "该条目仅有标题与一句摘要，未提供正文内容。从标题可知，发布物是Hugging Face的kernels包，包含200多个WebGPU内核，面向本地AI运行场景。原文未说明支持模型范围、性能数据、安装方式或硬件要求，材料不足以进一步判断其实际效果，需以官方原始发布为准。",
+    "keyPoints": [
+      "发布@huggingface/kernels包，含200多个WebGPU内核",
+      "定位为本地AI运行场景",
+      "支持范围与性能数据当前收录材料未提供"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "29cac24e0ac309d4",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Project Fetch: Can Claude train a robot dog?",
+  "summary": "Anthropic 开展“Project Fetch”实验，将8名无丰富机器人经验的研究员随机分为有 Claude 辅助和无 Claude 辅助两组，要求操作四足机器狗完成取球任务，分三阶段逐步增加难度。",
+  "url": "https://www.anthropic.com/research/project-fetch-robot-dog",
+  "date": "2025-11-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-11-12T18:19:00+00:00",
+  "titleEn": "Project Fetch: Can Claude train a robot dog?",
+  "titleZh": "Project Fetch：Claude 能训练机器狗吗？",
+  "details": {
+    "overview": "Anthropic 开展“Project Fetch”实验，将8名无丰富机器人经验的研究员随机分为有 Claude 辅助和无 Claude 辅助两组，要求操作四足机器狗完成取球任务，分三阶段逐步增加难度。作者声称，有 Claude 的团队整体完成任务更多、平均更快；对两队均完成的任务，有 Claude 组耗时约为无 Claude 组的一半。实验旨在衡量 AI 对物理世界任务的“提升”效果，并承认任务设置和样本有限。",
+    "keyPoints": [
+      "8名研究员随机分组，对比有无 Claude 辅助操作机器狗取球的表现。",
+      "作者称有 Claude 组完成任务更多、平均更快，部分任务耗时约减半。",
+      "实验分三阶段，从遥控逐步过渡到自主检测和取球。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

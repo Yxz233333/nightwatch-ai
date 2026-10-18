@@ -1,0 +1,25 @@
+{
+  "id": "9bc656ca324fb509",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing GPT-5.3-Codex-Spark",
+  "summary": "该条目为模型动态新闻，摘要称GPT-5.3-Codex-Spark是首个实时编码模型，生成速度提升15倍，上下文128k，现面向ChatGPT Pro用户开放研究预览。",
+  "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+  "date": "2026-02-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-12T10:00:00+00:00",
+  "titleEn": "Introducing GPT-5.3-Codex-Spark",
+  "titleZh": "推出GPT-5.3-Codex-Spark",
+  "details": {
+    "overview": "该条目为模型动态新闻，摘要称GPT-5.3-Codex-Spark是首个实时编码模型，生成速度提升15倍，上下文128k，现面向ChatGPT Pro用户开放研究预览。原始发布内容与摘要一致，未提供更多技术细节或独立验证信息。",
+    "keyPoints": [
+      "GPT-5.3-Codex-Spark被描述为首个实时编码模型。",
+      "摘要称其生成速度提升15倍，支持128k上下文。",
+      "现以研究预览形式面向ChatGPT Pro用户开放。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

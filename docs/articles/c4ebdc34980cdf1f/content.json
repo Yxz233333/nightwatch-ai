@@ -1,0 +1,25 @@
+{
+  "id": "c4ebdc34980cdf1f",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Start building with Gemini 3",
+  "summary": "该条目为 Gemini 3 的官方发布记录，标题为“Start building with Gemini 3”，即面向开发者开始使用 Gemini 3 进行构建。",
+  "url": "https://deepmind.google/blog/start-building-with-gemini-3/",
+  "date": "2025-11-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2025-11-18T17:49:13+00:00",
+  "titleEn": "Start building with Gemini 3",
+  "titleZh": "开始使用 Gemini 3 构建",
+  "details": {
+    "overview": "该条目为 Gemini 3 的官方发布记录，标题为“Start building with Gemini 3”，即面向开发者开始使用 Gemini 3 进行构建。现有材料仅包含标题与简短摘要，未提供具体能力、参数或适用范围等信息，因此无法展开介绍其功能细节。当时的推出范围和限制应以官方原文为准。",
+    "keyPoints": [
+      "官方发布主题为开始使用 Gemini 3 构建",
+      "现有材料仅有标题与简短摘要，细节不足",
+      "推出范围与限制需以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

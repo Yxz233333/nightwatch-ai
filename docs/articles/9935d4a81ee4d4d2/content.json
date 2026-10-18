@@ -1,0 +1,24 @@
+{
+  "id": "9935d4a81ee4d4d2",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
+  "summary": "在拉斯维加斯Black Hat大会开幕之际，Open Secure AI Alliance成员正制定新指南，以加强智能体AI的网络安全。",
+  "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
+  "date": "2026-08-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-08-04T13:00:47+00:00",
+  "titleEn": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
+  "titleZh": "AI业界提出SAFE指南，推动网络安全透明度",
+  "details": {
+    "overview": "在拉斯维加斯Black Hat大会开幕之际，Open Secure AI Alliance成员正制定新指南，以加强智能体AI的网络安全。该联盟成员已超过120家组织。Linux Foundation发布了关于Shared AI Findings Exchange（SAFE）的征求意见稿，这是一套拟议指南。当前收录材料未提供指南的具体条款、生效时间或采纳范围。",
+    "keyPoints": [
+      "Open Secure AI Alliance成员已超过120家组织",
+      "Linux Foundation就SAFE指南发布征求意见稿",
+      "指南拟加强智能体AI网络安全与发现共享"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

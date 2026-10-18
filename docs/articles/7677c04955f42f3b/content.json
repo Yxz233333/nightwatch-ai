@@ -1,0 +1,24 @@
+{
+  "id": "7677c04955f42f3b",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing Claude Opus 4.6",
+  "summary": "Anthropic 发布 Claude Opus 4.6，称其在智能体编程、计算机使用、工具使用、搜索和金融等领域表现领先。",
+  "url": "https://www.anthropic.com/news/claude-opus-4-6",
+  "date": "2026-02-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-02-05T18:00:00+00:00",
+  "titleEn": "Introducing Claude Opus 4.6",
+  "titleZh": "推出 Claude Opus 4.6",
+  "details": {
+    "overview": "Anthropic 发布 Claude Opus 4.6，称其在智能体编程、计算机使用、工具使用、搜索和金融等领域表现领先。该模型改进编码能力，能更谨慎规划、更长时间维持智能体任务，并首次在 Opus 级模型中提供 100 万 token 上下文窗口（测试版）。官方称其在 Terminal-Bench 2.0、Humanity’s Last Exam 等评测中表现优异，并引入自适应思考与 effort 控制。定价保持每百万 token 5/25 美元。",
+    "keyPoints": [
+      "Opus 4.6 改进编码与智能体任务能力，并首次提供 100 万 token 上下文窗口（测试版）。",
+      "官方称其在 Terminal-Bench 2.0 和 Humanity’s Last Exam 等评测中表现领先。",
+      "引入自适应思考与 effort 控制，定价保持每百万 token 5/25 美元。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

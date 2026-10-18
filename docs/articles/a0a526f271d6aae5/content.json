@@ -1,0 +1,25 @@
+{
+  "id": "a0a526f271d6aae5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "A new personal finance experience in ChatGPT",
+  "summary": "ChatGPT推出个人财务体验，用户可连接账户、跟踪支出和投资、管理订阅、创建预算并规划财务目标。",
+  "url": "https://openai.com/index/personal-finance-chatgpt",
+  "date": "2026-05-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-15T00:00:00+00:00",
+  "titleEn": "A new personal finance experience in ChatGPT",
+  "titleZh": "ChatGPT中的全新个人财务体验",
+  "details": {
+    "overview": "ChatGPT推出个人财务体验，用户可连接账户、跟踪支出和投资、管理订阅、创建预算并规划财务目标。该功能旨在帮助用户集中管理财务信息并获得基于自身财务背景的见解，但具体可用范围和限制需参考官方发布。",
+    "keyPoints": [
+      "连接账户以跟踪支出和投资",
+      "管理订阅并创建预算",
+      "规划财务目标并获取见解"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

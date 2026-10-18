@@ -1,0 +1,23 @@
+{
+  "id": "5d5b449aedfe85eb",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "More images in answers",
+  "summary": "官方发布记录称，ChatGPT 现在会从网络添加更多内联图片，帮助用户快速理解知名人物、地点和产品等主题；当视觉有助于澄清时，图片会放在相关段落旁，点击可查看原始尺寸和来源标注。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-images-in-answers",
+  "date": "2025-11-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "More images in answers",
+  "titleZh": "回答中增加更多图片",
+  "details": {
+    "overview": "官方发布记录称，ChatGPT 现在会从网络添加更多内联图片，帮助用户快速理解知名人物、地点和产品等主题；当视觉有助于澄清时，图片会放在相关段落旁，点击可查看原始尺寸和来源标注。该改进正逐步面向所有 ChatGPT 套餐、网页、iOS 和 Android 上使用 GPT 5.1 的回复全球推出。",
+    "keyPoints": [
+      "ChatGPT 在回答中从网络添加更多内联图片。",
+      "图片置于相关段落旁，点击可查看原始尺寸和来源。",
+      "逐步面向所有套餐及网页、iOS、Android 的 GPT 5.1 回复推出。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

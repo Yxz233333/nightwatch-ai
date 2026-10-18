@@ -1,0 +1,25 @@
+{
+  "id": "a2bbb36bc4b578b8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Are you a Codex Original?",
+  "summary": "该发布面向使用 Codex 的开发者、动手实践者、研究人员和创作者，征集他们借助 Codex 完成项目的真实故事，作为 Codex Originals 项目下一阶段的内容来源。",
+  "url": "https://openai.com/form/codex-originals",
+  "date": "2026-09-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-28T00:00:00+00:00",
+  "titleEn": "Are you a Codex Original?",
+  "titleZh": "你是 Codex Original 吗？",
+  "details": {
+    "overview": "该发布面向使用 Codex 的开发者、动手实践者、研究人员和创作者，征集他们借助 Codex 完成项目的真实故事，作为 Codex Originals 项目下一阶段的内容来源。原文仅说明征集意向并邀请提交故事与项目介绍，未披露入选标准、展示形式或时间安排。",
+    "keyPoints": [
+      "面向使用 Codex 的开发者、研究者与创作者征集真实项目故事",
+      "征集内容用于 Codex Originals 项目的下一阶段",
+      "原文未说明入选标准、展示形式与时间安排"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

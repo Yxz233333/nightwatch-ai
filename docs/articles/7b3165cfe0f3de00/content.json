@@ -1,0 +1,25 @@
+{
+  "id": "7b3165cfe0f3de00",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Building more with GPT-5.1-Codex-Max",
+  "summary": "该官方发布推出 GPT-5.1-Codex-Max，定位为面向 Codex 的更快、更智能的智能体编程模型。",
+  "url": "https://openai.com/index/gpt-5-1-codex-max",
+  "date": "2025-11-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-19T00:00:00+00:00",
+  "titleEn": "Building more with GPT-5.1-Codex-Max",
+  "titleZh": "用 GPT-5.1-Codex-Max 构建更多",
+  "details": {
+    "overview": "该官方发布推出 GPT-5.1-Codex-Max，定位为面向 Codex 的更快、更智能的智能体编程模型。原文表示，该模型面向长时间运行、项目规模的工作，并增强了推理能力与 token 效率。材料未提供具体基准数据或适用范围，相关推出范围与限制应以官方原文为准。",
+    "keyPoints": [
+      "推出面向 Codex 的智能体编程模型 GPT-5.1-Codex-Max",
+      "定位为更快、更智能，面向长时间项目级工作",
+      "原文称其增强了推理能力与 token 效率"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "413334b004d45080",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Leading Inference Providers Achieve Lowest Token Cost With Open Source Models on NVIDIA Blackwell",
+  "summary": "文章以医疗诊断洞察、游戏角色对话和客服自主解决为例，指出这些 AI 交互都建立在同一智能单位——token 之上。",
+  "url": "https://blogs.nvidia.com/blog/inference-open-source-models-blackwell-reduce-cost-per-token/",
+  "date": "2026-02-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-02-12T16:00:46+00:00",
+  "titleEn": "Leading Inference Providers Achieve Lowest Token Cost With Open Source Models on NVIDIA Blackwell",
+  "titleZh": "领先推理服务商在 NVIDIA Blackwell 上以开源模型实现最低 token 成本",
+  "details": {
+    "overview": "文章以医疗诊断洞察、游戏角色对话和客服自主解决为例，指出这些 AI 交互都建立在同一智能单位——token 之上。扩展 AI 交互需要企业考虑能否负担更多 token，答案在于更好的 token 经济学。原始发布内容在此处截断，未披露具体服务商、模型、成本数据或 Blackwell 上的性能对比结果。",
+    "keyPoints": [
+      "文章指出医疗、游戏和客服等 AI 交互均以 token 为基本单位。",
+      "企业扩展 AI 交互需考虑 token 成本，文章主张更好的 token 经济学是关键。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

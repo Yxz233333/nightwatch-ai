@@ -1,0 +1,24 @@
+{
+  "id": "efa682d70cb17b6b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Virgin Atlantic ships faster with Codex",
+  "summary": "该文介绍维珍航空使用 Codex 在固定的假日出行截止期限前交付改版移动应用。",
+  "url": "https://openai.com/index/virgin-atlantic",
+  "date": "2026-05-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-22T00:00:00+00:00",
+  "titleEn": "How Virgin Atlantic ships faster with Codex",
+  "titleZh": "维珍航空如何借助 Codex 加快交付",
+  "details": {
+    "overview": "该文介绍维珍航空使用 Codex 在固定的假日出行截止期限前交付改版移动应用。摘要称其达到接近全部的单元测试覆盖率，并实现零 P1 级缺陷。当前收录材料未提供具体团队规模、开发周期或量化提效数据，相关细节不足。",
+    "keyPoints": [
+      "维珍航空用 Codex 交付改版移动应用，须赶在固定假日出行截止期限前上线。",
+      "摘要称单元测试覆盖率达到接近全部，且未出现 P1 级缺陷。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

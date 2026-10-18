@@ -1,0 +1,24 @@
+{
+  "id": "63f01d300e0bbe01",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
+  "summary": "该官方发布信息指出，COVID-19 出现时，科学家因数十年冠状病毒研究积累，已较好理解病毒关键蛋白，从而能在创纪录时间内设计疫苗；下一次大流行未必有同样的先发优势。",
+  "url": "https://blogs.nvidia.com/blog/open-protein-dataset/",
+  "date": "2026-09-24",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-09-24T14:00:50+00:00",
+  "titleEn": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
+  "titleZh": "开放科学如何帮助研究人员为下一次大流行做准备",
+  "details": {
+    "overview": "该官方发布信息指出，COVID-19 出现时，科学家因数十年冠状病毒研究积累，已较好理解病毒关键蛋白，从而能在创纪录时间内设计疫苗；下一次大流行未必有同样的先发优势。为提高应对概率，NVIDIA 加入了一个由全球研究组织组成的联盟，原文提及其中包括 Google，但摘要在此处截断。材料未说明联盟的具体目标、成员全貌、资金安排或研究计划，因此只能确认其方向是借助开放科学与协作研究提升大流行准备能力。",
+    "keyPoints": [
+      "COVID-19 疫苗快速设计得益于此前数十年的冠状病毒研究积累。",
+      "原文认为下一次大流行未必具备同样的研究先发优势。",
+      "NVIDIA 加入含 Google 等机构的全球研究联盟以提升准备能力。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "7836f6798d2a7a85",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "What Parameter Golf taught us about AI-assisted research",
+  "summary": "该官方内容总结 Parameter Golf 活动：共吸引 1000 多名参与者和 2000 多份提交，围绕 AI 辅助机器学习研究、编码智能体、量化以及严格约束下的新模型设计展开探索。",
+  "url": "https://openai.com/index/what-parameter-golf-taught-us",
+  "date": "2026-05-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-12T00:00:00+00:00",
+  "titleEn": "What Parameter Golf taught us about AI-assisted research",
+  "titleZh": "Parameter Golf 对 AI 辅助研究的启示",
+  "details": {
+    "overview": "该官方内容总结 Parameter Golf 活动：共吸引 1000 多名参与者和 2000 多份提交，围绕 AI 辅助机器学习研究、编码智能体、量化以及严格约束下的新模型设计展开探索。材料未说明具体任务设置、评测方式或结论细节，因此只能确认活动规模与主题范围。其意义在于展示以竞赛形式汇集社区力量、探索受限条件下模型与智能体研究的组织方式。",
+    "keyPoints": [
+      "活动汇集 1000 多名参与者与 2000 多份提交",
+      "主题涵盖编码智能体、量化与新型模型设计",
+      "研究在严格约束条件下进行，原文未给出具体结论"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

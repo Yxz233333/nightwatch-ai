@@ -1,0 +1,25 @@
+{
+  "id": "b539a60fea9c0aab",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Evaluating chain-of-thought monitorability",
+  "summary": "OpenAI 提出一套用于评估思维链可监控性的新框架与评测套件，覆盖 24 个环境中的 13 项评估。",
+  "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
+  "date": "2025-12-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-18T12:00:00+00:00",
+  "titleEn": "Evaluating chain-of-thought monitorability",
+  "titleZh": "评估思维链的可监控性",
+  "details": {
+    "overview": "OpenAI 提出一套用于评估思维链可监控性的新框架与评测套件，覆盖 24 个环境中的 13 项评估。摘要表示，研究结果显示监控模型的内部推理比仅监控输出更有效，作者认为这为 AI 系统能力增强时的可扩展控制提供了一条有前景的路径。当前收录材料未提供各项评估的具体结果数值。",
+    "keyPoints": [
+      "提出思维链可监控性框架与评测套件",
+      "覆盖 24 个环境中的 13 项评估",
+      "作者称监控内部推理比仅监控输出更有效"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "0cdcb685fe170942",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "As AI Increases Demands on Memory, Storage Steps Up",
+  "summary": "原文指出，AI需求激增推动了对海量数据集和超出系统内存容量的上下文窗口的需求，但仅增加存储容量并不够，还需要来自AI工厂的有用、有依据的洞察，以及能支撑这些洞察的高效安全存储架构。",
+  "url": "https://blogs.nvidia.com/blog/ai-storage-fms/",
+  "date": "2026-08-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-08-04T15:00:47+00:00",
+  "titleEn": "As AI Increases Demands on Memory, Storage Steps Up",
+  "titleZh": "AI对内存需求上升，存储环节跟进",
+  "details": {
+    "overview": "原文指出，AI需求激增推动了对海量数据集和超出系统内存容量的上下文窗口的需求，但仅增加存储容量并不够，还需要来自AI工厂的有用、有依据的洞察，以及能支撑这些洞察的高效安全存储架构。文章提及本周的Future of…活动，但原文在此处截断，未给出具体产品或技术方案细节。",
+    "keyPoints": [
+      "AI需求推动海量数据集与超长上下文窗口需求",
+      "官方称单纯增加存储容量不足以满足需求",
+      "需要高效安全的存储架构支撑AI工厂洞察"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

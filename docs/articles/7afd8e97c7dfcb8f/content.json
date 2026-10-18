@@ -1,0 +1,24 @@
+{
+  "id": "7afd8e97c7dfcb8f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
+  "summary": "该条目来自Nemotron Labs，讨论开放模型对企业与国家的价值。",
+  "url": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
+  "date": "2026-07-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-07-14T16:45:13+00:00",
+  "titleEn": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
+  "titleZh": "Nemotron Labs：开放模型如何为企业与国家提供可信、可控、可定制的AI",
+  "details": {
+    "overview": "该条目来自Nemotron Labs，讨论开放模型对企业与国家的价值。原文指出，企业可选的强大模型很多，真正的考验在于企业构建的AI能否切实满足业务需求：改善工作流、利用领域知识，并达到准确性与可信度标准。原文未给出具体模型、性能数据或客户案例，属于观点性阐述，相关主张需以原始发布内容为准。",
+    "keyPoints": [
+      "企业选择模型的关键在于能否贴合自身业务需求",
+      "开放模型被定位为可信、可控、可定制的选择",
+      "当前收录材料未提供具体模型或性能数据"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

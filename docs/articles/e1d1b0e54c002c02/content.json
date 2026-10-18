@@ -1,0 +1,24 @@
+{
+  "id": "e1d1b0e54c002c02",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Meet the Streamlabs Streaming Assistant, Accelerated by NVIDIA RTX",
+  "summary": "原文指出，当今创作者同时承担表演者、制作人和玩家角色，需要兼顾游戏解说、场景切换、回放剪辑、聊天管理与技术排障，同时还要保持竞技状态。",
+  "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-logitech-streamlabs-agent/",
+  "date": "2025-09-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-09-17T18:00:28+00:00",
+  "titleEn": "Meet the Streamlabs Streaming Assistant, Accelerated by NVIDIA RTX",
+  "titleZh": "认识由NVIDIA RTX加速的Streamlabs直播助手",
+  "details": {
+    "overview": "原文指出，当今创作者同时承担表演者、制作人和玩家角色，需要兼顾游戏解说、场景切换、回放剪辑、聊天管理与技术排障，同时还要保持竞技状态。文章认为智能体AI对创作者潜力巨大，可驱动智能协作者实时协助联合主持、制作或排查直播问题。材料未说明该助手的具体功能清单、可用范围或实测效果。",
+    "keyPoints": [
+      "创作者需同时处理解说、场景切换、剪辑与聊天管理等任务。",
+      "原文认为智能体AI可充当实时协作的直播助手。",
+      "具体功能范围与效果原文未展开说明。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

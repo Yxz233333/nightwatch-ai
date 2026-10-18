@@ -1,0 +1,24 @@
+{
+  "id": "a4942a71806e6fe6",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "DevFest is back",
+  "summary": "该官方发布宣布DevFest 2026回归，并说明可通过全球800多场活动之一参与，在智能体AI时代进行构建、安全与扩展。",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+  "date": "2026-09-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google AI 官方博客",
+  "publishedAt": "2026-09-14T16:00:00+00:00",
+  "titleEn": "DevFest is back",
+  "titleZh": "DevFest回归",
+  "details": {
+    "overview": "该官方发布宣布DevFest 2026回归，并说明可通过全球800多场活动之一参与，在智能体AI时代进行构建、安全与扩展。原文未列出具体城市、日程或报名细节，参与方式需以官方活动页面为准。",
+    "keyPoints": [
+      "DevFest 2026回归，全球活动超过800场",
+      "活动主题围绕智能体AI时代的构建、安全与扩展"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

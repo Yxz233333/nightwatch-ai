@@ -1,0 +1,25 @@
+{
+  "id": "dfde7ec5d29b2679",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.150.0 发布",
+  "summary": "Codex CLI 发布 0.150.0 稳定版本，更新日志列出新功能与缺陷修复。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.150.0",
+  "date": "2026-08-27",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-08-26T19:37:28+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.150.0 发布",
+  "titleZh": "Codex CLI 0.150.0 发布",
+  "details": {
+    "overview": "Codex CLI 发布 0.150.0 稳定版本，更新日志列出新功能与缺陷修复。新功能包括：用 @ 提及引用其他 Codex 任务，并可从终端让智能体读取、创建或发消息给任务；/copy 提供整段回复、单个代码块和引用块的选取器；未命名终端任务自动获得描述性标题，/rename 会基于对话建议可编辑标题；支持的终端中 Markdown 链接显示为可点击标签；可绑定快捷键循环切换权限模式，Vim 模式下用“.”重复上次编辑；新增 Interrupt 钩子。修复涉及不可信项目的 AGENTS.md 指令、凭据脱敏、远程 MCP 令牌查找、Windows 沙箱与 Unix 关闭挂起等。",
+    "keyPoints": [
+      "新增 @ 提及引用其他 Codex 任务，并可从终端读取、创建或向任务发消息。",
+      "/copy 支持选取整段回复、单个代码块或引用块；未命名任务自动生成描述性标题。",
+      "修复不可信项目指令加载、凭据脱敏、远程 MCP 令牌查找及 Windows 沙箱等问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

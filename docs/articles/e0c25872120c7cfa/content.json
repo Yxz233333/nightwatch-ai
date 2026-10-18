@@ -1,0 +1,25 @@
+{
+  "id": "e0c25872120c7cfa",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing ChatGPT for Excel and new financial data integrations",
+  "summary": "OpenAI推出ChatGPT for Excel及新的财务应用集成，由GPT-5.4驱动，旨在加速受监管环境中的建模、研究和分析。",
+  "url": "https://openai.com/index/chatgpt-for-excel",
+  "date": "2026-03-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-05T00:00:00+00:00",
+  "titleEn": "Introducing ChatGPT for Excel and new financial data integrations",
+  "titleZh": "推出ChatGPT for Excel及新财务数据集成",
+  "details": {
+    "overview": "OpenAI推出ChatGPT for Excel及新的财务应用集成，由GPT-5.4驱动，旨在加速受监管环境中的建模、研究和分析。摘要未披露具体集成应用名单、价格或推出范围，需以原文为准。",
+    "keyPoints": [
+      "ChatGPT for Excel由GPT-5.4驱动，面向建模、研究和分析。",
+      "新增财务应用集成，强调适用于受监管环境。",
+      "具体集成范围与可用性以官方原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

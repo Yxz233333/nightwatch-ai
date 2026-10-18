@@ -1,0 +1,25 @@
+{
+  "id": "ddf6def9a585568b",
+  "section": "news",
+  "category": "工具动态",
+  "title": "LeRobot v0.4.0: Supercharging OSS Robot Learning",
+  "summary": "LeRobot v0.4.0 是开源机器人学习项目 LeRobot 的版本更新。",
+  "url": "https://huggingface.co/blog/lerobot-release-v040",
+  "date": "2025-10-24",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-10-24T00:00:00+00:00",
+  "titleEn": "LeRobot v0.4.0: Supercharging OSS Robot Learning",
+  "titleZh": "LeRobot v0.4.0：加速开源机器人学习",
+  "details": {
+    "overview": "LeRobot v0.4.0 是开源机器人学习项目 LeRobot 的版本更新。官方标题称该版本旨在“加速开源机器人学习”。由于原始发布记录未提供具体功能列表、性能改进或兼容性说明，本文仅能确认版本发布事实及其开源机器人学习定位，无法详述技术细节。",
+    "keyPoints": [
+      "LeRobot 发布 v0.4.0 版本，定位为加速开源机器人学习。",
+      "原始发布记录未披露具体功能变更或性能数据。",
+      "该版本属于开源机器人学习工具链的迭代。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

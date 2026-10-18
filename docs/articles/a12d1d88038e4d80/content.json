@@ -1,0 +1,25 @@
+{
+  "id": "a12d1d88038e4d80",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.103.0 发布",
+  "summary": "该版本更新日志显示，Codex CLI 0.103.0 的新功能包括：应用列表响应返回更丰富的应用详情，如 app_metadata、品牌信息与标签，使客户端无需额外请求即可渲染更完整的应用卡片；提交共同作者归属改用 Codex 管理的 prepare-commit-msg 钩子，并支持 command_attribution 覆盖配置。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.103.0",
+  "date": "2026-02-18",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-02-17T23:02:52+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.103.0 发布",
+  "titleZh": "Codex CLI 0.103.0 发布",
+  "details": {
+    "overview": "该版本更新日志显示，Codex CLI 0.103.0 的新功能包括：应用列表响应返回更丰富的应用详情，如 app_metadata、品牌信息与标签，使客户端无需额外请求即可渲染更完整的应用卡片；提交共同作者归属改用 Codex 管理的 prepare-commit-msg 钩子，并支持 command_attribution 覆盖配置。修复方面移除了 remote_models 功能开关，以避免其关闭时回退模型元数据。其余为依赖升级与工具链回退等维护工作。",
+    "keyPoints": [
+      "应用列表响应新增 app_metadata、品牌与标签等字段",
+      "提交共同作者归属改用 prepare-commit-msg 钩子并支持配置覆盖",
+      "移除 remote_models 功能开关以避免回退模型元数据"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

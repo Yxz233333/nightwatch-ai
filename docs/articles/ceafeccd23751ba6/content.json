@@ -1,0 +1,24 @@
+{
+  "id": "ceafeccd23751ba6",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic is endorsing SB 53",
+  "summary": "Anthropic 宣布支持加州 SB 53 法案，该法案针对前沿 AI 开发者构建的强大 AI 系统进行监管。",
+  "url": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53",
+  "date": "2025-09-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-09-08T11:01:00+00:00",
+  "titleEn": "Anthropic is endorsing SB 53",
+  "titleZh": "Anthropic 支持加州 SB 53 法案",
+  "details": {
+    "overview": "Anthropic 宣布支持加州 SB 53 法案，该法案针对前沿 AI 开发者构建的强大 AI 系统进行监管。Anthropic 表示支持基于披露要求而非指令性技术强制，并认为该法案为前沿 AI 安全提供了透明性基础，同时豁免初创和小型公司。",
+    "keyPoints": [
+      "SB 53 要求大型前沿 AI 公司遵守披露要求。",
+      "Anthropic 认为该法案采用“信任但验证”原则。",
+      "法案为初创和小型公司提供豁免。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

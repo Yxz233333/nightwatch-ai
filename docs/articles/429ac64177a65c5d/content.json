@@ -1,0 +1,25 @@
+{
+  "id": "429ac64177a65c5d",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing GPT-Live",
+  "summary": "官方发布称，GPT-Live 是面向自然人机交互的新一代语音模型，目前用于驱动 ChatGPT Voice。",
+  "url": "https://openai.com/index/introducing-gpt-live",
+  "date": "2026-07-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-08T00:00:00+00:00",
+  "titleEn": "Introducing GPT-Live",
+  "titleZh": "推出 GPT-Live",
+  "details": {
+    "overview": "官方发布称，GPT-Live 是面向自然人机交互的新一代语音模型，目前用于驱动 ChatGPT Voice。原始材料仅有一句摘要，未说明模型架构、参数规模、支持语言、延迟表现或评测结果，也未给出可用地区与套餐范围。因此可确认的是这是一次语音模型代际更新，其能力细节与推出安排需以官方原文为准，不宜据此推断具体性能指标。",
+    "keyPoints": [
+      "GPT-Live 定位为新一代语音模型，面向自然人机交互",
+      "该模型目前用于驱动 ChatGPT Voice",
+      "当前收录材料未提供架构、语言支持或评测数据"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

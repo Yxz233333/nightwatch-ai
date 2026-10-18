@@ -1,0 +1,25 @@
+{
+  "id": "cc2db104dff2aaa9",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+  "summary": "该条目为行业新闻。",
+  "url": "https://openai.com/index/openai-on-aws",
+  "date": "2026-04-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-28T00:00:00+00:00",
+  "titleEn": "OpenAI models, Codex, and Managed Agents come to AWS",
+  "titleZh": "OpenAI 模型、Codex 与托管智能体登陆 AWS",
+  "details": {
+    "overview": "该条目为行业新闻。OpenAI 表示其 GPT 系列模型、Codex 以及托管智能体（Managed Agents）现已在 AWS 上提供，企业可在自有 AWS 环境中构建安全的 AI 应用。原始材料仅有一句概述，未说明具体上架模型版本、区域覆盖、计费方式或与 AWS 原生服务的集成细节。作者声称的意义在于让企业就近在既有云环境中使用 OpenAI 能力，实际范围需以官方原文为准。",
+    "keyPoints": [
+      "OpenAI GPT 模型、Codex 与托管智能体上线 AWS",
+      "面向企业在 AWS 环境中构建安全 AI 应用",
+      "材料未披露模型版本、区域与计费细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

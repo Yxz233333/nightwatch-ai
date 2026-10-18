@@ -1,0 +1,25 @@
+{
+  "id": "f052ff2c5e559337",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How NVIDIA engineers and researchers build with Codex",
+  "summary": "该官方发布称，NVIDIA团队使用Codex配合GPT-5.5交付生产系统，并将研究想法转化为可运行的实验。",
+  "url": "https://openai.com/index/nvidia",
+  "date": "2026-05-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-12T00:00:00+00:00",
+  "titleEn": "How NVIDIA engineers and researchers build with Codex",
+  "titleZh": "NVIDIA工程师与研究人员如何使用Codex",
+  "details": {
+    "overview": "该官方发布称，NVIDIA团队使用Codex配合GPT-5.5交付生产系统，并将研究想法转化为可运行的实验。原始材料仅提供这一概述，未披露具体项目、使用规模或效果数据，因此无法进一步说明实际应用细节与成效。",
+    "keyPoints": [
+      "NVIDIA团队使用Codex配合GPT-5.5",
+      "用途包括交付生产系统",
+      "用途还包括将研究想法转为可运行实验"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

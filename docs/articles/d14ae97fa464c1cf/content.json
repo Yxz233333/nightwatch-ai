@@ -1,0 +1,24 @@
+{
+  "id": "d14ae97fa464c1cf",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Rakuten fixes issues twice as fast with Codex",
+  "summary": "现有材料仅有一句标题式表述，称 Rakuten 使用 Codex 后修复问题的速度提升了一倍。",
+  "url": "https://openai.com/index/rakuten",
+  "date": "2026-03-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-11T00:00:00+00:00",
+  "titleEn": "Rakuten fixes issues twice as fast with Codex",
+  "titleZh": "Rakuten 借助 Codex 将问题修复速度提升一倍",
+  "details": {
+    "overview": "现有材料仅有一句标题式表述，称 Rakuten 使用 Codex 后修复问题的速度提升了一倍。原始发布内容为空，缺少具体场景、衡量方式与验证细节，因此无法进一步说明其研究对象、实施范围或结论依据。",
+    "keyPoints": [
+      "标题称 Rakuten 使用 Codex 后修复问题速度提升一倍。",
+      "原始发布内容为空，缺少具体场景与衡量方式。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

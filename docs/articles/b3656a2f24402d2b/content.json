@@ -1,0 +1,25 @@
+{
+  "id": "b3656a2f24402d2b",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.114.0 发布",
+  "summary": "Codex CLI 0.114.0 发布，新增实验性代码模式与带 SessionStart、Stop 事件的实验性钩子引擎，并为 WebSocket 应用服务器增加健康检查端点。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.114.0",
+  "date": "2026-03-11",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-03-11T00:28:42+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.114.0 发布",
+  "titleZh": "Codex CLI 0.114.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.114.0 发布，新增实验性代码模式与带 SessionStart、Stop 事件的实验性钩子引擎，并为 WebSocket 应用服务器增加健康检查端点。还加入禁用内置系统技能的配置开关，改进交接时的实时转录上下文和 $ 提及选择器。修复涉及 Linux tmux 崩溃、应用启用条件、恢复线程状态、权限兼容与审批持久化等问题。",
+    "keyPoints": [
+      "新增实验性代码模式和带 SessionStart、Stop 事件的实验性钩子引擎。",
+      "WebSocket 应用服务器新增 /readyz 与 /healthz 健康检查端点。",
+      "修复 Linux tmux 崩溃、恢复线程卡住及权限与审批流程等问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

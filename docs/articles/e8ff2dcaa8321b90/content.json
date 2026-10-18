@@ -1,0 +1,24 @@
+{
+  "id": "e8ff2dcaa8321b90",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+  "summary": "文章介绍NVIDIA推出DSX Ready计划，用于认证适配AI工厂的供电与冷却产品。",
+  "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
+  "date": "2026-09-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-09-21T18:00:07+00:00",
+  "titleEn": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+  "titleZh": "NVIDIA推出DSX Ready，为AI工厂的供电与冷却产品提供认证",
+  "details": {
+    "overview": "文章介绍NVIDIA推出DSX Ready计划，用于认证适配AI工厂的供电与冷却产品。原文指出每座AI工厂都需要与其计算架构匹配的供电和冷却，随着AI基础设施扩张，电力、冷却、水资源、场地和电网约束正影响建设者可部署的规模。选择符合整体工厂设计的产品有助于把算力转化为有用的AI产出。摘要未说明认证标准与覆盖范围。",
+    "keyPoints": [
+      "NVIDIA推出DSX Ready，面向AI工厂供电与冷却产品认证",
+      "原文称电力、冷却、水、场地与电网约束影响AI基础设施部署",
+      "目标是让产品匹配整体工厂设计，把算力转化为AI产出"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

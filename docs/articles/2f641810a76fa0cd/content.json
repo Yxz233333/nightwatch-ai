@@ -1,0 +1,25 @@
+{
+  "id": "2f641810a76fa0cd",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+  "summary": "该消息称，Ringg 使用 GPT-5.6 在语音、聊天、WhatsApp 和网页等渠道运行多语言智能体，可解决最高 65% 的客户来电，且相较 GPT-4.1 成本降低 90%。",
+  "url": "https://openai.com/index/ringg",
+  "date": "2026-09-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-23T12:00:00+00:00",
+  "titleEn": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+  "titleZh": "Ringg 的 AI 智能体借助 OpenAI 解决最高 65% 的客户来电",
+  "details": {
+    "overview": "该消息称，Ringg 使用 GPT-5.6 在语音、聊天、WhatsApp 和网页等渠道运行多语言智能体，可解决最高 65% 的客户来电，且相较 GPT-4.1 成本降低 90%。上述比例与成本对比均为原文表述，具体统计口径与适用范围未在材料中说明。",
+    "keyPoints": [
+      "Ringg 基于 GPT-5.6 运行多语言客服智能体",
+      "覆盖语音、聊天、WhatsApp 与网页渠道",
+      "原文称可解决最高 65% 来电，成本较 GPT-4.1 低 90%"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

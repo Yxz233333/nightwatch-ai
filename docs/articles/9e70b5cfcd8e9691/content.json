@@ -1,0 +1,25 @@
+{
+  "id": "9e70b5cfcd8e9691",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Update to GPT-5 System Card: GPT-5.2",
+  "summary": "OpenAI更新GPT-5系统卡，说明GPT-5.2是GPT-5系列最新模型家族。",
+  "url": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2",
+  "date": "2025-12-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-11T00:00:00+00:00",
+  "titleEn": "Update to GPT-5 System Card: GPT-5.2",
+  "titleZh": "GPT-5系统卡更新：GPT-5.2",
+  "details": {
+    "overview": "OpenAI更新GPT-5系统卡，说明GPT-5.2是GPT-5系列最新模型家族。其综合安全缓解措施与GPT-5及GPT-5.1系统卡所述方法大体相同。训练数据来源包括互联网公开信息、通过第三方合作获取的信息，以及用户或人类训练师和研究人员提供或生成的信息。当前收录材料未提供具体评估结果或独立验证情况。",
+    "keyPoints": [
+      "GPT-5.2为GPT-5系列最新模型家族",
+      "安全缓解方法大体沿用GPT-5与GPT-5.1系统卡",
+      "训练数据含公开、第三方合作及用户提供信息"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "7674e49f3616edf6",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
+  "summary": "Artificial Analysis推出行业首个智能体AI基准AgentPerf，供开发者、企业和基础设施提供商比较面向智能体AI的系统。",
+  "url": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
+  "date": "2026-06-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-12T21:00:08+00:00",
+  "titleEn": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
+  "titleZh": "NVIDIA Blackwell在首个智能体AI基础设施基准中领先",
+  "details": {
+    "overview": "Artificial Analysis推出行业首个智能体AI基准AgentPerf，供开发者、企业和基础设施提供商比较面向智能体AI的系统。首批公布结果显示，NVIDIA Blackwell Ultra NVL72平台在测试的智能体AI工作负载中表现领先，原文称其每兆瓦可运行的智能体数量比NVIDIA其他方案多20倍。该基准旨在为智能体AI场景提供可比较的性能参考，具体测试范围与限制需以原始发布为准。",
+    "keyPoints": [
+      "AgentPerf是Artificial Analysis推出的行业首个智能体AI基准。",
+      "首批结果中NVIDIA Blackwell Ultra NVL72在测试负载上表现领先。",
+      "原文称该平台每兆瓦运行的智能体数量为NVIDIA其他方案的20倍。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

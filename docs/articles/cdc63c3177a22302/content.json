@@ -1,0 +1,25 @@
+{
+  "id": "cdc63c3177a22302",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "State of Open Source on Hugging Face: Spring 2026",
+  "summary": "该条目为Hugging Face发布的“2026年春季开源现状”报告，标题表明其关注该平台上的开源生态状况。",
+  "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+  "date": "2026-03-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-03-17T16:37:55+00:00",
+  "titleEn": "State of Open Source on Hugging Face: Spring 2026",
+  "titleZh": "Hugging Face开源现状：2026年春季",
+  "details": {
+    "overview": "该条目为Hugging Face发布的“2026年春季开源现状”报告，标题表明其关注该平台上的开源生态状况。但提供的原始发布内容为空，仅有标题与摘要，缺少具体数据、统计口径和结论，因此无法介绍其研究对象细节或作者声称的具体发现。读者需查阅原文以了解报告涵盖的模型、数据集或社区趋势等内容。",
+    "keyPoints": [
+      "标题指向Hugging Face平台2026年春季的开源状况。",
+      "原始发布内容为空，缺少具体数据与结论。",
+      "报告范围与统计口径需以原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

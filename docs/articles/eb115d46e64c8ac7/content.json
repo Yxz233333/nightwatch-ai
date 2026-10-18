@@ -1,0 +1,23 @@
+{
+  "id": "eb115d46e64c8ac7",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex for Students",
+  "summary": "Codex for Students面向美国和加拿大通过验证的大学生开放。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-for-students",
+  "date": "2026-03-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Codex for Students",
+  "titleZh": "面向学生的Codex",
+  "details": {
+    "overview": "Codex for Students面向美国和加拿大通过验证的大学生开放。符合条件的学生可领取100美元ChatGPT额度，即2500点额度，用于在ChatGPT Free、Go、Plus和Pro所含限额之外继续使用Codex。学生需登录指定页面，用学校邮箱通过SheerID完成学生验证，额度会自动发放到个人工作区，可用于Codex，但不属于API额度，自发放日起12个月后过期。",
+    "keyPoints": [
+      "面向美加通过验证的大学生开放",
+      "可领100美元即2500点ChatGPT额度，非API额度",
+      "额度自动发放至个人工作区，12个月后过期"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

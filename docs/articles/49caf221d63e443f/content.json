@@ -1,0 +1,23 @@
+{
+  "id": "49caf221d63e443f",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Pinned chats in ChatGPT",
+  "summary": "该功能更新称，用户现在可将聊天置顶到列表顶部，以便快速访问重要对话。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#pinned-chats-in-chatgpt",
+  "date": "2025-12-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Pinned chats in ChatGPT",
+  "titleZh": "ChatGPT 聊天置顶功能",
+  "details": {
+    "overview": "该功能更新称，用户现在可将聊天置顶到列表顶部，以便快速访问重要对话。置顶聊天支持 iOS、Android、Web 和 Atlas。Web 端可在左侧边栏悬停聊天后点击 ⋯ 选择置顶；移动端可长按聊天并选择置顶。原文未说明置顶数量上限或套餐限制。",
+    "keyPoints": [
+      "聊天可置顶到列表顶部便于访问",
+      "支持 iOS、Android、Web 与 Atlas",
+      "Web 与移动端提供不同置顶操作方式"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

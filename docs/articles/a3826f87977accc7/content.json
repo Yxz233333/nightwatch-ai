@@ -1,0 +1,25 @@
+{
+  "id": "a3826f87977accc7",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Inside GPT-5 for Work: How Businesses Use GPT-5",
+  "summary": "这是一份数据驱动的报告，考察各行业工作者如何使用 ChatGPT，内容涵盖采用趋势、主要任务类型、部门层面的使用模式以及 AI 在职场中的未来。",
+  "url": "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work",
+  "date": "2026-01-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-22T00:00:00+00:00",
+  "titleEn": "Inside GPT-5 for Work: How Businesses Use GPT-5",
+  "titleZh": "深入 GPT-5 职场应用：企业如何使用 GPT-5",
+  "details": {
+    "overview": "这是一份数据驱动的报告，考察各行业工作者如何使用 ChatGPT，内容涵盖采用趋势、主要任务类型、部门层面的使用模式以及 AI 在职场中的未来。原文摘要仅给出报告范围，未披露具体数据、样本或结论，因此无法进一步说明其发现。",
+    "keyPoints": [
+      "报告聚焦各行业工作者使用 ChatGPT 的情况",
+      "覆盖采用趋势、主要任务与部门模式",
+      "同时讨论 AI 在职场中的未来"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

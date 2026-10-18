@@ -1,0 +1,25 @@
+{
+  "id": "73c1e52c7cb86677",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Helping teens learn, plan, and shape the future of AI",
+  "summary": "该发布介绍面向青少年的ChatGPT新举措：College Planner将进入ChatGPT for Teens，帮助学生管理大学申请；同时推出新的闪卡、测验功能，并设立青少年AI委员会。",
+  "url": "https://openai.com/index/teens-learn-and-plan",
+  "date": "2026-10-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-10-07T12:00:00+00:00",
+  "titleEn": "Helping teens learn, plan, and shape the future of AI",
+  "titleZh": "帮助青少年学习、规划并参与塑造AI的未来",
+  "details": {
+    "overview": "该发布介绍面向青少年的ChatGPT新举措：College Planner将进入ChatGPT for Teens，帮助学生管理大学申请；同时推出新的闪卡、测验功能，并设立青少年AI委员会。当前收录材料仅给出这一概述，未说明具体上线时间、地区范围或功能细节，相关限制需以官方原文为准。",
+    "keyPoints": [
+      "College Planner将进入ChatGPT for Teens，辅助管理大学申请。",
+      "同步推出新的闪卡与测验功能。",
+      "设立青少年AI委员会参与相关事务。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "6f44cb70f65b1c2f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Strengthening cyber resilience as AI capabilities advance",
+  "summary": "OpenAI发布说明，称随着AI模型在网络攻防领域能力增强，其正投入更强的防护措施与防御能力。",
+  "url": "https://openai.com/index/strengthening-cyber-resilience",
+  "date": "2025-12-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-10T12:00:00+00:00",
+  "titleEn": "Strengthening cyber resilience as AI capabilities advance",
+  "titleZh": "在AI能力提升之际加强网络韧性",
+  "details": {
+    "overview": "OpenAI发布说明，称随着AI模型在网络攻防领域能力增强，其正投入更强的防护措施与防御能力。原文表示将解释如何评估风险、限制滥用，并与安全社区合作提升网络韧性。材料为概括性介绍，未披露具体评估方法、防护机制细节或合作范围，相关表述以官方原文为准。",
+    "keyPoints": [
+      "OpenAI称正投入更强防护与防御能力",
+      "原文称将说明风险评估与滥用限制方式",
+      "强调与安全社区合作提升网络韧性"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

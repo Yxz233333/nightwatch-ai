@@ -1,0 +1,24 @@
+{
+  "id": "4750aec448a5f615",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Project Swap: What happens when agents trade for us?",
+  "summary": "Anthropic 让 201 名员工各带一本书，由 Claude 智能体在数字交易场上以物易物换书，研究智能体进入市场后的表现与问题。",
+  "url": "https://www.anthropic.com/research/project-swap",
+  "date": "2026-09-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-09-24T18:37:00+00:00",
+  "titleEn": "Project Swap: What happens when agents trade for us?",
+  "titleZh": "Project Swap：当智能体替我们交易时会发生什么？",
+  "details": {
+    "overview": "Anthropic 让 201 名员工各带一本书，由 Claude 智能体在数字交易场上以物易物换书，研究智能体进入市场后的表现与问题。作者用 Fable 5 通过简短对话构建参与者对全部书籍的偏好排序，并以每人手工排序 10 本书作为对照真值。实验提示：设计智能体市场需验证智能体是否理解参与者，并明确准入规则、交易失败处理与市场活动可见度。",
+    "keyPoints": [
+      "201 名员工与 Claude 智能体组成小型以物易物市场",
+      "用对话构建偏好排序，另以手工排序 10 本书作真值",
+      "提出准入规则、失败处理与可见度等设计问题"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

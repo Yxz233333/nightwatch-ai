@@ -1,0 +1,24 @@
+{
+  "id": "b6f624edf5f4ba4d",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Hand off the heavy lifting to Gemini Spark, now available in the macOS app",
+  "summary": "Gemini Spark 是 Gemini 应用中的个人 AI 代理，现登陆 macOS 版 Gemini 应用。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2026-06-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|Hand off the heavy lifting to Gemini Spark, now available in the macOS app|2026-06-30",
+  "titleEn": "Hand off the heavy lifting to Gemini Spark, now available in the macOS app",
+  "titleZh": "Gemini Spark 登陆 macOS 应用，替你处理繁重任务",
+  "details": {
+    "overview": "Gemini Spark 是 Gemini 应用中的个人 AI 代理，现登陆 macOS 版 Gemini 应用。它可在用户指导下自主运行，整理文件夹、利用本地文件生成文档，并处理 Google Workspace 中的复杂工作流。官方称未来用户还能从网页或移动应用远程指挥它运行任务或访问 Mac 本地文件。即日起，该功能以英文向支持国家 18 岁以上的 Google AI Ultra 订阅者开放。",
+    "keyPoints": [
+      "Gemini Spark 可自主整理文件夹、用本地文件建文档并处理 Workspace 工作流。",
+      "未来支持从网页或移动应用远程指挥 Mac 上的任务与本地文件访问。",
+      "即日起英文版面向支持国家 18 岁以上 Google AI Ultra 订阅者开放。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

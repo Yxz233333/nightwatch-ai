@@ -1,0 +1,25 @@
+{
+  "id": "a315cba2030702e8",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.46.0 发布",
+  "summary": "Codex CLI 0.46.0 发布，重点改进 MCP 支持，包括支持可流式 HTTP 服务器及可选的 bearer token 或 OAuth 登录。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.46.0",
+  "date": "2025-10-09",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-10-09T02:06:27+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.46.0 发布",
+  "titleZh": "Codex CLI 0.46.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.46.0 发布，重点改进 MCP 支持，包括支持可流式 HTTP 服务器及可选的 bearer token 或 OAuth 登录。用户需在 config.toml 中启用 experimental_use_rmcp_client = true 以使用新 MCP 栈。更新还包含多项修复与 TUI 改进，如修复 bearer token 授权头、新增 list_dir 和 grep_files 工具、调整终端渲染等。官方希望尽快移除实验标志并持续扩展 MCP 支持。",
+    "keyPoints": [
+      "改进 MCP 支持，新增可流式 HTTP 服务器及可选 bearer token 或 OAuth 登录。",
+      "需启用 experimental_use_rmcp_client = true 使用新 MCP 栈。",
+      "新增 list_dir 和 grep_files 工具，并包含多项 TUI 修复。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

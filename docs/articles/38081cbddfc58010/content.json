@@ -1,0 +1,24 @@
+{
+  "id": "38081cbddfc58010",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA AI Physics Transforms Aerospace and Automotive Design, Accelerating Engineering by 500x",
+  "summary": "NVIDIA 宣布，航空航天与汽车领域的领先企业正采用 NVIDIA DoMINO NIM 微服务（属于 NVIDIA PhysicsNeMo AI 物理框架）加速工程设计流程。",
+  "url": "https://blogs.nvidia.com/blog/ai-physics-aerospace-automotive-design-engineering/",
+  "date": "2025-10-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-10-28T18:07:53+00:00",
+  "titleEn": "NVIDIA AI Physics Transforms Aerospace and Automotive Design, Accelerating Engineering by 500x",
+  "titleZh": "NVIDIA AI 物理技术变革航空航天与汽车设计，工程加速 500 倍",
+  "details": {
+    "overview": "NVIDIA 宣布，航空航天与汽车领域的领先企业正采用 NVIDIA DoMINO NIM 微服务（属于 NVIDIA PhysicsNeMo AI 物理框架）加速工程设计流程。通过整合 GPU 加速计算、PhysicsNeMo 与交互式数字孪生技术，企业将建模与仿真工作流提速至传统方法的 500 倍，从而加快创新。该消息来自官方发布记录，具体范围以原文为准。",
+    "keyPoints": [
+      "企业使用 DoMINO NIM 微服务加速航空航天与汽车设计。",
+      "整合 GPU 加速、PhysicsNeMo 和数字孪生技术。",
+      "官方称建模与仿真工作流较传统方法提速最高 500 倍。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

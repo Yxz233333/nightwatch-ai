@@ -1,0 +1,22 @@
+{
+  "id": "ab039e2bbd7c9113",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "GPT-5.3 Instant update",
+  "summary": "官方正在推出GPT-5.3 Instant的更新，改进后续回复的语气，并减少回应中的“预告式”措辞，例如“如果你愿意……”“你绝不会相信……”“我可以告诉你这三件事……”等。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-53-instant-update",
+  "date": "2026-03-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "GPT-5.3 Instant update",
+  "titleZh": "GPT-5.3 Instant更新",
+  "details": {
+    "overview": "官方正在推出GPT-5.3 Instant的更新，改进后续回复的语气，并减少回应中的“预告式”措辞，例如“如果你愿意……”“你绝不会相信……”“我可以告诉你这三件事……”等。该更新旨在让对话更直接自然。原文未说明具体推出范围或时间表。",
+    "keyPoints": [
+      "更新改进后续回复的语气。",
+      "减少“如果你愿意”等预告式措辞。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "53d677d2fc1a10b2",
+  "section": "news",
+  "category": "工具动态",
+  "title": "NVIDIA, Telecom Leaders Build AI Grids to Optimize Inference on Distributed Networks",
+  "summary": "该官方发布称，随着AI原生应用扩展到更多用户、代理和设备，电信网络正成为分发AI的新前沿。",
+  "url": "https://blogs.nvidia.com/blog/telecom-ai-grids-inference/",
+  "date": "2026-03-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-03-17T17:00:15+00:00",
+  "titleEn": "NVIDIA, Telecom Leaders Build AI Grids to Optimize Inference on Distributed Networks",
+  "titleZh": "NVIDIA与电信运营商共建AI网格，优化分布式网络推理",
+  "details": {
+    "overview": "该官方发布称，随着AI原生应用扩展到更多用户、代理和设备，电信网络正成为分发AI的新前沿。在NVIDIA GTC 2026上，美国和亚洲的主要运营商宣布建设“AI网格”，即地理上分布且互联的AI基础设施，利用其网络覆盖来承载推理。材料仅给出这一总体方向，未披露参与运营商名单、部署规模或性能数据，实际效果需以原文为准。",
+    "keyPoints": [
+      "运营商在GTC 2026宣布建设地理分布的AI网格。",
+      "思路是利用电信网络覆盖承载分布式AI推理。",
+      "原文未给出运营商名单、规模或性能数据。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

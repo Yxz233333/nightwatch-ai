@@ -1,0 +1,23 @@
+{
+  "id": "f1ebf75b5d957685",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Use your ChatGPT allowance in participating apps",
+  "summary": "该公告说明，符合条件的 Plus 和 Pro 用户可授权参与应用使用其 ChatGPT 模型额度，无需创建 API 密钥。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-your-chatgpt-allowance-in-participating-apps",
+  "date": "2026-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Use your ChatGPT allowance in participating apps",
+  "titleZh": "在参与应用中使用你的 ChatGPT 额度",
+  "details": {
+    "overview": "该公告说明，符合条件的 Plus 和 Pro 用户可授权参与应用使用其 ChatGPT 模型额度，无需创建 API 密钥。用户可选择哪些应用可用，并为单个应用设置限额；用量计入现有套餐额度，连接应用不会增加额度。原文强调这是与参与集成方合作的有限预览，使用已购额度需另行选择加入，合作方仍可能对其自身产品或服务收费。",
+    "keyPoints": [
+      "Plus 和 Pro 用户可授权参与应用使用 ChatGPT 额度，无需 API 密钥",
+      "可设置应用级限额，用量计入现有套餐且不增加额度",
+      "属于有限预览，使用已购额度需单独选择加入"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c9b3018733c0a60f",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.159.3 发布",
+  "summary": "Codex CLI 发布 0.159.3 稳定版本。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.159.3",
+  "date": "2026-10-01",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-09-30T22:57:34+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.159.3 发布",
+  "titleZh": "Codex CLI 0.159.3 发布",
+  "details": {
+    "overview": "Codex CLI 发布 0.159.3 稳定版本。此次更新为符合条件、已使用 ChatGPT 登录的本地会话增加可选的账户安全设置完成提醒，该功能通过 #49744 回移植到 0.159.3。更新日志仅列出这一项改动，未涉及其他功能调整。桌面端相关功能以对应公告为准。",
+    "keyPoints": [
+      "符合条件且已登录 ChatGPT 的本地会话可显示可选安全设置提醒",
+      "该提醒功能经 #49744 回移植至 0.159.3 版本",
+      "本次更新日志仅列此项改动"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

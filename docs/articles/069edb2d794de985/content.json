@@ -1,0 +1,23 @@
+{
+  "id": "069edb2d794de985",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Data plugin in ChatGPT Work and Codex",
+  "summary": "官方推出 Data 插件，帮助用户在 ChatGPT Work 和 Codex 中分析已连接的业务数据。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#data-plugin-in-chatgpt-work-and-codex",
+  "date": "2026-09-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Data plugin in ChatGPT Work and Codex",
+  "titleZh": "ChatGPT Work 和 Codex 中的 Data 插件",
+  "details": {
+    "overview": "官方推出 Data 插件，帮助用户在 ChatGPT Work 和 Codex 中分析已连接的业务数据。用户可以提出业务问题、调查数据变化，或创建交互式仪表板与报告，并通过后续提问细化分析，还可引入团队的指标定义和其他业务背景。使用前需从插件目录安装 Data，然后通过 @Data 开始对话。连接数据源可能需要设置或授权，查询使用所连接账户的现有权限。",
+    "keyPoints": [
+      "Data 插件用于在 ChatGPT Work 和 Codex 中分析已连接的业务数据。",
+      "支持提问、调查变化、创建交互式仪表板或报告，并可后续追问细化。",
+      "安装后通过 @Data 对话，查询沿用所连接账户的现有权限。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

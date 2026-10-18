@@ -1,0 +1,23 @@
+{
+  "id": "c8311cfdd8de17e9",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Additional controls for memory summary",
+  "summary": "ChatGPT为记忆摘要页面增加控制选项：用户可删除页面上显示的记忆，并通过三点菜单选择“删除并关闭记忆”来关闭记忆功能。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#additional-controls-for-memory-summary",
+  "date": "2026-06-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Additional controls for memory summary",
+  "titleZh": "记忆摘要新增更多控制选项",
+  "details": {
+    "overview": "ChatGPT为记忆摘要页面增加控制选项：用户可删除页面上显示的记忆，并通过三点菜单选择“删除并关闭记忆”来关闭记忆功能。原文说明，这不会删除过去的聊天记录；若之后重新开启记忆，ChatGPT可能从仍保留在聊天历史中的对话创建新记忆。该控制面向所有网页版ChatGPT用户，移动端即将推出。用户还可在摘要底部文本框输入修改要求，或高亮文本做具体更正；不想让某次对话用于个性化时，可关闭记忆或使用临时聊天。",
+    "keyPoints": [
+      "用户可删除记忆摘要页显示的记忆，并通过三点菜单关闭记忆功能。",
+      "删除记忆不会删除过去聊天；重新开启后可能从历史对话生成新记忆。",
+      "该控制已面向所有网页版用户，移动端即将推出；临时聊天不使用也不创建记忆。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

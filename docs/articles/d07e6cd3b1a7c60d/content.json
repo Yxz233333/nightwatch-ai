@@ -1,0 +1,24 @@
+{
+  "id": "d07e6cd3b1a7c60d",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Claude now available in Microsoft Foundry and Microsoft 365 Copilot",
+  "summary": "微软与 Anthropic 扩大合作，Claude Sonnet 4.5、Haiku 4.5 和 Opus 4.1 现已在 Microsoft Foundry 公开预览，Azure 客户可构建生产应用和企业智能体。",
+  "url": "https://www.anthropic.com/news/claude-in-microsoft-foundry",
+  "date": "2025-11-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-11-18T15:00:39.676000+00:00",
+  "titleEn": "Claude now available in Microsoft Foundry and Microsoft 365 Copilot",
+  "titleZh": "Claude 现已在 Microsoft Foundry 和 Microsoft 365 Copilot 中可用",
+  "details": {
+    "overview": "微软与 Anthropic 扩大合作，Claude Sonnet 4.5、Haiku 4.5 和 Opus 4.1 现已在 Microsoft Foundry 公开预览，Azure 客户可构建生产应用和企业智能体。开发者还可结合 Claude Code 使用这些模型。此外，Claude 已集成到 Microsoft 365 Copilot 的 Researcher 智能体和 Copilot Studio，Excel 的 Agent Mode 也新增预览选项以使用 Claude 构建和编辑电子表格。",
+    "keyPoints": [
+      "Claude 三款模型在 Microsoft Foundry 公开预览，支持无服务器部署。",
+      "Claude 已集成到 Microsoft 365 Copilot 的 Researcher 和 Copilot Studio。",
+      "Excel Agent Mode 新增预览选项，可用 Claude 生成公式、分析数据等。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

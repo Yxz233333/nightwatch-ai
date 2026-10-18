@@ -1,0 +1,25 @@
+{
+  "id": "e69d918dc8895bdb",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing SynthID Bio",
+  "summary": "该条目仅有简短摘要，称这是为 AI 生成的蛋白质添加水印、同时保持其生物功能的概念验证。",
+  "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+  "date": "2026-09-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-09-30T15:03:07+00:00",
+  "titleEn": "Introducing SynthID Bio",
+  "titleZh": "推出 SynthID Bio",
+  "details": {
+    "overview": "该条目仅有简短摘要，称这是为 AI 生成的蛋白质添加水印、同时保持其生物功能的概念验证。当前收录材料未提供技术方法、验证范围或实验结果等细节，因此无法进一步说明其具体对象与结论，相关信息不足。",
+    "keyPoints": [
+      "定位为概念验证，目标是为 AI 生成蛋白质添加水印。",
+      "摘要强调加水印的同时需保持蛋白质的生物功能。",
+      "当前收录材料未提供方法、实验数据或验证范围。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

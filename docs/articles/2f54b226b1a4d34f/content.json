@@ -1,0 +1,25 @@
+{
+  "id": "2f54b226b1a4d34f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "The next phase of the Microsoft OpenAI partnership",
+  "summary": "该官方发布称 OpenAI 与 Microsoft 宣布一项修订协议，摘要表示该协议简化了双方合作关系、增加了长期明确性，并支持继续大规模推进 AI 创新。",
+  "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
+  "date": "2026-04-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-27T06:00:00+00:00",
+  "titleEn": "The next phase of the Microsoft OpenAI partnership",
+  "titleZh": "Microsoft 与 OpenAI 合作关系的下一阶段",
+  "details": {
+    "overview": "该官方发布称 OpenAI 与 Microsoft 宣布一项修订协议，摘要表示该协议简化了双方合作关系、增加了长期明确性，并支持继续大规模推进 AI 创新。现有材料未披露协议的具体条款、期限、财务安排或适用范围，也未说明对产品与用户的影响。因此可确认的是协议修订这一事实及官方给出的三点概括，细节需以原文为准。",
+    "keyPoints": [
+      "OpenAI 与 Microsoft 宣布修订合作协议",
+      "摘要称协议简化合作并增加长期明确性",
+      "具体条款与适用范围需以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

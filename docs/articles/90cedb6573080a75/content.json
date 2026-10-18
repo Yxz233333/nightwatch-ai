@@ -1,0 +1,25 @@
+{
+  "id": "90cedb6573080a75",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Think Bigger: How Small Teams Win with ChatGPT",
+  "summary": "这是一份面向小团队的实用指南，介绍小团队如何利用 ChatGPT 分析数据、制作营销材料、管理预算、组织会议并做出更好的决策。",
+  "url": "https://openai.com/business/guides-and-resources/chatgpt-business-smb-guide",
+  "date": "2026-01-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-22T21:12:55+00:00",
+  "titleEn": "Think Bigger: How Small Teams Win with ChatGPT",
+  "titleZh": "格局放大：小团队如何借助 ChatGPT 取胜",
+  "details": {
+    "overview": "这是一份面向小团队的实用指南，介绍小团队如何利用 ChatGPT 分析数据、制作营销材料、管理预算、组织会议并做出更好的决策。原文摘要仅列出这些应用场景，未提供具体案例、效果数据或适用范围，因此无法评估其实际成效。",
+    "keyPoints": [
+      "面向小团队的 ChatGPT 实用指南",
+      "覆盖数据分析、营销材料、预算管理与会议等场景",
+      "目标是帮助小团队做出更好的决策"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

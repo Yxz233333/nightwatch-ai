@@ -1,0 +1,24 @@
+{
+  "id": "3f69b1b5b9e4600d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "ChatGPT for operations teams",
+  "summary": "该官方指南介绍运营团队如何使用 ChatGPT，包括简化工作流程、改善协作、标准化流程以及加快执行速度。",
+  "url": "https://openai.com/academy/operations",
+  "date": "2026-04-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-10T00:00:00+00:00",
+  "titleEn": "ChatGPT for operations teams",
+  "titleZh": "面向运营团队的 ChatGPT",
+  "details": {
+    "overview": "该官方指南介绍运营团队如何使用 ChatGPT，包括简化工作流程、改善协作、标准化流程以及加快执行速度。原文仅为概述，未提供具体案例、数据或效果验证。",
+    "keyPoints": [
+      "面向运营团队的使用指南",
+      "涵盖流程简化、协作与标准化等场景"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

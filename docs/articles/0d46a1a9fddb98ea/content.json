@@ -1,0 +1,25 @@
+{
+  "id": "0d46a1a9fddb98ea",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Horizon 1000: Advancing AI for primary healthcare",
+  "summary": "OpenAI与盖茨基金会启动Horizon 1000试点项目，投入5000万美元推动非洲医疗保健领域的AI能力。",
+  "url": "https://openai.com/index/horizon-1000",
+  "date": "2026-01-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-20T21:00:00+00:00",
+  "titleEn": "Horizon 1000: Advancing AI for primary healthcare",
+  "titleZh": "Horizon 1000：推动AI用于初级医疗保健",
+  "details": {
+    "overview": "OpenAI与盖茨基金会启动Horizon 1000试点项目，投入5000万美元推动非洲医疗保健领域的AI能力。该计划目标到2028年覆盖1000家诊所。原文未说明具体技术方案或评估方式。",
+    "keyPoints": [
+      "OpenAI与盖茨基金会启动5000万美元试点。",
+      "项目旨在提升非洲医疗保健的AI能力。",
+      "目标到2028年覆盖1000家诊所。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

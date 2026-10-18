@@ -1,0 +1,25 @@
+{
+  "id": "148853b01f5efe00",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
+  "summary": "现有材料仅包含标题，未提供摘要或原始发布正文，因此无法确认该演示的具体对象、技术组合方式、实现效果或可用范围。",
+  "url": "https://huggingface.co/blog/nvidia-reachy-mini",
+  "date": "2026-01-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-01-05T00:00:00+00:00",
+  "titleEn": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
+  "titleZh": "NVIDIA 借助 DGX Spark 与 Reachy Mini 让智能体“活”起来",
+  "details": {
+    "overview": "现有材料仅包含标题，未提供摘要或原始发布正文，因此无法确认该演示的具体对象、技术组合方式、实现效果或可用范围。可确定的是，标题称 NVIDIA 通过 DGX Spark 与 Reachy Mini 让智能体具备更具体的实体表现。以下要点仅依据标题提炼，具体结论与限制需以原始发布内容为准。",
+    "keyPoints": [
+      "标题称 NVIDIA 将 DGX Spark 与 Reachy Mini 结合用于智能体",
+      "该内容强调让智能体以更具体的方式呈现或运行",
+      "材料不足，未披露演示细节、性能表现与可用范围"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

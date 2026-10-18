@@ -1,0 +1,25 @@
+{
+  "id": "7506a36e1287ddb4",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Building advertising for the way people use AI",
+  "summary": "OpenAI发布说明称，其在ChatGPT中引入一种新的视觉广告格式，并扩展面向广告主的衡量工具、归因合作与品牌适配能力。",
+  "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+  "date": "2026-10-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-10-05T10:00:00+00:00",
+  "titleEn": "Building advertising for the way people use AI",
+  "titleZh": "面向人们使用AI的方式构建广告",
+  "details": {
+    "overview": "OpenAI发布说明称，其在ChatGPT中引入一种新的视觉广告格式，并扩展面向广告主的衡量工具、归因合作与品牌适配能力。原文摘要仅列出这些方向，未披露广告的具体样式、覆盖范围、上线时间或效果数据，相关推出范围和限制需以官方原文为准。",
+    "keyPoints": [
+      "在ChatGPT中引入新的视觉广告格式",
+      "扩展面向广告主的衡量工具与归因合作",
+      "增加品牌适配方面的能力"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "795d589e1abc6936",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How ChatGPT adoption broadened in early 2026",
+  "summary": "该官方内容称 ChatGPT 在 2026 年第一季度使用量上升，其中 35 岁以上用户增长最快，性别使用分布也更趋均衡，并将其解读为主流 AI 应用扩大的信号。",
+  "url": "https://openai.com/signals/research/2026q1-update",
+  "date": "2026-05-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-11T15:00:00+00:00",
+  "titleEn": "How ChatGPT adoption broadened in early 2026",
+  "titleZh": "2026 年初 ChatGPT 使用范围如何扩大",
+  "details": {
+    "overview": "该官方内容称 ChatGPT 在 2026 年第一季度使用量上升，其中 35 岁以上用户增长最快，性别使用分布也更趋均衡，并将其解读为主流 AI 应用扩大的信号。材料未提供具体统计口径、样本来源或增长数字，因此相关判断属于官方基于自身数据的描述，不宜视为独立验证的结论。其意义在于反映用户结构变化这一观察方向。",
+    "keyPoints": [
+      "2026 年第一季度 ChatGPT 使用量上升",
+      "35 岁以上用户增长最快，性别分布更均衡",
+      "当前收录材料未提供具体统计口径与增长数字"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

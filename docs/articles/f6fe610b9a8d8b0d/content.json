@@ -1,0 +1,25 @@
+{
+  "id": "f6fe610b9a8d8b0d",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing new capabilities to GPT-Rosalind",
+  "summary": "官方简介称，GPT-Rosalind 面向生命科学研究，新增或增强了生物推理、药物化学专业知识、基因组分析和实验工作流方面的能力。",
+  "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+  "date": "2026-06-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-03T13:15:00+00:00",
+  "titleEn": "Introducing new capabilities to GPT-Rosalind",
+  "titleZh": "GPT-Rosalind 推出新能力",
+  "details": {
+    "overview": "官方简介称，GPT-Rosalind 面向生命科学研究，新增或增强了生物推理、药物化学专业知识、基因组分析和实验工作流方面的能力。当前收录材料仅给出这一概括性描述，未披露具体基准结果、可用范围或验证方式，因此不宜将其视为已获独立验证的结论。相关能力细节与限制应以原始发布内容为准。",
+    "keyPoints": [
+      "面向生命科学研究场景推出新能力",
+      "涵盖生物推理、药物化学、基因组分析与实验工作流",
+      "当前收录材料未提供具体评测结果与可用范围"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

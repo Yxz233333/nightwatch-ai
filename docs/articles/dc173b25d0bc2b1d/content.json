@@ -1,0 +1,25 @@
+{
+  "id": "dc173b25d0bc2b1d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Financial services",
+  "summary": "该页面汇总面向金融服务机构的AI资源，包括提示词包、GPTs、指南和工具，目标是帮助机构安全地部署并扩展AI应用。",
+  "url": "https://openai.com/academy/financial-services",
+  "date": "2026-04-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-10T00:00:00+00:00",
+  "titleEn": "Financial services",
+  "titleZh": "金融服务",
+  "details": {
+    "overview": "该页面汇总面向金融服务机构的AI资源，包括提示词包、GPTs、指南和工具，目标是帮助机构安全地部署并扩展AI应用。原文仅说明资源类型与用途，未给出具体机构案例、部署规模或安全验证细节。",
+    "keyPoints": [
+      "汇总提示词包、GPTs、指南与工具等AI资源",
+      "面向金融服务机构部署与扩展AI",
+      "强调安全部署，但原文未展开具体措施"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

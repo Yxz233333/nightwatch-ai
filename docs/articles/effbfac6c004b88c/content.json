@@ -1,0 +1,24 @@
+{
+  "id": "effbfac6c004b88c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "What work can robots do?",
+  "summary": "Anthropic 的机器人暴露指数使用 Claude 评估现有机器人能完成多少美国工作任务。",
+  "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+  "date": "2026-10-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-09-30T16:01:00+00:00",
+  "titleEn": "What work can robots do?",
+  "titleZh": "机器人能做什么工作？",
+  "details": {
+    "overview": "Anthropic 的机器人暴露指数使用 Claude 评估现有机器人能完成多少美国工作任务。摘要表示，机器人已能执行美国 74% 的体力任务，占工作时间 34%；机器人与大语言模型结合后，仅约五分之一就业完全不暴露。但多数机器人需要高度结构化环境，仅对 0.3% 的工作具有成本竞争力；若价格按过去趋势下降，该比例达到 10% 需 40 年。成本之外，能力、人类偏好和监管也是障碍。",
+    "keyPoints": [
+      "摘要称机器人可完成美国 74% 的体力任务。",
+      "仅 0.3% 的工作对机器人具有成本竞争力。",
+      "成本、能力、偏好和监管构成采用障碍。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "878b00bf2fa829ce",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Launches Earth-2 Family of Open Models — the World’s First Fully Open, Accelerated Set of Models and Tools for AI Weather",
+  "summary": "在美国气象学会年会上，NVIDIA 发布 Earth-2 系列开放模型、库与框架，面向天气与气候 AI。",
+  "url": "https://blogs.nvidia.com/blog/nvidia-earth-2-open-models/",
+  "date": "2026-01-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-01-26T14:00:53+00:00",
+  "titleEn": "NVIDIA Launches Earth-2 Family of Open Models — the World’s First Fully Open, Accelerated Set of Models and Tools for AI Weather",
+  "titleZh": "NVIDIA发布Earth-2系列开放模型：首个完全开放、加速的AI天气模型与工具集",
+  "details": {
+    "overview": "在美国气象学会年会上，NVIDIA 发布 Earth-2 系列开放模型、库与框架，面向天气与气候 AI。官方摘要称其为全球首个完全开放、可用于生产的气象 AI 软件栈。现有材料仅包含这一发布概述，未列出具体模型名称、精度指标、许可条款或可用范围。因此可确认的是产品定位与发布场合，性能与开放程度的具体细节需以官方原文为准。",
+    "keyPoints": [
+      "发布Earth-2系列开放模型、库与框架",
+      "官方称其为完全开放、可用于生产的气象AI软件栈",
+      "具体模型、指标与许可细节材料未提供"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

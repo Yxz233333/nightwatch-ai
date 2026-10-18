@@ -1,0 +1,23 @@
+{
+  "id": "ddefcbd010a84781",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Your Year with ChatGPT",
+  "summary": "OpenAI 推出可选的个性化年终体验“Your Year with ChatGPT”，回顾用户 2025 年与 ChatGPT 的互动。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#your-year-with-chatgpt",
+  "date": "2025-12-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Your Year with ChatGPT",
+  "titleZh": "你的 ChatGPT 年度回顾",
+  "details": {
+    "overview": "OpenAI 推出可选的个性化年终体验“Your Year with ChatGPT”，回顾用户 2025 年与 ChatGPT 的互动。该功能提炼对话中的高层主题，并给出全年使用情况的汇总统计。摘要显示，它当天逐步推送，覆盖美国、英国、加拿大、澳大利亚、新西兰的 Free、Plus、Pro 用户，以及印度的 Go、Plus、Pro 用户，不适用于 Business、Enterprise、Edu 方案。使用需开启记忆与引用聊天历史，并达到最低活跃度；上线时为英文。",
+    "keyPoints": [
+      "功能提炼对话高层主题并给出全年使用汇总统计。",
+      "覆盖多国 Free、Plus、Pro 等个人方案，不含企业教育方案。",
+      "需开启记忆与引用聊天历史并达到最低活跃度。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

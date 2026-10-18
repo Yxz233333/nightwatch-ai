@@ -1,0 +1,24 @@
+{
+  "id": "27d8ced2be1536cd",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing the Anthropic Cyber Mission",
+  "summary": "Anthropic 宣布启动 Anthropic Cyber Mission，长期致力于帮助防御者保护关键系统和软件。",
+  "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+  "date": "2026-10-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-10-08T09:04:16.632000+00:00",
+  "titleEn": "Introducing the Anthropic Cyber Mission",
+  "titleZh": "Anthropic 推出 Cyber Mission 网络安全计划",
+  "details": {
+    "overview": "Anthropic 宣布启动 Anthropic Cyber Mission，长期致力于帮助防御者保护关键系统和软件。计划从两个领域起步：应对前沿模型被滥用于漏洞利用和网络操作，以及支持关键基础设施和开源软件的安全。具体举措包括将 Project Glasswing 并入 Cyber Verification Program、推出关键基础设施防御计划，并与埃森哲、CrowdStrike、Palo Alto Networks 等创始伙伴合作。此外还推出 OSS Scanner 为开源项目提供免费模型扫描报告。",
+    "keyPoints": [
+      "启动 Cyber Mission，聚焦防御者工具、研究与资源。",
+      "推出关键基础设施防御计划，创始伙伴包括 CrowdStrike 等。",
+      "OSS Scanner 为登记开源项目提供免费模型扫描报告。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

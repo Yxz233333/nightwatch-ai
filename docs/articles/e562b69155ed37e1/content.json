@@ -1,0 +1,24 @@
+{
+  "id": "e562b69155ed37e1",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Autonomous AI Agents Become Secure by Design With NVIDIA OpenShell",
+  "summary": "文章讨论自主AI智能体带来的安全新问题：这类系统不再只生成回答或推理任务，而能读取文件、调用工具、编写并运行代码、在企业系统中执行工作流，还会创建专门化的子智能体来扩展自身能力。",
+  "url": "https://blogs.nvidia.com/blog/secure-autonomous-ai-agents-openshell/",
+  "date": "2026-03-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-03-23T15:00:03+00:00",
+  "titleEn": "How Autonomous AI Agents Become Secure by Design With NVIDIA OpenShell",
+  "titleZh": "自主AI智能体如何借助NVIDIA OpenShell实现安全设计",
+  "details": {
+    "overview": "文章讨论自主AI智能体带来的安全新问题：这类系统不再只生成回答或推理任务，而能读取文件、调用工具、编写并运行代码、在企业系统中执行工作流，还会创建专门化的子智能体来扩展自身能力。原文提出以NVIDIA OpenShell为依托，让自主智能体在设计阶段就纳入安全考量。由于提供的原文仅为开头段落，具体机制、防护措施与适用范围尚不明确，需以完整原文为准。",
+    "keyPoints": [
+      "自主智能体可读文件、用工具、写跑代码并执行企业工作流",
+      "智能体可创建专门化子智能体扩展自身能力",
+      "当前收录材料仅给出开头，OpenShell的具体安全机制未展开"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

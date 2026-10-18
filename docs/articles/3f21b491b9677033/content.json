@@ -1,0 +1,25 @@
+{
+  "id": "3f21b491b9677033",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Work smarter with your company knowledge in ChatGPT",
+  "summary": "OpenAI 为 ChatGPT 推出“公司知识”功能，可将用户应用中的上下文引入 ChatGPT，生成针对企业业务的回答，并提供清晰的引用来源、安全、隐私和管理员控制。",
+  "url": "https://openai.com/index/introducing-company-knowledge",
+  "date": "2025-10-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-23T00:00:00+00:00",
+  "titleEn": "Work smarter with your company knowledge in ChatGPT",
+  "titleZh": "在 ChatGPT 中利用公司知识更智能地工作",
+  "details": {
+    "overview": "OpenAI 为 ChatGPT 推出“公司知识”功能，可将用户应用中的上下文引入 ChatGPT，生成针对企业业务的回答，并提供清晰的引用来源、安全、隐私和管理员控制。该功能现已面向 Business、Enterprise 和 Edu 用户开放。官方表示，该功能旨在帮助企业在保障数据安全的前提下利用内部知识提升工作效率。",
+    "keyPoints": [
+      "公司知识功能将应用上下文引入 ChatGPT，生成针对企业业务的回答。",
+      "提供清晰引用、安全、隐私和管理员控制。",
+      "现已面向 Business、Enterprise 和 Edu 用户开放。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

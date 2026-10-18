@@ -1,0 +1,25 @@
+{
+  "id": "7d8db75886956c32",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "LegalOn halves Codex costs while maintaining development speed",
+  "summary": "摘要表示，LegalOn 将每日 Codex 预估成本削减了 65%，同时维持了开发速度。",
+  "url": "https://openai.com/index/legalon-halves-codex-costs",
+  "date": "2026-10-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-10-08T12:00:00+00:00",
+  "titleEn": "LegalOn halves Codex costs while maintaining development speed",
+  "titleZh": "LegalOn 将 Codex 成本减半，同时保持开发速度",
+  "details": {
+    "overview": "摘要表示，LegalOn 将每日 Codex 预估成本削减了 65%，同时维持了开发速度。其做法是将 Astra、Sol 和 Luna 等模型与具体任务匹配，并对预算进行策略性管理。当前收录材料未提供更多技术细节或验证数据。",
+    "keyPoints": [
+      "每日 Codex 预估成本降低 65%。",
+      "通过将 Astra、Sol、Luna 匹配到任务来控制成本。",
+      "摘要称开发速度保持不变。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "351c7da3b9dd3654",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.134.0 发布",
+  "summary": "Codex CLI发布0.134.0版本，属于CLI稳定版本更新。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.134.0",
+  "date": "2026-05-27",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-05-26T19:13:26+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.134.0 发布",
+  "titleZh": "Codex CLI 0.134.0 发布",
+  "details": {
+    "overview": "Codex CLI发布0.134.0版本，属于CLI稳定版本更新。新增功能包括本地对话历史搜索（支持不区分大小写与结果预览）、以--profile作为主要配置选择器并拒绝旧版配置、改进MCP设置（按服务器指定环境、支持可流式HTTP服务器的OAuth选项）、提升连接器工具schema可靠性，以及允许标注readOnlyHint的只读MCP工具并发运行。修复项涉及远程连接重连与重试、Windows TUI渲染、用量限制提示等。",
+    "keyPoints": [
+      "新增本地对话历史搜索，支持不区分大小写匹配与结果预览",
+      "--profile成为主要配置选择器，旧版配置经迁移指引被拒绝",
+      "只读MCP工具在标注readOnlyHint时可并发运行"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

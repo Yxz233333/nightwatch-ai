@@ -1,0 +1,23 @@
+{
+  "id": "6ea2ae7f696b4d67",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Connect multiple Google accounts to ChatGPT",
+  "summary": "ChatGPT的Gmail、Google日历和Google通讯录插件现支持连接多个账户，使用户可在同一对话中同时使用个人与工作账户。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#connect-multiple-google-accounts-to-chatgpt",
+  "date": "2026-08-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Connect multiple Google accounts to ChatGPT",
+  "titleZh": "在ChatGPT中连接多个Google账户",
+  "details": {
+    "overview": "ChatGPT的Gmail、Google日历和Google通讯录插件现支持连接多个账户，使用户可在同一对话中同时使用个人与工作账户。用户可让ChatGPT在规划日程时一并查看多个日历，或在已连接的多个收件箱中查找邮件。该功能面向支持的Plus、Pro、Business和Enterprise套餐全球开放，覆盖网页、桌面、iOS和Android。",
+    "keyPoints": [
+      "Gmail、Google日历和Google通讯录插件支持连接多个账户",
+      "可在同一对话中合并查看多个日历并跨收件箱查找邮件",
+      "面向支持的Plus、Pro、Business和Enterprise套餐全球开放"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

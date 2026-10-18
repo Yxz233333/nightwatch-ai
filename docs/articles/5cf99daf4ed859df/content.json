@@ -1,0 +1,25 @@
+{
+  "id": "5cf99daf4ed859df",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Healthcare",
+  "summary": "官方发布的行业应用介绍页面，主题是医疗健康领域。",
+  "url": "https://openai.com/academy/healthcare",
+  "date": "2026-04-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-10T00:00:00+00:00",
+  "titleEn": "Healthcare",
+  "titleZh": "医疗健康",
+  "details": {
+    "overview": "官方发布的行业应用介绍页面，主题是医疗健康领域。据摘要，内容探讨临床医生如何使用ChatGPT辅助诊断、文书记录和患者护理，并强调相关工具具备安全性与HIPAA合规性。原文仅有一句摘要，未提供具体案例、产品范围或验证信息，细节不足。",
+    "keyPoints": [
+      "面向医疗健康领域，介绍临床医生的ChatGPT使用场景。",
+      "场景包括辅助诊断、文书记录和患者护理。",
+      "摘要强调工具的安全性与HIPAA合规性。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

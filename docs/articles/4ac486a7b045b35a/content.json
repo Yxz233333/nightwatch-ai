@@ -1,0 +1,25 @@
+{
+  "id": "4ac486a7b045b35a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Data science workflows with ChatGPT Work",
+  "summary": "该官方内容介绍 ChatGPT Work 在数据科学场景中的实用工作流，涉及根因简报、KPI 备忘录、范围界定的分析和仪表盘规格说明。",
+  "url": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
+  "date": "2026-07-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-14T00:00:00+00:00",
+  "titleEn": "Data science workflows with ChatGPT Work",
+  "titleZh": "使用 ChatGPT Work 的数据科学工作流",
+  "details": {
+    "overview": "该官方内容介绍 ChatGPT Work 在数据科学场景中的实用工作流，涉及根因简报、KPI 备忘录、范围界定的分析和仪表盘规格说明。材料仅列出主题与适用场景，未说明具体流程、工具限制或实际效果，因此无法评估其适用性与表现。",
+    "keyPoints": [
+      "面向数据科学场景，涵盖根因简报与 KPI 备忘录",
+      "涉及范围界定的分析与仪表盘规格说明",
+      "仅介绍工作流主题，未给出具体效果数据"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

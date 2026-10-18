@@ -1,0 +1,25 @@
+{
+  "id": "64a1a9a1d9270e50",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+  "summary": "该内容宣布推出 Gemma 4 12B，描述为统一的无编码器多模态模型。",
+  "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+  "date": "2026-06-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-06-09T14:10:19+00:00",
+  "titleEn": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+  "titleZh": "推出 Gemma 4 12B：统一的无编码器多模态模型",
+  "details": {
+    "overview": "该内容宣布推出 Gemma 4 12B，描述为统一的无编码器多模态模型。原始发布内容仅含标题，未提供模型架构、训练数据、性能评测或可用范围等具体信息，因此无法进一步说明作者声称的结果或研究意义。",
+    "keyPoints": [
+      "发布Gemma 4 12B模型",
+      "定位为统一的无编码器多模态模型",
+      "当前收录材料未提供架构或性能细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

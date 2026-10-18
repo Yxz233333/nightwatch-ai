@@ -1,0 +1,24 @@
+{
+  "id": "20a7a9354fc4f403",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Expanding Project Glasswing",
+  "summary": "Anthropic 宣布将 Project Glasswing 扩展至超过 15 个国家的约 150 个新组织。",
+  "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+  "date": "2026-06-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-06-02T11:00:00+00:00",
+  "titleEn": "Expanding Project Glasswing",
+  "titleZh": "扩展 Project Glasswing",
+  "details": {
+    "overview": "Anthropic 宣布将 Project Glasswing 扩展至超过 15 个国家的约 150 个新组织。该项目旨在保障全球重要软件安全，初始约 50 个合作伙伴使用 Claude Mythos Preview 扫描代码库，已发现超过 10,000 个高危或严重安全漏洞。新成员需满足安全要求，涵盖电力、水务、医疗、通信和硬件等行业。Anthropic 还发布 Claude Security 产品，并计划进一步扩展项目及网络验证计划。",
+    "keyPoints": [
+      "Project Glasswing 扩展至超 15 国约 150 个新组织，需满足安全要求。",
+      "初始合作伙伴用 Claude Mythos Preview 发现超 1 万个高危或严重漏洞。",
+      "新成员覆盖电力、水务、医疗、通信和硬件等行业。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

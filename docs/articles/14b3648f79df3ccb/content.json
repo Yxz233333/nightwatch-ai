@@ -1,0 +1,25 @@
+{
+  "id": "14b3648f79df3ccb",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.88.0 发布",
+  "summary": "Codex CLI 0.88.0 发布，新增无头环境下设备码认证作为独立回退方案，并修复配置加载、Azure 端点错误、内存泄漏、中断轮次重复、WSL 图像粘贴回归等问题。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.88.0",
+  "date": "2026-01-22",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-01-21T19:19:10+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.88.0 发布",
+  "titleZh": "Codex CLI 0.88.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.88.0 发布，新增无头环境下设备码认证作为独立回退方案，并修复配置加载、Azure 端点错误、内存泄漏、中断轮次重复、WSL 图像粘贴回归等问题。文档更新了 MCP 链接、修正命名拼写并补充协作模式说明，同时升级 Rust 1.92 及核心依赖。",
+    "keyPoints": [
+      "新增无头环境下设备码认证作为独立回退方案。",
+      "修复内存泄漏、Azure 端点错误和 WSL 图像粘贴回归。",
+      "升级至 Rust 1.92 并刷新核心依赖。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

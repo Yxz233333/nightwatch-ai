@@ -1,0 +1,27 @@
+{
+  "id": "f07a7bbbe9510be7",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+  "summary": "该官方发布内容介绍 AlphaGenome Atlas，称其绘制了人类基因组中 90 亿个单字母 DNA 变异的分子效应图谱。",
+  "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+  "date": "2026-09-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-09-08T14:00:15+00:00",
+  "breakthrough": true,
+  "breakthroughField": "AI 生命科学",
+  "titleEn": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+  "titleZh": "AlphaGenome Atlas：人类基因组每个可能 DNA 字母变化的预测图谱",
+  "details": {
+    "overview": "该官方发布内容介绍 AlphaGenome Atlas，称其绘制了人类基因组中 90 亿个单字母 DNA 变异的分子效应图谱。原文仅为一句概述，未说明所用方法、数据来源、预测准确性或验证情况，相关结论需以原始发布为准。",
+    "keyPoints": [
+      "覆盖人类基因组中 90 亿个单字母 DNA 变异",
+      "目标是给出这些变异的分子效应预测图谱",
+      "当前收录材料未提供方法、准确性或验证细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

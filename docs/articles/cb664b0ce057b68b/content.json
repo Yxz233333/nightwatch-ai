@@ -1,0 +1,25 @@
+{
+  "id": "cb664b0ce057b68b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Seizing the AI opportunity",
+  "summary": "该官方发布记录称，满足智能时代的需求需要对能源与基础设施进行战略投资。",
+  "url": "https://openai.com/global-affairs/seizing-the-ai-opportunity",
+  "date": "2025-10-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-27T12:00:00+00:00",
+  "titleEn": "Seizing the AI opportunity",
+  "titleZh": "把握人工智能机遇",
+  "details": {
+    "overview": "该官方发布记录称，满足智能时代的需求需要对能源与基础设施进行战略投资。OpenAI 向白宫提交的材料阐述了扩大产能与提升劳动力准备度如何支撑美国在人工智能领域的领导地位与经济增长。当前收录材料未提供提交文件的具体建议、投资规模或时间表，仅呈现其核心主张。",
+    "keyPoints": [
+      "官方称智能时代需要能源与基础设施战略投资",
+      "提交白宫的材料聚焦扩大产能与劳动力准备度",
+      "主张以此维持美国 AI 领导地位与经济增长"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "b0d5cb8cca3e03b5",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Claude for Nonprofits",
+  "summary": "Anthropic与GivingTuesday合作推出Claude for Nonprofits，面向非营利组织提供最高75%的Team与Enterprise套餐折扣、连接Blackbaud、Candid、Benevity等非营利工具的连接器，以及与GivingTuesday共同开发的免费课程“AI Fluency for Nonprofits”。",
+  "url": "https://www.anthropic.com/news/claude-for-nonprofits",
+  "date": "2025-12-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-12-02T10:57:00+00:00",
+  "titleEn": "Claude for Nonprofits",
+  "titleZh": "Claude面向非营利组织",
+  "details": {
+    "overview": "Anthropic与GivingTuesday合作推出Claude for Nonprofits，面向非营利组织提供最高75%的Team与Enterprise套餐折扣、连接Blackbaud、Candid、Benevity等非营利工具的连接器，以及与GivingTuesday共同开发的免费课程“AI Fluency for Nonprofits”。原文称折扣价下可使用Claude Opus 4.6、Sonnet 4.5和Haiku 4.5，并列举癫痫基金会、国际救援委员会等使用案例。该计划旨在让AI适配现有工作流、保护隐私并保持可负担。",
+    "keyPoints": [
+      "非营利组织可获Team与Enterprise套餐最高75%折扣。",
+      "新增Blackbaud、Candid、Benevity三个开源连接器。",
+      "与GivingTuesday合作推出免费课程，无需技术背景。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

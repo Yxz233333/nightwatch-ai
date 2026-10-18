@@ -1,0 +1,24 @@
+{
+  "id": "c85920288b092c5f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Covering electricity price increases from our data centers",
+  "summary": "Anthropic宣布将承担其数据中心导致的消费者电价上涨，包括电网升级和新发电成本。",
+  "url": "https://www.anthropic.com/news/covering-electricity-price-increases",
+  "date": "2026-02-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-02-11T20:23:00+00:00",
+  "titleEn": "Covering electricity price increases from our data centers",
+  "titleZh": "Anthropic承诺承担数据中心导致的消费者电价上涨",
+  "details": {
+    "overview": "Anthropic宣布将承担其数据中心导致的消费者电价上涨，包括电网升级和新发电成本。公司称训练前沿AI模型将需吉瓦级电力，美国AI行业未来几年需至少50吉瓦容量。数据中心推高电价有两种方式：接入电网需新建或升级输电线路、变电站等设施；新增需求收紧市场推高价格。Anthropic承诺直接解决这两类问题，在自建数据中心时直接履行承诺，租赁现有数据中心时探索其他方式。公司还支持联邦政策改革以加速能源并网。",
+    "keyPoints": [
+      "Anthropic承诺承担其数据中心导致的消费者电价上涨，涵盖电网升级和新发电成本。",
+      "公司称训练前沿AI模型将需吉瓦级电力，美国AI行业未来几年需至少50吉瓦容量。",
+      "在租赁现有数据中心时，Anthropic表示正探索其他方式应对自身工作负载对电价的影响。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

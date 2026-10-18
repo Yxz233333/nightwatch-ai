@@ -1,0 +1,23 @@
+{
+  "id": "c167cbf7d9765389",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Active account session controls",
+  "summary": "ChatGPT 推出“活跃会话”安全功能，用户可在设置的安全页面查看与账户关联的第一方 OpenAI 会话，包括设备、应用、大致位置、登录时间、受信设备状态及是否为当前会话，并可退出单个或全部会话。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#active-account-session-controls",
+  "date": "2026-06-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Active account session controls",
+  "titleZh": "活跃账户会话控制",
+  "details": {
+    "overview": "ChatGPT 推出“活跃会话”安全功能，用户可在设置的安全页面查看与账户关联的第一方 OpenAI 会话，包括设备、应用、大致位置、登录时间、受信设备状态及是否为当前会话，并可退出单个或全部会话。该功能覆盖 ChatGPT、Codex 和 API 平台等已知会话，但不管理第三方应用会话、仅用于第三方服务的 Sign in with ChatGPT 会话及 Codex CLI 会话。",
+    "keyPoints": [
+      "用户可查看设备、位置、登录时间等会话详情",
+      "支持退出单个会话或全部会话",
+      "不覆盖第三方应用、Codex CLI 等会话"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

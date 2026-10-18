@@ -1,0 +1,23 @@
+{
+  "id": "967d00d33692e179",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "GPT-5.2 Instant Update",
+  "summary": "官方发布称，ChatGPT 与 API 中的 GPT-5.2 Instant 获得更新，旨在改善回答风格与质量。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-52-instant-update",
+  "date": "2026-02-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "GPT-5.2 Instant Update",
+  "titleZh": "GPT-5.2 Instant 更新",
+  "details": {
+    "overview": "官方发布称，ChatGPT 与 API 中的 GPT-5.2 Instant 获得更新，旨在改善回答风格与质量。用户应能感受到语气更克制、更有依据，且更贴合对话语境；模型在回答寻求建议和操作指导类问题时，倾向于给出更清晰、更相关的答案，并更可靠地把最重要的信息放在前面。当前收录材料未提供量化评测数据，具体效果以官方原始发布为准。",
+    "keyPoints": [
+      "更新针对 ChatGPT 与 API 中的 GPT-5.2 Instant",
+      "回答语气更克制、更有依据并贴合语境",
+      "建议与操作类回答更清晰，重要信息更靠前"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

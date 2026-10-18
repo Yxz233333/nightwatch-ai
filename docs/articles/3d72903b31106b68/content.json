@@ -1,0 +1,25 @@
+{
+  "id": "3d72903b31106b68",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Strengthening democratic oversight in national security",
+  "summary": "OpenAI 宣布启动一项新计划，旨在加强对人工智能在国家安全领域应用的民主监督。",
+  "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+  "date": "2026-08-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-18T19:00:00+00:00",
+  "titleEn": "Strengthening democratic oversight in national security",
+  "titleZh": "加强国家安全领域的民主监督",
+  "details": {
+    "overview": "OpenAI 宣布启动一项新计划，旨在加强对人工智能在国家安全领域应用的民主监督。该计划将向政府机构提供工具、培训与专业支持，帮助其更好地监督相关 AI 应用。当前收录材料仅给出这一总体方向，未披露具体工具清单、参与机构、适用范围或时间表，相关细节需以官方原始发布为准。",
+    "keyPoints": [
+      "OpenAI 启动计划，加强对国家安全领域 AI 的民主监督。",
+      "面向政府机构提供工具、培训与专业支持。",
+      "当前收录材料未提供具体范围、机构与时间安排。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

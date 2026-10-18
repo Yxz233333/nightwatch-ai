@@ -1,0 +1,24 @@
+{
+  "id": "491068d413f662e4",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Barclays scales Claude to upgrade operations and improve client experience",
+  "summary": "英国巴克莱银行扩大与 Anthropic 的合作，在全球业务中部署企业级 AI 系统，用于加速软件开发、现代化遗留系统并提升运营效率。",
+  "url": "https://www.anthropic.com/news/barclays-scales-claude",
+  "date": "2026-10-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-10-01T15:19:00+00:00",
+  "titleEn": "Barclays scales Claude to upgrade operations and improve client experience",
+  "titleZh": "巴克莱银行扩大 Claude 部署以升级运营并改善客户体验",
+  "details": {
+    "overview": "英国巴克莱银行扩大与 Anthropic 的合作，在全球业务中部署企业级 AI 系统，用于加速软件开发、现代化遗留系统并提升运营效率。官方称预计到 2026 年底 Claude Code 覆盖 50% 的开发人员，2027 年覆盖多数软件工程师。已上线的员工知识助手由 Claude 驱动，超过 1.6 万名员工使用，处理逾百万次搜索；全球市场业务每天用 Claude 处理约 12 万封邮件。上述数据均来自官方发布。",
+    "keyPoints": [
+      "巴克莱预计 2026 年底 Claude Code 覆盖 50% 开发人员",
+      "员工知识助手已有逾 1.6 万名同事使用，处理超百万次搜索",
+      "全球市场业务每天用 Claude 分类处理约 12 万封邮件"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

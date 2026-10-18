@@ -1,0 +1,25 @@
+{
+  "id": "827359e7732c07d4",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+  "summary": "该官方发布以“如何用 OpenAI 的 Privacy Filter 构建可扩展 Web 应用”为题，但提供的摘要与原文内容均只有这一句标题式表述，未说明 Privacy Filter 的具体功能、技术实现、适用场景或可扩展性方案。",
+  "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+  "date": "2026-04-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-04-27T00:00:00+00:00",
+  "titleEn": "How to build scalable web apps with OpenAI's Privacy Filter",
+  "titleZh": "如何用 OpenAI 的 Privacy Filter 构建可扩展的 Web 应用",
+  "details": {
+    "overview": "该官方发布以“如何用 OpenAI 的 Privacy Filter 构建可扩展 Web 应用”为题，但提供的摘要与原文内容均只有这一句标题式表述，未说明 Privacy Filter 的具体功能、技术实现、适用场景或可扩展性方案。因此目前只能确认其主题方向，无法介绍具体研究对象与作者声称的结果。",
+    "keyPoints": [
+      "官方发布主题为用 Privacy Filter 构建可扩展 Web 应用",
+      "现有材料未披露该工具的功能与实现细节",
+      "具体推出范围与限制需以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

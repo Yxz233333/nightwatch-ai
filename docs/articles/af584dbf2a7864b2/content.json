@@ -1,0 +1,25 @@
+{
+  "id": "af584dbf2a7864b2",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Working with US CAISI and UK AISI to build more secure AI systems",
+  "summary": "该条目仅提供一句摘要，称 OpenAI 分享与美国 CAISI 和英国 AISI 合作、加强 AI 安全与保障的进展。",
+  "url": "https://openai.com/index/us-caisi-uk-aisi-ai-update",
+  "date": "2025-09-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-12T12:00:00+00:00",
+  "titleEn": "Working with US CAISI and UK AISI to build more secure AI systems",
+  "titleZh": "与美国 CAISI 和英国 AISI 合作构建更安全的 AI 系统",
+  "details": {
+    "overview": "该条目仅提供一句摘要，称 OpenAI 分享与美国 CAISI 和英国 AISI 合作、加强 AI 安全与保障的进展。当前收录材料未提供具体测试对象、发现的问题、改进措施或合作范围，因此无法进一步说明合作细节。相关推出范围和限制应以官方原始发布记录为准。",
+    "keyPoints": [
+      "OpenAI 分享与美英 AI 安全机构合作的进展",
+      "目标是加强 AI 安全与保障",
+      "当前收录材料未提供具体测试与改进细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

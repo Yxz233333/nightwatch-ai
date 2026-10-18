@@ -13,7 +13,7 @@
   "titleEn": "Full support of the zero-temperature Sherrington-Kirkpatrick order parameter",
   "titleZh": "零温Sherrington-Kirkpatrick序参量的全支撑",
   "details": {
-    "overview": "稿件研究纯零场Sherrington–Kirkpatrick模型零温Parisi泛函的极小元。作者声称每个可积容许极小元在[0,1)上具有完全相对Stieltjes支撑，因此其支撑在任何小于1的重叠尺度上都没有间隙。采用协方差归一化ξ(t)=t²/2。该结果涉及自旋玻璃理论中序参量的结构性质，摘要未给出证明细节，稿件尚未经独立审查。",
+    "overview": "稿件研究纯零场Sherrington–Kirkpatrick模型零温Parisi泛函的极小元。作者声称每个可积容许极小元在[0,1)上具有完全相对Stieltjes支撑，因此其支撑在任何小于1的重叠尺度上都没有间隙。采用协方差归一化ξ(t)=t²/2。该结果涉及自旋玻璃理论中序参量的结构性质，当前收录摘要未给出证明细节，稿件尚未经独立审查。",
     "keyPoints": [
       "研究零温Parisi泛函的可积容许极小元。",
       "作者声称其在[0,1)上具有完全相对Stieltjes支撑。",

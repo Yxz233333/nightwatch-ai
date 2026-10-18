@@ -1,0 +1,24 @@
+{
+  "id": "0a58f5f0578e4c9c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Equipping workers with insights about compensation",
+  "summary": "新研究显示，美国人每天向ChatGPT发送近300万条关于薪酬和收入的消息，帮助缩小工资信息差距。",
+  "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+  "date": "2026-03-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-17T00:00:00+00:00",
+  "titleEn": "Equipping workers with insights about compensation",
+  "titleZh": "为劳动者提供薪酬洞察",
+  "details": {
+    "overview": "新研究显示，美国人每天向ChatGPT发送近300万条关于薪酬和收入的消息，帮助缩小工资信息差距。该研究关注劳动者利用AI获取薪酬信息的现象，但当前收录材料未提供研究方法、样本范围或具体结论细节。",
+    "keyPoints": [
+      "美国人每天向ChatGPT发送近300万条薪酬相关消息。",
+      "研究认为这有助于缩小工资信息差距。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

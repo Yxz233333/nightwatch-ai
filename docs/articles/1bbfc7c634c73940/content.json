@@ -1,0 +1,25 @@
+{
+  "id": "1bbfc7c634c73940",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+  "summary": "该条目介绍OpenAI提出的CoT-Control，并称研究发现推理模型难以控制自身的思维链，从而强化可监控性作为AI安全防护手段的价值。",
+  "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+  "date": "2026-03-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-05T10:00:00+00:00",
+  "titleEn": "Reasoning models struggle to control their chains of thought, and that’s good",
+  "titleZh": "推理模型难以控制其思维链，而这正是好事",
+  "details": {
+    "overview": "该条目介绍OpenAI提出的CoT-Control，并称研究发现推理模型难以控制自身的思维链，从而强化可监控性作为AI安全防护手段的价值。原文摘要未披露测试方法、模型范围与具体数据，相关发现为官方发布中的表述，尚不能视为已获独立验证的结论。",
+    "keyPoints": [
+      "OpenAI提出CoT-Control用于研究思维链可控性。",
+      "官方称推理模型难以控制自身思维链。",
+      "该结果被用于支持可监控性作为安全防护。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

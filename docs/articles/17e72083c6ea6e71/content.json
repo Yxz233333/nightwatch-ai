@@ -1,0 +1,24 @@
+{
+  "id": "17e72083c6ea6e71",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "A new dedicated student hub, study notebooks on mobile, one year of Google AI Pro in the US, or Google AI Plus in 140+ countries at no cost.",
+  "summary": "Gemini 应用新增专门的学生中心，帮助学生管理课程，并依据教学大纲等自有课程材料创建个性化学习笔记本。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2026-08-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|A new dedicated student hub, study notebooks on mobile, one year of Google AI Pro in the US, or Google AI Plus in 140+ countries at no cost.|2026-08-19",
+  "titleEn": "A new dedicated student hub, study notebooks on mobile, one year of Google AI Pro in the US, or Google AI Plus in 140+ countries at no cost.",
+  "titleZh": "Gemini 应用推出学生中心，学习笔记本登陆移动端，美国提供一年 Google AI Pro、140 多个国家免费提供 Google AI Plus",
+  "details": {
+    "overview": "Gemini 应用新增专门的学生中心，帮助学生管理课程，并依据教学大纲等自有课程材料创建个性化学习笔记本。此前于 6 月在桌面端上线的学习笔记本现已登陆移动端。此外，符合条件的大学生可在美国获得一年 Google AI Pro，或在 140 多个国家免费获得 Google AI Plus。官方说明该优惠仅限符合条件的学生，须遵守活动条款，兑换截止 2026 年 12 月 31 日，到期后按对应套餐标准月价自动续订，可随时取消。",
+    "keyPoints": [
+      "Gemini 应用新增学生中心，可基于课程材料创建个性化学习笔记本。",
+      "学习笔记本从桌面端扩展至移动端。",
+      "符合条件学生可获一年 Google AI Pro 或免费 Google AI Plus。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

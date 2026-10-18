@@ -1,0 +1,24 @@
+{
+  "id": "87ddc4e58a93689f",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Discovering cryptographic weaknesses with Claude",
+  "summary": "Anthropic 称其研究人员使用 Claude Mythos Preview 发现改进的密码算法攻击方法。",
+  "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+  "date": "2026-07-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-07-28T17:00:00+00:00",
+  "titleEn": "Discovering cryptographic weaknesses with Claude",
+  "titleZh": "用 Claude 发现密码学弱点",
+  "details": {
+    "overview": "Anthropic 称其研究人员使用 Claude Mythos Preview 发现改进的密码算法攻击方法。其一针对后量子数字签名候选方案 HAWK，作者声称找到格中的非平凡自同构，使有效密钥强度减半；其二针对轮数缩减版 AES，作者声称减少一个攻击者需猜测的环节，使此前最佳攻击提速 200 至 800 倍。原文强调两项结果目前不影响任何生产系统：HAWK 仅为候选方案未部署，第二项也未攻破完整 AES。作者称过程大多自主完成，每项约耗 10 万美元 API 成本，并已按负责任披露流程与 HAWK 作者及 NIST 邮件列表协调公开。",
+    "keyPoints": [
+      "作者称对 HAWK 的攻击利用格自同构，使有效密钥强度减半。",
+      "对轮数缩减版 AES 的攻击使此前最佳攻击提速 200 至 800 倍。",
+      "原文强调不影响生产系统，HAWK 未部署、完整 AES 未被攻破。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

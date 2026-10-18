@@ -1,0 +1,24 @@
+{
+  "id": "a14f0a4c82669166",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+  "summary": "Anthropic宣布Claude合作伙伴网络新增服务轨道和合作伙伴中心两个组件。",
+  "url": "https://www.anthropic.com/news/services-track-partner-hub",
+  "date": "2026-06-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-06-03T13:00:00+00:00",
+  "titleEn": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+  "titleZh": "Claude合作伙伴网络推出服务轨道与合作伙伴中心",
+  "details": {
+    "overview": "Anthropic宣布Claude合作伙伴网络新增服务轨道和合作伙伴中心两个组件。服务轨道采用分级结构，根据合作伙伴实际交付的Claude项目经验划分层级；合作伙伴中心则提供门户，让合作伙伴查看自身等级，并让客户寻找合格服务商。此举旨在帮助企业更便捷地找到将Claude投入生产的合作伙伴，并提升生态透明度。",
+    "keyPoints": [
+      "服务轨道分三级，依据合作伙伴的Claude实践深度评定。",
+      "合作伙伴中心展示合作伙伴等级、认证团队和客户部署等信息。",
+      "合作伙伴可通过MCP连接器在Claude内查询合作状态。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

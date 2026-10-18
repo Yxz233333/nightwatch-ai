@@ -1,0 +1,24 @@
+{
+  "id": "63bf9e03a43af1b8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Accenture and Anthropic launch multi-year partnership to move enterprises from AI pilots to production",
+  "summary": "埃森哲与 Anthropic 宣布扩大合作，成立埃森哲 Anthropic 业务组，培训约 3 万名专业人员使用 Claude，并推出面向 CIO 的联合产品，以 Claude Code 为核心帮助企业从 AI 试点转向规模化生产。",
+  "url": "https://www.anthropic.com/news/anthropic-accenture-partnership",
+  "date": "2025-12-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-12-09T12:34:00+00:00",
+  "titleEn": "Accenture and Anthropic launch multi-year partnership to move enterprises from AI pilots to production",
+  "titleZh": "埃森哲与 Anthropic 启动多年合作，推动企业从 AI 试点走向生产",
+  "details": {
+    "overview": "埃森哲与 Anthropic 宣布扩大合作，成立埃森哲 Anthropic 业务组，培训约 3 万名专业人员使用 Claude，并推出面向 CIO 的联合产品，以 Claude Code 为核心帮助企业从 AI 试点转向规模化生产。合作初期聚焦金融、生命科学、医疗和公共部门等受监管行业。",
+    "keyPoints": [
+      "成立埃森哲 Anthropic 业务组，约 3 万名专业人员接受 Claude 培训。",
+      "推出首个联合产品，以 Claude Code 为核心衡量并推动企业 AI 采用。",
+      "初期聚焦金融、生命科学、医疗和公共部门等受监管行业。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

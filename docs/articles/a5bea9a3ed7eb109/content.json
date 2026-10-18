@@ -1,0 +1,25 @@
+{
+  "id": "a5bea9a3ed7eb109",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Pacing model development in an era of cyber-critical capabilities",
+  "summary": "OpenAI 表示正在加强前沿 AI 模型的监控、对齐与安全措施，并称新的防护机制正在指导模型开发的节奏。",
+  "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+  "date": "2026-08-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-18T11:00:00+00:00",
+  "titleEn": "Pacing model development in an era of cyber-critical capabilities",
+  "titleZh": "在网络关键能力时代把控模型开发节奏",
+  "details": {
+    "overview": "OpenAI 表示正在加强前沿 AI 模型的监控、对齐与安全措施，并称新的防护机制正在指导模型开发的节奏。当前收录材料仅给出这一总体说明，未披露具体防护措施、评估标准、适用模型或时间安排，相关细节需以官方原始发布为准。",
+    "keyPoints": [
+      "OpenAI 加强前沿模型的监控、对齐与安全。",
+      "新防护机制用于指导模型开发节奏。",
+      "当前收录材料未提供具体措施与适用范围。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

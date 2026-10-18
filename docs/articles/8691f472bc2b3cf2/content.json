@@ -1,0 +1,23 @@
+{
+  "id": "8691f472bc2b3cf2",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "GPT-5.4 and GPT-5.4 mini retire from Codex on August 31",
+  "summary": "该官方公告称，2026 年 8 月 31 日起，使用 ChatGPT 账号登录的用户将无法在 Codex 中使用 GPT-5.4 与 GPT-5.4 mini；这两个模型仍可在 OpenAI API 以及使用 API 密钥认证的 Codex 会话中使用。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2026-07-31",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "GPT-5.4 and GPT-5.4 mini retire from Codex on August 31",
+  "titleZh": "GPT-5.4 与 GPT-5.4 mini 将于 8 月 31 日从 Codex 退役",
+  "details": {
+    "overview": "该官方公告称，2026 年 8 月 31 日起，使用 ChatGPT 账号登录的用户将无法在 Codex 中使用 GPT-5.4 与 GPT-5.4 mini；这两个模型仍可在 OpenAI API 以及使用 API 密钥认证的 Codex 会话中使用。公告建议分别替换为 GPT-5.6 Terra 与 GPT-5.6 Luna，并提醒在截止日期前更新工作区默认设置、已保存的模型设置、托管配置、自定义智能体与定时任务。",
+    "keyPoints": [
+      "2026 年 8 月 31 日起 ChatGPT 登录用户在 Codex 中不可用。",
+      "API 及 API 密钥认证的 Codex 会话仍可继续使用。",
+      "建议分别替换为 GPT-5.6 Terra 与 GPT-5.6 Luna。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "3d9cb01f73c7fa33",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex app 26.227",
+  "summary": "Codex应用26.227版本更新，新增任务行与PR按钮中的拉取请求状态徽章，覆盖草稿、打开、已合并和已关闭状态；同时新增Worktrees设置，可选择在清理旧工作树前保留多少个由Codex管理的工作树。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2026-02-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "Codex app 26.227",
+  "titleZh": "Codex 应用 26.227 版本更新",
+  "details": {
+    "overview": "Codex应用26.227版本更新，新增任务行与PR按钮中的拉取请求状态徽章，覆盖草稿、打开、已合并和已关闭状态；同时新增Worktrees设置，可选择在清理旧工作树前保留多少个由Codex管理的工作树。性能方面改进了长对话与代码审查中的滚动和导航，修复线程跳动、侧边栏抖动和差异滚动问题，并提升应用启动可靠性与键盘缩放行为。",
+    "keyPoints": [
+      "任务行和PR按钮新增拉取请求状态徽章，含草稿、打开、已合并、已关闭。",
+      "新增Worktrees设置，可控制保留的Codex管理工作树数量。",
+      "改进长对话与代码审查滚动导航，修复启动与键盘缩放问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

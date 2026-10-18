@@ -1,0 +1,24 @@
+{
+  "id": "0306920649f38c62",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Anthropic and Salesforce expand partnership to bring Claude to regulated industries",
+  "summary": "Anthropic与Salesforce宣布扩大合作，使Claude成为Salesforce Agentforce平台在受监管行业的首选模型，涵盖金融服务、医疗保健、网络安全和生命科学领域，同时确保敏感数据安全。",
+  "url": "https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership",
+  "date": "2025-10-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-10-14T12:02:00+00:00",
+  "titleEn": "Anthropic and Salesforce expand partnership to bring Claude to regulated industries",
+  "titleZh": "Anthropic与Salesforce扩大合作，将Claude引入受监管行业",
+  "details": {
+    "overview": "Anthropic与Salesforce宣布扩大合作，使Claude成为Salesforce Agentforce平台在受监管行业的首选模型，涵盖金融服务、医疗保健、网络安全和生命科学领域，同时确保敏感数据安全。Salesforce还将在全球工程组织部署Claude Code，Anthropic则扩大对Slack的使用。",
+    "keyPoints": [
+      "Claude成为Agentforce受监管行业首选模型",
+      "Salesforce全球工程团队部署Claude Code",
+      "Anthropic扩大Slack使用并深化行业解决方案"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

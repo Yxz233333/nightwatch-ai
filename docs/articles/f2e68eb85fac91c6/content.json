@@ -1,0 +1,25 @@
+{
+  "id": "f2e68eb85fac91c6",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Welcome EmbeddingGemma, Google's new efficient embedding model",
+  "summary": "材料仅提供标题“Welcome EmbeddingGemma, Google's new efficient embedding model”，没有摘要或正文内容，无法确认模型的具体参数、性能指标、适用场景与发布范围。",
+  "url": "https://huggingface.co/blog/embeddinggemma",
+  "date": "2025-09-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-09-04T00:00:00+00:00",
+  "titleEn": "Welcome EmbeddingGemma, Google's new efficient embedding model",
+  "titleZh": "欢迎EmbeddingGemma，谷歌新款高效嵌入模型",
+  "details": {
+    "overview": "材料仅提供标题“Welcome EmbeddingGemma, Google's new efficient embedding model”，没有摘要或正文内容，无法确认模型的具体参数、性能指标、适用场景与发布范围。可确定的是，该条目属于模型动态，标题指向谷歌推出名为EmbeddingGemma的高效嵌入模型。其余信息不足，需以官方原始发布为准。",
+    "keyPoints": [
+      "标题显示谷歌推出名为EmbeddingGemma的嵌入模型。",
+      "标题称其为高效嵌入模型，但未给出性能细节。",
+      "材料缺少正文，参数、场景与发布范围均不明确。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

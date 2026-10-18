@@ -1,0 +1,23 @@
+{
+  "id": "4046f9c7788ff30c",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Healthcare Public Data in ChatGPT for Clinicians",
+  "summary": "官方发布信息显示，美国符合条件的ChatGPT for Clinicians用户现可使用Healthcare Public Data功能。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#healthcare-public-data-in-chatgpt-for-clinicians",
+  "date": "2026-09-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Healthcare Public Data in ChatGPT for Clinicians",
+  "titleZh": "面向临床医生的ChatGPT医疗公共数据功能",
+  "details": {
+    "overview": "官方发布信息显示，美国符合条件的ChatGPT for Clinicians用户现可使用Healthcare Public Data功能。该插件整合九个应用，用于检索生物医学研究、临床试验、药物信息、Medicare数据及医疗服务提供者记录等公共医疗来源。用户需从插件目录安装并连接所需应用；这些应用为只读，不访问患者病历，且官方提示不要向公共来源搜索发送受保护健康信息。",
+    "keyPoints": [
+      "插件整合九个应用，覆盖研究、试验、药物与Medicare等公共来源。",
+      "应用为只读，不访问患者病历。",
+      "官方提示搜索公共来源时勿包含受保护健康信息。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

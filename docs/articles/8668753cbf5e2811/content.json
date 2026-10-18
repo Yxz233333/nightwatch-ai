@@ -1,0 +1,25 @@
+{
+  "id": "8668753cbf5e2811",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Running Codex safely at OpenAI",
+  "summary": "该文介绍OpenAI如何在内部安全运行Codex，以支持安全合规的编程智能体应用。",
+  "url": "https://openai.com/index/running-codex-safely",
+  "date": "2026-05-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-08T12:30:00+00:00",
+  "titleEn": "Running Codex safely at OpenAI",
+  "titleZh": "在OpenAI安全运行Codex",
+  "details": {
+    "overview": "该文介绍OpenAI如何在内部安全运行Codex，以支持安全合规的编程智能体应用。摘要列出的手段包括沙箱隔离、审批机制、网络策略以及面向智能体的原生遥测。当前收录材料未提供具体实现细节、适用范围或效果数据，因此本介绍仅能依据摘要说明其安全框架的构成要素，不足以评估其实际防护效果。",
+    "keyPoints": [
+      "通过沙箱隔离限制Codex的运行环境。",
+      "引入审批机制与网络策略控制智能体行为。",
+      "使用智能体原生遥测支持安全与合规监测。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

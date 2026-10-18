@@ -1,0 +1,25 @@
+{
+  "id": "2483ff3d4aa8f0a6",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+  "summary": "官方发布称Atlassian与OpenAI正在扩大合作，将前沿模型与企业知识连接起来，帮助团队规划、构建并交付工作。",
+  "url": "https://openai.com/index/atlassian-partnership",
+  "date": "2026-10-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-10-06T16:00:00+00:00",
+  "titleEn": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+  "titleZh": "Atlassian与OpenAI扩大合作，将企业知识转化为行动",
+  "details": {
+    "overview": "官方发布称Atlassian与OpenAI正在扩大合作，将前沿模型与企业知识连接起来，帮助团队规划、构建并交付工作。原文仅提供这一概述，未披露合作的具体产品形态、时间表或适用范围，相关细节需以官方原文为准。",
+    "keyPoints": [
+      "Atlassian与OpenAI宣布扩大合作伙伴关系。",
+      "合作方向是连接前沿模型与企业知识。",
+      "目标是帮助团队规划、构建和交付工作。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

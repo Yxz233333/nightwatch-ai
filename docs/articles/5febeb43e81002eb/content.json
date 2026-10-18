@@ -1,0 +1,23 @@
+{
+  "id": "5febeb43e81002eb",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Lockdown Mode is now available to all logged-in users",
+  "summary": "官方公告称，锁定模式现已向所有账户类型和工作区的已登录用户开放。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#lockdown-mode-is-now-available-to-all-logged-in-users",
+  "date": "2026-06-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Lockdown Mode is now available to all logged-in users",
+  "titleZh": "锁定模式现已向所有已登录用户开放",
+  "details": {
+    "overview": "官方公告称，锁定模式现已向所有账户类型和工作区的已登录用户开放。这是可选的高级安全设置，通过限制访问网络和外部服务，降低提示注入攻击导致数据外泄的风险。开启后，ChatGPT 会限制实时网页浏览、深度研究、智能体模式、文件下载及部分来自网络的图像支持。个人用户可在设置的安全项中开启，工作区管理员可通过工作区设置和基于角色的访问控制配置。",
+    "keyPoints": [
+      "锁定模式面向所有已登录用户和账户类型开放",
+      "开启后限制网页浏览、深度研究、智能体模式与文件下载",
+      "个人可在设置中开启，管理员可按角色配置"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

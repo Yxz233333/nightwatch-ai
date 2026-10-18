@@ -1,0 +1,25 @@
+{
+  "id": "48296475d136e3b6",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "“Tech and Tariffs” Campaign: Influence activity targeting US tech policy",
+  "summary": "OpenAI 封禁了一批疑似源自中国的账号，这些账号利用 AI 生成评论和漫画，内容涉及美国科技政策、关税和贸易限制。",
+  "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-tech-and-tariffs",
+  "date": "2026-06-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-01T00:00:00+00:00",
+  "titleEn": "“Tech and Tariffs” Campaign: Influence activity targeting US tech policy",
+  "titleZh": "“科技与关税”行动：针对美国科技政策的影响力活动",
+  "details": {
+    "overview": "OpenAI 封禁了一批疑似源自中国的账号，这些账号利用 AI 生成评论和漫画，内容涉及美国科技政策、关税和贸易限制。该行动被命名为“科技与关税”，旨在通过社交媒体传播特定叙事。OpenAI 依据其官方发布记录披露了此次封禁，但未提供账号数量、具体影响范围等细节。此事反映了 AI 平台在应对国家支持的影响力活动方面面临的挑战，以及科技公司在内容审核与地缘政治交叉领域的应对措施。",
+    "keyPoints": [
+      "OpenAI 封禁疑似中国来源账号，其使用 AI 生成涉美科技政策评论。",
+      "活动内容聚焦美国关税与贸易限制，以评论和漫画形式传播。",
+      "OpenAI 未披露账号数量及具体影响范围，仅确认封禁行动。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

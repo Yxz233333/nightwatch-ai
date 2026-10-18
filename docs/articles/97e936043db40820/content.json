@@ -1,0 +1,24 @@
+{
+  "id": "97e936043db40820",
+  "section": "news",
+  "category": "模型动态",
+  "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+  "summary": "英伟达扩展 Nemotron 3 模型家族，发布 Nemotron 3.5 Lightning，官方称其为同类中面向长时间运行的智能体 AI 工作负载效率最高的模型。",
+  "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+  "date": "2026-08-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-08-11T13:00:05+00:00",
+  "titleEn": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+  "titleZh": "NVIDIA 推出 Nemotron 3.5 Lightning 与 NeMo Switchyard，为智能体 AI 提供更快、更智能、更高效的方案",
+  "details": {
+    "overview": "英伟达扩展 Nemotron 3 模型家族，发布 Nemotron 3.5 Lightning，官方称其为同类中面向长时间运行的智能体 AI 工作负载效率最高的模型。原文指出，随着 AI 从聊天机器人转向自主智能体，开放模型正回应市场对部署位置、运行方式和演进方向保持完全控制的需求。此次发布紧随 Nemotron 系列此前版本。材料未给出具体性能数字、参数规模或可用范围，相关限制需以官方原文为准。",
+    "keyPoints": [
+      "英伟达扩展 Nemotron 3 家族，新增 Nemotron 3.5 Lightning 模型。",
+      "官方称该模型是同类中面向长时间智能体工作负载效率最高的模型。",
+      "发布背景是 AI 从聊天机器人转向自主智能体，开放模型需求上升。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

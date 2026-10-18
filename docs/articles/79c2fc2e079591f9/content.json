@@ -1,0 +1,25 @@
+{
+  "id": "79c2fc2e079591f9",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Building self-improving tax agents with Codex",
+  "summary": "OpenAI发布案例介绍，称其与Thrive、Crete合作，使用Codex构建可自我改进的税务智能体，用于自动化申报、提升准确性并加速工作流。",
+  "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+  "date": "2026-05-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-27T07:00:00+00:00",
+  "titleEn": "Building self-improving tax agents with Codex",
+  "titleZh": "用Codex构建可自我改进的税务智能体",
+  "details": {
+    "overview": "OpenAI发布案例介绍，称其与Thrive、Crete合作，使用Codex构建可自我改进的税务智能体，用于自动化申报、提升准确性并加速工作流。当前收录材料仅给出这一概述，未披露具体实现方式、准确率数据或适用范围，因此相关效果属于合作方陈述，尚待更多细节验证。该案例的意义在于展示Codex在税务等专业流程中的落地尝试。",
+    "keyPoints": [
+      "OpenAI与Thrive、Crete合作构建税务智能体",
+      "目标包括自动化申报、提升准确性与加速工作流",
+      "当前收录材料未提供实现细节与准确率数据"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

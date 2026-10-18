@@ -1,0 +1,25 @@
+{
+  "id": "ce0aa250c29938df",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+  "summary": "该官方发布称，维持城市运转涉及道路维修时机、能源使用效率等影响居民的日常决策。",
+  "url": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
+  "date": "2026-10-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-10-14T06:00:28+00:00",
+  "titleEn": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+  "titleZh": "欧洲多城市部署NVIDIA驱动的AI智能体以提升城市运营效率",
+  "details": {
+    "overview": "该官方发布称，维持城市运转涉及道路维修时机、能源使用效率等影响居民的日常决策。在EMEA地区，城市以及本地软件、基础设施和集成合作伙伴正使用NVIDIA加速计算构建物理AI智能体和数字孪生，帮助团队作出决策。原文摘要在此处截断，未列出具体城市、部署规模或成效数据，因此无法进一步说明实际运行情况。",
+    "keyPoints": [
+      "EMEA地区城市与本地伙伴使用NVIDIA加速计算",
+      "构建物理AI智能体和数字孪生辅助城市运营决策",
+      "原文摘要截断，未披露具体城市与部署成效"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

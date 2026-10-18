@@ -1,0 +1,24 @@
+{
+  "id": "d6ed96609471bbcf",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Claude for Life Sciences",
+  "summary": "Anthropic 宣布为生命科学场景改进 Claude，目标是覆盖从早期发现到转化与商业化的整个流程。",
+  "url": "https://www.anthropic.com/news/claude-for-life-sciences",
+  "date": "2025-10-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-10-20T16:00:00+00:00",
+  "titleEn": "Claude for Life Sciences",
+  "titleZh": "面向生命科学的 Claude",
+  "details": {
+    "overview": "Anthropic 宣布为生命科学场景改进 Claude，目标是覆盖从早期发现到转化与商业化的整个流程。作者声称 Claude Sonnet 4.5 在 Protocol QA 上得分 0.83，高于人类基线 0.79 和 Sonnet 4 的 0.74，并在 BixBench 上有类似提升。此次还新增科研平台连接器、Agent Skills、提示库和专属支持，并称 Claude for Life Sciences 可通过 Claude.com 和 AWS Marketplace 使用，Google Cloud Marketplace 即将上线。",
+    "keyPoints": [
+      "Sonnet 4.5 在 Protocol QA 得 0.83，作者称高于人类基线 0.79",
+      "新增科研平台连接器、Agent Skills 与生命科学提示库",
+      "首个科学技能 single-cell-rna-qc 用于单细胞 RNA 测序质控"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

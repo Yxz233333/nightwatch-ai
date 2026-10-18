@@ -1,0 +1,25 @@
+{
+  "id": "b6c6c04b7730fc0c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing AgentKit, new Evals, and RFT for agents",
+  "summary": "OpenAI发布新工具，帮助开发者更快地从原型过渡到生产环境，包括AgentKit、扩展的评估能力以及面向智能体的强化微调（RFT）。",
+  "url": "https://openai.com/index/introducing-agentkit",
+  "date": "2025-10-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-06T00:00:00+00:00",
+  "titleEn": "Introducing AgentKit, new Evals, and RFT for agents",
+  "titleZh": "推出AgentKit、新评估功能及面向智能体的RFT",
+  "details": {
+    "overview": "OpenAI发布新工具，帮助开发者更快地从原型过渡到生产环境，包括AgentKit、扩展的评估能力以及面向智能体的强化微调（RFT）。这些工具旨在提升智能体开发效率与效果，具体功能范围和限制以官方原始发布为准。",
+    "keyPoints": [
+      "发布AgentKit，助力开发者构建和部署智能体。",
+      "扩展评估（Evals）能力，支持更全面的效果评估。",
+      "推出面向智能体的强化微调（RFT），优化智能体表现。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

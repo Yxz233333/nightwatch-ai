@@ -1,0 +1,25 @@
+{
+  "id": "b3ea0a4abccf3cdc",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How AI is expanding what people do at work",
+  "summary": "该条为OpenAI官方发布，介绍一项新研究。",
+  "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+  "date": "2026-07-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-27T03:30:00+00:00",
+  "titleEn": "How AI is expanding what people do at work",
+  "titleZh": "AI如何拓展人们的工作内容",
+  "details": {
+    "overview": "该条为OpenAI官方发布，介绍一项新研究。摘要称研究显示AI正在拓展工作者的工作内容：ChatGPT用户会承担跨角色的任务，并重塑岗位边界。提供的材料仅有一句概述，未给出样本规模、统计方法、具体任务类别或量化结论，因此只能确认研究主题为AI对工作任务范围与岗位划分的影响，具体发现需以原文为准。",
+    "keyPoints": [
+      "OpenAI发布关于AI与工作内容的新研究",
+      "称ChatGPT用户承担跨角色任务",
+      "材料未提供样本与量化结论"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

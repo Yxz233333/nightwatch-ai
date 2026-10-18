@@ -1,0 +1,25 @@
+{
+  "id": "db73d6a04e51b00c",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.50.0 发布",
+  "summary": "Codex CLI 0.50.0 是命令行工具的稳定版本更新。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.50.0",
+  "date": "2025-10-26",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-10-25T21:37:23+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.50.0 发布",
+  "titleZh": "Codex CLI 0.50.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.50.0 是命令行工具的稳定版本更新。根据发布说明，本次改进包括增强 /feedback 命令以获取更好诊断信息，并合并了多项 PR：为违反沙箱策略的命令增加模型摘要与风险评估、更新 MCP 依赖 rmcp 至 0.8.3、新增带请求日志的 CodexHttpClient 包装器、增加速率限制缓存提示、引入 codex/event/raw_item 事件、改进 MCP 启动超时与 GitHub 错误提示等。桌面端功能以对应公告为准。",
+    "keyPoints": [
+      "改进 /feedback 命令，便于收集更佳诊断信息。",
+      "为违反沙箱策略的命令增加模型摘要与风险评估。",
+      "更新 MCP 依赖并改进启动错误提示与事件机制。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "7f1030c74f94ca1c",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+  "summary": "OpenAI发布面向青少年的ChatGPT for Teens，定位为帮助青少年学习、批判性思考并自信使用AI。",
+  "url": "https://openai.com/index/chatgpt-for-teens",
+  "date": "2026-08-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-18T11:00:00+00:00",
+  "titleEn": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+  "titleZh": "推出ChatGPT for Teens：为学习而建，以保护为后盾",
+  "details": {
+    "overview": "OpenAI发布面向青少年的ChatGPT for Teens，定位为帮助青少年学习、批判性思考并自信使用AI。摘要表示该版本带有更强的内置保护、健康使用功能以及面向家长的额外控制项。原始发布未说明具体保护机制、适用地区或年龄细则，推出范围和限制需以原文为准。",
+    "keyPoints": [
+      "ChatGPT for Teens定位为帮助青少年学习与批判性思考。",
+      "摘要称其具备更强内置保护与健康使用功能。",
+      "为家长提供额外控制项，具体机制原文未展开。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

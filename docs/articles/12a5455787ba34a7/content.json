@@ -1,0 +1,24 @@
+{
+  "id": "12a5455787ba34a7",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "The assistant axis: situating and stabilizing the character of large language models",
+  "summary": "稿件提出，现代语言模型在与用户交互时扮演“助手”角色，但该角色的具体特质和稳定性尚不明确。",
+  "url": "https://www.anthropic.com/research/assistant-axis",
+  "date": "2026-01-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-01-19T17:00:00+00:00",
+  "titleEn": "The assistant axis: situating and stabilizing the character of large language models",
+  "titleZh": "助手轴：大型语言模型角色的定位与稳定化",
+  "details": {
+    "overview": "稿件提出，现代语言模型在与用户交互时扮演“助手”角色，但该角色的具体特质和稳定性尚不明确。作者在 Gemma 2 27B、Qwen 3 32B 和 Llama 3.3 70B 等开放权重模型中提取 275 种角色原型的激活向量，构建“角色空间”，发现第一主成分与“助手相似度”高度对应，称为“助手轴”。通过监测和约束模型沿该轴的激活，作者声称可检测并稳定模型行为，防止其漂移至有害角色。",
+    "keyPoints": [
+      "作者在三个开放权重模型中提取275种角色原型的激活向量构建角色空间。",
+      "第一主成分与助手相似度对应，被称为助手轴。",
+      "通过激活约束可稳定模型行为，防止角色漂移。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

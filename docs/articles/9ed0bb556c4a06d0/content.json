@@ -1,0 +1,24 @@
+{
+  "id": "9ed0bb556c4a06d0",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Get Started Using Generative AI for Content Creation With ComfyUI and NVIDIA RTX AI PCs",
+  "summary": "开源节点式生成式 AI 工作流界面 ComfyUI 在过去一个月发布多项更新，包括面向 NVIDIA RTX GPU 最高 40% 的性能提升，以及对 Wan 2.2、Qwen-Image、FLUX.1 Krea [dev]、Hunyuan3D 2.1 等新模型的支持。",
+  "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-comfyui-wan-qwen-flux-krea-remix/",
+  "date": "2025-09-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-09-09T13:00:26+00:00",
+  "titleEn": "Get Started Using Generative AI for Content Creation With ComfyUI and NVIDIA RTX AI PCs",
+  "titleZh": "用 ComfyUI 与 NVIDIA RTX AI PC 开启生成式 AI 内容创作",
+  "details": {
+    "overview": "开源节点式生成式 AI 工作流界面 ComfyUI 在过去一个月发布多项更新，包括面向 NVIDIA RTX GPU 最高 40% 的性能提升，以及对 Wan 2.2、Qwen-Image、FLUX.1 Krea [dev]、Hunyuan3D 2.1 等新模型的支持。英伟达同时发布了经 TensorRT 优化的相关内容。原文摘要在此处截断，具体优化组件与适用范围未完整呈现，需以官方原文为准。",
+    "keyPoints": [
+      "ComfyUI 更新称 RTX GPU 上性能最高提升 40%",
+      "新增对 Wan 2.2、Qwen-Image、FLUX.1 Krea [dev]、Hunyuan3D 2.1 的支持",
+      "英伟达发布 TensorRT 优化内容，细节在摘要中被截断"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

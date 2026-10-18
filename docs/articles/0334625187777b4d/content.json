@@ -1,0 +1,23 @@
+{
+  "id": "0334625187777b4d",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Credits for Flexible Usage for Codex and Sora",
+  "summary": "官方发布内容称，OpenAI为Codex和Sora等产品引入购买额外用量的方式：当用户达到套餐包含上限时，可在Codex仪表板中直接购买更多额度，或在Sora应用中购买更多视频生成次数以继续使用。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#credits-for-flexible-usage-for-codex-and-sora",
+  "date": "2025-10-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Credits for Flexible Usage for Codex and Sora",
+  "titleZh": "为Codex和Sora提供灵活使用的额度",
+  "details": {
+    "overview": "官方发布内容称，OpenAI为Codex和Sora等产品引入购买额外用量的方式：当用户达到套餐包含上限时，可在Codex仪表板中直接购买更多额度，或在Sora应用中购买更多视频生成次数以继续使用。原文提到相关说明文章涉及ChatGPT（Free/Go/Plus/Pro）与Sora，但未披露额度价格或具体数量。",
+    "keyPoints": [
+      "Codex和Sora用户可在达到套餐上限后购买额外用量",
+      "Codex额度可在仪表板购买，Sora可购买更多视频生成次数",
+      "当前收录材料未提供额度价格与具体数量"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

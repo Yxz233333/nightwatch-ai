@@ -1,0 +1,25 @@
+{
+  "id": "a935f584fc3e87c8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Cars24 scales conversations and builds faster with OpenAI",
+  "summary": "该案例介绍 Cars24 使用 OpenAI 驱动的语音与聊天智能体开展业务：每月处理超过 100 万分钟对话，挽回 12% 的流失线索，并将智能体工作流推广到公司多个团队。",
+  "url": "https://openai.com/index/cars24",
+  "date": "2026-07-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-16T00:00:00+00:00",
+  "titleEn": "How Cars24 scales conversations and builds faster with OpenAI",
+  "titleZh": "Cars24 如何借助 OpenAI 扩展对话并加快构建",
+  "details": {
+    "overview": "该案例介绍 Cars24 使用 OpenAI 驱动的语音与聊天智能体开展业务：每月处理超过 100 万分钟对话，挽回 12% 的流失线索，并将智能体工作流推广到公司多个团队。上述数字来自官方发布摘要，属于企业自述的应用成效，未说明统计口径与验证方式。",
+    "keyPoints": [
+      "Cars24 用 OpenAI 语音与聊天智能体处理对话。",
+      "官方称每月处理超 100 万分钟对话。",
+      "官方称挽回 12% 流失线索并推广智能体工作流。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

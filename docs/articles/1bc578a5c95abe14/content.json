@@ -1,0 +1,23 @@
+{
+  "id": "1bc578a5c95abe14",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Scan notes and documents more easily with ChatGPT camera",
+  "summary": "OpenAI 宣布在手机端 ChatGPT 中简化了把笔记和文档导入对话的流程：用户可连续拍摄多页，ChatGPT 会自动将其合并为一个 PDF，并可直接上传到聊天中。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#scan-notes-and-documents-more-easily-with-chatgpt-camera",
+  "date": "2026-10-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Scan notes and documents more easily with ChatGPT camera",
+  "titleZh": "用 ChatGPT 相机更轻松地扫描笔记和文档",
+  "details": {
+    "overview": "OpenAI 宣布在手机端 ChatGPT 中简化了把笔记和文档导入对话的流程：用户可连续拍摄多页，ChatGPT 会自动将其合并为一个 PDF，并可直接上传到聊天中。使用方式是打开 ChatGPT 相机，点击三点菜单并选择 Scan。该功能当时正在 iOS 上逐步推出，其他平台情况原文未说明。",
+    "keyPoints": [
+      "连续拍摄多页后，ChatGPT 自动合并为单个 PDF 并可直接上传到对话。",
+      "入口为 ChatGPT 相机中的三点菜单，选择 Scan 即可开始。",
+      "该功能当时正在 iOS 上逐步推出，原文未提及其他平台。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

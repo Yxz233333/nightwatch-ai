@@ -1,0 +1,24 @@
+{
+  "id": "540e59aa0b653925",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
+  "summary": "NVIDIA 表示，随着 AI 智能体和万亿参数级工作负载走向主流，AI 基础设施性能不仅取决于算力，还取决于计算、内存、存储、网络与软件如何作为统一系统协同设计。",
+  "url": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
+  "date": "2026-08-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-08-26T21:05:30+00:00",
+  "titleEn": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
+  "titleZh": "NVIDIA NVLink Fusion 扩展，新增 NVHBM 定制高带宽内存",
+  "details": {
+    "overview": "NVIDIA 表示，随着 AI 智能体和万亿参数级工作负载走向主流，AI 基础设施性能不仅取决于算力，还取决于计算、内存、存储、网络与软件如何作为统一系统协同设计。为此，NVIDIA 宣布 NVLink Fusion 扩展，并引入 NVHBM 定制高带宽内存，面向超大规模云服务商与 AI 创新者构建下一代基础设施。原文摘要在此截断，NVHBM 的具体规格、可用时间与合作范围未披露，需以官方原文为准。",
+    "keyPoints": [
+      "NVIDIA 宣布 NVLink Fusion 扩展并引入 NVHBM 定制高带宽内存。",
+      "定位面向超大规模云服务商与 AI 创新者的下一代基础设施。",
+      "强调计算、内存、存储、网络与软件的统一系统协同设计。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "97108de6fa617b73",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+  "summary": "该条目宣布推出Real World VoiceEQ，用于衡量语音AI的“人类质量”。",
+  "url": "https://huggingface.co/blog/real-world-voiceeq",
+  "date": "2026-07-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-07-15T00:00:00+00:00",
+  "titleEn": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+  "titleZh": "推出Real World VoiceEQ：衡量语音AI的人性化质量",
+  "details": {
+    "overview": "该条目宣布推出Real World VoiceEQ，用于衡量语音AI的“人类质量”。原始发布内容仅有标题与摘要，未说明评测维度、测试方法、数据来源或适用场景，也未给出任何结果或基准数据。因此无法判断其具体衡量方式与有效性，读者应以官方原文后续披露为准。",
+    "keyPoints": [
+      "推出名为Real World VoiceEQ的语音AI评测项目",
+      "目标是衡量语音AI的人性化质量",
+      "当前收录材料未提供评测维度、方法与数据"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

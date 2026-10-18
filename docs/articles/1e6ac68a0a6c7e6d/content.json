@@ -1,0 +1,23 @@
+{
+  "id": "1e6ac68a0a6c7e6d",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT Images 2.0 in ChatGPT",
+  "summary": "官方发布说明称，ChatGPT 推出新的图像生成模型 ChatGPT Images 2.0，并面向所有 ChatGPT 套餐提供。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-images-20-in-chatgpt",
+  "date": "2026-04-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "ChatGPT Images 2.0 in ChatGPT",
+  "titleZh": "ChatGPT 中的 ChatGPT Images 2.0",
+  "details": {
+    "overview": "官方发布说明称，ChatGPT 推出新的图像生成模型 ChatGPT Images 2.0，并面向所有 ChatGPT 套餐提供。同时引入“带思考的图像”能力：在给予更多思考时间时，模型可先规划并优化图像输出再生成。该能力面向所有付费 ChatGPT 套餐，在选择 Thinking 与 Pro 模型时可用。当前收录材料未提供模型技术细节、图像质量指标或独立评测结果。",
+    "keyPoints": [
+      "ChatGPT Images 2.0 作为新图像生成模型，面向所有 ChatGPT 套餐提供。",
+      "新增“带思考的图像”，可先规划并优化输出再生成。",
+      "该能力面向所有付费套餐，在 Thinking 与 Pro 模型下可用。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "1b3e9201c0bffea9",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Offering Zero Data Retention for frontier models",
+  "summary": "OpenAI 重申面向符合条件的 API 客户提供零数据保留（Zero Data Retention），并预告一项名为 Private Safety Processing 的机制，称其可在不牺牲数据隐私的前提下支持先进 AI 安全处理。",
+  "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+  "date": "2026-08-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-19T19:00:00+00:00",
+  "titleEn": "Offering Zero Data Retention for frontier models",
+  "titleZh": "为前沿模型提供零数据保留",
+  "details": {
+    "overview": "OpenAI 重申面向符合条件的 API 客户提供零数据保留（Zero Data Retention），并预告一项名为 Private Safety Processing 的机制，称其可在不牺牲数据隐私的前提下支持先进 AI 安全处理。原始发布内容未说明资格条件、覆盖模型范围或该机制的具体实现与上线时间，因此这里只呈现官方声明的方向，不对其安全效果作判断。",
+    "keyPoints": [
+      "重申符合条件的 API 客户可获零数据保留。",
+      "预告 Private Safety Processing，主打隐私与安全兼顾。",
+      "当前收录材料未提供资格条件、覆盖范围与上线时间。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

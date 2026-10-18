@@ -1,0 +1,25 @@
+{
+  "id": "6267e4cad56c36bf",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+  "summary": "该官方内容介绍 HSP GRUPPE 使用 ChatGPT Enterprise 的实践，称其用于提升生产力、改善工作质量，并为税务咨询与客户服务创造更多产能。",
+  "url": "https://openai.com/index/hsp-gruppe",
+  "date": "2026-08-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-07T09:00:00+00:00",
+  "titleEn": "How HSP GRUPPE builds AI capabilities for tax advisory",
+  "titleZh": "HSP GRUPPE 如何为税务咨询构建 AI 能力",
+  "details": {
+    "overview": "该官方内容介绍 HSP GRUPPE 使用 ChatGPT Enterprise 的实践，称其用于提升生产力、改善工作质量，并为税务咨询与客户服务创造更多产能。原文仅为概述性描述，未给出具体部署方式、量化效果或使用范围，相关结论应视为企业自述，具体细节以原文为准。",
+    "keyPoints": [
+      "HSP GRUPPE 使用 ChatGPT Enterprise 开展税务咨询",
+      "官方称其可提升生产力与工作质量",
+      "当前收录材料未提供量化效果或部署细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "38c327f482e00d49",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Retiring Atlas",
+  "summary": "官方发布称正逐步停用Atlas，将基于浏览器的智能体能力整合进ChatGPT和Codex，Atlas计划于2026年8月9日停止工作。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-atlas",
+  "date": "2026-07-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Retiring Atlas",
+  "titleZh": "Atlas即将停用",
+  "details": {
+    "overview": "官方发布称正逐步停用Atlas，将基于浏览器的智能体能力整合进ChatGPT和Codex，Atlas计划于2026年8月9日停止工作。书签、打开的标签页和浏览历史不会自动迁移，用户可将Cookie和密码导出至ChatGPT桌面应用、将书签导出至Chrome，并在截止日期前保存重要页面或URL。ChatGPT对话历史独立保留，具体取决于方案、工作区设置和账户访问权限。",
+    "keyPoints": [
+      "Atlas计划于2026年8月9日停止工作",
+      "书签、标签页和浏览历史不会自动迁移，需提前导出",
+      "ChatGPT对话历史独立保留，不受Atlas停用影响"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

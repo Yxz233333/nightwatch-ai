@@ -1,0 +1,24 @@
+{
+  "id": "78e672413c3f6555",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA and General Atomics Advance Commercial Fusion Energy",
+  "summary": "该新闻介绍NVIDIA、General Atomics及国际合作伙伴共同构建了一个三维、交互式、AI赋能的聚变反应堆数字孪生体，并得到加州大学圣地亚哥分校圣地亚哥超级计算机中心和阿贡领导计算设施的技术支持。",
+  "url": "https://blogs.nvidia.com/blog/nvidia-general-atomics-fusion/",
+  "date": "2025-10-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-10-28T18:00:45+00:00",
+  "titleEn": "NVIDIA and General Atomics Advance Commercial Fusion Energy",
+  "titleZh": "NVIDIA与General Atomics推进商业聚变能源",
+  "details": {
+    "overview": "该新闻介绍NVIDIA、General Atomics及国际合作伙伴共同构建了一个三维、交互式、AI赋能的聚变反应堆数字孪生体，并得到加州大学圣地亚哥分校圣地亚哥超级计算机中心和阿贡领导计算设施的技术支持。新闻称此举旨在以AI加速商业聚变能源研发，但未披露具体技术细节、验证结果或商业化时间表。",
+    "keyPoints": [
+      "NVIDIA与General Atomics等合作构建聚变反应堆三维交互式AI数字孪生体。",
+      "项目获圣地亚哥超级计算机中心和阿贡领导计算设施技术支持。",
+      "新闻称该合作旨在推进商业聚变能源，但未提供具体验证结果。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

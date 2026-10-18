@@ -1,0 +1,25 @@
+{
+  "id": "2dda59c29d165c67",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI available at FedRAMP Moderate",
+  "summary": "该官方发布称 OpenAI 已在 FedRAMP Moderate 授权级别下可用，覆盖 ChatGPT Enterprise 与 OpenAI API，摘要表示这将帮助美国联邦机构安全地采用 AI。",
+  "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+  "date": "2026-04-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-27T14:00:00+00:00",
+  "titleEn": "OpenAI available at FedRAMP Moderate",
+  "titleZh": "OpenAI 已获得 FedRAMP Moderate 授权",
+  "details": {
+    "overview": "该官方发布称 OpenAI 已在 FedRAMP Moderate 授权级别下可用，覆盖 ChatGPT Enterprise 与 OpenAI API，摘要表示这将帮助美国联邦机构安全地采用 AI。现有材料未说明授权评估的具体范围、生效条件或可用时间表，也未提供第三方验证细节。因此可确认的是授权级别与适用产品这两项信息，其余需以官方原文为准。",
+    "keyPoints": [
+      "ChatGPT Enterprise 与 OpenAI API 获 FedRAMP Moderate 授权",
+      "官方称此举便于美国联邦机构安全采用 AI",
+      "授权范围与限制需以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

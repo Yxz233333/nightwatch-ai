@@ -1,0 +1,24 @@
+{
+  "id": "62bfb4f110725c5f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing the Life Sciences Verification Program",
+  "summary": "该发布记录称，Anthropic 推出生命科学验证计划（LSVP），经审核的研究团队可使用 Mythos、Opus 和 Sonnet 模型，并获得对生物相关工作更宽松的防护设置，覆盖药物发现、研究生物学、临床开发与制造等通用模型中受限的任务。",
+  "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+  "date": "2026-09-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-09-17T15:56:00+00:00",
+  "titleEn": "Introducing the Life Sciences Verification Program",
+  "titleZh": "推出生命科学验证计划",
+  "details": {
+    "overview": "该发布记录称，Anthropic 推出生命科学验证计划（LSVP），经审核的研究团队可使用 Mythos、Opus 和 Sonnet 模型，并获得对生物相关工作更宽松的防护设置，覆盖药物发现、研究生物学、临床开发与制造等通用模型中受限的任务。计划以 beta 形式面向团队与机构开放，申请需审核研究资质、安全标准与伦理监督；分为标准使用与高风险使用两类授权，后者仅限单一项目并每六个月续期。原文称已通过早期访问接入数十家机构。",
+    "keyPoints": [
+      "经审核团队可使用更宽松防护的模型，覆盖药物发现等任务",
+      "授权分标准使用与高风险使用，后者限单一项目并半年续期",
+      "以 beta 面向团队和机构开放，个人套餐与第三方平台暂不支持"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

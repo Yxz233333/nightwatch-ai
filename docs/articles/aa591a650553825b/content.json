@@ -1,0 +1,24 @@
+{
+  "id": "aa591a650553825b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+  "summary": "据原始发布内容，NVIDIA在SIGGRAPH大会上介绍其在图形与仿真方面的进展，涵盖开放模型与实时仿真等方向。",
+  "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+  "date": "2026-07-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-07-20T15:00:53+00:00",
+  "titleEn": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+  "titleZh": "NVIDIA在SIGGRAPH上以智能体AI与物理AI推进图形与仿真",
+  "details": {
+    "overview": "据原始发布内容，NVIDIA在SIGGRAPH大会上介绍其在图形与仿真方面的进展，涵盖开放模型与实时仿真等方向。原文表示，AI与图形的突破正在改变媒体、内容创作和机器人领域。材料仅为一句概述，未说明具体模型、产品名称、发布时间或性能数据，相关推出范围和限制需以原文为准。",
+    "keyPoints": [
+      "NVIDIA在SIGGRAPH上介绍图形与仿真进展，涉及开放模型与实时仿真。",
+      "原文称相关突破正影响媒体、内容创作和机器人领域。",
+      "材料未披露具体模型、产品名称或性能数据。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

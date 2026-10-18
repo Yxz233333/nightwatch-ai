@@ -1,0 +1,25 @@
+{
+  "id": "538d68bab4742c2e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare",
+  "summary": "该新闻标题指向一篇关于使用NVIDIA Isaac for Healthcare构建医疗机器人的指南，内容涵盖从仿真到部署的流程。",
+  "url": "https://huggingface.co/blog/nvidia/nvidia-isaac-for-healthcare",
+  "date": "2025-10-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-10-28T20:42:35+00:00",
+  "titleEn": "How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare",
+  "titleZh": "如何使用NVIDIA Isaac for Healthcare从仿真到部署构建医疗机器人",
+  "details": {
+    "overview": "该新闻标题指向一篇关于使用NVIDIA Isaac for Healthcare构建医疗机器人的指南，内容涵盖从仿真到部署的流程。但提供的sourceText为空，仅有标题和摘要，无法获取具体技术细节、案例或部署范围。因此仅能确认主题为医疗机器人开发流程，其余信息不足。",
+    "keyPoints": [
+      "新闻主题为使用NVIDIA Isaac for Healthcare构建医疗机器人。",
+      "标题表明内容涵盖从仿真到部署的流程。",
+      "原始文本为空，无法确认具体技术细节或案例。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

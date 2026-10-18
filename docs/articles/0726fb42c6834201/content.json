@@ -1,0 +1,25 @@
+{
+  "id": "0726fb42c6834201",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing ChatGPT Images 2.0",
+  "summary": "该行业新闻摘要称，2026 年的这次发布推出 ChatGPT Images 2.0，改进包括文本渲染、多语言支持与视觉推理，并提示可查看 Images 2.5 的新内容。",
+  "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
+  "date": "2026-04-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-21T12:00:00+00:00",
+  "titleEn": "Introducing ChatGPT Images 2.0",
+  "titleZh": "推出 ChatGPT Images 2.0",
+  "details": {
+    "overview": "该行业新闻摘要称，2026 年的这次发布推出 ChatGPT Images 2.0，改进包括文本渲染、多语言支持与视觉推理，并提示可查看 Images 2.5 的新内容。提供的原文仅此一句，未说明具体可用范围、技术实现或评测方式，也未给出与 2.5 版本关系的细节。因此本条目仅能概括发布方声称的改进方向，相关结论未在材料中展开。",
+    "keyPoints": [
+      "发布方称 ChatGPT Images 2.0 改进文本渲染、多语言支持与视觉推理。",
+      "摘要提示可查看 Images 2.5 的新内容，但未展开两者差异。",
+      "原文信息有限，具体范围与限制需以官方原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

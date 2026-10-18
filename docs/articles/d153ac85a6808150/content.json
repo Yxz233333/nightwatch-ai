@@ -1,0 +1,24 @@
+{
+  "id": "d153ac85a6808150",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic forms $200 million partnership with the Gates Foundation",
+  "summary": "Anthropic 表示将与盖茨基金会合作，在未来四年投入 2 亿美元，包括赠款资金、Claude 使用额度和技术支持，用于全球健康、生命科学、教育与经济流动性项目，并由美国及世界各地伙伴实施。",
+  "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+  "date": "2026-05-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-05-14T14:45:00+00:00",
+  "titleEn": "Anthropic forms $200 million partnership with the Gates Foundation",
+  "titleZh": "Anthropic 与盖茨基金会达成 2 亿美元合作",
+  "details": {
+    "overview": "Anthropic 表示将与盖茨基金会合作，在未来四年投入 2 亿美元，包括赠款资金、Claude 使用额度和技术支持，用于全球健康、生命科学、教育与经济流动性项目，并由美国及世界各地伙伴实施。健康方向聚焦中低收入国家，涉及疫苗与疗法研发、健康数据决策、被忽视疾病研究，以及与疾病建模研究所合作改进疟疾、结核病等防治部署预测。教育方向面向美国 K-12 及撒哈拉以南非洲、印度，经济流动性方向涉及农业与就业。",
+    "keyPoints": [
+      "四年投入 2 亿美元，含赠款、Claude 额度与技术支持",
+      "健康方向聚焦中低收入国家疫苗、疗法与被忽视疾病",
+      "教育覆盖美国 K-12 及撒哈拉以南非洲和印度"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

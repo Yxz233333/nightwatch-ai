@@ -1,0 +1,25 @@
+{
+  "id": "5d572677c81aaad7",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+  "summary": "原始材料仅提供标题，未给出摘要或正文内容，无法确认具体研究对象、方法细节与作者声称的结果。",
+  "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+  "date": "2026-09-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-09-10T00:00:00+00:00",
+  "titleEn": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+  "titleZh": "跨 HF Jobs 使用 LoRA 的异步 GRPO：一个存储桶、一个代理，无需 NCCL",
+  "details": {
+    "overview": "原始材料仅提供标题，未给出摘要或正文内容，无法确认具体研究对象、方法细节与作者声称的结果。从标题看，内容涉及在 HF Jobs 上以异步方式运行结合 LoRA 的 GRPO，并采用存储桶与代理方案而不依赖 NCCL。由于材料不足，本条目不对技术结论作进一步描述，需以原文为准。",
+    "keyPoints": [
+      "标题指向跨 HF Jobs 的异步 GRPO 与 LoRA 组合方案。",
+      "标题提及使用存储桶和代理，且不依赖 NCCL。",
+      "原始材料仅有标题，缺少方法细节与结果说明。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

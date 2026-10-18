@@ -1,0 +1,25 @@
+{
+  "id": "b2410836af8c0fda",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing GPT-5.1 for developers",
+  "summary": "该发布宣布 GPT-5.1 已在 API 中可用。",
+  "url": "https://openai.com/index/gpt-5-1-for-developers",
+  "date": "2025-11-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-13T00:00:00+00:00",
+  "titleEn": "Introducing GPT-5.1 for developers",
+  "titleZh": "面向开发者推出 GPT-5.1",
+  "details": {
+    "overview": "该发布宣布 GPT-5.1 已在 API 中可用。原文称其带来更快的自适应推理、扩展的提示缓存、改进的编码性能，以及新的 apply_patch 和 shell 工具。提供的原文仅为一句摘要，未说明定价、速率限制、可用地区或与旧版本的具体对比数据，相关能力描述属于官方发布口径。",
+    "keyPoints": [
+      "GPT-5.1 已在 API 中向开发者提供。",
+      "官方称其具备更快的自适应推理与扩展的提示缓存。",
+      "新增 apply_patch 和 shell 工具，并称编码性能改进。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "fd8a261787dd4a8b",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Transformers now runs llama.cpp quants",
+  "summary": "该消息标题称 Transformers 现在可以运行 llama.cpp 的量化格式。",
+  "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+  "date": "2026-09-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-09-22T00:00:00+00:00",
+  "titleEn": "Transformers now runs llama.cpp quants",
+  "titleZh": "Transformers 现已支持运行 llama.cpp 量化格式",
+  "details": {
+    "overview": "该消息标题称 Transformers 现在可以运行 llama.cpp 的量化格式。当前收录材料未提供正文内容，因此无法确认支持的具体量化类型、使用方式或限制条件，相关信息需以原始发布为准。",
+    "keyPoints": [
+      "标题称 Transformers 可运行 llama.cpp 量化格式",
+      "原文无正文，具体量化类型与用法不明",
+      "适用范围与限制需以原始发布为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

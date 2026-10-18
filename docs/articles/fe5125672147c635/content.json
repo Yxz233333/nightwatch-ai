@@ -1,0 +1,24 @@
+{
+  "id": "fe5125672147c635",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA to Acquire Hugging Face",
+  "summary": "官方发布记录称，NVIDIA 已同意以 12,930,300,000 美元收购 Hugging Face。",
+  "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+  "date": "2026-09-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-09-03T11:56:49+00:00",
+  "titleEn": "NVIDIA to Acquire Hugging Face",
+  "titleZh": "NVIDIA 将收购 Hugging Face",
+  "details": {
+    "overview": "官方发布记录称，NVIDIA 已同意以 12,930,300,000 美元收购 Hugging Face。双方表示将共同扩展 Hugging Face 平台、加强其基础设施，并扩大全球开发者和机构获取 AI 的渠道。原文还提到 Hugging Face 团队过去十年打造了活跃的社区家园。交易完成条件等细节原文未展开。",
+    "keyPoints": [
+      "NVIDIA 同意以 12,930,300,000 美元收购 Hugging Face。",
+      "双方计划扩展平台、加强基础设施并扩大 AI 获取渠道。",
+      "原文肯定 Hugging Face 团队过去十年建设的社区。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

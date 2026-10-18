@@ -1,0 +1,25 @@
+{
+  "id": "a0c4dfe059f25bc1",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Understanding prompt injections: a frontier security challenge",
+  "summary": "该文将提示注入描述为 AI 系统面临的前沿安全挑战，并说明 OpenAI 如何推进相关研究、训练模型以及为用户构建防护措施。",
+  "url": "https://openai.com/index/prompt-injections",
+  "date": "2025-11-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-07T11:30:00+00:00",
+  "titleEn": "Understanding prompt injections: a frontier security challenge",
+  "titleZh": "理解提示注入：一项前沿安全挑战",
+  "details": {
+    "overview": "该文将提示注入描述为 AI 系统面临的前沿安全挑战，并说明 OpenAI 如何推进相关研究、训练模型以及为用户构建防护措施。原文当前收录摘要未给出具体攻击案例、技术细节或效果数据，因此无法进一步说明其方法或验证情况。",
+    "keyPoints": [
+      "提示注入被定位为 AI 系统的前沿安全挑战",
+      "OpenAI 称正推进研究、模型训练与用户防护措施",
+      "当前收录材料未提供具体技术细节与效果数据"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

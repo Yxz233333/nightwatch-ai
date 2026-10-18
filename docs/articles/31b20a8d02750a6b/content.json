@@ -1,0 +1,24 @@
+{
+  "id": "31b20a8d02750a6b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+  "summary": "Anthropic分析2025年3月至2026年3月间因恶意网络活动被封禁的832个账户，并将其映射到MITRE ATT&CK框架。",
+  "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+  "date": "2026-06-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-06-03T10:55:00+00:00",
+  "titleEn": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+  "titleZh": "我们绘制一年AI网络威胁图谱的发现",
+  "details": {
+    "overview": "Anthropic分析2025年3月至2026年3月间因恶意网络活动被封禁的832个账户，并将其映射到MITRE ATT&CK框架。报告发现，67.3%的账户使用AI编写恶意软件，6.5%用于横向移动；中高风险攻击者比例从33%升至56%。攻击者日益将AI用于攻击后期阶段，且传统风险指标（如技术数量）与风险等级相关性减弱。报告建议ATT&CK框架纳入AI智能体编排等行为。",
+    "keyPoints": [
+      "832个被封账户中67.3%使用AI编写恶意软件。",
+      "中高风险攻击者占比从33%升至56%。",
+      "AI使用转向攻击后期阶段，传统风险指标失效。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "006869c9713e30a9",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
+  "summary": "AI 推理芯片公司 d-Matrix 宣布，将使用 NVLink Fusion 将其下一代 Raptor XPU 连接到 NVIDIA 的 AI 基础设施平台，成为不断扩大的生态合作伙伴之一。",
+  "url": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
+  "date": "2026-09-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-09-10T13:00:21+00:00",
+  "titleEn": "d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment",
+  "titleZh": "d-Matrix 采用 NVIDIA NVLink Fusion 进行机架级 XPU 部署",
+  "details": {
+    "overview": "AI 推理芯片公司 d-Matrix 宣布，将使用 NVLink Fusion 将其下一代 Raptor XPU 连接到 NVIDIA 的 AI 基础设施平台，成为不断扩大的生态合作伙伴之一。通过将 Raptor 连接到 NVIDIA NVLink 纵向扩展和 Spectrum-X 横向扩展网络、NVIDIA MGX 机架架构以及更广泛的 NVIDIA AI 平台，NVLink Fusion 提供相关连接能力。当前收录材料未提供具体时间表或部署规模。",
+    "keyPoints": [
+      "d-Matrix 将用 NVLink Fusion 连接下一代 Raptor XPU 与 NVIDIA AI 基础设施。",
+      "连接涵盖 NVLink 纵向扩展、Spectrum-X 横向扩展、MGX 机架架构等。",
+      "d-Matrix 加入使用 NVLink Fusion 的生态合作伙伴行列。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

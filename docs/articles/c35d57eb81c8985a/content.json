@@ -1,0 +1,24 @@
+{
+  "id": "c35d57eb81c8985a",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Claude is now generally available in Xcode",
+  "summary": "Anthropic 宣布开发者可将 Claude 账户连接至苹果 Xcode 26，使用 Claude Sonnet 4 驱动的编码智能功能。",
+  "url": "https://www.anthropic.com/news/claude-in-xcode",
+  "date": "2025-09-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-09-15T21:26:13.121000+00:00",
+  "titleEn": "Claude is now generally available in Xcode",
+  "titleZh": "Claude 现已在 Xcode 中正式可用",
+  "details": {
+    "overview": "Anthropic 宣布开发者可将 Claude 账户连接至苹果 Xcode 26，使用 Claude Sonnet 4 驱动的编码智能功能。该集成允许开发者在工作流中直接调用 Claude 的编码能力，以加速苹果平台应用开发。Claude 订阅用量限额跨平台共享，Xcode 中可用部分额度。该功能适用于包含 Claude Code 的 Pro、Max 以及 Team 和 Enterprise 高级席位。原文还提及 Anthropic 向 METR 提供类似员工权限以评估系统安全，并与新加坡政府签署备忘录。",
+    "keyPoints": [
+      "开发者可将 Claude 账户连接 Xcode 26，使用 Claude Sonnet 4 的编码智能功能。",
+      "Claude 订阅用量限额跨平台共享，Xcode 中可用部分额度。",
+      "支持含 Claude Code 的 Pro、Max 及 Team/Enterprise 高级席位。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

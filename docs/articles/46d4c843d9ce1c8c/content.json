@@ -1,0 +1,25 @@
+{
+  "id": "46d4c843d9ce1c8c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+  "summary": "该条目仅有标题，摘要与原文正文均为空，无法确认v0.6.0版本的具体更新内容、研究对象或作者声称的结果。",
+  "url": "https://huggingface.co/blog/lerobot-release-v060",
+  "date": "2026-07-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-07-07T00:00:00+00:00",
+  "titleEn": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+  "titleZh": "LeRobot v0.6.0：想象、评估、改进",
+  "details": {
+    "overview": "该条目仅有标题，摘要与原文正文均为空，无法确认v0.6.0版本的具体更新内容、研究对象或作者声称的结果。仅从标题看，其主题可能围绕“想象、评估、改进”的机器人学习流程，但材料不足，不能推断功能、性能或适用范围。",
+    "keyPoints": [
+      "标题为LeRobot v0.6.0版本更新",
+      "副标题为想象、评估、改进",
+      "摘要与正文为空，缺少可核实细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

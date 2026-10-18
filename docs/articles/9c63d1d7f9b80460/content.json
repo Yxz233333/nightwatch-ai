@@ -1,0 +1,23 @@
+{
+  "id": "9c63d1d7f9b80460",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Shopping updates in ChatGPT",
+  "summary": "OpenAI对ChatGPT的购物功能进行了改进，使用户更容易发现、比较和决定购买产品。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shopping-updates-in-chatgpt",
+  "date": "2026-03-24",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Shopping updates in ChatGPT",
+  "titleZh": "ChatGPT购物功能更新",
+  "details": {
+    "overview": "OpenAI对ChatGPT的购物功能进行了改进，使用户更容易发现、比较和决定购买产品。产品结果现在视觉上更丰富，细节和相关性有所提升。用户可以在聊天中浏览产品、通过对话细化结果，并上传图片查找相似商品。产品还可以并排比较价格、评价和功能等关键信息。官方表示，产品数据的覆盖范围、新鲜度和速度也有所改善，这些改进本周向所有ChatGPT用户推出，并借助Agentic Commerce Protocol从商家和其他提供商处检索和呈现产品信息。",
+    "keyPoints": [
+      "产品结果视觉更丰富，细节和相关性提升，支持在聊天中浏览和对话细化。",
+      "支持上传图片查找相似商品，并可并排比较价格、评价和功能。",
+      "改进本周向所有ChatGPT用户推出，基于Agentic Commerce Protocol检索产品信息。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

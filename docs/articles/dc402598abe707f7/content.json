@@ -1,0 +1,25 @@
+{
+  "id": "dc402598abe707f7",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "From assistance to execution: How enterprises put AI to work",
+  "summary": "OpenAI 研究内容介绍企业采用智能体式 AI 的情况，涉及 ChatGPT 与 Codex 的使用方式，并指出领先企业在 AI 采用上正拉开差距。",
+  "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+  "date": "2026-08-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-12T06:00:00+00:00",
+  "titleEn": "From assistance to execution: How enterprises put AI to work",
+  "titleZh": "从辅助到执行：企业如何让 AI 真正投入工作",
+  "details": {
+    "overview": "OpenAI 研究内容介绍企业采用智能体式 AI 的情况，涉及 ChatGPT 与 Codex 的使用方式，并指出领先企业在 AI 采用上正拉开差距。原文未给出样本规模、具体数据或研究方法，相关结论与适用范围需以官方原始发布为准。",
+    "keyPoints": [
+      "研究主题为企业对智能体式 AI 的采用情况。",
+      "涉及企业使用 ChatGPT 与 Codex 的方式。",
+      "官方称前沿企业在 AI 采用上正领先于其他企业。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

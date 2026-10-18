@@ -1,0 +1,25 @@
+{
+  "id": "a316044887751352",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing dots",
+  "summary": "OpenAI 发布名为 dots 的主动式助手，官方简介称其可在复杂项目和日常任务中持续工作，并强调用户仍能保持对任务进展的控制。",
+  "url": "https://openai.com/index/introducing-dots",
+  "date": "2026-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-29T00:00:00+00:00",
+  "titleEn": "Introducing dots",
+  "titleZh": "推出 dots",
+  "details": {
+    "overview": "OpenAI 发布名为 dots 的主动式助手，官方简介称其可在复杂项目和日常任务中持续工作，并强调用户仍能保持对任务进展的控制。原始材料仅有一句概述，未说明具体功能、可用范围或技术细节，因此无法进一步介绍其工作方式与限制。",
+    "keyPoints": [
+      "dots 被定位为可跨复杂项目与日常任务持续工作的主动式助手",
+      "官方强调用户在使用过程中仍能保持控制",
+      "当前收录材料未提供具体功能、推出范围与限制"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

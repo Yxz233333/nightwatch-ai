@@ -1,0 +1,25 @@
+{
+  "id": "e1f630ac8f2afac8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "An open-source spec for orchestration: Symphony",
+  "summary": "OpenAI 介绍名为 Symphony 的开源规范，用于 Codex 的编排。",
+  "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+  "date": "2026-04-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-27T00:00:00+00:00",
+  "titleEn": "An open-source spec for orchestration: Symphony",
+  "titleZh": "开源编排规范 Symphony",
+  "details": {
+    "overview": "OpenAI 介绍名为 Symphony 的开源规范，用于 Codex 的编排。摘要称其可将问题跟踪系统转变为持续运行的智能体系统，从而提升工程产出并减少上下文切换。原始材料仅为概括性描述，未说明规范的具体结构、支持的跟踪工具、部署方式或效果数据，因此无法进一步评估其实际收益。该内容属于工具与工程实践方向的发布，相关提升说法来自官方表述。",
+    "keyPoints": [
+      "Symphony 是面向 Codex 编排的开源规范",
+      "摘要称其可把问题跟踪系统转为持续运行的智能体系统",
+      "官方称其有助于提升工程产出并减少上下文切换"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

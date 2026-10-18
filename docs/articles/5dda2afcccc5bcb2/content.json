@@ -1,0 +1,25 @@
+{
+  "id": "5dda2afcccc5bcb2",
+  "section": "news",
+  "category": "模型动态",
+  "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+  "summary": "该条目为模型动态，标题称WeatherNext这一AI模型在气旋预报方面取得突破。",
+  "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+  "date": "2026-08-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-08-06T15:06:15+00:00",
+  "titleEn": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+  "titleZh": "WeatherNext：AI模型在气旋预报方面取得突破",
+  "details": {
+    "overview": "该条目为模型动态，标题称WeatherNext这一AI模型在气旋预报方面取得突破。提供的原始发布内容为空，仅有标题信息，无法确认模型的具体方法、预报指标、对比基准或验证情况。因此本介绍仅能说明其宣称方向，具体结论与适用范围需以官方原文为准。",
+    "keyPoints": [
+      "WeatherNext为AI气象模型，宣称在气旋预报上取得突破。",
+      "原始发布内容为空，缺少方法、指标与验证细节。",
+      "具体结论与适用范围需以官方原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "86e49157420d592a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "New OpenAI Academy courses for the next era of work",
+  "summary": "OpenAI介绍三门Academy课程，旨在帮助人们建立实用AI技能、创建可重复使用的工作流程，并在日常工作中应用智能体。",
+  "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+  "date": "2026-06-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-12T10:00:00+00:00",
+  "titleEn": "New OpenAI Academy courses for the next era of work",
+  "titleZh": "OpenAI Academy推出面向下一工作时代的新课程",
+  "details": {
+    "overview": "OpenAI介绍三门Academy课程，旨在帮助人们建立实用AI技能、创建可重复使用的工作流程，并在日常工作中应用智能体。当前收录材料仅给出这一概述，未披露课程具体内容、时长、面向人群或上线范围。就现有材料看，这些课程聚焦从技能学习到工作流搭建再到智能体应用的实践路径，具体细节需以官方后续发布为准。",
+    "keyPoints": [
+      "OpenAI推出三门Academy课程，聚焦实用AI技能培养。",
+      "课程目标包括创建可重复使用的工作流程和在日常工作中应用智能体。",
+      "当前收录材料未提供课程具体内容、时长与上线范围。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

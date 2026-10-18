@@ -1,0 +1,25 @@
+{
+  "id": "d4efb249501bbd67",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Creating images with ChatGPT",
+  "summary": "该页面介绍如何借助ChatGPT创建和优化图像：使用清晰的提示词、对设计进行迭代，并在较短时间内生成高质量视觉内容。",
+  "url": "https://openai.com/academy/image-generation",
+  "date": "2026-04-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-10T00:00:00+00:00",
+  "titleEn": "Creating images with ChatGPT",
+  "titleZh": "用ChatGPT创建图像",
+  "details": {
+    "overview": "该页面介绍如何借助ChatGPT创建和优化图像：使用清晰的提示词、对设计进行迭代，并在较短时间内生成高质量视觉内容。原文为使用指导，未说明所用模型版本、图像规格或质量评测标准。",
+    "keyPoints": [
+      "用清晰提示词创建和优化图像",
+      "通过迭代设计改进生成结果",
+      "原文称可在数分钟内生成视觉内容"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

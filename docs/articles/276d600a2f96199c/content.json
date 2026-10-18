@@ -1,0 +1,25 @@
+{
+  "id": "276d600a2f96199c",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.32.0 发布",
+  "summary": "Codex CLI 0.32.0 是一次稳定版本更新，涵盖多项改进：MCP 作为服务器时添加用户代理后缀并做稳定性与兼容性调整；扩大 apply_patch 的开源兼容性；为 rollouts 奠定基础并在响应中包含 rollout_path；TUI 支持 Alt+Delete 删除下一个单词；协议与类型方面新增 ArchiveConversation 请求并改进 TypeScript 类型；CI 构建改用 nextest 加速测试并加入 shear；文档澄清配置中的 shell 引号处理。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.32.0",
+  "date": "2025-09-11",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-09-10T17:24:16+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.32.0 发布",
+  "titleZh": "Codex CLI 0.32.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.32.0 是一次稳定版本更新，涵盖多项改进：MCP 作为服务器时添加用户代理后缀并做稳定性与兼容性调整；扩大 apply_patch 的开源兼容性；为 rollouts 奠定基础并在响应中包含 rollout_path；TUI 支持 Alt+Delete 删除下一个单词；协议与类型方面新增 ArchiveConversation 请求并改进 TypeScript 类型；CI 构建改用 nextest 加速测试并加入 shear；文档澄清配置中的 shell 引号处理。",
+    "keyPoints": [
+      "MCP 作为服务器时添加 UA 后缀，并做稳定性调整。",
+      "rollouts 奠定基础，响应中包含 rollout_path。",
+      "CI 改用 nextest 加速测试，并加入 cargo shear。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

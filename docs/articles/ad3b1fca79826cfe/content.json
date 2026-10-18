@@ -1,0 +1,24 @@
+{
+  "id": "ad3b1fca79826cfe",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Anthropic acquires Bun as Claude Code reaches $1B milestone",
+  "summary": "Anthropic 宣布收购 JavaScript 运行时 Bun，以进一步加速 Claude Code。",
+  "url": "https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone",
+  "date": "2025-12-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-12-03T04:10:00+00:00",
+  "titleEn": "Anthropic acquires Bun as Claude Code reaches $1B milestone",
+  "titleZh": "Anthropic 收购 Bun，Claude Code 达到 10 亿美元里程碑",
+  "details": {
+    "overview": "Anthropic 宣布收购 JavaScript 运行时 Bun，以进一步加速 Claude Code。原文称 Claude Code 在向公众开放六个月后达到 10 亿美元年化收入。Bun 由 Jarred Sumner 于 2021 年创立，集运行时、包管理器、打包器和测试运行器于一体，原文称其速度显著快于领先竞品，月下载量超 700 万、GitHub 星标超 8.2 万。Anthropic 表示收购后 Bun 将保持开源和 MIT 许可，Claude Code 用户可获得更快性能、更好稳定性和新能力。",
+    "keyPoints": [
+      "Anthropic 收购 JavaScript 运行时 Bun，称将加速 Claude Code 的性能与稳定性。",
+      "原文称 Claude Code 向公众开放六个月后达到 10 亿美元年化收入。",
+      "Bun 将保持开源和 MIT 许可，继续作为 JavaScript/TypeScript 开发工具投资。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "587a50dfd9e843fa",
+  "section": "news",
+  "category": "模型动态",
+  "title": "UST is bringing Claude to physical AI",
+  "summary": "Anthropic 宣布与技术与工程服务公司 UST 合作，将 Claude 用于其客户所依赖的工程环境，并计划在全球培训 2 万名工程师、架构师和顾问使用 Claude。",
+  "url": "https://www.anthropic.com/news/ust-claude",
+  "date": "2026-07-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-07-09T23:55:00+00:00",
+  "titleEn": "UST is bringing Claude to physical AI",
+  "titleZh": "UST 将 Claude 引入物理 AI",
+  "details": {
+    "overview": "Anthropic 宣布与技术与工程服务公司 UST 合作，将 Claude 用于其客户所依赖的工程环境，并计划在全球培训 2 万名工程师、架构师和顾问使用 Claude。UST 服务半导体、汽车、制造、电信、嵌入式与物联网等行业。原文称，其 iDEC 平台闭环流程可将验证周期缩短 50% 至 70%，把通常四天的周转压缩到 48 小时；UST 正将 Claude 作为该流程的推理层，读取芯片引脚与硬件原理图、编写并运行回归测试，并比对实机数据与数字孪生以标记固件回归和信号完整性问题。",
+    "keyPoints": [
+      "UST 计划培训 2 万名员工使用 Claude",
+      "Claude 作为 iDEC 验证流程的推理层",
+      "原文称该流程可将验证周期缩短 50% 至 70%"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

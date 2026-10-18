@@ -1,0 +1,25 @@
+{
+  "id": "665549b78e5f3c4c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing ChatGPT Health",
+  "summary": "官方发布记录称，ChatGPT Health 是一项专门体验，可安全连接用户的健康数据与应用，并配有隐私保护措施和由医生参与的设计。",
+  "url": "https://openai.com/index/introducing-chatgpt-health",
+  "date": "2026-01-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-07T00:00:00+00:00",
+  "titleEn": "Introducing ChatGPT Health",
+  "titleZh": "推出 ChatGPT Health",
+  "details": {
+    "overview": "官方发布记录称，ChatGPT Health 是一项专门体验，可安全连接用户的健康数据与应用，并配有隐私保护措施和由医生参与的设计。当前收录材料仅给出这一句概述，未说明具体功能范围、可用地区或上线时间，相关细节需以原始发布内容为准。",
+    "keyPoints": [
+      "定位为专门体验，可安全连接健康数据与应用。",
+      "强调隐私保护与医生参与的设计。",
+      "当前收录材料未提供推出范围与时间等细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

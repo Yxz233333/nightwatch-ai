@@ -1,0 +1,25 @@
+{
+  "id": "0c82eeafa44d8fad",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Unlocking the Codex harness: how we built the App Server",
+  "summary": "该文介绍如何通过 Codex App Server 嵌入 Codex 智能体。",
+  "url": "https://openai.com/index/unlocking-the-codex-harness",
+  "date": "2026-02-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-04T13:00:00+00:00",
+  "titleEn": "Unlocking the Codex harness: how we built the App Server",
+  "titleZh": "解析 Codex harness：我们如何构建 App Server",
+  "details": {
+    "overview": "该文介绍如何通过 Codex App Server 嵌入 Codex 智能体。据摘要，App Server 是一个双向 JSON-RPC API，支持流式进度、工具调用、审批与差异（diffs）等功能。文章面向希望将 Codex 智能体集成到自身应用的开发者，说明其接口形态与能力范围。材料未涉及性能数据或独立验证。",
+    "keyPoints": [
+      "Codex App Server 是双向 JSON-RPC API",
+      "支持流式进度、工具使用、审批与差异展示",
+      "目标是让开发者嵌入 Codex 智能体"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

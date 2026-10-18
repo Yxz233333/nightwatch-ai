@@ -1,0 +1,25 @@
+{
+  "id": "51bca905d6982421",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "AI for Societal Impact",
+  "summary": "该官方发布以合集形式呈现专家和地方领导者如何利用AI突破，推动更多人共享AI机会。",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+  "date": "2026-09-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google AI 官方博客",
+  "publishedAt": "2026-09-15T16:00:00+00:00",
+  "titleEn": "AI for Societal Impact",
+  "titleZh": "面向社会影响的AI",
+  "details": {
+    "overview": "该官方发布以合集形式呈现专家和地方领导者如何利用AI突破，推动更多人共享AI机会。原文仅有一句引导语，未列出具体案例、地区、合作方或成效数据。可确认的是其主题为社会影响与机会普惠，形式为案例合集；但合集中包含哪些项目、覆盖哪些人群、取得何种结果，原文均未展开，需以官方页面实际内容为准。",
+    "keyPoints": [
+      "合集展示专家与地方领导者使用AI的实践",
+      "主题是让更多人共享AI机会",
+      "原文未列出具体案例、地区或成效数据"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

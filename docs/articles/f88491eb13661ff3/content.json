@@ -1,0 +1,24 @@
+{
+  "id": "f88491eb13661ff3",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "AI Copilot Keeps Berkeley’s X-Ray Particle Accelerator on Track",
+  "summary": "报道称，劳伦斯伯克利国家实验室的先进光源（ALS）粒子加速器设施近期部署了名为Accelerator Assistant的系统，由大语言模型驱动，用于支持高风险的物理实验并保障X射线研究顺利进行。",
+  "url": "https://blogs.nvidia.com/blog/ai-copilot-berkeley-x-ray-particle-accelerator/",
+  "date": "2026-01-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-01-08T17:00:41+00:00",
+  "titleEn": "AI Copilot Keeps Berkeley’s X-Ray Particle Accelerator on Track",
+  "titleZh": "AI助手助力伯克利X射线粒子加速器稳定运行",
+  "details": {
+    "overview": "报道称，劳伦斯伯克利国家实验室的先进光源（ALS）粒子加速器设施近期部署了名为Accelerator Assistant的系统，由大语言模型驱动，用于支持高风险的物理实验并保障X射线研究顺利进行。现有材料仅给出部署地点、系统名称与基本定位，未说明具体功能、模型来源或运行效果，相关细节需以原始发布为准。",
+    "keyPoints": [
+      "劳伦斯伯克利国家实验室ALS设施部署了LLM驱动的Accelerator Assistant。",
+      "该系统用于支持粒子加速器上的物理实验，保障X射线研究推进。",
+      "材料未披露具体功能、模型来源或实际运行效果。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

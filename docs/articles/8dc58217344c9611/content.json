@@ -1,0 +1,25 @@
+{
+  "id": "8dc58217344c9611",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Inside OpenAI’s in-house data agent",
+  "summary": "OpenAI官方发布记录介绍了其内部构建的AI数据智能体，该智能体结合GPT-5、Codex和记忆机制，用于对大规模数据集进行推理，并在数分钟内提供可靠洞察。",
+  "url": "https://openai.com/index/inside-our-in-house-data-agent",
+  "date": "2026-01-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-29T10:00:00+00:00",
+  "titleEn": "Inside OpenAI’s in-house data agent",
+  "titleZh": "OpenAI内部数据智能体揭秘",
+  "details": {
+    "overview": "OpenAI官方发布记录介绍了其内部构建的AI数据智能体，该智能体结合GPT-5、Codex和记忆机制，用于对大规模数据集进行推理，并在数分钟内提供可靠洞察。当前收录材料未提供具体技术细节、性能指标或独立验证结果，仅说明其用途和组成。",
+    "keyPoints": [
+      "该智能体使用GPT-5、Codex和记忆机制处理大规模数据集。",
+      "目标是在数分钟内提供可靠的数据洞察。",
+      "当前收录材料未提供具体性能数据或独立验证信息。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

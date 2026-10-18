@@ -1,0 +1,24 @@
+{
+  "id": "080ca6a0272cfdd9",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA DGX Spark and DGX Station Power the Latest Open-Source and Frontier Models From the Desktop",
+  "summary": "NVIDIA 在 CES 展会期间介绍，DGX Spark 与 DGX Station 桌面级 AI 超级计算机可让开发者在本地桌面环境使用最新开源与前沿 AI 模型。",
+  "url": "https://blogs.nvidia.com/blog/dgx-spark-and-station-open-source-frontier-models/",
+  "date": "2026-01-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-01-05T22:49:06+00:00",
+  "titleEn": "NVIDIA DGX Spark and DGX Station Power the Latest Open-Source and Frontier Models From the Desktop",
+  "titleZh": "NVIDIA DGX Spark 与 DGX Station 让最新开源及前沿模型在桌面端运行",
+  "details": {
+    "overview": "NVIDIA 在 CES 展会期间介绍，DGX Spark 与 DGX Station 桌面级 AI 超级计算机可让开发者在本地桌面环境使用最新开源与前沿 AI 模型。稿件称开源 AI 正在加速各行业创新，这两款产品旨在帮助开发者把创新转化为实际影响。原文摘要在此截断，未给出具体模型清单、性能数据或价格与上市范围。",
+    "keyPoints": [
+      "NVIDIA 在 CES 展示 DGX Spark 与 DGX Station 桌面 AI 超级计算机",
+      "官方称开发者可在本地桌面运行最新开源与前沿模型",
+      "摘要未披露支持模型清单、性能数据与价格范围"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

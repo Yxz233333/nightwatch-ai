@@ -13,7 +13,7 @@
   "titleEn": "Parabolic intersections in Artin groups",
   "titleZh": "Artin群中的抛物交",
   "details": {
-    "overview": "稿件研究任意有限秩Artin群的抛物子群交。作者声称证明了：任意有限秩Artin群（Coxeter标号可有限或无限）中，任意多个抛物子群的交仍是抛物子群，从而肯定解决抛物交猜想。摘要未给出证明方法或对无限标号情形的额外限制。该问题属于Artin群与Coxeter群结构理论；若成立，将统一处理有限与无限Coxeter标号下的抛物交封闭性。",
+    "overview": "稿件研究任意有限秩Artin群的抛物子群交。作者声称证明了：任意有限秩Artin群（Coxeter标号可有限或无限）中，任意多个抛物子群的交仍是抛物子群，从而肯定解决抛物交猜想。当前收录摘要未给出证明方法或对无限标号情形的额外限制。该问题属于Artin群与Coxeter群结构理论；若成立，将统一处理有限与无限Coxeter标号下的抛物交封闭性。",
     "keyPoints": [
       "研究对象为任意有限秩Artin群的抛物子群交。",
       "作者声称任意多个抛物子群的交仍为抛物子群。",

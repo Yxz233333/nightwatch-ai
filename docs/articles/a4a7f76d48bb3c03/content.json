@@ -1,0 +1,25 @@
+{
+  "id": "a4a7f76d48bb3c03",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Dreaming: Better memory for a more helpful ChatGPT",
+  "summary": "该条目介绍 ChatGPT 引入新的记忆系统，旨在更好地记住用户偏好，使跨对话的上下文保持新鲜与相关。",
+  "url": "https://openai.com/index/chatgpt-memory-dreaming",
+  "date": "2026-06-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-04T09:00:00+00:00",
+  "titleEn": "Dreaming: Better memory for a more helpful ChatGPT",
+  "titleZh": "Dreaming：为更好用的 ChatGPT 带来更强记忆",
+  "details": {
+    "overview": "该条目介绍 ChatGPT 引入新的记忆系统，旨在更好地记住用户偏好，使跨对话的上下文保持新鲜与相关。原文仅有简介，未说明该系统的技术机制、可用范围、上线时间或隐私处理方式，因此无法评估实际效果，相关细节需以官方原文为准。",
+    "keyPoints": [
+      "ChatGPT 推出新的记忆系统，重点在于记住用户偏好。",
+      "目标是让跨对话的上下文保持新鲜与相关。",
+      "原文未说明可用范围、上线时间与隐私机制，信息不足。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

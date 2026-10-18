@@ -1,0 +1,23 @@
+{
+  "id": "a45132192766b164",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Interactive Code Blocks in ChatGPT",
+  "summary": "官方发布信息显示，ChatGPT 的代码块功能得到改进，变得更加可交互。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#interactive-code-blocks-in-chatgpt",
+  "date": "2026-02-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Interactive Code Blocks in ChatGPT",
+  "titleZh": "ChatGPT 中的交互式代码块",
+  "details": {
+    "overview": "官方发布信息显示，ChatGPT 的代码块功能得到改进，变得更加可交互。用户可以在 ChatGPT 内直接编写、编辑和预览代码，具体包括：在行内编写和编辑文本、在聊天中直接预览图表和迷你应用，以及通过分屏视图查看代码。该更新旨在将代码编写、编辑与预览整合在同一界面中，提升使用便利性。原文未说明具体推出范围与限制。",
+    "keyPoints": [
+      "代码块支持在 ChatGPT 内直接编写、编辑和预览代码。",
+      "可在聊天中直接预览图表和迷你应用。",
+      "提供分屏视图用于查看代码。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

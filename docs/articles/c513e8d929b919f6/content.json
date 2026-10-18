@@ -1,0 +1,24 @@
+{
+  "id": "c513e8d929b919f6",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+  "summary": "Anthropic宣布推出Claude Frontier Academy，并承诺投入1亿美元，目标是在2027年底前培训1万名“前沿部署工程师”（FDE）。",
+  "url": "https://www.anthropic.com/news/claude-frontier-academy",
+  "date": "2026-10-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-10-02T23:01:00+00:00",
+  "titleEn": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+  "titleZh": "Anthropic投入1亿美元培训1万名工程师，应对企业AI人才缺口",
+  "details": {
+    "overview": "Anthropic宣布推出Claude Frontier Academy，并承诺投入1亿美元，目标是在2027年底前培训1万名“前沿部署工程师”（FDE）。首批学员来自埃森哲、贝恩、凯捷、澳大利亚联邦银行、德勤、麦肯锡、摩根士丹利、诺和诺德等机构。项目采用类似医学住院医师的培养模式：先参加多日线下培训并完成模拟企业部署，通过考核后进入12周驻留期，在本组织内主导真实Claude用例，再次考核合格方可获得FDE徽章。Anthropic称，此举针对企业落地AI时最难获取的实操型人才。",
+    "keyPoints": [
+      "Anthropic承诺投入1亿美元，计划到2027年底培训1万名前沿部署工程师。",
+      "首批学员来自埃森哲、贝恩、麦肯锡、摩根士丹利等多家企业与合作机构。",
+      "培养采用住院医师模式：线下模拟部署、12周真实项目驻留、两轮考核认证。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

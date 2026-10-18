@@ -1,0 +1,25 @@
+{
+  "id": "05b6175cedb970e8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "From asking to doing: How the world is putting ChatGPT to work",
+  "summary": "OpenAI发布新的Signals数据，展示全球用户使用ChatGPT的情况，并提供国家层面的采用率、使用趋势与行为演变洞察。",
+  "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+  "date": "2026-08-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-06T00:00:00+00:00",
+  "titleEn": "From asking to doing: How the world is putting ChatGPT to work",
+  "titleZh": "从提问到行动：世界如何用ChatGPT开展工作",
+  "details": {
+    "overview": "OpenAI发布新的Signals数据，展示全球用户使用ChatGPT的情况，并提供国家层面的采用率、使用趋势与行为演变洞察。原始摘要仅说明数据覆盖全球使用与国别洞察，未给出具体统计数字、国家名单或研究方法细节，相关结论需以官方完整发布为准。",
+    "keyPoints": [
+      "OpenAI Signals新数据展示ChatGPT全球使用情况。",
+      "数据包含国家层面的采用率与使用趋势洞察。",
+      "摘要未披露具体统计数字与研究方法细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

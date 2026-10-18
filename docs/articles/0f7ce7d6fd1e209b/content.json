@@ -1,0 +1,25 @@
+{
+  "id": "0f7ce7d6fd1e209b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+  "summary": "OpenAI 与 GSA 宣布，将为符合条件的联邦、州、地方和部落政府提供 0 美元许可证费用、50% 的使用费折扣以及扩展的网络防御支持。",
+  "url": "https://openai.com/index/expanding-ai-access-us-government",
+  "date": "2026-09-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-10T07:00:00+00:00",
+  "titleEn": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+  "titleZh": "扩大联邦、州、地方和部落政府的 AI 访问与网络防御支持",
+  "details": {
+    "overview": "OpenAI 与 GSA 宣布，将为符合条件的联邦、州、地方和部落政府提供 0 美元许可证费用、50% 的使用费折扣以及扩展的网络防御支持。原文未说明资格条件、适用期限或具体支持内容，相关限制需以官方原始发布记录为准。",
+    "keyPoints": [
+      "符合条件的政府机构可享受 0 美元许可证费用。",
+      "使用费享受 50% 折扣。",
+      "提供扩展的网络防御支持。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

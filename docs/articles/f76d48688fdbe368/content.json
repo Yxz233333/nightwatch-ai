@@ -1,0 +1,25 @@
+{
+  "id": "f76d48688fdbe368",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Polimill builds Japan's next-generation public AI infrastructure",
+  "summary": "官方发布信息显示，Polimill使用OpenAI的GPT模型和Codex，帮助日本地方政府检索和利用行政知识，同时加快开发进程。",
+  "url": "https://openai.com/index/polimill",
+  "date": "2026-08-31",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-31T07:00:00+00:00",
+  "titleEn": "Polimill builds Japan's next-generation public AI infrastructure",
+  "titleZh": "Polimill构建日本下一代公共AI基础设施",
+  "details": {
+    "overview": "官方发布信息显示，Polimill使用OpenAI的GPT模型和Codex，帮助日本地方政府检索和利用行政知识，同时加快开发进程。原文仅概述其应用方向，未说明覆盖哪些地区、具体系统形态或实际运行效果。该案例的意义在于展示通用模型在日本公共行政知识场景中的落地尝试，但相关成效仍需更多材料佐证。",
+    "keyPoints": [
+      "Polimill使用OpenAI GPT模型与Codex。",
+      "目标为帮助地方政府检索和利用行政知识。",
+      "同时用于加速自身开发进程。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "d2d4781c36726091",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How to Use Transformers.js in a Chrome Extension",
+  "summary": "现有材料仅有标题，未提供正文内容，无法确认文章的具体对象、方法或结论。",
+  "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
+  "date": "2026-04-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-04-23T00:00:00+00:00",
+  "titleEn": "How to Use Transformers.js in a Chrome Extension",
+  "titleZh": "如何在 Chrome 扩展中使用 Transformers.js",
+  "details": {
+    "overview": "现有材料仅有标题，未提供正文内容，无法确认文章的具体对象、方法或结论。从标题看，主题应涉及在 Chrome 浏览器扩展中集成 Transformers.js，但作者是否给出示例、性能说明或限制条件均不明确。建议以原文发布内容为准，此处不作推断。",
+    "keyPoints": [
+      "标题指向在 Chrome 扩展中集成 Transformers.js 的用法。",
+      "原始发布内容为空，无法提炼具体步骤或结论。",
+      "相关细节需以原文为准，不宜据此推断。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "03971cc4564adc28",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
+  "summary": "该官方发布指出，大规模最大单线程CPU是专为代理式AI时代设计的新CPU类别。",
+  "url": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
+  "date": "2026-07-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-07-07T15:00:52+00:00",
+  "titleEn": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
+  "titleZh": "AI创新者采用NVIDIA Vera——为何大规模最大单线程CPU至关重要",
+  "details": {
+    "overview": "该官方发布指出，大规模最大单线程CPU是专为代理式AI时代设计的新CPU类别。在代理系统的创建和部署中，CPU处于推理、响应时间和学习的关键路径上，负责执行AI模型命令的工作，如工具调用和代码执行。摘要强调CPU在代理式AI中的核心作用，但未提供具体性能数据或采用案例细节。",
+    "keyPoints": [
+      "大规模最大单线程CPU被定位为代理式AI时代的新CPU类别。",
+      "CPU在代理系统的推理、响应时间和学习中处于关键路径。",
+      "CPU负责执行AI模型命令的工具调用、代码等工作。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

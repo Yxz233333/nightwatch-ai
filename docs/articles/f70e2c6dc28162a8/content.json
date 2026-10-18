@@ -1,0 +1,24 @@
+{
+  "id": "f70e2c6dc28162a8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
+  "summary": "该文介绍欧洲首台百亿亿次超级计算机JUPITER，位于德国于利希研究中心，采用NVIDIA Grace Hopper超级芯片和Quantum-X800 InfiniBand网络。",
+  "url": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/",
+  "date": "2026-06-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-22T13:00:48+00:00",
+  "titleEn": "At ISC, JUPITER Shows What Exascale Science Looks Like",
+  "titleZh": "在ISC上，JUPITER展示百亿亿次科学计算的模样",
+  "details": {
+    "overview": "该文介绍欧洲首台百亿亿次超级计算机JUPITER，位于德国于利希研究中心，采用NVIDIA Grace Hopper超级芯片和Quantum-X800 InfiniBand网络。在汉堡ISC期间，四个运行在JUPITER上的项目展示了百亿亿次计算的实际能力，例如绘制人类大脑等。当前收录材料未提供项目具体结果或验证细节。",
+    "keyPoints": [
+      "JUPITER是欧洲首台百亿亿次超算",
+      "采用Grace Hopper与Quantum-X800",
+      "四个项目展示实际计算能力"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "84daa072afc8ad4c",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Advanced Account Security in ChatGPT",
+  "summary": "该公告称正在为个人 ChatGPT 账户推出可选的高级账户安全设置，启用后要求使用通行密钥或兼容安全密钥等更强登录方式，并关闭密码登录、邮件/短信验证码和基于邮件的账户恢复。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#advanced-account-security-in-chatgpt",
+  "date": "2026-04-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Advanced Account Security in ChatGPT",
+  "titleZh": "ChatGPT 中的高级账户安全",
+  "details": {
+    "overview": "该公告称正在为个人 ChatGPT 账户推出可选的高级账户安全设置，启用后要求使用通行密钥或兼容安全密钥等更强登录方式，并关闭密码登录、邮件/短信验证码和基于邮件的账户恢复。该设置还提供恢复密钥、更短的活跃会话、登录通知和会话管理控制。由于保护更严格，恢复流程也更严格；若丢失全部登录方式和恢复密钥，可能失去账户访问权。",
+    "keyPoints": [
+      "启用后仅支持通行密钥或安全密钥等强登录方式。",
+      "关闭密码、邮件/短信验证码登录及邮件账户恢复。",
+      "新增恢复密钥、更短会话、登录通知与会话管理。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bc5f1fcae14ec1d9",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Adding Notion & Linear synced connectors",
+  "summary": "OpenAI 为 Pro 用户新增 Notion 和 Linear 同步连接器，可将 Notion 页面及 Linear 问题/讨论安全引入 Chat，用于快速获取答案和摘要。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#adding-notion-linear-synced-connectors",
+  "date": "2025-10-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Adding Notion & Linear synced connectors",
+  "titleZh": "新增 Notion 与 Linear 同步连接器",
+  "details": {
+    "overview": "OpenAI 为 Pro 用户新增 Notion 和 Linear 同步连接器，可将 Notion 页面及 Linear 问题/讨论安全引入 Chat，用于快速获取答案和摘要。用户需先在连接器设置中连接并启用同步，之后 ChatGPT 会在相关时自动引用已索引内容。原文未说明更广泛的可用范围或具体限制。",
+    "keyPoints": [
+      "Notion 和 Linear 同步连接器面向 Pro 用户推出。",
+      "用户需在连接器设置中连接并启用同步。",
+      "同步后 ChatGPT 会在相关时自动引用已索引内容。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

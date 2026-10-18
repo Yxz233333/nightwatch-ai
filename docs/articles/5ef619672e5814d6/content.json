@@ -1,0 +1,24 @@
+{
+  "id": "5ef619672e5814d6",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing Claude Opus 4.5",
+  "summary": "Anthropic发布新旗舰模型Claude Opus 4.5，作者声称其在编码、代理和计算机使用方面达到世界最佳，并在深度研究、幻灯片和电子表格等日常任务上明显提升。",
+  "url": "https://www.anthropic.com/news/claude-opus-4-5",
+  "date": "2025-11-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-11-24T19:00:00+00:00",
+  "titleEn": "Introducing Claude Opus 4.5",
+  "titleZh": "推出 Claude Opus 4.5",
+  "details": {
+    "overview": "Anthropic发布新旗舰模型Claude Opus 4.5，作者声称其在编码、代理和计算机使用方面达到世界最佳，并在深度研究、幻灯片和电子表格等日常任务上明显提升。模型即日起在应用、API及三大云平台可用，定价为每百万token 5/25美元。作者还称其在真实软件工程测试中表现领先，并同步更新开发者平台、Claude Code和消费级应用。",
+    "keyPoints": [
+      "作者声称Opus 4.5在编码、代理和计算机使用上达到世界最佳水平。",
+      "定价为每百万token 5/25美元，即日起在应用、API和三大云平台可用。",
+      "同步更新Claude开发者平台、Claude Code及消费级应用。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

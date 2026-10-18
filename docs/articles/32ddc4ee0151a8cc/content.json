@@ -1,0 +1,24 @@
+{
+  "id": "32ddc4ee0151a8cc",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA CEO Jensen Huang at Dell Technologies World: ‘Demand Is Going Parabolic, Utterly Parabolic’",
+  "summary": "该新闻称英伟达CEO黄仁勋在戴尔科技世界大会上表示需求呈抛物线式增长。",
+  "url": "https://blogs.nvidia.com/blog/dell-technologies-agent-enterprise-ai/",
+  "date": "2026-05-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-05-18T22:28:59+00:00",
+  "titleEn": "NVIDIA CEO Jensen Huang at Dell Technologies World: ‘Demand Is Going Parabolic, Utterly Parabolic’",
+  "titleZh": "英伟达CEO黄仁勋在戴尔科技世界大会称：“需求呈抛物线式增长，完全是抛物线式”",
+  "details": {
+    "overview": "该新闻称英伟达CEO黄仁勋在戴尔科技世界大会上表示需求呈抛物线式增长。原文提到，借助NVIDIA Vera Rubin NVL72，代理式AI推理的每token成本可降至十分之一；代理沙箱在NVIDIA Vera上运行比传统CPU快50%；企业数据查询使用Vera CPU最高快3倍。此外，包括礼来、三星和霍尼韦尔在内的5000家企业正在戴尔AI工厂上运行AI工作负载。上述数据来自官方发布记录，具体测试条件和范围以原文为准。",
+    "keyPoints": [
+      "黄仁勋称需求呈抛物线式增长。",
+      "Vera Rubin NVL72使代理式AI推理每token成本降至十分之一。",
+      "5000家企业如礼来、三星、霍尼韦尔在戴尔AI工厂运行AI负载。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

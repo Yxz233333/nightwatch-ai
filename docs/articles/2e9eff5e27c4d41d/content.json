@@ -1,0 +1,25 @@
+{
+  "id": "2e9eff5e27c4d41d",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing GPT-5.2-Codex",
+  "summary": "该模型动态称，GPT-5.2-Codex 是 OpenAI 最先进的编程模型，具备长程推理、大规模代码转换和增强的网络安全能力。",
+  "url": "https://openai.com/index/introducing-gpt-5-2-codex",
+  "date": "2025-12-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-18T00:00:00+00:00",
+  "titleEn": "Introducing GPT-5.2-Codex",
+  "titleZh": "推出 GPT-5.2-Codex",
+  "details": {
+    "overview": "该模型动态称，GPT-5.2-Codex 是 OpenAI 最先进的编程模型，具备长程推理、大规模代码转换和增强的网络安全能力。当前收录材料仅给出上述定位与能力概述，未披露基准测试结果、可用范围、价格或上线时间，相关细节需以官方原文为准。",
+    "keyPoints": [
+      "定位为 OpenAI 最先进的编程模型",
+      "强调长程推理与大规模代码转换",
+      "称具备增强的网络安全能力"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

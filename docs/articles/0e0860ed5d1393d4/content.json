@@ -1,0 +1,25 @@
+{
+  "id": "0e0860ed5d1393d4",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "STADLER reshapes knowledge work at a 230-year-old company",
+  "summary": "该新闻称，拥有230年历史的STADLER公司使用ChatGPT改造知识工作，在650名员工中节省时间并提升生产力。",
+  "url": "https://openai.com/index/stadler",
+  "date": "2026-03-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-27T22:00:00+00:00",
+  "titleEn": "STADLER reshapes knowledge work at a 230-year-old company",
+  "titleZh": "STADLER如何用ChatGPT重塑一家230年历史企业的知识工作",
+  "details": {
+    "overview": "该新闻称，拥有230年历史的STADLER公司使用ChatGPT改造知识工作，在650名员工中节省时间并提升生产力。但提供的原文仅有一句概述，未说明具体应用场景、部署方式、衡量指标或实际效果数据。因此无法独立判断其生产力提升幅度。读者应以官方原始发布记录为准。",
+    "keyPoints": [
+      "STADLER是一家有230年历史的公司，涉及650名员工。",
+      "新闻称其使用ChatGPT改造知识工作并提升生产力。",
+      "材料未提供具体场景、部署细节或量化效果。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

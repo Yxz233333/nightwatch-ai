@@ -1,0 +1,23 @@
+{
+  "id": "d64e0337a3496c93",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic Education Report: The AI Fluency Index",
+  "summary": "Anthropic 发布教育报告，提出“AI 流畅度指数”。",
+  "url": "https://academy.claude.com/tutorials/the-ai-fluency-index",
+  "date": "2026-02-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方迁移归档",
+  "titleEn": "Anthropic Education Report: The AI Fluency Index",
+  "titleZh": "Anthropic 教育报告：AI 流畅度指数",
+  "details": {
+    "overview": "Anthropic 发布教育报告，提出“AI 流畅度指数”。摘要显示，研究基于 2026 年 1 月一周内的 9,830 段多轮 Claude 对话，观察 11 项 AI 协作行为，并分析这些行为之间的相关性。作者强调，结果只体现迭代与评估行为之间的相关关系，不代表因果关系，也不能直接外推到所有 AI 用户。该报告的意义在于用真实对话数据刻画人机协作行为，为 AI 素养与教育讨论提供观察框架；具体推出范围和限制需以原文为准。",
+    "keyPoints": [
+      "研究样本为 2026 年 1 月一周内 9,830 段多轮 Claude 对话。",
+      "观察并归纳 11 项 AI 协作行为，聚焦迭代与评估等行为。",
+      "作者声明结果为相关性，不构成因果，也不能外推所有用户。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

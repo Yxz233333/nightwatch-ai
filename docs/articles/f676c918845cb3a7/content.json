@@ -1,0 +1,25 @@
+{
+  "id": "f676c918845cb3a7",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "The next chapter for UK sovereign AI",
+  "summary": "OpenAI 宣布扩大与英国的合作，与英国司法部达成新协议，将 ChatGPT 引入公务员系统。",
+  "url": "https://openai.com/index/the-next-chapter-for-uk-sovereign-ai",
+  "date": "2025-10-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-22T16:00:00+00:00",
+  "titleEn": "The next chapter for UK sovereign AI",
+  "titleZh": "英国主权人工智能新篇章：OpenAI 扩大与英国合作",
+  "details": {
+    "overview": "OpenAI 宣布扩大与英国的合作，与英国司法部达成新协议，将 ChatGPT 引入公务员系统。同时，OpenAI 为 ChatGPT Enterprise、ChatGPT Edu 和 API 平台推出英国数据驻留功能，以支持可信、安全的人工智能应用。官方表示，这些举措旨在帮助英国公共部门在保障数据安全的前提下采用人工智能工具。",
+    "keyPoints": [
+      "OpenAI 与英国司法部达成协议，将 ChatGPT 提供给英国公务员使用。",
+      "ChatGPT Enterprise、ChatGPT Edu 和 API 平台新增英国数据驻留功能。",
+      "合作旨在支持英国公共部门在安全可信的前提下采用人工智能。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

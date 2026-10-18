@@ -1,0 +1,24 @@
+{
+  "id": "dfcf5f604fbb3fa4",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic and Iceland announce one of the world’s first national AI education pilots",
+  "summary": "Anthropic与冰岛教育与儿童部宣布合作，将Claude提供给全国教师，启动全球首批综合性国家级AI教育试点之一。",
+  "url": "https://www.anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots",
+  "date": "2025-11-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-11-04T15:00:00+00:00",
+  "titleEn": "Anthropic and Iceland announce one of the world’s first national AI education pilots",
+  "titleZh": "Anthropic与冰岛宣布全球首批国家级AI教育试点之一",
+  "details": {
+    "overview": "Anthropic与冰岛教育与儿童部宣布合作，将Claude提供给全国教师，启动全球首批综合性国家级AI教育试点之一。冰岛各地区数百名教师将获得Claude及配套教育资源、培训材料和支持网络，用于备课、个性化教案与适配不同学习者。Anthropic公共部门负责人Thiyagu Ramasamy称此举可减轻教师行政负担；冰岛教育与儿童部长Guðmundur Ingi Kristinsson表示将以教师需求为原则探索AI在教育各领域的应用。",
+    "keyPoints": [
+      "冰岛全国各地区数百名教师将获得Claude及培训与支持资源",
+      "试点用于备课、个性化教案和适配不同学习者",
+      "官方称Claude可识别冰岛语及多种语言，助力保护冰岛语"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "4d2f1f482a8643db",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing Claude Sonnet 4.6",
+  "summary": "官方发布称，Claude Sonnet 4.6 是迄今最强的 Sonnet 模型，在编码、计算机使用、长上下文推理、智能体规划、知识工作和设计等方面全面升级，并推出100万token上下文窗口测试版。",
+  "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
+  "date": "2026-02-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-02-17T18:00:00+00:00",
+  "titleEn": "Introducing Claude Sonnet 4.6",
+  "titleZh": "Claude Sonnet 4.6 发布",
+  "details": {
+    "overview": "官方发布称，Claude Sonnet 4.6 是迄今最强的 Sonnet 模型，在编码、计算机使用、长上下文推理、智能体规划、知识工作和设计等方面全面升级，并推出100万token上下文窗口测试版。它成为免费与Pro方案在 claude.ai 和 Claude Cowork 的默认模型，价格与 Sonnet 4.5 相同，为每百万token 3/15美元。发布称早期开发者明显更偏好该模型，在 Claude Code 测试中约70%情况下优于 Sonnet 4.5，59%情况下优于 Opus 4.5。",
+    "keyPoints": [
+      "在编码、计算机使用、长上下文推理与智能体规划等方面全面升级",
+      "提供100万token上下文窗口测试版，价格与Sonnet 4.5相同",
+      "发布称Claude Code早期测试中约70%情况优于Sonnet 4.5"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

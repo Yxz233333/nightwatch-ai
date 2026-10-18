@@ -1,0 +1,23 @@
+{
+  "id": "8a3c3b45fa643ff2",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Retiring GPT-4.5",
+  "summary": "官方发布记录显示，自2026年6月26日起，GPT-4.5 在 ChatGPT 中不再可用，自定义 GPT 也包含在内。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-45",
+  "date": "2026-06-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Retiring GPT-4.5",
+  "titleZh": "GPT-4.5 退役",
+  "details": {
+    "overview": "官方发布记录显示，自2026年6月26日起，GPT-4.5 在 ChatGPT 中不再可用，自定义 GPT 也包含在内。此前使用 GPT-4.5 的对话可继续改用 GPT-5.5。该退役安排已于2026年5月28日预告，仅适用于 ChatGPT，API 没有变化。",
+    "keyPoints": [
+      "2026年6月26日起 ChatGPT 及自定义 GPT 不再提供 GPT-4.5。",
+      "原有 GPT-4.5 对话可继续使用 GPT-5.5。",
+      "此次退役仅限 ChatGPT，API 保持不变。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

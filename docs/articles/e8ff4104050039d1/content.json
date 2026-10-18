@@ -1,0 +1,25 @@
+{
+  "id": "e8ff4104050039d1",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.144.5 发布",
+  "summary": "Codex CLI 发布 0.144.5 版本，属于缺陷修复更新。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.144.5",
+  "date": "2026-07-16",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-07-16T02:54:48+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.144.5 发布",
+  "titleZh": "Codex CLI 0.144.5 发布",
+  "details": {
+    "overview": "Codex CLI 发布 0.144.5 版本，属于缺陷修复更新。该版本改进了危险命令检测，覆盖更多强制形式的 rm 命令，并在命令被拒绝时给出更清晰的拒绝原因。更新记录仅列出这一项修复及其提交编号，未涉及其他功能变化。",
+    "keyPoints": [
+      "改进危险命令检测，覆盖更多强制 rm 形式。",
+      "命令被拒绝时提供更清晰的拒绝原因。",
+      "该版本为 CLI 稳定版，桌面端功能另见公告。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

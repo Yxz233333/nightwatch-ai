@@ -1,0 +1,24 @@
+{
+  "id": "93596282fff2b634",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA, Ineffable Intelligence Team Up to Build the Future of Reinforcement Learning Infrastructure",
+  "summary": "报道称，NVIDIA与总部位于伦敦的AI实验室Ineffable Intelligence建立工程层面合作，聚焦强化学习智能体——即通过试错学习的AI系统，将算力转化为新知识。",
+  "url": "https://blogs.nvidia.com/blog/ineffable-intelligence-reinforcement-learning-infrastructure/",
+  "date": "2026-05-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-05-13T13:00:57+00:00",
+  "titleEn": "NVIDIA, Ineffable Intelligence Team Up to Build the Future of Reinforcement Learning Infrastructure",
+  "titleZh": "NVIDIA与Ineffable Intelligence合作构建强化学习基础设施未来",
+  "details": {
+    "overview": "报道称，NVIDIA与总部位于伦敦的AI实验室Ineffable Intelligence建立工程层面合作，聚焦强化学习智能体——即通过试错学习的AI系统，将算力转化为新知识。Ineffable Intelligence由AlphaGo架构师David Silver创立，该实验室上周刚结束隐身状态。原文摘要仅给出合作方向与背景，未披露具体工程内容、时间表或成果。",
+    "keyPoints": [
+      "合作聚焦通过试错学习的强化学习智能体",
+      "Ineffable Intelligence由AlphaGo架构师David Silver创立",
+      "当前收录材料未提供具体工程内容与成果"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

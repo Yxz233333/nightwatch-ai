@@ -1,0 +1,25 @@
+{
+  "id": "c38f169adf661b81",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Building Deep Research: How we Achieved State of the Art",
+  "summary": "该条目仅有标题“构建 Deep Research：我们如何达到先进水平”，摘要与原文内容均未提供。",
+  "url": "https://huggingface.co/blog/Tavily/tavily-deep-research",
+  "date": "2025-11-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-11-24T17:40:14+00:00",
+  "titleEn": "Building Deep Research: How we Achieved State of the Art",
+  "titleZh": "构建 Deep Research：我们如何达到先进水平",
+  "details": {
+    "overview": "该条目仅有标题“构建 Deep Research：我们如何达到先进水平”，摘要与原文内容均未提供。仅可判断其主题与 Deep Research 功能的构建过程及性能表现相关。由于缺少正文，无法说明具体方法、评测指标或“先进水平”所指范围，材料不足，需以官方原始发布内容为准。",
+    "keyPoints": [
+      "标题指向 Deep Research 的构建方法与性能表现。",
+      "材料未提供正文，无法确认方法与评测细节。",
+      "“先进水平”的具体所指不明，需以原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "c0967c16b0ff8618",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Shopping research in ChatGPT",
+  "summary": "OpenAI推出ChatGPT购物研究功能，用户描述需求后，ChatGPT会提出澄清问题、深入检索互联网、审阅优质来源，并结合过往对话与记忆生成个性化购买指南，包含选项、权衡和购买链接。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#shopping-research-in-chatgpt",
+  "date": "2025-11-24",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Shopping research in ChatGPT",
+  "titleZh": "ChatGPT中的购物研究",
+  "details": {
+    "overview": "OpenAI推出ChatGPT购物研究功能，用户描述需求后，ChatGPT会提出澄清问题、深入检索互联网、审阅优质来源，并结合过往对话与记忆生成个性化购买指南，包含选项、权衡和购买链接。用户可通过交互界面实时反馈引导研究。该功能在ChatGPT网页、iOS和Android面向已登录的Free、Go、Plus和Pro用户提供，假日购物季期间各计划使用量近乎不限。",
+    "keyPoints": [
+      "用户描述需求后，ChatGPT会提问、检索并生成个性化购买指南。",
+      "指南包含选项、权衡和购买链接，并支持实时反馈引导。",
+      "功能面向已登录的Free、Go、Plus和Pro用户，假日季使用量近乎不限。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

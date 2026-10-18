@@ -1,0 +1,24 @@
+{
+  "id": "8e34a81ce656ca93",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "GTC Spotlights NVIDIA RTX PCs and DGX Sparks Running Latest Open Models and AI Agents Locally",
+  "summary": "报道指出，消费计算范式正从个人设备转向“代理计算机”新类别，生成式 AI（特别是 OpenClaw）推动了这一转变。",
+  "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-gtc-2026-nemoclaw/",
+  "date": "2026-03-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-03-17T13:00:46+00:00",
+  "titleEn": "GTC Spotlights NVIDIA RTX PCs and DGX Sparks Running Latest Open Models and AI Agents Locally",
+  "titleZh": "GTC 聚焦 NVIDIA RTX PC 与 DGX Spark 本地运行最新开源模型和 AI 代理",
+  "details": {
+    "overview": "报道指出，消费计算范式正从个人设备转向“代理计算机”新类别，生成式 AI（特别是 OpenClaw）推动了这一转变。NVIDIA DGX Spark 桌面 AI 超级计算机和专用 NVIDIA RTX PC 被描述为运行个人 AI 代理的理想设备。摘要未提供具体性能数据或独立评测结果。",
+    "keyPoints": [
+      "生成式 AI 特别是 OpenClaw 催生“代理计算机”新类别。",
+      "DGX Spark 和 RTX PC 被定位为本地运行个人 AI 代理的设备。",
+      "报道来自 GTC，强调本地运行最新开源模型和代理。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

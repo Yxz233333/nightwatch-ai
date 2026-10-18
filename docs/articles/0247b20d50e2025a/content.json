@@ -1,0 +1,25 @@
+{
+  "id": "0247b20d50e2025a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Fyxer built an AI executive assistant people trust",
+  "summary": "该文介绍Fyxer如何构建一款受用户信任的AI行政助理。",
+  "url": "https://openai.com/index/fyxer",
+  "date": "2026-09-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-14T12:00:00+00:00",
+  "titleEn": "How Fyxer built an AI executive assistant people trust",
+  "titleZh": "Fyxer如何打造一款人们信任的AI行政助理",
+  "details": {
+    "overview": "该文介绍Fyxer如何构建一款受用户信任的AI行政助理。据摘要，Fyxer使用OpenAI模型，并结合微调、记忆机制与真实用户反馈，来整理收件箱，并以每位用户自己的语气起草邮件。当前收录材料未提供具体模型版本、性能数据或用户规模，相关效果以官方发布记录为准。",
+    "keyPoints": [
+      "Fyxer使用OpenAI模型，并结合微调与记忆机制。",
+      "借助真实用户反馈整理收件箱、按用户语气起草邮件。",
+      "目标是让AI行政助理获得用户信任。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

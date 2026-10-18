@@ -1,0 +1,23 @@
+{
+  "id": "df461b676e19e50c",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Create flashcards in ChatGPT",
+  "summary": "OpenAI宣布ChatGPT新增创建互动抽认卡功能。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-flashcards-in-chatgpt",
+  "date": "2026-09-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Create flashcards in ChatGPT",
+  "titleZh": "在ChatGPT中创建抽认卡",
+  "details": {
+    "overview": "OpenAI宣布ChatGPT新增创建互动抽认卡功能。用户可请求就某学习主题生成抽认卡，或上传笔记让ChatGPT转换。点击卡片可翻转，选择✔️表示已掌握，选择❌则稍后再练；还可打乱顺序练习。抽认卡自动保存在资料库中，可再次打开或让ChatGPT调出复习。该功能在移动端和网页端向所有ChatGPT套餐开放。",
+    "keyPoints": [
+      "可请求生成主题抽认卡，或上传笔记转换为抽认卡",
+      "点击翻转卡片，用✔️或❌标记掌握情况并打乱顺序练习",
+      "抽认卡自动保存至资料库，移动端和网页端全套餐可用"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

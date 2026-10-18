@@ -1,0 +1,25 @@
+{
+  "id": "4e442a604e14ad49",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Driving sales productivity and customer success at OpenAI",
+  "summary": "该官方发布介绍 OpenAI 构建的内部 AI 销售助手，用于自动化账户调研、会议准备、产品知识查询和客户跟进等环节。",
+  "url": "https://openai.com/index/openai-gtm-assistant",
+  "date": "2025-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-29T13:30:00+00:00",
+  "titleEn": "Driving sales productivity and customer success at OpenAI",
+  "titleZh": "OpenAI 提升销售效率与客户成功",
+  "details": {
+    "overview": "该官方发布介绍 OpenAI 构建的内部 AI 销售助手，用于自动化账户调研、会议准备、产品知识查询和客户跟进等环节。当前收录材料仅给出这一概括性描述，未说明所用模型、覆盖团队或量化收益，具体范围与限制需以原始发布为准。",
+    "keyPoints": [
+      "内部 AI 销售助手覆盖账户调研与会议准备",
+      "还用于产品知识和客户跟进自动化",
+      "当前收录材料未提供模型细节与量化效果"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

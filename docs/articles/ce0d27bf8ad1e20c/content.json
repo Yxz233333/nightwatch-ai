@@ -1,0 +1,24 @@
+{
+  "id": "ce0d27bf8ad1e20c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Efficiency at Scale: NVIDIA, Energy Leaders Accelerating Power‑Flexible AI Factories to Fortify the Grid",
+  "summary": "该文从 CERAWeek 能源会议出发，介绍 NVIDIA 与 Emerald AI 提出的一种思路：不把 AI 工厂视为静态电力负载，而将其当作灵活、智能的电网资产。",
+  "url": "https://blogs.nvidia.com/blog/energy-efficiency-ai-factories-grid/",
+  "date": "2026-03-31",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-03-31T15:00:51+00:00",
+  "titleEn": "Efficiency at Scale: NVIDIA, Energy Leaders Accelerating Power‑Flexible AI Factories to Fortify the Grid",
+  "titleZh": "规模化效率：NVIDIA 与能源企业推动功率灵活型 AI 工厂以稳固电网",
+  "details": {
+    "overview": "该文从 CERAWeek 能源会议出发，介绍 NVIDIA 与 Emerald AI 提出的一种思路：不把 AI 工厂视为静态电力负载，而将其当作灵活、智能的电网资产。原文摘要仅给出这一合作方向与会议背景，未披露参与能源企业名单、具体技术方案、试点规模或量化效果，也未说明落地时间与适用范围。因此本条可确认的是其理念与发布场合，实际成效需以官方原始发布记录为准。",
+    "keyPoints": [
+      "NVIDIA 与 Emerald AI 在 CERAWeek 提出 AI 工厂作为灵活电网资产",
+      "思路是把 AI 工厂从静态负载转为可调节的智能电网资产",
+      "当前收录材料未提供合作企业名单、试点规模与量化效果"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

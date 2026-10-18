@@ -1,0 +1,25 @@
+{
+  "id": "b92215c94feec7cd",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "ServiceNow powers actionable enterprise AI with OpenAI",
+  "summary": "ServiceNow 宣布扩大对 OpenAI 前沿模型的访问权限，以在 ServiceNow 平台上驱动 AI 工作流、摘要、搜索和语音功能。",
+  "url": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
+  "date": "2026-01-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-20T05:45:00+00:00",
+  "titleEn": "ServiceNow powers actionable enterprise AI with OpenAI",
+  "titleZh": "ServiceNow 携手 OpenAI 赋能可执行的企业级 AI",
+  "details": {
+    "overview": "ServiceNow 宣布扩大对 OpenAI 前沿模型的访问权限，以在 ServiceNow 平台上驱动 AI 工作流、摘要、搜索和语音功能。该合作旨在将 OpenAI 的模型能力嵌入企业业务流程，提升自动化与智能化水平。当前收录材料未提供具体模型版本、功能上线时间或客户可用范围，相关细节需以官方发布为准。",
+    "keyPoints": [
+      "ServiceNow 扩大对 OpenAI 前沿模型的访问，用于企业工作流等场景。",
+      "合作覆盖摘要、搜索和语音等平台功能。",
+      "具体推出范围和限制未在原文中说明。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

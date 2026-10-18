@@ -1,0 +1,25 @@
+{
+  "id": "8207eb295c262a21",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.156.1 发布",
+  "summary": "Codex CLI 0.156.1 为 0.156.0 的热修复版本。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.156.1",
+  "date": "2026-09-23",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-09-23T02:41:36+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.156.1 发布",
+  "titleZh": "Codex CLI 0.156.1 发布",
+  "details": {
+    "overview": "Codex CLI 0.156.1 为 0.156.0 的热修复版本。发布说明称，用户可在模型选择器中选择 GPT-6 Sol 或 GPT-6 Luna，触发速率限制时的切换提示现在推荐 GPT-6 Luna。该版本主要将上述两个模型加入模型目录，未提及其他功能变更。",
+    "keyPoints": [
+      "0.156.1 为 0.156.0 的热修复版本。",
+      "模型选择器新增 GPT-6 Sol 和 GPT-6 Luna。",
+      "速率限制切换提示改为推荐 GPT-6 Luna。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "6c2f3e63175fab76",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Analyzing data with ChatGPT",
+  "summary": "官方发布的学习类内容，介绍如何用ChatGPT进行数据分析。",
+  "url": "https://openai.com/academy/data-analysis",
+  "date": "2026-04-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-10T00:00:00+00:00",
+  "titleEn": "Analyzing data with ChatGPT",
+  "titleZh": "使用ChatGPT分析数据",
+  "details": {
+    "overview": "官方发布的学习类内容，介绍如何用ChatGPT进行数据分析。据摘要，内容包括探索数据集、生成洞察、创建可视化，以及把发现转化为可执行的决策。原文仅有一句摘要，未说明支持的数据格式、具体功能或适用范围，细节不足。",
+    "keyPoints": [
+      "介绍用ChatGPT探索数据集并生成洞察。",
+      "涉及创建可视化图表。",
+      "目标是把分析发现转化为可执行决策。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

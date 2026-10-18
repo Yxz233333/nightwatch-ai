@@ -1,0 +1,25 @@
+{
+  "id": "bee1d0a2e0dddce5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing the OpenAI Partner Network",
+  "summary": "OpenAI 宣布推出 Partner Network，并投入 1.5 亿美元，帮助全球合作伙伴加速企业 AI 的采用、部署与转型。",
+  "url": "https://openai.com/index/introducing-openai-partner-network",
+  "date": "2026-06-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-14T17:00:00+00:00",
+  "titleEn": "Introducing the OpenAI Partner Network",
+  "titleZh": "OpenAI 合作伙伴网络正式推出",
+  "details": {
+    "overview": "OpenAI 宣布推出 Partner Network，并投入 1.5 亿美元，帮助全球合作伙伴加速企业 AI 的采用、部署与转型。原文仅说明计划名称、投资金额与目标，未披露合作伙伴名单、资格条件、资金分配方式或具体项目案例。该内容属于企业生态与渠道建设方向的行业动态，具体推出范围和限制需以官方原文为准。",
+    "keyPoints": [
+      "OpenAI 推出 Partner Network 合作伙伴网络。",
+      "计划投入 1.5 亿美元支持全球合作伙伴。",
+      "目标是加速企业 AI 的采用、部署与转型。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

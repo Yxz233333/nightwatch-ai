@@ -1,0 +1,25 @@
+{
+  "id": "cb9e9f5d251bd3c0",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Uncovering repurposed medicines to fight liver fibrosis",
+  "summary": "该发布介绍，斯坦福一位遗传学家使用 Co-Scientist 协助寻找慢性肝病和肝纤维化的新疗法。",
+  "url": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/",
+  "date": "2026-05-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-05-16T07:40:27+00:00",
+  "titleEn": "Uncovering repurposed medicines to fight liver fibrosis",
+  "titleZh": "发掘老药新用以对抗肝纤维化",
+  "details": {
+    "overview": "该发布介绍，斯坦福一位遗传学家使用 Co-Scientist 协助寻找慢性肝病和肝纤维化的新疗法。原文只说明这一使用场景，未给出具体发现的药物、研究结果或验证情况，因此无法判断疗效；相关细节与限制应以官方原始发布记录为准。",
+    "keyPoints": [
+      "斯坦福遗传学家用 Co-Scientist 寻找慢性肝病新疗法。",
+      "关注方向为肝纤维化的药物再利用。",
+      "当前收录材料未提供具体候选药物与验证结果。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

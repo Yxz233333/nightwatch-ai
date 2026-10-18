@@ -1,0 +1,25 @@
+{
+  "id": "b928e80e0050400c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "PRC-linked influence operations are targeting AI debates in the US",
+  "summary": "该文介绍OpenAI的一份新报告，称存在与PRC关联的影响力行动，利用AI针对美国科技议题辩论，涉及数据中心相关叙事、关税以及关于ChatGPT的不实说法。",
+  "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+  "date": "2026-06-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-10T12:00:00+00:00",
+  "titleEn": "PRC-linked influence operations are targeting AI debates in the US",
+  "titleZh": "与PRC关联的影响力行动瞄准美国AI议题辩论",
+  "details": {
+    "overview": "该文介绍OpenAI的一份新报告，称存在与PRC关联的影响力行动，利用AI针对美国科技议题辩论，涉及数据中心相关叙事、关税以及关于ChatGPT的不实说法。提供的材料仅为摘要，未披露报告的方法、样本规模与具体案例细节，相关结论应视为OpenAI单方报告内容，具体以原文为准。",
+    "keyPoints": [
+      "OpenAI新报告称存在与PRC关联的影响力行动",
+      "行动利用AI针对美国科技议题辩论",
+      "涉及数据中心叙事、关税及关于ChatGPT的不实说法"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

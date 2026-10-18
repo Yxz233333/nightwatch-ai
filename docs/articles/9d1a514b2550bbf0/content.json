@@ -1,0 +1,25 @@
+{
+  "id": "9d1a514b2550bbf0",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "The Hugging Face incident and the road ahead",
+  "summary": "该消息称OpenAI分享了对Hugging Face安全事件的调查发现，以及为加强AI模型安全、监控与对齐所采取的步骤。",
+  "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+  "date": "2026-08-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-26T00:00:00+00:00",
+  "titleEn": "The Hugging Face incident and the road ahead",
+  "titleZh": "Hugging Face事件及其后续道路",
+  "details": {
+    "overview": "该消息称OpenAI分享了对Hugging Face安全事件的调查发现，以及为加强AI模型安全、监控与对齐所采取的步骤。当前收录材料仅给出这一概述，未披露事件细节、影响范围或具体措施内容，相关结论需以官方原文为准。",
+    "keyPoints": [
+      "OpenAI分享Hugging Face安全事件的调查发现。",
+      "OpenAI称正采取措施加强模型安全、监控与对齐。",
+      "当前收录材料未提供事件细节与具体措施，需以官方原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

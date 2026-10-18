@@ -1,0 +1,24 @@
+{
+  "id": "185155772bb291b4",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Project Fetch: Phase two",
+  "summary": "该新闻介绍 Anthropic 的 Project Fetch 第二阶段实验，测试 Claude 能否帮助员工完成复杂机器人任务。",
+  "url": "https://www.anthropic.com/research/project-fetch-phase-two",
+  "date": "2026-06-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-06-18T18:00:00+00:00",
+  "titleEn": "Project Fetch: Phase two",
+  "titleZh": "Project Fetch：第二阶段",
+  "details": {
+    "overview": "该新闻介绍 Anthropic 的 Project Fetch 第二阶段实验，测试 Claude 能否帮助员工完成复杂机器人任务。摘要表示，Claude Opus 4.7 在无人工协助下，在参与者不到一年前完成的所有任务上，比最快人类团队快约 20 倍。原文强调这并不意味着 LLM 已解决机器人问题，模型仍在精确移动沙滩球等任务上遇到困难，且未涉及底层机器人控制。实验显示模型先辅助人类、再人类辅助模型、最终模型独立完成的模式正在物理世界显现。",
+    "keyPoints": [
+      "Claude Opus 4.7 在无人工协助下，于所有任务上比最快人类团队快约 20 倍。",
+      "模型仍在精确移动沙滩球等任务上遇到困难，未涉及底层机器人控制。",
+      "实验显示模型先辅助人类、再人类辅助模型、最终独立完成的模式。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

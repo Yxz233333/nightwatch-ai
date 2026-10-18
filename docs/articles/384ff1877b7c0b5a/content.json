@@ -1,0 +1,23 @@
+{
+  "id": "384ff1877b7c0b5a",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT for iOS 1.2026.251",
+  "summary": "这是 ChatGPT iOS 客户端 1.2026.251 版本的更新说明，属于功能更新类发布记录。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2026-09-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "ChatGPT for iOS 1.2026.251",
+  "titleZh": "ChatGPT iOS 版 1.2026.251 更新",
+  "details": {
+    "overview": "这是 ChatGPT iOS 客户端 1.2026.251 版本的更新说明，属于功能更新类发布记录。原文列出两项新功能：可在文件选择器中直接创建文件夹，以及新增对写作块的支持，包含草稿备选与复制操作。此外还修复了排队提示词显示异常、worktree 任务卡片打开、新任务按钮恢复、语音通话在连接中断时的可靠性、iPad 上项目与环境及 Git 控件对齐、思考计时器重置等问题。原文未说明推出范围与限制，需以官方原文为准。",
+    "keyPoints": [
+      "文件选择器中可直接创建文件夹，新增写作块支持草稿备选与复制。",
+      "新任务会记住各项目的 worktree 模式与设置环境。",
+      "修复排队提示词显示、worktree 任务卡片及语音通话可靠性等问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

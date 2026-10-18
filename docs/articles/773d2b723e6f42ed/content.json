@@ -1,0 +1,25 @@
+{
+  "id": "773d2b723e6f42ed",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+  "summary": "该官方发布介绍 Amazon Bedrock 中面向智能体的有状态运行时环境，称其为由 OpenAI 模型驱动的多步骤 AI 工作流提供持久编排、记忆与安全执行能力。",
+  "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+  "date": "2026-02-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-27T05:30:00+00:00",
+  "titleEn": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+  "titleZh": "Amazon Bedrock 面向智能体的有状态运行时环境",
+  "details": {
+    "overview": "该官方发布介绍 Amazon Bedrock 中面向智能体的有状态运行时环境，称其为由 OpenAI 模型驱动的多步骤 AI 工作流提供持久编排、记忆与安全执行能力。原文未说明具体可用区域、计费方式或性能数据，相关能力描述均来自发布方。",
+    "keyPoints": [
+      "为多步骤 AI 工作流提供持久编排与记忆能力",
+      "强调安全执行环境",
+      "由 OpenAI 模型驱动，当前收录材料未提供计费与区域"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

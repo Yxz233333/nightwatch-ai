@@ -1,0 +1,24 @@
+{
+  "id": "1edc17ba71fd4dbe",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Powers Over 400 of the World’s 500 Fastest Supercomputers",
+  "summary": "根据本周在德国汉堡ISC高性能会议上发布的最新排名，NVIDIA技术为全球500台最快超级计算机中的400多台提供支持，占TOP500的81%。",
+  "url": "https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/",
+  "date": "2026-06-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-23T09:00:38+00:00",
+  "titleEn": "NVIDIA Powers Over 400 of the World’s 500 Fastest Supercomputers",
+  "titleZh": "NVIDIA为全球500强最快超级计算机中的400多台提供支持",
+  "details": {
+    "overview": "根据本周在德国汉堡ISC高性能会议上发布的最新排名，NVIDIA技术为全球500台最快超级计算机中的400多台提供支持，占TOP500的81%。原文仅提供此数据，未涉及具体技术细节或独立验证。",
+    "keyPoints": [
+      "NVIDIA技术覆盖TOP500中81%",
+      "支持超过400台最快超算",
+      "数据来自ISC最新排名"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

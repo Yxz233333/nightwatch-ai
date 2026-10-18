@@ -13,7 +13,7 @@
   "titleEn": "Cutoff throughout the high-temperature Sherrington–Kirkpatrick phase",
   "titleZh": "高温Sherrington–Kirkpatrick相中的截断",
   "details": {
-    "overview": "稿件研究零场Gaussian Sherrington–Kirkpatrick热浴动力学在高温相中的混合时间截断。作者声称，对每个固定逆温度0≤β<1，最坏情况总变差截断成立；每个自旋以速率一刷新时，截断位置为log n/(2λ(β))，其中λ(β)为正的确定性速率；均匀选择单点更新尝试时位置为n倍。收敛在无序上依概率成立。摘要未给出证明细节。",
+    "overview": "稿件研究零场Gaussian Sherrington–Kirkpatrick热浴动力学在高温相中的混合时间截断。作者声称，对每个固定逆温度0≤β<1，最坏情况总变差截断成立；每个自旋以速率一刷新时，截断位置为log n/(2λ(β))，其中λ(β)为正的确定性速率；均匀选择单点更新尝试时位置为n倍。收敛在无序上依概率成立。当前收录摘要未给出证明细节。",
     "keyPoints": [
       "对每个固定0≤β<1证明最坏情况总变差截断。",
       "速率一刷新时截断位置为log n/(2λ(β))。",

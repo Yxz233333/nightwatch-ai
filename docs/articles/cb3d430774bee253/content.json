@@ -1,0 +1,25 @@
+{
+  "id": "cb3d430774bee253",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Safety overview: GPT-6 Astra",
+  "summary": "该条目为官方安全概览，称 GPT-6 Astra 是 OpenAI 当时能力最强且已广泛部署的模型，也是首个在其 Preparedness Framework 下达到网络安全能力“Critical”级别的模型。",
+  "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+  "date": "2026-09-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-03T00:00:00+00:00",
+  "titleEn": "Safety overview: GPT-6 Astra",
+  "titleZh": "安全概览：GPT-6 Astra",
+  "details": {
+    "overview": "该条目为官方安全概览，称 GPT-6 Astra 是 OpenAI 当时能力最强且已广泛部署的模型，也是首个在其 Preparedness Framework 下达到网络安全能力“Critical”级别的模型。原始材料仅有一句概述，未给出具体评估方法、测试细节或分级标准说明，因此无法展开论证过程。其意义在于以官方框架分级的形式披露模型在网络安全维度的能力定位，具体内容需以原文为准。",
+    "keyPoints": [
+      "官方称 GPT-6 Astra 是其当时能力最强且已广泛部署的模型。",
+      "该模型是首个在 Preparedness Framework 下达到网络安全 Critical 级别的模型。",
+      "材料未披露具体评估方法与分级标准细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

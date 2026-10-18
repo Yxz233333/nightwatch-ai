@@ -1,0 +1,25 @@
+{
+  "id": "203fb9d2d9e87cdd",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.76.0 发布",
+  "summary": "这是 Codex CLI 0.76.0 版本更新说明。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.76.0",
+  "date": "2025-12-20",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-12-19T18:55:54+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.76.0 发布",
+  "titleZh": "Codex CLI 0.76.0 发布",
+  "details": {
+    "overview": "这是 Codex CLI 0.76.0 版本更新说明。新功能包括：新增 macOS DMG 构建目标；改进终端检测元数据以支持按终端调整滚动；技能弹窗与 TUI 搜索单元格渲染优化；新增 /ps 命令；UNIX 上支持 /etc/codex/requirements.toml；技能支持 shortDescription；新增模型列表界面；引入 ExternalSandbox 策略；技能默认开启并支持管理员范围技能；更新内置系统技能。修复包括受限沙箱令牌下管道可用、命令运行器目录读取 ACL、重复 shell_snapshot 特性回归及沙箱状态更新顺序。",
+    "keyPoints": [
+      "新增 macOS DMG 构建目标与 /ps 命令",
+      "UNIX 上支持 /etc/codex/requirements.toml，技能默认开启",
+      "引入 ExternalSandbox 策略并新增模型列表界面"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

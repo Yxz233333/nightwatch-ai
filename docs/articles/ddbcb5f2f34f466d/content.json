@@ -1,0 +1,25 @@
+{
+  "id": "ddbcb5f2f34f466d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Granite 4.1 LLMs: How They’re Built",
+  "summary": "该条目标题为“Granite 4.1 LLMs: How They’re Built”，指向对 Granite 4.1 系列大语言模型构建方法的介绍。",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+  "date": "2026-04-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-04-29T15:01:48+00:00",
+  "titleEn": "Granite 4.1 LLMs: How They’re Built",
+  "titleZh": "Granite 4.1 大语言模型：构建方式",
+  "details": {
+    "overview": "该条目标题为“Granite 4.1 LLMs: How They’re Built”，指向对 Granite 4.1 系列大语言模型构建方法的介绍。但提供的 sourceText 为空，摘要也仅为标题本身，缺少模型规模、训练数据、架构设计或评测结果等任何实质内容，因此无法给出具体介绍，相关信息需以原始发布为准。",
+    "keyPoints": [
+      "主题为 Granite 4.1 大语言模型的构建方式。",
+      "提供的原文内容为空，仅有标题。",
+      "模型规模、训练方法与评测结果均未披露。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

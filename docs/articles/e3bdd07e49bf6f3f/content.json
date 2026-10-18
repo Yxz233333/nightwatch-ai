@@ -1,0 +1,25 @@
+{
+  "id": "e3bdd07e49bf6f3f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "ChatGPT for managers",
+  "summary": "该内容介绍管理者如何使用 ChatGPT 为对话做准备、撰写清晰的反馈、保持工作条理并提升团队效能。",
+  "url": "https://openai.com/academy/managers",
+  "date": "2026-04-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-10T00:00:00+00:00",
+  "titleEn": "ChatGPT for managers",
+  "titleZh": "面向管理者的 ChatGPT",
+  "details": {
+    "overview": "该内容介绍管理者如何使用 ChatGPT 为对话做准备、撰写清晰的反馈、保持工作条理并提升团队效能。原文仅概述这些使用方向，未提供具体方法、案例数据或效果验证，详细内容与适用范围需以官方原始发布为准。",
+    "keyPoints": [
+      "面向管理者介绍 ChatGPT 的使用方式。",
+      "用途包括准备对话与撰写清晰反馈。",
+      "目标为保持条理并提升团队效能。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

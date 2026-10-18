@@ -1,0 +1,25 @@
+{
+  "id": "ae8c95c062e69c8e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
+  "summary": "现有材料仅有标题，称推出Daggr，可用编程方式串联应用并进行可视化检查。",
+  "url": "https://huggingface.co/blog/daggr",
+  "date": "2026-01-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-01-29T00:00:00+00:00",
+  "titleEn": "Introducing Daggr: Chain apps programmatically, inspect visually",
+  "titleZh": "推出Daggr：以编程方式串联应用，可视化检查",
+  "details": {
+    "overview": "现有材料仅有标题，称推出Daggr，可用编程方式串联应用并进行可视化检查。原始发布内容为空，未提供开发者、功能细节、可用范围或限制等信息，无法进一步介绍其研究对象或结果，相关内容不足。",
+    "keyPoints": [
+      "标题称Daggr支持以编程方式串联应用",
+      "标题称提供可视化检查能力",
+      "原始发布内容为空，细节不足"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

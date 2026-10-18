@@ -1,0 +1,25 @@
+{
+  "id": "751a6937c15824c5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+  "summary": "在圣何塞 McEnery 会议中心举行的 OCP 全球峰会上，NVIDIA 宣布新合作伙伴关系与贡献，旨在通过开放标准帮助行业更快速、高效、可靠地扩展 AI 基础设施。",
+  "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+  "date": "2026-10-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-10-12T15:00:25+00:00",
+  "titleEn": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+  "titleZh": "OCP 全球峰会：生态广泛采用之际，NVIDIA 开放 Vera Rubin 架构以助全球扩展 AI 工厂",
+  "details": {
+    "overview": "在圣何塞 McEnery 会议中心举行的 OCP 全球峰会上，NVIDIA 宣布新合作伙伴关系与贡献，旨在通过开放标准帮助行业更快速、高效、可靠地扩展 AI 基础设施。原文指出，随着 AI 工厂从兆瓦级增长至吉瓦级，建设不仅需要先进计算，还需开放标准。",
+    "keyPoints": [
+      "NVIDIA 在 OCP 全球峰会上宣布新合作与贡献。",
+      "开放标准旨在帮助行业更快速、高效、可靠地扩展 AI 基础设施。",
+      "AI 工厂规模正从兆瓦级向吉瓦级增长。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

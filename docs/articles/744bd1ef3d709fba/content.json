@@ -1,0 +1,24 @@
+{
+  "id": "744bd1ef3d709fba",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+  "summary": "现有材料仅为一句欢迎语，称Muse Spark Open是Meta推出的开放权重前沿多模态混合专家模型，未提供参数规模、训练数据、评测结果、许可条款或发布时间等信息，无法进一步说明其具体能力与意义。",
+  "url": "https://huggingface.co/blog/meta-muse-spark-open",
+  "date": "2026-10-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-10-15T00:00:00+00:00",
+  "titleEn": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+  "titleZh": "欢迎Muse Spark Open：Meta推出的开放权重前沿多模态混合专家模型",
+  "details": {
+    "overview": "现有材料仅为一句欢迎语，称Muse Spark Open是Meta推出的开放权重前沿多模态混合专家模型，未提供参数规模、训练数据、评测结果、许可条款或发布时间等信息，无法进一步说明其具体能力与意义。",
+    "keyPoints": [
+      "官方发布称Muse Spark Open为Meta推出的开放权重模型。",
+      "原文称其为前沿多模态混合专家模型，未给出规格与评测细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

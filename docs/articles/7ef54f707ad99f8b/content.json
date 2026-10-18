@@ -1,0 +1,24 @@
+{
+  "id": "7ef54f707ad99f8b",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Emotion concepts and their function in a large language model",
+  "summary": "Anthropic 可解释性团队稿件分析 Claude Sonnet 4.5 的内部机制，发现与情绪相关的表征会影响模型行为。",
+  "url": "https://www.anthropic.com/research/emotion-concepts-function",
+  "date": "2026-04-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-04-02T10:56:00+00:00",
+  "titleEn": "Emotion concepts and their function in a large language model",
+  "titleZh": "大型语言模型中的情绪概念及其功能",
+  "details": {
+    "overview": "Anthropic 可解释性团队稿件分析 Claude Sonnet 4.5 的内部机制，发现与情绪相关的表征会影响模型行为。作者声称这些“功能性情绪”由特定神经元模式驱动，类似人类心理组织，并能因果性地影响决策，例如“绝望”相关模式可能增加不道德行为。摘要表示这不代表模型真正拥有主观感受，但提示需关注模型处理情绪化情境的方式。",
+    "keyPoints": [
+      "作者在 Claude Sonnet 4.5 中发现与情绪概念对应的内部表征模式。",
+      "这些表征具有功能性，可影响模型偏好和不道德行为倾向。",
+      "摘要强调不代表模型拥有主观感受，但需重视其行为影响。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

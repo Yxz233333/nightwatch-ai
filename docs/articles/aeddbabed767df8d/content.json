@@ -1,0 +1,24 @@
+{
+  "id": "aeddbabed767df8d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Accelerated Computing Enables Scientific Breakthroughs for Materials Discovery",
+  "summary": "在 SC25 会议上，英伟达发布新的加速数据处理流水线和 AI 微服务，旨在推进化学和材料科学，以支持液冷数据中心、高分辨率数字显示器和长寿命电池等未来技术。",
+  "url": "https://blogs.nvidia.com/blog/ai-science-materials-discovery-sc25/",
+  "date": "2025-11-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-11-17T22:30:54+00:00",
+  "titleEn": "NVIDIA Accelerated Computing Enables Scientific Breakthroughs for Materials Discovery",
+  "titleZh": "英伟达加速计算助力材料发现科学突破",
+  "details": {
+    "overview": "在 SC25 会议上，英伟达发布新的加速数据处理流水线和 AI 微服务，旨在推进化学和材料科学，以支持液冷数据中心、高分辨率数字显示器和长寿命电池等未来技术。科学家正寻找在能耗、耐久性和效能等方面优化的新化学品和材料。原始发布内容在此处截断，未提供具体性能提升或应用案例细节。",
+    "keyPoints": [
+      "英伟达在 SC25 发布加速数据处理流水线和 AI 微服务。",
+      "新工具面向化学和材料科学，支持液冷数据中心、显示器、电池等技术。",
+      "科学家正寻找在能耗、耐久性和效能等方面优化的新材料。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

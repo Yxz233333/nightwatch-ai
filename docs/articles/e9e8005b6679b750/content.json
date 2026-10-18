@@ -1,0 +1,23 @@
+{
+  "id": "e9e8005b6679b750",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Introducing ChatGPT Pulse for Pro users",
+  "summary": "OpenAI面向iOS和Android上的Pro用户推出ChatGPT Pulse早期预览。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-pulse-for-pro-users",
+  "date": "2025-09-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Introducing ChatGPT Pulse for Pro users",
+  "titleZh": "为Pro用户推出ChatGPT Pulse",
+  "details": {
+    "overview": "OpenAI面向iOS和Android上的Pro用户推出ChatGPT Pulse早期预览。该功能让ChatGPT每天主动提供个性化更新，基于夜间异步研究，综合记忆、聊天历史和直接反馈。更新以视觉摘要形式每日推送，可展开追问，用户可通过点赞/点踩或“curate”调整内容。预览版存在局限，需开启记忆和聊天历史，可随时关闭。",
+    "keyPoints": [
+      "Pro用户可在iOS和Android上体验早期预览",
+      "每日基于记忆、聊天历史和反馈生成个性化更新",
+      "用户可通过反馈或curate调整内容，需开启记忆"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

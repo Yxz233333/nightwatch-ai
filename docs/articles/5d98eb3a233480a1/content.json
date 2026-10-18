@@ -1,0 +1,23 @@
+{
+  "id": "5d98eb3a233480a1",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Introducing the app directory in ChatGPT",
+  "summary": "该功能更新称，ChatGPT 新增应用目录，用户可浏览并添加已获批准的应用。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-the-app-directory-in-chatgpt",
+  "date": "2025-12-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Introducing the app directory in ChatGPT",
+  "titleZh": "ChatGPT 推出应用目录",
+  "details": {
+    "overview": "该功能更新称，ChatGPT 新增应用目录，用户可浏览并添加已获批准的应用。应用可在对话内直接调用工具与数据，包括聊天内交互体验，以及让 ChatGPT 搜索和引用第三方服务信息的安全连接。原有连接器在目录中统一显示为应用。应用面向所有已登录用户，但可用性与功能因套餐和地区而异，部分应用或能力可能受限或需特定套餐。开发者也可提交应用审核并发布。",
+    "keyPoints": [
+      "新增应用目录，可浏览并添加已批准应用",
+      "连接器在目录中统一改称应用",
+      "可用性与功能因套餐和地区而异"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

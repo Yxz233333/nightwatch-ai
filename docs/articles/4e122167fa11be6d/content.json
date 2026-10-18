@@ -1,0 +1,25 @@
+{
+  "id": "4e122167fa11be6d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Direct Preference Optimization Beyond Chatbots",
+  "summary": "原始材料仅提供标题，缺乏摘要和正文内容，无法确定具体研究对象、作者声称结果或研究意义。",
+  "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+  "date": "2026-06-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-06-03T12:55:11+00:00",
+  "titleEn": "Direct Preference Optimization Beyond Chatbots",
+  "titleZh": "超越聊天机器人的直接偏好优化",
+  "details": {
+    "overview": "原始材料仅提供标题，缺乏摘要和正文内容，无法确定具体研究对象、作者声称结果或研究意义。因此，本条目仅能依据标题推测涉及直接偏好优化（DPO）在聊天机器人之外的应用，但详细信息不足，无法展开介绍。",
+    "keyPoints": [
+      "标题指向直接偏好优化在聊天机器人之外的应用。",
+      "缺乏摘要和正文，无法提炼具体方法或结论。",
+      "研究意义和结果未知。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

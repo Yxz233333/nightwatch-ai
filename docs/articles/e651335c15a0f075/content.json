@@ -1,0 +1,24 @@
+{
+  "id": "e651335c15a0f075",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Contributes to Open Frameworks for Next-Generation Robotics Development",
+  "summary": "据该发布记录，ROSCon 在新加坡举行，汇聚围绕机器人操作系统 ROS 的全球开发者社区。",
+  "url": "https://blogs.nvidia.com/blog/roscon-2025-open-framework-robotics/",
+  "date": "2025-10-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-10-27T00:00:55+00:00",
+  "titleEn": "NVIDIA Contributes to Open Frameworks for Next-Generation Robotics Development",
+  "titleZh": "NVIDIA 助力下一代机器人开发开放框架",
+  "details": {
+    "overview": "据该发布记录，ROSCon 在新加坡举行，汇聚围绕机器人操作系统 ROS 的全球开发者社区。NVIDIA 在会议期间宣布与合作伙伴及开源机器人联盟（OSRA）开展协作，并发布新的机器人相关成果。原文在“new robotics”处截断，未给出具体合作内容、框架名称或发布时间，因此只能确认其方向为开放机器人开发框架。",
+    "keyPoints": [
+      "ROSCon 在新加坡举行，聚焦 ROS 开发者社区",
+      "NVIDIA 宣布与合作伙伴及 OSRA 协作",
+      "原文截断，具体新成果内容未披露"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

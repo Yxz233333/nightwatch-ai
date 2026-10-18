@@ -1,0 +1,25 @@
+{
+  "id": "d49c2afcc723ad20",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing Advanced Account Security",
+  "summary": "该公告介绍“高级账户安全”功能，主打抗钓鱼登录、更强的账户恢复流程和增强保护，目标是保护敏感数据并防止账户被接管。",
+  "url": "https://openai.com/index/advanced-account-security",
+  "date": "2026-04-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-30T00:00:00+00:00",
+  "titleEn": "Introducing Advanced Account Security",
+  "titleZh": "推出高级账户安全功能",
+  "details": {
+    "overview": "该公告介绍“高级账户安全”功能，主打抗钓鱼登录、更强的账户恢复流程和增强保护，目标是保护敏感数据并防止账户被接管。原文摘要仅列出这些方向，未说明适用账户类型、上线时间、支持地区或具体技术实现，相关推出范围与限制需以原始发布为准。",
+    "keyPoints": [
+      "功能核心是抗钓鱼登录与更强的账户恢复。",
+      "目标是防止账户接管并保护敏感数据。",
+      "摘要未说明适用范围、上线时间与地区。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

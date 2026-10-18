@@ -1,0 +1,24 @@
+{
+  "id": "7b608dcea238f1ce",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA and Google Cloud Accelerate Enterprise AI and Industrial Digitalization",
+  "summary": "该消息称 NVIDIA 与 Google Cloud 正扩大加速计算的使用范围，覆盖从视觉计算到智能体 AI 和物理 AI 的企业工作负载。",
+  "url": "https://blogs.nvidia.com/blog/nvidia-google-cloud-enterprise-ai-industrial-digitalization/",
+  "date": "2025-10-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-10-20T16:00:53+00:00",
+  "titleEn": "NVIDIA and Google Cloud Accelerate Enterprise AI and Industrial Digitalization",
+  "titleZh": "NVIDIA 与 Google Cloud 加速企业 AI 与工业数字化",
+  "details": {
+    "overview": "该消息称 NVIDIA 与 Google Cloud 正扩大加速计算的使用范围，覆盖从视觉计算到智能体 AI 和物理 AI 的企业工作负载。Google Cloud 宣布由 NVIDIA RTX PRO 6000 Blackwell 服务器版 GPU 驱动的 G4 虚拟机正式可用，同时 NVIDIA Omniverse 和 NVIDIA Isaac Sim 也有相关进展。原始内容在此处截断，未给出更多性能数据、价格或完整可用范围，具体需以官方原文为准。",
+    "keyPoints": [
+      "Google Cloud 宣布 G4 虚拟机正式可用",
+      "G4 虚拟机由 NVIDIA RTX PRO 6000 Blackwell 服务器版 GPU 驱动",
+      "NVIDIA Omniverse 与 Isaac Sim 有相关进展"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

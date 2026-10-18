@@ -1,0 +1,23 @@
+{
+  "id": "af2b64a904d63417",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Health in ChatGPT",
+  "summary": "OpenAI 开始在美国推出 ChatGPT 健康体验。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-in-chatgpt",
+  "date": "2026-07-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Health in ChatGPT",
+  "titleZh": "ChatGPT 中的健康功能",
+  "details": {
+    "overview": "OpenAI 开始在美国推出 ChatGPT 健康体验。年满 18 岁的已登录 Free、Go、Plus 和 Pro 用户可安全连接支持的健康记录和 Apple Health 数据，查看实验室结果、药物、活动、睡眠等信息，并基于个人健康背景提问。该功能在网页和 iOS 上提供，用户可控制连接哪些数据以及 ChatGPT 何时使用。官方称，连接的健康记录和相关对话不会用于训练基础模型或投放广告，该功能旨在支持而非替代医疗护理，不用于诊断或治疗。",
+    "keyPoints": [
+      "美国 18 岁以上已登录的 Free、Go、Plus 和 Pro 用户可连接健康记录和 Apple Health。",
+      "健康数据及相关对话不用于训练基础模型或投放广告。",
+      "功能定位为支持医疗护理，不用于诊断或治疗。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

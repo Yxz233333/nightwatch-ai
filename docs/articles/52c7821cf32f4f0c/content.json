@@ -1,0 +1,24 @@
+{
+  "id": "52c7821cf32f4f0c",
+  "section": "news",
+  "category": "工具动态",
+  "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+  "summary": "该文称 OpenAI 在 2026 年 Gartner 企业级 AI 编程智能体魔力象限中被评为领导者，Codex 因创新性与企业级规模部署获得认可。",
+  "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+  "date": "2026-05-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-22T00:00:00+00:00",
+  "titleEn": "OpenAI named a Leader in enterprise coding agents by Gartner",
+  "titleZh": "OpenAI 被 Gartner 评为企业级编程智能体领导者",
+  "details": {
+    "overview": "该文称 OpenAI 在 2026 年 Gartner 企业级 AI 编程智能体魔力象限中被评为领导者，Codex 因创新性与企业级规模部署获得认可。原文仅提供一句话摘要，未披露象限评估的具体维度、评分或对比厂商信息，相关细节不足。",
+    "keyPoints": [
+      "OpenAI 在 2026 年 Gartner 企业级 AI 编程智能体魔力象限中被评为领导者。",
+      "Codex 的获认可点包括创新性与企业级规模部署。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

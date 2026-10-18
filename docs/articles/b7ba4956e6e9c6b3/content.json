@@ -1,0 +1,25 @@
+{
+  "id": "b7ba4956e6e9c6b3",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Granite 4.0 Nano: Just how small can you go?",
+  "summary": "现有材料仅包含标题“Granite 4.0 Nano: Just how small can you go?”，缺少摘要和正文，无法确认具体研究对象、作者声称结果或研究意义。",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-4-nano",
+  "date": "2025-10-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-10-28T14:59:38+00:00",
+  "titleEn": "Granite 4.0 Nano: Just how small can you go?",
+  "titleZh": "Granite 4.0 Nano：小模型能小到什么程度？",
+  "details": {
+    "overview": "现有材料仅包含标题“Granite 4.0 Nano: Just how small can you go?”，缺少摘要和正文，无法确认具体研究对象、作者声称结果或研究意义。因此仅能保留原题，不对模型规模、性能或发布范围作任何推断。",
+    "keyPoints": [
+      "标题为 Granite 4.0 Nano：小模型能小到什么程度？",
+      "材料缺少摘要和正文，无法提炼具体技术细节。",
+      "不推断模型规模、性能或发布范围。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

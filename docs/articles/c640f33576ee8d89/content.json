@@ -1,0 +1,24 @@
+{
+  "id": "c640f33576ee8d89",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Easily Build and Share ROCm Kernels with Hugging Face",
+  "summary": "该条目标题表明内容涉及借助 Hugging Face 构建和分享 ROCm 内核，但原始材料未提供正文，无法确认具体功能、支持范围或使用方式。",
+  "url": "https://huggingface.co/blog/build-rocm-kernels",
+  "date": "2025-11-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-11-17T00:00:00+00:00",
+  "titleEn": "Easily Build and Share ROCm Kernels with Hugging Face",
+  "titleZh": "借助 Hugging Face 轻松构建和分享 ROCm 内核",
+  "details": {
+    "overview": "该条目标题表明内容涉及借助 Hugging Face 构建和分享 ROCm 内核，但原始材料未提供正文，无法确认具体功能、支持范围或使用方式。因此不对其技术细节或效果作任何推断，仅保留标题所传达的主题。",
+    "keyPoints": [
+      "主题为在 Hugging Face 上构建和分享 ROCm 内核",
+      "原始材料无正文，具体功能与范围不明"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

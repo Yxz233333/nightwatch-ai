@@ -1,0 +1,25 @@
+{
+  "id": "79a52a909bd75863",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+  "summary": "该条目标题为“Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original”，摘要与标题相同，sourceText 为空，未提供方法细节、实验设置或评测数据。",
+  "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+  "date": "2026-08-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-08-25T11:39:24+00:00",
+  "titleEn": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+  "titleZh": "量化感知修复：一个超越全精度原版的 4 位压缩模型",
+  "details": {
+    "overview": "该条目标题为“Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original”，摘要与标题相同，sourceText 为空，未提供方法细节、实验设置或评测数据。因此目前只能确认其主题是一种称为“量化感知修复”的方法，声称使 4 位压缩模型表现优于其全精度原版；该结果尚未在现有材料中展开，需以原文为准。",
+    "keyPoints": [
+      "主题为量化感知修复的 4 位压缩模型",
+      "标题声称压缩模型优于全精度原版",
+      "现有材料未提供实验与评测细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

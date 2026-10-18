@@ -1,0 +1,24 @@
+{
+  "id": "5cdcad59ddd8e89a",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Meet your new desktop assistant: Gemini for Mac",
+  "summary": "谷歌推出Gemini Mac原生桌面应用，用户可通过Option+Space快捷键在任何应用旁唤出Gemini，并能共享窗口让Gemini理解屏幕上下文以提供协助。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2026-04-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|Meet your new desktop assistant: Gemini for Mac|2026-04-15",
+  "titleEn": "Meet your new desktop assistant: Gemini for Mac",
+  "titleZh": "认识你的新桌面助手：Gemini for Mac",
+  "details": {
+    "overview": "谷歌推出Gemini Mac原生桌面应用，用户可通过Option+Space快捷键在任何应用旁唤出Gemini，并能共享窗口让Gemini理解屏幕上下文以提供协助。该应用面向macOS 15及以上版本用户全球免费提供，可直接从gemini.google/mac下载。官方称此举旨在减少上下文切换，提供更快速、集成的使用体验。",
+    "keyPoints": [
+      "Gemini Mac应用支持Option+Space快捷键快速唤出。",
+      "可共享窗口让Gemini理解屏幕内容并提供协助。",
+      "面向macOS 15及以上用户全球免费，官网直接下载。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

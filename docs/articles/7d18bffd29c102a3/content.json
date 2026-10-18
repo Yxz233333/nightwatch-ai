@@ -1,0 +1,25 @@
+{
+  "id": "7d18bffd29c102a3",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+  "summary": "该文介绍Cognition如何利用GPT‑6 Astra提升其编程智能体Devin的软件测试能力。",
+  "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+  "date": "2026-09-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-11T16:00:00+00:00",
+  "titleEn": "Cognition helps Devin test its own work with GPT‑6 Astra",
+  "titleZh": "Cognition借助GPT‑6 Astra让Devin测试自身工作",
+  "details": {
+    "overview": "该文介绍Cognition如何利用GPT‑6 Astra提升其编程智能体Devin的软件测试能力。摘要表示，GPT‑6 Astra增强了Devin测试软件并展示其可正常工作的能力，目标是帮助工程师减少代码审查量、交付更多成果。原文未给出具体评测数据或可用范围，相关能力以官方发布记录为准。",
+    "keyPoints": [
+      "GPT‑6 Astra用于提升Devin测试软件的能力。",
+      "目标是让Devin展示软件确实可运行。",
+      "意在帮助工程师减少代码审查、交付更多。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

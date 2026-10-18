@@ -1,0 +1,25 @@
+{
+  "id": "64a9ce055f255437",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "FACTS Benchmark Suite: Systematically evaluating the factuality of large language models",
+  "summary": "该发布介绍 FACTS Benchmark Suite，用于系统评估大语言模型的事实性。",
+  "url": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
+  "date": "2025-12-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2025-12-09T11:29:03+00:00",
+  "titleEn": "FACTS Benchmark Suite: Systematically evaluating the factuality of large language models",
+  "titleZh": "FACTS 基准套件：系统评估大语言模型的事实性",
+  "details": {
+    "overview": "该发布介绍 FACTS Benchmark Suite，用于系统评估大语言模型的事实性。摘要仅说明评估目标，未提供基准构成、评估方法或结果数据。",
+    "keyPoints": [
+      "推出 FACTS Benchmark Suite 基准套件。",
+      "目标为系统评估大语言模型事实性。",
+      "摘要未披露具体评估指标或结果。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

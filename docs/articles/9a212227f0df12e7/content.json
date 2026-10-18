@@ -1,0 +1,25 @@
+{
+  "id": "9a212227f0df12e7",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.124.0 发布",
+  "summary": "Codex CLI 0.124.0 稳定版发布。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.124.0",
+  "date": "2026-04-24",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-04-23T18:29:40+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.124.0 发布",
+  "titleZh": "Codex CLI 0.124.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.124.0 稳定版发布。TUI 新增推理强度快捷控制（Alt+, 降低、Alt+. 提高），模型升级后推理设置重置为新模型默认值；app-server 会话可管理多个环境并按轮次选择环境与工作目录；新增对 OpenAI 兼容提供方的 Amazon Bedrock 支持，含 AWS SigV4 签名与凭证认证；远程插件市场可直接列出和读取；Hooks 转为稳定并可在配置中内联设置。此外修复了认证、远程 app-server 与权限模式等多项问题。",
+    "keyPoints": [
+      "TUI 新增 Alt+, 与 Alt+. 快捷调整推理强度",
+      "app-server 支持多环境管理及按轮次选择工作目录",
+      "新增 Amazon Bedrock 支持，含 AWS SigV4 签名认证"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

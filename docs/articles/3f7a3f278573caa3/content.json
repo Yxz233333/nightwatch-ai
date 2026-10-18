@@ -1,0 +1,25 @@
+{
+  "id": "3f7a3f278573caa3",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+  "summary": "OpenAI 官方发布记录显示，其正在预览一项名为 Ultrafast 的 API 服务层级，可将 GPT-5.6 Sol 的运行速度提升至原来的 14 倍。",
+  "url": "https://openai.com/index/previewing-ultrafast",
+  "date": "2026-08-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-13T10:00:00+00:00",
+  "titleEn": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+  "titleZh": "预览 Ultrafast 模式：GPT-5.6 Sol 速度最高提升至 14 倍",
+  "details": {
+    "overview": "OpenAI 官方发布记录显示，其正在预览一项名为 Ultrafast 的 API 服务层级，可将 GPT-5.6 Sol 的运行速度提升至原来的 14 倍。该服务由 Cerebras 提供算力支持，输出速度最高可达每秒 750 个 token。原文未说明具体开放范围、适用条件与限制，这些信息需以官方原始发布为准。",
+    "keyPoints": [
+      "Ultrafast 是 OpenAI 新增的 API 服务层级，用于加速 GPT-5.6 Sol。",
+      "官方称速度最高提升至 14 倍，输出可达每秒 750 个 token。",
+      "该服务由 Cerebras 提供算力支持。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "78a22d3f347ee12e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing RTEB: A New Standard for Retrieval Evaluation",
+  "summary": "原始发布标题为“Introducing RTEB: A New Standard for Retrieval Evaluation”，但未提供摘要或正文内容。",
+  "url": "https://huggingface.co/blog/rteb",
+  "date": "2025-10-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-10-01T00:00:00+00:00",
+  "titleEn": "Introducing RTEB: A New Standard for Retrieval Evaluation",
+  "titleZh": "推出RTEB：检索评估新标准",
+  "details": {
+    "overview": "原始发布标题为“Introducing RTEB: A New Standard for Retrieval Evaluation”，但未提供摘要或正文内容。仅能确认其主题是推出名为RTEB的检索评估标准；具体评估对象、方法、指标和适用范围均材料不足，无法进一步说明。",
+    "keyPoints": [
+      "发布主题为推出RTEB检索评估标准",
+      "原始材料未提供摘要或正文细节",
+      "评估方法、指标与适用范围均不明确"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "30bdac0200db0ab2",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+  "summary": "现有材料仅有标题，缺乏摘要与原文内容，无法确认VAKRA的具体研究对象、作者声称的结果或研究意义。",
+  "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+  "date": "2026-04-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-04-15T12:07:25+00:00",
+  "titleEn": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+  "titleZh": "深入VAKRA：智能体的推理、工具使用与失败模式",
+  "details": {
+    "overview": "现有材料仅有标题，缺乏摘要与原文内容，无法确认VAKRA的具体研究对象、作者声称的结果或研究意义。以下要点仅基于标题推断，信息不足，建议补充原文后再作准确介绍。",
+    "keyPoints": [
+      "标题指向智能体推理、工具使用与失败模式。",
+      "缺乏摘要和原文，具体内容与结论无法确认。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "5797b3768fb4d879",
+  "section": "news",
+  "category": "模型动态",
+  "title": "An easier way to customize how Gemini works for you and more connected apps",
+  "summary": "Google 宣布在 Gemini 左侧菜单新增“Customize”入口，用户可集中调整 Gemini 的回应方式并连接日常工具。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2026-10-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|An easier way to customize how Gemini works for you and more connected apps|2026-10-13",
+  "titleEn": "An easier way to customize how Gemini works for you and more connected apps",
+  "titleZh": "更轻松地自定义 Gemini 的工作方式并连接更多应用",
+  "details": {
+    "overview": "Google 宣布在 Gemini 左侧菜单新增“Customize”入口，用户可集中调整 Gemini 的回应方式并连接日常工具。用户可发现应用、添加技能，让 Gemini 处理重复性任务，例如按用户风格写作或遵循格式规则。官方称可连接超过 40 个应用或服务，并在同一对话中完成跨应用操作，举例包括 Instacart 购物、OpenTable 订位和 Adobe 编辑照片。该功能面向所有用户层级在全球 Web、移动端及 Windows 和 macOS 桌面应用推出；多数连接应用先在美国以英语提供。",
+    "keyPoints": [
+      "Gemini 新增 Customize 入口，可集中管理回应方式和连接应用。",
+      "支持连接超过 40 个应用或服务，并在同一对话中跨应用完成任务。",
+      "功能全球推出，多数连接应用先在美国以英语提供。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

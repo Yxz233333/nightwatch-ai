@@ -1,0 +1,24 @@
+{
+  "id": "c987fe57bf473982",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Expanding our global operations to India with our second Asia Pacific office",
+  "summary": "Anthropic 宣布计划于2026年初在印度班加罗尔开设办公室，这是继东京之后的第二个亚太办公室。",
+  "url": "https://www.anthropic.com/news/expanding-global-operations-to-india",
+  "date": "2025-10-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-10-07T23:45:00+00:00",
+  "titleEn": "Expanding our global operations to India with our second Asia Pacific office",
+  "titleZh": "Anthropic 在印度开设班加罗尔办公室，扩展亚太业务",
+  "details": {
+    "overview": "Anthropic 宣布计划于2026年初在印度班加罗尔开设办公室，这是继东京之后的第二个亚太办公室。CEO Dario Amodei 本周访问印度，与政府官员和企业伙伴会面。公司称此举旨在服务印度快速增长的AI生态，并反映全球对Claude需求的增加。Anthropic 将重点在印度教育、医疗和农业等领域部署AI，并与当地企业、非营利组织和初创公司合作。此外，Claude 将增强对印地语及孟加拉语、马拉地语、泰卢固语、泰米尔语、旁遮普语、古吉拉特语、卡纳达语、马拉雅拉姆语和乌尔都语等主要印度语言的支持。",
+    "keyPoints": [
+      "计划2026年初在班加罗尔开设办公室，为第二个亚太办公室",
+      "重点在教育、医疗、农业等领域部署AI，并与当地机构合作",
+      "Claude 将增强对印地语及近十几种印度语言的支持"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

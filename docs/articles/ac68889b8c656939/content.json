@@ -1,0 +1,25 @@
+{
+  "id": "ac68889b8c656939",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Measuring progress toward AGI: A cognitive framework",
+  "summary": "该官方发布表示，团队提出一个用于衡量朝通用人工智能（AGI）进展的框架，并启动Kaggle黑客松来构建相关评估。",
+  "url": "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+  "date": "2026-03-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-03-17T16:03:47+00:00",
+  "titleEn": "Measuring progress toward AGI: A cognitive framework",
+  "titleZh": "衡量AGI进展：一个认知框架",
+  "details": {
+    "overview": "该官方发布表示，团队提出一个用于衡量朝通用人工智能（AGI）进展的框架，并启动Kaggle黑客松来构建相关评估。材料仅给出这一概述，未说明框架包含哪些认知维度、评估方法或评分标准，也未提供任何实验结果。其意义在于尝试把AGI进展转化为可测量的评估任务，但框架有效性与评估质量仍需后续工作检验。",
+    "keyPoints": [
+      "提出衡量AGI进展的认知框架。",
+      "同步启动Kaggle黑客松以构建相关评估。",
+      "当前收录材料未提供框架维度、方法或实验结果。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

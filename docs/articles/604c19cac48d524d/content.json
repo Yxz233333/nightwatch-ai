@@ -1,0 +1,25 @@
+{
+  "id": "604c19cac48d524d",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Scaleway on Hugging Face Inference Providers 🔥",
+  "summary": "现有材料仅有标题“Scaleway on Hugging Face Inference Providers”，表明 Scaleway 成为 Hugging Face 推理提供商之一，但缺少正文，无法确认可用的具体模型、区域、定价或接入方式。",
+  "url": "https://huggingface.co/blog/inference-providers-scaleway",
+  "date": "2025-09-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-09-19T00:00:00+00:00",
+  "titleEn": "Scaleway on Hugging Face Inference Providers 🔥",
+  "titleZh": "Scaleway 加入 Hugging Face 推理提供商 🔥",
+  "details": {
+    "overview": "现有材料仅有标题“Scaleway on Hugging Face Inference Providers”，表明 Scaleway 成为 Hugging Face 推理提供商之一，但缺少正文，无法确认可用的具体模型、区域、定价或接入方式。相关细节应以官方原始发布为准，此处不作推断。",
+    "keyPoints": [
+      "标题显示 Scaleway 加入 Hugging Face 推理提供商",
+      "材料未提供可用模型、定价与接入细节",
+      "具体范围与限制以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

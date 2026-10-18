@@ -1,0 +1,23 @@
+{
+  "id": "de0967c6f21bb385",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Skills are now generally available",
+  "summary": "该更新宣布Skills功能已全面可用。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#skills-are-now-generally-available",
+  "date": "2026-07-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Skills are now generally available",
+  "titleZh": "Skills 现已全面可用",
+  "details": {
+    "overview": "该更新宣布Skills功能已全面可用。企业版和教育版用户可在侧边栏的Plugins下、插件目录的Skills标签页中找到该功能。原文未说明具体能力细节、定价或适用范围限制，仅给出入口位置信息。",
+    "keyPoints": [
+      "Skills功能现已全面可用",
+      "企业版和教育版用户可在侧边栏Plugins下找到",
+      "入口位于插件目录的Skills标签页"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

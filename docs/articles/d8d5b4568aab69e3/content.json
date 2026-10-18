@@ -1,0 +1,25 @@
+{
+  "id": "d8d5b4568aab69e3",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Gemini 4 Argon: our next era of frontier intelligence",
+  "summary": "该条目为 Gemini 4 Argon 的官方发布标题，称其开启“下一个前沿智能时代”。",
+  "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+  "date": "2026-10-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-09-30T20:01:45+00:00",
+  "titleEn": "Gemini 4 Argon: our next era of frontier intelligence",
+  "titleZh": "Gemini 4 Argon：我们下一个前沿智能时代",
+  "details": {
+    "overview": "该条目为 Gemini 4 Argon 的官方发布标题，称其开启“下一个前沿智能时代”。提供的摘要与标题相同，sourceText 为空，未包含模型能力、参数、基准测试、可用范围或发布时间等任何具体信息。因此无法介绍其研究对象或技术细节，仅能确认这是一则模型发布公告，具体内容需以官方原文为准。",
+    "keyPoints": [
+      "官方发布标题称其为“下一个前沿智能时代”",
+      "材料未提供模型能力、参数或基准数据",
+      "可用范围与限制需以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

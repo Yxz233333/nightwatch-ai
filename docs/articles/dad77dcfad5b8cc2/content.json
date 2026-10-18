@@ -1,0 +1,25 @@
+{
+  "id": "dad77dcfad5b8cc2",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Research acceleration: The view inside OpenAI",
+  "summary": "该文从 OpenAI 内部视角介绍编码智能体正在改变 AI 研究方式，并展示关于智能体使用情况、实验速度、任务复杂度和研究加速的早期数据。",
+  "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+  "date": "2026-09-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-06T08:00:00+00:00",
+  "titleEn": "Research acceleration: The view inside OpenAI",
+  "titleZh": "研究加速：OpenAI 内部视角",
+  "details": {
+    "overview": "该文从 OpenAI 内部视角介绍编码智能体正在改变 AI 研究方式，并展示关于智能体使用情况、实验速度、任务复杂度和研究加速的早期数据。原始发布未给出具体数值或方法细节，相关数据应视为早期观察而非独立验证结论。",
+    "keyPoints": [
+      "编码智能体正在重塑OpenAI内部的AI研究方式",
+      "披露智能体使用、实验速度与任务复杂度的早期数据",
+      "数据为早期观察，原始发布未给出具体数值"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

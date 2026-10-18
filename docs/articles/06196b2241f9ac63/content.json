@@ -1,0 +1,24 @@
+{
+  "id": "06196b2241f9ac63",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
+  "summary": "该官方报道以硅谷八月傍晚为场景：空调负荷上升时，Silicon Valley Power向一座AI工厂发出调整用电的信号，Emerald AI的Varun Sivaram与约四十人通过Zoom观看，其中包括其旧金山会议室的团队与工程师。",
+  "url": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
+  "date": "2026-09-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-09-15T16:55:59+00:00",
+  "titleEn": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
+  "titleZh": "从兆瓦到token：NVIDIA如何最大化AI工厂产出",
+  "details": {
+    "overview": "该官方报道以硅谷八月傍晚为场景：空调负荷上升时，Silicon Valley Power向一座AI工厂发出调整用电的信号，Emerald AI的Varun Sivaram与约四十人通过Zoom观看，其中包括其旧金山会议室的团队与工程师。原文在此截断，未说明该需求响应机制的具体效果或NVIDIA在其中的技术角色细节。",
+    "keyPoints": [
+      "电力公司向AI工厂发送调整用电的信号",
+      "Emerald AI团队通过Zoom实时观察该过程",
+      "报道主题为从兆瓦到token的AI工厂产出最大化"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "c722354c09c2283c",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Improved dictation in ChatGPT",
+  "summary": "ChatGPT面向所有套餐推出一款新的语音转文字模型用于听写。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#improved-dictation-in-chatgpt",
+  "date": "2026-06-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Improved dictation in ChatGPT",
+  "titleZh": "ChatGPT听写功能改进",
+  "details": {
+    "overview": "ChatGPT面向所有套餐推出一款新的语音转文字模型用于听写。原文称这是后台更新，使用方式不变，但提升了跨语言和口音的转写准确率，包括多语使用者混用或切换语言的情形。评估显示日语、韩语、中文、乌尔都语、越南语、带口音英语以及长篇西班牙语、法语、意大利语和葡萄牙语均有改善，在嘈杂环境、轻声或耳语以及字母数字混合转写时也更稳健。",
+    "keyPoints": [
+      "新语音转文字模型面向所有套餐推出，使用方式不变。",
+      "原文称跨语言与口音转写准确率提升，含多语混用情形。",
+      "评估称主要测试语言词错误率至少降低10%。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

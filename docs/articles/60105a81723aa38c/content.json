@@ -1,0 +1,25 @@
+{
+  "id": "60105a81723aa38c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+  "summary": "该条目仅有标题，摘要与原文内容均未提供。",
+  "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+  "date": "2026-08-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-08-17T19:46:21+00:00",
+  "titleEn": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+  "titleZh": "同一集群利用率提升33个百分点：改变的是顺序",
+  "details": {
+    "overview": "该条目仅有标题，摘要与原文内容均未提供。标题指向同一计算集群在调整任务顺序后利用率提升33个百分点的说法，但缺少具体对象、方法与验证信息。因材料不足，无法确认技术细节与结论依据，需以原始发布内容为准。",
+    "keyPoints": [
+      "标题称同一集群利用率提升33个百分点。",
+      "标题暗示变化来自任务调度顺序。",
+      "原文内容缺失，无法核实方法与细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

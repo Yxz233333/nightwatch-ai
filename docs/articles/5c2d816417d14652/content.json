@@ -1,0 +1,24 @@
+{
+  "id": "5c2d816417d14652",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA, NPS Commission the Navy’s AI Flagship for Training Tomorrow’s Leaders",
+  "summary": "该新闻介绍美国海军研究生院（NPS）在加利福尼亚州蒙特雷利用人工智能解决作战挑战，并培养未来领导者的AI技能。",
+  "url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-ai/",
+  "date": "2025-10-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-10-28T18:00:49+00:00",
+  "titleEn": "NVIDIA, NPS Commission the Navy’s AI Flagship for Training Tomorrow’s Leaders",
+  "titleZh": "NVIDIA与NPS启用海军AI旗舰设施，培养未来领导者",
+  "details": {
+    "overview": "该新闻介绍美国海军研究生院（NPS）在加利福尼亚州蒙特雷利用人工智能解决作战挑战，并培养未来领导者的AI技能。新闻称NPS像硅谷一样经常举办黑客松等活动，NVIDIA与NPS合作启用海军AI旗舰设施。新闻未披露该设施的具体配置、投资规模或已取得的量化成果。",
+    "keyPoints": [
+      "美国海军研究生院利用AI解决作战挑战并培养AI技能。",
+      "NVIDIA与NPS合作启用海军AI旗舰设施。",
+      "新闻未披露设施具体配置、投资规模或量化成果。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

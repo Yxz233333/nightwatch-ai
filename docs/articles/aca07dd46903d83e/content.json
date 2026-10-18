@@ -1,0 +1,22 @@
+{
+  "id": "aca07dd46903d83e",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Dictation Updates",
+  "summary": "官方摘要表示，ChatGPT面向所有已登录用户改进听写能力，显著减少空转写结果并提升准确率。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#dictation-updates",
+  "date": "2026-01-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Dictation Updates",
+  "titleZh": "ChatGPT听写功能更新",
+  "details": {
+    "overview": "官方摘要表示，ChatGPT面向所有已登录用户改进听写能力，显著减少空转写结果并提升准确率。原文未说明具体技术改动、支持语言或上线时间，效果描述来自官方发布，尚无独立评测数据。",
+    "keyPoints": [
+      "改进面向所有已登录ChatGPT用户",
+      "官方称显著减少空转写并提升准确率"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

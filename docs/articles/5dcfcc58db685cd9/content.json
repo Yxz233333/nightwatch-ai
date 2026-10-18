@@ -1,0 +1,25 @@
+{
+  "id": "5dcfcc58db685cd9",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+  "summary": "现有材料仅有标题，未提供摘要或原文内容，无法确认具体研究对象、技术方案与作者声称的结果。",
+  "url": "https://huggingface.co/blog/Hcompany/neomme",
+  "date": "2026-09-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-09-03T13:13:48+00:00",
+  "titleEn": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+  "titleZh": "NeoMME：一种高效的多模态原生多语言编码器",
+  "details": {
+    "overview": "现有材料仅有标题，未提供摘要或原文内容，无法确认具体研究对象、技术方案与作者声称的结果。标题显示该工作提出名为 NeoMME 的编码器，定位为高效、多模态原生且支持多语言。由于材料不足，本介绍仅能说明标题层面的主题，不能补充模型结构、训练数据、评测结果或效率指标，相关细节需以原文为准。",
+    "keyPoints": [
+      "标题提出名为 NeoMME 的编码器。",
+      "标题强调其高效、多模态原生与多语言定位。",
+      "材料不足，无法确认技术细节与评测结果。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

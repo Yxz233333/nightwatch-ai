@@ -1,0 +1,25 @@
+{
+  "id": "da35c4bfcbc5a112",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.29.0 发布",
+  "summary": "Codex CLI 0.29.0 版本发布，主要更新包括：通过条件编译为 Android/Termux 提供支持；使用标准库 fs API 实现稳定的跨平台文件锁；将 CodexAuth 与 AuthManager 迁入 core crate；恢复 API 密钥使用时的速率限制错误处理；重构 rollout 模块并新增列表 API、返回文件头；支持 exec/apply_patch 解析“cd foo && ...”命令，修复 TUI 闪烁并改用 ratatui Stylize；npm 包加入 Windows ARM64 可执行文件，并切换到最新搜索工具。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.29.0",
+  "date": "2025-09-03",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-09-03T08:32:19+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.29.0 发布",
+  "titleZh": "Codex CLI 0.29.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.29.0 版本发布，主要更新包括：通过条件编译为 Android/Termux 提供支持；使用标准库 fs API 实现稳定的跨平台文件锁；将 CodexAuth 与 AuthManager 迁入 core crate；恢复 API 密钥使用时的速率限制错误处理；重构 rollout 模块并新增列表 API、返回文件头；支持 exec/apply_patch 解析“cd foo && ...”命令，修复 TUI 闪烁并改用 ratatui Stylize；npm 包加入 Windows ARM64 可执行文件，并切换到最新搜索工具。",
+    "keyPoints": [
+      "新增 Android/Termux 支持，并以标准库 fs API 实现跨平台文件锁。",
+      "重构 rollout 模块，新增列表 API 并返回文件头，恢复 API 密钥速率限制处理。",
+      "npm 包加入 Windows ARM64 可执行文件，并切换到最新搜索工具。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

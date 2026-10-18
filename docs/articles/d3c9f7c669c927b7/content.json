@@ -1,0 +1,25 @@
+{
+  "id": "d3c9f7c669c927b7",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Building towards age prediction",
+  "summary": "该消息介绍，OpenAI正在ChatGPT中构建年龄预测与家长控制功能，旨在为青少年提供更安全、适龄的体验，并以新工具支持家庭。",
+  "url": "https://openai.com/index/building-towards-age-prediction",
+  "date": "2025-09-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-16T06:00:00+00:00",
+  "titleEn": "Building towards age prediction",
+  "titleZh": "构建年龄预测能力",
+  "details": {
+    "overview": "该消息介绍，OpenAI正在ChatGPT中构建年龄预测与家长控制功能，旨在为青少年提供更安全、适龄的体验，并以新工具支持家庭。材料未说明预测方法、准确率、上线时间或适用地区，具体推出范围与限制需以官方原文为准。",
+    "keyPoints": [
+      "OpenAI在ChatGPT中构建年龄预测与家长控制",
+      "目标是让青少年获得更安全、适龄的体验",
+      "预测方法与上线时间等细节未说明"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "223176b629878be5",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Share your profile and showcase your Sites",
+  "summary": "官方发布记录称，ChatGPT 个人资料页现在汇集简介、活动以及用户选择展示的 Sites。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-your-profile-and-showcase-your-sites",
+  "date": "2026-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Share your profile and showcase your Sites",
+  "titleZh": "分享个人资料并展示你的 Sites",
+  "details": {
+    "overview": "官方发布记录称，ChatGPT 个人资料页现在汇集简介、活动以及用户选择展示的 Sites。个人资料默认私密，用户可将其设为公开，并把链接分享给已登录 ChatGPT 的其他用户；共享资料不显示对话标题或内容。资料分享与 Sites 展示在网页端和桌面端提供。在 Business 工作区，管理员可控制同事能否查看工作区资料，Enterprise 支持稍后推出。",
+    "keyPoints": [
+      "个人资料汇集简介、活动与自选展示的 Sites，默认私密",
+      "共享资料不显示对话标题或内容",
+      "Business 工作区由管理员控制同事能否查看资料"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

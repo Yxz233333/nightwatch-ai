@@ -1,0 +1,24 @@
+{
+  "id": "b2b474abea0a8800",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
+  "summary": "Anthropic 宣布与 Google 和 Broadcom 签署新协议，获取数吉瓦的下一代 TPU 算力，预计从 2027 年开始上线。",
+  "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+  "date": "2026-04-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-04-06T21:16:00+00:00",
+  "titleEn": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
+  "titleZh": "Anthropic 扩大与 Google 和 Broadcom 的合作，获取数吉瓦下一代算力",
+  "details": {
+    "overview": "Anthropic 宣布与 Google 和 Broadcom 签署新协议，获取数吉瓦的下一代 TPU 算力，预计从 2027 年开始上线。Anthropic 首席财务官 Krishna Rao 称这是公司迄今最大规模的算力承诺，用于支持前沿 Claude 模型并满足客户需求。原文还提到，Claude 客户需求在 2026 年加速增长，年化收入超过 300 亿美元；大部分新增算力将设在美国。Anthropic 表示将继续使用 AWS Trainium、Google TPU 和 NVIDIA GPU 等多种硬件。",
+    "keyPoints": [
+      "协议涉及数吉瓦下一代 TPU 算力，预计 2027 年上线",
+      "Anthropic 称这是其迄今最大算力承诺",
+      "大部分新增算力将部署在美国"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

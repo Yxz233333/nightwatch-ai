@@ -1,0 +1,25 @@
+{
+  "id": "1fd255c930bc267b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Safetensors is Joining the PyTorch Foundation",
+  "summary": "该消息宣布 Safetensors 将加入 PyTorch 基金会。",
+  "url": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
+  "date": "2026-04-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-04-08T00:00:00+00:00",
+  "titleEn": "Safetensors is Joining the PyTorch Foundation",
+  "titleZh": "Safetensors 加入 PyTorch 基金会",
+  "details": {
+    "overview": "该消息宣布 Safetensors 将加入 PyTorch 基金会。Safetensors 是一种用于安全存储和加载张量数据的格式，此举可能意味着其治理与生态进一步融入 PyTorch 体系。由于原始发布内容未提供更多细节，具体加入方式、时间表及影响范围尚不明确。",
+    "keyPoints": [
+      "Safetensors 宣布加入 PyTorch 基金会",
+      "原始发布未披露具体加入条款与时间表",
+      "该变动涉及张量存储格式的生态归属"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

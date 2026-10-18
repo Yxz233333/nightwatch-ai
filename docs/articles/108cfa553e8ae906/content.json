@@ -1,0 +1,25 @@
+{
+  "id": "108cfa553e8ae906",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How enterprises are scaling AI",
+  "summary": "该文讨论企业如何将AI从早期试验推进到持续累积的影响，强调信任、治理、工作流设计和规模化质量是扩展过程中的关键环节。",
+  "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+  "date": "2026-05-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-11T10:00:00+00:00",
+  "titleEn": "How enterprises are scaling AI",
+  "titleZh": "企业如何规模化扩展AI",
+  "details": {
+    "overview": "该文讨论企业如何将AI从早期试验推进到持续累积的影响，强调信任、治理、工作流设计和规模化质量是扩展过程中的关键环节。原文摘要仅为一句概述，未给出具体案例、数据或方法论细节，因此无法进一步说明其结论依据。",
+    "keyPoints": [
+      "主题为企业AI从早期试验走向规模化影响",
+      "关注信任、治理、工作流设计与规模化质量",
+      "摘要未提供具体案例或数据"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

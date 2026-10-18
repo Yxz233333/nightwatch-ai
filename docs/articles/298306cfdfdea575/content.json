@@ -1,0 +1,24 @@
+{
+  "id": "298306cfdfdea575",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Launches Open Models and Data to Accelerate AI Innovation Across Language, Biology and Robotics",
+  "summary": "NVIDIA 发布面向语言、机器人和生物领域的新开源 AI 技术，以推进其对开源的承诺。",
+  "url": "https://blogs.nvidia.com/blog/open-models-data-ai/",
+  "date": "2025-10-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-10-28T17:31:14+00:00",
+  "titleEn": "NVIDIA Launches Open Models and Data to Accelerate AI Innovation Across Language, Biology and Robotics",
+  "titleZh": "NVIDIA 推出开放模型与数据，加速语言、生物和机器人领域 AI 创新",
+  "details": {
+    "overview": "NVIDIA 发布面向语言、机器人和生物领域的新开源 AI 技术，以推进其对开源的承诺。这些开放技术旨在构建更广泛的 AI 生态，让全球开发者更易获取 AI 能力，并通过高效推理、高保真世界生成和交互式物理 AI 支持美国创新。该消息来自官方发布记录，具体范围以原文为准。",
+    "keyPoints": [
+      "NVIDIA 发布语言、机器人、生物领域的开源 AI 技术。",
+      "目标包括高效推理、高保真世界生成和交互式物理 AI。",
+      "官方称此举旨在拓宽 AI 获取并支持美国创新。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

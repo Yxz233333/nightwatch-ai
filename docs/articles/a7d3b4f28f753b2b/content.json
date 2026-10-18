@@ -1,0 +1,25 @@
+{
+  "id": "a7d3b4f28f753b2b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI supports California’s bill to advance youth AI safety",
+  "summary": "原文仅一句话：OpenAI表示支持加州SB 1119法案，称其推进面向青少年的强有力且适龄的AI保障措施，同时保留学习、创造和探索的机会。",
+  "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+  "date": "2026-08-31",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-31T07:00:00+00:00",
+  "titleEn": "OpenAI supports California’s bill to advance youth AI safety",
+  "titleZh": "OpenAI支持加州推进青少年AI安全法案",
+  "details": {
+    "overview": "原文仅一句话：OpenAI表示支持加州SB 1119法案，称其推进面向青少年的强有力且适龄的AI保障措施，同时保留学习、创造和探索的机会。材料未提供法案具体条款、适用范围或生效安排，因此无法进一步说明其技术要求与实施细节。",
+    "keyPoints": [
+      "OpenAI表态支持加州SB 1119法案。",
+      "作者称该法案推进适龄的青少年AI保障措施。",
+      "原文称同时保留青少年学习、创造和探索的机会。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

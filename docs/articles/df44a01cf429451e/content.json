@@ -1,0 +1,25 @@
+{
+  "id": "df44a01cf429451e",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.133.0 发布",
+  "summary": "Codex CLI 0.133.0 为稳定版本更新。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.133.0",
+  "date": "2026-05-22",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-05-21T16:48:03+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.133.0 发布",
+  "titleZh": "Codex CLI 0.133.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.133.0 为稳定版本更新。新特性包括 Goals 默认启用并由专用存储支撑、跨活跃轮次跟踪进度；codex remote-control 改为前台命令运行并报告机器状态；权限配置新增列表 API、继承与 requirements.toml 支持；插件发现与扩展生命周期事件增强。修复涉及 TUI 工作目录、计划模式回车提交、后台终端轮询、AGENTS 指令加载等。桌面端功能以对应公告为准。",
+    "keyPoints": [
+      "Goals 默认启用，由专用存储支撑并跨活跃轮次跟踪进度。",
+      "权限配置新增列表 API、继承、托管 requirements.toml 与 Windows 沙箱集成。",
+      "修复 TUI 复用本地 socket 时选错工作目录、计划模式 Shift+Enter 误提交等问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "0428d7521c00598d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Your Custom Gems are Now Shareable",
+  "summary": "原文称，用户现在可以把创建的Gems分享给朋友、家人和同事。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2025-09-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|Your Custom Gems are Now Shareable|2025-09-18",
+  "titleEn": "Your Custom Gems are Now Shareable",
+  "titleZh": "你的自定义Gems现已可分享",
+  "details": {
+    "overview": "原文称，用户现在可以把创建的Gems分享给朋友、家人和同事。Gems用于定制Gemini以完成特定目标，避免重复输入长提示与上下文，例如分享每周膳食规划Gem或假期规划Gem。分享方式是在网页版Gem管理器中点击对应Gem旁的“Share”，其权限控制类似Google Drive文件分享，可决定谁可查看或编辑。原文还说明，分享可把常用Gems变成共享资源，帮助他人减少重复提示并更快上手。",
+    "keyPoints": [
+      "用户可在网页版Gem管理器中点击Share分享Gems。",
+      "分享权限类似Google Drive，可控制查看或编辑。",
+      "分享目的是让他人复用已调好的指令，减少重复提示。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

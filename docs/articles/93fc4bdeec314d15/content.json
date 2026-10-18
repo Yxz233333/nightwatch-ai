@@ -1,0 +1,25 @@
+{
+  "id": "93fc4bdeec314d15",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Accelerating the next phase of AI",
+  "summary": "据摘要，OpenAI 宣布获得 1220 亿美元新融资，用于在全球扩展前沿 AI、投资下一代算力，并满足 ChatGPT、Codex 与企业 AI 不断增长的需求。",
+  "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+  "date": "2026-03-31",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-31T13:00:00+00:00",
+  "titleEn": "Accelerating the next phase of AI",
+  "titleZh": "加速 AI 的下一阶段",
+  "details": {
+    "overview": "据摘要，OpenAI 宣布获得 1220 亿美元新融资，用于在全球扩展前沿 AI、投资下一代算力，并满足 ChatGPT、Codex 与企业 AI 不断增长的需求。原文未说明投资方构成、估值、资金使用时间表或具体算力建设计划，也未披露相关业务的使用数据。因此本条可确认的是融资规模与所述用途，具体条款与影响需以官方原始发布记录为准。",
+    "keyPoints": [
+      "OpenAI 宣布获得 1220 亿美元新融资",
+      "资金用途包括全球扩展前沿 AI 与投资下一代算力",
+      "摘要称用于满足 ChatGPT、Codex 与企业 AI 的增长需求"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

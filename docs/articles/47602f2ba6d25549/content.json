@@ -1,0 +1,25 @@
+{
+  "id": "47602f2ba6d25549",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Introducing the Codex app",
+  "summary": "OpenAI 发布面向 macOS 的 Codex 应用，原文将其描述为 AI 编码与软件开发的命令中心，支持多个代理、并行工作流和长期运行任务。",
+  "url": "https://openai.com/index/introducing-the-codex-app",
+  "date": "2026-02-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-02T00:00:00+00:00",
+  "titleEn": "Introducing the Codex app",
+  "titleZh": "推出 Codex 应用",
+  "details": {
+    "overview": "OpenAI 发布面向 macOS 的 Codex 应用，原文将其描述为 AI 编码与软件开发的命令中心，支持多个代理、并行工作流和长期运行任务。该简介未展开具体功能细节、套餐范围或限制，相关信息需以官方原始发布为准。",
+    "keyPoints": [
+      "macOS 版 Codex 应用定位为 AI 编码与软件开发命令中心",
+      "支持多个代理与并行工作流",
+      "面向长期运行任务场景"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

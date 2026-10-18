@@ -1,0 +1,25 @@
+{
+  "id": "be9d0b550c8c9c41",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.106.0 发布",
+  "summary": "Codex CLI 0.106.0 发布说明列出新功能、缺陷修复与文档更新。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.106.0",
+  "date": "2026-02-27",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-02-26T23:11:50+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.106.0 发布",
+  "titleZh": "Codex CLI 0.106.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.106.0 发布说明列出新功能、缺陷修复与文档更新。新增 macOS 与 Linux 直接安装脚本；扩展 app-server v2 线程 API，加入实验性实时端点与 thread/unsubscribe；将 js_repl 提升至 /experimental 并把验证的最低 Node 版本降至 22.22.0；默认协作模式启用 request_user_input；API 用户可在 CLI 模型列表看到 5.3-codex；记忆机制改为基于差异的遗忘与按使用情况选择。",
+    "keyPoints": [
+      "新增 macOS 与 Linux 直接安装脚本并作为 GitHub 发布资产",
+      "app-server v2 增加实验性线程实时 API 与 thread/unsubscribe",
+      "js_repl 进入实验功能，最低 Node 版本降至 22.22.0"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

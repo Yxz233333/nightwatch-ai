@@ -1,0 +1,25 @@
+{
+  "id": "a34bc4e023ec7f63",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.157.0 发布",
+  "summary": "Codex CLI 稳定版 0.157.0 发布，新增 GPT-6 Sol 与 Luna 模型支持（含 Amazon Bedrock）及旧模型迁移提示，默认开启全屏对话记录与后台服务自动启动，并加入跨应用分叉会话的 f 快捷键、远程会话中的 /import 等。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.157.0",
+  "date": "2026-09-25",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-09-25T02:31:06+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.157.0 发布",
+  "titleZh": "Codex CLI 0.157.0 发布",
+  "details": {
+    "overview": "Codex CLI 稳定版 0.157.0 发布，新增 GPT-6 Sol 与 Luna 模型支持（含 Amazon Bedrock）及旧模型迁移提示，默认开启全屏对话记录与后台服务自动启动，并加入跨应用分叉会话的 f 快捷键、远程会话中的 /import 等。修复涉及语音会话保持、代理路由、上传重试与超时延长至五分钟、网络限制执行等。桌面端功能以对应公告为准。",
+    "keyPoints": [
+      "新增 GPT-6 Sol 与 Luna，含 Bedrock 支持与迁移提示",
+      "默认开启全屏对话记录和后台服务自动启动",
+      "修复代理路由、上传重试，上传超时增至五分钟"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

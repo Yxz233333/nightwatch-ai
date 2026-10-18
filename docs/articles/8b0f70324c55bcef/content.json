@@ -1,0 +1,25 @@
+{
+  "id": "8b0f70324c55bcef",
+  "section": "news",
+  "category": "工具动态",
+  "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+  "summary": "NVIDIA 发布文章介绍 RTX Spark，称其为 PC 的新起点，将游戏 PC、创作工作室和个人 AI 超级计算机的能力整合到单颗超级芯片中。",
+  "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+  "date": "2026-10-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-10-13T12:00:49+00:00",
+  "titleEn": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+  "titleZh": "全面就绪：全球 PC 应用生态为 NVIDIA RTX Spark 做好准备",
+  "details": {
+    "overview": "NVIDIA 发布文章介绍 RTX Spark，称其为 PC 的新起点，将游戏 PC、创作工作室和个人 AI 超级计算机的能力整合到单颗超级芯片中。原文提到该芯片最高配备 128GB 统一内存和 1 petaflop AI 算力，并提供 NVIDIA RTX 全栈能力。文章标题强调全球 PC 应用生态已为 RTX Spark 做好准备。原文摘要在此处截断，未提供更多细节。",
+    "keyPoints": [
+      "RTX Spark 被描述为整合游戏、创作和个人 AI 超算能力的单颗超级芯片。",
+      "最高配备 128GB 统一内存和 1 petaflop AI 算力。",
+      "文章称全球 PC 应用生态已为 RTX Spark 做好准备。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

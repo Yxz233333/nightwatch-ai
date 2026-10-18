@@ -1,0 +1,25 @@
+{
+  "id": "f197f441d2cd6a23",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.53.0 发布",
+  "summary": "据官方发布记录，Codex CLI 0.53.0 为稳定版本更新，重点包括修复 error 400 问题、改进 Java 沙箱支持。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.53.0",
+  "date": "2025-10-31",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-10-31T01:21:24+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.53.0 发布",
+  "titleZh": "Codex CLI 0.53.0 发布",
+  "details": {
+    "overview": "据官方发布记录，Codex CLI 0.53.0 为稳定版本更新，重点包括修复 error 400 问题、改进 Java 沙箱支持。合并的 PR 涉及新增开发者指令、移除部分序列化注解、更新 macOS 上 Java 的 Seatbelt 策略、引入 Windows 沙箱 alpha 版本、将 Windows 栈大小提升至 8 MB、移除末轮推理过滤、拆分 app-server API 类型为 v1 与 v2、新增 /exit 斜杠命令别名、限流错误返回绝对时间，以及为 gpt-5-codex 覆盖 verbosity 等。桌面端功能以对应公告为准。",
+    "keyPoints": [
+      "重点修复 error 400 问题并改进 Java 沙箱支持",
+      "引入 Windows 沙箱 alpha 版本，Windows 栈大小提至 8 MB",
+      "新增 /exit 命令别名，限流错误改为返回绝对时间"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

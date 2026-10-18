@@ -1,0 +1,24 @@
+{
+  "id": "086a3af51cfc0c79",
+  "section": "news",
+  "category": "工具动态",
+  "title": "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
+  "summary": "NVIDIA 介绍其十余年构建的 GPU 加速计算栈，涵盖硬件、框架、库、模型、微服务和领域工具，用于帮助研究人员运行更复杂的工作流并加快迭代。",
+  "url": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/",
+  "date": "2026-07-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-30T17:00:38+00:00",
+  "titleEn": "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
+  "titleZh": "NVIDIA BioNeMo 智能体工具包为 Claude Science 中的生命科学研究人员带来加速 AI",
+  "details": {
+    "overview": "NVIDIA 介绍其十余年构建的 GPU 加速计算栈，涵盖硬件、框架、库、模型、微服务和领域工具，用于帮助研究人员运行更复杂的工作流并加快迭代。文章提到 Anthropic 本周发布面向科学的 AI 工作台 Claude Science，BioNeMo 智能体工具包将加速 AI 引入生命科学研究。原始内容在此处截断，具体集成方式与可用范围不详。",
+    "keyPoints": [
+      "NVIDIA 称其 GPU 加速计算栈覆盖硬件、框架、库、模型与领域工具。",
+      "Anthropic 发布面向科学的 AI 工作台 Claude Science。",
+      "BioNeMo 智能体工具包旨在为生命科学研究人员提供加速 AI 能力。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

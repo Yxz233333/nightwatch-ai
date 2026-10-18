@@ -1,0 +1,24 @@
+{
+  "id": "200d79cd9ba64510",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
+  "summary": "在 HPE Discover 拉斯维加斯活动上，NVIDIA 与 HPE 宣布扩展 HPE AI Factory with NVIDIA，纳入 NVIDIA Vera CPU 和 NVIDIA Agent Toolkit 等组件。",
+  "url": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
+  "date": "2026-06-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-16T16:30:27+00:00",
+  "titleEn": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
+  "titleZh": "HPE AI Factory 携手 NVIDIA 扩展，迎接智能体时代",
+  "details": {
+    "overview": "在 HPE Discover 拉斯维加斯活动上，NVIDIA 与 HPE 宣布扩展 HPE AI Factory with NVIDIA，纳入 NVIDIA Vera CPU 和 NVIDIA Agent Toolkit 等组件。原文称企业正将智能体 AI 从概念验证推向生产，下一代 AI 工厂面向智能体时代构建。材料未给出具体性能数据或客户案例，扩展的推出范围和限制需以官方原文为准。",
+    "keyPoints": [
+      "NVIDIA 与 HPE 在 HPE Discover 上宣布扩展 HPE AI Factory with NVIDIA。",
+      "扩展内容包括 NVIDIA Vera CPU 和 NVIDIA Agent Toolkit 等组件。",
+      "原文称企业正将智能体 AI 从概念验证推进到生产环境。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

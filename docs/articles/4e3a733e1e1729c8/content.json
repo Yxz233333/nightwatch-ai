@@ -1,0 +1,25 @@
+{
+  "id": "4e3a733e1e1729c8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "ENEOS Materials brings ChatGPT Enterprise to manufacturing",
+  "summary": "官方发布信息显示，ENEOS Materials 在制造业务中使用 ChatGPT Enterprise，用于加快研究进程、提升工厂设计安全性，并将人力资源分析时间缩短 90%。",
+  "url": "https://openai.com/index/eneos-materials",
+  "date": "2025-09-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-24T17:00:00+00:00",
+  "titleEn": "ENEOS Materials brings ChatGPT Enterprise to manufacturing",
+  "titleZh": "ENEOS Materials 将 ChatGPT Enterprise 引入制造业",
+  "details": {
+    "overview": "官方发布信息显示，ENEOS Materials 在制造业务中使用 ChatGPT Enterprise，用于加快研究进程、提升工厂设计安全性，并将人力资源分析时间缩短 90%。摘要还称，80% 的使用者报告工作流程有所改善。原文未说明具体部署范围、统计口径与评估方法，相关数据与适用范围应以官方原文为准。",
+    "keyPoints": [
+      "ENEOS Materials 将 ChatGPT Enterprise 用于研究提速与工厂设计安全改进。",
+      "官方称人力资源分析时间缩短 90%，80% 使用者报告工作流程改善。",
+      "当前收录材料未提供部署范围与统计口径，具体以官方原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

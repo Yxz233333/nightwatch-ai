@@ -1,0 +1,24 @@
+{
+  "id": "5f08a5a664da0fe5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How AI-Powered Wireless Networks Will Revitalize US Global Leadership in Communications",
+  "summary": "NVIDIA 官方文章指出，电信网络是各国关键基础设施，支撑数十亿智能手机和联网设备的全球通信与数据流动。",
+  "url": "https://blogs.nvidia.com/blog/ai-6g-telecommunications/",
+  "date": "2025-10-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-10-08T17:50:51+00:00",
+  "titleEn": "How AI-Powered Wireless Networks Will Revitalize US Global Leadership in Communications",
+  "titleZh": "AI 驱动的无线网络将如何重振美国在全球通信领域的领导地位",
+  "details": {
+    "overview": "NVIDIA 官方文章指出，电信网络是各国关键基础设施，支撑数十亿智能手机和联网设备的全球通信与数据流动。下一代网络 6G 将首次为支持 AI 流量而构建，并可由 AI 从底层驱动。文章讨论 AI 驱动的无线网络对美国全球通信领导力的潜在作用，但摘要未展开具体技术方案或政策建议。",
+    "keyPoints": [
+      "电信网络是支撑全球通信与数据流动的关键基础设施。",
+      "6G 将首次为支持 AI 流量而构建，并可由 AI 从底层驱动。",
+      "文章讨论 AI 驱动无线网络对美国通信领导力的作用。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

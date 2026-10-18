@@ -1,0 +1,24 @@
+{
+  "id": "814168254b8d1616",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Working at the frontier shapes expectations for the future",
+  "summary": "Anthropic 分享两份报告：第一份讨论 AI 如何改变其内部就业，第二份比较公众与 Anthropic 员工对 AI 影响工作和经济的预期差距。",
+  "url": "https://www.anthropic.com/research/expectations-for-the-future",
+  "date": "2026-10-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-10-16T16:21:00+00:00",
+  "titleEn": "Working at the frontier shapes expectations for the future",
+  "titleZh": "在前沿工作塑造对未来的预期",
+  "details": {
+    "overview": "Anthropic 分享两份报告：第一份讨论 AI 如何改变其内部就业，第二份比较公众与 Anthropic 员工对 AI 影响工作和经济的预期差距。原文称，过去一年 Anthropic 招聘初级岗位的比例下降，技术岗位员工占比下降，而 AI 智能体工作时长激增；到 2026 年 3 月，智能体工作时长超过员工，8 月智能体数量为员工的六倍。调查还显示，91% 员工预计 2030 年 AI 能做出诺贝尔级发现，而美国成年人中为 39%。",
+    "keyPoints": [
+      "Anthropic 称过去一年初级岗位招聘比例和技术岗位员工占比均下降。",
+      "到 2026 年 8 月，其 AI 智能体数量为员工的六倍，生产力有所提升。",
+      "91% 员工预计 2030 年 AI 可做出诺贝尔级发现，公众为 39%。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

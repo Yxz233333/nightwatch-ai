@@ -1,0 +1,24 @@
+{
+  "id": "225555341a66374f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
+  "summary": "NEC 将向全球约 3 万名集团员工提供 Claude，并成为 Anthropic 首家日本本土全球合作伙伴。",
+  "url": "https://www.anthropic.com/news/anthropic-nec",
+  "date": "2026-04-24",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-04-24T03:52:00+00:00",
+  "titleEn": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
+  "titleZh": "Anthropic 与 NEC 合作打造日本最大 AI 工程团队",
+  "details": {
+    "overview": "NEC 将向全球约 3 万名集团员工提供 Claude，并成为 Anthropic 首家日本本土全球合作伙伴。双方将面向日本市场共同开发安全、行业专用的 AI 产品，首批覆盖金融、制造和地方政府，并计划扩展到网络安全等领域。NEC 还将把 Claude 及 Claude Code 融入 BluStellar 业务方案，并设立卓越中心培养 AI 工程团队。",
+    "keyPoints": [
+      "NEC 向约 3 万名集团员工部署 Claude，成为 Anthropic 首家日本全球合作伙伴。",
+      "双方共同开发面向金融、制造、地方政府等领域的行业专用 AI 产品。",
+      "NEC 将 Claude 集成进安全运营中心服务，并设立卓越中心培养 AI 工程团队。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

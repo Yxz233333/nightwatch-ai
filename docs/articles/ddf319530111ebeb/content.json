@@ -1,0 +1,25 @@
+{
+  "id": "ddf319530111ebeb",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Scientific computing in the age of agentic AI",
+  "summary": "该文介绍一份新的实地报告，展示科学家如何使用 AI 编程智能体推进科学计算的现代化，以加速软件开发和基因组学等领域的发现。",
+  "url": "https://openai.com/index/scientific-computing-agentic-ai",
+  "date": "2026-07-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-28T17:00:00+00:00",
+  "titleEn": "Scientific computing in the age of agentic AI",
+  "titleZh": "智能体 AI 时代的科学计算",
+  "details": {
+    "overview": "该文介绍一份新的实地报告，展示科学家如何使用 AI 编程智能体推进科学计算的现代化，以加速软件开发和基因组学等领域的发现。原始发布记录未提供报告中的具体案例、数据或方法细节，相关结论需以原文为准。",
+    "keyPoints": [
+      "新实地报告聚焦科学家使用 AI 编程智能体",
+      "主题是科学计算现代化与软件开发加速",
+      "涉及基因组学等领域，细节以原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

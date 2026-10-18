@@ -1,0 +1,24 @@
+{
+  "id": "56c33d4e87f0480d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time",
+  "summary": "该条目标题为 Firefly Aerospace 首次在月球轨道运行 NVIDIA Jetson，但提供的原始发布内容为空，仅有标题。",
+  "url": "https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/",
+  "date": "2026-06-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-29T15:00:04+00:00",
+  "titleEn": "Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time",
+  "titleZh": "Firefly Aerospace 首次在月球轨道运行 NVIDIA Jetson",
+  "details": {
+    "overview": "该条目标题为 Firefly Aerospace 首次在月球轨道运行 NVIDIA Jetson，但提供的原始发布内容为空，仅有标题。无法确认任务名称、运行时长、具体载荷配置或结果验证情况，因此本条目仅陈述标题所指向的事件，不补充任何外部细节。",
+    "keyPoints": [
+      "标题称在月球轨道运行 NVIDIA Jetson",
+      "原始发布内容缺失，细节无法核实",
+      "任务范围与结果需以原文为准"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

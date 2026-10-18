@@ -1,0 +1,23 @@
+{
+  "id": "e403d5bf0cc013ba",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT returns to WhatsApp in the EEA",
+  "summary": "官方公告称 ChatGPT 已在欧洲经济区重新上线 WhatsApp。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-returns-to-whatsapp-in-the-eea",
+  "date": "2026-07-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "ChatGPT returns to WhatsApp in the EEA",
+  "titleZh": "ChatGPT 重返欧洲经济区 WhatsApp",
+  "details": {
+    "overview": "官方公告称 ChatGPT 已在欧洲经济区重新上线 WhatsApp。用户无需 ChatGPT 账号，向已验证的 1-800-CHATGPT 联系人发消息即可使用，可对话、上传图片、发送语音消息、生成图像并支持多种语言。关联账号为可选操作，可获得更高使用限额。可用性依据 WhatsApp 号码的国家代码判断，可能逐步推出，并存在使用限额。",
+    "keyPoints": [
+      "欧洲经济区用户可重新通过 WhatsApp 使用 ChatGPT",
+      "无需账号即可使用，关联账号可获更高限额",
+      "可用性按号码国家代码判断，可能逐步推出"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

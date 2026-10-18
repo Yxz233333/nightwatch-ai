@@ -1,0 +1,25 @@
+{
+  "id": "1356ec81551504cf",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Indeed uses AI to help evolve the job search",
+  "summary": "该内容介绍 Indeed 如何利用 AI 改变求职搜索、招聘与人才获取。",
+  "url": "https://openai.com/index/indeed-maggie-hulce",
+  "date": "2026-01-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-26T00:00:00+00:00",
+  "titleEn": "How Indeed uses AI to help evolve the job search",
+  "titleZh": "Indeed如何用AI推动求职搜索演进",
+  "details": {
+    "overview": "该内容介绍 Indeed 如何利用 AI 改变求职搜索、招聘与人才获取。材料显示，Indeed 首席营收官 Maggie Hulce 分享了 AI 对雇主与求职者的影响。现有摘要未提供具体产品功能、模型方案或效果数据，也未说明相关功能的推出范围。因此可确认的是访谈对象与主题，即 AI 在求职与招聘流程中的应用。具体做法与成效需以原文为准。",
+    "keyPoints": [
+      "Indeed首席营收官Maggie Hulce谈AI对求职的影响",
+      "主题涵盖求职搜索、招聘与人才获取",
+      "具体产品方案与效果数据材料未提供"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

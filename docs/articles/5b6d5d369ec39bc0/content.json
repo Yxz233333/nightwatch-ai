@@ -1,0 +1,24 @@
+{
+  "id": "5b6d5d369ec39bc0",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain",
+  "summary": "据NVIDIA官方发布信息，在COMPUTEX期间的GTC Taipei上，NVIDIA宣布了NVIDIA Factory Operations Blueprint（FOX），这是一种用于构建自主工厂管理器的参考设计。",
+  "url": "https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/",
+  "date": "2026-06-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-01T05:00:47+00:00",
+  "titleEn": "NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain",
+  "titleZh": "NVIDIA工厂运营蓝图FOX为工厂提供新“AI大脑”",
+  "details": {
+    "overview": "据NVIDIA官方发布信息，在COMPUTEX期间的GTC Taipei上，NVIDIA宣布了NVIDIA Factory Operations Blueprint（FOX），这是一种用于构建自主工厂管理器的参考设计。官方称，随着工厂从孤立自动化走向全厂智能，制造商需要能连接实时机器信号、质量系统、作业指令和运营警报的统一决策层。当前收录材料未提供可用时间、合作伙伴或性能数据，相关范围以原始发布为准。",
+    "keyPoints": [
+      "NVIDIA发布Factory Operations Blueprint（FOX）参考设计。",
+      "FOX面向构建自主工厂管理器，连接机器信号、质量系统与运营警报。",
+      "官方称其目标是形成统一的工厂决策层。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

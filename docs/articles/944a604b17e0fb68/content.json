@@ -1,0 +1,25 @@
+{
+  "id": "944a604b17e0fb68",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.92.0 发布",
+  "summary": "Codex CLI 0.92.0 为稳定版本更新，新增 API v2 线程启动时注入动态工具并端到端路由调用、应用服务器线程列表过滤、thread/unarchive RPC 恢复归档会话、MCP 服务器在 config.toml 中定义 OAuth scopes，以及带 explorer 角色和最大深度护栏的多智能体协作增强；缓存 web_search 成为默认客户端行为。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.92.0",
+  "date": "2026-01-27",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-01-27T11:50:52+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.92.0 发布",
+  "titleZh": "Codex CLI 0.92.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.92.0 为稳定版本更新，新增 API v2 线程启动时注入动态工具并端到端路由调用、应用服务器线程列表过滤、thread/unarchive RPC 恢复归档会话、MCP 服务器在 config.toml 中定义 OAuth scopes，以及带 explorer 角色和最大深度护栏的多智能体协作增强；缓存 web_search 成为默认客户端行为。修复包括高吞吐流式下的 TUI 死锁、web_search 动作显示、协作流程高 CPU 占用、resume --last --json 解析、Windows 沙箱日志 UTF-8 处理等。",
+    "keyPoints": [
+      "新增动态工具注入、线程列表过滤与 thread/unarchive 恢复归档会话。",
+      "多智能体协作加入 explorer 角色与最大深度护栏。",
+      "修复 TUI 死锁、协作高 CPU 占用及 Windows 沙箱 UTF-8 日志问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

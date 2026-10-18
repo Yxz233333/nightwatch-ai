@@ -1,0 +1,25 @@
+{
+  "id": "1be2e4f212d6e967",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.161.0 发布",
+  "summary": "该版本更新日志显示，Codex CLI 0.161.0 将 GPT-6.1 Sol 设为内置与 Amazon Bedrock 目录的默认模型，并在 Bedrock 上支持多智能体 V2 与 Ultra 推理。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.161.0",
+  "date": "2026-10-07",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-10-07T15:58:45+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.161.0 发布",
+  "titleZh": "Codex CLI 0.161.0 发布",
+  "details": {
+    "overview": "该版本更新日志显示，Codex CLI 0.161.0 将 GPT-6.1 Sol 设为内置与 Amazon Bedrock 目录的默认模型，并在 Bedrock 上支持多智能体 V2 与 Ultra 推理。新增终端内 MCP 登录、语音设备选择及 Daybreak 可选启用等能力，同时修复文件系统提权、Windows 终端会话、输入提交与重试回退等问题。",
+    "keyPoints": [
+      "GPT-6.1 Sol 成为内置与 Bedrock 目录默认模型",
+      "Bedrock 支持多智能体 V2 与 Ultra 推理",
+      "新增 /mcp login 与语音设备本地偏好保存"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

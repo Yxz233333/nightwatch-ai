@@ -1,0 +1,25 @@
+{
+  "id": "5dbc31cfb7d8b522",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+  "summary": "该官方发布记录深入介绍 Codex 智能体循环，说明 WebSockets 和连接级缓存如何降低 API 开销并改善模型延迟。",
+  "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+  "date": "2026-04-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-22T10:00:00+00:00",
+  "titleEn": "Speeding up agentic workflows with WebSockets in the Responses API",
+  "titleZh": "利用 Responses API 中的 WebSockets 加速智能体工作流",
+  "details": {
+    "overview": "该官方发布记录深入介绍 Codex 智能体循环，说明 WebSockets 和连接级缓存如何降低 API 开销并改善模型延迟。当前收录材料未提供具体延迟数据、实现细节或适用范围，因此无法进一步评估其效果，相关结论需以原始发布为准。",
+    "keyPoints": [
+      "文章深入解析 Codex 智能体循环的工作机制。",
+      "WebSockets 与连接级缓存被用于降低 API 开销。",
+      "发布记录称上述机制改善了模型延迟，但未给出具体数据。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

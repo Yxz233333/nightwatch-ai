@@ -1,0 +1,24 @@
+{
+  "id": "7d20b6647953c539",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Welcome FLUX.3 Image Klein in Diffusers",
+  "summary": "现有材料仅为一句欢迎语，说明FLUX.3 Image Klein已进入Diffusers，未提供模型能力、参数、许可、发布时间或使用方式等信息，无法进一步介绍其研究对象或结果。",
+  "url": "https://huggingface.co/blog/flux-3",
+  "date": "2026-10-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-10-15T00:00:00+00:00",
+  "titleEn": "Welcome FLUX.3 Image Klein in Diffusers",
+  "titleZh": "Diffusers迎来FLUX.3 Image Klein",
+  "details": {
+    "overview": "现有材料仅为一句欢迎语，说明FLUX.3 Image Klein已进入Diffusers，未提供模型能力、参数、许可、发布时间或使用方式等信息，无法进一步介绍其研究对象或结果。",
+    "keyPoints": [
+      "官方发布仅称FLUX.3 Image Klein已加入Diffusers。",
+      "当前收录材料未提供模型规格、许可或可用范围等细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

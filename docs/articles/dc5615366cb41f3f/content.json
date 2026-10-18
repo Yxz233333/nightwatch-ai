@@ -1,0 +1,24 @@
+{
+  "id": "dc5615366cb41f3f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Mitigating the risk of prompt injections in browser use",
+  "summary": "该文讨论浏览器AI代理面临的提示注入攻击风险，即网页中隐藏的恶意指令可能劫持代理行为。",
+  "url": "https://www.anthropic.com/research/prompt-injection-defenses",
+  "date": "2025-11-24",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-11-24T15:10:00+00:00",
+  "titleEn": "Mitigating the risk of prompt injections in browser use",
+  "titleZh": "缓解浏览器使用中的提示注入风险",
+  "details": {
+    "overview": "该文讨论浏览器AI代理面临的提示注入攻击风险，即网页中隐藏的恶意指令可能劫持代理行为。作者称Claude Opus 4.5在浏览器使用中对提示注入的攻击成功率降至1%，并据此将Claude for Chrome从研究预览扩展至beta，面向Max计划所有用户。作者强调1%仍代表实际风险，提示注入远未解决，并介绍了强化学习训练、分类器检测和人工红队等防御措施。",
+    "keyPoints": [
+      "作者称Claude Opus 4.5在浏览器使用中对提示注入的攻击成功率为1%。",
+      "Claude for Chrome据此从研究预览进入beta，面向Max计划用户。",
+      "作者强调1%仍代表实际风险，提示注入问题尚未解决。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

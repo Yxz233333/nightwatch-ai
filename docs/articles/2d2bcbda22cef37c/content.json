@@ -1,0 +1,24 @@
+{
+  "id": "2d2bcbda22cef37c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Mapping, modeling, and understanding nature with AI",
+  "summary": "该官方发布内容介绍AI模型如何帮助科学家更好地理解地球生物圈，列举的应用方向包括预测森林砍伐、绘制物种分布地图以及通过声音监测野生动物。",
+  "url": "https://deepmind.google/blog/mapping-modeling-and-understanding-nature-with-ai/",
+  "date": "2025-11-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2025-11-05T16:59:46.378000+00:00",
+  "titleEn": "Mapping, modeling, and understanding nature with AI",
+  "titleZh": "用AI绘制、建模并理解自然",
+  "details": {
+    "overview": "该官方发布内容介绍AI模型如何帮助科学家更好地理解地球生物圈，列举的应用方向包括预测森林砍伐、绘制物种分布地图以及通过声音监测野生动物。材料未给出具体模型名称、数据规模或效果指标，也未说明这些应用是否经过独立验证，因此只能视为对AI在生态与生物多样性研究中用途的概括性介绍。",
+    "keyPoints": [
+      "AI模型被用于预测森林砍伐，辅助理解地表植被变化。",
+      "发布提到用AI绘制物种分布地图，服务生物多样性认知。",
+      "通过声音识别与监听野生动物，是文中列出的另一应用方向。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

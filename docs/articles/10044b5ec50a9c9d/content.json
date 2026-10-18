@@ -1,0 +1,25 @@
+{
+  "id": "10044b5ec50a9c9d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Preply combines AI and human tutors to personalize learning",
+  "summary": "Preply使用OpenAI技术推出AI生成的课程摘要，为用户提供个性化反馈和语言学习练习。",
+  "url": "https://openai.com/index/preply",
+  "date": "2026-06-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-12T00:00:00+00:00",
+  "titleEn": "How Preply combines AI and human tutors to personalize learning",
+  "titleZh": "Preply如何结合AI与真人导师实现个性化学习",
+  "details": {
+    "overview": "Preply使用OpenAI技术推出AI生成的课程摘要，为用户提供个性化反馈和语言学习练习。当前收录材料仅给出这一概述，未说明所用具体模型、功能覆盖范围或效果数据。就现有材料看，该案例展示语言学习平台将AI生成内容与真人导师结合，用于课后总结和练习环节，具体实现方式与用户反馈需以官方后续信息为准。",
+    "keyPoints": [
+      "Preply使用OpenAI技术推出AI生成的课程摘要。",
+      "该功能提供个性化反馈和语言学习练习。",
+      "当前收录材料未提供所用具体模型、覆盖范围或效果数据。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

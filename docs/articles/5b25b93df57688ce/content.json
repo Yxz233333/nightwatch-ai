@@ -1,0 +1,24 @@
+{
+  "id": "5b25b93df57688ce",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "The state of Maryland partners with Anthropic to better serve residents",
+  "summary": "马里兰州宣布与 Anthropic 合作，在多个州机构部署 Claude，用于福利申请、文档处理及劳动力技能提升。",
+  "url": "https://www.anthropic.com/news/maryland-partnership",
+  "date": "2025-11-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-11-13T12:30:00+00:00",
+  "titleEn": "The state of Maryland partners with Anthropic to better serve residents",
+  "titleZh": "马里兰州与 Anthropic 合作以更好服务居民",
+  "details": {
+    "overview": "马里兰州宣布与 Anthropic 合作，在多个州机构部署 Claude，用于福利申请、文档处理及劳动力技能提升。合作基于马里兰州此前使用 Claude 的经验：2025年6月推出的双语 Claude 聊天机器人，帮助超过60万 SUN Bucks 福利领取者简化信息获取，并减少了呼叫中心话务量。Anthropic 称其安全测试承诺使 Claude 适合敏感政府应用，双方希望该项目成为其他州的范本。",
+    "keyPoints": [
+      "马里兰州将在多个州机构部署 Claude，处理福利申请和文档等事务。",
+      "此前双语 Claude 聊天机器人已服务超60万 SUN Bucks 领取者并降低呼叫量。",
+      "Anthropic 称严格安全测试使 Claude 适合敏感政府应用。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

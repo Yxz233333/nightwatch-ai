@@ -1,0 +1,24 @@
+{
+  "id": "141b74b2fbf188a7",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+  "summary": "Anthropic 宣布扩大与技术服务公司 Cognizant 的合作。",
+  "url": "https://www.anthropic.com/news/cognizant-anthropic",
+  "date": "2026-07-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-07-27T15:32:00+00:00",
+  "titleEn": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+  "titleZh": "Cognizant 与 Anthropic 扩大合作，将 Claude 引入企业客户",
+  "details": {
+    "overview": "Anthropic 宣布扩大与技术服务公司 Cognizant 的合作。Cognizant 将在其为制造、生命科学、保险等行业客户构建和运行的系统中使用 Claude，并把 Claude 嵌入自身业务与工程平台，包括 Flowsource、Neuro AI Engineering 和 Neuro IT Ops。Cognizant 已有超过 3 万名员工完成 Claude 培训，并成为 Claude 合作伙伴网络中的全球首要合作伙伴。双方称，将 AI 集成到大型企业需要行业知识、现有系统理解和规则意识，Cognizant 可提供这些领域背景与工程交付规模。",
+    "keyPoints": [
+      "Cognizant 将 Claude 嵌入 Flowsource、Neuro AI Engineering 和 Neuro IT Ops 等平台。",
+      "超过 3 万名 Cognizant 员工已完成 Claude 培训。",
+      "Cognizant 成为 Claude 合作伙伴网络全球首要合作伙伴。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

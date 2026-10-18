@@ -1,0 +1,24 @@
+{
+  "id": "a822b89415d771e5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Into the Omniverse: NVIDIA GTC Showcases Virtual Worlds Powering the Physical AI Era",
+  "summary": "该文为NVIDIA“走进Omniverse”系列文章之一，聚焦OpenUSD与NVIDIA Omniverse在开发者、3D从业者和企业工作流中的应用。",
+  "url": "https://blogs.nvidia.com/blog/gtc-2026-virtual-worlds-physical-ai/",
+  "date": "2026-03-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-03-26T15:00:56+00:00",
+  "titleEn": "Into the Omniverse: NVIDIA GTC Showcases Virtual Worlds Powering the Physical AI Era",
+  "titleZh": "走进Omniverse：NVIDIA GTC展示虚拟世界如何驱动物理AI时代",
+  "details": {
+    "overview": "该文为NVIDIA“走进Omniverse”系列文章之一，聚焦OpenUSD与NVIDIA Omniverse在开发者、3D从业者和企业工作流中的应用。文章称，上周的NVIDIA GTC展示了物理AI的一个转折点：机器人、车辆和工厂正从单一用例向更大规模扩展。原文摘要在此处截断，未给出具体产品、客户或数据细节，因此只能确认其主题方向，具体成果与范围需以原文为准。",
+    "keyPoints": [
+      "文章属“走进Omniverse”系列，主题为OpenUSD与Omniverse工作流。",
+      "作者称GTC显示物理AI迎来转折点，机器人与工厂正扩大规模。",
+      "原文摘要截断，未披露具体产品、客户或量化结果。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

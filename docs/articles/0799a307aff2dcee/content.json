@@ -1,0 +1,25 @@
+{
+  "id": "0799a307aff2dcee",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "New ways to learn and teach with ChatGPT Work and Codex",
+  "summary": "该发布介绍面向 ChatGPT Work 与 Codex 的新教育插件，目标用户包括 K–12 教师、高校教育工作者和学生，用于学习、教学、研究与构建。",
+  "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+  "date": "2026-08-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-04T00:00:00+00:00",
+  "titleEn": "New ways to learn and teach with ChatGPT Work and Codex",
+  "titleZh": "使用 ChatGPT Work 与 Codex 学习与教学的新方式",
+  "details": {
+    "overview": "该发布介绍面向 ChatGPT Work 与 Codex 的新教育插件，目标用户包括 K–12 教师、高校教育工作者和学生，用于学习、教学、研究与构建。原文仅说明插件用途与覆盖人群，未披露具体功能细节、可用范围或使用条件，相关限制需以原始发布为准。",
+    "keyPoints": [
+      "推出面向 ChatGPT Work 与 Codex 的教育插件",
+      "覆盖 K–12 教师、高校教育者与学生群体",
+      "用途包括学习、教学、研究与构建"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

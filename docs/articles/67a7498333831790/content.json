@@ -1,0 +1,24 @@
+{
+  "id": "67a7498333831790",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Making AI work for everyone, everywhere: our approach to localization",
+  "summary": "OpenAI 分享其 AI 本地化方法，说明如何在不损害安全性的前提下，将全球共享的前沿模型适配到当地语言、法律和文化。",
+  "url": "https://openai.com/index/our-approach-to-localization",
+  "date": "2026-02-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-06T10:00:00+00:00",
+  "titleEn": "Making AI work for everyone, everywhere: our approach to localization",
+  "titleZh": "让 AI 服务所有人、所有地方：我们的本地化方法",
+  "details": {
+    "overview": "OpenAI 分享其 AI 本地化方法，说明如何在不损害安全性的前提下，将全球共享的前沿模型适配到当地语言、法律和文化。原始发布内容未提供具体实施细节或案例。",
+    "keyPoints": [
+      "OpenAI 分享 AI 本地化方法。",
+      "目标是在适配当地语言、法律和文化的同时不损害安全性。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

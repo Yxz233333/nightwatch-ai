@@ -1,0 +1,24 @@
+{
+  "id": "46b671af51bc97c8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw",
+  "summary": "NVIDIA与十余家工程软件公司在GTC台北COMPUTEX上宣布，利用NVIDIA NemoClaw构建安全、自主的AI工程师，以应对工业仿真工作流中的挑战，如CAD、网格划分、仿真设置与调试、后处理及报告生成。",
+  "url": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/",
+  "date": "2026-06-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-02T22:00:58+00:00",
+  "titleEn": "Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw",
+  "titleZh": "工业软件领导者利用NVIDIA NemoClaw构建安全自主AI工程师",
+  "details": {
+    "overview": "NVIDIA与十余家工程软件公司在GTC台北COMPUTEX上宣布，利用NVIDIA NemoClaw构建安全、自主的AI工程师，以应对工业仿真工作流中的挑战，如CAD、网格划分、仿真设置与调试、后处理及报告生成。该合作旨在将加速计算的优势扩展到仿真之外的端到端流程，提升工业工程效率。",
+    "keyPoints": [
+      "NVIDIA与十余家工程软件公司合作构建自主AI工程师。",
+      "目标解决仿真周边工作流，包括CAD、网格划分和报告生成。",
+      "基于NVIDIA NemoClaw实现安全自主的AI工程能力。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

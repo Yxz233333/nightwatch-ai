@@ -1,0 +1,23 @@
+{
+  "id": "49feee02519c4466",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex remote access from the ChatGPT mobile app",
+  "summary": "该功能更新称，Codex 已在 ChatGPT 移动应用中以预览形式提供，用户可在手机上保持与进行中工作的连接，而 Codex 继续在连接的 Mac 主机上运行。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#codex-remote-access-from-the-chatgpt-mobile-app",
+  "date": "2026-05-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Codex remote access from the ChatGPT mobile app",
+  "titleZh": "通过 ChatGPT 移动应用远程访问 Codex",
+  "details": {
+    "overview": "该功能更新称，Codex 已在 ChatGPT 移动应用中以预览形式提供，用户可在手机上保持与进行中工作的连接，而 Codex 继续在连接的 Mac 主机上运行。移动端可启动或继续线程、回答问题、调整方向、批准操作、查看 Codex 的发现，并在多个连接主机间切换。移动体验会加载运行机器的实时上下文，包括项目上下文、审批、插件、截图、终端输出、差异与测试结果。目前仅支持连接 macOS 上的 Codex，iOS 与 Android 各套餐在支持地区推出，主机需保持唤醒、在线并运行 Codex。",
+    "keyPoints": [
+      "Codex 以预览形式进入 ChatGPT 移动应用，运行仍在 Mac 主机",
+      "手机端可继续线程、批准操作并查看终端输出与测试结果",
+      "目前仅支持连接 macOS，主机须保持唤醒在线"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "84b17dd1b3be243d",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.154.0 发布",
+  "summary": "Codex CLI 发布 0.154.0 稳定版本。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.154.0",
+  "date": "2026-09-10",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-09-09T22:35:38+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.154.0 发布",
+  "titleZh": "Codex CLI 0.154.0 发布",
+  "details": {
+    "overview": "Codex CLI 发布 0.154.0 稳定版本。更新日志显示，模型选择器和 Amazon Bedrock 目录新增 GPT-6-Astra；实验性 worktree 支持可为新会话或分叉会话创建隔离检出并浏览恢复；用户可在 Codex 继续工作时以内联方式回答问题；Windows 会话可共享后台 Codex 服务器并支持守护进程生命周期命令和托管更新；Vim 编辑新增 R 替换模式。此外还包含插件工具刷新、MCP OAuth 令牌刷新协调、启动前工作区信任检查等修复，以及文档和杂项更新。",
+    "keyPoints": [
+      "模型选择器和 Amazon Bedrock 目录新增 GPT-6-Astra。",
+      "实验性 worktree 支持隔离检出，Windows 会话可共享后台服务器。",
+      "Vim 编辑新增 R 替换模式，并修复插件、MCP 与启动信任等问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "4ebdd16252d5652b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Japan Science and Technology Agency Develops NVIDIA-Powered Moonshot Robot for Elderly Care",
+  "summary": "日本科学技术振兴机构资助的Moonshot研究项目借助NVIDIA的AI与机器人技术，目标是到2050年构建一个由AI驱动、可自主学习机器人提供支持的社会。",
+  "url": "https://blogs.nvidia.com/blog/japan-science-technology-agency-develops-moonshot-robot/",
+  "date": "2026-01-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-01-08T16:00:29+00:00",
+  "titleEn": "Japan Science and Technology Agency Develops NVIDIA-Powered Moonshot Robot for Elderly Care",
+  "titleZh": "日本科学技术振兴机构开发基于NVIDIA技术的登月机器人，用于养老护理",
+  "details": {
+    "overview": "日本科学技术振兴机构资助的Moonshot研究项目借助NVIDIA的AI与机器人技术，目标是到2050年构建一个由AI驱动、可自主学习机器人提供支持的社会。原文将这类机器人视为继智能手机之后的下一个通用技术，并暗示其体积可能较大、不便随身携带。材料未披露具体护理功能、技术细节或验证结果，推出范围和限制需以官方原文为准。",
+    "keyPoints": [
+      "项目由日本科学技术振兴机构资助，NVIDIA提供AI与机器人技术加速。",
+      "目标是在2050年实现AI驱动、可自主学习的机器人社会。",
+      "原文称其可能成为继智能手机后的下一代通用技术。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

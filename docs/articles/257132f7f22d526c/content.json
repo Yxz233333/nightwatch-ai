@@ -1,0 +1,24 @@
+{
+  "id": "257132f7f22d526c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Redeploying Fable 5",
+  "summary": "Anthropic 说明 Claude Fable 5 与 Mythos 5 的访问恢复安排。",
+  "url": "https://www.anthropic.com/news/redeploying-fable-5",
+  "date": "2026-07-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-06-30T16:00:00+00:00",
+  "titleEn": "Redeploying Fable 5",
+  "titleZh": "重新部署 Fable 5",
+  "details": {
+    "overview": "Anthropic 说明 Claude Fable 5 与 Mythos 5 的访问恢复安排。两款模型于 6 月 9 日发布，6 月 12 日因美国政府出口管制而暂停对所有用户开放；6 月 30 日管制解除后，Fable 5 自 7 月 1 日起在全球 Claude 平台、Claude.ai、Claude Code 和 Claude Cowork 上线。作者称已训练新的安全分类器，针对报告中描述的绕过手法，并称该手法在超过 99% 的情况下被拦截。",
+    "keyPoints": [
+      "Fable 5 自 7 月 1 日起面向全球用户恢复，Pro、Max、Team 及部分企业版在 7 月 7 日前含最高 50% 周用量额度。",
+      "作者称新安全分类器针对报告中的绕过手法，拦截率超过 99%。",
+      "Mythos 5 在美方批准后恢复对一批美国机构开放。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

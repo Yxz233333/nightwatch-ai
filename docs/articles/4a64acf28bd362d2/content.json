@@ -1,0 +1,24 @@
+{
+  "id": "4a64acf28bd362d2",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Partnering with Mozilla to improve Firefox’s security",
+  "summary": "文章介绍Anthropic与Mozilla合作，使用Claude Opus 4.6在两周内发现22个Firefox漏洞，其中14个被Mozilla评为高危，并提交概念验证与候选补丁。",
+  "url": "https://www.anthropic.com/news/mozilla-firefox-security",
+  "date": "2026-03-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-03-06T10:30:00+00:00",
+  "titleEn": "Partnering with Mozilla to improve Firefox’s security",
+  "titleZh": "与Mozilla合作提升Firefox安全性",
+  "details": {
+    "overview": "文章介绍Anthropic与Mozilla合作，使用Claude Opus 4.6在两周内发现22个Firefox漏洞，其中14个被Mozilla评为高危，并提交概念验证与候选补丁。作者称AI可加速高危漏洞检测，但利用漏洞生成攻击的成功率仍低。合作提供了AI安全研究者与维护者协作的范例。",
+    "keyPoints": [
+      "Claude Opus 4.6扫描近6000个C++文件，提交112份报告，多数问题已在Firefox 148修复。",
+      "在数百次利用尝试中，Claude仅两次成功将漏洞转化为可执行攻击，且仅限测试环境。",
+      "Mozilla协助界定有效报告类型，并开始内部试验Claude用于安全目的。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

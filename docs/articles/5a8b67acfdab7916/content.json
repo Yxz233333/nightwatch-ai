@@ -1,0 +1,23 @@
+{
+  "id": "5a8b67acfdab7916",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Updates to GPT‑5.6 in ChatGPT",
+  "summary": "OpenAI更新ChatGPT中的GPT‑5.6。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#updates-to-gpt56-in-chatgpt",
+  "date": "2026-08-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Updates to GPT‑5.6 in ChatGPT",
+  "titleZh": "ChatGPT中GPT‑5.6的更新",
+  "details": {
+    "overview": "OpenAI更新ChatGPT中的GPT‑5.6。Plus和Pro用户可使用更新版GPT‑5.6 Sol，官方称其事实更可靠、回答更聚焦，并新增滑块供用户选择模型思考程度。GPT‑5.6 Luna本周成为Free和Go用户默认模型；下周起这些用户可无限文本聊天并使用新的Think按钮，但受滥用防护约束，文件上传、图像等工具仍有限制。本次仅涉及ChatGPT聊天体验，Work和Codex不变。",
+    "keyPoints": [
+      "Plus和Pro用户可用更新版GPT‑5.6 Sol，并新增思考程度滑块。",
+      "GPT‑5.6 Luna本周成为Free和Go用户默认模型。",
+      "Free和Go用户下周起可无限文本聊天并用Think按钮，工具仍受限。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

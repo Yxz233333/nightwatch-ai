@@ -1,0 +1,24 @@
+{
+  "id": "852c278cdec02390",
+  "section": "news",
+  "category": "工具动态",
+  "title": "How AI assistance impacts the formation of coding skills",
+  "summary": "该研究稿件称，一项针对52名开发者的随机对照试验发现，使用AI辅助的参与者在理解测验中得分比手写代码组低17%（50%对67%），差异具有统计显著性；AI组完成任务略快但未达显著。",
+  "url": "https://www.anthropic.com/research/AI-assistance-coding-skills",
+  "date": "2026-01-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-01-29T19:13:26.601000+00:00",
+  "titleEn": "How AI assistance impacts the formation of coding skills",
+  "titleZh": "AI辅助如何影响编程技能的形成",
+  "details": {
+    "overview": "该研究稿件称，一项针对52名开发者的随机对照试验发现，使用AI辅助的参与者在理解测验中得分比手写代码组低17%（50%对67%），差异具有统计显著性；AI组完成任务略快但未达显著。摘要表示，将AI用于请求解释、追问概念而非单纯委托生成代码的参与者掌握程度更好。作者据此讨论AI使用方式与技能培养之间的权衡。",
+    "keyPoints": [
+      "52名开发者随机试验：AI组测验均分50%，手写组67%",
+      "AI组完成速度略快，但差异未达统计显著",
+      "用AI求解释、追问概念者掌握更好，纯委托生成者得分偏低"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

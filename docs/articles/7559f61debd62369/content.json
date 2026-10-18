@@ -1,0 +1,25 @@
+{
+  "id": "7559f61debd62369",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.78.0 发布",
+  "summary": "Codex CLI 0.78.0 版本更新公告，涵盖新功能、缺陷修复、文档与维护工作。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.78.0",
+  "date": "2026-01-07",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-01-06T18:47:47+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.78.0 发布",
+  "titleZh": "Codex CLI 0.78.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.78.0 版本更新公告，涵盖新功能、缺陷修复、文档与维护工作。新功能包括用 Ctrl+G 在外部编辑器中编辑当前提示并同步回 TUI、支持仓库内 .codex/config.toml 等项目感知配置分层、macOS 上通过 MDM 下发 TOML 实现企业托管配置、改进 tui2 转录导航与复制操作、Windows PowerShell 以 UTF-8 模式启动、执行策略规则可附人类可读理由。修复涉及单轮多工具调用、/review 差异计算、流式终止符解析及 tui2 渲染输入边界问题。",
+    "keyPoints": [
+      "新增 Ctrl+G 在外部编辑器打开当前提示，编辑后同步回 TUI。",
+      "支持仓库内 .codex/config.toml 与 /etc/codex/config.toml 等配置分层合并。",
+      "修复模型单轮返回多个工具调用时的失败问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "3c748431971b0a1c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Virtualizes Game Development With RTX PRO Server",
+  "summary": "NVIDIA 在旧金山游戏开发者大会（GDC）上展示一种新方案，面向游戏开发团队。",
+  "url": "https://blogs.nvidia.com/blog/gdc-2026-virtual-game-development/",
+  "date": "2026-03-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-03-10T15:30:07+00:00",
+  "titleEn": "NVIDIA Virtualizes Game Development With RTX PRO Server",
+  "titleZh": "NVIDIA 通过 RTX PRO Server 实现游戏开发虚拟化",
+  "details": {
+    "overview": "NVIDIA 在旧金山游戏开发者大会（GDC）上展示一种新方案，面向游戏开发团队。原文指出，团队面对的世界规模更大、管线更复杂、成员分布更分散，但许多工作室仍依赖固定的桌面 GPU 硬件完成关键生产工作。该方案意在把分散的资源整合起来。原文摘要在此处截断，具体产品形态、可用范围与限制未完整给出，需以官方原文为准。",
+    "keyPoints": [
+      "在 GDC 展示面向游戏开发的新方案",
+      "针对更大世界与更复杂管线的开发需求",
+      "指向替代固定桌面 GPU 的生产方式"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

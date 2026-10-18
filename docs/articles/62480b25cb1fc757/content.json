@@ -1,0 +1,23 @@
+{
+  "id": "62480b25cb1fc757",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT Go expansion",
+  "summary": "据官方原始发布记录，低成本订阅计划 ChatGPT Go 新增 8 个欧洲国家，覆盖总数达到 98 个国家。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-go-expansion",
+  "date": "2025-10-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "ChatGPT Go expansion",
+  "titleZh": "ChatGPT Go 扩展",
+  "details": {
+    "overview": "据官方原始发布记录，低成本订阅计划 ChatGPT Go 新增 8 个欧洲国家，覆盖总数达到 98 个国家。新增国家为奥地利、捷克、丹麦、挪威、波兰、葡萄牙、西班牙和瑞典。该计划在免费版基础上提供更多消息额度、更大文件上传、扩展图像生成、高级数据分析以及更长记忆以支持更个性化回复，可在网页、移动端（iOS 与 Android）和桌面端（macOS 与 Windows）使用。当前收录材料未提供具体价格。",
+    "keyPoints": [
+      "ChatGPT Go 新增 8 个欧洲国家，覆盖总数达 98 国",
+      "新增国家包括奥地利、捷克、丹麦、挪威、波兰、葡萄牙、西班牙、瑞典",
+      "提供更多消息、更大文件上传、扩展图像生成与更长记忆"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "8e2172630919fe5c",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+  "summary": "该消息介绍Gemini 3.1 Pro，称其面向简单答案不足以应对的任务。",
+  "url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+  "date": "2026-02-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-02-19T16:06:14+00:00",
+  "titleEn": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+  "titleZh": "Gemini 3.1 Pro：面向最复杂任务的更智能模型",
+  "details": {
+    "overview": "该消息介绍Gemini 3.1 Pro，称其面向简单答案不足以应对的任务。原始发布内容仅有一句摘要，未说明推理能力的具体提升、基准表现、可用范围或与3系列的差异，因此无法展开介绍。",
+    "keyPoints": [
+      "发布Gemini 3.1 Pro模型",
+      "定位为处理简单答案不够用的复杂任务",
+      "当前收录材料未提供能力细节与可用范围"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

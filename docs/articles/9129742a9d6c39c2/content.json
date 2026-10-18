@@ -1,0 +1,25 @@
+{
+  "id": "9129742a9d6c39c2",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "SchoolAI builds an AI platform that empowers teachers",
+  "summary": "该消息介绍 SchoolAI 使用 GPT-4.1、图像生成和 TTS 构建面向课堂的安全、教师引导式 AI 工具，覆盖超过 100 万个教室，用于提升参与度、监督与个性化学习。",
+  "url": "https://openai.com/index/schoolai",
+  "date": "2025-09-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-22T10:00:00+00:00",
+  "titleEn": "SchoolAI builds an AI platform that empowers teachers",
+  "titleZh": "SchoolAI 打造赋能教师的 AI 平台",
+  "details": {
+    "overview": "该消息介绍 SchoolAI 使用 GPT-4.1、图像生成和 TTS 构建面向课堂的安全、教师引导式 AI 工具，覆盖超过 100 万个教室，用于提升参与度、监督与个性化学习。原文为简短摘要，未说明具体功能细节、部署方式或效果评估方法，相关结论以官方发布为准。",
+    "keyPoints": [
+      "平台采用 GPT-4.1、图像生成与 TTS 技术",
+      "面向教师引导、强调安全的课堂 AI 工具",
+      "官方称覆盖超过 100 万个教室"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

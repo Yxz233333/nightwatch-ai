@@ -1,0 +1,25 @@
+{
+  "id": "2289cc484b93d950",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.87.0 发布",
+  "summary": "Codex CLI 0.87.0 版本发布，主要新增用户消息元数据在协议、应用服务器和核心间的往返传递、协作等待调用支持多ID阻塞、用户shell命令在用户快照下运行、TUI显示未订阅线程的审批请求等功能；修复了压缩时token估算准确性、MCP CallToolResult包含threadId、TUI“Worked for”分隔符显示条件、非PTY管道命令挂起等问题；文档更新了MCP接口说明；Windows构建默认启用PowerShell UTF-8特性。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.87.0",
+  "date": "2026-01-16",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-01-16T15:37:42+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.87.0 发布",
+  "titleZh": "Codex CLI 0.87.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.87.0 版本发布，主要新增用户消息元数据在协议、应用服务器和核心间的往返传递、协作等待调用支持多ID阻塞、用户shell命令在用户快照下运行、TUI显示未订阅线程的审批请求等功能；修复了压缩时token估算准确性、MCP CallToolResult包含threadId、TUI“Worked for”分隔符显示条件、非PTY管道命令挂起等问题；文档更新了MCP接口说明；Windows构建默认启用PowerShell UTF-8特性。",
+    "keyPoints": [
+      "用户消息元数据（文本元素和字节范围）现可在协议、应用服务器和核心间往返，使UI注释在历史重建后保留。",
+      "协作等待调用可在单个请求中阻塞多个ID，简化多线程协调。",
+      "修复压缩期间token估算准确性，改善长会话预算；MCP CallToolResult在content和structuredContent中包含threadId。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

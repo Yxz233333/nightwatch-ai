@@ -1,0 +1,25 @@
+{
+  "id": "1a58df1bf48faf7d",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.121.0 发布",
+  "summary": "Codex CLI 0.121.0 是命令行工具的稳定版本更新。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.121.0",
+  "date": "2026-04-16",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-04-15T20:45:18+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.121.0 发布",
+  "titleZh": "Codex CLI 0.121.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.121.0 是命令行工具的稳定版本更新。新增 codex marketplace add 命令，支持从 GitHub、git URL、本地目录和 marketplace.json 地址安装插件市场；TUI 提示历史加入 Ctrl+R 反向搜索；新增内存模式控制与 MCP/插件支持扩展。修复了 macOS 沙箱私有 DNS 处理、Windows 路径匹配、速率限制账户处理等问题，并加固供应链与 CI 输入。桌面端功能以对应公告为准。",
+    "keyPoints": [
+      "新增 codex marketplace add，支持从 GitHub、git URL、本地目录等安装插件市场。",
+      "TUI 提示历史加入 Ctrl+R 反向搜索，并支持本地召回已接受的斜杠命令。",
+      "修复 macOS 沙箱私有 DNS、Windows 路径匹配及速率限制账户处理等问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

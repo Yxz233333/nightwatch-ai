@@ -1,0 +1,25 @@
+{
+  "id": "586d77896c460d68",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas",
+  "summary": "据官方原始发布记录，这是一篇技术深潜文章，介绍支撑 ChatGPT Atlas 浏览器的新架构 OWL。",
+  "url": "https://openai.com/index/building-chatgpt-atlas",
+  "date": "2025-10-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-30T00:00:00+00:00",
+  "titleEn": "How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas",
+  "titleZh": "我们如何构建 OWL：ChatGPT 浏览器 Atlas 背后的新架构",
+  "details": {
+    "overview": "据官方原始发布记录，这是一篇技术深潜文章，介绍支撑 ChatGPT Atlas 浏览器的新架构 OWL。原文称该架构将 Chromium 解耦，从而实现快速启动、丰富界面以及与 ChatGPT 结合的智能体浏览。材料未披露具体性能数据、实现细节、可用平台与发布时间，相关范围与限制需以官方原文为准。",
+    "keyPoints": [
+      "OWL 是支撑 ChatGPT Atlas 浏览器的新架构",
+      "核心思路为解耦 Chromium，实现快速启动与丰富界面",
+      "支持与 ChatGPT 结合的智能体浏览"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

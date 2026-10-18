@@ -1,0 +1,24 @@
+{
+  "id": "64930b33457417cb",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing our Science Blog",
+  "summary": "Anthropic宣布推出一个关于AI与科学的新博客，将分享Anthropic及其他机构在生物学、物理学和化学等领域的AI加速研究工作，以及与外部研究者和实验室的合作，并讨论科学家使用AI的实用工作流。",
+  "url": "https://www.anthropic.com/research/introducing-anthropic-science",
+  "date": "2026-03-24",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-03-23T23:00:00+00:00",
+  "titleEn": "Introducing our Science Blog",
+  "titleZh": "推出我们的科学博客",
+  "details": {
+    "overview": "Anthropic宣布推出一个关于AI与科学的新博客，将分享Anthropic及其他机构在生物学、物理学和化学等领域的AI加速研究工作，以及与外部研究者和实验室的合作，并讨论科学家使用AI的实用工作流。文章提到AI正在帮助数学家发现新证明、个体研究者完成曾需团队的计算分析、生物学家识别跨数百万细胞数据集的功能基因关系。同时，文章也指出AI仍可能产生幻觉、过度迎合，并讨论了科学实践和科研机构角色面临的社会学问题。",
+    "keyPoints": [
+      "Anthropic推出科学博客，覆盖AI加速生物、物理和化学研究的内容。",
+      "博客将分享与外部研究者的合作及科学家使用AI的实用工作流。",
+      "文章同时指出AI可能产生幻觉、过度迎合，并讨论科研实践面临的问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "0cd842b643a98e96",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Accelerating discovery of liver disease mechanisms",
+  "summary": "Filippo Menolascina利用Co-Scientist工具来识别新的肝病治疗方法，并解释为何现有药物仅对部分患者有效。",
+  "url": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/",
+  "date": "2026-05-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-05-16T08:00:15+00:00",
+  "titleEn": "Accelerating discovery of liver disease mechanisms",
+  "titleZh": "加速发现肝病机制",
+  "details": {
+    "overview": "Filippo Menolascina利用Co-Scientist工具来识别新的肝病治疗方法，并解释为何现有药物仅对部分患者有效。该研究旨在加速肝病机制的发现，但摘要未提供具体研究结果或验证细节。",
+    "keyPoints": [
+      "使用Co-Scientist识别肝病新疗法",
+      "探究现有药物疗效差异原因",
+      "研究聚焦肝病机制发现"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

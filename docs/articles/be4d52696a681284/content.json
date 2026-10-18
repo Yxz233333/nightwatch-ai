@@ -1,0 +1,25 @@
+{
+  "id": "be4d52696a681284",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Advancing organizational transformation for business innovation",
+  "summary": "该官方发布记录称，DNP在十个核心部门部署了ChatGPT Enterprise，并在三个月内实现专利研究速度提升95%、处理量提升10倍、自动化率达87%、知识复用率达70%。",
+  "url": "https://openai.com/index/dai-nippon-printing",
+  "date": "2025-10-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-28T17:00:00+00:00",
+  "titleEn": "Advancing organizational transformation for business innovation",
+  "titleZh": "推进组织转型以驱动业务创新",
+  "details": {
+    "overview": "该官方发布记录称，DNP在十个核心部门部署了ChatGPT Enterprise，并在三个月内实现专利研究速度提升95%、处理量提升10倍、自动化率达87%、知识复用率达70%。材料仅给出上述结果性数字，未说明具体部门、衡量口径与验证方式，推出范围和限制需以原文为准。",
+    "keyPoints": [
+      "DNP在十个核心部门部署ChatGPT Enterprise",
+      "三个月内专利研究提速95%、处理量提升10倍",
+      "自动化率87%、知识复用率70%为发布方声称结果"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

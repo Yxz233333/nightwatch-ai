@@ -1,0 +1,25 @@
+{
+  "id": "da6cdfb573cd585d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Get your VLM running in 3 simple steps on Intel CPUs",
+  "summary": "该官方发布以“三步在英特尔CPU上运行视觉语言模型（VLM）”为主题，面向希望在英特尔处理器上本地部署VLM的用户。",
+  "url": "https://huggingface.co/blog/openvino-vlm",
+  "date": "2025-10-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-10-15T00:00:00+00:00",
+  "titleEn": "Get your VLM running in 3 simple steps on Intel CPUs",
+  "titleZh": "三步在英特尔CPU上运行你的VLM",
+  "details": {
+    "overview": "该官方发布以“三步在英特尔CPU上运行视觉语言模型（VLM）”为主题，面向希望在英特尔处理器上本地部署VLM的用户。材料仅给出标题式摘要，未提供具体步骤、支持模型、性能数据或适用范围，因此无法展开技术细节。其意义在于提示VLM推理可在CPU环境落地，降低对专用加速硬件的依赖，但实际效果与限制需以原文为准。",
+    "keyPoints": [
+      "主题为在英特尔CPU上运行视觉语言模型，强调三步式流程。",
+      "材料未给出具体步骤、支持模型与性能数据。",
+      "推出范围和限制需以官方原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

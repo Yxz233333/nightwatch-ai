@@ -1,0 +1,25 @@
+{
+  "id": "42c8525a26502cf7",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Separating signal from noise in coding evaluations",
+  "summary": "官方发布称，OpenAI 的一项新分析揭示了流行编程基准 SWE-Bench Pro 存在的问题，引发对 AI 模型评测可靠性与准确性的担忧。",
+  "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+  "date": "2026-07-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-08T13:00:00+00:00",
+  "titleEn": "Separating signal from noise in coding evaluations",
+  "titleZh": "在编程评测中区分信号与噪声",
+  "details": {
+    "overview": "官方发布称，OpenAI 的一项新分析揭示了流行编程基准 SWE-Bench Pro 存在的问题，引发对 AI 模型评测可靠性与准确性的担忧。原始材料仅有一句摘要，未说明具体问题类型、分析方法、受影响的任务比例或对既有评测结论的影响程度。因此可确认的是该分析针对 SWE-Bench Pro 的评测质量提出质疑，具体发现与证据需以原文为准，不宜据此推断各模型排名变化。",
+    "keyPoints": [
+      "OpenAI 新分析指出 SWE-Bench Pro 存在评测问题",
+      "关注点是编程基准的可靠性与准确性",
+      "原文未给出具体问题细节与影响范围"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

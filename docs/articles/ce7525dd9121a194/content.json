@@ -1,0 +1,25 @@
+{
+  "id": "ce7525dd9121a194",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Working with files in ChatGPT",
+  "summary": "该页面介绍在ChatGPT中处理文件的实用方法，包括查找信息、整理内容、转换格式，以及在工作流中使用文档。",
+  "url": "https://openai.com/academy/working-with-files",
+  "date": "2026-04-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-10T00:00:00+00:00",
+  "titleEn": "Working with files in ChatGPT",
+  "titleZh": "在ChatGPT中处理文件",
+  "details": {
+    "overview": "该页面介绍在ChatGPT中处理文件的实用方法，包括查找信息、整理内容、转换格式，以及在工作流中使用文档。原文侧重操作方式，未说明支持的文件类型、大小限制或具体工作流案例。",
+    "keyPoints": [
+      "涵盖查找信息与整理文件内容",
+      "包括转换文档并在工作流中使用",
+      "原文未列出支持的文件类型与限制"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

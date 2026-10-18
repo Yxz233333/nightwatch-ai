@@ -1,0 +1,24 @@
+{
+  "id": "d66245a4cd32020d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Partners With AI Infrastructure Ecosystem to Unveil Reference Design for Giga-Scale AI Factories",
+  "summary": "在硅谷举行的 AI Infrastructure Summit 上，英伟达加速计算副总裁 Ian Buck 提出将传统数据中心转变为完全集成的 AI 工厂的愿景。",
+  "url": "https://blogs.nvidia.com/blog/ai-factories-reference-design/",
+  "date": "2025-09-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-09-09T15:00:29+00:00",
+  "titleEn": "NVIDIA Partners With AI Infrastructure Ecosystem to Unveil Reference Design for Giga-Scale AI Factories",
+  "titleZh": "英伟达携手 AI 基础设施生态发布千兆级 AI 工厂参考设计",
+  "details": {
+    "overview": "在硅谷举行的 AI Infrastructure Summit 上，英伟达加速计算副总裁 Ian Buck 提出将传统数据中心转变为完全集成的 AI 工厂的愿景。作为该计划的一部分，英伟达正在开发参考设计，供全球合作伙伴与企业共享，并涉及 NVIDIA Omniverse 相关内容。摘要未说明参考设计的具体组成、发布时间或合作方名单，实际范围与限制需以官方原文为准。",
+    "keyPoints": [
+      "Ian Buck 在硅谷 AI Infrastructure Summit 提出 AI 工厂愿景",
+      "英伟达正开发面向合作伙伴与企业的参考设计",
+      "摘要提及 NVIDIA Omniverse，但未披露设计细节"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

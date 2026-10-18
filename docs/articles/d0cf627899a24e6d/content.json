@@ -1,0 +1,24 @@
+{
+  "id": "d0cf627899a24e6d",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Bring Google Gemini to your PC with the new Windows app",
+  "summary": "Google 宣布 Gemini 应用登陆 Windows，用户可按 Alt + Space 从任意位置快速唤起。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2026-09-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|Bring Google Gemini to your PC with the new Windows app|2026-09-10",
+  "titleEn": "Bring Google Gemini to your PC with the new Windows app",
+  "titleZh": "通过全新 Windows 应用将 Google Gemini 带到你的 PC",
+  "details": {
+    "overview": "Google 宣布 Gemini 应用登陆 Windows，用户可按 Alt + Space 从任意位置快速唤起。应用提供独立桌面工作区，可连接 Gmail、Google Drive 等 Google 应用以总结文档、查找信息，并支持用 Nano Banana 生成自定义图片和进行深度研究。官方称该应用支持 Windows 10 或更高版本，可在 gemini.google/desktop 下载。其定位是让用户在桌面工作流中直接获取答案和创建视觉内容。",
+    "keyPoints": [
+      "按 Alt + Space 可从 PC 任意位置即时唤起 Gemini。",
+      "可连接 Gmail、Google Drive 总结文档并快速查找信息。",
+      "支持 Nano Banana 生成自定义图片，适用于 Windows 10 或更高版本。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

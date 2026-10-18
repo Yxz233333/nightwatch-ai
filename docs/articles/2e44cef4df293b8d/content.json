@@ -1,0 +1,24 @@
+{
+  "id": "2e44cef4df293b8d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Robots’ Holiday Wishes Come True: NVIDIA Jetson Platform Offers High-Performance Edge AI at Festive Prices",
+  "summary": "NVIDIA 官方博客更新，介绍 Jetson 系列开发者套件在节日期间面向开发者、研究人员、爱好者和学生的特别折扣，用于边缘 AI 与机器人开发。",
+  "url": "https://blogs.nvidia.com/blog/jetson-edge-ai-holiday-2025/",
+  "date": "2025-12-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-12-04T16:00:07+00:00",
+  "titleEn": "Robots’ Holiday Wishes Come True: NVIDIA Jetson Platform Offers High-Performance Edge AI at Festive Prices",
+  "titleZh": "机器人节日愿望成真：NVIDIA Jetson 平台以节日价格提供高性能边缘 AI",
+  "details": {
+    "overview": "NVIDIA 官方博客更新，介绍 Jetson 系列开发者套件在节日期间面向开发者、研究人员、爱好者和学生的特别折扣，用于边缘 AI 与机器人开发。原文摘要仅提及折扣“通过……”后即截断，未给出具体价格、折扣幅度、适用型号与活动期限，因此这些细节无法确认。",
+    "keyPoints": [
+      "面向开发者、研究人员、爱好者和学生提供 Jetson 开发者套件节日折扣。",
+      "用途定位为边缘 AI 与机器人开发。",
+      "当前收录材料未提供具体价格、型号范围与活动期限。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

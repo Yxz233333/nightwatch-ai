@@ -1,0 +1,24 @@
+{
+  "id": "86e612e61a1e1e0b",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Gemini Agent is now available on the web, to Google AI Ultra subscribers 18+ in the US.",
+  "summary": "谷歌宣布推出实验性工具 Gemini Agent，可在用户保持控制的前提下端到端完成多步骤任务。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2025-11-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|Gemini Agent is now available on the web, to Google AI Ultra subscribers 18+ in the US.|2025-11-18",
+  "titleEn": "Gemini Agent is now available on the web, to Google AI Ultra subscribers 18+ in the US.",
+  "titleZh": "Gemini Agent 现已在网页端向美国 18 岁以上 Google AI Ultra 订阅用户开放",
+  "details": {
+    "overview": "谷歌宣布推出实验性工具 Gemini Agent，可在用户保持控制的前提下端到端完成多步骤任务。该工具借助 Gemini 3 的推理与工具调用能力把复杂任务拆解为小步骤，必要时调用 Gmail、Calendar 以及深度研究、Canvas 等 Gemini 工具，并可通过实时网页浏览进行调研和操作。官方称其在发送邮件、购买等关键操作前会请求用户确认，用户可随时暂停或接管。谷歌表示这是迈向通用智能体的第一步。",
+    "keyPoints": [
+      "实验性工具，可端到端完成多步骤任务，用户可随时暂停或接管",
+      "基于 Gemini 3 的推理与工具调用，可调用 Gmail、Calendar、深度研究与 Canvas",
+      "关键操作前请求确认，并支持实时网页浏览调研与操作"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

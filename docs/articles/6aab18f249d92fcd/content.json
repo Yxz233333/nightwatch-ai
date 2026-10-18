@@ -1,0 +1,25 @@
+{
+  "id": "6aab18f249d92fcd",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Responding to the next frontier of critical cyber capabilities",
+  "summary": "OpenAI 官方发布信息显示，其正在分享针对 Astra 的初步网络安全评估结果，并说明为加强防护措施与安全控制所采取的步骤。",
+  "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+  "date": "2026-08-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-07T15:20:00+00:00",
+  "titleEn": "Responding to the next frontier of critical cyber capabilities",
+  "titleZh": "应对关键网络能力的新前沿",
+  "details": {
+    "overview": "OpenAI 官方发布信息显示，其正在分享针对 Astra 的初步网络安全评估结果，并说明为加强防护措施与安全控制所采取的步骤。当前收录材料未提供评估的具体方法、指标或结论细节，也未说明 Astra 的推出范围与限制，相关细节需以官方原文为准。",
+    "keyPoints": [
+      "OpenAI 分享 Astra 的初步网络安全评估结果",
+      "同步说明加强防护措施与安全控制的举措",
+      "当前收录材料未提供评估方法与具体结论细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

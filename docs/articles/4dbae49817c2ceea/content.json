@@ -1,0 +1,24 @@
+{
+  "id": "4dbae49817c2ceea",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "New Adobe Premiere Color Grading Mode Accelerated on NVIDIA GPUs",
+  "summary": "文章介绍，2026年4月18日至22日在拉斯维加斯举行的NAB Show将展示视频编辑应用的新功能与优化，吸引超过6万名广播、媒体和娱乐行业专业人士。",
+  "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-nab-adobe-premiere-color-mode/",
+  "date": "2026-04-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-04-15T13:00:38+00:00",
+  "titleEn": "New Adobe Premiere Color Grading Mode Accelerated on NVIDIA GPUs",
+  "titleZh": "Adobe Premiere全新调色模式获NVIDIA GPU加速",
+  "details": {
+    "overview": "文章介绍，2026年4月18日至22日在拉斯维加斯举行的NAB Show将展示视频编辑应用的新功能与优化，吸引超过6万名广播、媒体和娱乐行业专业人士。其中，Adobe Premiere的新调色模式在NVIDIA GPU上获得加速，面向视频编辑、直播和专业创作者。",
+    "keyPoints": [
+      "NAB Show 2026于4月18-22日在拉斯维加斯举行。",
+      "Adobe Premiere新调色模式在NVIDIA GPU上加速。",
+      "活动汇集超6万名广播媒体娱乐专业人士。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

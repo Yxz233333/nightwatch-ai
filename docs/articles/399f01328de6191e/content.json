@@ -1,0 +1,25 @@
+{
+  "id": "399f01328de6191e",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing Gemini 3.5 Flash Cyber",
+  "summary": "谷歌发布 Gemini 3.5 Flash Cyber，这是一款轻量级网络安全模型，用于发现并修补漏洞。",
+  "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+  "date": "2026-07-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-07-17T15:00:11+00:00",
+  "titleEn": "Introducing Gemini 3.5 Flash Cyber",
+  "titleZh": "推出 Gemini 3.5 Flash Cyber",
+  "details": {
+    "overview": "谷歌发布 Gemini 3.5 Flash Cyber，这是一款轻量级网络安全模型，用于发现并修补漏洞。原始发布内容仅说明其定位与用途，未披露具体能力指标、适用范围或限制，相关细节需以官方原文为准。",
+    "keyPoints": [
+      "谷歌推出轻量级网络安全模型 Gemini 3.5 Flash Cyber。",
+      "该模型定位为发现并修补漏洞。",
+      "当前收录材料未提供能力指标与适用范围。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "a5512d2cdec10032",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT 更新：December 11, 2025",
+  "summary": "OpenAI发布GPT-5系列升级版GPT-5.2，包含Instant、Thinking和Pro三个模型，知识截止更新至2025年8月。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#december-11-2025",
+  "date": "2025-12-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "ChatGPT 更新：December 11, 2025",
+  "titleZh": "ChatGPT 更新：2025年12月11日",
+  "details": {
+    "overview": "OpenAI发布GPT-5系列升级版GPT-5.2，包含Instant、Thinking和Pro三个模型，知识截止更新至2025年8月。Instant侧重日常信息查询、操作指南、技术写作和翻译，并保留更口语化语气；Thinking面向表格格式化、财务建模、幻灯片、编程和长文档总结等较难任务；Pro定位为处理高难度问题时更可信的选项。免费用户默认使用Instant，可手动选择Thinking，自动推理切换被取消。",
+    "keyPoints": [
+      "GPT-5.2含Instant、Thinking、Pro三款模型",
+      "三款模型知识截止均更新至2025年8月",
+      "免费用户默认Instant，可手动选Thinking"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

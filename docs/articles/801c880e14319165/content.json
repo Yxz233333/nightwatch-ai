@@ -1,0 +1,25 @@
+{
+  "id": "801c880e14319165",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Protecting people from harmful manipulation",
+  "summary": "该文称Google DeepMind研究AI在金融、健康等领域的有害操纵风险，并据此提出新的安全措施。",
+  "url": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+  "date": "2026-03-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-03-25T16:46:20+00:00",
+  "titleEn": "Protecting people from harmful manipulation",
+  "titleZh": "保护人们免受有害操纵",
+  "details": {
+    "overview": "该文称Google DeepMind研究AI在金融、健康等领域的有害操纵风险，并据此提出新的安全措施。原文摘要仅一句话，未说明研究方法、风险分类、措施内容或适用范围，也未提及是否经过独立验证。因此只能确认其研究对象为AI有害操纵风险，研究意义在于推动相应安全举措，具体细节需查阅原文。",
+    "keyPoints": [
+      "研究聚焦AI有害操纵风险，涉及金融与健康等领域。",
+      "作者称研究推动了新的安全措施。",
+      "摘要信息有限，未披露方法、措施细节与适用范围。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

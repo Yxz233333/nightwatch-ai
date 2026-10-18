@@ -1,0 +1,24 @@
+{
+  "id": "ec686151cde1f925",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Coding agents in the social sciences",
+  "summary": "该文基于2026年初对1260名定量社会科学家的基线调查，考察编程智能体在研究中的使用情况。",
+  "url": "https://www.anthropic.com/research/coding-agents-social-sciences",
+  "date": "2026-05-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-05-27T17:51:10.599000+00:00",
+  "titleEn": "Coding agents in the social sciences",
+  "titleZh": "社会科学研究中的编程智能体",
+  "details": {
+    "overview": "该文基于2026年初对1260名定量社会科学家的基线调查，考察编程智能体在研究中的使用情况。摘要表示，81%的受访者用过生成式AI辅助研究，但仅20%每周多次使用命令行编程智能体，其中Claude Code最常见。使用率在学科、职业阶段、性别和院校类型间差异明显，作者强调样本非代表性、组间比较仅为描述性，不能解读为因果。",
+    "keyPoints": [
+      "81%受访者用过生成式AI，仅20%定期使用编程智能体",
+      "Claude Code最常用，86%的编程智能体用户报告使用",
+      "使用率在学科、职业阶段、性别与院校类型间差异显著"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

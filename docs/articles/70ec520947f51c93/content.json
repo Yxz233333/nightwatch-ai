@@ -1,0 +1,23 @@
+{
+  "id": "70ec520947f51c93",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "GPT-5.4 mini in ChatGPT",
+  "summary": "该官方发布称，GPT-5.4 mini正在ChatGPT中推出。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-54-mini-in-chatgpt",
+  "date": "2026-03-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "GPT-5.4 mini in ChatGPT",
+  "titleZh": "ChatGPT中的GPT-5.4 mini",
+  "details": {
+    "overview": "该官方发布称，GPT-5.4 mini正在ChatGPT中推出。Free和Go用户可通过“+”菜单中的“Thinking”功能使用；其他用户则将其作为GPT-5.4 Thinking的速率限制回退选项。Plus、Pro等付费用户在达到速率限制时会回退到GPT-5.4 mini，以在高使用量时继续获得推理能力。企业客户可选择将Auto路由默认设为GPT-5.4 mini。该模型不会出现在模型选择器中。",
+    "keyPoints": [
+      "Free和Go用户经“+”菜单的“Thinking”功能使用GPT-5.4 mini。",
+      "付费用户在GPT-5.4 Thinking达到速率限制时回退到该模型。",
+      "企业可将Auto路由默认设为GPT-5.4 mini，模型选择器中不显示。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "a678ded00b6adae9",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Codex for every role, tool, and workflow",
+  "summary": "该条目介绍 Codex 的新插件、Sites 和注释功能，旨在帮助分析师、营销人员、设计师、投资者等团队借助 AI 完成更多工作。",
+  "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+  "date": "2026-06-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-02T09:00:00+00:00",
+  "titleEn": "Codex for every role, tool, and workflow",
+  "titleZh": "面向每个角色、工具与工作流的 Codex",
+  "details": {
+    "overview": "该条目介绍 Codex 的新插件、Sites 和注释功能，旨在帮助分析师、营销人员、设计师、投资者等团队借助 AI 完成更多工作。材料仅为功能方向概括，未说明各插件的具体能力、可用范围或使用条件，读者应以官方原始发布记录为准。",
+    "keyPoints": [
+      "推出新插件、Sites 与注释功能",
+      "面向分析师、营销、设计、投资等团队",
+      "材料为方向概括，具体能力以原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

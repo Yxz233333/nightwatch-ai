@@ -1,0 +1,25 @@
+{
+  "id": "eecbdecd3ae2b2a5",
+  "section": "news",
+  "category": "工具动态",
+  "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
+  "summary": "OpenAI与Figma推出新的Codex集成，将代码与设计连接起来，使团队能够在实现与Figma画布之间来回切换，从而更快迭代和交付。",
+  "url": "https://openai.com/index/figma-partnership",
+  "date": "2026-02-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-26T06:00:00+00:00",
+  "titleEn": "OpenAI Codex and Figma launch seamless code-to-design experience",
+  "titleZh": "OpenAI Codex与Figma推出无缝代码到设计体验",
+  "details": {
+    "overview": "OpenAI与Figma推出新的Codex集成，将代码与设计连接起来，使团队能够在实现与Figma画布之间来回切换，从而更快迭代和交付。原文摘要仅说明集成方向与目标，未披露可用范围、上线时间或具体工作流细节。相关推出范围和限制以原文为准。",
+    "keyPoints": [
+      "OpenAI与Figma推出Codex集成，连接代码与设计。",
+      "团队可在实现与Figma画布之间切换以加快迭代。",
+      "当前收录材料未提供可用范围与上线时间。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

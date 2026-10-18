@@ -1,0 +1,24 @@
+{
+  "id": "acaa82336ff959e1",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Preparing for the 2026 US midterms",
+  "summary": "该官方发布介绍Anthropic在2026年美国中期选举前强化Claude选举保障的措施。",
+  "url": "https://www.anthropic.com/news/2026-us-midterms",
+  "date": "2026-10-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-10-14T18:33:00+00:00",
+  "titleEn": "Preparing for the 2026 US midterms",
+  "titleZh": "为2026年美国中期选举做准备",
+  "details": {
+    "overview": "该官方发布介绍Anthropic在2026年美国中期选举前强化Claude选举保障的措施。文中称，基于一周内25万次对话的分析，美国用户涉及政治、公共政策或社会议题的对话约占5.75%，专门涉及选举或投票的约0.51%，直接询问投票对象的约0.01%，违反选举诚信政策的约0.002%。公司称将接入Democracy Works的官方投票信息，并在选举夜展示实时结果，同时公布政治中立性评估及外部机构评审结果。",
+    "keyPoints": [
+      "官方称一周25万次对话样本中，美国政治相关对话约占5.75%，选举或投票相关约占0.51%。",
+      "Claude.ai将接入Democracy Works的官方投票信息，并在选举夜及之后展示最新结果。",
+      "公司称Opus 5.5、Sonnet 5.5和Haiku 5.5在政治中立性评估中得分99%。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "df11faddb4e6f23c",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+  "summary": "原文介绍 Model ML 使用 GPT-5.6 Sol 将金融工作从研究和分析推进到可编辑、可追溯的 PowerPoint 演示文稿和 Excel 工作簿。",
+  "url": "https://openai.com/index/model-ml",
+  "date": "2026-08-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-10T12:00:00+00:00",
+  "titleEn": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+  "titleZh": "Model ML 借助 GPT-5.6 Sol 更高效完成金融工作",
+  "details": {
+    "overview": "原文介绍 Model ML 使用 GPT-5.6 Sol 将金融工作从研究和分析推进到可编辑、可追溯的 PowerPoint 演示文稿和 Excel 工作簿。材料仅给出这一概述，未披露具体效率提升幅度、使用规模或客户案例。该动态属于模型应用案例，展示 GPT-5.6 Sol 在金融分析与文档产出流程中的用途。相关结论需以官方原文为准。",
+    "keyPoints": [
+      "Model ML 使用 GPT-5.6 Sol 承担金融研究和分析工作。",
+      "产出包括可编辑、可追溯的 PowerPoint 演示文稿和 Excel 工作簿。",
+      "当前收录材料未提供具体效率数据或使用规模。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

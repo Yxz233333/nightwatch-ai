@@ -1,0 +1,24 @@
+{
+  "id": "233eead576d2ec9a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Statement on the comments from Secretary of War Pete Hegseth",
+  "summary": "Anthropic 回应战争部长 Pete Hegseth 在 X 上表示将把该公司列为供应链风险。",
+  "url": "https://www.anthropic.com/news/statement-comments-secretary-war",
+  "date": "2026-02-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-02-27T23:38:00+00:00",
+  "titleEn": "Statement on the comments from Secretary of War Pete Hegseth",
+  "titleZh": "关于战争部长 Pete Hegseth 言论的声明",
+  "details": {
+    "overview": "Anthropic 回应战争部长 Pete Hegseth 在 X 上表示将把该公司列为供应链风险。公司称双方谈判因两项例外陷入僵局：对美国人进行大规模国内监控，以及完全自主武器。Anthropic 表示尚未收到战争部或白宫的正式沟通，并称该认定史无前例、在法律上站不住脚，将在法庭上挑战；同时说明依 10 USC 3252，该认定只能影响 Claude 在战争部合同中的使用。",
+    "keyPoints": [
+      "谈判僵局源于大规模国内监控与完全自主武器两项例外",
+      "Anthropic 称供应链风险认定史无前例，将在法庭挑战",
+      "公司称该认定依法仅限战争部合同内的 Claude 使用"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

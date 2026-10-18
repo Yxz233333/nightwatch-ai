@@ -1,0 +1,25 @@
+{
+  "id": "13853a284de65cbc",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing MentalHealthBench",
+  "summary": "该消息介绍 MentalHealthBench，一个由专家参与构建的基准，用于评估 AI 在贴近现实的心理健康对话中给出的回复是否有帮助且安全。",
+  "url": "https://openai.com/index/introducing-mentalhealthbench",
+  "date": "2026-09-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-23T10:00:00+00:00",
+  "titleEn": "Introducing MentalHealthBench",
+  "titleZh": "推出 MentalHealthBench",
+  "details": {
+    "overview": "该消息介绍 MentalHealthBench，一个由专家参与构建的基准，用于评估 AI 在贴近现实的心理健康对话中给出的回复是否有帮助且安全。当前收录材料仅给出这一概述，未说明基准的题目构成、评分方式或验证结果，相关细节需以原始发布为准。",
+    "keyPoints": [
+      "MentalHealthBench 是面向心理健康对话的评估基准",
+      "关注 AI 回复是否有帮助且安全",
+      "由专家参与构建，当前收录材料未提供具体评分方法"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

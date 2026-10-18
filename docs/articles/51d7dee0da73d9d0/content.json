@@ -1,0 +1,24 @@
+{
+  "id": "51d7dee0da73d9d0",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "From Pilot to Profit: Survey Reveals the Financial Services Industry Is Doubling Down on AI Investment and Open Source",
+  "summary": "该文基于第六份年度“NVIDIA 金融服务 AI 现状”调查报告，指出 AI 已在金融服务中占据中心位置，用于自动化算法交易的研究与执行、帮助银行更准确地检测欺诈和洗钱，同时改善风险管理并加速文档处理。",
+  "url": "https://blogs.nvidia.com/blog/ai-in-financial-services-survey-2026/",
+  "date": "2026-01-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-01-22T14:00:54+00:00",
+  "titleEn": "From Pilot to Profit: Survey Reveals the Financial Services Industry Is Doubling Down on AI Investment and Open Source",
+  "titleZh": "从试点到盈利：调查显示金融服务业加倍投资 AI 与开源",
+  "details": {
+    "overview": "该文基于第六份年度“NVIDIA 金融服务 AI 现状”调查报告，指出 AI 已在金融服务中占据中心位置，用于自动化算法交易的研究与执行、帮助银行更准确地检测欺诈和洗钱，同时改善风险管理并加速文档处理。摘要未披露调查样本量或具体投资数据。",
+    "keyPoints": [
+      "AI 用于自动化算法交易的研究与执行。",
+      "帮助银行检测欺诈和洗钱，改善风险管理。",
+      "调查显示金融服务业加倍投资 AI 与开源。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

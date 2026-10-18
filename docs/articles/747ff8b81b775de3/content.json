@@ -1,0 +1,24 @@
+{
+  "id": "747ff8b81b775de3",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA and Oracle to Accelerate Enterprise AI and Data Processing",
+  "summary": "报道称在Oracle AI World上，Oracle宣布新的OCI相关方案，NVIDIA与Oracle将合作加速企业AI与数据处理。",
+  "url": "https://blogs.nvidia.com/blog/nvidia-oracle-accelerate-enterprise-ai-data-processing/",
+  "date": "2025-10-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-10-14T12:30:20+00:00",
+  "titleEn": "NVIDIA and Oracle to Accelerate Enterprise AI and Data Processing",
+  "titleZh": "NVIDIA与Oracle携手加速企业AI与数据处理",
+  "details": {
+    "overview": "报道称在Oracle AI World上，Oracle宣布新的OCI相关方案，NVIDIA与Oracle将合作加速企业AI与数据处理。材料指出企业对快速、可扩展且安全的企业级AI应用需求上升，行业正转向能简化数据处理并在业务各层提供智能的平台。但原文摘要在此处截断，未披露具体产品、性能指标或可用时间，细节需以官方原文为准。",
+    "keyPoints": [
+      "合作在Oracle AI World上宣布，涉及新的OCI方案。",
+      "目标为加速企业AI应用与数据处理。",
+      "具体产品、性能与可用时间未在材料中披露。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

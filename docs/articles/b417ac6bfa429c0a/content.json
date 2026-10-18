@@ -1,0 +1,25 @@
+{
+  "id": "b417ac6bfa429c0a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Smol2Operator: Post-Training GUI Agents for Computer Use",
+  "summary": "该条目仅有标题，摘要与原文正文均缺失，无法确认作者、机构、方法细节或实验结果。",
+  "url": "https://huggingface.co/blog/smol2operator",
+  "date": "2025-09-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-09-23T00:00:00+00:00",
+  "titleEn": "Smol2Operator: Post-Training GUI Agents for Computer Use",
+  "titleZh": "Smol2Operator：面向计算机使用的 GUI 智能体后训练",
+  "details": {
+    "overview": "该条目仅有标题，摘要与原文正文均缺失，无法确认作者、机构、方法细节或实验结果。从标题可判断，其主题是针对图形用户界面（GUI）智能体的后训练工作，目标是让模型具备操作计算机的能力。由于缺少摘要与正文，本介绍不对其技术路线、性能表现或适用场景作任何推断，相关信息需以原始发布内容为准。",
+    "keyPoints": [
+      "标题指向 GUI 智能体的后训练方向，面向计算机操作任务。",
+      "摘要与原文正文缺失，无法核实方法与结果。",
+      "具体技术细节与效果需以原始发布为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

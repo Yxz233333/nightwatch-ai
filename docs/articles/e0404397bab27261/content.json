@@ -1,0 +1,23 @@
+{
+  "id": "e0404397bab27261",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Opening up the in-house search API",
+  "summary": "DeepSeek 宣布其网页和 API 搜索能力由内部 DeepSeek 搜索引擎提供，该引擎每天处理来自全球的数亿次搜索请求。",
+  "url": "https://api-docs.deepseek.com/updates/#opening-up-the-in-house-search-api",
+  "date": "2026-10-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "DeepSeek 官方更新",
+  "titleEn": "Opening up the in-house search API",
+  "titleZh": "开放内部搜索 API",
+  "details": {
+    "overview": "DeepSeek 宣布其网页和 API 搜索能力由内部 DeepSeek 搜索引擎提供，该引擎每天处理来自全球的数亿次搜索请求。DeepSeek Search 被描述为 AI 原生通用搜索引擎，索引数千亿网页，支持多语言搜索，并实时返回相关、权威和及时的结果。原文称其通过严格检测机制过滤 SEO 垃圾、GEO 操纵和低质量 AIGC，为普通用户和大模型提供可信信息。具体使用方式需参阅 Search & Fetch 指南。",
+    "keyPoints": [
+      "DeepSeek 搜索由内部引擎驱动，每天处理全球数亿次请求。",
+      "索引数千亿网页，支持多语言并实时返回结果。",
+      "声称可过滤 SEO 垃圾、GEO 操纵和低质量 AIGC。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

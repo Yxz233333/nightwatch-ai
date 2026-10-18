@@ -1,0 +1,25 @@
+{
+  "id": "e8e847430e6b3aed",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.45.0 发布",
+  "summary": "Codex CLI 发布 0.45.0 版本，包含一项破坏性变更：`codex login --api-key` 被替换为 `codex login --with-api-key`，后者从标准输入读取密钥以提升安全性。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.45.0",
+  "date": "2025-10-07",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-10-06T19:21:42+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.45.0 发布",
+  "titleZh": "Codex CLI 0.45.0 发布",
+  "details": {
+    "overview": "Codex CLI 发布 0.45.0 版本，包含一项破坏性变更：`codex login --api-key` 被替换为 `codex login --with-api-key`，后者从标准输入读取密钥以提升安全性。该版本还包含实验性支持 OAuth MCP 服务器认证，以及多项修复和改进，例如仅将最终消息写入标准输出、为未设置默认模型的 Windows 用户默认使用 gpt-5、移除对无需 OAuth 的可流式 HTTP MCP 服务器的实验性客户端要求、修复终端主题更新后重新聚焦时的颜色问题、修复推理努力标题、更新设备代码登录文案、修复命令输出截断占用过多上下文窗口的问题、初步支持并行工具调用以及脉冲点加载状态。",
+    "keyPoints": [
+      "破坏性变更：登录改用 --with-api-key 从标准输入读取密钥",
+      "实验性支持 OAuth MCP 服务器认证",
+      "多项修复与改进，包括默认模型、输出截断和并行工具调用"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

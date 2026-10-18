@@ -1,0 +1,25 @@
+{
+  "id": "7e3ed58d327e7981",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Model Routing Is Simple. Until It Isn’t.",
+  "summary": "原始发布内容仅有标题“模型路由很简单，直到它不再简单”，未提供摘要或正文，无法确认讨论的具体路由方法、适用场景与结论。",
+  "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+  "date": "2026-07-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-07-15T17:27:01+00:00",
+  "titleEn": "Model Routing Is Simple. Until It Isn’t.",
+  "titleZh": "模型路由很简单，直到它不再简单",
+  "details": {
+    "overview": "原始发布内容仅有标题“模型路由很简单，直到它不再简单”，未提供摘要或正文，无法确认讨论的具体路由方法、适用场景与结论。因此不对其观点作任何推断，具体内容需以官方原文为准。",
+    "keyPoints": [
+      "原文仅提供标题，无摘要与正文。",
+      "无法确认具体路由方法与适用场景。",
+      "相关观点需以官方原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

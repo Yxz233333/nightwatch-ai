@@ -1,0 +1,24 @@
+{
+  "id": "914d2f8504ee71e0",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA DSX Air Boosts Time to Token With Accelerated Simulation for AI Factories",
+  "summary": "NVIDIA 在 GTC 2026 上由创始人兼 CEO 黄仁勋介绍了 NVIDIA DSX Air，该工具属于 DSX 平台中的 DSX Sim 部分。",
+  "url": "https://blogs.nvidia.com/blog/dsx-air-simulation-ai-factories/",
+  "date": "2026-03-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-03-16T20:00:48+00:00",
+  "titleEn": "NVIDIA DSX Air Boosts Time to Token With Accelerated Simulation for AI Factories",
+  "titleZh": "NVIDIA DSX Air 通过加速仿真提升 AI 工厂的 Time to Token",
+  "details": {
+    "overview": "NVIDIA 在 GTC 2026 上由创始人兼 CEO 黄仁勋介绍了 NVIDIA DSX Air，该工具属于 DSX 平台中的 DSX Sim 部分。报道称，通过在仿真中搭建 AI 工厂，可将部署时间从数月缩短至数天，从而加速下一轮工业革命。摘要未提供具体技术细节或独立验证结果。",
+    "keyPoints": [
+      "NVIDIA DSX Air 在 GTC 2026 上发布，属于 DSX Sim 平台。",
+      "声称通过仿真将 AI 工厂部署时间从数月缩短至数天。",
+      "目标为加速 AI 工厂部署并提升 Time to Token 效率。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

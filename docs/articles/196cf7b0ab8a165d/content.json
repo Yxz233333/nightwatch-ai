@@ -1,0 +1,24 @@
+{
+  "id": "196cf7b0ab8a165d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic partners with Allen Institute and Howard Hughes Medical Institute to accelerate scientific discovery",
+  "summary": "Anthropic 宣布与艾伦研究所和霍华德·休斯医学研究所（HHMI）建立生命科学创始合作伙伴关系，将 Claude 能力扩展至前沿科学研究。",
+  "url": "https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute",
+  "date": "2026-02-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-02-02T14:02:00+00:00",
+  "titleEn": "Anthropic partners with Allen Institute and Howard Hughes Medical Institute to accelerate scientific discovery",
+  "titleZh": "Anthropic 与艾伦研究所及霍华德·休斯医学研究所合作加速科学发现",
+  "details": {
+    "overview": "Anthropic 宣布与艾伦研究所和霍华德·休斯医学研究所（HHMI）建立生命科学创始合作伙伴关系，将 Claude 能力扩展至前沿科学研究。原文称 HHMI 合作锚定 Janelia 研究园区，聚焦实验室专用 AI 代理；艾伦研究所合作开发多代理 AI 系统，用于多模态数据分析与探索。双方强调透明性、可解释性与研究者自主，称 Claude 用于增强而非替代人类科学判断。",
+    "keyPoints": [
+      "两家机构成为 Anthropic 生命科学领域创始合作伙伴",
+      "HHMI 合作聚焦实验室专用 AI 代理与实验知识整合",
+      "艾伦研究所合作开发多代理系统用于多模态数据分析"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

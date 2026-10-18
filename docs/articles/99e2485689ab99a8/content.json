@@ -1,0 +1,24 @@
+{
+  "id": "99e2485689ab99a8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA GTC 2026: Live Updates on What’s Next in AI",
+  "summary": "这是 NVIDIA GTC 2026 大会的滚动报道页面，内容来自圣何塞现场，涵盖 NVIDIA CEO 黄仁勋的主题演讲、新闻要点、现场演示以及截至 3 月 19 日的一线见闻。",
+  "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+  "date": "2026-03-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-03-20T00:15:17+00:00",
+  "titleEn": "NVIDIA GTC 2026: Live Updates on What’s Next in AI",
+  "titleZh": "NVIDIA GTC 2026：AI 下一步进展实时更新",
+  "details": {
+    "overview": "这是 NVIDIA GTC 2026 大会的滚动报道页面，内容来自圣何塞现场，涵盖 NVIDIA CEO 黄仁勋的主题演讲、新闻要点、现场演示以及截至 3 月 19 日的一线见闻。原始材料仅给出报道范围与时间跨度，未披露具体发布内容或产品细节，因此无法判断大会宣布了哪些技术或合作。该报道的意义在于为关注 AI 硬件与生态动向的读者提供现场信息入口，具体内容需以原文持续更新为准。",
+    "keyPoints": [
+      "报道覆盖黄仁勋主题演讲、新闻要点与现场演示",
+      "内容来自圣何塞现场，持续更新至 3 月 19 日",
+      "原始材料未披露具体发布内容，需以原文为准"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

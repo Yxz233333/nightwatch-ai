@@ -1,0 +1,25 @@
+{
+  "id": "c7cd2b21309eb5c3",
+  "section": "news",
+  "category": "模型动态",
+  "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+  "summary": "该官方发布内容介绍了一位麻省理工学院研究人员如何将 GPT-5.6 Sol 与 Codex 配合使用，以自主方式运行量子计算实验、分析实验结果并校准量子比特。",
+  "url": "https://openai.com/index/codex-quantum-computing-experiments",
+  "date": "2026-09-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-08T17:00:00+00:00",
+  "titleEn": "How GPT-5.6 Sol helps run quantum computing experiments",
+  "titleZh": "GPT-5.6 Sol 如何帮助运行量子计算实验",
+  "details": {
+    "overview": "该官方发布内容介绍了一位麻省理工学院研究人员如何将 GPT-5.6 Sol 与 Codex 配合使用，以自主方式运行量子计算实验、分析实验结果并校准量子比特。当前收录材料仅给出这一概述性描述，未披露具体实验流程、性能数据或验证细节，相关推出范围与限制需以原始发布为准。",
+    "keyPoints": [
+      "MIT 研究人员将 GPT-5.6 Sol 与 Codex 配合使用",
+      "用于自主运行量子计算实验并分析结果",
+      "还涉及量子比特校准，具体细节原文未展开"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

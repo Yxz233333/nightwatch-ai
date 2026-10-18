@@ -1,0 +1,25 @@
+{
+  "id": "898f9b2b0ebc518e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Learning never stops: How AI makes learning continuous",
+  "summary": "该消息介绍OpenAI的一份新报告，探讨学生和教育工作者如何使用ChatGPT，使学习更具连续性，并把支持延伸到课堂之外。",
+  "url": "https://openai.com/index/learning-never-stops",
+  "date": "2026-08-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-08-26T10:00:00+00:00",
+  "titleEn": "Learning never stops: How AI makes learning continuous",
+  "titleZh": "学习永不停歇：AI如何让学习变得连续",
+  "details": {
+    "overview": "该消息介绍OpenAI的一份新报告，探讨学生和教育工作者如何使用ChatGPT，使学习更具连续性，并把支持延伸到课堂之外。当前收录材料仅给出报告主题概述，未披露具体数据、研究方法或结论细节，相关内容需以报告原文为准。",
+    "keyPoints": [
+      "OpenAI新报告聚焦学生与教育工作者如何使用ChatGPT。",
+      "报告主题是让学习更连续，支持延伸至课堂之外。",
+      "当前收录材料未提供具体数据与研究细节，需以报告原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

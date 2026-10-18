@@ -1,0 +1,25 @@
+{
+  "id": "9e8efbf7f080682e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing swift-huggingface: The Complete Swift Client for Hugging Face",
+  "summary": "该条目仅有标题和一句重复标题的摘要，sourceText为空，未提供功能范围、版本信息、支持平台或使用方式。",
+  "url": "https://huggingface.co/blog/swift-huggingface",
+  "date": "2025-12-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-12-05T00:00:00+00:00",
+  "titleEn": "Introducing swift-huggingface: The Complete Swift Client for Hugging Face",
+  "titleZh": "推出swift-huggingface：Hugging Face的完整Swift客户端",
+  "details": {
+    "overview": "该条目仅有标题和一句重复标题的摘要，sourceText为空，未提供功能范围、版本信息、支持平台或使用方式。因此只能确认发布对象是名为swift-huggingface的Swift客户端，用于访问Hugging Face；其余细节材料不足，无法进一步介绍。",
+    "keyPoints": [
+      "发布名为swift-huggingface的Swift客户端",
+      "标题称其为Hugging Face的完整Swift客户端",
+      "原始材料未提供功能与版本细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

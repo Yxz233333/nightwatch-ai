@@ -1,0 +1,25 @@
+{
+  "id": "0404f413972b7779",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.81.0 发布",
+  "summary": "Codex CLI 发布 0.81.0 稳定版本。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.81.0",
+  "date": "2026-01-15",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-01-14T18:12:36+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.81.0 发布",
+  "titleZh": "Codex CLI 0.81.0 发布",
+  "details": {
+    "overview": "Codex CLI 发布 0.81.0 稳定版本。默认 API 模型切换为 gpt-5.2-codex；codex mcp-server 的 codex 工具在响应中加入 threadId，以配合 codex-reply 工具；无头运行自动改用设备码登录；Linux 沙箱支持只读挂载路径；TUI 支持部分工具调用渲染。此外修复了 Zellij 回滚、Windows 不安全命令提示、配置解析错误上报等问题，并新增 config.toml 的 JSON Schema 文档与 Bazel 构建支持。",
+    "keyPoints": [
+      "默认 API 模型切换为 gpt-5.2-codex",
+      "MCP 服务响应加入 threadId，支持 codex-reply",
+      "Linux 沙箱支持只读挂载，无头运行自动设备码登录"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

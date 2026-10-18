@@ -1,0 +1,24 @@
+{
+  "id": "8d6819b8f8c3d60a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Survey Reveals AI Advances in Telecom: Networks and Automation in Driver’s Seat as Return on Investment Climbs",
+  "summary": "NVIDIA 发布第四次年度“电信行业 AI 现状”调查报告，指出 AI 正在加速电信行业转型，成为自主网络和 AI 原生无线基础设施的骨干。",
+  "url": "https://blogs.nvidia.com/blog/ai-in-telco-survey-2026/",
+  "date": "2026-02-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-02-19T14:00:45+00:00",
+  "titleEn": "Survey Reveals AI Advances in Telecom: Networks and Automation in Driver’s Seat as Return on Investment Climbs",
+  "titleZh": "调查显示 AI 在电信领域取得进展：网络与自动化成为主导，投资回报率攀升",
+  "details": {
+    "overview": "NVIDIA 发布第四次年度“电信行业 AI 现状”调查报告，指出 AI 正在加速电信行业转型，成为自主网络和 AI 原生无线基础设施的骨干。同时，电信运营商正在消费者、企业和国家层面加快 AI 采用，该技术正在释放新的业务和收入机会。摘要表示，报告对这些趋势进行了剖析。当前收录材料未提供具体调查数据、样本范围或投资回报率数值。",
+    "keyPoints": [
+      "NVIDIA 发布第四次年度“电信行业 AI 现状”调查报告。",
+      "AI 被视为自主网络和 AI 原生无线基础设施的骨干。",
+      "运营商在消费者、企业和国家层面加速 AI 采用以拓展收入机会。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

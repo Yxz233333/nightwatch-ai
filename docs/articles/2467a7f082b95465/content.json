@@ -1,0 +1,25 @@
+{
+  "id": "2467a7f082b95465",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+  "summary": "该发布标题指向 Granite 4.0 3B Vision，定位为面向企业文档的紧凑型多模态模型。",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+  "date": "2026-03-31",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-03-31T15:10:41+00:00",
+  "titleEn": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+  "titleZh": "Granite 4.0 3B Vision：面向企业文档的紧凑型多模态智能",
+  "details": {
+    "overview": "该发布标题指向 Granite 4.0 3B Vision，定位为面向企业文档的紧凑型多模态模型。原文仅提供标题与一句摘要，未给出参数细节、基准结果、支持文档类型、部署方式或可用范围，也未说明是否经过独立评测。因此本条只能确认其模型名称、规模标识与目标场景为企业文档处理，具体能力与限制需以官方原始发布记录为准。",
+    "keyPoints": [
+      "模型名为 Granite 4.0 3B Vision，属紧凑型多模态方向",
+      "目标场景为企业文档处理",
+      "当前收录材料未提供基准结果、文档类型与可用范围"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

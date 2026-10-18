@@ -1,0 +1,24 @@
+{
+  "id": "adfe8d587efd4950",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Funding better evaluations of AI’s impact on wellbeing",
+  "summary": "Anthropic宣布启动500万美元资助计划，资助独立研究AI对用户福祉的影响。",
+  "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+  "date": "2026-08-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-08-25T17:00:00+00:00",
+  "titleEn": "Funding better evaluations of AI’s impact on wellbeing",
+  "titleZh": "资助更完善的AI对用户福祉影响评估",
+  "details": {
+    "overview": "Anthropic宣布启动500万美元资助计划，资助独立研究AI对用户福祉的影响。受资助者将获得直接资金、模型访问和技术支持，用于构建开源评估，帮助行业衡量模型对使用者的影响，并独立发布成果。原文指出福祉评估难度较高，需要结合长对话等上下文，例如用户有饮食失调史时，常规减重建议可能不合适。申请截止9月21日。",
+    "keyPoints": [
+      "Anthropic启动500万美元计划，资助独立研究AI对用户福祉的影响。",
+      "受资助者获资金、模型访问与技术支持，成果以开源项目发布。",
+      "原文强调福祉评估需结合长对话上下文，单一回答难以判断是否合适。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

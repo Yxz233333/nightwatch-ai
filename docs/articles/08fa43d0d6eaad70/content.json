@@ -1,0 +1,25 @@
+{
+  "id": "08fa43d0d6eaad70",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Towards safety cases for frontier AI training",
+  "summary": "官方发布说明称，这是面向前沿 AI 训练安全案例的早期指南，覆盖技术保障措施、运营实践以及错位事件的调查。",
+  "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+  "date": "2026-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-28T19:00:00+00:00",
+  "titleEn": "Towards safety cases for frontier AI training",
+  "titleZh": "迈向前沿 AI 训练的安全案例",
+  "details": {
+    "overview": "官方发布说明称，这是面向前沿 AI 训练安全案例的早期指南，覆盖技术保障措施、运营实践以及错位事件的调查。原文未给出指南的具体条款、适用对象或实施细节，也未说明其是否经过独立验证。该材料表明相关机构正尝试把前沿训练安全论证制度化，但具体内容与效果仍需查阅原始文件。",
+    "keyPoints": [
+      "发布前沿 AI 训练安全案例的早期指南。",
+      "指南覆盖技术保障、运营实践与错位事件调查。",
+      "当前收录材料未提供具体条款与实施细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

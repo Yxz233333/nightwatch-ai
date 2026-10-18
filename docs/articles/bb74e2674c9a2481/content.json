@@ -1,0 +1,25 @@
+{
+  "id": "bb74e2674c9a2481",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "LeRobot v0.5.0: Scaling Every Dimension",
+  "summary": "该条目为 LeRobot v0.5.0 版本发布，标题称其在各个维度上进行扩展。",
+  "url": "https://huggingface.co/blog/lerobot-release-v050",
+  "date": "2026-03-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-03-09T00:00:00+00:00",
+  "titleEn": "LeRobot v0.5.0: Scaling Every Dimension",
+  "titleZh": "LeRobot v0.5.0：扩展每一个维度",
+  "details": {
+    "overview": "该条目为 LeRobot v0.5.0 版本发布，标题称其在各个维度上进行扩展。但提供的摘要与原文内容仅有标题，未说明具体新增功能、支持的硬件或模型、性能变化与适用范围。因此只能确认这是一次版本更新，无法进一步描述作者声称的改进内容，相关细节需以官方原始发布为准。",
+    "keyPoints": [
+      "LeRobot 发布 v0.5.0 版本",
+      "标题称在多个维度上进行扩展",
+      "材料仅有标题，缺少具体功能说明"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

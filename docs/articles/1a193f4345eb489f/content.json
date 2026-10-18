@@ -1,0 +1,24 @@
+{
+  "id": "1a193f4345eb489f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "The eternal complement",
+  "summary": "该新闻探讨先进 AI 可能对突破性想法背后的常规工作最为重要，并讨论执行环节为何可能塑造下一阶段经济和进步速度。",
+  "url": "https://openai.com/index/the-eternal-complement",
+  "date": "2026-10-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-10-01T17:00:00+00:00",
+  "titleEn": "The eternal complement",
+  "titleZh": "永恒的互补",
+  "details": {
+    "overview": "该新闻探讨先进 AI 可能对突破性想法背后的常规工作最为重要，并讨论执行环节为何可能塑造下一阶段经济和进步速度。原文仅为导语式概述，未提供具体研究、数据或案例，因此无法进一步说明其论证依据。",
+    "keyPoints": [
+      "讨论先进 AI 对突破性想法背后常规工作的作用。",
+      "关注执行环节对下一阶段经济和进步速度的影响。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "021f94ba7649fc78",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+  "summary": "该条目标题指向 Decoupled DiLoCo，被描述为弹性、分布式 AI 训练的新前沿。",
+  "url": "https://deepmind.google/blog/decoupled-diloco/",
+  "date": "2026-04-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-04-22T10:20:03+00:00",
+  "titleEn": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+  "titleZh": "Decoupled DiLoCo：弹性分布式 AI 训练的新前沿",
+  "details": {
+    "overview": "该条目标题指向 Decoupled DiLoCo，被描述为弹性、分布式 AI 训练的新前沿。但提供的 sourceText 为空，摘要仅为标题重复，缺少具体方法、实验设置与结果数据。因此无法介绍其研究对象与作者声称的结论，相关信息需以原始发布内容为准。",
+    "keyPoints": [
+      "主题为弹性分布式 AI 训练方法 Decoupled DiLoCo",
+      "原文正文缺失，仅有标题与重复摘要",
+      "方法细节、实验与结果均无法从现有材料确认"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

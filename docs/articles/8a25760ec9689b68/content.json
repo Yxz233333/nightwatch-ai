@@ -1,0 +1,25 @@
+{
+  "id": "8a25760ec9689b68",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing GPT-5.3-Codex",
+  "summary": "官方简介称，GPT-5.3-Codex 是一个 Codex 原生的智能体，将前沿编程性能与通用推理相结合，以支持长周期、真实世界的技术工作。",
+  "url": "https://openai.com/index/introducing-gpt-5-3-codex",
+  "date": "2026-02-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-05T00:00:00+00:00",
+  "titleEn": "Introducing GPT-5.3-Codex",
+  "titleZh": "推出 GPT-5.3-Codex",
+  "details": {
+    "overview": "官方简介称，GPT-5.3-Codex 是一个 Codex 原生的智能体，将前沿编程性能与通用推理相结合，以支持长周期、真实世界的技术工作。原始发布内容仅提供这一句描述，未说明具体基准成绩、上下文长度或可用渠道，相关细节需以原文为准。",
+    "keyPoints": [
+      "定位为 Codex 原生智能体",
+      "结合前沿编程性能与通用推理",
+      "面向长周期、真实世界技术工作"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

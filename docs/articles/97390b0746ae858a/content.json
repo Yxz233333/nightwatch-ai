@@ -1,0 +1,25 @@
+{
+  "id": "97390b0746ae858a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Finance workflows with ChatGPT Work",
+  "summary": "该官方内容介绍如何将 ChatGPT Work 应用于财务场景，涵盖报告编制、差异分析、预测、月度复盘以及可直接用于决策的财务交付物。",
+  "url": "https://openai.com/academy/how-finance-teams-use-codex",
+  "date": "2026-05-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-12T15:00:00+00:00",
+  "titleEn": "Finance workflows with ChatGPT Work",
+  "titleZh": "用 ChatGPT Work 构建财务工作流",
+  "details": {
+    "overview": "该官方内容介绍如何将 ChatGPT Work 应用于财务场景，涵盖报告编制、差异分析、预测、月度复盘以及可直接用于决策的财务交付物。材料仅给出主题范围，未披露具体操作步骤、适用条件或效果数据，因此无法判断其实际效率提升。对财务从业者而言，其意义在于了解官方提出的工作流方向，具体落地仍需以原文和自身场景为准。",
+    "keyPoints": [
+      "面向报告、差异分析、预测与月度复盘等财务场景",
+      "强调产出可直接用于决策的财务交付物",
+      "原文未给出具体流程细节与效果数据"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

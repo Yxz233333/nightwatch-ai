@@ -1,0 +1,25 @@
+{
+  "id": "1d5f7a444015d283",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Developing Gemini 4 Argon responsibly and safely",
+  "summary": "该条目为 Gemini 4 Argon 的官方发布记录，主题是负责任且安全地开发这一模型。",
+  "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+  "date": "2026-10-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-10-13T19:43:07+00:00",
+  "titleEn": "Developing Gemini 4 Argon responsibly and safely",
+  "titleZh": "负责任且安全地开发 Gemini 4 Argon",
+  "details": {
+    "overview": "该条目为 Gemini 4 Argon 的官方发布记录，主题是负责任且安全地开发这一模型。现有材料仅有标题与一句摘要，未提供具体安全措施、评估方法、适用范围或限制等信息，因此无法展开介绍其技术细节与结论。推出范围和限制应以官方原文为准。",
+    "keyPoints": [
+      "主题为负责任且安全地开发 Gemini 4 Argon",
+      "现有材料未披露具体安全措施与评估细节",
+      "推出范围和限制需以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

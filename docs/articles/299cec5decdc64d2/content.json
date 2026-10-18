@@ -1,0 +1,25 @@
+{
+  "id": "299cec5decdc64d2",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Bringing GPT-Rosalind to academic research labs",
+  "summary": "该新闻介绍 Rosalind 学术计划，为符合条件的学术实验室提供赞助访问 GPT-Rosalind 及相关工具的机会，以推进生命科学研究。",
+  "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+  "date": "2026-10-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-10-15T19:00:00+00:00",
+  "titleEn": "Bringing GPT-Rosalind to academic research labs",
+  "titleZh": "将 GPT-Rosalind 引入学术研究实验室",
+  "details": {
+    "overview": "该新闻介绍 Rosalind 学术计划，为符合条件的学术实验室提供赞助访问 GPT-Rosalind 及相关工具的机会，以推进生命科学研究。原始发布内容仅提供这一简要说明，未披露申请条件、赞助范围、工具细节或使用限制。该信息属于模型访问计划类新闻，具体资格和条款需以官方原文为准。",
+    "keyPoints": [
+      "推出 Rosalind 学术计划，面向符合条件的学术实验室。",
+      "提供赞助访问 GPT-Rosalind 及相关工具。",
+      "目标是推进生命科学研究，具体条款需以原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

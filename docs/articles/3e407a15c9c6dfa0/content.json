@@ -1,0 +1,25 @@
+{
+  "id": "3e407a15c9c6dfa0",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+  "summary": "该条目标题为“Up to 3.2x Faster Inference with LFM2.5-DSpark”，属于工具动态。",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+  "date": "2026-08-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-08-20T16:52:57+00:00",
+  "titleEn": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+  "titleZh": "LFM2.5-DSpark 推理速度最高提升 3.2 倍",
+  "details": {
+    "overview": "该条目标题为“Up to 3.2x Faster Inference with LFM2.5-DSpark”，属于工具动态。提供的摘要与标题相同，sourceText 为空，缺少关于 LFM2.5-DSpark 的具体对象、测试条件、对比基线和适用范围等信息。因此目前只能确认其宣称推理速度最高提升 3.2 倍，无法进一步说明技术细节或验证情况，需以官方原始发布为准。",
+    "keyPoints": [
+      "标题宣称 LFM2.5-DSpark 推理速度最高提升 3.2 倍。",
+      "现有材料仅有标题与摘要，缺少测试条件与对比基线。",
+      "具体适用范围与限制需以官方原始发布为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

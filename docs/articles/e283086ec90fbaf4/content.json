@@ -1,0 +1,24 @@
+{
+  "id": "e283086ec90fbaf4",
+  "section": "news",
+  "category": "工具动态",
+  "title": "How Ramp engineers accelerate code review with Codex",
+  "summary": "该官方发布内容介绍 Ramp 的工程师如何使用 Codex 配合 GPT-5.5 进行代码审查并推动改进，使团队能在数分钟内获得实质性反馈，而非等待数小时。",
+  "url": "https://openai.com/index/ramp",
+  "date": "2026-05-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-20T00:00:00+00:00",
+  "titleEn": "How Ramp engineers accelerate code review with Codex",
+  "titleZh": "Ramp 工程师如何用 Codex 加速代码审查",
+  "details": {
+    "overview": "该官方发布内容介绍 Ramp 的工程师如何使用 Codex 配合 GPT-5.5 进行代码审查并推动改进，使团队能在数分钟内获得实质性反馈，而非等待数小时。当前收录材料仅给出这一概括性描述，未披露具体工作流程、审查规模或量化效果，因此相关细节尚不充分。",
+    "keyPoints": [
+      "Ramp 工程师使用 Codex 与 GPT-5.5 进行代码审查并推动改进。",
+      "官方称实质性反馈的获取时间从数小时缩短到数分钟。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

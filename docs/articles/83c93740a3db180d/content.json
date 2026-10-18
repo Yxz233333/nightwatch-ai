@@ -1,0 +1,23 @@
+{
+  "id": "83c93740a3db180d",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "GPT-5.5 and Codex app updates 26.422",
+  "summary": "OpenAI 宣布 GPT-5.5 已在 Codex 中上线，定位为面向复杂编码、计算机操作、知识工作和研究流程的前沿模型，并成为多数 Codex 任务的推荐选择。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2026-04-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "GPT-5.5 and Codex app updates 26.422",
+  "titleZh": "GPT-5.5 与 Codex 应用更新 26.422",
+  "details": {
+    "overview": "OpenAI 宣布 GPT-5.5 已在 Codex 中上线，定位为面向复杂编码、计算机操作、知识工作和研究流程的前沿模型，并成为多数 Codex 任务的推荐选择。用户可在 CLI、IDE 扩展和 Codex 应用中选择该模型，未看到时需更新到最新版本。此次更新还为 Codex 应用加入浏览器操作、自动审批审查，并修复若干问题。",
+    "keyPoints": [
+      "GPT-5.5 在 Codex 上线，适用于实现、重构、调试、测试与验证等任务。",
+      "Codex 应用新增浏览器操作，可点击渲染界面、复现视觉缺陷并验证本地修复。",
+      "新增自动审批审查代理，并修复重复排队消息、模型设置回退等问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

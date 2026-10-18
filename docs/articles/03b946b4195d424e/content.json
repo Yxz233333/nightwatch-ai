@@ -1,0 +1,23 @@
+{
+  "id": "03b946b4195d424e",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT Voice Update",
+  "summary": "官方发布称，ChatGPT Voice 迎来一次更新，重点提升其遵循用户指令的能力，并改善对网页搜索等工具的使用，以给出更好的回答。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#chatgpt-voice-update",
+  "date": "2026-02-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "ChatGPT Voice Update",
+  "titleZh": "ChatGPT Voice 更新",
+  "details": {
+    "overview": "官方发布称，ChatGPT Voice 迎来一次更新，重点提升其遵循用户指令的能力，并改善对网页搜索等工具的使用，以给出更好的回答。该更新适用于免费版 ChatGPT 用户主要使用的 Voice 版本，以及 Plus 用户在达到主模型使用上限时所用的 Voice 版本。当前收录材料未提供具体技术细节、效果数据或更细的推出范围，相关限制以官方原始发布为准。",
+    "keyPoints": [
+      "更新提升 ChatGPT Voice 遵循用户指令的能力",
+      "改进对网页搜索等工具的使用以优化回答",
+      "适用于免费版及 Plus 用户达上限时使用的 Voice 版本"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

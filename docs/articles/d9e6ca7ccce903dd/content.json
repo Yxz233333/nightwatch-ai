@@ -1,0 +1,27 @@
+{
+  "id": "d9e6ca7ccce903dd",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+  "summary": "官方发布摘要称，相关研究论文显示 Deep Think 在多个领域正产生日益增长的影响，主题聚焦于加速数学与科学发现。",
+  "url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+  "date": "2026-02-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-02-09T16:12:06+00:00",
+  "breakthrough": true,
+  "breakthroughField": "AI 数学研究",
+  "titleEn": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+  "titleZh": "用 Gemini Deep Think 加速数学与科学发现",
+  "details": {
+    "overview": "官方发布摘要称，相关研究论文显示 Deep Think 在多个领域正产生日益增长的影响，主题聚焦于加速数学与科学发现。现有材料仅有一句摘要，未提供具体论文、评测结果或应用案例，因此无法说明其方法与效果细节。以下要点仅依据该摘要提炼，具体结论以原文为准。",
+    "keyPoints": [
+      "主题为用 Gemini Deep Think 加速数学与科学发现",
+      "摘要称研究论文显示其在多个领域影响渐增",
+      "材料未提供具体论文与数据，细节以原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "d7c9bb126374e2a4",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Mercedes-Benz Unveils New S-Class Built on NVIDIA DRIVE AV, Which Enables an L4-Ready Architecture",
+  "summary": "该官方博客称，梅赛德斯-奔驰以140年汽车创新为背景推出面向AI时代的新款S级，将汽车安全与NVIDIA先进自动驾驶平台结合，并称其具备L4级就绪架构。",
+  "url": "https://blogs.nvidia.com/blog/mercedes-benz-l4-s-class-drive-av-platform/",
+  "date": "2026-01-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-01-29T18:00:31+00:00",
+  "titleEn": "Mercedes-Benz Unveils New S-Class Built on NVIDIA DRIVE AV, Which Enables an L4-Ready Architecture",
+  "titleZh": "梅赛德斯-奔驰发布基于NVIDIA DRIVE AV的新款S级，具备L4级就绪架构",
+  "details": {
+    "overview": "该官方博客称，梅赛德斯-奔驰以140年汽车创新为背景推出面向AI时代的新款S级，将汽车安全与NVIDIA先进自动驾驶平台结合，并称其具备L4级就绪架构。原文注明NVIDIA DRIVE Hyperion已于2026年9月更名为NVIDIA Hyperion，相关名称已更新。材料未披露具体功能、推出范围与限制，需以原文为准。",
+    "keyPoints": [
+      "新款S级基于NVIDIA DRIVE AV平台，官方称具备L4级就绪架构",
+      "博客称其结合汽车安全与NVIDIA自动驾驶平台",
+      "原文注明DRIVE Hyperion已于2026年9月更名为NVIDIA Hyperion"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

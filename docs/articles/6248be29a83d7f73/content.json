@@ -1,0 +1,25 @@
+{
+  "id": "6248be29a83d7f73",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing Trusted Contact in ChatGPT",
+  "summary": "这是ChatGPT的一项可选安全功能发布。",
+  "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+  "date": "2026-05-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-07T00:00:00+00:00",
+  "titleEn": "Introducing Trusted Contact in ChatGPT",
+  "titleZh": "ChatGPT推出可信联系人功能",
+  "details": {
+    "overview": "这是ChatGPT的一项可选安全功能发布。官方摘要称，当系统检测到严重的自残相关担忧时，该功能会通知用户指定的可信联系人。当前收录材料仅给出这一句说明，未披露适用人群、地区范围、检测机制或通知流程等细节，因此具体推出范围和限制需以官方原始发布记录为准。",
+    "keyPoints": [
+      "ChatGPT推出名为可信联系人的可选安全功能",
+      "检测到严重自残担忧时可通知用户信任的人",
+      "原文未说明适用人群与地区范围"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

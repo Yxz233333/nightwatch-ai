@@ -1,0 +1,25 @@
+{
+  "id": "0277c95a71b2fb36",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "ChatGPT is now a partner for your most ambitious work",
+  "summary": "官方摘要将 ChatGPT Work 描述为一种代理：它可跨用户的应用和文件采取行动，必要时可在一个项目上持续数小时，并把一个目标转化为完成的工作。",
+  "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+  "date": "2026-07-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-09T10:00:00+00:00",
+  "titleEn": "ChatGPT is now a partner for your most ambitious work",
+  "titleZh": "ChatGPT 成为你最具雄心工作的伙伴",
+  "details": {
+    "overview": "官方摘要将 ChatGPT Work 描述为一种代理：它可跨用户的应用和文件采取行动，必要时可在一个项目上持续数小时，并把一个目标转化为完成的工作。现有材料未说明具体支持哪些应用、权限边界、可用套餐或实际效果，相关范围与限制应以原始发布为准。",
+    "keyPoints": [
+      "ChatGPT Work 被定位为可跨应用和文件执行操作的代理。",
+      "官方称其可在需要时持续数小时跟进同一项目。",
+      "目标是把用户设定的目标转化为完成的工作。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

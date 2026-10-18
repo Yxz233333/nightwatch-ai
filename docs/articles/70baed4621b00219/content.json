@@ -1,0 +1,25 @@
+{
+  "id": "70baed4621b00219",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.77.0 发布",
+  "summary": "这是 Codex CLI 0.77.0 版本更新说明，汇总新功能与缺陷修复。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.77.0",
+  "date": "2025-12-21",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-12-21T05:37:01+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.77.0 发布",
+  "titleZh": "Codex CLI 0.77.0 发布",
+  "details": {
+    "overview": "这是 Codex CLI 0.77.0 版本更新说明，汇总新功能与缺陷修复。新功能包括：TUI2 统一各终端的鼠标滚轮与触控板滚动，并新增 tui.scroll_* 配置项；requirements.toml 新增 allowed_sandbox_modes 以限制可用沙箱模式；可流式 HTTP MCP 服务器的 OAuth 登录不再需要 rmcp_client 特性开关；模糊文件搜索的显示与一致性改进；更新内置模型元数据。修复方面包括 /undo 与 git 暂存交互的破坏性问题、TUI2 滚动时冗余重绘，以及文档链接错误。",
+    "keyPoints": [
+      "TUI2 统一鼠标滚轮与触控板滚动，并新增 tui.scroll_* 配置项",
+      "requirements.toml 新增 allowed_sandbox_modes，用于约束允许的沙箱模式",
+      "修复 /undo 与 git 暂存/幽灵提交的破坏性交互问题"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

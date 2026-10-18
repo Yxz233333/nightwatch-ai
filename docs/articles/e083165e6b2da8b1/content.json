@@ -1,0 +1,25 @@
+{
+  "id": "e083165e6b2da8b1",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "A business that scales with the value of intelligence",
+  "summary": "该新闻摘要表示，OpenAI的商业模式随智能水平提升而扩展，涵盖订阅、API、广告、商业和算力等多个方面，并称这一扩展由ChatGPT采用的深化所驱动。",
+  "url": "https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence",
+  "date": "2026-01-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-18T10:00:00+00:00",
+  "titleEn": "A business that scales with the value of intelligence",
+  "titleZh": "与智能价值同步扩展的业务",
+  "details": {
+    "overview": "该新闻摘要表示，OpenAI的商业模式随智能水平提升而扩展，涵盖订阅、API、广告、商业和算力等多个方面，并称这一扩展由ChatGPT采用的深化所驱动。原文仅有一句话，未提供具体收入数据、用户规模或各业务线的详细说明。作者声称业务模式与智能价值同步增长，但未给出可验证的量化证据。该内容属于行业新闻，反映公司对自身商业策略的表述，而非独立研究结论。",
+    "keyPoints": [
+      "业务模式涵盖订阅、API、广告、商业和算力",
+      "扩展动力来自ChatGPT采用的深化",
+      "当前收录材料未提供具体数据或验证细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

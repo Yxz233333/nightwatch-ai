@@ -1,0 +1,24 @@
+{
+  "id": "197c435045e87c59",
+  "section": "news",
+  "category": "模型动态",
+  "title": "As AI Grows More Complex, Model Builders Rely on NVIDIA",
+  "summary": "该消息称，OpenAI 于 12 月发布 GPT-5.2，并称其为面向专业知识工作的最强模型系列，训练和部署使用 NVIDIA Hopper 与 GB200 NVL72 等基础设施。",
+  "url": "https://blogs.nvidia.com/blog/leading-models-nvidia/",
+  "date": "2025-12-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-12-11T19:19:57+00:00",
+  "titleEn": "As AI Grows More Complex, Model Builders Rely on NVIDIA",
+  "titleZh": "AI 日益复杂，模型构建者依赖 NVIDIA",
+  "details": {
+    "overview": "该消息称，OpenAI 于 12 月发布 GPT-5.2，并称其为面向专业知识工作的最强模型系列，训练和部署使用 NVIDIA Hopper 与 GB200 NVL72 等基础设施。文中还提到 GPT-5.3 Codex 于 2 月发布，被称为首个帮助构建自身的 OpenAI 智能体编码模型。上述能力与定位均为发布方说法，当前收录材料未提供独立验证细节。",
+    "keyPoints": [
+      "GPT-5.2 的训练和部署使用 NVIDIA Hopper 与 GB200 NVL72。",
+      "GPT-5.3 Codex 被描述为首个帮助构建自身的智能体编码模型。",
+      "相关模型能力表述来自发布方，未附独立验证。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

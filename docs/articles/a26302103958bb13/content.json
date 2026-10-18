@@ -1,0 +1,23 @@
+{
+  "id": "a26302103958bb13",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Use website tools in the desktop browser",
+  "summary": "该功能更新说明，ChatGPT Work 与 Codex 现可在桌面应用内置浏览器中直接调用受支持网站提供的工具，无需单独建立连接，ChatGPT 可自行发现任务所需工具。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-website-tools-in-the-desktop-browser",
+  "date": "2026-08-31",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Use website tools in the desktop browser",
+  "titleZh": "在桌面浏览器中使用网站工具",
+  "details": {
+    "overview": "该功能更新说明，ChatGPT Work 与 Codex 现可在桌面应用内置浏览器中直接调用受支持网站提供的工具，无需单独建立连接，ChatGPT 可自行发现任务所需工具。用户点击地址栏箭头即可查看当前页面提供的工具。原文指出，网站工具基于 WebMCP，需要受支持的账户、模型和网页，且仅在桌面内置浏览器中可用，不通过 Chrome 扩展提供；原有的网站访问与敏感操作确认机制仍然适用。",
+    "keyPoints": [
+      "ChatGPT Work 与 Codex 可在桌面内置浏览器中直接使用网站提供的工具。",
+      "网站工具基于 WebMCP，需受支持的账户、模型和网页。",
+      "该能力不通过 Chrome 扩展提供，原有访问与敏感操作确认仍适用。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

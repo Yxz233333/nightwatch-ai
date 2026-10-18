@@ -1,0 +1,25 @@
+{
+  "id": "97c56a1a4a8bc0cc",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "AI and the Future of Cybersecurity: Why Openness Matters",
+  "summary": "该内容为行业新闻，标题聚焦人工智能与网络安全的关系，主张开放性在其中具有重要性。",
+  "url": "https://huggingface.co/blog/cybersecurity-openness",
+  "date": "2026-04-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-04-21T00:00:00+00:00",
+  "titleEn": "AI and the Future of Cybersecurity: Why Openness Matters",
+  "titleZh": "AI 与网络安全的未来：为何开放至关重要",
+  "details": {
+    "overview": "该内容为行业新闻，标题聚焦人工智能与网络安全的关系，主张开放性在其中具有重要性。提供的摘要与原文正文均为空，仅有标题与整理状态说明，无法确认具体讨论对象、发布方主张的细节或涉及的技术与政策范围。因此本条目仅能反映主题方向，不涉及任何可核实的结论或数据。",
+    "keyPoints": [
+      "主题为AI与网络安全的关系，强调开放性的重要性。",
+      "原始正文与摘要缺失，无法提炼具体论点或案例。",
+      "发布范围与限制需以官方原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

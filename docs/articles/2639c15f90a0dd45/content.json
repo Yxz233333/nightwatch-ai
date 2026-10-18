@@ -1,0 +1,25 @@
+{
+  "id": "2639c15f90a0dd45",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
+  "summary": "该文讨论中国开源人工智能生态中的架构选择，标题将其定位为在 DeepSeek 之外继续构建。",
+  "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
+  "date": "2026-01-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-01-27T15:01:45+00:00",
+  "titleEn": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
+  "titleZh": "中国开源AI生态的架构选择：在DeepSeek之外构建",
+  "details": {
+    "overview": "该文讨论中国开源人工智能生态中的架构选择，标题将其定位为在 DeepSeek 之外继续构建。现有材料只有标题与摘要，未说明涉及哪些模型、机构或具体技术路线，也未给出作者的分析结论。可确定的是文章关注开源模型的设计取舍与生态多样性。关于具体架构方案、对比结果与判断，材料不足，需以原文为准。",
+    "keyPoints": [
+      "主题为中国开源AI生态中的架构选择",
+      "标题指向在DeepSeek之外探索其他路线",
+      "具体模型、机构与结论在材料中未提供"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

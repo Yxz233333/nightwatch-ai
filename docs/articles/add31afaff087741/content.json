@@ -1,0 +1,25 @@
+{
+  "id": "add31afaff087741",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Agentic Resource Discovery: Let agents search",
+  "summary": "现有材料仅有标题“Agentic Resource Discovery: Let agents search”，没有摘要或原始发布正文，无法确认所涉资源类型、搜索机制、接口形式或适用场景。",
+  "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+  "date": "2026-06-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-06-17T00:00:00+00:00",
+  "titleEn": "Agentic Resource Discovery: Let agents search",
+  "titleZh": "智能体资源发现：让智能体自己去搜索",
+  "details": {
+    "overview": "现有材料仅有标题“Agentic Resource Discovery: Let agents search”，没有摘要或原始发布正文，无法确认所涉资源类型、搜索机制、接口形式或适用场景。标题表明主题是让智能体自主发现和检索资源。由于缺少具体内容，无法判断其技术路线与实际效果，读者应以官方原文为准。",
+    "keyPoints": [
+      "标题主题为智能体自主进行资源发现与搜索。",
+      "材料未说明资源类型、搜索机制或接口形式。",
+      "具体能力与适用范围需以官方原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "48e5bae312c57b1a",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Codex is becoming a productivity tool for everyone",
+  "summary": "《知识工作新纪元》报告探讨 Codex 如何通过 AI 驱动的研究、数据分析、工作流自动化和内容创作来转变生产力。",
+  "url": "https://openai.com/index/codex-for-knowledge-work",
+  "date": "2026-06-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-02T02:00:00+00:00",
+  "titleEn": "Codex is becoming a productivity tool for everyone",
+  "titleZh": "Codex 正成为人人可用的生产力工具",
+  "details": {
+    "overview": "《知识工作新纪元》报告探讨 Codex 如何通过 AI 驱动的研究、数据分析、工作流自动化和内容创作来转变生产力。当前收录材料未提供报告中的具体数据、案例或结论细节。",
+    "keyPoints": [
+      "报告探讨 Codex 通过 AI 研究、数据分析等转变生产力。",
+      "涉及工作流自动化和内容创作等应用方向。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

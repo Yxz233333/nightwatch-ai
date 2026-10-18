@@ -1,0 +1,25 @@
+{
+  "id": "c6bdb2240b151831",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "ChatGPT for marketing teams",
+  "summary": "该页面介绍营销团队如何使用ChatGPT规划活动、创作内容、分析表现，并借助实用的AI工作流把洞察转化为行动。",
+  "url": "https://openai.com/academy/marketing",
+  "date": "2026-04-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-10T00:00:00+00:00",
+  "titleEn": "ChatGPT for marketing teams",
+  "titleZh": "面向营销团队的ChatGPT",
+  "details": {
+    "overview": "该页面介绍营销团队如何使用ChatGPT规划活动、创作内容、分析表现，并借助实用的AI工作流把洞察转化为行动。原文为应用指导，未提供具体品牌案例、投放数据或效果验证结果。",
+    "keyPoints": [
+      "用于规划营销活动与创作内容",
+      "分析营销表现并提炼洞察",
+      "强调以AI工作流推动洞察落地"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

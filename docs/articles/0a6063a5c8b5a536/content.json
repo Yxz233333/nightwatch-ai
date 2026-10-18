@@ -1,0 +1,24 @@
+{
+  "id": "0a6063a5c8b5a536",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
+  "summary": "该官方报道称，NVIDIA超大规模与高性能计算副总裁Ian Buck在圣克拉拉会议中心举行的AI Infra Summit上谈AI工厂效率。",
+  "url": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
+  "date": "2026-09-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-09-15T16:55:40+00:00",
+  "titleEn": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
+  "titleZh": "AI Infra Summit：NVIDIA Vera Rubin与DSX平台进展展示AI工厂以每瓦token数优化能效",
+  "details": {
+    "overview": "该官方报道称，NVIDIA超大规模与高性能计算副总裁Ian Buck在圣克拉拉会议中心举行的AI Infra Summit上谈AI工厂效率。原文提到今年参会者超过8000人，高于去年的3500人。报道标题指向Vera Rubin与DSX平台在每瓦token数能效方面的进展，但当前收录摘要未给出具体能效数据。",
+    "keyPoints": [
+      "Ian Buck在AI Infra Summit谈AI工厂效率",
+      "会议参会者从去年3500人增至今年超8000人",
+      "标题指向Vera Rubin与DSX平台的每瓦token数能效优化"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

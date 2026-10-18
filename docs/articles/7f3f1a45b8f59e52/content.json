@@ -1,0 +1,24 @@
+{
+  "id": "7f3f1a45b8f59e52",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI to acquire Neptune",
+  "summary": "OpenAI 宣布将收购 Neptune。",
+  "url": "https://openai.com/index/openai-to-acquire-neptune",
+  "date": "2025-12-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-03T10:00:00+00:00",
+  "titleEn": "OpenAI to acquire Neptune",
+  "titleZh": "OpenAI 将收购 Neptune",
+  "details": {
+    "overview": "OpenAI 宣布将收购 Neptune。原文摘要仅表示，此举旨在加深对模型行为的可见性，并强化研究人员用于跟踪实验和监控训练的工具。除这一句外，原始发布内容未披露交易金额、时间表、Neptune 产品后续安排或整合细节，因此无法进一步说明收购的具体范围与影响。",
+    "keyPoints": [
+      "OpenAI 宣布将收购 Neptune。",
+      "原文称收购旨在加深对模型行为的可见性，并强化实验跟踪与训练监控工具。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

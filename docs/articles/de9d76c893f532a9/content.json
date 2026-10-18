@@ -1,0 +1,25 @@
+{
+  "id": "de9d76c893f532a9",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Endava builds an agentic organization with Codex",
+  "summary": "据官方发布记录，该文介绍Endava使用Codex构建“智能体化组织”，以加速软件交付，并将需求分析时间从数周缩短至数小时。",
+  "url": "https://openai.com/index/endava",
+  "date": "2026-05-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-28T12:00:00+00:00",
+  "titleEn": "How Endava builds an agentic organization with Codex",
+  "titleZh": "Endava如何借助Codex构建智能体化组织",
+  "details": {
+    "overview": "据官方发布记录，该文介绍Endava使用Codex构建“智能体化组织”，以加速软件交付，并将需求分析时间从数周缩短至数小时。原文仅提供这一概括，未说明具体实施方式、团队规模、衡量口径或效果是否经独立验证。",
+    "keyPoints": [
+      "Endava使用Codex构建智能体化组织以加速软件交付",
+      "官方称需求分析时间从数周缩短至数小时",
+      "当前收录材料未提供实施细节与效果衡量方式"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

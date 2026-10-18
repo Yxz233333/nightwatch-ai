@@ -1,0 +1,25 @@
+{
+  "id": "7836545fe331d53b",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+  "summary": "该条目仅说明 Hugging Face 模型页面将展示 Every Eval Ever 的评测结果，原始发布内容为空，未提供评测来源、覆盖模型范围、展示方式或上线时间等细节。",
+  "url": "https://huggingface.co/blog/eee-community-evals",
+  "date": "2026-06-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-06-30T00:00:00+00:00",
+  "titleEn": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+  "titleZh": "Hugging Face 模型页将展示 Every Eval Ever 评测结果",
+  "details": {
+    "overview": "该条目仅说明 Hugging Face 模型页面将展示 Every Eval Ever 的评测结果，原始发布内容为空，未提供评测来源、覆盖模型范围、展示方式或上线时间等细节。因此无法进一步介绍具体研究对象或作者声称的结果，信息明显不足。",
+    "keyPoints": [
+      "Hugging Face 模型页将展示 Every Eval Ever 的评测结果。",
+      "原始发布内容为空，未说明评测来源与覆盖范围。",
+      "展示方式与上线时间等细节均未提供。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

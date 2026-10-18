@@ -1,0 +1,25 @@
+{
+  "id": "0488916004933328",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing Gemini 3.7 Flash",
+  "summary": "该条目为官方发布记录，标题显示推出 Gemini 3.7 Flash，但未提供摘要、原文或具体参数、能力与适用范围说明。",
+  "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+  "date": "2026-08-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-08-13T17:04:18+00:00",
+  "titleEn": "Introducing Gemini 3.7 Flash",
+  "titleZh": "推出 Gemini 3.7 Flash",
+  "details": {
+    "overview": "该条目为官方发布记录，标题显示推出 Gemini 3.7 Flash，但未提供摘要、原文或具体参数、能力与适用范围说明。因此目前只能确认这是一项模型发布动态，无法介绍其性能、价格、开放地区或与其他模型的对比。具体推出范围和限制需以官方原文为准。",
+    "keyPoints": [
+      "官方发布记录显示推出 Gemini 3.7 Flash 模型",
+      "材料未提供参数、能力或价格等具体信息",
+      "推出范围与限制需以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "759f7ee1468fa1e9",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Using skills",
+  "summary": "官方发布的学习类内容，介绍如何创建和使用ChatGPT技能（skills）。",
+  "url": "https://openai.com/academy/skills",
+  "date": "2026-04-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-10T00:00:00+00:00",
+  "titleEn": "Using skills",
+  "titleZh": "使用技能（Skills）",
+  "details": {
+    "overview": "官方发布的学习类内容，介绍如何创建和使用ChatGPT技能（skills）。据摘要，其目标是构建可复用的工作流、自动化重复性任务，并保证输出的一致性与高质量。原文仅有一句摘要，未说明技能的具体创建方式、适用范围或限制，相关信息不足。",
+    "keyPoints": [
+      "介绍创建和使用ChatGPT技能的方法。",
+      "目标是构建可复用工作流并自动化重复任务。",
+      "强调输出的一致性与高质量，原文未给出细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

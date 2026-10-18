@@ -1,0 +1,25 @@
+{
+  "id": "1f64d5a521f4dbe0",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.60.1 发布",
+  "summary": "这是 Codex CLI 的缺陷修复版本，发布说明称大部分重要新变更位于 0.59.0 版本。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.60.1",
+  "date": "2025-11-20",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-11-19T19:45:42+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.60.1 发布",
+  "titleZh": "Codex CLI 0.60.1 发布",
+  "details": {
+    "overview": "这是 Codex CLI 的缺陷修复版本，发布说明称大部分重要新变更位于 0.59.0 版本。0.60.1 的主要修复是：API 用户的默认模型现为 gpt-5.1-codex。当前收录材料未提供更多功能变化或兼容性说明，桌面端功能另以对应公告为准。",
+    "keyPoints": [
+      "0.60.1 为缺陷修复版本，重要新变更主要在 0.59.0。",
+      "API 用户默认模型改为 gpt-5.1-codex。",
+      "桌面端功能以对应公告为准。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

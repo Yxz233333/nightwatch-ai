@@ -1,0 +1,24 @@
+{
+  "id": "e494359445a55da3",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "France Advances Europe’s AI Future With NVIDIA Technologies",
+  "summary": "该新闻介绍法国在 NVIDIA GTC 巴黎 VivaTech 活动一年后，其 AI 基础设施正在上线。",
+  "url": "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/",
+  "date": "2026-06-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-18T06:00:59+00:00",
+  "titleEn": "France Advances Europe’s AI Future With NVIDIA Technologies",
+  "titleZh": "法国借助 NVIDIA 技术推进欧洲 AI 未来",
+  "details": {
+    "overview": "该新闻介绍法国在 NVIDIA GTC 巴黎 VivaTech 活动一年后，其 AI 基础设施正在上线。原文提到法国此前规划了新的 AI 工厂、国家算力、开放前沿模型和工业平台，如今 AI 代理已在生产环境中运行，初创公司正在部署应用，法国 AI 生态系统……（原文截断）。新闻展示法国借助 NVIDIA 技术推进本地 AI 发展的进展，具体范围和限制需以原文为准。",
+    "keyPoints": [
+      "法国一年前在 NVIDIA GTC 巴黎活动上规划了 AI 工厂、国家算力和开放前沿模型。",
+      "目前相关 AI 基础设施正在上线，AI 代理已在生产环境中运行。",
+      "初创公司正在部署应用，法国 AI 生态系统持续发展。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

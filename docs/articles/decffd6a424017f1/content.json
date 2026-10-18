@@ -1,0 +1,25 @@
+{
+  "id": "decffd6a424017f1",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+  "summary": "该条目为官方发布记录，宣布推出 Gemini 3.8 Flash 和 Gemini 3.8 Flash Cyber 两款模型。",
+  "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+  "date": "2026-09-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-09-02T16:18:31+00:00",
+  "titleEn": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+  "titleZh": "推出 Gemini 3.8 Flash 与 3.8 Flash Cyber",
+  "details": {
+    "overview": "该条目为官方发布记录，宣布推出 Gemini 3.8 Flash 和 Gemini 3.8 Flash Cyber 两款模型。原始材料仅包含标题与一句话简介，未提供模型能力、参数、基准测试、可用范围或限制等细节，因此无法进一步说明具体研究对象与结果。其意义在于以 Flash 系列新增成员及面向网络安全场景的 Cyber 版本形式对外发布，具体信息需以官方原文为准。",
+    "keyPoints": [
+      "官方发布记录宣布推出 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款模型。",
+      "材料未披露模型能力、基准表现与可用范围等细节。",
+      "推出范围与限制需以官方原始发布内容为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

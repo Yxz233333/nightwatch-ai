@@ -1,0 +1,25 @@
+{
+  "id": "3a7aba45b276a0c5",
+  "section": "news",
+  "category": "工具动态",
+  "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+  "summary": "该条目标题说明 Hugging Face 的 Inference Endpoints、Jobs 和 Buckets 三项服务如何支撑 Papers with Code 的搜索功能，属于工具动态。",
+  "url": "https://huggingface.co/blog/pwc-search",
+  "date": "2026-08-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-08-21T00:00:00+00:00",
+  "titleEn": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+  "titleZh": "Hugging Face Inference Endpoints、Jobs 与 Buckets 如何支撑 Papers with Code 的搜索",
+  "details": {
+    "overview": "该条目标题说明 Hugging Face 的 Inference Endpoints、Jobs 和 Buckets 三项服务如何支撑 Papers with Code 的搜索功能，属于工具动态。提供的摘要与标题相同，sourceText 为空，缺少具体架构、实现方式、性能数据或上线范围等信息。因此目前只能确认其主题是上述服务与 Papers with Code 搜索之间的关系，具体细节需以官方原始发布为准。",
+    "keyPoints": [
+      "主题为 Hugging Face 三项服务支撑 Papers with Code 搜索。",
+      "涉及 Inference Endpoints、Jobs 与 Buckets 三类工具。",
+      "现有材料缺少实现细节与性能数据，需以原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

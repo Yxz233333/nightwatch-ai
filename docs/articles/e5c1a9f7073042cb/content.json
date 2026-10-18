@@ -1,0 +1,25 @@
+{
+  "id": "e5c1a9f7073042cb",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Holo3.1: Fast & Local Computer Use Agents",
+  "summary": "该条目标题为“Holo3.1：快速本地计算机使用智能体”，但提供的摘要与原文内容均仅为同一标题，缺少具体发布说明、功能描述或性能数据。",
+  "url": "https://huggingface.co/blog/Hcompany/holo31",
+  "date": "2026-06-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-06-02T14:13:23+00:00",
+  "titleEn": "Holo3.1: Fast & Local Computer Use Agents",
+  "titleZh": "Holo3.1：快速本地计算机使用智能体",
+  "details": {
+    "overview": "该条目标题为“Holo3.1：快速本地计算机使用智能体”，但提供的摘要与原文内容均仅为同一标题，缺少具体发布说明、功能描述或性能数据。因此无法确认其研究对象细节、作者声称结果及研究意义，建议读者查阅官方原始发布记录获取完整信息。",
+    "keyPoints": [
+      "标题指向快速、本地的计算机使用智能体",
+      "材料仅有标题，无功能或性能细节",
+      "具体内容需以官方原始发布为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "cd03dd7d698d60f5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Next-generation Constitutional Classifiers: More efficient protection against universal jailbreaks",
+  "summary": "Anthropic介绍下一代宪法分类器Constitutional Classifiers++，称其能更高效防御通用越狱。",
+  "url": "https://www.anthropic.com/research/next-generation-constitutional-classifiers",
+  "date": "2026-01-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-01-09T17:17:00+00:00",
+  "titleEn": "Next-generation Constitutional Classifiers: More efficient protection against universal jailbreaks",
+  "titleZh": "下一代宪法分类器：更高效地防御通用越狱",
+  "details": {
+    "overview": "Anthropic介绍下一代宪法分类器Constitutional Classifiers++，称其能更高效防御通用越狱。稿件称第一代将越狱成功率从86%降至4.4%，但增加23.7%算力成本并使无害查询拒答率上升0.38%。新系统采用两阶段级联架构：先用低成本内部激活探针筛查全部流量，可疑对话再交由更强的交换分类器同时审视输入与输出。作者声称新系统仅增加约1%算力，攻击成功率最低且尚未发现通用越狱，但相关结论来自厂商自测与红队测试。",
+    "keyPoints": [
+      "采用探针加交换分类器的两阶段级联架构，同时审视对话输入与输出。",
+      "作者称新系统仅增加约1%算力成本，低于上一代的23.7%。",
+      "厂商称尚未发现针对新系统的通用越狱，结论来自其自测与红队测试。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

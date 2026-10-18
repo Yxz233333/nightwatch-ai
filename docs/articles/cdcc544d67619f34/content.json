@@ -1,0 +1,23 @@
+{
+  "id": "cdcc544d67619f34",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Large pastes are now handled as attachments for more plans",
+  "summary": "OpenAI 更新 ChatGPT 输入框的长文本处理方式：ChatGPT Free 和 Go 用户粘贴超过 1 万字符时，内容会自动转为附件，不再直接插入文本框，以保持输入框整洁并避免大段粘贴占满上下文窗口。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#large-pastes-are-now-handled-as-attachments-for-more-plans",
+  "date": "2026-06-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Large pastes are now handled as attachments for more plans",
+  "titleZh": "更多方案将长粘贴内容作为附件处理",
+  "details": {
+    "overview": "OpenAI 更新 ChatGPT 输入框的长文本处理方式：ChatGPT Free 和 Go 用户粘贴超过 1 万字符时，内容会自动转为附件，不再直接插入文本框，以保持输入框整洁并避免大段粘贴占满上下文窗口。用户可点击“在文本框中显示”把附件转回直接粘贴。该功能此前已面向 Plus、Pro 和 Business 用户提供，附件触发阈值也从 5000 字符提高到 1 万字符。",
+    "keyPoints": [
+      "Free 和 Go 用户粘贴超 1 万字符时，内容自动转为附件。",
+      "附件可点击“在文本框中显示”转回直接粘贴。",
+      "附件触发阈值由 5000 字符提高到 1 万字符。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

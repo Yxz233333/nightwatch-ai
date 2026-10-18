@@ -1,0 +1,23 @@
+{
+  "id": "edf3efd52883c18e",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Projects Now Available on ChatGPT Free Tier",
+  "summary": "OpenAI 宣布 ChatGPT 的 Projects 功能向免费版用户开放，可将聊天与文件集中在一处。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#projects-now-available-on-chatgpt-free-tier",
+  "date": "2025-09-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Projects Now Available on ChatGPT Free Tier",
+  "titleZh": "Projects 现已登陆 ChatGPT 免费版",
+  "details": {
+    "overview": "OpenAI 宣布 ChatGPT 的 Projects 功能向免费版用户开放，可将聊天与文件集中在一处。免费版每个项目最多上传 5 个文件；付费档同步调整上限：Plus、Go、Edu 每项目最多 25 个文件，Pro、Business、Enterprise 最多 40 个。所有方案新增颜色与图标等自定义选项，便于整理项目。原文未说明具体上线日期与地区范围。",
+    "keyPoints": [
+      "Projects 功能向 ChatGPT 免费版开放，每项目最多上传 5 个文件。",
+      "付费档文件上限调整：Plus、Go、Edu 为 25 个，Pro、Business、Enterprise 为 40 个。",
+      "所有方案新增颜色与图标等自定义选项，用于整理项目。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

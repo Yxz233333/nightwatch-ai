@@ -1,0 +1,23 @@
+{
+  "id": "beade5f749c8effc",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex app 26.825",
+  "summary": "该更新记录显示，Codex 应用 26.825 版本主要包含性能改进与缺陷修复。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2026-08-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "Codex app 26.825",
+  "titleZh": "Codex 应用 26.825",
+  "details": {
+    "overview": "该更新记录显示，Codex 应用 26.825 版本主要包含性能改进与缺陷修复。其中一项具体修复是：重命名 SSH 连接时，已保存的聊天和项目不再丢失，而是被保留下来。材料未说明其他改动、适用范围或平台限制，相关细节需以官方原始发布记录为准。",
+    "keyPoints": [
+      "版本聚焦性能改进与缺陷修复。",
+      "修复重命名 SSH 连接时丢失已保存聊天和项目的问题。",
+      "其他改动与适用范围未在材料中说明。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

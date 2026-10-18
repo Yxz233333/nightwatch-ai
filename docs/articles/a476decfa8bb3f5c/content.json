@@ -1,0 +1,25 @@
+{
+  "id": "a476decfa8bb3f5c",
+  "section": "news",
+  "category": "工具动态",
+  "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+  "summary": "该官方发布内容介绍 avatarin 使用 OpenAI 的 GPT-Realtime，为山田电机（Yamada Denki）的顾客提供全天候多语言支持。",
+  "url": "https://openai.com/index/avatarin",
+  "date": "2026-07-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-30T00:00:00+00:00",
+  "titleEn": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+  "titleZh": "avatarin 如何用 GPT-Realtime 构建 7×24 零售智能体",
+  "details": {
+    "overview": "该官方发布内容介绍 avatarin 使用 OpenAI 的 GPT-Realtime，为山田电机（Yamada Denki）的顾客提供全天候多语言支持。原文称在两周内有 30,000 人使用了该智能体，调查反馈中 92% 为正面评价。材料未说明调查样本量、统计口径、部署门店范围或智能体的具体功能边界，上述数字均来自发布方自述。",
+    "keyPoints": [
+      "avatarin 基于 GPT-Realtime 为山田电机顾客提供多语言支持。",
+      "原文称两周内使用者达 30,000 人。",
+      "原文称调查反馈中 92% 为正面评价。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

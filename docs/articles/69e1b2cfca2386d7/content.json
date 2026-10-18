@@ -1,0 +1,25 @@
+{
+  "id": "69e1b2cfca2386d7",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+  "summary": "该新闻称OpenAI在AI内容溯源方面取得进展，涉及Content Credentials、SynthID以及一个验证工具，旨在帮助人们识别和信任AI生成的媒体。",
+  "url": "https://openai.com/index/advancing-content-provenance",
+  "date": "2026-05-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-19T10:45:00+00:00",
+  "titleEn": "Advancing content provenance for a safer, more transparent AI ecosystem",
+  "titleZh": "推进内容溯源，构建更安全透明的AI生态",
+  "details": {
+    "overview": "该新闻称OpenAI在AI内容溯源方面取得进展，涉及Content Credentials、SynthID以及一个验证工具，旨在帮助人们识别和信任AI生成的媒体。原文未说明这些功能的具体推出范围、技术实现细节或验证准确率。该信息来自官方发布记录，相关能力可能仍在推进中，具体限制以原文为准。",
+    "keyPoints": [
+      "OpenAI推进AI内容溯源，涉及Content Credentials和SynthID。",
+      "提供验证工具，帮助识别AI生成媒体。",
+      "具体推出范围和技术细节未在原文中说明。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

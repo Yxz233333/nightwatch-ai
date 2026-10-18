@@ -1,0 +1,25 @@
+{
+  "id": "369609775bcc7c8e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Gradient Labs gives every bank customer an AI account manager",
+  "summary": "据摘要，Gradient Labs 使用 GPT-4.1 以及 GPT-5.4 mini 和 nano 驱动 AI 智能体，用于自动化银行客服支持工作流，并强调低延迟与高可靠性。",
+  "url": "https://openai.com/index/gradient-labs",
+  "date": "2026-04-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-01T02:00:00+00:00",
+  "titleEn": "Gradient Labs gives every bank customer an AI account manager",
+  "titleZh": "Gradient Labs 为每位银行客户配备 AI 客户经理",
+  "details": {
+    "overview": "据摘要，Gradient Labs 使用 GPT-4.1 以及 GPT-5.4 mini 和 nano 驱动 AI 智能体，用于自动化银行客服支持工作流，并强调低延迟与高可靠性。当前收录材料未提供具体银行客户、部署规模、效果指标或上线范围，也未说明是否经过独立验证。因此本条可确认的是其模型选型与目标场景，实际表现与推出范围需以官方原始发布记录为准。",
+    "keyPoints": [
+      "使用 GPT-4.1 与 GPT-5.4 mini、nano 驱动 AI 智能体",
+      "目标场景是自动化银行客服支持工作流",
+      "强调低延迟与高可靠性，未披露具体效果指标"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

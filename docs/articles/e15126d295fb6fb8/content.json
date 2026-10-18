@@ -1,0 +1,25 @@
+{
+  "id": "e15126d295fb6fb8",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+  "summary": "该新闻标题显示，Granite Switch 4.1 可通过单一端点提供聊天、决策和语音三类能力。",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+  "date": "2026-10-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-10-15T20:34:01+00:00",
+  "titleEn": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+  "titleZh": "Granite Switch 4.1：一个端点提供聊天、决策与语音功能",
+  "details": {
+    "overview": "该新闻标题显示，Granite Switch 4.1 可通过单一端点提供聊天、决策和语音三类能力。由于原始发布内容未提供具体技术细节、性能数据或适用范围，无法进一步说明其实现方式与效果。该信息属于产品发布类新闻，具体推出范围和限制需以官方原文为准。",
+    "keyPoints": [
+      "Granite Switch 4.1 通过一个端点集成聊天、决策与语音功能。",
+      "原始发布内容未披露具体技术细节与性能数据。",
+      "推出范围和限制需以官方原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

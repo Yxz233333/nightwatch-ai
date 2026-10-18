@@ -1,0 +1,23 @@
+{
+  "id": "3fd66584fa623b56",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Memory that stays more up to date",
+  "summary": "官方表示已升级 ChatGPT 记忆功能，使其能更好地保持上下文更新，减少过时或矛盾的已保存记忆，从而更理解用户偏好、目标和进行中的工作。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#memory-that-stays-more-up-to-date",
+  "date": "2026-06-04",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Memory that stays more up to date",
+  "titleZh": "更及时更新的记忆功能",
+  "details": {
+    "overview": "官方表示已升级 ChatGPT 记忆功能，使其能更好地保持上下文更新，减少过时或矛盾的已保存记忆，从而更理解用户偏好、目标和进行中的工作。记忆现在会自动更新，用户可通过来源或记忆摘要查看可能用于个性化的内容。该更新当日起面向美国 Plus 和 Pro 用户推出，Plus 和 Pro 用户的记忆容量提升至两倍；未来数周将扩展至 Free、Go 套餐及更多国家，用户可在设置中切回旧版已保存记忆。",
+    "keyPoints": [
+      "记忆改为自动更新，减少过时或矛盾内容",
+      "美国 Plus 和 Pro 用户记忆容量提升至两倍",
+      "后续数周扩展至 Free、Go 套餐及更多国家"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "e97640c273823999",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Lowe’s answers millions of home improvement questions with OpenAI",
+  "summary": "该发布称，Lowe’s 使用 OpenAI 模型驱动 Mylow 与 Mylow Companion，帮助顾客和员工回答超过 2500 万个家装问题，推动家装项目进展。",
+  "url": "https://openai.com/index/lowes",
+  "date": "2026-09-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-25T07:00:00+00:00",
+  "titleEn": "Lowe’s answers millions of home improvement questions with OpenAI",
+  "titleZh": "Lowe’s 借助 OpenAI 回答数百万个家装问题",
+  "details": {
+    "overview": "该发布称，Lowe’s 使用 OpenAI 模型驱动 Mylow 与 Mylow Companion，帮助顾客和员工回答超过 2500 万个家装问题，推动家装项目进展。材料仅提供这一概括性描述，未说明所用具体模型、部署方式、效果评估或独立验证情况，相关数字为官方说法，推出范围与限制以原文为准。",
+    "keyPoints": [
+      "Lowe’s 用 OpenAI 模型驱动 Mylow 与 Mylow Companion",
+      "官方称已帮助顾客和员工回答 2500 万以上家装问题",
+      "未披露具体模型、部署方式与效果评估细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

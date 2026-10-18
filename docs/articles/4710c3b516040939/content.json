@@ -1,0 +1,23 @@
+{
+  "id": "4710c3b516040939",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Introducing GPT-5-Codex",
+  "summary": "官方发布记录介绍 GPT-5-Codex，称其为 GPT-5 的版本，针对 Codex 中的智能体编程进一步优化。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2025-09-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "Introducing GPT-5-Codex",
+  "titleZh": "推出 GPT-5-Codex",
+  "details": {
+    "overview": "官方发布记录介绍 GPT-5-Codex，称其为 GPT-5 的版本，针对 Codex 中的智能体编程进一步优化。登录 ChatGPT 账户后可在 IDE 扩展和 CLI 中使用，同时驱动 GitHub 中的云端智能体和代码审查。云端前端工程任务中，它可在 Codex web 显示 UI 截图供审阅，便于不检出分支本地即可迭代设计。CLI 新增恢复会话和接近上下文上限时自动压缩摘要。",
+    "keyPoints": [
+      "GPT-5-Codex 是面向 Codex 智能体编程优化的 GPT-5 版本",
+      "可在 IDE 扩展、CLI 及 GitHub 云端智能体和代码审查中使用",
+      "云端前端任务可显示 UI 截图，CLI 支持恢复会话与上下文压缩"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

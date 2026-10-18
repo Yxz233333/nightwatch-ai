@@ -1,0 +1,24 @@
+{
+  "id": "5797e759f50c58e0",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
+  "summary": "Anthropic与Infosys宣布合作，面向电信、金融服务、制造和软件开发等领域开发并交付企业级AI解决方案。",
+  "url": "https://www.anthropic.com/news/anthropic-infosys",
+  "date": "2026-02-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-02-17T06:19:07.669000+00:00",
+  "titleEn": "Anthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
+  "titleZh": "Anthropic与Infosys合作，为电信等受监管行业构建AI智能体",
+  "details": {
+    "overview": "Anthropic与Infosys宣布合作，面向电信、金融服务、制造和软件开发等领域开发并交付企业级AI解决方案。合作将Anthropic的Claude模型与Claude Code同Infosys Topaz平台结合，帮助企业在满足受监管行业所需的治理与透明度要求下加快软件开发。双方称重点方向是智能体AI，即能独立处理理赔、生成与测试代码、管理合规审查等多步骤任务的系统，并计划借助Claude Agent SDK帮助客户构建可长时间持续工作的智能体，同时推动遗留系统现代化。原文还提到印度是Claude.ai第二大市场。",
+    "keyPoints": [
+      "合作将Claude与Claude Code接入Infosys Topaz平台。",
+      "重点为电信、金融、制造等受监管行业构建智能体AI。",
+      "双方计划用Claude Agent SDK支持长流程任务与遗留系统迁移。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

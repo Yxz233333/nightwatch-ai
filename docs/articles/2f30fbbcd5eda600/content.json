@@ -1,0 +1,25 @@
+{
+  "id": "2f30fbbcd5eda600",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Sentence Transformers is joining Hugging Face!",
+  "summary": "该消息宣布 Sentence Transformers 项目加入 Hugging Face。",
+  "url": "https://huggingface.co/blog/sentence-transformers-joins-hf",
+  "date": "2025-10-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-10-22T00:00:00+00:00",
+  "titleEn": "Sentence Transformers is joining Hugging Face!",
+  "titleZh": "Sentence Transformers 加入 Hugging Face！",
+  "details": {
+    "overview": "该消息宣布 Sentence Transformers 项目加入 Hugging Face。原始发布内容仅有一句标题式表述，未说明整合方式、团队安排、许可证或后续维护计划，也未提及对现有用户的影响。因此目前只能确认这一归属或合作动向本身，具体范围与限制需以官方原文为准。",
+    "keyPoints": [
+      "官方发布称 Sentence Transformers 加入 Hugging Face",
+      "原文未说明整合形式与团队安排",
+      "推出范围和限制需以原始发布为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

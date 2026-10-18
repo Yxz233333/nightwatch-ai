@@ -1,0 +1,24 @@
+{
+  "id": "91b68f6ba880171b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "A statement from Dario Amodei on Anthropic's commitment to American AI leadership",
+  "summary": "Anthropic CEO 达里奥·阿莫代伊发表声明，称公司致力于推动美国在构建强大且有益 AI 方面的领导地位。",
+  "url": "https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership",
+  "date": "2025-10-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-10-21T14:00:00+00:00",
+  "titleEn": "A statement from Dario Amodei on Anthropic's commitment to American AI leadership",
+  "titleZh": "达里奥·阿莫代伊关于 Anthropic 致力于美国 AI 领导地位的声明",
+  "details": {
+    "overview": "Anthropic CEO 达里奥·阿莫代伊发表声明，称公司致力于推动美国在构建强大且有益 AI 方面的领导地位。声明表示认同副总统 JD·万斯关于最大化有益应用、最小化有害应用的观点，并称 Anthropic 收入在九个月内从 10 亿美元年化增至 70 亿美元。声明还称近期关于其政策立场的不准确说法增多，并列出与美国政府在 AI 政策关键领域的一致、对全国性 AI 标准的偏好以及模型偏见方面的进展。",
+    "keyPoints": [
+      "阿莫代伊称 AI 应造福人类进步而非带来危险",
+      "声明称收入九个月内从 10 亿增至 70 亿美元年化",
+      "声明列出与美国政府在 AI 政策关键领域的一致点"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

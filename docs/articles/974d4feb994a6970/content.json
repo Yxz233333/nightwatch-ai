@@ -1,0 +1,23 @@
+{
+  "id": "974d4feb994a6970",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT 更新：October 29, 2025",
+  "summary": "该更新说明ChatGPT Pulse已在网页端上线，并面向Pro用户向Atlas推送。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#october-29-2025",
+  "date": "2025-10-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "ChatGPT 更新：October 29, 2025",
+  "titleZh": "ChatGPT 更新：October 29, 2025",
+  "details": {
+    "overview": "该更新说明ChatGPT Pulse已在网页端上线，并面向Pro用户向Atlas推送。Pulse可基于用户过往对话、记忆和反馈，每天代为进行一次异步研究，次日以一系列可视化摘要主动呈现，用户可快速浏览、展开细节、保存备用或继续追问。原文未说明其他套餐的可用范围。",
+    "keyPoints": [
+      "ChatGPT Pulse已在网页端上线并向Atlas的Pro用户推送",
+      "每天基于历史对话、记忆与反馈进行一次异步研究",
+      "结果次日以可视化摘要主动呈现，可展开、保存或追问"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

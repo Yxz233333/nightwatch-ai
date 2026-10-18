@@ -1,0 +1,25 @@
+{
+  "id": "1d0c7055713ff44a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Beyond rate limits: scaling access to Codex and Sora",
+  "summary": "摘要表示，该文介绍 OpenAI 如何构建一套实时访问系统，将速率限制、用量追踪与额度机制结合起来，以支撑 Sora 和 Codex 的持续访问。",
+  "url": "https://openai.com/index/beyond-rate-limits",
+  "date": "2026-02-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-13T09:00:00+00:00",
+  "titleEn": "Beyond rate limits: scaling access to Codex and Sora",
+  "titleZh": "超越速率限制：扩展 Codex 与 Sora 的访问",
+  "details": {
+    "overview": "摘要表示，该文介绍 OpenAI 如何构建一套实时访问系统，将速率限制、用量追踪与额度机制结合起来，以支撑 Sora 和 Codex 的持续访问。当前收录材料未提供系统架构细节、具体阈值或效果数据。其意义在于说明大规模模型服务在访问控制与容量分配上的工程思路，但相关设计与结论需以官方完整原文为准。",
+    "keyPoints": [
+      "系统结合速率限制、用量追踪与额度",
+      "目标是支撑 Sora 与 Codex 的持续访问",
+      "当前收录材料未提供具体架构与效果数据"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

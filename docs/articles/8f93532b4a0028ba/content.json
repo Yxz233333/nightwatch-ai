@@ -1,0 +1,25 @@
+{
+  "id": "8f93532b4a0028ba",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Disrupting malicious uses of AI | February 2026",
+  "summary": "现有材料仅为一段简介，说明这是最新一期威胁报告，关注恶意行为者如何将 AI 模型与网站、社交平台结合使用，以及对检测与防御意味着什么。",
+  "url": "https://openai.com/index/disrupting-malicious-ai-uses",
+  "date": "2026-02-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-25T00:00:00+00:00",
+  "titleEn": "Disrupting malicious uses of AI | February 2026",
+  "titleZh": "打击 AI 恶意使用｜2026 年 2 月",
+  "details": {
+    "overview": "现有材料仅为一段简介，说明这是最新一期威胁报告，关注恶意行为者如何将 AI 模型与网站、社交平台结合使用，以及对检测与防御意味着什么。当前收录材料未提供具体案例、涉及模型、处置措施或数据，相关细节需以报告全文为准。",
+    "keyPoints": [
+      "报告主题为恶意行为者将 AI 模型与网站、社交平台结合使用。",
+      "关注点在于此类组合对检测与防御的影响。",
+      "现有材料未披露具体案例与处置细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

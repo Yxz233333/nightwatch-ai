@@ -1,0 +1,24 @@
+{
+  "id": "21021618f1384985",
+  "section": "news",
+  "category": "模型动态",
+  "title": "The model that didn't exist, so you made it yourself",
+  "summary": "原始发布内容为空，仅有标题和摘要，均为“The model that didn't exist, so you made it yourself”。",
+  "url": "https://huggingface.co/blog/building-with-ml-intern",
+  "date": "2026-10-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-10-08T00:00:00+00:00",
+  "titleEn": "The model that didn't exist, so you made it yourself",
+  "titleZh": "那个不存在的模型，于是你自己做了一个",
+  "details": {
+    "overview": "原始发布内容为空，仅有标题和摘要，均为“The model that didn't exist, so you made it yourself”。材料不足以说明具体研究对象、作者声称结果或研究意义，因此无法提供更详细的中文介绍。",
+    "keyPoints": [
+      "原始发布内容为空，无法提炼具体要点。",
+      "标题暗示用户自行构建了不存在的模型。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

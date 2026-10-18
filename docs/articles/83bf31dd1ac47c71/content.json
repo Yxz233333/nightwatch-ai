@@ -1,0 +1,25 @@
+{
+  "id": "83bf31dd1ac47c71",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.97.0 发布",
+  "summary": "Codex CLI 0.97.0 稳定版发布，更新日志列出新功能、修复与杂项。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.97.0",
+  "date": "2026-02-05",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-02-05T05:11:10+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.97.0 发布",
+  "titleZh": "Codex CLI 0.97.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.97.0 稳定版发布，更新日志列出新功能、修复与杂项。新增会话级“允许并记住”工具审批、技能文件变更实时检测、动态工具输出支持图文混合、TUI 的 /debug-config 命令、线程记忆摘要的初期记忆管道，以及可配置 log_dir。修复涉及 TUI 选择器抖动、工作状态指示、云需求可靠性与待处理输入事件持久化，并新增 Linux Bubblewrap 沙箱路径等。",
+    "keyPoints": [
+      "新增会话级“允许并记住”审批，同一工具在会话内可自动批准",
+      "新增技能文件实时更新检测与 /debug-config 配置查看命令",
+      "引入线程记忆摘要初期管道，并新增可配置 log_dir"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

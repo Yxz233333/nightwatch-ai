@@ -1,0 +1,25 @@
+{
+  "id": "055352f314bd28fb",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+  "summary": "据官方发布信息，保险公司Travelers与OpenAI合作构建了AI驱动的理赔助手（Claim Assistant），用于引导客户完成理赔申报、提供全天候支持，并在需求高峰时扩展运营能力。",
+  "url": "https://openai.com/index/travelers",
+  "date": "2026-06-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-02T12:00:00+00:00",
+  "titleEn": "Travelers deploys AI-powered claims countrywide with OpenAI",
+  "titleZh": "Travelers与OpenAI合作在全国部署AI理赔助手",
+  "details": {
+    "overview": "据官方发布信息，保险公司Travelers与OpenAI合作构建了AI驱动的理赔助手（Claim Assistant），用于引导客户完成理赔申报、提供全天候支持，并在需求高峰时扩展运营能力。该消息属于行业应用动态，当前收录材料未提供具体部署范围、客户使用效果或独立验证结果，相关推出范围和限制应以原始发布为准。",
+    "keyPoints": [
+      "Travelers与OpenAI合作构建AI理赔助手，引导客户完成理赔申报流程。",
+      "该助手提供24/7支持，并用于在需求高峰时扩展运营能力。",
+      "当前收录材料未提供部署范围、使用效果或独立验证细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

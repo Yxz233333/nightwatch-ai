@@ -1,0 +1,24 @@
+{
+  "id": "a9b81783b54dad93",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Daily Brief is your personalized overview of what matters today.",
+  "summary": "官方发布介绍Daily Brief，这是由Gemini构建的个性化每日概览。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2026-05-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|Daily Brief is your personalized overview of what matters today.|2026-05-19",
+  "titleEn": "Daily Brief is your personalized overview of what matters today.",
+  "titleZh": "Daily Brief：今日要事的个性化概览",
+  "details": {
+    "overview": "官方发布介绍Daily Brief，这是由Gemini构建的个性化每日概览。它依托Personal Intelligence，从用户连接的Gmail、Google Calendar等Workspace应用及Gemini聊天中提炼优先事项，汇成易读视图。简报以“Top of Mind”呈现即时优先事项并建议下一步，以“Look Ahead”帮助推进长期目标。该功能开始面向美国18岁及以上的所有Google AI订阅者推出。官方称其旨在用一份按优先级整理的摘要替代早晨在多个应用间切换的负担。",
+    "keyPoints": [
+      "Daily Brief由Gemini构建，汇总连接应用与聊天中的优先事项",
+      "以Top of Mind和Look Ahead分别呈现即时事项与长期目标",
+      "开始面向美国18岁及以上Google AI订阅者推出"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

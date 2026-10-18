@@ -1,0 +1,23 @@
+{
+  "id": "29df167977b18979",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT 更新：October 23, 2025",
+  "summary": "OpenAI 宣布 ChatGPT 的“共享项目”功能向所有用户开放，覆盖 Free、Plus、Pro、Go 各档，支持网页、iOS 和 Android。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#october-23-2025",
+  "date": "2025-10-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "ChatGPT 更新：October 23, 2025",
+  "titleZh": "ChatGPT 更新：2025年10月23日",
+  "details": {
+    "overview": "OpenAI 宣布 ChatGPT 的“共享项目”功能向所有用户开放，覆盖 Free、Plus、Pro、Go 各档，支持网页、iOS 和 Android。共享项目可调用项目内的聊天、上传文件和自定义指令，让协作者基于团队内部知识继续工作。原文列举了团队协作、内容创作、报告和研究等场景，并说明项目所有者可选择“仅受邀者”或“持链接者”可见，且可随时改回仅受邀。不同档位在文件数和协作者数上有限制。",
+    "keyPoints": [
+      "共享项目向 Free、Plus、Pro、Go 全球用户开放，覆盖网页、iOS 和 Android。",
+      "ChatGPT 可调用共享项目内的聊天、文件和自定义指令来生成回答。",
+      "Pro 上限 40 个文件、100 名协作者；Plus 和 Go 为 25 个文件、10 人；Free 为 5 个文件、5 人。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

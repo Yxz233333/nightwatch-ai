@@ -1,0 +1,25 @@
+{
+  "id": "d676328c0e7d066a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Advancing responsible AI across Europe",
+  "summary": "该发布介绍 OpenAI 如何通过安全、安保、透明度与来源溯源等实践，支持欧洲的负责任 AI 治理，并表示随着欧盟《人工智能法案》推进，相关工作将继续开展。",
+  "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+  "date": "2026-07-31",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-31T15:00:00+00:00",
+  "titleEn": "Advancing responsible AI across Europe",
+  "titleZh": "在欧洲推进负责任 AI",
+  "details": {
+    "overview": "该发布介绍 OpenAI 如何通过安全、安保、透明度与来源溯源等实践，支持欧洲的负责任 AI 治理，并表示随着欧盟《人工智能法案》推进，相关工作将继续开展。原文为治理实践概述，未披露具体合规结论或评估结果，细节以原始发布为准。",
+    "keyPoints": [
+      "涵盖安全、安保、透明度与来源溯源实践",
+      "定位为支持欧洲负责任 AI 治理",
+      "称将随欧盟 AI 法案推进继续相关工作"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

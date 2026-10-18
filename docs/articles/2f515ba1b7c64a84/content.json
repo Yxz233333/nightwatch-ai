@@ -1,0 +1,24 @@
+{
+  "id": "2f515ba1b7c64a84",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Designing more efficient quantum circuits with Claude",
+  "summary": "Anthropic 称，其让 Claude 在基本自主的情况下，根据八个量子电路的 plain-language 规格和自动评估器进行设计，覆盖化学、优化、物理模拟和数论。",
+  "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+  "date": "2026-10-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-10-16T17:29:00+00:00",
+  "titleEn": "Designing more efficient quantum circuits with Claude",
+  "titleZh": "用 Claude 设计更高效的量子电路",
+  "details": {
+    "overview": "Anthropic 称，其让 Claude 在基本自主的情况下，根据八个量子电路的 plain-language 规格和自动评估器进行设计，覆盖化学、优化、物理模拟和数论。作者表示，Claude 找到的设计优于已发表的最佳电路，部分提升达一个数量级或更多，可减少有用量子应用所需的量子资源。该工作由 Andi Gu 主导，与哈佛大学 Susanne Yelin、Mikhail Lukin 合作，完整论文发布在 arXiv。结论来自作者方，尚待独立验证。",
+    "keyPoints": [
+      "Claude 根据自然语言规格和自动评分器设计八类量子电路。",
+      "作者称部分设计优于已发表最佳版本，提升可达一个数量级或更多。",
+      "改进可减少量子资源需求，完整论文已发布在 arXiv。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

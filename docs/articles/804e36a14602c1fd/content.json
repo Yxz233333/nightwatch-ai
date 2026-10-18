@@ -1,0 +1,25 @@
+{
+  "id": "804e36a14602c1fd",
+  "section": "news",
+  "category": "工具动态",
+  "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
+  "summary": "该条目标题为AssetOpsBench，旨在连接AI智能体基准测试与工业实际应用。",
+  "url": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
+  "date": "2026-01-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-01-21T06:25:31+00:00",
+  "titleEn": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
+  "titleZh": "AssetOpsBench：弥合AI智能体基准与工业现实之间的差距",
+  "details": {
+    "overview": "该条目标题为AssetOpsBench，旨在连接AI智能体基准测试与工业实际应用。但sourceText为空，仅有标题，无法获取具体研究对象、作者声称结果或研究意义，信息严重不足。",
+    "keyPoints": [
+      "标题指向AI智能体基准与工业现实的衔接。",
+      "原文内容缺失，无法提炼具体结论。",
+      "需查阅原始发布以获取完整信息。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

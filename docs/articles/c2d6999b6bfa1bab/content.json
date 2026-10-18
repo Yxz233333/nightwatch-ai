@@ -1,0 +1,25 @@
+{
+  "id": "c2d6999b6bfa1bab",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.110.0 发布",
+  "summary": "Codex CLI 0.110.0发布，新增插件系统、TUI多代理流程增强、持久化/fast切换、记忆改进及Windows直接安装脚本，并修复文件提及、子代理稳定性、沙箱网络访问等问题。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.110.0",
+  "date": "2026-03-05",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-03-05T02:22:46+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.110.0 发布",
+  "titleZh": "Codex CLI 0.110.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.110.0发布，新增插件系统、TUI多代理流程增强、持久化/fast切换、记忆改进及Windows直接安装脚本，并修复文件提及、子代理稳定性、沙箱网络访问等问题。该版本为CLI稳定版，桌面端功能另以对应公告为准。",
+    "keyPoints": [
+      "新增插件系统，可从配置或本地市场加载技能、MCP条目和应用连接器。",
+      "TUI多代理流程增加审批提示、/agent启用和角色标签交接上下文。",
+      "修复@文件提及受父目录.gitignore影响、子代理竞态及只读沙箱网络访问等问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

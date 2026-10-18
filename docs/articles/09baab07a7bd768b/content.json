@@ -1,0 +1,24 @@
+{
+  "id": "09baab07a7bd768b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Teen safety, freedom, and privacy",
+  "summary": "OpenAI 发布文章探讨其在 AI 使用中平衡青少年安全、自由与隐私的方法。",
+  "url": "https://openai.com/index/teen-safety-freedom-and-privacy",
+  "date": "2025-09-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-16T06:00:00+00:00",
+  "titleEn": "Teen safety, freedom, and privacy",
+  "titleZh": "青少年安全、自由与隐私",
+  "details": {
+    "overview": "OpenAI 发布文章探讨其在 AI 使用中平衡青少年安全、自由与隐私的方法。原文摘要仅一句话，未提供具体措施、政策细节或研究数据，因此无法进一步概述其具体对象、结果或意义。",
+    "keyPoints": [
+      "主题为平衡青少年安全、自由与隐私。",
+      "原文仅提供一句话摘要，未披露具体措施或数据。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

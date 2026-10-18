@@ -1,0 +1,24 @@
+{
+  "id": "acf8ddeb49dfd17b",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing Claude Sonnet 5",
+  "summary": "官方发布称，Claude Sonnet 5 是迄今最具代理能力的 Sonnet 模型，能制定计划、使用浏览器和终端等工具，并以较低价格接近 Opus 4.8 的表现。",
+  "url": "https://www.anthropic.com/news/claude-sonnet-5",
+  "date": "2026-07-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-06-30T18:00:00+00:00",
+  "titleEn": "Introducing Claude Sonnet 5",
+  "titleZh": "推出 Claude Sonnet 5",
+  "details": {
+    "overview": "官方发布称，Claude Sonnet 5 是迄今最具代理能力的 Sonnet 模型，能制定计划、使用浏览器和终端等工具，并以较低价格接近 Opus 4.8 的表现。它在推理、工具使用、编程和知识工作等代理性能上较 Sonnet 4.6 明显提升。安全评估称其不良行为总体少于 Sonnet 4.6，在代理场景中更安全，但自动化行为审计中的错位行为略高于 Opus 4.8 等更强模型。该模型即日起面向所有套餐提供，定价为每百万输入 token 2 美元、每百万输出 token 10 美元，并默认启用网络安全防护。",
+    "keyPoints": [
+      "Sonnet 5 定位为最具代理能力的 Sonnet，性能接近 Opus 4.8 而价格更低。",
+      "官方称其代理安全优于 Sonnet 4.6，但部分错位行为高于 Opus 4.8。",
+      "即日起面向所有套餐提供，定价为输入 2 美元、输出 10 美元每百万 token。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

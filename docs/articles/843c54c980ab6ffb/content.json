@@ -1,0 +1,24 @@
+{
+  "id": "843c54c980ab6ffb",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Drive with Gemini in Android Auto",
+  "summary": "官方发布介绍，Gemini 作为 Android Auto 中 Google Assistant 的升级版，继续提供免手操作功能，并进一步作为对话式 AI 助手支持自然多轮交流与更复杂任务。",
+  "url": "https://gemini.google/release-notes/",
+  "date": "2025-11-20",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Gemini 官方发布说明",
+  "sourceRecordKey": "https://gemini.google/release-notes|Drive with Gemini in Android Auto|2025-11-20",
+  "titleEn": "Drive with Gemini in Android Auto",
+  "titleZh": "在 Android Auto 中用 Gemini 驾驶",
+  "details": {
+    "overview": "官方发布介绍，Gemini 作为 Android Auto 中 Google Assistant 的升级版，继续提供免手操作功能，并进一步作为对话式 AI 助手支持自然多轮交流与更复杂任务。它可连接用户常用应用，用于查找邮件信息、查询周边商户与景点、编辑翻译发送消息、即时生成配乐。使用前提是手机端已用 Gemini 应用，车机显示提示后可通过“Hey Google”、屏幕麦克风或方向盘语音键唤起。官方称目标是在不牺牲安全的前提下让行车时间更有价值。",
+    "keyPoints": [
+      "Gemini 是 Android Auto 中 Google Assistant 的升级，支持自然多轮对话。",
+      "可连接常用应用，完成查邮件、找周边信息、编辑翻译消息等任务。",
+      "需手机端使用 Gemini 应用，车机出现提示后即可启用。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

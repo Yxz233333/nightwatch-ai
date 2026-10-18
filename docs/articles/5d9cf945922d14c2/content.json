@@ -1,0 +1,25 @@
+{
+  "id": "5d9cf945922d14c2",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.142.0 发布",
+  "summary": "Codex CLI发布0.142.0稳定版本，新增/usage查看和兑换用量重置额度、/plugins按来源分类远程插件并推荐安装、可配置的token预算跟踪与耗尽中止、多代理委派模式配置、索引式网页搜索模式以及定时提醒和当前时间查询等功能。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.142.0",
+  "date": "2026-06-23",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-06-22T22:19:53+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.142.0 发布",
+  "titleZh": "Codex CLI 0.142.0 发布",
+  "details": {
+    "overview": "Codex CLI发布0.142.0稳定版本，新增/usage查看和兑换用量重置额度、/plugins按来源分类远程插件并推荐安装、可配置的token预算跟踪与耗尽中止、多代理委派模式配置、索引式网页搜索模式以及定时提醒和当前时间查询等功能。同时修复了Linux TUI恢复渲染、执行服务器断线重连、远程环境路径保留、插件加载安装、子代理错误上报和线程持久化等问题，并优化了启动延迟和日志量。",
+    "keyPoints": [
+      "新增/usage兑换用量重置额度、/plugins分类推荐插件及可配置token预算跟踪。",
+      "支持多代理委派模式配置、索引式网页搜索和定时提醒与时间查询。",
+      "修复Linux TUI恢复、断线重连、插件加载等问题并降低启动延迟。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

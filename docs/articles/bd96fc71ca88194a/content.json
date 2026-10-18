@@ -1,0 +1,25 @@
+{
+  "id": "bd96fc71ca88194a",
+  "section": "news",
+  "category": "模型动态",
+  "title": "gpt-oss-safeguard technical report",
+  "summary": "该技术报告介绍gpt-oss-safeguard-120b与gpt-oss-safeguard-20b两个开放权重推理模型，它们由gpt-oss模型后训练而来，被训练为依据给定策略进行推理，从而按该策略对内容打标签。",
+  "url": "https://openai.com/index/gpt-oss-safeguard-technical-report",
+  "date": "2025-10-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-10-29T00:00:00+00:00",
+  "titleEn": "gpt-oss-safeguard technical report",
+  "titleZh": "gpt-oss-safeguard 技术报告",
+  "details": {
+    "overview": "该技术报告介绍gpt-oss-safeguard-120b与gpt-oss-safeguard-20b两个开放权重推理模型，它们由gpt-oss模型后训练而来，被训练为依据给定策略进行推理，从而按该策略对内容打标签。报告描述模型能力，并以原始gpt-oss模型为基线给出基线安全评估。模型架构与开发细节需参见原gpt-oss模型卡。",
+    "keyPoints": [
+      "两个开放权重模型由gpt-oss模型后训练得到",
+      "模型依据提供的策略推理并据此标注内容",
+      "报告以原始gpt-oss模型为基线给出安全评估"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

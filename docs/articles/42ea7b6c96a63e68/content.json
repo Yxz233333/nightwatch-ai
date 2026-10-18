@@ -1,0 +1,24 @@
+{
+  "id": "42ea7b6c96a63e68",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Claude Science, an AI workbench for scientists, is now available",
+  "summary": "Anthropic 推出面向科学家的 AI 工作台 Claude Science，整合研究人员常用工具与软件包，生成可审计的研究产物，并提供灵活的计算资源访问。",
+  "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+  "date": "2026-06-30",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-06-30T15:07:00+00:00",
+  "titleEn": "Claude Science, an AI workbench for scientists, is now available",
+  "titleZh": "面向科学家的 AI 工作台 Claude Science 现已推出",
+  "details": {
+    "overview": "Anthropic 推出面向科学家的 AI 工作台 Claude Science，整合研究人员常用工具与软件包，生成可审计的研究产物，并提供灵活的计算资源访问。它把 PubMed、Jupyter、R、集群终端等分散工具汇入单一环境，支持文献分析、多步研究、图表与稿件迭代，每项输出附带可审计的生成历史。用户可在 macOS、Linux 本地或经 SSH、HPC 登录节点使用，由通用协调代理调用 60 多个预配置技能与连接器，并有审查代理检查引用与计算。该产品以 beta 形式向 Claude Pro、Max、Team 和 Enterprise 用户发布。",
+    "keyPoints": [
+      "整合 PubMed、Jupyter、R 等工具，输出附带可审计的生成历史。",
+      "通用协调代理可调用 60 多个面向基因组学、蛋白质组学等的技能与连接器。",
+      "可在本地或 HPC 环境运行，审查代理检查引用、计算与图表代码一致性。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

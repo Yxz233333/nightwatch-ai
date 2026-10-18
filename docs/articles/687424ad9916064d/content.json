@@ -1,0 +1,23 @@
+{
+  "id": "687424ad9916064d",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Introducing Instant Checkout and the Agentic Commerce Protocol",
+  "summary": "OpenAI宣布在ChatGPT中推出即时结账功能，以及与Stripe共同构建的智能体商务协议（ACP）。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-instant-checkout-and-the-agentic-commerce-protocol",
+  "date": "2025-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Introducing Instant Checkout and the Agentic Commerce Protocol",
+  "titleZh": "推出即时结账与智能体商务协议",
+  "details": {
+    "overview": "OpenAI宣布在ChatGPT中推出即时结账功能，以及与Stripe共同构建的智能体商务协议（ACP）。即日起美国ChatGPT Plus、Pro和Free用户可通过ChatGPT直接向美国Etsy卖家购买，超过100万Shopify商家即将接入。用户提出购物问题后，ChatGPT展示来自全网的自然、非赞助商品结果，并按库存、价格、质量、主要卖家状态和即时结账可用性等因素排序商家。用户需明确确认购买，付款直接由用户支付给商家而非经OpenAI。商家可申请接入，开发者可在GitHub查看协议文档与示例实现。",
+    "keyPoints": [
+      "美国ChatGPT Plus、Pro和Free用户可向美国Etsy卖家直接购买，超100万Shopify商家即将接入。",
+      "商品结果为自然非赞助结果，按库存、价格、质量等因素排序商家。",
+      "付款由用户直接支付给商家，不经OpenAI；协议与Stripe共同构建。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "1ee8391a39234fb1",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Advancing independent research on AI alignment",
+  "summary": "官方发布信息显示，OpenAI 承诺向 The Alignment Project 投入 750 万美元，用于资助独立的 AI 对齐研究，以加强全球在应对 AGI 安全与安保风险方面的努力。",
+  "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
+  "date": "2026-02-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-19T10:00:00+00:00",
+  "titleEn": "Advancing independent research on AI alignment",
+  "titleZh": "推进 AI 对齐的独立研究",
+  "details": {
+    "overview": "官方发布信息显示，OpenAI 承诺向 The Alignment Project 投入 750 万美元，用于资助独立的 AI 对齐研究，以加强全球在应对 AGI 安全与安保风险方面的努力。该消息属于资金承诺与项目资助公告，原文未说明资助对象筛选标准、研究周期或具体研究议题。相关安排与限制需以官方原始发布为准。",
+    "keyPoints": [
+      "OpenAI 承诺向 The Alignment Project 投入 750 万美元。",
+      "资金用于资助独立的 AI 对齐研究。",
+      "官方称此举旨在加强应对 AGI 安全与安保风险的全球努力。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

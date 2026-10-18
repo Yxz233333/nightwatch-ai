@@ -1,0 +1,22 @@
+{
+  "id": "a7faaab14e67d407",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "New detailed characteristic controls",
+  "summary": "ChatGPT 在原有基础风格与语气预设（如坦率、友好）之外，新增可单独调整的具体特征。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-detailed-characteristic-controls",
+  "date": "2025-12-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "New detailed characteristic controls",
+  "titleZh": "新增详细特征控制",
+  "details": {
+    "overview": "ChatGPT 在原有基础风格与语气预设（如坦率、友好）之外，新增可单独调整的具体特征。用户可在设置的“个性化”面板中调整 ChatGPT：更温暖或更不温暖、更热情或更不热情、更多或更少使用标题与列表、更多或更少使用表情符号。原文未说明推出范围与时间。",
+    "keyPoints": [
+      "可在“个性化”面板单独调整具体特征，而非只选预设",
+      "可调项包括温暖度、热情度、标题与列表用量、表情符号用量"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

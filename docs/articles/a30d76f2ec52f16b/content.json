@@ -1,0 +1,25 @@
+{
+  "id": "a30d76f2ec52f16b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Expanding data residency access to business customers worldwide",
+  "summary": "OpenAI扩展数据驻留功能，覆盖ChatGPT Enterprise、ChatGPT Edu和API平台，使符合条件的客户能够将静态数据存储在所在区域。",
+  "url": "https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide",
+  "date": "2025-11-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-11-25T22:00:00+00:00",
+  "titleEn": "Expanding data residency access to business customers worldwide",
+  "titleZh": "面向全球企业客户扩展数据驻留访问",
+  "details": {
+    "overview": "OpenAI扩展数据驻留功能，覆盖ChatGPT Enterprise、ChatGPT Edu和API平台，使符合条件的客户能够将静态数据存储在所在区域。摘要未说明新增区域列表、生效时间或“符合条件”的具体标准。",
+    "keyPoints": [
+      "数据驻留扩展至ChatGPT Enterprise、Edu和API平台。",
+      "符合条件的客户可将静态数据存储在区域内。",
+      "面向全球企业客户提供。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "4a3c202a470de878",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
+  "summary": "据原始发布内容，NVIDIA称Vera Rubin针对后训练负载最大化“每美元智能”，并将其定位为智能体AI时代的关键指标。",
+  "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+  "date": "2026-07-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-07-17T15:00:14+00:00",
+  "titleEn": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
+  "titleZh": "NVIDIA Vera Rubin为后训练负载最大化每美元智能——智能体AI的关键指标",
+  "details": {
+    "overview": "据原始发布内容，NVIDIA称Vera Rubin针对后训练负载最大化“每美元智能”，并将其定位为智能体AI时代的关键指标。原文表示，通过深度协同设计实现的最低每token成本，是提升后训练每美元智能的途径。材料仅为一句概述，未提供具体性能数据、对比基准或测试条件，相关结论应视为厂商声称。",
+    "keyPoints": [
+      "NVIDIA称Vera Rubin针对后训练负载最大化每美元智能。",
+      "原文将每美元智能定位为智能体AI时代的关键指标。",
+      "作者称深度协同设计带来最低每token成本。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

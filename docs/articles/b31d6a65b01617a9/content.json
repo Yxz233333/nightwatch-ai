@@ -1,0 +1,25 @@
+{
+  "id": "b31d6a65b01617a9",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Better prompt caching for GPT-6",
+  "summary": "官方发布摘要表示，GPT-6 改进了提示缓存，具体包括更高的缓存命中率、新的诊断能力、显式断点以及若干控制项，目标是降低延迟和成本。",
+  "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+  "date": "2026-09-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-22T21:00:00+00:00",
+  "titleEn": "Better prompt caching for GPT-6",
+  "titleZh": "GPT-6 的提示缓存改进",
+  "details": {
+    "overview": "官方发布摘要表示，GPT-6 改进了提示缓存，具体包括更高的缓存命中率、新的诊断能力、显式断点以及若干控制项，目标是降低延迟和成本。当前收录摘要未给出命中率提升幅度、延迟或成本的具体数值，也未说明这些改进的独立验证情况，相关效果应以官方后续技术说明为准。",
+    "keyPoints": [
+      "摘要称 GPT-6 提示缓存命中率提高，并新增诊断能力。",
+      "引入显式断点和控制项，官方称用于降低延迟与成本。",
+      "摘要未披露具体性能数字或独立验证结果。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

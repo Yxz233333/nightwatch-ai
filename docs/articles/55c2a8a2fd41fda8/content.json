@@ -1,0 +1,24 @@
+{
+  "id": "55c2a8a2fd41fda8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Results from the first Anthropic Public Record",
+  "summary": "Anthropic开展名为Anthropic Public Record的全国调查，了解公众对AI的态度。",
+  "url": "https://www.anthropic.com/news/anthropic-public-record",
+  "date": "2026-06-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-06-12T21:51:00+00:00",
+  "titleEn": "Results from the first Anthropic Public Record",
+  "titleZh": "首份Anthropic Public Record调查结果",
+  "details": {
+    "overview": "Anthropic开展名为Anthropic Public Record的全国调查，了解公众对AI的态度。首轮于2025年11月至12月进行，覆盖近5.2万名美国人。摘要表示，多数问题上AI未沿党派、地域或教育程度明显分化，公众既期待AI益处又担忧其冲击，并要求开发公司承担责任。最常选的希望是治愈疾病（48%），最常见担忧是失业（64%），其次是认知依赖（56%）和虚假信息（52%）。该调查将定期重复，未来计划扩展至美国以外。",
+    "keyPoints": [
+      "首轮调查于2025年11月至12月覆盖近5.2万名美国人，样本经加权处理。",
+      "48%受访者将治愈疾病列入前三项希望，64%担忧AI导致失业。",
+      "调查显示多数议题上党派、地域和教育差异不明显，分歧多在观点强度。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

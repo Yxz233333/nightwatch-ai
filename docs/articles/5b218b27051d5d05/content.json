@@ -1,0 +1,24 @@
+{
+  "id": "5b218b27051d5d05",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Advancing Open Source AI, NVIDIA Donates Dynamic Resource Allocation Driver for GPUs to Kubernetes Community",
+  "summary": "NVIDIA宣布向Kubernetes社区捐赠用于GPU的动态资源分配驱动，以推动开源AI发展。",
+  "url": "https://blogs.nvidia.com/blog/nvidia-at-kubecon-2026/",
+  "date": "2026-03-24",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-03-24T08:00:12+00:00",
+  "titleEn": "Advancing Open Source AI, NVIDIA Donates Dynamic Resource Allocation Driver for GPUs to Kubernetes Community",
+  "titleZh": "推动开源AI，NVIDIA向Kubernetes社区捐赠GPU动态资源分配驱动",
+  "details": {
+    "overview": "NVIDIA宣布向Kubernetes社区捐赠用于GPU的动态资源分配驱动，以推动开源AI发展。文章指出，人工智能已成为现代计算中最关键的工作负载之一，而绝大多数企业在Kubernetes这一开源平台上运行该工作负载。NVIDIA表示，此举旨在帮助全球开发者社区以更高的透明度和效率管理高性能AI基础设施。提供的原文在关键处截断，具体技术细节和捐赠范围需以官方原始发布内容为准。",
+    "keyPoints": [
+      "NVIDIA向Kubernetes社区捐赠用于GPU的动态资源分配驱动。",
+      "文章指出绝大多数企业在Kubernetes上运行AI工作负载。",
+      "目标是帮助开发者以更高透明度和效率管理高性能AI基础设施。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

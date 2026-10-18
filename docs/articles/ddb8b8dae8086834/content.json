@@ -1,0 +1,25 @@
+{
+  "id": "ddb8b8dae8086834",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing Prism",
+  "summary": "Prism 是一款免费的 LaTeX 原生工作空间，内置 GPT-5.2，定位为帮助研究人员在同一处完成写作、协作与推理。",
+  "url": "https://openai.com/index/introducing-prism",
+  "date": "2026-01-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-27T00:00:00+00:00",
+  "titleEn": "Introducing Prism",
+  "titleZh": "推出 Prism",
+  "details": {
+    "overview": "Prism 是一款免费的 LaTeX 原生工作空间，内置 GPT-5.2，定位为帮助研究人员在同一处完成写作、协作与推理。原文摘要未说明可用范围、功能细节或与现有工具的差异，因此无法评估其实际能力。",
+    "keyPoints": [
+      "Prism 为免费、LaTeX 原生的研究工作空间。",
+      "内置 GPT-5.2 模型。",
+      "目标是在同一处支持写作、协作与推理。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "69c98b85792d5c83",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Project Pilot: Can AI control a drone?",
+  "summary": "Anthropic 与 Andon Labs 合作开发了 Drone-Bench，用于测试 AI 模型能否自主控制无人机，在室内办公环境中定位并跟随指定人员。",
+  "url": "https://www.anthropic.com/research/project-pilot",
+  "date": "2026-07-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-07-24T17:00:00+00:00",
+  "titleEn": "Project Pilot: Can AI control a drone?",
+  "titleZh": "Project Pilot：AI 能控制无人机吗？",
+  "details": {
+    "overview": "Anthropic 与 Andon Labs 合作开发了 Drone-Bench，用于测试 AI 模型能否自主控制无人机，在室内办公环境中定位并跟随指定人员。该任务被拆分为多个子任务，并在软件中复现以便反复评估。Andon Labs 测试了来自三家开发商的 15 个模型，整体趋势是新模型在各子任务上表现更好；表现最好的模型在检测和跟随上超过基线，但因重建与定位错误，尚不能自主在房间之间导航。稿件称，该研究旨在衡量 AI 控制机器人硬件的能力及其双重用途风险。",
+    "keyPoints": [
+      "Drone-Bench 将无人机定位跟随任务拆分为多个可重复评估的子任务。",
+      "测试覆盖 15 个模型，新模型整体表现逐代提升。",
+      "最佳模型在检测和跟随超过基线，但重建错误导致无法自主跨房间导航。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

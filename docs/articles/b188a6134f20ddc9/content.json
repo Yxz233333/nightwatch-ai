@@ -1,0 +1,25 @@
+{
+  "id": "b188a6134f20ddc9",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.153.2 发布",
+  "summary": "该版本为缺陷修复：将 GPT-6-Astra Fast 档位的描述由“1.5 倍”更正为“2 倍速度、用量增加”。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.153.2",
+  "date": "2026-09-04",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-09-03T23:53:12+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.153.2 发布",
+  "titleZh": "Codex CLI 0.153.2 发布",
+  "details": {
+    "overview": "该版本为缺陷修复：将 GPT-6-Astra Fast 档位的描述由“1.5 倍”更正为“2 倍速度、用量增加”。官方说明此改动仅影响显示文本，不改变请求的实际运行方式。对应改动编号为 #42632。",
+    "keyPoints": [
+      "更正 GPT-6-Astra Fast 档位描述为“2 倍速度、用量增加”。",
+      "该改动仅影响显示文本，不改变请求运行方式。",
+      "对应改动编号 #42632。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

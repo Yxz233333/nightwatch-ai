@@ -1,0 +1,24 @@
+{
+  "id": "894f6d17cc6631ae",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Building OpenAI with OpenAI",
+  "summary": "OpenAI表示其自身依赖自家技术来简化工作、扩展专业能力并推动成果，并推出新系列“OpenAI on OpenAI”，分享相关经验以帮助其他组织效仿。",
+  "url": "https://openai.com/index/building-openai-with-openai",
+  "date": "2025-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-29T13:30:00+00:00",
+  "titleEn": "Building OpenAI with OpenAI",
+  "titleZh": "用OpenAI构建OpenAI",
+  "details": {
+    "overview": "OpenAI表示其自身依赖自家技术来简化工作、扩展专业能力并推动成果，并推出新系列“OpenAI on OpenAI”，分享相关经验以帮助其他组织效仿。原始材料仅为系列介绍，未提供具体案例、工具清单或效果数据，因此只能确认该系列定位为内部实践经验分享。",
+    "keyPoints": [
+      "OpenAI称其依赖自身技术简化工作、扩展专业能力。",
+      "新系列“OpenAI on OpenAI”旨在分享经验供其他组织参考。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

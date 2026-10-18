@@ -1,0 +1,25 @@
+{
+  "id": "a020b71520d4d64c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Univé builds an AI-ready workforce",
+  "summary": "该官方发布内容介绍荷兰机构 Univé 如何借助 ChatGPT Enterprise 建设具备 AI 能力的员工队伍。",
+  "url": "https://openai.com/index/unive",
+  "date": "2026-07-31",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-31T07:00:00+00:00",
+  "titleEn": "Univé builds an AI-ready workforce",
+  "titleZh": "Univé 打造面向 AI 的员工队伍",
+  "details": {
+    "overview": "该官方发布内容介绍荷兰机构 Univé 如何借助 ChatGPT Enterprise 建设具备 AI 能力的员工队伍。原文称其做法结合了领导层推动、负责任治理与员工主导的创新，目标是在组织范围内规模化地改变工作方式。材料仅为一句概述，未披露具体部署规模、成效数据或实施细节，因此只能确认其强调的三项要素与“规模化转型”这一表述。",
+    "keyPoints": [
+      "Univé 以 ChatGPT Enterprise 作为建设 AI 员工队伍的工具。",
+      "做法结合领导层、负责任治理与员工主导创新三要素。",
+      "原文称目标是规模化改变工作方式，未给出量化成效。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

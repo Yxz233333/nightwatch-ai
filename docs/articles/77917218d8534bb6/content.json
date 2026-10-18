@@ -1,0 +1,25 @@
+{
+  "id": "77917218d8534bb6",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.122.0 发布",
+  "summary": "该发布说明介绍 Codex CLI 0.122.0 的更新。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.122.0",
+  "date": "2026-04-21",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-04-20T18:38:40+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.122.0 发布",
+  "titleZh": "Codex CLI 0.122.0 发布",
+  "details": {
+    "overview": "该发布说明介绍 Codex CLI 0.122.0 的更新。新功能包括独立安装更自包含、codex app 在 Windows 与 Intel Mac 上正确打开或安装桌面端、TUI 支持 /side 快速侧问、排队输入支持斜杠命令与 ! shell 提示、Plan Mode 可在新上下文中启动实现并显示上下文用量、插件工作流增加标签页浏览与启用开关及市场来源、文件系统权限支持拒绝读取的 glob 策略与沙箱强制、工具发现与图像生成默认启用。修复涉及过期审批提示、远程控制启动、恢复线程的 token 用量回放、安全敏感流程收紧及 TUI 若干问题。",
+    "keyPoints": [
+      "独立安装更自包含，codex app 修复 Windows 与 Intel Mac 桌面端打开或安装。",
+      "Plan Mode 可在新上下文启动实现，并先显示上下文用量再决定是否延续规划线程。",
+      "文件系统权限新增拒绝读取 glob 策略与平台沙箱强制，工具发现和图像生成默认启用。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

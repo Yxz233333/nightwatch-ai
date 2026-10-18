@@ -1,0 +1,25 @@
+{
+  "id": "a4bc09affd31bd6a",
+  "section": "news",
+  "category": "模型动态",
+  "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+  "summary": "现有材料仅给出标题，称其为开放、轻量级的多模态嵌入模型，未提供模型规模、训练数据、评测结果或发布范围等信息。",
+  "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+  "date": "2026-10-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-10-06T19:57:04+00:00",
+  "titleEn": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+  "titleZh": "EmbeddingGemma 2：开放轻量级多模态嵌入模型",
+  "details": {
+    "overview": "现有材料仅给出标题，称其为开放、轻量级的多模态嵌入模型，未提供模型规模、训练数据、评测结果或发布范围等信息。因此无法进一步说明其具体研究对象与作者声称的结果，相关内容需以官方原始发布为准。",
+    "keyPoints": [
+      "标题称其为开放的多模态嵌入模型",
+      "标题强调轻量级定位",
+      "材料未提供评测或发布范围细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

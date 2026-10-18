@@ -1,0 +1,25 @@
+{
+  "id": "02f8c384d27f2db6",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Training mRNA Language Models Across 25 Species for $165",
+  "summary": "该新闻标题称，研究者以165美元成本训练了覆盖25个物种的mRNA语言模型。",
+  "url": "https://huggingface.co/blog/OpenMed/training-mrna-models-25-species",
+  "date": "2026-03-31",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-03-31T08:23:44+00:00",
+  "titleEn": "Training mRNA Language Models Across 25 Species for $165",
+  "titleZh": "以165美元训练跨25个物种的mRNA语言模型",
+  "details": {
+    "overview": "该新闻标题称，研究者以165美元成本训练了覆盖25个物种的mRNA语言模型。但提供的摘要与原文均只有标题，未说明模型架构、训练数据规模、评测方法或结果。因此无法判断其性能、可复现性及实际意义。读者应查阅原始发布记录以确认训练细节、成本构成和适用范围。",
+    "keyPoints": [
+      "标题声称训练成本为165美元，覆盖25个物种的mRNA数据。",
+      "材料未提供模型架构、数据规模或评测结果。",
+      "成本与效果的关系需以原始发布记录为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

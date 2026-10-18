@@ -1,0 +1,25 @@
+{
+  "id": "2e74bcb7bafb856e",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Make your ZeroGPU Spaces go brrr with ahead-of-time compilation",
+  "summary": "这是一则平台工具动态，标题表示可通过提前编译（ahead-of-time compilation）提升 ZeroGPU Spaces 的运行表现。",
+  "url": "https://huggingface.co/blog/zerogpu-aoti",
+  "date": "2025-09-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-09-02T00:00:00+00:00",
+  "titleEn": "Make your ZeroGPU Spaces go brrr with ahead-of-time compilation",
+  "titleZh": "用提前编译让 ZeroGPU Spaces 跑得更快",
+  "details": {
+    "overview": "这是一则平台工具动态，标题表示可通过提前编译（ahead-of-time compilation）提升 ZeroGPU Spaces 的运行表现。原文仅提供标题，未说明具体实现方式、适用硬件范围、性能提升幅度或使用限制，因此无法判断实际效果。对使用 Hugging Face Spaces 与 ZeroGPU 的开发者而言，该消息提示了一种可能的性能优化途径，但细节需以官方原文为准。",
+    "keyPoints": [
+      "标题提出用提前编译（ahead-of-time compilation）优化 ZeroGPU Spaces 的运行表现。",
+      "当前收录材料未提供实现方式、适用范围或性能提升数据，实际效果尚不明确。",
+      "该消息面向使用 ZeroGPU Spaces 的开发者，具体限制需以官方原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

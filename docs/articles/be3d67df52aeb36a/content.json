@@ -1,0 +1,25 @@
+{
+  "id": "be3d67df52aeb36a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Our commitment to community safety",
+  "summary": "OpenAI 发文说明其在 ChatGPT 中维护社区安全的方式，摘要列出模型防护、滥用检测、政策执行以及与安全专家合作等环节。",
+  "url": "https://openai.com/index/our-commitment-to-community-safety",
+  "date": "2026-04-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-28T00:00:00+00:00",
+  "titleEn": "Our commitment to community safety",
+  "titleZh": "我们对社区安全的承诺",
+  "details": {
+    "overview": "OpenAI 发文说明其在 ChatGPT 中维护社区安全的方式，摘要列出模型防护、滥用检测、政策执行以及与安全专家合作等环节。原始材料仅提供这一概括，未给出具体检测机制、执法流程、数据指标或第三方评估结果，因此无法进一步说明各环节的实际效果。该文属于安全治理方向的说明性发布，相关做法与成效仍需以官方原文及后续披露为准。",
+    "keyPoints": [
+      "OpenAI 说明 ChatGPT 社区安全依托模型防护与滥用检测",
+      "政策执行与安全专家合作被列为维护社区安全的环节",
+      "当前收录材料未提供具体机制细节、数据指标或第三方评估"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

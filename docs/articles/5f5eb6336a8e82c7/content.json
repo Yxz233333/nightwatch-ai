@@ -1,0 +1,24 @@
+{
+  "id": "5f5eb6336a8e82c7",
+  "section": "news",
+  "category": "模型动态",
+  "title": "OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work",
+  "summary": "该官方文章称，OpenAI 的智能体编程应用 Codex 现由最新前沿模型 GPT-5.5 驱动，运行在 NVIDIA GB200 NVL72 机架级系统上。",
+  "url": "https://blogs.nvidia.com/blog/openai-codex-gpt-5-5-ai-agents/",
+  "date": "2026-04-24",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-04-23T18:57:55+00:00",
+  "titleEn": "OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work",
+  "titleZh": "OpenAI 新 GPT-5.5 在 NVIDIA 基础设施上驱动 Codex，NVIDIA 已投入使用",
+  "details": {
+    "overview": "该官方文章称，OpenAI 的智能体编程应用 Codex 现由最新前沿模型 GPT-5.5 驱动，运行在 NVIDIA GB200 NVL72 机架级系统上。文章表示 AI 智能体的下一前沿是知识工作，并提到 NVIDIA 已在投入使用。原文摘要在此处截断，未给出完整的使用规模、性能数据或可用范围，相关细节需以原始发布为准。",
+    "keyPoints": [
+      "文章称 Codex 现由 GPT-5.5 驱动",
+      "GPT-5.5 运行于 NVIDIA GB200 NVL72 机架级系统",
+      "原文摘要截断，使用规模与性能数据未完整披露"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

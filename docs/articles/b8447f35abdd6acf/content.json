@@ -1,0 +1,25 @@
+{
+  "id": "b8447f35abdd6acf",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "The EU’s next chapter in AI is agentic",
+  "summary": "该官方发布称，新分析显示智能体AI在欧盟企业和中小企业中的采用正在增长，并指出更深入的使用可能在哪些方面释放更多价值。",
+  "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+  "date": "2026-10-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-10-14T00:00:00+00:00",
+  "titleEn": "The EU’s next chapter in AI is agentic",
+  "titleZh": "欧盟AI的下一篇章是智能体化",
+  "details": {
+    "overview": "该官方发布称，新分析显示智能体AI在欧盟企业和中小企业中的采用正在增长，并指出更深入的使用可能在哪些方面释放更多价值。原文摘要仅有一句，未提供分析样本、具体行业数据或价值测算方法，因此无法说明增长幅度和结论依据。",
+    "keyPoints": [
+      "新分析关注智能体AI在欧盟企业与中小企业中的采用",
+      "原文称采用正在增长，并指出深化使用可释放更多价值",
+      "摘要过短，未披露样本、数据与方法"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

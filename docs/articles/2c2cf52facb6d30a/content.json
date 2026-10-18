@@ -1,0 +1,25 @@
+{
+  "id": "2c2cf52facb6d30a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Grabette: an open system to record robot-manipulation data",
+  "summary": "现有材料仅有标题“Grabette：记录机器人操作数据的开放系统”，sourceText为空，缺少发布方、系统构成、数据采集方式与开放范围等信息。",
+  "url": "https://huggingface.co/blog/grabette",
+  "date": "2026-07-21",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-07-21T00:00:00+00:00",
+  "titleEn": "Grabette: an open system to record robot-manipulation data",
+  "titleZh": "Grabette：记录机器人操作数据的开放系统",
+  "details": {
+    "overview": "现有材料仅有标题“Grabette：记录机器人操作数据的开放系统”，sourceText为空，缺少发布方、系统构成、数据采集方式与开放范围等信息。因此无法可靠介绍其具体研究对象、作者声称结果或研究意义，相关内容需以原始发布为准。",
+    "keyPoints": [
+      "标题显示其为记录机器人操作数据的开放系统。",
+      "原始发布正文缺失，无法确认系统细节。",
+      "发布方、数据格式与开放范围均未提供。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

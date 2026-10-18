@@ -1,0 +1,24 @@
+{
+  "id": "eaf7f71c8cab8d4c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
+  "summary": "该文介绍美国国家科学基金会NAIRR试点计划过去两年支持了700多个项目，涵盖蛋白质预测和传染病爆发管理等领域。",
+  "url": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/",
+  "date": "2026-06-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-22T13:00:38+00:00",
+  "titleEn": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
+  "titleZh": "NAIRR科学计划重塑科学研究，由NVIDIA AI基础设施提供支持",
+  "details": {
+    "overview": "该文介绍美国国家科学基金会NAIRR试点计划过去两年支持了700多个项目，涵盖蛋白质预测和传染病爆发管理等领域。NVIDIA通过基于云的资源为研究人员提供专用访问。当前收录材料未提供具体项目成果或独立验证。",
+    "keyPoints": [
+      "NAIRR试点支持超700个项目",
+      "涵盖蛋白质预测等领域",
+      "NVIDIA提供云资源支持"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "96715191dbe43c27",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "GPT-5.3 Instant Update",
+  "summary": "官方更新说明表示，GPT-5.3 Instant 提供更准确的回答，网页搜索时结果更丰富且上下文更充分，并减少打断对话流程的不必要死胡同、附加说明和过于断言式的措辞。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-53-instant-update",
+  "date": "2026-03-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "GPT-5.3 Instant Update",
+  "titleZh": "GPT-5.3 Instant 更新",
+  "details": {
+    "overview": "官方更新说明表示，GPT-5.3 Instant 提供更准确的回答，网页搜索时结果更丰富且上下文更充分，并减少打断对话流程的不必要死胡同、附加说明和过于断言式的措辞。该更新聚焦用户日常能感知的语气、相关性和对话流畅度，作者称这些细微问题未必体现在基准测试中，但直接影响 ChatGPT 是否好用，并称其直接反映用户在这些方面的反馈。",
+    "keyPoints": [
+      "作者称该版本回答更准确，网页搜索结果更丰富、上下文更充分。",
+      "减少不必要的死胡同、附加说明和过于断言式措辞。",
+      "更新聚焦语气、相关性与对话流畅度，并称直接反映用户反馈。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

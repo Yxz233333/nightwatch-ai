@@ -1,0 +1,23 @@
+{
+  "id": "f6aca6a4a311972a",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Retiring GPT-5.1 models",
+  "summary": "官方发布记录显示，自2026年3月11日起，GPT-5.1 Instant、GPT-5.1 Thinking 和 GPT-5.1 Pro 不再在 ChatGPT 中提供。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-gpt-51-models",
+  "date": "2026-03-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Retiring GPT-5.1 models",
+  "titleZh": "GPT-5.1 系列模型退役",
+  "details": {
+    "overview": "官方发布记录显示，自2026年3月11日起，GPT-5.1 Instant、GPT-5.1 Thinking 和 GPT-5.1 Pro 不再在 ChatGPT 中提供。此前使用 GPT-5.1 的现有对话将自动继续在对应的当前模型上运行，即 GPT-5.3 Instant、GPT-5.4 Thinking 或 GPT-5.4 Pro。",
+    "keyPoints": [
+      "2026年3月11日起，GPT-5.1 Instant、Thinking 和 Pro 在 ChatGPT 中不再可用。",
+      "使用 GPT-5.1 的现有对话自动迁移至对应的 GPT-5.3 Instant、GPT-5.4 Thinking 或 GPT-5.4 Pro。",
+      "该退役安排仅涉及 ChatGPT 中的 GPT-5.1 模型。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

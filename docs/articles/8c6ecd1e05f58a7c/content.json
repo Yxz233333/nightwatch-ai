@@ -1,0 +1,24 @@
+{
+  "id": "8c6ecd1e05f58a7c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability",
+  "summary": "该新闻讨论美国联邦能源管理委员会（FERC）就大型负荷并网发布的重要里程碑决定，影响 AI 工厂、半导体制造支持系统和先进制造设施接入电网的方式。",
+  "url": "https://blogs.nvidia.com/blog/ferc-large-load-interconnection/",
+  "date": "2026-06-19",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-18T20:00:27+00:00",
+  "titleEn": "How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability",
+  "titleZh": "FERC 大型负荷并网行动如何帮助缓解电网压力、改善可负担性",
+  "details": {
+    "overview": "该新闻讨论美国联邦能源管理委员会（FERC）就大型负荷并网发布的重要里程碑决定，影响 AI 工厂、半导体制造支持系统和先进制造设施接入电网的方式。原文提到 NVIDIA 创始人兼 CEO 黄仁勋将 AI 时代描述为……（原文截断）。新闻聚焦电网基础设施决策如何应对 AI 时代电力需求增长带来的电网压力，并涉及可负担性问题。具体政策细节和影响范围需以原文为准。",
+    "keyPoints": [
+      "FERC 发布大型负荷并网的重要里程碑决定，影响 AI 工厂等设施接入电网。",
+      "新闻关注该决定如何缓解电网压力并改善可负担性。",
+      "原文引用黄仁勋对 AI 时代的描述，但内容在关键处截断。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

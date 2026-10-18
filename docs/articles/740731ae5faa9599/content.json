@@ -1,0 +1,25 @@
+{
+  "id": "740731ae5faa9599",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Using projects in ChatGPT",
+  "summary": "官方发布的学习类内容，介绍ChatGPT中项目（projects）功能的使用方法。",
+  "url": "https://openai.com/academy/projects",
+  "date": "2026-04-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-10T00:00:00+00:00",
+  "titleEn": "Using projects in ChatGPT",
+  "titleZh": "在ChatGPT中使用项目（Projects）",
+  "details": {
+    "overview": "官方发布的学习类内容，介绍ChatGPT中项目（projects）功能的使用方法。据摘要，项目可用于组织聊天、文件和指令，管理持续进行的工作，并提升协作效率。原文仅提供一句摘要，未披露项目的具体操作流程、可用范围或限制。",
+    "keyPoints": [
+      "介绍ChatGPT项目功能的使用方式。",
+      "项目用于组织聊天、文件和指令并管理持续工作。",
+      "目标是提升协作效率，当前收录材料未提供操作细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

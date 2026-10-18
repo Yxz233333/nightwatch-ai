@@ -1,0 +1,24 @@
+{
+  "id": "4f2e311de1695dd3",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Trusted contact in ChatGPT",
+  "summary": "这是ChatGPT可信联系人功能的详细说明。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#trusted-contact-in-chatgpt",
+  "date": "2026-05-07",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Trusted contact in ChatGPT",
+  "titleZh": "ChatGPT中的可信联系人",
+  "details": {
+    "overview": "这是ChatGPT可信联系人功能的详细说明。官方称该功能将在未来数周向拥有个人账户的成年人推出，属可选安全功能：用户可在设置中选择可信联系人，ChatGPT会向其发送邀请；对方接受后，若自动系统和受训审核人员检测到用户可能以显示严重安全担忧的方式谈论自杀，ChatGPT可能通知该联系人并鼓励其联系用户。该功能不适用于Business、Enterprise或Edu工作区。",
+    "keyPoints": [
+      "面向个人账户成年用户的可选安全功能，未来数周逐步推出",
+      "用户可在设置中选择可信联系人，对方需接受邀请",
+      "检测到严重自杀相关安全担忧时可能通知联系人",
+      "不适用于Business、Enterprise和Edu工作区"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

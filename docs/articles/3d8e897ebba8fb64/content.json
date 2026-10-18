@@ -1,0 +1,25 @@
+{
+  "id": "3d8e897ebba8fb64",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "“Data Center Bandwagon” Campaign: US-targeted influence activity",
+  "summary": "OpenAI 封禁了一个疑似源自中国的账号集群，该集群利用 AI 生成社交媒体内容，批评美国数据中心和 AI 基础设施。",
+  "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-data-center-bandwagon",
+  "date": "2026-06-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-01T00:00:00+00:00",
+  "titleEn": "“Data Center Bandwagon” Campaign: US-targeted influence activity",
+  "titleZh": "“数据中心顺风车”行动：针对美国的影响力活动",
+  "details": {
+    "overview": "OpenAI 封禁了一个疑似源自中国的账号集群，该集群利用 AI 生成社交媒体内容，批评美国数据中心和 AI 基础设施。该行动被命名为“数据中心顺风车”，旨在影响公众对美国 AI 基础设施建设的看法。OpenAI 在官方发布中确认了封禁，但未透露账号规模、传播效果等具体信息。此事件凸显了 AI 生成内容在信息战中的使用，以及平台在识别和遏制此类活动方面的持续努力。",
+    "keyPoints": [
+      "OpenAI 封禁疑似中国来源账号集群，利用 AI 生成批评美国数据中心的内容。",
+      "活动针对美国 AI 基础设施，试图影响公众舆论。",
+      "OpenAI 未披露账号数量及传播范围，仅确认封禁。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "40481bd4d7fc1cd1",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing the Child Safety Blueprint",
+  "summary": "OpenAI 发布儿童安全蓝图，称其为负责任构建 AI 的路线图，涵盖安全防护措施、适龄设计以及协作，以在线上保护和赋能年轻人。",
+  "url": "https://openai.com/index/introducing-child-safety-blueprint",
+  "date": "2026-04-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-08T05:00:00+00:00",
+  "titleEn": "Introducing the Child Safety Blueprint",
+  "titleZh": "推出儿童安全蓝图",
+  "details": {
+    "overview": "OpenAI 发布儿童安全蓝图，称其为负责任构建 AI 的路线图，涵盖安全防护措施、适龄设计以及协作，以在线上保护和赋能年轻人。原文仅为一句摘要，未说明具体防护机制、适用年龄范围、实施时间表或合作方，相关细节需以原始发布内容为准。",
+    "keyPoints": [
+      "OpenAI 发布儿童安全蓝图，定位为负责任构建 AI 的路线图。",
+      "内容涉及安全防护、适龄设计与协作三方面。",
+      "当前收录材料未提供具体防护机制、适用年龄或实施时间表。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

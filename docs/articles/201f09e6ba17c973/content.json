@@ -1,0 +1,25 @@
+{
+  "id": "201f09e6ba17c973",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "The Work Now Within Reach",
+  "summary": "该文探讨能力更强、成本更低的 AI 如何扩展个人与企业可完成的工作范围，并使增长更具经济性。",
+  "url": "https://openai.com/index/the-work-now-within-reach",
+  "date": "2026-09-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-08T13:00:00+00:00",
+  "titleEn": "The Work Now Within Reach",
+  "titleZh": "如今可及的工作",
+  "details": {
+    "overview": "该文探讨能力更强、成本更低的 AI 如何扩展个人与企业可完成的工作范围，并使增长更具经济性。原始发布仅给出这一主题概述，未提供具体数据、案例或验证结论，因此无法判断其效果规模。",
+    "keyPoints": [
+      "主题为更强且更可负担的AI如何扩展可完成的工作",
+      "关注点包括让增长更具经济性",
+      "原始发布未提供具体数据或案例细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

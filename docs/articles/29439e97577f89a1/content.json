@@ -1,0 +1,25 @@
+{
+  "id": "29439e97577f89a1",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+  "summary": "OpenAI宣布将于2026年2月13日从ChatGPT中停用GPT-4o、GPT-4.1、GPT-4.1 mini和OpenAI o4-mini，与先前公布的GPT-5（Instant、Thinking和Pro）停用同步进行。",
+  "url": "https://openai.com/index/retiring-gpt-4o-and-older-models",
+  "date": "2026-01-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-29T00:00:00+00:00",
+  "titleEn": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+  "titleZh": "ChatGPT将停用GPT-4o、GPT-4.1、GPT-4.1 mini和OpenAI o4-mini",
+  "details": {
+    "overview": "OpenAI宣布将于2026年2月13日从ChatGPT中停用GPT-4o、GPT-4.1、GPT-4.1 mini和OpenAI o4-mini，与先前公布的GPT-5（Instant、Thinking和Pro）停用同步进行。原文明确表示API目前没有变化。",
+    "keyPoints": [
+      "停用日期为2026年2月13日，涉及ChatGPT中的四个模型。",
+      "与GPT-5（Instant、Thinking、Pro）的停用同步进行。",
+      "API目前没有变化。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

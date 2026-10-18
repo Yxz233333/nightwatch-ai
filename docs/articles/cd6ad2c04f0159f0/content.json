@@ -1,0 +1,25 @@
+{
+  "id": "cd6ad2c04f0159f0",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.105.0 发布",
+  "summary": "Codex CLI 发布 0.105.0 稳定版本，更新集中在终端界面与多智能体工作流。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.105.0",
+  "date": "2026-02-26",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-02-25T17:21:45+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.105.0 发布",
+  "titleZh": "Codex CLI 0.105.0 发布",
+  "details": {
+    "overview": "Codex CLI 发布 0.105.0 稳定版本，更新集中在终端界面与多智能体工作流。TUI 新增代码块与 diff 语法高亮、带实时预览的 /theme 主题选择器，以及按住空格录音转写的语音输入（仍在开发中，需在配置中开启）。多智能体方面支持从 CSV 批量派生任务并显示进度与预计时间，子智能体增加昵称与更清晰的审批提示。此外还修复了长链接换行、审批对话框请求 ID、Linux 沙箱 /dev 挂载等问题。",
+    "keyPoints": [
+      "TUI 支持代码块与 diff 语法高亮，并新增带实时预览的 /theme 主题选择器。",
+      "语音转写输入仍处开发阶段，需设置 features.voice_transcription = true 开启。",
+      "spawn_agents_on_csv 支持从 CSV 批量派生任务，并内置进度与预计时间显示。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

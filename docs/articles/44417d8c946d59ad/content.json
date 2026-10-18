@@ -1,0 +1,24 @@
+{
+  "id": "44417d8c946d59ad",
+  "section": "news",
+  "category": "工具动态",
+  "title": "NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI",
+  "summary": "在CVPR上，NVIDIA发布新的物理AI智能体技能，帮助研究人员和开发者加速自动驾驶、机器人和视觉AI系统的开发。",
+  "url": "https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/",
+  "date": "2026-06-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-06-03T15:00:35+00:00",
+  "titleEn": "NVIDIA Enables the Next Era Of Physical AI Research With Agent Skills For Autonomous Vehicles, Robotics And Vision AI",
+  "titleZh": "NVIDIA为自动驾驶、机器人和视觉AI提供物理AI智能体技能，推动下一时代研究",
+  "details": {
+    "overview": "在CVPR上，NVIDIA发布新的物理AI智能体技能，帮助研究人员和开发者加速自动驾驶、机器人和视觉AI系统的开发。这些技能旨在应对物理AI研究的核心挑战：构建围绕模型的全工作流，包括重建真实场景、生成边缘案例、训练策略和评估等。此举有望提升物理AI研究的效率。",
+    "keyPoints": [
+      "NVIDIA在CVPR发布物理AI智能体技能。",
+      "技能覆盖场景重建、边缘案例生成、策略训练和评估。",
+      "旨在加速自动驾驶、机器人和视觉AI的开发。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

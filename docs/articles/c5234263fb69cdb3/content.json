@@ -1,0 +1,25 @@
+{
+  "id": "c5234263fb69cdb3",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Baseten on Hugging Face Inference Providers 🔥",
+  "summary": "该条目为 Hugging Face 官方发布记录，标题显示 Baseten 已加入 Hugging Face Inference Providers。",
+  "url": "https://huggingface.co/blog/baseten",
+  "date": "2026-08-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-08-06T00:00:00+00:00",
+  "titleEn": "Baseten on Hugging Face Inference Providers 🔥",
+  "titleZh": "Baseten 上线 Hugging Face 推理提供商",
+  "details": {
+    "overview": "该条目为 Hugging Face 官方发布记录，标题显示 Baseten 已加入 Hugging Face Inference Providers。原始发布内容为空，未提供接入方式、可用模型、计费或地区范围等信息，因此无法进一步说明具体能力与限制，相关细节需以官方原文为准。",
+    "keyPoints": [
+      "Baseten 加入 Hugging Face 推理提供商",
+      "原始发布内容为空，缺少接入细节",
+      "可用模型与范围需以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

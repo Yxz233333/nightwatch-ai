@@ -1,0 +1,24 @@
+{
+  "id": "eb92649b3b0f7bcf",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Wins Every MLPerf Training v5.1 Benchmark",
+  "summary": "该文为 NVIDIA 关于 MLPerf Training v5.1 的官方发布。",
+  "url": "https://blogs.nvidia.com/blog/mlperf-training-benchmark-blackwell-ultra/",
+  "date": "2025-11-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2025-11-12T16:00:35+00:00",
+  "titleEn": "NVIDIA Wins Every MLPerf Training v5.1 Benchmark",
+  "titleZh": "NVIDIA 在 MLPerf Training v5.1 全部基准测试中获胜",
+  "details": {
+    "overview": "该文为 NVIDIA 关于 MLPerf Training v5.1 的官方发布。原文称，在 AI 推理时代，训练更聪明、能力更强的模型对扩展智能至关重要，而实现这一目标需要 GPU、CPU、网卡、纵向与横向扩展网络、系统架构以及大量软件和算法上的突破。文章将 MLPerf Training v5.1 描述为这一长期系列基准的最新一轮，标题声称 NVIDIA 在该轮全部基准中获胜，但提供的原文片段未列出具体成绩数据。",
+    "keyPoints": [
+      "文章为 NVIDIA 关于 MLPerf Training v5.1 的官方发布。",
+      "原文强调训练性能依赖 GPU、CPU、网络、系统架构与软件算法协同突破。",
+      "标题声称 NVIDIA 赢得该轮全部基准，但片段未给出具体成绩。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

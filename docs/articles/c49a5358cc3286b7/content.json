@@ -1,0 +1,25 @@
+{
+  "id": "c49a5358cc3286b7",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+  "summary": "Cloudflare 宣布将 OpenAI 的 GPT-5.4 与 Codex 接入 Agent Cloud，使企业能够以更快速度和更高安全性构建、部署并扩展用于真实任务的 AI 智能体。",
+  "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+  "date": "2026-04-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-13T06:00:00+00:00",
+  "titleEn": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+  "titleZh": "Cloudflare Agent Cloud 引入 OpenAI GPT-5.4 与 Codex，助力企业构建智能体工作流",
+  "details": {
+    "overview": "Cloudflare 宣布将 OpenAI 的 GPT-5.4 与 Codex 接入 Agent Cloud，使企业能够以更快速度和更高安全性构建、部署并扩展用于真实任务的 AI 智能体。原文仅说明这一集成方向，未披露具体功能细节、可用范围或限制，相关推出情况需以官方原始发布为准。",
+    "keyPoints": [
+      "Cloudflare Agent Cloud 接入 OpenAI 的 GPT-5.4 与 Codex。",
+      "面向企业提供智能体的构建、部署与扩展能力。",
+      "强调真实任务场景下的速度与安全性。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

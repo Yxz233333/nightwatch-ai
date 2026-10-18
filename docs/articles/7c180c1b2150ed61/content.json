@@ -1,0 +1,25 @@
+{
+  "id": "7c180c1b2150ed61",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Helping K–12 educators build practical AI skills",
+  "summary": "官方发布称，OpenAI Academy 与 Walton Family Foundation 合作，为 K–12 教育工作者带来动手实践的 AI Skills Jams 活动，帮助教师培养可用于课堂的实用 AI 技能。",
+  "url": "https://openai.com/index/k-12-educators-practical-skills",
+  "date": "2026-07-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-07-08T10:00:00+00:00",
+  "titleEn": "Helping K–12 educators build practical AI skills",
+  "titleZh": "帮助 K–12 教育工作者培养实用 AI 技能",
+  "details": {
+    "overview": "官方发布称，OpenAI Academy 与 Walton Family Foundation 合作，为 K–12 教育工作者带来动手实践的 AI Skills Jams 活动，帮助教师培养可用于课堂的实用 AI 技能。原始材料仅有一句摘要，未说明活动规模、举办地点、时间安排、参与方式或课程内容，也未提及效果评估。因此可确认的是一项面向基础教育教师的 AI 技能培训合作，具体安排与覆盖范围需以官方原文为准。",
+    "keyPoints": [
+      "OpenAI Academy 与 Walton Family Foundation 合作开展活动",
+      "面向 K–12 教育工作者，形式为动手实践的 AI Skills Jams",
+      "目标是培养可用于课堂的实用 AI 技能"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

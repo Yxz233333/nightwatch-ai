@@ -1,0 +1,25 @@
+{
+  "id": "f94b5b5e4ced621f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "CNA is transforming its newsroom with AI",
+  "summary": "这是 OpenAI“Executive Function”系列内容，介绍新加坡亚洲新闻台（CNA）如何借助 AI 改造新闻编辑室。",
+  "url": "https://openai.com/index/cna-walter-fernandez",
+  "date": "2025-09-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-22T17:17:00+00:00",
+  "titleEn": "CNA is transforming its newsroom with AI",
+  "titleZh": "CNA 正用 AI 改造其新闻编辑室",
+  "details": {
+    "overview": "这是 OpenAI“Executive Function”系列内容，介绍新加坡亚洲新闻台（CNA）如何借助 AI 改造新闻编辑室。CNA 总编辑 Walter Fernandez 在文中分享了对 AI 应用的看法，涉及采用方式、组织文化与新闻业未来。当前收录材料未提供具体工具、部署规模或效果数据，因此只能确认这是一次围绕媒体机构 AI 转型的高层访谈式分享，具体落地细节与成效仍以原始发布为准。",
+    "keyPoints": [
+      "CNA 总编辑 Walter Fernandez 分享新闻编辑室引入 AI 的经验与看法。",
+      "内容聚焦 AI 采用、组织文化与新闻业未来三个方向。",
+      "原文未给出具体工具、部署范围或效果数据。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

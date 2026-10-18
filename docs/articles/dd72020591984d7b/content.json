@@ -1,0 +1,25 @@
+{
+  "id": "dd72020591984d7b",
+  "section": "news",
+  "category": "工具动态",
+  "title": "OVHcloud on Hugging Face Inference Providers 🔥",
+  "summary": "该条目仅有标题“OVHcloud 加入 Hugging Face 推理提供商”，摘要与原文内容均未提供。",
+  "url": "https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud",
+  "date": "2025-11-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-11-24T16:08:47+00:00",
+  "titleEn": "OVHcloud on Hugging Face Inference Providers 🔥",
+  "titleZh": "OVHcloud 加入 Hugging Face 推理提供商",
+  "details": {
+    "overview": "该条目仅有标题“OVHcloud 加入 Hugging Face 推理提供商”，摘要与原文内容均未提供。可确认的信息仅为：OVHcloud 成为 Hugging Face Inference Providers 的一员。至于可用的模型、区域、计费方式与上线范围，材料均未说明，无法进一步展开，需以官方原始发布记录为准。",
+    "keyPoints": [
+      "OVHcloud 成为 Hugging Face 推理提供商之一。",
+      "材料未说明可用模型、区域与计费方式。",
+      "上线范围与限制不足，需以官方原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

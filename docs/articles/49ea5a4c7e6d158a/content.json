@@ -1,0 +1,25 @@
+{
+  "id": "49ea5a4c7e6d158a",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.131.0 发布",
+  "summary": "Codex CLI 0.131.0发布，为CLI稳定版本。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.131.0",
+  "date": "2026-05-19",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-05-18T17:39:34+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.131.0 发布",
+  "titleZh": "Codex CLI 0.131.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.131.0发布，为CLI稳定版本。新功能包括：TUI提供更丰富的会话控制与显示，如数据驱动的服务层级命令、混合token用量、权限/审批模式、有效工作区根目录和响应式Markdown表格；@提及可在同一选择器中搜索文件、目录、插件和技能；插件工作流新增市场CLI命令、版本感知共享等；远程工作流支持守护进程管理的codex remote-control；Python SDK迁移至openai-codex/openai_codex；新增codex doctor诊断命令。此外修复了多项TUI交互与渲染问题、Windows沙箱行为等。",
+    "keyPoints": [
+      "TUI增强会话控制，新增混合token用量、权限模式和响应式表格。",
+      "@提及统一搜索文件、目录、插件和技能。",
+      "新增codex doctor诊断命令，Python SDK迁移至openai-codex。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

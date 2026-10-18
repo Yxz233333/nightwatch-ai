@@ -1,0 +1,23 @@
+{
+  "id": "004cbaf3ae3bd741",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "More images in answers for Free users",
+  "summary": "该官方内容说明 ChatGPT 免费用户将看到更多来自网络的嵌入式图片，用于帮助理解视觉类主题，包括知名人物、地点和产品；当图片有助于说明时，会出现在回答的相关位置，点击可查看原始尺寸并显示来源标注。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-images-in-answers-for-free-users",
+  "date": "2026-05-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "More images in answers for Free users",
+  "titleZh": "免费用户将在回答中看到更多图片",
+  "details": {
+    "overview": "该官方内容说明 ChatGPT 免费用户将看到更多来自网络的嵌入式图片，用于帮助理解视觉类主题，包括知名人物、地点和产品；当图片有助于说明时，会出现在回答的相关位置，点击可查看原始尺寸并显示来源标注。该功能面向使用 5.5-Instant 的回答，在网页端和 iOS 上面向免费用户全球推送。材料未说明图片筛选标准或准确性保障机制。",
+    "keyPoints": [
+      "免费用户回答中将出现更多来自网络的嵌入式图片",
+      "图片可点击查看原始尺寸并显示来源标注",
+      "面向 5.5-Instant 回答，在网页端与 iOS 全球推送"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

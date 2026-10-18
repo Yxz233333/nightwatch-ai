@@ -1,0 +1,23 @@
+{
+  "id": "16f79326ade04762",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex app 26.410",
+  "summary": "Codex 应用 26.410 版本发布，新增命令菜单文件搜索（含 Cmd+P 跳转工作区文件搜索）、侧边栏文件查看器对图片、PDF 和 Markdown 的富预览，以及按线程划分的终端标签、选中文本的 Ask Codex 浮层和帮助菜单反馈入口。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2026-04-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "Codex app 26.410",
+  "titleZh": "Codex 应用 26.410 版本更新",
+  "details": {
+    "overview": "Codex 应用 26.410 版本发布，新增命令菜单文件搜索（含 Cmd+P 跳转工作区文件搜索）、侧边栏文件查看器对图片、PDF 和 Markdown 的富预览，以及按线程划分的终端标签、选中文本的 Ask Codex 浮层和帮助菜单反馈入口。同时改进了评审差异的空白处理与搜索高亮，修复应用内浏览器地址栏、外部打开及文件查看器、侧边面板等问题，并包含其他性能改进与缺陷修复。",
+    "keyPoints": [
+      "新增命令菜单文件搜索，Cmd+P 可跳转工作区文件搜索。",
+      "侧边栏文件查看器支持图片、PDF 与 Markdown 富预览。",
+      "新增按线程终端标签与选中文本 Ask Codex 浮层。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

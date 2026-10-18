@@ -1,0 +1,24 @@
+{
+  "id": "c21653619726ddc0",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "From Radiology to Drug Discovery, Survey Reveals AI Is Delivering Clear Return on Investment in Healthcare",
+  "summary": "NVIDIA第二份年度“医疗与生命科学AI现状”调查报告显示，AI正加速医疗保健的各个方面，包括放射学、药物发现、医疗器械制造以及由人体数字孪生支持的新治疗方法。",
+  "url": "https://blogs.nvidia.com/blog/ai-in-healthcare-survey-2026/",
+  "date": "2026-02-24",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-02-24T14:00:34+00:00",
+  "titleEn": "From Radiology to Drug Discovery, Survey Reveals AI Is Delivering Clear Return on Investment in Healthcare",
+  "titleZh": "从放射学到药物发现，调查显示AI在医疗保健领域带来清晰投资回报",
+  "details": {
+    "overview": "NVIDIA第二份年度“医疗与生命科学AI现状”调查报告显示，AI正加速医疗保健的各个方面，包括放射学、药物发现、医疗器械制造以及由人体数字孪生支持的新治疗方法。报告指出，行业正从AI实验转向执行，并开始获得回报。摘要未提供具体投资回报数据或调查方法细节。",
+    "keyPoints": [
+      "NVIDIA发布第二份年度医疗与生命科学AI现状调查报告",
+      "报告称行业正从AI实验转向执行并收获回报",
+      "AI应用覆盖放射学、药物发现、器械制造和数字孪生"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

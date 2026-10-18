@@ -1,0 +1,23 @@
+{
+  "id": "418c484edeef7d09",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "A simplified sidebar on mobile",
+  "summary": "该文介绍ChatGPT在iOS和Android上简化了侧边栏菜单，以便为用户查看关键聊天和项目留出更多空间。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-simplified-sidebar-on-mobile",
+  "date": "2026-03-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "A simplified sidebar on mobile",
+  "titleZh": "移动端更简洁的侧边栏",
+  "details": {
+    "overview": "该文介绍ChatGPT在iOS和Android上简化了侧边栏菜单，以便为用户查看关键聊天和项目留出更多空间。根据用户套餐和使用情况可用的ChatGPT体验，如图像、Codex、Pulse和应用，现在集中显示在聊天和项目上方的横向栏中。原文未说明具体上线时间、地区范围或各套餐的差异，相关限制以官方原文为准。",
+    "keyPoints": [
+      "iOS与Android端ChatGPT侧边栏菜单已简化。",
+      "图像、Codex、Pulse、应用等入口移至聊天和项目上方横向栏。",
+      "可用体验取决于用户套餐与使用情况。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

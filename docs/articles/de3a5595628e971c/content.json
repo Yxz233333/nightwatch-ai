@@ -1,0 +1,25 @@
+{
+  "id": "de3a5595628e971c",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.74.0 发布",
+  "summary": "这是 Codex CLI 0.74.0 版本更新说明。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.74.0",
+  "date": "2025-12-19",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-12-18T18:08:47+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.74.0 发布",
+  "titleZh": "Codex CLI 0.74.0 发布",
+  "details": {
+    "overview": "这是 Codex CLI 0.74.0 版本更新说明。亮点包括：引入 gpt-5.2-codex 模型，发布方称其在知识、推理与编码方面有所改进；新增 /experimental 斜杠命令用于试用实验性功能；新增关闭幽灵快照警告的开关；以及后台终端与选择器清理等界面优化。合并的 PR 还涉及技能特性开关、模型选择器、静态文件加载模型、统一执行页脚、TypeScript SDK 支持 xhigh 推理强度、沙箱与配置重构等多项改动。",
+    "keyPoints": [
+      "引入 gpt-5.2-codex 模型，称在知识、推理与编码方面有改进",
+      "新增 /experimental 斜杠命令与幽灵快照警告关闭开关",
+      "合并 PR 涉及模型选择器、静态模型加载与统一执行页脚等"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

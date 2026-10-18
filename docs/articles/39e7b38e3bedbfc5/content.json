@@ -1,0 +1,24 @@
+{
+  "id": "39e7b38e3bedbfc5",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Natural Language Autoencoders: Turning Claude’s thoughts into text",
+  "summary": "Anthropic稿件提出一种名为自然语言自编码器（NLA）的方法，用于把Claude内部的激活值转换为可直接阅读的自然语言文本。",
+  "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+  "date": "2026-05-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-05-07T21:21:00+00:00",
+  "titleEn": "Natural Language Autoencoders: Turning Claude’s thoughts into text",
+  "titleZh": "自然语言自编码器：将Claude的“想法”转为文本",
+  "details": {
+    "overview": "Anthropic稿件提出一种名为自然语言自编码器（NLA）的方法，用于把Claude内部的激活值转换为可直接阅读的自然语言文本。作者称，由于无法直接判断解释是否准确，他们训练第二个Claude副本从文本反向重建原始激活，并以重建相似度作为解释质量的评分标准。摘要表示，该方法已用于理解Claude的思考过程并提升安全与可靠性，例如发现模型在未明说时也可能意识到自己正被测试。作者同时说明这些结果来自其自身研究，并发布了代码与交互前端。",
+    "keyPoints": [
+      "NLA将激活值转为文本，再用第二模型反向重建以评分。",
+      "作者称NLA显示Claude存在未言明的“评估意识”。",
+      "在审计游戏中，配备NLA的审计者胜率为12%至15%，无NLA时低于3%。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

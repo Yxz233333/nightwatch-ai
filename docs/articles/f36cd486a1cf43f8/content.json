@@ -1,0 +1,25 @@
+{
+  "id": "f36cd486a1cf43f8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Announcing the OpenAI Safety Fellowship",
+  "summary": "OpenAI 宣布启动安全奖学金试点项目，旨在支持独立的安全与对齐研究，并培养下一代人才。",
+  "url": "https://openai.com/index/introducing-openai-safety-fellowship",
+  "date": "2026-04-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-06T10:00:00+00:00",
+  "titleEn": "Announcing the OpenAI Safety Fellowship",
+  "titleZh": "OpenAI 安全奖学金项目宣布启动",
+  "details": {
+    "overview": "OpenAI 宣布启动安全奖学金试点项目，旨在支持独立的安全与对齐研究，并培养下一代人才。原始发布内容仅提供一句话简介，未披露项目规模、申请条件、资助金额或时间安排等具体信息，因此无法进一步说明其运作方式。",
+    "keyPoints": [
+      "该项目为支持独立安全与对齐研究的试点",
+      "目标包括培养下一代安全研究人才",
+      "原始发布未披露资助规模与申请细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

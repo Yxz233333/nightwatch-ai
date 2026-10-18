@@ -1,0 +1,24 @@
+{
+  "id": "b34bcf1faee616e6",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Donating the Model Context Protocol and establishing the Agentic AI Foundation",
+  "summary": "Anthropic宣布将模型上下文协议（MCP）捐赠给Linux基金会下新设的智能体AI基金会（AAIF），该基金由Anthropic、Block和OpenAI共同创立，并获得多家科技公司支持。",
+  "url": "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation",
+  "date": "2025-12-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2025-12-09T17:00:00+00:00",
+  "titleEn": "Donating the Model Context Protocol and establishing the Agentic AI Foundation",
+  "titleZh": "捐赠模型上下文协议并成立智能体AI基金会",
+  "details": {
+    "overview": "Anthropic宣布将模型上下文协议（MCP）捐赠给Linux基金会下新设的智能体AI基金会（AAIF），该基金由Anthropic、Block和OpenAI共同创立，并获得多家科技公司支持。原文称MCP推出一年来获得广泛采用，已有75个以上连接器、官方注册表、新规范版本及多语言SDK。捐赠后MCP治理模式不变，继续由维护者主导并保持开源、中立与社区驱动。",
+    "keyPoints": [
+      "MCP被捐赠给Linux基金会下的智能体AI基金会",
+      "AAIF由Anthropic、Block和OpenAI共同创立",
+      "原文称MCP已有75个以上连接器与多语言官方SDK"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

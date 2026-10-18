@@ -1,0 +1,25 @@
+{
+  "id": "2f8ea97ab1bffaf4",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Boston Children’s uses AI to unlock new diagnoses",
+  "summary": "据官方发布记录，波士顿儿童医院使用OpenAI技术改善患者护理、减轻运营负担，并帮助诊断了40多例罕见病病例。",
+  "url": "https://openai.com/index/boston-childrens-hospital",
+  "date": "2026-05-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-29T12:00:00+00:00",
+  "titleEn": "Boston Children’s uses AI to unlock new diagnoses",
+  "titleZh": "波士顿儿童医院利用AI辅助新诊断",
+  "details": {
+    "overview": "据官方发布记录，波士顿儿童医院使用OpenAI技术改善患者护理、减轻运营负担，并帮助诊断了40多例罕见病病例。当前收录材料仅给出这一概括性描述，未披露所用具体模型、诊断流程、病例细节或效果评估方式，也未说明是否经过独立验证。",
+    "keyPoints": [
+      "医院使用OpenAI技术改善患者护理并减轻运营负担",
+      "官方称该技术帮助诊断了40多例罕见病病例",
+      "当前收录材料未提供具体模型、流程与效果评估细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

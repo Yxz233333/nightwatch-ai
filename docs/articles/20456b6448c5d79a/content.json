@@ -1,0 +1,25 @@
+{
+  "id": "20456b6448c5d79a",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Our framework for reporting model misalignment",
+  "summary": "OpenAI发布一套用于跟踪、调查和披露模型失准（misalignment）的框架，并同时给出六份关于模型意外或令人担忧行为的报告。",
+  "url": "https://openai.com/index/model-misalignment-reporting-framework",
+  "date": "2026-09-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-16T17:00:00+00:00",
+  "titleEn": "Our framework for reporting model misalignment",
+  "titleZh": "我们用于报告模型失准的框架",
+  "details": {
+    "overview": "OpenAI发布一套用于跟踪、调查和披露模型失准（misalignment）的框架，并同时给出六份关于模型意外或令人担忧行为的报告。材料仅说明框架用途与报告数量，未披露具体案例内容、调查方法与披露标准，相关细节需以原文为准。",
+    "keyPoints": [
+      "发布一套跟踪、调查、披露模型失准的框架。",
+      "同时给出六份模型意外或令人担忧行为报告。",
+      "材料未披露具体案例与调查方法。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

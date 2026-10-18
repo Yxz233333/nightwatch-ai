@@ -1,0 +1,25 @@
+{
+  "id": "3d24eb32d0b30ba1",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.153.4 发布",
+  "summary": "这是 Codex CLI 的 0.153 热修复版本，主要修复两项问题：一是 Astra 在捆绑模型选择器中的可见性，并在未显式配置模型时将其设为捆绑默认模型；二是调整 Astra 的指引，仅在会话中该工具可用时才使用异步提问。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.153.4",
+  "date": "2026-09-05",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-09-04T23:25:48+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.153.4 发布",
+  "titleZh": "Codex CLI 0.153.4 发布",
+  "details": {
+    "overview": "这是 Codex CLI 的 0.153 热修复版本，主要修复两项问题：一是 Astra 在捆绑模型选择器中的可见性，并在未显式配置模型时将其设为捆绑默认模型；二是调整 Astra 的指引，仅在会话中该工具可用时才使用异步提问。两项改动分别对应 #42874 与 #42878。",
+    "keyPoints": [
+      "修复 Astra 在捆绑模型选择器中的可见性，未显式配置时作为默认模型。",
+      "Astra 的异步提问指引改为仅在会话中工具可用时生效。",
+      "两项均为 0.153 热修复，对应 #42874 与 #42878。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

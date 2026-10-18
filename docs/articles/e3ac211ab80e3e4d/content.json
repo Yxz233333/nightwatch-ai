@@ -1,0 +1,25 @@
+{
+  "id": "e3ac211ab80e3e4d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Turning contracts into searchable data at OpenAI",
+  "summary": "文章介绍 OpenAI 构建了一套系统，用于快速提取合同数据，从而缩短处理周转时间，并让团队更容易获取所需细节。",
+  "url": "https://openai.com/index/openai-contract-data-agent",
+  "date": "2025-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-29T13:30:00+00:00",
+  "titleEn": "Turning contracts into searchable data at OpenAI",
+  "titleZh": "OpenAI 将合同转化为可搜索数据",
+  "details": {
+    "overview": "文章介绍 OpenAI 构建了一套系统，用于快速提取合同数据，从而缩短处理周转时间，并让团队更容易获取所需细节。原文未说明所用模型、具体流程或量化效果，仅概述系统目标与收益。相关实现细节与适用范围需以原文为准。",
+    "keyPoints": [
+      "OpenAI 构建系统用于快速提取合同数据。",
+      "该系统缩短了合同处理周转时间。",
+      "系统让团队更容易访问合同中的所需细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

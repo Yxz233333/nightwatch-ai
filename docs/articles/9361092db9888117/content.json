@@ -1,0 +1,24 @@
+{
+  "id": "9361092db9888117",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing Claude Tag",
+  "summary": "Anthropic推出Claude Tag，一种让团队与Claude协作的新方式，首先在Slack上线，Claude可作为团队成员加入选定频道并连接工具、数据和代码库。",
+  "url": "https://www.anthropic.com/news/introducing-claude-tag",
+  "date": "2026-06-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-06-23T14:00:00+00:00",
+  "titleEn": "Introducing Claude Tag",
+  "titleZh": "推出Claude Tag",
+  "details": {
+    "overview": "Anthropic推出Claude Tag，一种让团队与Claude协作的新方式，首先在Slack上线，Claude可作为团队成员加入选定频道并连接工具、数据和代码库。频道内任何人可@Claude委派任务，Claude会记住频道相关信息并规划未来任务。Anthropic称其内部产品团队65%的代码由内部版Claude Tag生成。该功能即日起以测试版面向Claude Enterprise和Team客户提供，使用Opus 4.8模型。",
+    "keyPoints": [
+      "Claude Tag在Slack中让Claude作为团队成员，可被@委派任务并异步执行。",
+      "Claude能记住频道上下文、主动跟进，并支持管理员按频道控制数据与工具权限。",
+      "即日起以测试版面向Claude Enterprise和Team客户提供，使用Opus 4.8模型。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

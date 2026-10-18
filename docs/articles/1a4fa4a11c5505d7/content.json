@@ -1,0 +1,25 @@
+{
+  "id": "1a4fa4a11c5505d7",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+  "summary": "该条目标题指向使用Sentence Transformers训练与微调多向量嵌入模型，但提供的sourceText为空，缺少摘要与正文内容。",
+  "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+  "date": "2026-08-26",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-08-26T00:00:00+00:00",
+  "titleEn": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+  "titleZh": "使用Sentence Transformers训练与微调多向量嵌入模型",
+  "details": {
+    "overview": "该条目标题指向使用Sentence Transformers训练与微调多向量嵌入模型，但提供的sourceText为空，缺少摘要与正文内容。因此无法确认具体方法、实验设置或作者声称的结果，仅能依据标题判断主题为多向量嵌入模型的训练与微调。",
+    "keyPoints": [
+      "标题主题为使用Sentence Transformers训练与微调多向量嵌入模型。",
+      "提供的sourceText为空，缺少摘要与正文内容。",
+      "无法确认具体方法、实验设置与结果，需补充原文。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

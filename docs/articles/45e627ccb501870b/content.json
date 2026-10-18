@@ -1,0 +1,23 @@
+{
+  "id": "45e627ccb501870b",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Record & Replay in Codex",
+  "summary": "Codex 应用推出 macOS 新功能“录制与回放”，符合条件的用户可演示一次工作流程，并将其转化为可复用的技能，适用于重复性任务或难以用文字描述的操作，例如创建配置好的 issue、发布视频或下载周期性报告。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#record-replay-in-codex",
+  "date": "2026-06-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Record & Replay in Codex",
+  "titleZh": "Codex 中的录制与回放",
+  "details": {
+    "overview": "Codex 应用推出 macOS 新功能“录制与回放”，符合条件的用户可演示一次工作流程，并将其转化为可复用的技能，适用于重复性任务或难以用文字描述的操作，例如创建配置好的 issue、发布视频或下载周期性报告。该功能要求 Computer Use 可用并已启用，初始可用范围不包括欧盟、英国和瑞士。",
+    "keyPoints": [
+      "macOS 版 Codex 应用新增录制与回放功能，可将演示转为可复用技能",
+      "适用于重复性任务或难以文字描述的工作流程",
+      "需启用 Computer Use，初始不含欧盟、英国和瑞士"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

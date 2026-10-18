@@ -1,0 +1,24 @@
+{
+  "id": "6e25687ea7ed2ca4",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing Claude Corps",
+  "summary": "Anthropic宣布推出Claude Corps，一项面向职业生涯早期人士的全国性奖学金计划，目标是让1,000名研究员学会使用Claude，并被匹配到美国非营利组织全职工作一年。",
+  "url": "https://www.anthropic.com/news/claude-corps",
+  "date": "2026-06-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-06-11T13:00:00+00:00",
+  "titleEn": "Introducing Claude Corps",
+  "titleZh": "推出Claude Corps",
+  "details": {
+    "overview": "Anthropic宣布推出Claude Corps，一项面向职业生涯早期人士的全国性奖学金计划，目标是让1,000名研究员学会使用Claude，并被匹配到美国非营利组织全职工作一年。Anthropic初始投入1.5亿美元，CodePath担任雇主记录并负责项目，Social Finance负责评估。研究员年薪8.5万美元并享福利，首期100人2026年10月启动，申请7月17日截止。发布称将严格评估成效，并计划开源部分核心技术与基础设施。",
+    "keyPoints": [
+      "计划培训1,000名研究员，匹配非营利组织全职服务12个月",
+      "Anthropic初始投入1.5亿美元，CodePath与Social Finance参与运营和评估",
+      "首期100人2026年10月启动，申请7月17日截止，年薪8.5万美元"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

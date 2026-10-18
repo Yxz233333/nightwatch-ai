@@ -1,0 +1,25 @@
+{
+  "id": "415d7bc1234ebf73",
+  "section": "news",
+  "category": "模型动态",
+  "title": "GPT-5.4 Thinking System Card",
+  "summary": "该条目为GPT-5.4 Thinking的系统卡发布记录，属于模型动态。",
+  "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+  "date": "2026-03-05",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-05T10:00:00+00:00",
+  "titleEn": "GPT-5.4 Thinking System Card",
+  "titleZh": "GPT-5.4 Thinking系统卡",
+  "details": {
+    "overview": "该条目为GPT-5.4 Thinking的系统卡发布记录，属于模型动态。提供的原始发布内容为空，仅有标题，未包含系统卡正文、评测方法、安全评估或能力边界等信息，因此无法说明其具体研究对象与作者声称的结论，需以官方系统卡原文为准。",
+    "keyPoints": [
+      "发布GPT-5.4 Thinking系统卡。",
+      "属于模型安全与能力说明类文档。",
+      "原始内容缺失，无法提炼具体评估结论。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "86dad1d0f2c079e6",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "The missing map of the sky",
+  "summary": "约翰斯·霍普金斯大学天体物理学家、Anthropic研究员Brice Ménard在文中介绍，他借助Claude Science制作了首张完整的紫外波段全天图。",
+  "url": "https://www.anthropic.com/research/the-missing-map-of-the-sky",
+  "date": "2026-10-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-10-08T20:59:00+00:00",
+  "titleEn": "The missing map of the sky",
+  "titleZh": "缺失的天空地图",
+  "details": {
+    "overview": "约翰斯·霍普金斯大学天体物理学家、Anthropic研究员Brice Ménard在文中介绍，他借助Claude Science制作了首张完整的紫外波段全天图。由于臭氧层吸收紫外光，以往空间望远镜数据存在大量空缺，约三分之一天区从未被紫外观测。作者称，Claude调度多个AI智能体整合GALEX等巡天数据、统一标定并去除亮星眩光，再用inpainting结合其他波段信息填补空缺，隐藏数据检验误差约10%。该图被定位为教学工具。",
+    "keyPoints": [
+      "约三分之一天区此前无紫外观测数据，需靠模型填补",
+      "Claude调度多智能体完成数据整合、交叉标定与去眩光",
+      "隐藏真实数据检验显示预测误差约10%"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

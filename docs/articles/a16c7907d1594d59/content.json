@@ -1,0 +1,25 @@
+{
+  "id": "a16c7907d1594d59",
+  "section": "news",
+  "category": "模型动态",
+  "title": "GPT-6 Astra: The next generation in intelligence for work",
+  "summary": "该官方发布内容介绍 GPT-6 Astra，称其为 OpenAI 面向企业场景能力最强的模型，具备高级推理、计算机使用能力，以及更强的写作与设计判断力。",
+  "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+  "date": "2026-09-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-09-09T11:00:00+00:00",
+  "titleEn": "GPT-6 Astra: The next generation in intelligence for work",
+  "titleZh": "GPT-6 Astra：面向工作的下一代智能",
+  "details": {
+    "overview": "该官方发布内容介绍 GPT-6 Astra，称其为 OpenAI 面向企业场景能力最强的模型，具备高级推理、计算机使用能力，以及更强的写作与设计判断力。原文为简短概述，未给出基准测试数据、可用范围或价格信息，具体推出范围和限制需以原始发布为准。",
+    "keyPoints": [
+      "定位为 OpenAI 面向企业的最强模型",
+      "强调高级推理与计算机使用能力",
+      "写作与设计判断力有所增强"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

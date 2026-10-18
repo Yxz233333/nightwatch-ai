@@ -1,0 +1,25 @@
+{
+  "id": "3e54025d90177540",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Developers can now submit apps to ChatGPT",
+  "summary": "该条目称开发者现可提交应用，经审核后发布到 ChatGPT，获批应用会出现在产品内的新目录中以便发现。",
+  "url": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt",
+  "date": "2025-12-17",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-17T00:00:00+00:00",
+  "titleEn": "Developers can now submit apps to ChatGPT",
+  "titleZh": "开发者现可向 ChatGPT 提交应用",
+  "details": {
+    "overview": "该条目称开发者现可提交应用，经审核后发布到 ChatGPT，获批应用会出现在产品内的新目录中以便发现。摘要提到更新后的工具、指南与 Apps SDK，帮助开发者构建聊天原生体验，把现实世界操作带入 ChatGPT。现有材料未披露审核标准、支持地区或上线时间等细节，应以官方原始发布记录为准。",
+    "keyPoints": [
+      "开发者可提交应用供审核并在 ChatGPT 发布",
+      "获批应用进入产品内新目录便于发现",
+      "提供更新工具、指南与 Apps SDK 支持开发"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

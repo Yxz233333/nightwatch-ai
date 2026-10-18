@@ -1,0 +1,24 @@
+{
+  "id": "bb2da62b9705da92",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Balyasny Asset Management built an AI research engine",
+  "summary": "该文介绍Balyasny资产管理公司通过结合严格的模型评估、全面使用OpenAI平台以及智能体工作流，正在重塑投资研究方式。",
+  "url": "https://openai.com/index/balyasny-asset-management",
+  "date": "2026-03-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-06T00:00:00+00:00",
+  "titleEn": "How Balyasny Asset Management built an AI research engine",
+  "titleZh": "Balyasny 资产管理公司如何构建 AI 研究引擎",
+  "details": {
+    "overview": "该文介绍Balyasny资产管理公司通过结合严格的模型评估、全面使用OpenAI平台以及智能体工作流，正在重塑投资研究方式。摘要未提供具体技术细节或量化结果。",
+    "keyPoints": [
+      "Balyasny 结合严格模型评估与 OpenAI 全平台使用。",
+      "公司采用智能体工作流重塑投资研究。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

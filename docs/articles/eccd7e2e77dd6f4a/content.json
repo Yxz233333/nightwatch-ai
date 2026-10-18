@@ -1,0 +1,25 @@
+{
+  "id": "eccd7e2e77dd6f4a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "PVH reimagines the future of fashion with OpenAI",
+  "summary": "Calvin Klein 与 Tommy Hilfiger 的母公司 PVH Corp. 采用 ChatGPT Enterprise，将 AI 引入时装设计、供应链和消费者互动等环节。",
+  "url": "https://openai.com/index/pvh-future-of-fashion",
+  "date": "2026-01-27",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-27T06:00:00+00:00",
+  "titleEn": "PVH reimagines the future of fashion with OpenAI",
+  "titleZh": "PVH 携手 OpenAI 重塑时尚业的未来",
+  "details": {
+    "overview": "Calvin Klein 与 Tommy Hilfiger 的母公司 PVH Corp. 采用 ChatGPT Enterprise，将 AI 引入时装设计、供应链和消费者互动等环节。原文摘要未说明具体应用场景细节、部署规模或成效数据，因此无法判断实际影响。",
+    "keyPoints": [
+      "PVH Corp. 为 Calvin Klein 与 Tommy Hilfiger 母公司。",
+      "采用 ChatGPT Enterprise 用于企业级 AI 应用。",
+      "覆盖方向包括时装设计、供应链与消费者互动。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

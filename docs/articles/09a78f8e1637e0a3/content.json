@@ -1,0 +1,25 @@
+{
+  "id": "09a78f8e1637e0a3",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+  "summary": "该条目介绍通过 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 实现一站式录制、训练与部署，属于行业新闻。",
+  "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+  "date": "2026-08-14",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-08-13T17:16:04+00:00",
+  "titleEn": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+  "titleZh": "通过 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 一站式录制、训练与部署",
+  "details": {
+    "overview": "该条目介绍通过 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 实现一站式录制、训练与部署，属于行业新闻。原始发布仅提供标题，未附摘要或正文，因此无法说明具体工作流程、支持范围或作者声称的效果。材料不足，无法进一步概括其技术细节或实际意义。",
+    "keyPoints": [
+      "标题提出用 Strands Agents、LeRobot 和 Storage Buckets 完成录制、训练与部署。",
+      "原始发布未提供摘要或正文内容。",
+      "材料不足，无法说明具体流程或支持范围。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

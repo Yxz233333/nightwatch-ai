@@ -1,0 +1,25 @@
+{
+  "id": "5c8ce7e94916bc60",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Operation “Trolling Stone”: Russia-linked influence activity",
+  "summary": "OpenAI 封禁了一批与代号“Trolling Stone”的行动相关的账号。",
+  "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-trolling-stone",
+  "date": "2026-02-01",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-01T00:00:00+00:00",
+  "titleEn": "Operation “Trolling Stone”: Russia-linked influence activity",
+  "titleZh": "“Trolling Stone”行动：与俄罗斯相关的影响力活动",
+  "details": {
+    "overview": "OpenAI 封禁了一批与代号“Trolling Stone”的行动相关的账号。该行动此前未被公开报道，OpenAI 将其与俄罗斯相关联。摘要显示，这些账号利用 AI 生成关于一名据称的俄罗斯邪教领袖在阿根廷被捕一事的评论。摘要未说明账号数量、发布平台或传播效果，应以原始发布为准。",
+    "keyPoints": [
+      "封禁与“Trolling Stone”行动相关的账号",
+      "该行动此前未被报道，被关联至俄罗斯",
+      "利用 AI 生成关于邪教领袖被捕的评论"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

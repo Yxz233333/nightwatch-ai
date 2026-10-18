@@ -1,0 +1,24 @@
+{
+  "id": "01c7da63ab7f6020",
+  "section": "news",
+  "category": "模型动态",
+  "title": "DeepSeek-V4-Pro Update",
+  "summary": "DeepSeek 官方宣布 DeepSeek-V4-Pro 正式版（GA）已在 APP、Web 和 API 上线，API 调用方式不变，模型名设为 deepseek-v4-pro 即可。",
+  "url": "https://api-docs.deepseek.com/updates/#deepseek-v4-pro-update",
+  "date": "2026-08-13",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "DeepSeek 官方更新",
+  "titleEn": "DeepSeek-V4-Pro Update",
+  "titleZh": "DeepSeek-V4-Pro 正式版更新",
+  "details": {
+    "overview": "DeepSeek 官方宣布 DeepSeek-V4-Pro 正式版（GA）已在 APP、Web 和 API 上线，API 调用方式不变，模型名设为 deepseek-v4-pro 即可。官方称该版本大幅增强智能体能力，生产环境提升尤为明显，并列出 HLE、Terminal Bench 2.1、NL2Repo 等多项基准分数。API 现原生支持 OpenAI Responses API 格式并适配 Codex；V4-Pro 与 V4-Flash 的思考模式支持 low/high/max 三档。官方还宣布改为峰谷定价，谷时价格为峰时一半，新价格自 2026 年 8 月 16 日 16:00（UTC）生效。",
+    "keyPoints": [
+      "正式版已在 APP、Web、API 上线，模型名仍为 deepseek-v4-pro。",
+      "官方称智能体能力显著增强，并公布多项基准测试分数。",
+      "API 原生支持 OpenAI Responses API 格式并适配 Codex。",
+      "思考模式新增 low/high/max 三档，并改为峰谷定价。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

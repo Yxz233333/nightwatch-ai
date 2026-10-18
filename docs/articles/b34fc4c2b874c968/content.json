@@ -1,0 +1,25 @@
+{
+  "id": "b34fc4c2b874c968",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Gemma 4: Byte for byte, the most capable open models",
+  "summary": "Google 发布 Gemma 4 系列开放模型，称其为迄今最智能的开放模型，专为高级推理和智能体工作流设计。",
+  "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+  "date": "2026-04-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2026-04-02T16:00:49+00:00",
+  "titleEn": "Gemma 4: Byte for byte, the most capable open models",
+  "titleZh": "Gemma 4：逐字节而言最强开放模型",
+  "details": {
+    "overview": "Google 发布 Gemma 4 系列开放模型，称其为迄今最智能的开放模型，专为高级推理和智能体工作流设计。原始发布内容仅提供简短摘要，未披露模型参数规模、基准测试成绩、许可证条款或具体可用范围，因此无法进一步评估其实际能力。",
+    "keyPoints": [
+      "Gemma 4 被定位为迄今最智能的开放模型",
+      "面向高级推理与智能体工作流设计",
+      "原始发布未披露参数规模与基准成绩"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

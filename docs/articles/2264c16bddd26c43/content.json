@@ -1,0 +1,24 @@
+{
+  "id": "2264c16bddd26c43",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI to acquire Promptfoo",
+  "summary": "OpenAI宣布收购AI安全平台Promptfoo。",
+  "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+  "date": "2026-03-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-03-09T10:00:00+00:00",
+  "titleEn": "OpenAI to acquire Promptfoo",
+  "titleZh": "OpenAI 将收购 Promptfoo",
+  "details": {
+    "overview": "OpenAI宣布收购AI安全平台Promptfoo。该平台帮助企业在开发过程中识别并修复AI系统中的漏洞。摘要未披露交易金额、时间表或收购后整合细节。",
+    "keyPoints": [
+      "OpenAI 宣布收购 AI 安全平台 Promptfoo。",
+      "Promptfoo 帮助企业在开发阶段发现并修复 AI 系统漏洞。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

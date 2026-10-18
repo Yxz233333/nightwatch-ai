@@ -1,0 +1,25 @@
+{
+  "id": "0eeda2e8e3e31440",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
+  "summary": "OpenAI 与 Snowflake 宣布合作，原文称这是一项 2 亿美元协议，旨在将前沿智能引入企业数据，使 AI 代理和洞察可直接在 Snowflake 中运行。",
+  "url": "https://openai.com/index/snowflake-partnership",
+  "date": "2026-02-02",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-02-02T06:00:00+00:00",
+  "titleEn": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
+  "titleZh": "Snowflake 与 OpenAI 合作将前沿智能引入企业数据",
+  "details": {
+    "overview": "OpenAI 与 Snowflake 宣布合作，原文称这是一项 2 亿美元协议，旨在将前沿智能引入企业数据，使 AI 代理和洞察可直接在 Snowflake 中运行。该简介未披露合作的具体产品形态、时间表或适用范围，相关信息需以官方原始发布为准。",
+    "keyPoints": [
+      "OpenAI 与 Snowflake 达成 2 亿美元合作协议",
+      "目标是将前沿智能引入企业数据环境",
+      "使 AI 代理与洞察可直接在 Snowflake 中运行"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

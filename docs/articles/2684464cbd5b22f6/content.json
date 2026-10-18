@@ -1,0 +1,24 @@
+{
+  "id": "2684464cbd5b22f6",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "ChatGPT for customer success teams",
+  "summary": "该官方指南介绍客户成功团队如何使用 ChatGPT，包括管理客户账户、改善沟通、降低流失率，以及推动采用和续约。",
+  "url": "https://openai.com/academy/customer-success",
+  "date": "2026-04-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-10T00:00:00+00:00",
+  "titleEn": "ChatGPT for customer success teams",
+  "titleZh": "面向客户成功团队的 ChatGPT",
+  "details": {
+    "overview": "该官方指南介绍客户成功团队如何使用 ChatGPT，包括管理客户账户、改善沟通、降低流失率，以及推动采用和续约。原文仅为概述，未提供具体案例、指标或验证结果。",
+    "keyPoints": [
+      "面向客户成功团队的使用指南",
+      "涉及账户管理、沟通、降低流失与续约等场景"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

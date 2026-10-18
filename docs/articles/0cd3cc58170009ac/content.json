@@ -1,0 +1,25 @@
+{
+  "id": "0cd3cc58170009ac",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+  "summary": "该条目为官方发布记录，标题显示内容关于使用 NVIDIA NeMo AutoModel 加速 Transformer 模型微调。",
+  "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+  "date": "2026-06-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-06-24T16:00:13+00:00",
+  "titleEn": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+  "titleZh": "用 NVIDIA NeMo AutoModel 加速 Transformer 微调",
+  "details": {
+    "overview": "该条目为官方发布记录，标题显示内容关于使用 NVIDIA NeMo AutoModel 加速 Transformer 模型微调。提供的摘要与原文均只有标题，未说明 AutoModel 的具体机制、支持的模型范围、加速幅度、测试条件或使用限制。因此只能确认其主题是微调加速工具与方法，无法介绍具体性能数据或结论。相关细节与适用范围需以官方原文为准。",
+    "keyPoints": [
+      "主题为使用 NVIDIA NeMo AutoModel 加速 Transformer 微调。",
+      "材料仅有标题，未披露机制与支持范围。",
+      "加速效果与限制需以官方原文为准。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

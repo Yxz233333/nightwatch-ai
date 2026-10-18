@@ -1,0 +1,25 @@
+{
+  "id": "7c3c0b8bd745ac14",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "AutoScout24 scales engineering with AI-powered workflows",
+  "summary": "该官方内容介绍 AutoScout24 Group 如何使用 Codex 与 ChatGPT 来加快开发周期、提升代码质量并扩大 AI 应用范围。",
+  "url": "https://openai.com/index/autoscout24",
+  "date": "2026-05-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-12T00:00:00+00:00",
+  "titleEn": "AutoScout24 scales engineering with AI-powered workflows",
+  "titleZh": "AutoScout24 借助 AI 工作流扩展工程能力",
+  "details": {
+    "overview": "该官方内容介绍 AutoScout24 Group 如何使用 Codex 与 ChatGPT 来加快开发周期、提升代码质量并扩大 AI 应用范围。材料仅说明应用方向，未提供具体指标、团队规模或实施细节，因此相关效果属于企业自述，尚不能视为独立验证的结论。对工程团队而言，其参考价值在于了解企业级 AI 编码工具的一种落地思路。",
+    "keyPoints": [
+      "AutoScout24 Group 使用 Codex 与 ChatGPT 辅助工程工作",
+      "目标包括加快开发周期与改善代码质量",
+      "当前收录材料未提供具体量化效果与实施细节"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

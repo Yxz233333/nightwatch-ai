@@ -1,0 +1,23 @@
+{
+  "id": "6440c7934432d093",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "GPT-6 Sol and Luna in Work and Codex",
+  "summary": "官方发布信息显示，GPT-6 Sol 和 GPT-6 Luna 被引入 ChatGPT Work 与 Codex，这两款模型与 Chat 中可用的模型相互独立。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-6-sol-and-luna-in-work-and-codex",
+  "date": "2026-09-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "GPT-6 Sol and Luna in Work and Codex",
+  "titleZh": "GPT-6 Sol 与 Luna 登陆 ChatGPT Work 和 Codex",
+  "details": {
+    "overview": "官方发布信息显示，GPT-6 Sol 和 GPT-6 Luna 被引入 ChatGPT Work 与 Codex，这两款模型与 Chat 中可用的模型相互独立。Codex 桌面端会保留用户手动选择的模型，可用模型及推理强度选项取决于套餐与工作区设置。当前收录材料未提供模型能力、参数或评测细节，推出范围与限制需以原始发布为准。",
+    "keyPoints": [
+      "GPT-6 Sol 与 Luna 面向 ChatGPT Work 和 Codex，与 Chat 模型分开",
+      "Codex 桌面端保留用户手动选择的模型",
+      "可用模型与推理强度取决于套餐和工作区设置"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

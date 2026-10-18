@@ -1,0 +1,23 @@
+{
+  "id": "2456dd8dd0133a97",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Simplified controls in the model picker",
+  "summary": "官方更新模型选择器，让用户更易选择速度与推理强度的平衡。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#simplified-controls-in-the-model-picker",
+  "date": "2026-06-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Simplified controls in the model picker",
+  "titleZh": "模型选择器简化控制项",
+  "details": {
+    "overview": "官方更新模型选择器，让用户更易选择速度与推理强度的平衡。新选项包括 Instant、Medium、High、Extra High，以及仅限 Pro 计划的 Pro Standard 和 Pro Extended。iOS 与 Android 上选择器位于对话顶部，网页版位于消息输入框。用户可在设置中决定 Instant 是否在需要更高推理时自动切换到 Medium。原 Thinking Standard 改为 Medium，Thinking Extended 改为 High，Thinking Heavy 改为 Extra High，Thinking Light 不再提供。该更新面向全球 Plus 和 Pro 用户在网页、iOS 和 Android 推出。",
+    "keyPoints": [
+      "新选项为 Instant、Medium、High、Extra High 及 Pro 专属档位",
+      "Thinking Light 不再提供，原三档分别更名为 Medium、High、Extra High",
+      "用户可设置 Instant 是否自动切换到 Medium"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

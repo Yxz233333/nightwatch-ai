@@ -1,0 +1,25 @@
+{
+  "id": "64eb655dae9e611a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "AI is becoming a first hire for small businesses",
+  "summary": "该消息援引一项新研究称，约400万美国人使用 ChatGPT 创办、运营和发展小企业，AI 正在降低创业成本。",
+  "url": "https://openai.com/index/ai-first-hire-small-business",
+  "date": "2026-05-25",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-25T00:00:00+00:00",
+  "titleEn": "AI is becoming a first hire for small businesses",
+  "titleZh": "AI 正成为小企业的首位“雇员”",
+  "details": {
+    "overview": "该消息援引一项新研究称，约400万美国人使用 ChatGPT 创办、运营和发展小企业，AI 正在降低创业成本。当前收录材料仅给出这一概括，未说明研究方法、样本构成、统计口径或“降低成本”的具体测算方式。其意义在于呈现 AI 工具在小微企业经营中的使用规模，但相关数字与结论应视为该研究的表述，具体细节需查阅原始研究。",
+    "keyPoints": [
+      "新研究称约400万美国人用 ChatGPT 经营小企业。",
+      "研究关注 AI 降低创业成本这一现象。",
+      "当前收录材料未提供研究方法与统计口径。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

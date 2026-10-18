@@ -1,0 +1,25 @@
+{
+  "id": "23ef95a7924df60a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Codex is Open Sourcing AI models",
+  "summary": "该条目仅有标题与一句摘要“Codex is Open Sourcing AI models”，未提供原始发布正文。",
+  "url": "https://huggingface.co/blog/hf-skills-training-codex",
+  "date": "2025-12-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-12-11T00:00:00+00:00",
+  "titleEn": "Codex is Open Sourcing AI models",
+  "titleZh": "Codex将开源AI模型",
+  "details": {
+    "overview": "该条目仅有标题与一句摘要“Codex is Open Sourcing AI models”，未提供原始发布正文。可确认的信息仅为标题所称Codex将开源AI模型，涉及哪些模型、开源许可、发布范围与时间均不明确。因材料不足，无法进一步说明具体对象与影响，需以官方原文为准。",
+    "keyPoints": [
+      "标题称Codex将开源AI模型",
+      "摘要与标题一致，未提供更多细节",
+      "开源范围、许可与时间等材料不足"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

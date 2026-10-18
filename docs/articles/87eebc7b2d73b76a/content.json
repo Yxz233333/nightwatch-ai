@@ -1,0 +1,23 @@
+{
+  "id": "87eebc7b2d73b76a",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Introducing GPT-6 Astra",
+  "summary": "官方发布记录介绍 GPT-6 Astra，称其在编程、研究、计算机使用和复杂多步骤工作方面有所改进。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-gpt-6-astra",
+  "date": "2026-09-03",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Introducing GPT-6 Astra",
+  "titleZh": "推出 GPT-6 Astra",
+  "details": {
+    "overview": "官方发布记录介绍 GPT-6 Astra，称其在编程、研究、计算机使用和复杂多步骤工作方面有所改进。Astra 可按用户模板和指令创建文档、电子表格和演示文稿，并能在用户追加要求或改变方向时调整。访问正面向有限数量的组织逐步开放，尚未全面可用，计划在未来数日扩大范围。Astra 还增加了额外安全监控，用于发现智能体可能未正确理解指令的情况；若检测到潜在情况，对话可能被暂停或停止，供用户审查并决定后续操作。",
+    "keyPoints": [
+      "Astra 在编程、研究、计算机使用和复杂多步骤工作方面有所改进。",
+      "可按模板和指令生成文档、表格与演示文稿，并随需求变化调整。",
+      "访问先向有限组织开放，尚未全面可用，并增加额外安全监控。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

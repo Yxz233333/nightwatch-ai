@@ -1,0 +1,25 @@
+{
+  "id": "620012e3569b767c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "The next phase of enterprise AI",
+  "summary": "OpenAI 概述企业级 AI 的下一阶段，称各行业采用正在加速，涉及 Frontier、ChatGPT Enterprise、Codex 以及公司级 AI 智能体。",
+  "url": "https://openai.com/index/next-phase-of-enterprise-ai",
+  "date": "2026-04-08",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-04-08T14:00:00+00:00",
+  "titleEn": "The next phase of enterprise AI",
+  "titleZh": "企业级 AI 的下一阶段",
+  "details": {
+    "overview": "OpenAI 概述企业级 AI 的下一阶段，称各行业采用正在加速，涉及 Frontier、ChatGPT Enterprise、Codex 以及公司级 AI 智能体。原文仅为一句摘要，未披露具体产品功能、客户案例、定价或可用范围，相关细节需以原始发布内容为准。",
+    "keyPoints": [
+      "OpenAI 概述企业级 AI 下一阶段，称各行业采用正在加速。",
+      "涉及 Frontier、ChatGPT Enterprise、Codex 和公司级 AI 智能体。",
+      "当前收录材料未提供具体功能、客户案例或定价细节。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

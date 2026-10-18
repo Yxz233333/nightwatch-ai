@@ -1,0 +1,25 @@
+{
+  "id": "48d6ee921e58358c",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.41.0 发布",
+  "summary": "Codex CLI 发布 0.41.0 稳定版本。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.41.0",
+  "date": "2025-09-25",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-09-24T17:10:52+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.41.0 发布",
+  "titleZh": "Codex CLI 0.41.0 发布",
+  "details": {
+    "overview": "Codex CLI 发布 0.41.0 稳定版本。更新说明显示，该版本增强了速率限制可见性，用户可查看限额重置时间，并在被限流时查看用量；exec 模式新增 output-schema 参数以指定输出结构；同时将 ripgrep 内置进 npm 发布包，以修复通过 npm 安装 codex 时 @vscode/ripgrep 的 postinstall 步骤偶发失败的问题。此外还包含依赖升级与若干修复。",
+    "keyPoints": [
+      "速率限制可见性增强：可查看限额重置时间，被限流时显示用量。",
+      "exec 模式新增 output-schema 参数，可指定输出结构。",
+      "ripgrep 内置进 npm 发布包，修复安装时 postinstall 偶发失败问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

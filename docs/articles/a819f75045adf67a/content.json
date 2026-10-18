@@ -1,0 +1,25 @@
+{
+  "id": "a819f75045adf67a",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.156.0 发布",
+  "summary": "Codex CLI 0.156.0 发布说明列出多项新功能：可通过 /tui 选择可选全屏界面，支持记录搜索、鼠标选择和右键复制；语音对话默认启用，带 F8 切换、/voice settings 选择器及 Linux 和 Windows 音频运行时；新增 /usage 分析面板查看账户用量、token 总量及插件与技能活动；任务可按状态筛选并从代理命令中心创建工作树会话，工作树支持默认启用；新增六种终端主题，并可在回复中查看 Mermaid 图和公式。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.156.0",
+  "date": "2026-09-23",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2026-09-22T19:51:01+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.156.0 发布",
+  "titleZh": "Codex CLI 0.156.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.156.0 发布说明列出多项新功能：可通过 /tui 选择可选全屏界面，支持记录搜索、鼠标选择和右键复制；语音对话默认启用，带 F8 切换、/voice settings 选择器及 Linux 和 Windows 音频运行时；新增 /usage 分析面板查看账户用量、token 总量及插件与技能活动；任务可按状态筛选并从代理命令中心创建工作树会话，工作树支持默认启用；新增六种终端主题，并可在回复中查看 Mermaid 图和公式。修复涉及流式回答保留、剪贴板转发、会话恢复、代理登录、语音播放及沙箱隔离等。",
+    "keyPoints": [
+      "新增可选全屏 TUI、默认启用的语音对话及 /usage 用量分析面板。",
+      "工作树支持默认启用，可从代理命令中心按状态筛选并创建会话。",
+      "修复流式回答保留、剪贴板转发、代理登录和沙箱隔离等问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

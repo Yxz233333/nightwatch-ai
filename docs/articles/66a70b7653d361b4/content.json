@@ -1,0 +1,24 @@
+{
+  "id": "66a70b7653d361b4",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing Claude Opus 4.8",
+  "summary": "Anthropic 发布 Claude Opus 4.8，称其在编码、智能体任务和专业工作方面表现更强，并能更一致地处理长时间运行的任务。",
+  "url": "https://www.anthropic.com/news/claude-opus-4-8",
+  "date": "2026-05-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-05-28T17:00:00+00:00",
+  "titleEn": "Introducing Claude Opus 4.8",
+  "titleZh": "推出 Claude Opus 4.8",
+  "details": {
+    "overview": "Anthropic 发布 Claude Opus 4.8，称其在编码、智能体任务和专业工作方面表现更强，并能更一致地处理长时间运行的任务。该版本与 claude.ai 的任务努力程度控制、Claude Code 的动态工作流以及更便宜的快速模式一同推出。作者声称 Opus 4.8 在诚实性方面有显著改进，更可能标记不确定性，减少无依据声明。定价与 Opus 4.7 相同。",
+    "keyPoints": [
+      "Opus 4.8 在编码、智能体任务和专业工作上表现更强。",
+      "claude.ai 用户可控制 Claude 在任务上投入的努力程度。",
+      "作者称 Opus 4.8 约比前代少四倍概率忽略代码缺陷。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

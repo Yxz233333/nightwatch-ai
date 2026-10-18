@@ -1,0 +1,25 @@
+{
+  "id": "22bd55f567d0e5fc",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+  "summary": "该文介绍企业可通过Oracle Cloud使用已有的云承诺额度，访问OpenAI模型与Codex，用于构建和部署AI应用。",
+  "url": "https://openai.com/index/openai-on-oracle-cloud",
+  "date": "2026-06-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-10T20:00:00+00:00",
+  "titleEn": "Access OpenAI models and Codex through your Oracle cloud commitment",
+  "titleZh": "通过Oracle云承诺额度访问OpenAI模型与Codex",
+  "details": {
+    "overview": "该文介绍企业可通过Oracle Cloud使用已有的云承诺额度，访问OpenAI模型与Codex，用于构建和部署AI应用。摘要强调企业级安全与治理能力。当前收录材料未提供可用模型清单、区域范围、价格或上线时间等细节，相关限制需以官方原始发布为准。",
+    "keyPoints": [
+      "企业可用Oracle Cloud既有承诺额度访问OpenAI模型与Codex",
+      "定位为在安全与治理框架下构建和部署AI",
+      "具体模型范围、区域与价格当前收录材料未提供"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

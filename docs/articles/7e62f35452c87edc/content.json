@@ -1,0 +1,24 @@
+{
+  "id": "7e62f35452c87edc",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
+  "summary": "该报道称，NVIDIA创始人兼CEO黄仁勋在Salesforce Dreamforce活动上与Salesforce CEO Marc Benioff同台，传达“知晓一切、做任何事”的信息。",
+  "url": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
+  "date": "2026-09-16",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-09-15T22:24:34+00:00",
+  "titleEn": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
+  "titleZh": "黄仁勋在Dreamforce称“现在我们能知晓一切、做任何事”",
+  "details": {
+    "overview": "该报道称，NVIDIA创始人兼CEO黄仁勋在Salesforce Dreamforce活动上与Salesforce CEO Marc Benioff同台，传达“知晓一切、做任何事”的信息。此次亮相恰逢Salesforce发布其首个CRM推理模型Koa，该模型基于NVIDIA Nemotron 3 Super构建。原文在此处截断，未提供Koa的功能细节、可用范围或性能数据，也未说明黄仁勋演讲的完整内容。",
+    "keyPoints": [
+      "黄仁勋与Marc Benioff在Dreamforce同台",
+      "Salesforce发布首个CRM推理模型Koa",
+      "Koa基于NVIDIA Nemotron 3 Super构建"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "bee5282656660d6c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+  "summary": "据官方发布记录，OpenAI 与 Dell 建立合作，目标是把 Codex 引入混合云和本地部署的企业环境，帮助企业在自身数据与工作流中安全部署 AI 编程智能体。",
+  "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+  "date": "2026-05-18",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-05-18T10:00:00+00:00",
+  "titleEn": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+  "titleZh": "OpenAI 与 Dell 合作，将 Codex 引入混合云与本地部署企业环境",
+  "details": {
+    "overview": "据官方发布记录，OpenAI 与 Dell 建立合作，目标是把 Codex 引入混合云和本地部署的企业环境，帮助企业在自身数据与工作流中安全部署 AI 编程智能体。原文仅说明合作方向与安全部署的定位，未披露具体产品形态、可用时间或客户范围，相关细节需以官方原文为准。",
+    "keyPoints": [
+      "OpenAI 与 Dell 合作推动 Codex 进入企业环境",
+      "覆盖混合云与本地部署两类场景",
+      "定位为在企业数据和工作流中安全部署 AI 编程智能体"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

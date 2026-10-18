@@ -1,0 +1,25 @@
+{
+  "id": "b6c7518f6b3bf558",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "What Codex unlocks for Notion",
+  "summary": "材料仅有简介，说明 Notion 如何使用 Codex 一次性生成规格、构建网页端 AI 语音输入，并在小团队中放大工程能力。",
+  "url": "https://openai.com/index/notion",
+  "date": "2026-06-09",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-06-09T10:00:00+00:00",
+  "titleEn": "What Codex unlocks for Notion",
+  "titleZh": "Codex 为 Notion 带来的能力",
+  "details": {
+    "overview": "材料仅有简介，说明 Notion 如何使用 Codex 一次性生成规格、构建网页端 AI 语音输入，并在小团队中放大工程能力。原始发布内容为空，缺少具体做法、数据与结论细节，无法进一步展开。",
+    "keyPoints": [
+      "Notion 使用 Codex 一次性生成规格",
+      "Notion 用 Codex 构建网页端 AI 语音输入",
+      "Codex 用于放大小团队工程能力"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

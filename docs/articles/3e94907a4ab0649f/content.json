@@ -1,0 +1,24 @@
+{
+  "id": "3e94907a4ab0649f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA DLSS 4.5, Path Tracing and G-SYNC Pulsar Supercharge Gameplay With Enhanced Performance and Visuals",
+  "summary": "NVIDIA 在 CES 展会宣布 DLSS 4.5，引入动态多帧生成、新的 6X 多帧生成模式，以及用于 DLSS 超分辨率的第二代 Transformer 模型，官方称玩家可在最新游戏中获得更强性能与画质。",
+  "url": "https://blogs.nvidia.com/blog/dlss-path-tracing-g-sync-pulsar-ces-2026/",
+  "date": "2026-01-06",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "NVIDIA 官方博客",
+  "publishedAt": "2026-01-06T05:30:09+00:00",
+  "titleEn": "NVIDIA DLSS 4.5, Path Tracing and G-SYNC Pulsar Supercharge Gameplay With Enhanced Performance and Visuals",
+  "titleZh": "NVIDIA DLSS 4.5、路径追踪与 G-SYNC Pulsar 提升游戏性能与画质",
+  "details": {
+    "overview": "NVIDIA 在 CES 展会宣布 DLSS 4.5，引入动态多帧生成、新的 6X 多帧生成模式，以及用于 DLSS 超分辨率的第二代 Transformer 模型，官方称玩家可在最新游戏中获得更强性能与画质。官方同时表示，已有超过 250 款游戏和应用支持 NVIDIA DLSS。原文摘要在此处截断，路径追踪与 G-SYNC Pulsar 的具体改进细节未完整呈现。",
+    "keyPoints": [
+      "DLSS 4.5 引入动态多帧生成与 6X 多帧生成模式。",
+      "超分辨率采用第二代 Transformer 模型。",
+      "官方称超过 250 款游戏和应用支持 DLSS。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

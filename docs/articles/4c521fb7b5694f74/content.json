@@ -1,0 +1,25 @@
+{
+  "id": "4c521fb7b5694f74",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.73.0 发布",
+  "summary": "Codex CLI 0.73.0 发布说明列出新功能与修复。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.73.0",
+  "date": "2025-12-16",
+  "status": "CLI 稳定版本；桌面端功能另以对应公告为准。",
+  "source": "Codex GitHub Releases",
+  "publishedAt": "2025-12-15T22:38:50+00:00",
+  "releaseChannel": "stable",
+  "titleEn": "Codex CLI 0.73.0 发布",
+  "titleZh": "Codex CLI 0.73.0 发布",
+  "details": {
+    "overview": "Codex CLI 0.73.0 发布说明列出新功能与修复。新功能包括新增 ghost snapshot v2 以改进会话捕获、在配置中支持 ghost commits、通过 SkillsManager 与 skills/list 重新实现技能加载以统一发现机制，以及为 Codex 增加 OpenTelemetry 追踪。修复方面包括避免会话中工具调用缺少输出时崩溃、输入突发时不再触发快捷键视图、默认换行算法由 OptimalFit 改为 FirstFit，并在沙箱配置中引入 AbsolutePathBuf、在日志消息中包含 Error。",
+    "keyPoints": [
+      "新增 ghost snapshot v2、配置支持 ghost commits，并加入 OpenTelemetry 追踪。",
+      "通过 SkillsManager 与 skills/list 重新实现技能加载。",
+      "修复工具调用缺输出时的崩溃，默认换行算法改为 FirstFit。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

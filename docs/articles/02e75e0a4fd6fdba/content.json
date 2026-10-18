@@ -1,0 +1,24 @@
+{
+  "id": "02e75e0a4fd6fdba",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Previewing the Model Hardware Standard",
+  "summary": "Anthropic 宣布向首批科研实验室与先进制造商开放模型硬件标准（MHS）的研究预览。",
+  "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+  "date": "2026-08-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-08-27T18:00:00+00:00",
+  "titleEn": "Previewing the Model Hardware Standard",
+  "titleZh": "模型硬件标准（MHS）研究预览",
+  "details": {
+    "overview": "Anthropic 宣布向首批科研实验室与先进制造商开放模型硬件标准（MHS）的研究预览。MHS 是一套供 AI 智能体安全操作物理设备的共享规范，源于 Anthropic 与 HHMI Janelia 研究园区的合作。原文称，实验室或工厂通常需数周乃至数月完成硬件集成，且多数设备互不通信、需专门定制对接；MHS 通过标准化驱动与“读/写”等原语，把集成工作缩短到数小时或数分钟，并让智能体并行操作显微镜、液体处理仪、机械臂等设备，实时调整参数，部分情况下可自行从硬件错误中恢复。",
+    "keyPoints": [
+      "MHS 是供 AI 智能体安全操作物理设备的共享规范，首批面向科研实验室与先进制造商开放研究预览。",
+      "通过标准化驱动与“读/写”原语，原文称可将设备集成时间从数周或数月缩短至数小时或数分钟。",
+      "兼容任何带可编程接口的设备，且与模型无关，可通过 MCP 等标准协议接入。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

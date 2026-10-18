@@ -1,0 +1,24 @@
+{
+  "id": "039dbe2484482787",
+  "section": "news",
+  "category": "模型动态",
+  "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+  "summary": "Anthropic宣布与全球大型IT服务公司DXC Technology建立多年期全球联盟。",
+  "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+  "date": "2026-06-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Anthropic 官方新闻与研究",
+  "publishedAt": "2026-06-11T18:00:00+00:00",
+  "titleEn": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+  "titleZh": "DXC将把Claude集成到银行、航空公司等受监管行业所依赖的系统中",
+  "details": {
+    "overview": "Anthropic宣布与全球大型IT服务公司DXC Technology建立多年期全球联盟。DXC将培训数万名Claude认证的前置部署工程师，把Claude引入其为大型银行、航空公司、保险公司、制造商和政府机构运营的系统。原文称DXC先在自身约11.5万名员工的运营中试用Claude，包括用Claude编写其OASIS平台95%以上代码，并估计开发速度提升10倍；随后再向客户推广。联盟将从DXC已有大型客户运营的四个领域起步。",
+    "keyPoints": [
+      "DXC将培训数万名Claude认证前置部署工程师，嵌入客户组织",
+      "原文称DXC内部用Claude生成OASIS平台超95%代码，估计开发提速10倍",
+      "联盟从DXC已有大型客户运营的四个领域起步，面向受监管行业"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "9864c1cf1c89ac8b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+  "summary": "原文仅提供标题“Making Knowledge Distillation Cheap Enough to Run at Scale”，没有摘要或正文内容，无法确认具体研究对象、方法、作者声称的结果或研究意义。",
+  "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+  "date": "2026-08-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2026-08-10T10:05:36+00:00",
+  "titleEn": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+  "titleZh": "让知识蒸馏足够低成本地规模化运行",
+  "details": {
+    "overview": "原文仅提供标题“Making Knowledge Distillation Cheap Enough to Run at Scale”，没有摘要或正文内容，无法确认具体研究对象、方法、作者声称的结果或研究意义。该条目属于行业新闻类别，但材料不足以形成可靠介绍。建议以官方原始发布内容为准，补充后再评估其技术细节和影响。",
+    "keyPoints": [
+      "标题指向降低知识蒸馏的规模化运行成本。",
+      "当前收录材料未提供摘要或正文，具体方法未知。",
+      "无法确认作者声称的结果或应用范围。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

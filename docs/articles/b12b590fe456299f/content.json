@@ -1,0 +1,25 @@
+{
+  "id": "b12b590fe456299f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Recreating a 70-year love story frame by frame",
+  "summary": "官方发布信息介绍短片《Love, Rendered》，讲述电影制作者与 Google DeepMind 如何利用 AI 重现一对夫妇未被记录下来的过往。",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+  "date": "2026-09-10",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google AI 官方博客",
+  "publishedAt": "2026-09-09T16:00:00+00:00",
+  "titleEn": "Recreating a 70-year love story frame by frame",
+  "titleZh": "逐帧重现一段70年的爱情故事",
+  "details": {
+    "overview": "官方发布信息介绍短片《Love, Rendered》，讲述电影制作者与 Google DeepMind 如何利用 AI 重现一对夫妇未被记录下来的过往。原始材料仅提供这一句概述，未披露所用具体 AI 技术、制作流程或影片细节，相关内容需以官方原文为准。",
+    "keyPoints": [
+      "短片《Love, Rendered》由电影制作者与 Google DeepMind 合作完成。",
+      "内容围绕用 AI 重现一对夫妇未被记录的过往。",
+      "官方材料未披露具体技术细节与制作流程。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

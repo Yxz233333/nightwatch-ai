@@ -1,0 +1,25 @@
+{
+  "id": "ad1536b34d8cefbc",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "One in a million: celebrating the customers shaping AI’s future",
+  "summary": "OpenAI 称全球已有超过一百万客户使用其产品赋能团队、开拓新机会。",
+  "url": "https://openai.com/index/one-in-a-million-customers",
+  "date": "2025-12-22",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-12-22T00:00:00+00:00",
+  "titleEn": "One in a million: celebrating the customers shaping AI’s future",
+  "titleZh": "百万分之一：致敬塑造 AI 未来的客户",
+  "details": {
+    "overview": "OpenAI 称全球已有超过一百万客户使用其产品赋能团队、开拓新机会。该文重点介绍 PayPal、Virgin Atlantic、BBVA、Cisco、Moderna 和 Canva 等公司如何借助 AI 改变工作方式。摘要未提供各案例的具体成效数据或统计口径，相关细节需以官方原文为准。",
+    "keyPoints": [
+      "OpenAI 称全球使用其产品的客户已超过一百万。",
+      "文章列举 PayPal、Cisco、Moderna、Canva 等企业案例。",
+      "官方称这些公司正借助 AI 改变工作方式。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

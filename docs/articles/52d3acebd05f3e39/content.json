@@ -1,0 +1,23 @@
+{
+  "id": "52d3acebd05f3e39",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Pro 200 subscriptions",
+  "summary": "官方发布记录显示，Pro 200 重新开放新订阅，月费为 200 美元，同时包含的使用额度将发生变化。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#pro-200-subscriptions",
+  "date": "2026-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Pro 200 subscriptions",
+  "titleZh": "Pro 200 订阅",
+  "details": {
+    "overview": "官方发布记录显示，Pro 200 重新开放新订阅，月费为 200 美元，同时包含的使用额度将发生变化。受影响的用户会收到邮件说明详情，月费本身保持不变。当前收录材料未提供额度调整的具体幅度、生效时间或适用范围，仅提示可查阅 Pro 计划与现有订阅的说明。",
+    "keyPoints": [
+      "Pro 200 重新开放新订阅，月费维持 200 美元",
+      "包含的使用额度将调整，受影响用户将收到邮件通知",
+      "原文未说明额度变化的具体内容与生效时间"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

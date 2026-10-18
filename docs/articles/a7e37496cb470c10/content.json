@@ -1,0 +1,23 @@
+{
+  "id": "a7e37496cb470c10",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "GPT-5-Codex in the API",
+  "summary": "OpenAI 宣布 GPT-5-Codex 已在 Responses API 中可用，用户也可在 Codex CLI 中使用自己的 API Key 调用该模型。",
+  "url": "https://learn.chatgpt.com/docs/changelog",
+  "date": "2025-09-23",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 与 Codex 官方变更日志",
+  "titleEn": "GPT-5-Codex in the API",
+  "titleZh": "GPT-5-Codex 登陆 API",
+  "details": {
+    "overview": "OpenAI 宣布 GPT-5-Codex 已在 Responses API 中可用，用户也可在 Codex CLI 中使用自己的 API Key 调用该模型。官方表示计划定期更新这一模型快照，其价格与 GPT-5 相同，定价与速率限制可在模型页面查询。该消息属于功能更新，说明的是接入方式与计费口径，未涉及模型能力评测或与其他模型的对比结论。",
+    "keyPoints": [
+      "GPT-5-Codex 现已在 Responses API 中提供，并可在 Codex CLI 中用 API Key 调用。",
+      "官方称该模型快照将定期更新，价格与 GPT-5 相同。",
+      "定价与速率限制细节需查阅官方模型页面。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

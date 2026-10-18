@@ -1,0 +1,25 @@
+{
+  "id": "67292f069b2d6a25",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Visible Watermarking with Gradio",
+  "summary": "该条目仅提供标题“Visible Watermarking with Gradio”，未附摘要或原始发布正文，无法确认具体实现方式、适用模型或功能范围。",
+  "url": "https://huggingface.co/blog/watermarking-with-gradio",
+  "date": "2025-09-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Hugging Face 官方博客",
+  "publishedAt": "2025-09-15T00:00:00+00:00",
+  "titleEn": "Visible Watermarking with Gradio",
+  "titleZh": "使用 Gradio 实现可见水印",
+  "details": {
+    "overview": "该条目仅提供标题“Visible Watermarking with Gradio”，未附摘要或原始发布正文，无法确认具体实现方式、适用模型或功能范围。从标题可推断内容与在 Gradio 界面中为图像添加可见水印有关，但作者是否提供代码、演示或部署说明均不明确。建议读者以官方原始发布记录为准，核对当时的推出范围和限制。",
+    "keyPoints": [
+      "标题指向在 Gradio 中实现可见水印功能",
+      "原始材料未提供摘要与正文细节",
+      "推出范围和限制需以官方原文为准"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

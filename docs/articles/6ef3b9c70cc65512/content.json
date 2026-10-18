@@ -1,0 +1,23 @@
+{
+  "id": "6ef3b9c70cc65512",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "A new Pro plan with Astra Ultrafast",
+  "summary": "官方推出 Pro 500 套餐，每月 500 美元，在 Pro 各档中包含最高用量，并可在 ChatGPT Work 和 Codex 中使用 Astra Ultrafast。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#a-new-pro-plan-with-astra-ultrafast",
+  "date": "2026-09-29",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "A new Pro plan with Astra Ultrafast",
+  "titleZh": "含 Astra Ultrafast 的新 Pro 套餐",
+  "details": {
+    "overview": "官方推出 Pro 500 套餐，每月 500 美元，在 Pro 各档中包含最高用量，并可在 ChatGPT Work 和 Codex 中使用 Astra Ultrafast。用户在模型选择器中选择 Ultrafast，即可使用 GPT-6 Astra 的更快服务层级；用量先计入套餐额度，额度用尽后使用积分余额。在 Pro 各档中，Ultrafast 仅随 Pro 500 提供，Pro 100 或 Pro 200 购买积分不会解锁。Pro 500 上线时通过网页版 ChatGPT 提供。",
+    "keyPoints": [
+      "Pro 500 每月 500 美元，含 Pro 各档最高用量",
+      "Ultrafast 为 GPT-6 Astra 的更快服务层级，先扣套餐额度再用积分",
+      "Pro 各档中仅 Pro 500 提供 Ultrafast，上线时经网页版订阅"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

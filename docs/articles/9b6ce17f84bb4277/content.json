@@ -1,0 +1,24 @@
+{
+  "id": "9b6ce17f84bb4277",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Teaching AI to see the world more like we do",
+  "summary": "该条目称，将 AI 视觉模型与人类知识对齐，可提升其鲁棒性和泛化能力。",
+  "url": "https://deepmind.google/blog/teaching-ai-to-see-the-world-more-like-we-do/",
+  "date": "2025-11-12",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "Google DeepMind",
+  "publishedAt": "2025-11-11T18:54:00+00:00",
+  "titleEn": "Teaching AI to see the world more like we do",
+  "titleZh": "教 AI 更接近人类的方式看世界",
+  "details": {
+    "overview": "该条目称，将 AI 视觉模型与人类知识对齐，可提升其鲁棒性和泛化能力。但原始材料仅有一句摘要，没有提供具体研究对象、方法、实验设置或量化结果，因此无法进一步说明作者如何实现对齐、在哪些任务上验证，以及结论的适用范围。",
+    "keyPoints": [
+      "摘要称将 AI 视觉模型与人类知识对齐可提升鲁棒性。",
+      "摘要称该对齐还能改善模型的泛化能力。",
+      "原始材料仅有一句摘要，缺少方法、实验和量化结果。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

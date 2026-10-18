@@ -1,0 +1,23 @@
+{
+  "id": "5fccd8ba7d1bec32",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Planned custom GPT retirement and migration to plugins",
+  "summary": "官方表示计划在各 ChatGPT 套餐中停用自定义 GPT，并提供迁移到插件的路径，插件可组合可复用指令与已连接应用。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#planned-custom-gpt-retirement-and-migration-to-plugins",
+  "date": "2026-09-11",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "ChatGPT 官方发布说明",
+  "titleEn": "Planned custom GPT retirement and migration to plugins",
+  "titleZh": "计划停用自定义 GPT 并迁移至插件",
+  "details": {
+    "overview": "官方表示计划在各 ChatGPT 套餐中停用自定义 GPT，并提供迁移到插件的路径，插件可组合可复用指令与已连接应用。在适用停用日期前，用户仍可按权限继续使用现有 GPT。建议先梳理依赖的 GPT、确认创建者与需要访问的人员，迁移开放后测试迁移后的插件并检查共享设置。时间与可用性可能因套餐和工作区而异。",
+    "keyPoints": [
+      "计划停用自定义 GPT，并提供迁移到插件的路径。",
+      "停用前现有 GPT 仍可按权限继续使用。",
+      "建议梳理依赖的 GPT 及访问人员，迁移后测试插件与共享设置。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

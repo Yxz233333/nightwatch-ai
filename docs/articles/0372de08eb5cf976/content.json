@@ -1,0 +1,25 @@
+{
+  "id": "0372de08eb5cf976",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing upgrades to Codex",
+  "summary": "官方发布记录称 Codex 获得升级，变得更快、更可靠，并提升了实时协作能力，也能在终端、IDE、网页乃至手机等开发环境中更独立地处理任务。",
+  "url": "https://openai.com/index/introducing-upgrades-to-codex",
+  "date": "2025-09-15",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2025-09-15T10:00:00+00:00",
+  "titleEn": "Introducing upgrades to Codex",
+  "titleZh": "Codex 迎来升级",
+  "details": {
+    "overview": "官方发布记录称 Codex 获得升级，变得更快、更可靠，并提升了实时协作能力，也能在终端、IDE、网页乃至手机等开发环境中更独立地处理任务。当前收录材料未提供具体性能数字、功能清单或推出范围，相关限制应以官方原始发布记录为准。",
+    "keyPoints": [
+      "Codex 在速度与可靠性方面获得升级",
+      "增强实时协作与独立处理任务能力",
+      "覆盖终端、IDE、网页和手机等开发环境"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "1a929936a69c418c",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Keeping your data safe when an AI agent clicks a link",
+  "summary": "该发布介绍 OpenAI 在 AI 智能体打开链接时保护用户数据的做法，重点针对基于 URL 的数据外泄与提示注入风险，并说明系统内置了相应防护措施。",
+  "url": "https://openai.com/index/ai-agent-link-safety",
+  "date": "2026-01-28",
+  "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+  "source": "OpenAI 官方新闻",
+  "publishedAt": "2026-01-28T00:00:00+00:00",
+  "titleEn": "Keeping your data safe when an AI agent clicks a link",
+  "titleZh": "AI 智能体点击链接时如何保护你的数据",
+  "details": {
+    "overview": "该发布介绍 OpenAI 在 AI 智能体打开链接时保护用户数据的做法，重点针对基于 URL 的数据外泄与提示注入风险，并说明系统内置了相应防护措施。原文摘要未披露具体机制、适用范围或测试结果，因此无法判断防护的实际效果。",
+    "keyPoints": [
+      "关注 AI 智能体打开链接时的用户数据安全。",
+      "针对 URL 数据外泄与提示注入两类风险。",
+      "称通过内置防护措施加以应对。"
+    ],
+    "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+  },
+  "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+  "interest": []
+}
