@@ -7,5 +7,10 @@
   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
   "date": "2026-10-16",
   "status": "官方已宣布；账户、套餐、客户端和灰度范围以原文为准。",
-  "interest": []
+  "interest": [
+    {
+      "kind": "learn",
+      "markedAt": "2026-10-18T15:12:03.272Z"
+    }
+  ]
 }
