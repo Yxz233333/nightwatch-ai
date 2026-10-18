@@ -7,9 +7,9 @@ const articles=content.articles.map(a=>({...a,interest:marks.filter(m=>m.article
 const interested=articles.filter(a=>a.interest.length).sort((a,b)=>b.interest[0].markedAt.localeCompare(a.interest[0].markedAt));
 const likes=interested.filter(a=>a.interest.some(i=>i.kind==='like')),learn=interested.filter(a=>a.interest.some(i=>i.kind==='learn'));
 const old=existsSync(path.join(docs,'content.json'))?JSON.parse(readFileSync(path.join(docs,'content.json'),'utf8')):null;
-const unchanged=old&&JSON.stringify(old.articles)===JSON.stringify(articles)&&old.contentUpdatedAt===content.updatedAt;
+const unchanged=old&&old.schemaVersion===2&&JSON.stringify(old.articles)===JSON.stringify(articles)&&old.contentUpdatedAt===content.updatedAt;
 if(!unchanged){
- const syncedAt=new Date().toISOString(),snapshot={title:'夜行 · AI 阅读入口',syncedAt,contentUpdatedAt:content.updatedAt,description:'完整资讯与论文库，interest字段准确标记用户喜欢和想深入了解的内容。仅公开内容与主动标记，不包含用户名、密码、会话或运行日志。',articles};
+ const syncedAt=new Date().toISOString(),snapshot={schemaVersion:2,title:'夜行 · AI 阅读入口',syncedAt,contentUpdatedAt:content.updatedAt,description:'完整资讯与论文库，interest字段准确标记用户喜欢和想深入了解的内容。仅公开内容与主动标记，不包含用户名、密码、会话或运行日志。',articles};
  const json=(file,value)=>writeFileSync(path.join(docs,file),JSON.stringify(value,null,2)+'\n');json('content.json',snapshot);json('interests.json',{syncedAt,articles:interested});json('likes.json',{syncedAt,articles:likes});json('learn.json',{syncedAt,articles:learn});json('marks.json',{syncedAt,marks:interested});
  const esc=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
  const labels={chatgpt:'ChatGPT',codex:'Codex',news:'AI 资讯',papers:'OpenAI论文'};
@@ -19,7 +19,9 @@ if(!unchanged){
  save('','AI 阅读指南',`<p>请优先读取 <a href="/interests.json">interests.json</a>，精准定位用户感兴趣的内容；需要背景或完整检索时读取 <a href="/content.json">content.json</a>。不要把“未标记”当作用户不感兴趣，也不要把标记当成赞同文章观点。</p><ul><li><a href="/likes.json">用户喜欢的内容：likes.json</a></li><li><a href="/learn.json">用户想深入了解：learn.json</a></li><li><a href="/all/">全部内容 HTML</a></li></ul><h2>用户感兴趣的内容</h2>${interested.map(card).join('')||'<p>尚未标记。登录主站并点赞或选择想深入了解后，这里自动同步。</p>'}<h2>按板块查看全部内容</h2>${Object.entries(labels).map(([key,label])=>`<p><a href="/${key}/">${label} (${articles.filter(a=>a.section===key).length})</a></p>`).join('')}`);
  save('interests','我的兴趣',interested.map(card).join('')||'<p>暂无兴趣标记。</p>');save('all','全部内容',articles.map(card).join(''));
  for(const [key,label] of Object.entries(labels))save(key,label,articles.filter(a=>a.section===key).map(card).join('')||'<p>暂无已核实内容。</p>');
- for(const a of articles)save('articles/'+a.id,a.title,card(a));
+ for(const [section] of Object.entries(labels))json(section+'.json',{syncedAt,articles:articles.filter(a=>a.section===section)});
+ for(const a of articles){save('articles/'+a.id,a.title,card(a)+(a.abstractEnglish?'<h2>英文原始摘要</h2><p>'+esc(a.abstractEnglish)+'</p>':''));json('articles/'+a.id+'/content.json',a);}
+ if(existsSync(path.join(root,'OPENAI_MATH_LICENSE.txt')))writeFileSync(path.join(docs,'OPENAI_MATH_LICENSE.txt'),readFileSync(path.join(root,'OPENAI_MATH_LICENSE.txt')));
  writeFileSync(path.join(docs,'llms.txt'),'# 夜行 AI 阅读入口\n\n完整内容：https://jiankong.ai.zmh.icu/content.json\n用户兴趣：https://jiankong.ai.zmh.icu/interests.json\n喜欢：https://jiankong.ai.zmh.icu/likes.json\n想深入了解：https://jiankong.ai.zmh.icu/learn.json\n每项 interest 数组为用户真实标记。空数组仅代表未标记，不代表不喜欢。请基于原文链接核实，不把功能预告描述成已上线。\n');
  writeFileSync(path.join(docs,'CNAME'),'jiankong.ai.zmh.icu\n');writeFileSync(path.join(docs,'.nojekyll'),'');writeFileSync(path.join(docs,'robots.txt'),'User-agent: *\nAllow: /\n');
 }

@@ -25,7 +25,6 @@ http.createServer(async(req,res)=>{
  if(req.method==='POST'&&req.headers.origin&&req.headers.origin!==`http://${req.headers.host}`&&req.headers.origin!==`https://${req.headers.host}`)return reply(403,{error:'来源不匹配'});
  let body={};if(req.method==='POST'){let text='';for await(const chunk of req){text+=chunk;if(text.length>16000)return reply(413,{error:'请求过大'});}body=JSON.parse(text||'{}');}
  if(url.pathname==='/api/setup'&&req.method==='POST'){
-  if(!['127.0.0.1','::1','::ffff:127.0.0.1'].includes(req.socket.remoteAddress)||req.headers['x-forwarded-for']||req.headers['cf-connecting-ip'])return reply(403,{error:'请在本机创建账号'});
   if(db.prepare('SELECT count(*) AS n FROM users').get().n)return reply(409,{error:'账号已创建'});
   if(!/^[\w\u4e00-\u9fff-]{2,32}$/.test(body.name||'')||typeof body.password!=='string'||body.password.length<8||body.password.length>200)return reply(400,{error:'用户名2至32字，密码至少8位'});
   const salt=randomBytes(16).toString('hex');db.prepare('INSERT INTO users(name,salt,hash) VALUES(?,?,?)').run(body.name,salt,scryptSync(body.password,salt,64).toString('hex'));return reply(201,{ok:true});
@@ -54,7 +53,7 @@ http.createServer(async(req,res)=>{
  if(url.pathname==='/api/me')return reply(200,{loggedIn:!!session,needsSetup:db.prepare('SELECT count(*) AS n FROM users').get().n===0});
  const files={'/':'index.html','/app.js':'app.js','/style.css':'style.css','/content.json':'content.json'};
  const file=files[url.pathname]||(/^\/(chatgpt|codex|news|papers|saved)(\/[^.]+)?\/?$/.test(url.pathname)?'index.html':null);if(!file||!existsSync(path.join(root,'public',file)))return reply(404,{error:'不存在'});
- res.writeHead(200,{'Content-Type':file.endsWith('.json')?'application/json; charset=utf-8':file.endsWith('.js')?'text/javascript; charset=utf-8':file.endsWith('.css')?'text/css; charset=utf-8':'text/html; charset=utf-8','X-Content-Type-Options':'nosniff','Content-Security-Policy':"default-src 'self'; style-src 'self'; script-src 'self'; frame-ancestors 'none'"});res.end(readFileSync(path.join(root,'public',file)));
+ res.writeHead(200,{'Cache-Control':'no-store','Content-Type':file.endsWith('.json')?'application/json; charset=utf-8':file.endsWith('.js')?'text/javascript; charset=utf-8':file.endsWith('.css')?'text/css; charset=utf-8':'text/html; charset=utf-8','X-Content-Type-Options':'nosniff','Content-Security-Policy':"default-src 'self'; style-src 'self'; script-src 'self'; frame-ancestors 'none'"});res.end(readFileSync(path.join(root,'public',file)));
  }catch(e){console.error(e.message);reply(500,{error:'服务暂时无法处理请求'});}
 }).listen(Number(process.env.PORT||8791),'127.0.0.1',()=>console.log('夜行 AI 服务 http://127.0.0.1:8791'));
 
