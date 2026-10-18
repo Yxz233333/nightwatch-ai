@@ -15,7 +15,7 @@ CREATE TABLE IF NOT EXISTS marks(user INTEGER,article TEXT,kind TEXT,created TEX
 const digest=t=>createHash('sha256').update(t).digest('hex');
 const failed=new Map();
 let publishing=false,publishAgain=false;
-function publishMarks(){if(publishing){publishAgain=true;return;}publishing=true;const p=spawn(process.execPath,[path.join(root,'publish-public.mjs')],{cwd:root,windowsHide:true,stdio:'ignore'});p.on('error',()=>{publishing=false;});p.on('exit',()=>{publishing=false;if(publishAgain){publishAgain=false;setTimeout(publishMarks,2000).unref();}});}
+function publishMarks(){if(process.env.NIGHTWATCH_DISABLE_PUBLISH==='1')return;if(publishing){publishAgain=true;return;}publishing=true;const p=spawn(process.execPath,[path.join(root,'publish-public.mjs')],{cwd:root,windowsHide:true,stdio:'ignore'});p.on('error',()=>{publishing=false;});p.on('exit',()=>{publishing=false;if(publishAgain){publishAgain=false;setTimeout(publishMarks,2000).unref();}});}
 setTimeout(publishMarks,5000).unref();setInterval(publishMarks,60000).unref();
 http.createServer(async(req,res)=>{
  const url=new URL(req.url,'http://localhost');
@@ -51,9 +51,10 @@ http.createServer(async(req,res)=>{
  }
  if(url.pathname==='/api/logout'&&req.method==='POST'){if(token)db.prepare('DELETE FROM sessions WHERE token=?').run(digest(token));res.setHeader('Set-Cookie','nightwatch=; HttpOnly; SameSite=Strict; Path=/; Max-Age=0');return reply(200,{ok:true});}
  if(url.pathname==='/api/me')return reply(200,{loggedIn:!!session,needsSetup:db.prepare('SELECT count(*) AS n FROM users').get().n===0});
- const files={'/':'index.html','/app.js':'app.js','/style.css':'style.css','/content.json':'content.json'};
- const file=files[url.pathname]||(/^\/(chatgpt|codex|news|papers|saved)(\/[^.]+)?\/?$/.test(url.pathname)?'index.html':null);if(!file||!existsSync(path.join(root,'public',file)))return reply(404,{error:'不存在'});
+ const files={'/':'index.html','/app.js':'app.js','/view-model.js':'view-model.js','/style.css':'style.css','/content.json':'content.json'};
+ const file=files[url.pathname]||(/^\/(chatgpt|codex|news|papers|saved|articles)(\/[^.]+)?\/?$/.test(url.pathname)?'index.html':null);if(!file||!existsSync(path.join(root,'public',file)))return reply(404,{error:'不存在'});
  res.writeHead(200,{'Cache-Control':'no-store','Content-Type':file.endsWith('.json')?'application/json; charset=utf-8':file.endsWith('.js')?'text/javascript; charset=utf-8':file.endsWith('.css')?'text/css; charset=utf-8':'text/html; charset=utf-8','X-Content-Type-Options':'nosniff','Content-Security-Policy':"default-src 'self'; style-src 'self'; script-src 'self'; frame-ancestors 'none'"});res.end(readFileSync(path.join(root,'public',file)));
  }catch(e){console.error(e.message);reply(500,{error:'服务暂时无法处理请求'});}
 }).listen(Number(process.env.PORT||8791),'127.0.0.1',()=>console.log('夜行 AI 服务 http://127.0.0.1:8791'));
+
 

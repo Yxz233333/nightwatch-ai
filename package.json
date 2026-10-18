@@ -1,0 +1,1 @@
+{"name":"nightwatch-ai","private":true,"type":"module","scripts":{"test":"node --test tests/view-model.test.mjs && node verify-backend.mjs"}}
