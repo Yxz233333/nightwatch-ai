@@ -1,0 +1,10 @@
+data/
+*.log
+*.pid
+node_modules/
+*.exe
+*.yml
+*.pem
+*.pid
+*-verification.json
+*.before-*

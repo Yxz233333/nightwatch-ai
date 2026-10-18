@@ -1,0 +1,7 @@
+# 夜行 AI 阅读入口
+
+完整内容：https://jiankong.ai.zmh.icu/content.json
+用户兴趣：https://jiankong.ai.zmh.icu/interests.json
+喜欢：https://jiankong.ai.zmh.icu/likes.json
+想深入了解：https://jiankong.ai.zmh.icu/learn.json
+每项 interest 数组为用户真实标记。空数组仅代表未标记，不代表不喜欢。请基于原文链接核实，不把功能预告描述成已上线。
