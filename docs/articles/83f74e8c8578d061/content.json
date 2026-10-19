@@ -1,0 +1,25 @@
+{
+  "id": "83f74e8c8578d061",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Meta’s AI Models Are Powering the First Wave of Genesis Mission Projects",
+  "summary": "Meta介绍其开源视觉模型SAM 3与DINOv3如何被用于美国能源部Genesis Mission下的SYNAPS-I项目。",
+  "date": "2026-07-21",
+  "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/",
+  "source": "Meta AI 官方博客",
+  "sourceMaterial": "官方研究文章",
+  "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+  "recommended": false,
+  "titleEn": "How Meta’s AI Models Are Powering the First Wave of Genesis Mission Projects",
+  "titleZh": "Meta的AI模型如何驱动Genesis Mission首批项目",
+  "details": {
+    "overview": "Meta介绍其开源视觉模型SAM 3与DINOv3如何被用于美国能源部Genesis Mission下的SYNAPS-I项目。该项目由伯克利实验室牵头，联合多家国家实验室，针对先进光源等设施产生的海量X射线与中子科学图像数据，将原本需数周专家标注的分割任务压缩到约15分钟，并在葡萄藤干旱响应的微CT扫描中演示了自动识别木质部导管。文章强调开源模型可在政府安全计算环境中微调部署。",
+    "keyPoints": [
+      "SYNAPS-I在300块A100 GPU上微调部署SAM 3与DINOv3，实现约15分钟完成三维重建与语义标注。",
+      "演示案例用先进光源微CT扫描自动识别葡萄藤木质部导管，追踪干旱下的变化。",
+      "开源模型使国家实验室可在自有安全环境内下载、微调并适配科学图像领域。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

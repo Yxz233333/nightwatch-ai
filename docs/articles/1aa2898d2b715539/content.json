@@ -1,0 +1,25 @@
+{
+  "id": "1aa2898d2b715539",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
+  "summary": "Meta官方发布文章介绍，匹兹堡大学人类工程研究实验室（HERL）在ARPA-H最高4150万美元资助下，与ATDev等伙伴建设RAMMP机器人辅助移动与操作平台。",
+  "date": "2026-07-27",
+  "url": "https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino/",
+  "source": "Meta AI 官方博客",
+  "sourceMaterial": "官方研究文章",
+  "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+  "recommended": false,
+  "titleEn": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
+  "titleZh": "重新构想独立：Meta的AI模型如何助力匹兹堡大学变革辅助机器人",
+  "details": {
+    "overview": "Meta官方发布文章介绍，匹兹堡大学人类工程研究实验室（HERL）在ARPA-H最高4150万美元资助下，与ATDev等伙伴建设RAMMP机器人辅助移动与操作平台。文章称该平台采用Meta开源视觉模型DINO、DINOv3与SAM，在电池供电的边缘设备上运行，用于识别自动门按钮、杯子、路缘等，并结合语音与触摸输入降低用户操作负担。团队用SAM自动标注数据、以DINOv2特征微调RF-DETR实现实时环境感知。文章强调这是官方研究进展介绍，非独立验证。",
+    "keyPoints": [
+      "RAMMP获ARPA-H最高4150万美元资助，由HERL牵头、ATDev等 consortium 伙伴参与。",
+      "平台在边缘设备运行DINOv3与SAM，权衡精度与功耗以支持实时感知。",
+      "用SAM自动标注、DINOv2特征微调RF-DETR，实现360度环境感知与物体检测。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

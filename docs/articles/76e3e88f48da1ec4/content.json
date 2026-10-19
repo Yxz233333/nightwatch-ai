@@ -1,0 +1,25 @@
+{
+  "id": "76e3e88f48da1ec4",
+  "section": "news",
+  "category": "模型动态",
+  "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
+  "summary": "微软研究院发布 GigaPath-Flash 与 GigaTIME-Flash 两个开放权重病理基础模型，目标是降低全切片图像分析的计算成本。",
+  "date": "2026-08-31",
+  "url": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+  "source": "Microsoft Research",
+  "sourceMaterial": "官方研究文章",
+  "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+  "recommended": false,
+  "titleEn": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
+  "titleZh": "GigaPath-Flash 与 GigaTIME-Flash：以高效病理基础模型迈向群体规模发现",
+  "details": {
+    "overview": "微软研究院发布 GigaPath-Flash 与 GigaTIME-Flash 两个开放权重病理基础模型，目标是降低全切片图像分析的计算成本。GigaPath-Flash 由 22M 参数的 ViT-S 切片编码器与 21M 参数的 LongNet 全切片编码器组成，切片编码器从原 GigaPath 的十亿参数教师模型蒸馏而来。GigaTIME-Flash 用该编码器替换原 GigaTIME 的 CNN 主干，从常规 H&E 图像预测空间蛋白组。作者称前者在约五十分之一算力下达到原模型 97% 的预测性能，后者更快、更省显存且预测质量相当或更好。模型以 Apache 2.0 许可发布，属早期研究模型，未经验证用于临床。",
+    "keyPoints": [
+      "GigaPath-Flash 以 22M 参数 ViT-S 切片编码器加 21M 参数 LongNet 全切片编码器构成，蒸馏自十亿参数教师模型。",
+      "作者称其在全切片分类基准上以约五十分之一算力达到原 GigaPath 97% 的预测性能。",
+      "GigaTIME-Flash 用 LoRA 微调，作者称比原版约快 6 倍、省约 8 倍显存，分布外队列表现相当或更好。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

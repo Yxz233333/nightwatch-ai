@@ -1,0 +1,25 @@
+{
+  "id": "d8fcaf5fcd5fc619",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence",
+  "summary": "Meta Superintelligence Labs 发布 Muse 系列首个模型 Muse Spark，称其为原生多模态推理模型，支持工具调用、视觉思维链与多智能体编排。",
+  "date": "2026-04-08",
+  "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/",
+  "source": "Meta AI 官方博客",
+  "sourceMaterial": "官方研究文章",
+  "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+  "recommended": false,
+  "titleEn": "Introducing Muse Spark: Scaling Towards Personal Superintelligence",
+  "titleZh": "推出 Muse Spark：迈向个人超级智能的规模化",
+  "details": {
+    "overview": "Meta Superintelligence Labs 发布 Muse 系列首个模型 Muse Spark，称其为原生多模态推理模型，支持工具调用、视觉思维链与多智能体编排。稿件称其在多模态感知、推理、健康与智能体任务上表现有竞争力，并推出可并行多智能体推理的 Contemplating 模式，在 Humanity's Last Exam 得 58%、FrontierScience Research 得 38%。作者还称重建预训练栈后，达到同等能力所需算力比 Llama 4 Maverick 少一个数量级以上。模型已在 meta.ai 与 Meta AI 应用上线，API 仅向部分用户开放私测。",
+    "keyPoints": [
+      "Muse Spark 为原生多模态推理模型，支持工具调用、视觉思维链和多智能体编排。",
+      "Contemplating 模式并行多智能体推理，稿件称 Humanity's Last Exam 达 58%。",
+      "作者称预训练栈重建后，同等能力所需算力比 Llama 4 Maverick 少一个数量级以上。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

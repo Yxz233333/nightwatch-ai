@@ -1,0 +1,25 @@
+{
+  "id": "1a764bf8db0a79d8",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Simulating student learning for better AI tutoring",
+  "summary": "微软研究院博客介绍研究系统StudentSim：它用公开、去标识化的学习者记录训练个性化AI学生模拟器，模拟特定学生如何答题、以及在收到辅导提示后如何修改答案，从而在研发阶段为AI辅导系统提供比真人研究更快、更可扩展的反馈信号。",
+  "date": "2026-10-12",
+  "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+  "source": "Microsoft Research",
+  "sourceMaterial": "官方研究文章",
+  "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+  "recommended": false,
+  "titleEn": "Simulating student learning for better AI tutoring",
+  "titleZh": "模拟学生学习，改进AI辅导",
+  "details": {
+    "overview": "微软研究院博客介绍研究系统StudentSim：它用公开、去标识化的学习者记录训练个性化AI学生模拟器，模拟特定学生如何答题、以及在收到辅导提示后如何修改答案，从而在研发阶段为AI辅导系统提供比真人研究更快、更可扩展的反馈信号。作者同时提出评测基准StudentSimEval，覆盖国际象棋、第二语言英语写作和数学三个领域，并声称StudentSim在行为保真度和指导响应性上优于若干基线。该系统是研究原型，未部署于课堂，也不用于替代教师。",
+    "keyPoints": [
+      "StudentSim从公开去标识化学习记录训练个性化学生模拟器，为AI辅导研发提供反馈信号。",
+      "提出StudentSimEval，以行为保真度和指导响应性两个维度评测模拟器。",
+      "在国际象棋、英语写作和数学中，作者称StudentSim优于GPT-5.4和Maia2等基线。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

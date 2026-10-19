@@ -1,0 +1,25 @@
+{
+  "id": "340c85614832c495",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Scaling How We Build and Test Our Most Advanced AI",
+  "summary": "Meta发布更新版《先进AI扩展框架》，并公布Muse Spark模型的《安全与准备报告》。",
+  "date": "2026-04-08",
+  "url": "https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai/",
+  "source": "Meta AI 官方博客",
+  "sourceMaterial": "官方研究文章",
+  "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+  "recommended": false,
+  "titleEn": "Scaling How We Build and Test Our Most Advanced AI",
+  "titleZh": "扩展我们构建和测试最先进AI的方式",
+  "details": {
+    "overview": "Meta发布更新版《先进AI扩展框架》，并公布Muse Spark模型的《安全与准备报告》。框架扩大风险评估范围，涵盖化学与生物、网络安全，并新增“失控”风险一节，评估模型在更高自主性下的表现。报告称Muse Spark部署前经过多层安全评测，在各项风险类别中表现出较强防护，并在避免意识形态偏见方面处于前沿；评测还确认其不具备构成失控风险所需的自主能力。作者还称因模型具备推理能力，安全训练从逐条规则转向可测试原则并解释规则背后的原因。",
+    "keyPoints": [
+      "更新版框架新增失控风险一节，评估模型在更高自主性下的行为与控制措施。",
+      "Muse Spark部署前经多层评测，覆盖网络安全、化生风险及长期安全政策。",
+      "安全训练转向可测试原则并解释规则原因，以应对规则未预见的新情境。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

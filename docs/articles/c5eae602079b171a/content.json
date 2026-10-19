@@ -1,0 +1,25 @@
+{
+  "id": "c5eae602079b171a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet",
+  "summary": "这篇 Meta 官方发布内容介绍 AI 时尚应用 Alta Daily 如何使用 Meta 的 Segment Anything 模型（SAM）实现衣橱数字化。",
+  "date": "2026-04-06",
+  "url": "https://ai.meta.com/blog/alta-daily-fashion-app-segment-anything/",
+  "source": "Meta AI 官方博客",
+  "sourceMaterial": "官方研究文章",
+  "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+  "recommended": false,
+  "titleEn": "How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet",
+  "titleZh": "Alta Daily 如何借助 Meta 的 Segment Anything 重塑数字衣橱",
+  "details": {
+    "overview": "这篇 Meta 官方发布内容介绍 AI 时尚应用 Alta Daily 如何使用 Meta 的 Segment Anything 模型（SAM）实现衣橱数字化。用户拍摄并上传衣物照片后，应用需去除背景、分割单品，再以自然语言推荐穿搭并展示在个人虚拟形象上。文章称，时尚类用户上传图片背景复杂，白鞋配白墙、蓝毛衣配蓝毯等场景分割难度高；团队在八类商品上测试多种分割模型后认为 SAM 效果最好，并已处理超过 2000 万张图片。文章还提到外部分割 API 按图计费成本较高，使用 SAM 有助于控制成本。",
+    "keyPoints": [
+      "Alta Daily 用 SAM 分割用户上传的衣物图片，去除背景并数字化单品。",
+      "团队称在墨镜到鞋等八类商品上测试后，SAM 的分割效果最好。",
+      "文章称已处理超 2000 万张图片，并称 SAM 帮助控制了分割成本。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

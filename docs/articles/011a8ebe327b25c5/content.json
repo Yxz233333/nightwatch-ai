@@ -1,0 +1,25 @@
+{
+  "id": "011a8ebe327b25c5",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Introducing Muse Image and Muse Video",
+  "summary": "Meta Superintelligence Labs 发布首个媒体生成模型系列：Muse Image 正式上线，Muse Video 仅作预览。",
+  "date": "2026-07-07",
+  "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/",
+  "source": "Meta AI 官方博客",
+  "sourceMaterial": "官方研究文章",
+  "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+  "recommended": false,
+  "titleEn": "Introducing Muse Image and Muse Video",
+  "titleZh": "推出 Muse Image 与 Muse Video",
+  "details": {
+    "overview": "Meta Superintelligence Labs 发布首个媒体生成模型系列：Muse Image 正式上线，Muse Video 仅作预览。Muse Image 以“智能体”方式工作，会调用搜索与代码工具、在思维链中自我修正，并随推理阶段算力增加而提升质量；支持精准编辑与多参考图合成。官方称其在 Arena 文生图、单图编辑、多图编辑的人类偏好 Elo 排名中位列第二。Muse Video 基于同一预训练底座，支持原生音频，官方称其在文生视频 Elo 排名第三，并承认音视频同步与快速运动物理准确性仍有差距。",
+    "keyPoints": [
+      "Muse Image 以智能体方式调用搜索与代码工具，并在思维链中自我修正生成结果",
+      "官方称增加推理阶段算力可提升人类偏好 Elo，呈近似对数线性关系",
+      "Muse Image 已上线 Meta AI 应用与 meta.ai 等渠道，Muse Video 仅预览"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

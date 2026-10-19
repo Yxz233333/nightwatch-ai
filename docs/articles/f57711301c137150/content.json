@@ -1,0 +1,25 @@
+{
+  "id": "f57711301c137150",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
+  "summary": "微软研究院博客回顾微软亚洲研究院新加坡实验室成立一年进展。",
+  "date": "2026-09-28",
+  "url": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
+  "source": "Microsoft Research",
+  "sourceMaterial": "官方研究文章",
+  "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+  "recommended": false,
+  "titleEn": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
+  "titleZh": "成立一年：微软亚洲研究院新加坡如何推进研究、合作与人才以创造现实影响",
+  "details": {
+    "overview": "微软研究院博客回顾微软亚洲研究院新加坡实验室成立一年进展。该实验室2025年7月24日启用，是微软在东南亚首个研究实验室，延续微软亚洲研究院与新加坡高校、研究机构和政府部门二十多年合作。文章称其工作围绕四个方向：下一代AI模型与智能体系统、面向现实影响的领域专用AI、AI原生研究实践、生态与人才培养；通过合作伙伴提供领域数据与实际问题、实验室提供前沿研究与工程能力的双向交流，在医疗、金融、教育等领域探索应用，并开展联合博士培养和暑期学校等人才项目。",
+    "keyPoints": [
+      "实验室2025年7月24日启用，为微软在东南亚首个研究实验室，工作覆盖四大方向。",
+      "与新加坡国立大学、南洋理工大学等首年新增九个合作项目，涉及医疗AI、机器人等。",
+      "通过IPP联合博士项目、暑期学校等构建从实习到博士研究的人才培养路径。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

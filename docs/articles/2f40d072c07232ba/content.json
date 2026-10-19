@@ -1,0 +1,25 @@
+{
+  "id": "2f40d072c07232ba",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "MindTopo reveals VLMs' spatial reasoning abilities",
+  "summary": "微软研究院发布MindTopo基准，用于评测多模态大模型是否具备拓扑直觉，即理解连通、分离、顺序、包围与打结等结构关系。",
+  "date": "2026-08-12",
+  "url": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+  "source": "Microsoft Research",
+  "sourceMaterial": "官方研究文章",
+  "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+  "recommended": false,
+  "titleEn": "MindTopo reveals VLMs' spatial reasoning abilities",
+  "titleZh": "MindTopo揭示视觉语言模型的空间推理能力",
+  "details": {
+    "overview": "微软研究院发布MindTopo基准，用于评测多模态大模型是否具备拓扑直觉，即理解连通、分离、顺序、包围与打结等结构关系。基准包含推理与规划两类任务：前者让模型观察静态场景并回答拓扑问题，后者要求模型在模拟环境中通过一系列动作创建、保持或改变这些关系。作者称，当前模型在静态识别上明显好于交互规划，且均低于人类水平；失败多出现在规划阶段，模型会丢失结构关系或提出违反物理约束的动作。",
+    "keyPoints": [
+      "MindTopo围绕连续性、分离、顺序、包围和打结五类拓扑属性设计任务。",
+      "评测显示模型静态识别优于交互规划，规划中常丢失结构关系或违反约束。",
+      "作者称图像与视频生成辅助在跨多步操作时仍不可靠，常改变拓扑。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

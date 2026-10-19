@@ -1,0 +1,25 @@
+{
+  "id": "9e28a802f80138d4",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
+  "summary": "微软研究院介绍其逆合成预测模型RetroChimera，相关稿件已发表于《Nature》。",
+  "date": "2026-09-21",
+  "url": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
+  "source": "Microsoft Research",
+  "sourceMaterial": "官方研究文章",
+  "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+  "recommended": false,
+  "titleEn": "Improving synthesis prediction of small molecules at scale with RetroChimera",
+  "titleZh": "RetroChimera：提升大规模小分子合成预测能力",
+  "details": {
+    "overview": "微软研究院介绍其逆合成预测模型RetroChimera，相关稿件已发表于《Nature》。该模型由两个子模型组成：基于Transformer的R-SMILES 2直接从目标分子生成前体，基于图神经网络的NeuralLoc则选择并应用反应模板；二者通过可学习的集成排序策略合并预测。作者声称，在盲测中博士级化学家更偏好RetroChimera给出的单步反应预测，完整路线在十个挑战性目标中有九个获接受。研究意义在于辅助化学家更高效地规划合成路线。",
+    "keyPoints": [
+      "模型融合R-SMILES 2与NeuralLoc两个子模型，用学习式投票与重排序整合预测。",
+      "作者称盲测中专家对RetroChimera单步断键预测的偏好高于子模型及文献反应。",
+      "十个挑战性目标中九个路线获专家接受，子模型与基线为二至五个。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

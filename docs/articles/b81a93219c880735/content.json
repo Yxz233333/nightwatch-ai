@@ -1,0 +1,25 @@
+{
+  "id": "b81a93219c880735",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Forecasting space weather risks on power grids",
+  "summary": "微软研究院博客介绍了实习生Rohan Kannan开发的一套机器学习流程，用于预测美国本土66,935座变电站的空间天气风险。",
+  "date": "2026-09-30",
+  "url": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+  "source": "Microsoft Research",
+  "sourceMaterial": "官方研究文章",
+  "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+  "recommended": false,
+  "titleEn": "Forecasting space weather risks on power grids",
+  "titleZh": "预测电网面临的空间天气风险",
+  "details": {
+    "overview": "微软研究院博客介绍了实习生Rohan Kannan开发的一套机器学习流程，用于预测美国本土66,935座变电站的空间天气风险。系统先用L1拉格朗日点的太阳风观测生成AE与Dst指数预报，再结合各变电站纬度、地质电导率等特征，用梯度提升模型估计磁场变化率dB/dt，并转化为地点级风险。作者称在2020至2026年评估期内，该流程可提前30至60分钟预警，并检出近80%的重大空间天气事件；但博客明确表示，投入电网实际运行前仍需与电力公司及运行数据进一步验证。",
+    "keyPoints": [
+      "系统覆盖美国本土66,935座变电站，输出地点级风险估计，而非单一全国警报。",
+      "评估期内检出率：≥10 nT/min事件76.5%，≥20 nT/min事件81.2%，≥50 nT/min事件64.1%。",
+      "Dst预测在62.2%的峰值活动小时优于Burton方程，集成后使严重风暴检出率提升1.2个百分点。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

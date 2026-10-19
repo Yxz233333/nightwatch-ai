@@ -1,0 +1,25 @@
+{
+  "id": "60270556703cdcc7",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing Quine: An AI research system designed for the complexity of biology",
+  "summary": "微软研究院发布研究系统Quine，由两部分组成：一个跨基因组、蛋白质、化学、细胞状态与生物成像等多模态数据联合学习的生物学“世界模型”，以及一个连接模型、科学工具、文献与科研人员的编排推理框架。",
+  "date": "2026-09-29",
+  "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+  "source": "Microsoft Research",
+  "sourceMaterial": "官方研究文章",
+  "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+  "recommended": false,
+  "titleEn": "Introducing Quine: An AI research system designed for the complexity of biology",
+  "titleZh": "微软研究院推出Quine：面向生物学复杂性的AI研究系统",
+  "details": {
+    "overview": "微软研究院发布研究系统Quine，由两部分组成：一个跨基因组、蛋白质、化学、细胞状态与生物成像等多模态数据联合学习的生物学“世界模型”，以及一个连接模型、科学工具、文献与科研人员的编排推理框架。稿件称，团队与Broad Institute合作，在胰腺导管腺癌中用它筛选并排序数千种化合物，湿实验显示排名靠前的化合物产生了预期的细胞状态转变，整个筛选排序过程约一个周末。该系统定位为实验性研究技术，不用于临床，输出可能不完整或不准确，需经专业研究人员审查与实验验证。",
+    "keyPoints": [
+      "Quine由多模态生物学世界模型与连接工具、文献和湿实验的编排框架组成。",
+      "作者称在胰腺癌中用它排序化合物，湿实验验证了排名靠前候选的细胞状态转变。",
+      "系统定位为实验性研究技术，不用于临床，输出需人工审查与实验验证。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

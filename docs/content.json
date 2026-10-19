@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
   "title": "夜行 · AI 阅读入口",
-  "syncedAt": "2026-10-18T16:16:34.714Z",
-  "contentUpdatedAt": "2026-10-19T00:04:31+08:00",
+  "syncedAt": "2026-10-19T00:04:59.352Z",
+  "contentUpdatedAt": "2026-10-19T08:04:09+08:00",
   "coverage": {
     "requestedFrom": "2025-09-01",
     "requestedThrough": "2026-10-19",
@@ -40,8 +40,8 @@
         }
       ],
       "notExhaustivelyArchived": [
-        "Microsoft",
-        "Meta",
+        "Microsoft 官方 Research 与企业 AI 博客仍未穷尽历史归档",
+        "Meta AI 官方博客已补入索引展示的十篇文章，分页历史尚未全部归档",
         "国内厂商除 DeepSeek 及已收录的 Hugging Face 文章外的完整自有归档"
       ]
     },
@@ -58,37 +58,39 @@
       "Google DeepMind": 110,
       "Google AI 官方博客": 20,
       "Gemini 官方发布说明": 32,
+      "Microsoft Research": 10,
       "OpenAI 数学仓库": 2,
+      "Meta AI 官方博客": 10,
       "Anthropic 官方迁移归档": 2,
       "OpenAI 官方研究": 2
     },
     "excludedNonAINews": 33,
-    "total": 3832,
+    "total": 3852,
     "byMonth": {
       "2026-10": {
-        "news": 103,
+        "news": 104,
         "codex": 67,
         "chatgpt": 19,
         "papers": 162
       },
       "2026-09": {
         "papers": 557,
-        "news": 159,
+        "news": 164,
         "codex": 156,
         "chatgpt": 35
       },
       "2026-08": {
-        "news": 119,
+        "news": 123,
         "chatgpt": 27,
         "codex": 98
       },
       "2026-07": {
         "codex": 77,
-        "news": 124,
+        "news": 128,
         "chatgpt": 20
       },
       "2026-06": {
-        "news": 156,
+        "news": 157,
         "codex": 94,
         "chatgpt": 17
       },
@@ -98,13 +100,13 @@
         "chatgpt": 11
       },
       "2026-04": {
-        "news": 118,
+        "news": 121,
         "codex": 101,
         "chatgpt": 10
       },
       "2026-03": {
         "codex": 124,
-        "news": 98,
+        "news": 100,
         "chatgpt": 16
       },
       "2026-02": {
@@ -139,6 +141,60 @@
         "codex": 64,
         "chatgpt": 9
       }
+    },
+    "lastCheckedAt": "2026-10-19T08:04:05+08:00",
+    "dailyCheck": {
+      "checkedAt": "2026-10-19T08:04:05+08:00",
+      "addedHistoricalArticles": 20,
+      "newItemsLast24Hours": 0,
+      "checks": [
+        {
+          "source": "ChatGPT release notes",
+          "result": "checked; newest dated update 2026-10-16; direct HTTP 403 resolved with web reader"
+        },
+        {
+          "source": "ChatGPT Learn changelog",
+          "result": "checked; newest dated update 2026-10-15; CLI entries cross-checked against GitHub"
+        },
+        {
+          "source": "Codex GitHub Releases",
+          "result": "fresh latest 50 releases checked; no new release URLs"
+        },
+        {
+          "source": "OpenAI math CONTENTS.md",
+          "result": "719 entries; unchanged; SHA 2c68c086fff36a5806c936ad1659cf1a8d0b6dd9"
+        },
+        {
+          "source": "OpenAI / Google DeepMind / Hugging Face / NVIDIA official RSS",
+          "result": "refetched; no unarchived new AI news in the latest 24-hour window"
+        },
+        {
+          "source": "Anthropic news",
+          "result": "index refetched and checked; latest index items already present"
+        },
+        {
+          "source": "Gemini / DeepSeek",
+          "result": "official changelogs checked; latest dated entries already present"
+        },
+        {
+          "source": "Qwen",
+          "result": "legacy official blog accessible; not a complete archive of the current product site"
+        },
+        {
+          "source": "Microsoft",
+          "result": "corporate AI feed HTTP 403; Research index and 10 article pages verified through web reader; Research RSS timed out"
+        },
+        {
+          "source": "Meta",
+          "result": "official AI blog index plus 10 original articles retrieved; partial history backfilled"
+        }
+      ],
+      "partialSources": [
+        {
+          "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+          "result": "original article fetch timed out twice; index headline and summary verified; not added pending full-source retrieval"
+        }
+      ]
     }
   },
   "description": "完整资讯与论文库，interest字段准确标记用户喜欢和想深入了解的内容。仅公开内容与主动标记，不包含用户名、密码、会话或运行日志。",
@@ -2024,6 +2080,31 @@
         "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
       },
       "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+      "interest": []
+    },
+    {
+      "id": "1a764bf8db0a79d8",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Simulating student learning for better AI tutoring",
+      "summary": "微软研究院博客介绍研究系统StudentSim：它用公开、去标识化的学习者记录训练个性化AI学生模拟器，模拟特定学生如何答题、以及在收到辅导提示后如何修改答案，从而在研发阶段为AI辅导系统提供比真人研究更快、更可扩展的反馈信号。",
+      "date": "2026-10-12",
+      "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+      "source": "Microsoft Research",
+      "sourceMaterial": "官方研究文章",
+      "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+      "recommended": false,
+      "titleEn": "Simulating student learning for better AI tutoring",
+      "titleZh": "模拟学生学习，改进AI辅导",
+      "details": {
+        "overview": "微软研究院博客介绍研究系统StudentSim：它用公开、去标识化的学习者记录训练个性化AI学生模拟器，模拟特定学生如何答题、以及在收到辅导提示后如何修改答案，从而在研发阶段为AI辅导系统提供比真人研究更快、更可扩展的反馈信号。作者同时提出评测基准StudentSimEval，覆盖国际象棋、第二语言英语写作和数学三个领域，并声称StudentSim在行为保真度和指导响应性上优于若干基线。该系统是研究原型，未部署于课堂，也不用于替代教师。",
+        "keyPoints": [
+          "StudentSim从公开去标识化学习记录训练个性化学生模拟器，为AI辅导研发提供反馈信号。",
+          "提出StudentSimEval，以行为保真度和指导响应性两个维度评测模拟器。",
+          "在国际象棋、英语写作和数学中，作者称StudentSim优于GPT-5.4和Maia2等基线。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
       "interest": []
     },
     {
@@ -8908,6 +8989,31 @@
       "interest": []
     },
     {
+      "id": "b81a93219c880735",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Forecasting space weather risks on power grids",
+      "summary": "微软研究院博客介绍了实习生Rohan Kannan开发的一套机器学习流程，用于预测美国本土66,935座变电站的空间天气风险。",
+      "date": "2026-09-30",
+      "url": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+      "source": "Microsoft Research",
+      "sourceMaterial": "官方研究文章",
+      "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+      "recommended": false,
+      "titleEn": "Forecasting space weather risks on power grids",
+      "titleZh": "预测电网面临的空间天气风险",
+      "details": {
+        "overview": "微软研究院博客介绍了实习生Rohan Kannan开发的一套机器学习流程，用于预测美国本土66,935座变电站的空间天气风险。系统先用L1拉格朗日点的太阳风观测生成AE与Dst指数预报，再结合各变电站纬度、地质电导率等特征，用梯度提升模型估计磁场变化率dB/dt，并转化为地点级风险。作者称在2020至2026年评估期内，该流程可提前30至60分钟预警，并检出近80%的重大空间天气事件；但博客明确表示，投入电网实际运行前仍需与电力公司及运行数据进一步验证。",
+        "keyPoints": [
+          "系统覆盖美国本土66,935座变电站，输出地点级风险估计，而非单一全国警报。",
+          "评估期内检出率：≥10 nT/min事件76.5%，≥20 nT/min事件81.2%，≥50 nT/min事件64.1%。",
+          "Dst预测在62.2%的峰值活动小时优于Burton方程，集成后使严重风暴检出率提升1.2个百分点。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
       "id": "b6cbc6f9540be6a0",
       "section": "news",
       "category": "工具动态",
@@ -9549,6 +9655,31 @@
       "interest": []
     },
     {
+      "id": "60270556703cdcc7",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Introducing Quine: An AI research system designed for the complexity of biology",
+      "summary": "微软研究院发布研究系统Quine，由两部分组成：一个跨基因组、蛋白质、化学、细胞状态与生物成像等多模态数据联合学习的生物学“世界模型”，以及一个连接模型、科学工具、文献与科研人员的编排推理框架。",
+      "date": "2026-09-29",
+      "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+      "source": "Microsoft Research",
+      "sourceMaterial": "官方研究文章",
+      "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+      "recommended": false,
+      "titleEn": "Introducing Quine: An AI research system designed for the complexity of biology",
+      "titleZh": "微软研究院推出Quine：面向生物学复杂性的AI研究系统",
+      "details": {
+        "overview": "微软研究院发布研究系统Quine，由两部分组成：一个跨基因组、蛋白质、化学、细胞状态与生物成像等多模态数据联合学习的生物学“世界模型”，以及一个连接模型、科学工具、文献与科研人员的编排推理框架。稿件称，团队与Broad Institute合作，在胰腺导管腺癌中用它筛选并排序数千种化合物，湿实验显示排名靠前的化合物产生了预期的细胞状态转变，整个筛选排序过程约一个周末。该系统定位为实验性研究技术，不用于临床，输出可能不完整或不准确，需经专业研究人员审查与实验验证。",
+        "keyPoints": [
+          "Quine由多模态生物学世界模型与连接工具、文献和湿实验的编排框架组成。",
+          "作者称在胰腺癌中用它排序化合物，湿实验验证了排名靠前候选的细胞状态转变。",
+          "系统定位为实验性研究技术，不用于临床，输出需人工审查与实验验证。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
       "id": "574d7aa40137f155",
       "section": "news",
       "category": "模型动态",
@@ -9990,6 +10121,31 @@
           "该条发布记录未提供详细变更清单"
         ],
         "editorialNote": "仅整理该版本实际发布记录，不根据版本号推测功能。"
+      },
+      "interest": []
+    },
+    {
+      "id": "f57711301c137150",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
+      "summary": "微软研究院博客回顾微软亚洲研究院新加坡实验室成立一年进展。",
+      "date": "2026-09-28",
+      "url": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
+      "source": "Microsoft Research",
+      "sourceMaterial": "官方研究文章",
+      "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+      "recommended": false,
+      "titleEn": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
+      "titleZh": "成立一年：微软亚洲研究院新加坡如何推进研究、合作与人才以创造现实影响",
+      "details": {
+        "overview": "微软研究院博客回顾微软亚洲研究院新加坡实验室成立一年进展。该实验室2025年7月24日启用，是微软在东南亚首个研究实验室，延续微软亚洲研究院与新加坡高校、研究机构和政府部门二十多年合作。文章称其工作围绕四个方向：下一代AI模型与智能体系统、面向现实影响的领域专用AI、AI原生研究实践、生态与人才培养；通过合作伙伴提供领域数据与实际问题、实验室提供前沿研究与工程能力的双向交流，在医疗、金融、教育等领域探索应用，并开展联合博士培养和暑期学校等人才项目。",
+        "keyPoints": [
+          "实验室2025年7月24日启用，为微软在东南亚首个研究实验室，工作覆盖四大方向。",
+          "与新加坡国立大学、南洋理工大学等首年新增九个合作项目，涉及医疗AI、机器人等。",
+          "通过IPP联合博士项目、暑期学校等构建从实习到博士研究的人才培养路径。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       },
       "interest": []
     },
@@ -25985,6 +26141,31 @@
       "interest": []
     },
     {
+      "id": "06829261ca1213b5",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Offloaded inference for real-world physical AI robotics",
+      "summary": "微软研究院这篇博客挑战了机器人AI推理必须全部跑在机载GPU上的常见假设。",
+      "date": "2026-09-23",
+      "url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
+      "source": "Microsoft Research",
+      "sourceMaterial": "官方研究文章",
+      "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+      "recommended": false,
+      "titleEn": "Offloaded inference for real-world physical AI robotics",
+      "titleZh": "面向真实世界物理AI机器人的卸载式推理",
+      "details": {
+        "overview": "微软研究院这篇博客挑战了机器人AI推理必须全部跑在机载GPU上的常见假设。作者以移动机械臂操作（如“检查厨房垃圾并丢进垃圾桶”）为对象，对语义建图与规划、导航、操作三类模型在机载、边缘和云端GPU上做了系统性测量，声称卸载推理可提升任务成功率、支持更大模型并延长电池续航，同时发布了基于Kubernetes的推理卸载工具链。需注意这些为作者自述结果，本次整理未额外核验独立复现情况。",
+        "keyPoints": [
+          "作者测量称，机载较小GPU使建图与规划最多变慢383%，导航障碍及时检测下降30%。",
+          "摘要表示VLA模型在小GPU上精度可下降50%，卸载到更强GPU后物体交接成功率明显提升。",
+          "用Raspberry Pi-5替代机载GPU并远程推理，作者称Stretch-3机器人续航可提升一倍以上。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
       "id": "060c181b6e574554",
       "section": "papers",
       "category": "组合数学与图论",
@@ -26800,6 +26981,31 @@
           "NVIDIA 在纽约气候周介绍五家清洁能源公司",
           "这些公司将 AI 融入清洁能源项目基础",
           "原文未列出公司名称与具体成效数据"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "9e28a802f80138d4",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
+      "summary": "微软研究院介绍其逆合成预测模型RetroChimera，相关稿件已发表于《Nature》。",
+      "date": "2026-09-21",
+      "url": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
+      "source": "Microsoft Research",
+      "sourceMaterial": "官方研究文章",
+      "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+      "recommended": false,
+      "titleEn": "Improving synthesis prediction of small molecules at scale with RetroChimera",
+      "titleZh": "RetroChimera：提升大规模小分子合成预测能力",
+      "details": {
+        "overview": "微软研究院介绍其逆合成预测模型RetroChimera，相关稿件已发表于《Nature》。该模型由两个子模型组成：基于Transformer的R-SMILES 2直接从目标分子生成前体，基于图神经网络的NeuralLoc则选择并应用反应模板；二者通过可学习的集成排序策略合并预测。作者声称，在盲测中博士级化学家更偏好RetroChimera给出的单步反应预测，完整路线在十个挑战性目标中有九个获接受。研究意义在于辅助化学家更高效地规划合成路线。",
+        "keyPoints": [
+          "模型融合R-SMILES 2与NeuralLoc两个子模型，用学习式投票与重排序整合预测。",
+          "作者称盲测中专家对RetroChimera单步断键预测的偏好高于子模型及文献反应。",
+          "十个挑战性目标中九个路线获专家接受，子模型与基线为二至五个。"
         ],
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       },
@@ -31821,6 +32027,31 @@
       "interest": []
     },
     {
+      "id": "76e3e88f48da1ec4",
+      "section": "news",
+      "category": "模型动态",
+      "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
+      "summary": "微软研究院发布 GigaPath-Flash 与 GigaTIME-Flash 两个开放权重病理基础模型，目标是降低全切片图像分析的计算成本。",
+      "date": "2026-08-31",
+      "url": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+      "source": "Microsoft Research",
+      "sourceMaterial": "官方研究文章",
+      "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+      "recommended": false,
+      "titleEn": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
+      "titleZh": "GigaPath-Flash 与 GigaTIME-Flash：以高效病理基础模型迈向群体规模发现",
+      "details": {
+        "overview": "微软研究院发布 GigaPath-Flash 与 GigaTIME-Flash 两个开放权重病理基础模型，目标是降低全切片图像分析的计算成本。GigaPath-Flash 由 22M 参数的 ViT-S 切片编码器与 21M 参数的 LongNet 全切片编码器组成，切片编码器从原 GigaPath 的十亿参数教师模型蒸馏而来。GigaTIME-Flash 用该编码器替换原 GigaTIME 的 CNN 主干，从常规 H&E 图像预测空间蛋白组。作者称前者在约五十分之一算力下达到原模型 97% 的预测性能，后者更快、更省显存且预测质量相当或更好。模型以 Apache 2.0 许可发布，属早期研究模型，未经验证用于临床。",
+        "keyPoints": [
+          "GigaPath-Flash 以 22M 参数 ViT-S 切片编码器加 21M 参数 LongNet 全切片编码器构成，蒸馏自十亿参数教师模型。",
+          "作者称其在全切片分类基准上以约五十分之一算力达到原 GigaPath 97% 的预测性能。",
+          "GigaTIME-Flash 用 LoRA 微调，作者称比原版约快 6 倍、省约 8 倍显存，分布外队列表现相当或更好。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
       "id": "5e91e0ba3f5a989e",
       "section": "chatgpt",
       "category": "功能更新",
@@ -34148,6 +34379,31 @@
       "interest": []
     },
     {
+      "id": "831a7c384811961d",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Broadening access to Skala creates a faster path to predictive DFT",
+      "summary": "微软研究院发布博客，介绍其深度学习交换关联泛函 Skala 的进展：Skala 1.1 训练数据量为此前公开版本的 2.5 倍，在 GMTKN55 基准的 55 个子集中有 32 个取得最低误差，加权平均误差为 2.8 kcal/mol，作者声称其精度超过当前领先的全局（范围分离）杂化泛函，同时保持半局域泛函的计算成本。",
+      "date": "2026-08-20",
+      "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+      "source": "Microsoft Research",
+      "sourceMaterial": "官方研究文章",
+      "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+      "recommended": false,
+      "titleEn": "Broadening access to Skala creates a faster path to predictive DFT",
+      "titleZh": "扩大 Skala 的获取渠道，为预测性 DFT 开辟更快路径",
+      "details": {
+        "overview": "微软研究院发布博客，介绍其深度学习交换关联泛函 Skala 的进展：Skala 1.1 训练数据量为此前公开版本的 2.5 倍，在 GMTKN55 基准的 55 个子集中有 32 个取得最低误差，加权平均误差为 2.8 kcal/mol，作者声称其精度超过当前领先的全局（范围分离）杂化泛函，同时保持半局域泛函的计算成本。博客还宣布 Skala 已集成进 CP2K，并正在接入 Psi4、FHI-aims、ORCA 和 VASP，同时推出持续更新的性能基准。上述结果来自微软研究院自述，本次整理未额外核验独立复现情况。",
+        "keyPoints": [
+          "Skala 1.1 训练数据为此前版本的 2.5 倍，在 GMTKN55 的 55 个子集中 32 个误差最低。",
+          "作者称其加权平均误差 2.8 kcal/mol，精度超过领先杂化泛函而成本相当于 meta-GGA。",
+          "Skala 已进入 CP2K，并正集成到 Psi4、FHI-aims、ORCA 与 VASP。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
       "id": "4d3077d77c717e4c",
       "section": "codex",
       "category": "功能更新",
@@ -35709,6 +35965,31 @@
       "interest": []
     },
     {
+      "id": "2f40d072c07232ba",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "MindTopo reveals VLMs' spatial reasoning abilities",
+      "summary": "微软研究院发布MindTopo基准，用于评测多模态大模型是否具备拓扑直觉，即理解连通、分离、顺序、包围与打结等结构关系。",
+      "date": "2026-08-12",
+      "url": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+      "source": "Microsoft Research",
+      "sourceMaterial": "官方研究文章",
+      "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+      "recommended": false,
+      "titleEn": "MindTopo reveals VLMs' spatial reasoning abilities",
+      "titleZh": "MindTopo揭示视觉语言模型的空间推理能力",
+      "details": {
+        "overview": "微软研究院发布MindTopo基准，用于评测多模态大模型是否具备拓扑直觉，即理解连通、分离、顺序、包围与打结等结构关系。基准包含推理与规划两类任务：前者让模型观察静态场景并回答拓扑问题，后者要求模型在模拟环境中通过一系列动作创建、保持或改变这些关系。作者称，当前模型在静态识别上明显好于交互规划，且均低于人类水平；失败多出现在规划阶段，模型会丢失结构关系或提出违反物理约束的动作。",
+        "keyPoints": [
+          "MindTopo围绕连续性、分离、顺序、包围和打结五类拓扑属性设计任务。",
+          "评测显示模型静态识别优于交互规划，规划中常丢失结构关系或违反约束。",
+          "作者称图像与视频生成辅助在跨多步操作时仍不可靠，常改变拓扑。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
       "id": "112a4e17a8a7d0df",
       "section": "news",
       "category": "行业新闻",
@@ -36018,6 +36299,31 @@
           "未发布研究版 Claude 将 zeta 函数零点比例下界从 41.6% 提升至 67.2%。",
           "结果由 Anthropic 数学家验证，并生成 Lean 形式化证明通过 comparator 校验。",
           "Anthropic 称不预期该技术路线能直接证明黎曼猜想。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "2d175c52fe052295",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
+      "summary": "微软研究院介绍研究模型 CARE-X，一个面向胸部 X 光多种解读任务的统一视觉语言模型。",
+      "date": "2026-08-11",
+      "url": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+      "source": "Microsoft Research",
+      "sourceMaterial": "官方研究文章",
+      "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+      "recommended": false,
+      "titleEn": "Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
+      "titleZh": "推出 CARE-X：借助辅助监督、奖励对齐学习与工具增强测量，迈向临床可用的放射学视觉语言模型",
+      "details": {
+        "overview": "微软研究院介绍研究模型 CARE-X，一个面向胸部 X 光多种解读任务的统一视觉语言模型。稿件称其结合生成式报告与结构化预测，用分类、定位辅助头提供带置信度的输出，并以 DAPO 强化学习按临床正确性优化；另有一项独立实验将 Qwen3-VL-4B-Instruct 与确定性测量工具配对，考察直接计算能否改善心胸比等测量依赖判断。作者称模型在 Narayana Health 的真实印度临床数据上验证，但明确其为研究模型，非产品、非医疗器械，未经监管批准，结果属回顾性研究，不构成临床安全性或有效性证明。",
+        "keyPoints": [
+          "CARE-X 以 SigLIP2 视觉编码器、Phi-4-mini 主干和任务辅助头组成，单次前向可同时输出文本与带置信度的结构化预测。",
+          "作者称辅助定位头提升解剖与短语定位指标，DAPO 训练后生成式定位接近专用检测头。",
+          "分类头提供可调阈值，作者称可在高敏感度筛查与高特异度确认间切换。"
         ],
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       },
@@ -38520,6 +38826,31 @@
       "interest": []
     },
     {
+      "id": "1aa2898d2b715539",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
+      "summary": "Meta官方发布文章介绍，匹兹堡大学人类工程研究实验室（HERL）在ARPA-H最高4150万美元资助下，与ATDev等伙伴建设RAMMP机器人辅助移动与操作平台。",
+      "date": "2026-07-27",
+      "url": "https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino/",
+      "source": "Meta AI 官方博客",
+      "sourceMaterial": "官方研究文章",
+      "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+      "recommended": false,
+      "titleEn": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
+      "titleZh": "重新构想独立：Meta的AI模型如何助力匹兹堡大学变革辅助机器人",
+      "details": {
+        "overview": "Meta官方发布文章介绍，匹兹堡大学人类工程研究实验室（HERL）在ARPA-H最高4150万美元资助下，与ATDev等伙伴建设RAMMP机器人辅助移动与操作平台。文章称该平台采用Meta开源视觉模型DINO、DINOv3与SAM，在电池供电的边缘设备上运行，用于识别自动门按钮、杯子、路缘等，并结合语音与触摸输入降低用户操作负担。团队用SAM自动标注数据、以DINOv2特征微调RF-DETR实现实时环境感知。文章强调这是官方研究进展介绍，非独立验证。",
+        "keyPoints": [
+          "RAMMP获ARPA-H最高4150万美元资助，由HERL牵头、ATDev等 consortium 伙伴参与。",
+          "平台在边缘设备运行DINOv3与SAM，权衡精度与功耗以支持实时感知。",
+          "用SAM自动标注、DINOv2特征微调RF-DETR，实现360度环境感知与物体检测。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
       "id": "141b74b2fbf188a7",
       "section": "news",
       "category": "模型动态",
@@ -39492,6 +39823,31 @@
           "该条发布记录未提供详细变更清单"
         ],
         "editorialNote": "仅整理该版本实际发布记录，不根据版本号推测功能。"
+      },
+      "interest": []
+    },
+    {
+      "id": "83f74e8c8578d061",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "How Meta’s AI Models Are Powering the First Wave of Genesis Mission Projects",
+      "summary": "Meta介绍其开源视觉模型SAM 3与DINOv3如何被用于美国能源部Genesis Mission下的SYNAPS-I项目。",
+      "date": "2026-07-21",
+      "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/",
+      "source": "Meta AI 官方博客",
+      "sourceMaterial": "官方研究文章",
+      "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+      "recommended": false,
+      "titleEn": "How Meta’s AI Models Are Powering the First Wave of Genesis Mission Projects",
+      "titleZh": "Meta的AI模型如何驱动Genesis Mission首批项目",
+      "details": {
+        "overview": "Meta介绍其开源视觉模型SAM 3与DINOv3如何被用于美国能源部Genesis Mission下的SYNAPS-I项目。该项目由伯克利实验室牵头，联合多家国家实验室，针对先进光源等设施产生的海量X射线与中子科学图像数据，将原本需数周专家标注的分割任务压缩到约15分钟，并在葡萄藤干旱响应的微CT扫描中演示了自动识别木质部导管。文章强调开源模型可在政府安全计算环境中微调部署。",
+        "keyPoints": [
+          "SYNAPS-I在300块A100 GPU上微调部署SAM 3与DINOv3，实现约15分钟完成三维重建与语义标注。",
+          "演示案例用先进光源微CT扫描自动识别葡萄藤木质部导管，追踪干旱下的变化。",
+          "开源模型使国家实验室可在自有安全环境内下载、微调并适配科学图像领域。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       },
       "interest": []
     },
@@ -41347,6 +41703,31 @@
       "interest": []
     },
     {
+      "id": "ec422cf804c4e592",
+      "section": "news",
+      "category": "模型动态",
+      "title": "Introducing Muse Spark 1.1",
+      "summary": "Meta Superintelligence Labs 发布 Muse Spark 1.1，称其为 Muse Spark 的显著升级版，定位为面向智能体任务的多模态推理模型，在工具与计算机使用、编程和多模态理解方面有较大提升。",
+      "date": "2026-07-09",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "source": "Meta AI 官方博客",
+      "sourceMaterial": "官方研究文章",
+      "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+      "recommended": false,
+      "titleEn": "Introducing Muse Spark 1.1",
+      "titleZh": "Muse Spark 1.1 发布",
+      "details": {
+        "overview": "Meta Superintelligence Labs 发布 Muse Spark 1.1，称其为 Muse Spark 的显著升级版，定位为面向智能体任务的多模态推理模型，在工具与计算机使用、编程和多模态理解方面有较大提升。官方称该模型支持 100 万 token 上下文，可编排多智能体系统，并能在 Meta AI 应用和 meta.ai 的“Thinking”模式中使用；同时开放 Meta Model API 公开预览。文中评测数据来自官方报告，本次整理未额外核验独立复现情况。",
+        "keyPoints": [
+          "官方称其为面向智能体任务的多模态推理模型，在工具使用、计算机操作和编程方面较前代提升明显。",
+          "支持 100 万 token 上下文，可作为主智能体规划并分派子智能体，也能作为子智能体执行任务。",
+          "随发布开放 Meta Model API 公开预览，模型已在 Meta AI 应用和 meta.ai 上线。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
       "id": "e1bf90398009ec03",
       "section": "codex",
       "category": "功能更新",
@@ -42206,6 +42587,31 @@
           "大规模最大单线程CPU被定位为代理式AI时代的新CPU类别。",
           "CPU在代理系统的推理、响应时间和学习中处于关键路径。",
           "CPU负责执行AI模型命令的工具调用、代码等工作。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "011a8ebe327b25c5",
+      "section": "news",
+      "category": "模型动态",
+      "title": "Introducing Muse Image and Muse Video",
+      "summary": "Meta Superintelligence Labs 发布首个媒体生成模型系列：Muse Image 正式上线，Muse Video 仅作预览。",
+      "date": "2026-07-07",
+      "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/",
+      "source": "Meta AI 官方博客",
+      "sourceMaterial": "官方研究文章",
+      "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+      "recommended": false,
+      "titleEn": "Introducing Muse Image and Muse Video",
+      "titleZh": "推出 Muse Image 与 Muse Video",
+      "details": {
+        "overview": "Meta Superintelligence Labs 发布首个媒体生成模型系列：Muse Image 正式上线，Muse Video 仅作预览。Muse Image 以“智能体”方式工作，会调用搜索与代码工具、在思维链中自我修正，并随推理阶段算力增加而提升质量；支持精准编辑与多参考图合成。官方称其在 Arena 文生图、单图编辑、多图编辑的人类偏好 Elo 排名中位列第二。Muse Video 基于同一预训练底座，支持原生音频，官方称其在文生视频 Elo 排名第三，并承认音视频同步与快速运动物理准确性仍有差距。",
+        "keyPoints": [
+          "Muse Image 以智能体方式调用搜索与代码工具，并在思维链中自我修正生成结果",
+          "官方称增加推理阶段算力可提升人类偏好 Elo，呈近似对数线性关系",
+          "Muse Image 已上线 Meta AI 应用与 meta.ai 等渠道，Muse Video 仅预览"
         ],
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       },
@@ -43147,6 +43553,31 @@
         "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
       },
       "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+      "interest": []
+    },
+    {
+      "id": "729808f6115cbfed",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
+      "summary": "Meta 介绍 Brain2Qwerty v2：一种无需植入电极、直接从非侵入式脑磁图（MEG）信号解码句子的端到端流程。",
+      "date": "2026-06-29",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/",
+      "source": "Meta AI 官方博客",
+      "sourceMaterial": "官方研究文章",
+      "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+      "recommended": false,
+      "titleEn": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
+      "titleZh": "从脑电波到文字：Brain2Qwerty 提供无需手术的沟通新路径",
+      "details": {
+        "overview": "Meta 介绍 Brain2Qwerty v2：一种无需植入电极、直接从非侵入式脑磁图（MEG）信号解码句子的端到端流程。作者称，九名志愿者在佩戴 MEG 设备时打字，共约 2.2 万句训练数据；系统用深度学习直接处理原始脑信号，并微调大语言模型利用语义上下文。结果显示平均词准确率 61%，最佳参与者 78%，且准确率随数据量呈对数线性提升。团队同时开源 v1、v2 训练代码，合作方 BCBL 发布 v1 数据集，目标是帮助因脑损伤而沟通困难的人群。",
+        "keyPoints": [
+          "作者称 v2 平均词准确率 61%，最佳参与者 78%，高于其他非侵入方法的 8%。",
+          "训练数据约 2.2 万句，来自九名志愿者各佩戴 MEG 设备打字约 10 小时。",
+          "开源 v1、v2 训练代码，合作方 BCBL 发布 v1 数据集。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
       "interest": []
     },
     {
@@ -58573,6 +59004,31 @@
       "interest": []
     },
     {
+      "id": "d8fcaf5fcd5fc619",
+      "section": "news",
+      "category": "模型动态",
+      "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence",
+      "summary": "Meta Superintelligence Labs 发布 Muse 系列首个模型 Muse Spark，称其为原生多模态推理模型，支持工具调用、视觉思维链与多智能体编排。",
+      "date": "2026-04-08",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/",
+      "source": "Meta AI 官方博客",
+      "sourceMaterial": "官方研究文章",
+      "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+      "recommended": false,
+      "titleEn": "Introducing Muse Spark: Scaling Towards Personal Superintelligence",
+      "titleZh": "推出 Muse Spark：迈向个人超级智能的规模化",
+      "details": {
+        "overview": "Meta Superintelligence Labs 发布 Muse 系列首个模型 Muse Spark，称其为原生多模态推理模型，支持工具调用、视觉思维链与多智能体编排。稿件称其在多模态感知、推理、健康与智能体任务上表现有竞争力，并推出可并行多智能体推理的 Contemplating 模式，在 Humanity's Last Exam 得 58%、FrontierScience Research 得 38%。作者还称重建预训练栈后，达到同等能力所需算力比 Llama 4 Maverick 少一个数量级以上。模型已在 meta.ai 与 Meta AI 应用上线，API 仅向部分用户开放私测。",
+        "keyPoints": [
+          "Muse Spark 为原生多模态推理模型，支持工具调用、视觉思维链和多智能体编排。",
+          "Contemplating 模式并行多智能体推理，稿件称 Humanity's Last Exam 达 58%。",
+          "作者称预训练栈重建后，同等能力所需算力比 Llama 4 Maverick 少一个数量级以上。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
       "id": "a890e16456e3da1e",
       "section": "codex",
       "category": "功能更新",
@@ -58666,6 +59122,31 @@
         "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
       },
       "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+      "interest": []
+    },
+    {
+      "id": "340c85614832c495",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Scaling How We Build and Test Our Most Advanced AI",
+      "summary": "Meta发布更新版《先进AI扩展框架》，并公布Muse Spark模型的《安全与准备报告》。",
+      "date": "2026-04-08",
+      "url": "https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai/",
+      "source": "Meta AI 官方博客",
+      "sourceMaterial": "官方研究文章",
+      "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+      "recommended": false,
+      "titleEn": "Scaling How We Build and Test Our Most Advanced AI",
+      "titleZh": "扩展我们构建和测试最先进AI的方式",
+      "details": {
+        "overview": "Meta发布更新版《先进AI扩展框架》，并公布Muse Spark模型的《安全与准备报告》。框架扩大风险评估范围，涵盖化学与生物、网络安全，并新增“失控”风险一节，评估模型在更高自主性下的表现。报告称Muse Spark部署前经过多层安全评测，在各项风险类别中表现出较强防护，并在避免意识形态偏见方面处于前沿；评测还确认其不具备构成失控风险所需的自主能力。作者还称因模型具备推理能力，安全训练从逐条规则转向可测试原则并解释规则背后的原因。",
+        "keyPoints": [
+          "更新版框架新增失控风险一节，评估模型在更高自主性下的行为与控制措施。",
+          "Muse Spark部署前经多层评测，覆盖网络安全、化生风险及长期安全政策。",
+          "安全训练转向可测试原则并解释规则原因，以应对规则未预见的新情境。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
       "interest": []
     },
     {
@@ -58902,6 +59383,31 @@
         "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
       },
       "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+      "interest": []
+    },
+    {
+      "id": "c5eae602079b171a",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet",
+      "summary": "这篇 Meta 官方发布内容介绍 AI 时尚应用 Alta Daily 如何使用 Meta 的 Segment Anything 模型（SAM）实现衣橱数字化。",
+      "date": "2026-04-06",
+      "url": "https://ai.meta.com/blog/alta-daily-fashion-app-segment-anything/",
+      "source": "Meta AI 官方博客",
+      "sourceMaterial": "官方研究文章",
+      "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+      "recommended": false,
+      "titleEn": "How Alta Daily Uses Meta’s Segment Anything to Reimagine the Digital Closet",
+      "titleZh": "Alta Daily 如何借助 Meta 的 Segment Anything 重塑数字衣橱",
+      "details": {
+        "overview": "这篇 Meta 官方发布内容介绍 AI 时尚应用 Alta Daily 如何使用 Meta 的 Segment Anything 模型（SAM）实现衣橱数字化。用户拍摄并上传衣物照片后，应用需去除背景、分割单品，再以自然语言推荐穿搭并展示在个人虚拟形象上。文章称，时尚类用户上传图片背景复杂，白鞋配白墙、蓝毛衣配蓝毯等场景分割难度高；团队在八类商品上测试多种分割模型后认为 SAM 效果最好，并已处理超过 2000 万张图片。文章还提到外部分割 API 按图计费成本较高，使用 SAM 有助于控制成本。",
+        "keyPoints": [
+          "Alta Daily 用 SAM 分割用户上传的衣物图片，去除背景并数字化单品。",
+          "团队称在墨镜到鞋等八类商品上测试后，SAM 的分割效果最好。",
+          "文章称已处理超 2000 万张图片，并称 SAM 帮助控制了分割成本。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
       "interest": []
     },
     {
@@ -60160,6 +60666,31 @@
           "作者认为AI正成为核心业务基础设施。",
           "模型生态涵盖大小、开放与专有、通用与专用等多种类型。",
           "作者称模型多样性对AI广泛应用至关重要。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "66de7472be0f62cd",
+      "section": "news",
+      "category": "模型动态",
+      "title": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli",
+      "summary": "Meta 宣布推出 TRIBE v2，称其为该公司首个针对视觉、声音和语言等刺激预测人脑反应的 AI 模型。",
+      "date": "2026-03-26",
+      "url": "https://ai.meta.com/blog/tribe-v2-brain-predictive-foundation-model/",
+      "source": "Meta AI 官方博客",
+      "sourceMaterial": "官方研究文章",
+      "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+      "recommended": false,
+      "titleEn": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli",
+      "titleZh": "TRIBE v2 发布：一个预测性基础模型，用于理解人脑如何处理复杂刺激",
+      "details": {
+        "overview": "Meta 宣布推出 TRIBE v2，称其为该公司首个针对视觉、声音和语言等刺激预测人脑反应的 AI 模型。该模型基于此前在 Algonauts 2025 获奖的模型，训练数据来自 700 多名健康志愿者观看图像、播客、视频和文本时的记录。官方表示，TRIBE v2 能可靠预测高分辨率 fMRI 脑活动，并支持对新受试者、语言和任务的零样本预测，且持续优于标准建模方法。团队以 CC BY-NC 许可公开论文、模型权重和代码，并上线演示网站，希望借此加速神经科学研究。上述性能均为发布方声称，本次整理未额外核验独立复现情况。",
+        "keyPoints": [
+          "训练数据来自 700 多名健康志愿者，涵盖图像、播客、视频和文本等多种媒体刺激。",
+          "官方称可预测高分辨率 fMRI 活动，并支持新受试者、语言和任务的零样本预测。",
+          "以 CC BY-NC 许可公开研究论文、模型权重和代码，并提供在线演示。"
         ],
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       },
@@ -63196,6 +63727,31 @@
           "该条发布记录未提供详细变更清单"
         ],
         "editorialNote": "仅整理该版本实际发布记录，不根据版本号推测功能。"
+      },
+      "interest": []
+    },
+    {
+      "id": "9d28ca9bbc5c0e85",
+      "section": "news",
+      "category": "模型动态",
+      "title": "Mapping the World's Forests with Greater Precision: Introducing Canopy Height Maps v2",
+      "summary": "Meta 与世界资源研究所合作发布开源模型 Canopy Height Maps v2（CHMv2）及其全球尺度树冠高度地图。",
+      "date": "2026-03-10",
+      "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/",
+      "source": "Meta AI 官方博客",
+      "sourceMaterial": "官方研究文章",
+      "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+      "recommended": false,
+      "titleEn": "Mapping the World's Forests with Greater Precision: Introducing Canopy Height Maps v2",
+      "titleZh": "更精准地绘制全球森林：Canopy Height Maps v2 发布",
+      "details": {
+        "overview": "Meta 与世界资源研究所合作发布开源模型 Canopy Height Maps v2（CHMv2）及其全球尺度树冠高度地图。该模型以 Meta 自监督视觉模型 DINOv3 为核心，并在大规模卫星影像数据集 SAT-493M 上预训练，通过阴影、纹理和树冠形状等视觉线索估计树高，无需大量人工标注。官方称相比 2024 年发布的初版，新版本在精度、细节和全球一致性上明显提升，R² 从 0.53 升至 0.86，并减少了对高大树木的偏差。该地图可用于监测森林健康、追踪恢复进展、识别退化与估算碳储量。",
+        "keyPoints": [
+          "CHMv2 以 DINOv3 为骨干，在 SAT-493M 卫星影像上预训练，利用阴影、纹理等线索估计树冠高度。",
+          "官方称模型 R² 由 0.53 提升至 0.86，并减少对高大树木的预测偏差。",
+          "训练数据新增地理分布更多样的高质量激光雷达样本，并配套自动匹配工具与专用损失函数。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       },
       "interest": []
     },

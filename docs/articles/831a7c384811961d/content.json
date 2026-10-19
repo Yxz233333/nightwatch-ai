@@ -1,0 +1,25 @@
+{
+  "id": "831a7c384811961d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Broadening access to Skala creates a faster path to predictive DFT",
+  "summary": "微软研究院发布博客，介绍其深度学习交换关联泛函 Skala 的进展：Skala 1.1 训练数据量为此前公开版本的 2.5 倍，在 GMTKN55 基准的 55 个子集中有 32 个取得最低误差，加权平均误差为 2.8 kcal/mol，作者声称其精度超过当前领先的全局（范围分离）杂化泛函，同时保持半局域泛函的计算成本。",
+  "date": "2026-08-20",
+  "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+  "source": "Microsoft Research",
+  "sourceMaterial": "官方研究文章",
+  "status": "官方研究或发布信息；实验结果、评测和研究系统不等于已获独立验证或已经面向所有用户开放。",
+  "recommended": false,
+  "titleEn": "Broadening access to Skala creates a faster path to predictive DFT",
+  "titleZh": "扩大 Skala 的获取渠道，为预测性 DFT 开辟更快路径",
+  "details": {
+    "overview": "微软研究院发布博客，介绍其深度学习交换关联泛函 Skala 的进展：Skala 1.1 训练数据量为此前公开版本的 2.5 倍，在 GMTKN55 基准的 55 个子集中有 32 个取得最低误差，加权平均误差为 2.8 kcal/mol，作者声称其精度超过当前领先的全局（范围分离）杂化泛函，同时保持半局域泛函的计算成本。博客还宣布 Skala 已集成进 CP2K，并正在接入 Psi4、FHI-aims、ORCA 和 VASP，同时推出持续更新的性能基准。上述结果来自微软研究院自述，本次整理未额外核验独立复现情况。",
+    "keyPoints": [
+      "Skala 1.1 训练数据为此前版本的 2.5 倍，在 GMTKN55 的 55 个子集中 32 个误差最低。",
+      "作者称其加权平均误差 2.8 kcal/mol，精度超过领先杂化泛函而成本相当于 meta-GGA。",
+      "Skala 已进入 CP2K，并正集成到 Psi4、FHI-aims、ORCA 与 VASP。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}
