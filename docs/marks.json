@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-19T04:47:22.742Z",
+  "syncedAt": "2026-10-19T04:49:09.450Z",
   "marks": [
     {
       "id": "92919c2a8145088e",
@@ -25,6 +25,10 @@
       },
       "sourceMaterial": "官方 RSS 所附摘要或正文节选",
       "interest": [
+        {
+          "kind": "like",
+          "markedAt": "2026-10-19T04:47:23.602Z"
+        },
         {
           "kind": "learn",
           "markedAt": "2026-10-19T04:47:22.547Z"

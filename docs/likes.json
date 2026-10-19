@@ -1,4 +1,39 @@
 {
-  "syncedAt": "2026-10-19T04:47:22.742Z",
-  "articles": []
+  "syncedAt": "2026-10-19T04:49:09.450Z",
+  "articles": [
+    {
+      "id": "92919c2a8145088e",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "summary": "英伟达宣布 RTX Spark 笔记本电脑现已上市，搭载 Blackwell RTX 显卡、最高 128GB 统一内存和完整 NVIDIA AI 平台，面向轻薄高端 Windows PC。",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+      "date": "2026-10-18",
+      "status": "依据官方原始发布记录整理；当时的推出范围和限制请以原文为准。",
+      "source": "NVIDIA 官方博客",
+      "publishedAt": "2026-10-17T21:00:13+00:00",
+      "titleEn": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "titleZh": "RTX Spark 点燃全球庆祝，全新 Windows PC 登场",
+      "details": {
+        "overview": "英伟达宣布 RTX Spark 笔记本电脑现已上市，搭载 Blackwell RTX 显卡、最高 128GB 统一内存和完整 NVIDIA AI 平台，面向轻薄高端 Windows PC。起售价 2399 美元，来自华硕、戴尔、惠普、联想、微软和微星的机型将本地 AI、内容创作和游戏能力带入便携设备。当前收录材料未提供各机型具体配置、上市地区和完整规格，相关限制以官方发布为准。",
+        "keyPoints": [
+          "RTX Spark 笔记本搭载 Blackwell RTX 显卡，最高 128GB 统一内存。",
+          "起售价 2399 美元，华硕、戴尔、惠普、联想、微软和微星推出机型。",
+          "定位轻薄高端 Windows PC，强调本地 AI、内容创作与游戏能力。"
+        ],
+        "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
+      },
+      "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+      "interest": [
+        {
+          "kind": "like",
+          "markedAt": "2026-10-19T04:47:23.602Z"
+        },
+        {
+          "kind": "learn",
+          "markedAt": "2026-10-19T04:47:22.547Z"
+        }
+      ]
+    }
+  ]
 }

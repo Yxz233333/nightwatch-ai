@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "title": "夜行 · AI 阅读入口",
-  "syncedAt": "2026-10-19T04:47:22.742Z",
+  "syncedAt": "2026-10-19T04:49:09.450Z",
   "contentUpdatedAt": "2026-10-19T08:04:09+08:00",
   "coverage": {
     "requestedFrom": "2025-09-01",
@@ -223,6 +223,10 @@
       },
       "sourceMaterial": "官方 RSS 所附摘要或正文节选",
       "interest": [
+        {
+          "kind": "like",
+          "markedAt": "2026-10-19T04:47:23.602Z"
+        },
         {
           "kind": "learn",
           "markedAt": "2026-10-19T04:47:22.547Z"
