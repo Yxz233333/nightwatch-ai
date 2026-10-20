@@ -1,0 +1,27 @@
+{
+  "id": "7e1911eeec6ca113",
+  "section": "news",
+  "category": "工具动态",
+  "title": "NVIDIA 与 EBU 扩展媒体 AI 框架，Adobe 加速视频语义搜索",
+  "titleZh": "NVIDIA 与 EBU 扩展媒体 AI 框架，Adobe 加速视频语义搜索",
+  "summary": "NVIDIA 介绍两项媒体领域合作：与欧洲广播联盟扩展主权 AI 框架，以及利用 GPU 加速 Adobe Frame.io 视频搜索。",
+  "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+  "date": "2026-10-19",
+  "source": "NVIDIA 官方博客",
+  "status": "官方已发布信息；评测及性能数据为发布方报告，适用条件以原文为准。",
+  "sourceMaterial": "官方原始发布正文",
+  "details": {
+    "overview": "NVIDIA 介绍两项媒体领域合作：与欧洲广播联盟扩展主权 AI 框架，以及利用 GPU 加速 Adobe Frame.io 视频搜索。前者将云服务、开放模型与集成伙伴纳入参考架构；后者结合视频解码、推理和嵌入生成，帮助制作团队按内容语义检索素材。框架建设与产品工作流的适用范围需分别理解。",
+    "keyPoints": [
+      "EBU 合作将定义数据治理、部署位置与全生命周期安全要求。",
+      "Frame.io 工作流使用 NVDEC、TensorRT 和 CUDA 加速视频检索处理。",
+      "官方展示 UFA 素材检索案例；性能提升为指定工作流中的报告结果。"
+    ],
+    "editorialNote": "依据官方原文中文提炼；请通过来源链接核对完整条件与后续变化。"
+  },
+  "recommended": true,
+  "publishedAt": "2026-10-19T15:00:31Z",
+  "recommendedOn": "2026-10-20",
+  "recommendationReason": "过去24小时内发布的官方消息。",
+  "interest": []
+}

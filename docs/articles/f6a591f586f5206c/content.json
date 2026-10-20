@@ -1,0 +1,25 @@
+{
+  "id": "f6a591f586f5206c",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Agent Lightning v1.0：让真实智能体运行框架参与强化学习",
+  "titleZh": "Agent Lightning v1.0：让真实智能体运行框架参与强化学习",
+  "summary": "微软亚洲研究院介绍重构后的 Agent Lightning v1.0，以约3500行代码构建智能体强化学习控制平面。",
+  "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+  "date": "2026-10-07",
+  "source": "Microsoft Research",
+  "status": "官方已发布信息；评测及性能数据为发布方报告，适用条件以原文为准。",
+  "sourceMaterial": "官方原始发布正文",
+  "details": {
+    "overview": "微软亚洲研究院介绍重构后的 Agent Lightning v1.0，以约3500行代码构建智能体强化学习控制平面。其 Harnessed Agentic RL 思路让部署时使用的智能体运行框架直接参加训练，通过模型代理观察和记录调用，降低重新实现智能体交互循环的需要。本次恢复读取原文后补入历史归档。",
+    "keyPoints": [
+      "原文宣布开源 Agent Lightning v1.0，强调轻量与可复现训练流程。",
+      "通过 LLM 代理连接智能体与模型，保留现有运行框架的交互逻辑。",
+      "发布日期为10月7日，本次补录不进入今日推荐。"
+    ],
+    "editorialNote": "依据官方原文中文提炼；请通过来源链接核对完整条件与后续变化。"
+  },
+  "recommended": false,
+  "publicationTimeNote": "发布时间未详，保留原文日期。",
+  "interest": []
+}

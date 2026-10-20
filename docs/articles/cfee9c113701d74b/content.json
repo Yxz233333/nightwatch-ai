@@ -1,0 +1,25 @@
+{
+  "id": "cfee9c113701d74b",
+  "section": "news",
+  "category": "模型动态",
+  "title": "MiniMax M3.1 Flash 发布，模型权重计划稍后开放",
+  "titleZh": "MiniMax M3.1 Flash 发布，模型权重计划稍后开放",
+  "summary": "MiniMax 宣布 M3.1 Flash 已通过 API、M Plan 和 MiniMax Code 提供，强调智能体任务、编程、计算机操作及推理效率。",
+  "url": "https://www.minimax.io/blog/minimax-m31f",
+  "date": "2026-10-19",
+  "source": "MiniMax 官方博客",
+  "status": "官方已发布服务；权重及 Pro 版本仍为未来计划，评测为厂商报告。",
+  "sourceMaterial": "官方原始发布正文",
+  "details": {
+    "overview": "MiniMax 宣布 M3.1 Flash 已通过 API、M Plan 和 MiniMax Code 提供，强调智能体任务、编程、计算机操作及推理效率。官方报告相对前代的任务成本下降，并给出多项自测成绩。权重将稍后发布，Pro 版本也仍属未来计划；本文未提供确切发布时间，保留10月19日原始日期。",
+    "keyPoints": [
+      "API、M Plan 与 MiniMax Code 为原文明确列出的当前获取方式。",
+      "官方给出的每百万 token 价格为输入0.15美元、输出0.60美元、缓存输入0.015美元。",
+      "模型权重与 Pro 版本尚为后续计划，不标记为已经开源。"
+    ],
+    "editorialNote": "依据官方原文中文提炼；请通过来源链接核对完整条件与后续变化。"
+  },
+  "recommended": false,
+  "publicationTimeNote": "发布时间未详，保留原文日期。",
+  "interest": []
+}

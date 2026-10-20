@@ -1,11 +1,11 @@
 {
   "schemaVersion": 4,
   "title": "夜行 · AI 阅读入口",
-  "syncedAt": "2026-10-19T04:49:09.450Z",
-  "contentUpdatedAt": "2026-10-19T08:04:09+08:00",
+  "syncedAt": "2026-10-20T01:58:53.186Z",
+  "contentUpdatedAt": "2026-10-20T09:58:44+08:00",
   "coverage": {
     "requestedFrom": "2025-09-01",
-    "requestedThrough": "2026-10-19",
+    "requestedThrough": "2026-10-20",
     "scope": "已核实官方发布说明、GitHub Releases、官方 RSS 与新闻研究归档；不是全网穷尽清单。",
     "historyAddedBySource": {
       "ChatGPT 官方发布说明": 207,
@@ -46,30 +46,31 @@
       ]
     },
     "sourceCounts": {
-      "NVIDIA 官方博客": 316,
-      "Anthropic 官方新闻与研究": 247,
+      "Codex GitHub Releases": 1131,
+      "NVIDIA 官方博客": 318,
+      "MiniMax 官方博客": 1,
+      "Hugging Face 官方博客": 232,
+      "OpenAI 官方新闻": 654,
+      "Anthropic 官方新闻与研究": 248,
       "DeepSeek 官方更新": 11,
       "此前已核实内容": 745,
-      "Codex GitHub Releases": 1128,
-      "OpenAI 官方新闻": 653,
       "ChatGPT 官方发布说明": 207,
-      "Hugging Face 官方博客": 230,
       "ChatGPT 与 Codex 官方变更日志": 127,
       "Google DeepMind": 110,
       "Google AI 官方博客": 20,
       "Gemini 官方发布说明": 32,
-      "Microsoft Research": 10,
+      "Microsoft Research": 11,
       "OpenAI 数学仓库": 2,
       "Meta AI 官方博客": 10,
       "Anthropic 官方迁移归档": 2,
       "OpenAI 官方研究": 2
     },
     "excludedNonAINews": 33,
-    "total": 3852,
+    "total": 3863,
     "byMonth": {
       "2026-10": {
-        "news": 104,
-        "codex": 67,
+        "codex": 70,
+        "news": 112,
         "chatgpt": 19,
         "papers": 162
       },
@@ -142,63 +143,272 @@
         "chatgpt": 9
       }
     },
-    "lastCheckedAt": "2026-10-19T08:04:05+08:00",
+    "lastCheckedAt": "2026-10-20T09:58:44+08:00",
     "dailyCheck": {
-      "checkedAt": "2026-10-19T08:04:05+08:00",
-      "addedHistoricalArticles": 20,
-      "newItemsLast24Hours": 0,
+      "checkedAt": "2026-10-20T09:58:44+08:00",
+      "addedArticles": 11,
+      "addedHistoricalArticles": 5,
+      "newItemsLast24Hours": 6,
       "checks": [
         {
           "source": "ChatGPT release notes",
-          "result": "checked; newest dated update 2026-10-16; direct HTTP 403 resolved with web reader"
+          "result": "已核查；最新有日期更新10月16日"
         },
         {
           "source": "ChatGPT Learn changelog",
-          "result": "checked; newest dated update 2026-10-15; CLI entries cross-checked against GitHub"
+          "result": "已核查；未发现新的非CLI条目，CLI对照GitHub"
         },
         {
           "source": "Codex GitHub Releases",
-          "result": "fresh latest 50 releases checked; no new release URLs"
+          "result": "最新50条；新增3个alpha发布，均无详细变更说明"
         },
         {
-          "source": "OpenAI math CONTENTS.md",
-          "result": "719 entries; unchanged; SHA 2c68c086fff36a5806c936ad1659cf1a8d0b6dd9"
+          "source": "OpenAI math",
+          "result": "719篇索引未变化；CONTENTS SHA 2c68c086fff36a5806c936ad1659cf1a8d0b6dd9"
         },
         {
-          "source": "OpenAI / Google DeepMind / Hugging Face / NVIDIA official RSS",
-          "result": "refetched; no unarchived new AI news in the latest 24-hour window"
+          "source": "OpenAI/Hugging Face/NVIDIA",
+          "result": "已重新读取官方RSS并核查新增原文"
         },
         {
-          "source": "Anthropic news",
-          "result": "index refetched and checked; latest index items already present"
+          "source": "Anthropic",
+          "result": "索引及公共利益基金原文核实"
         },
         {
-          "source": "Gemini / DeepSeek",
-          "result": "official changelogs checked; latest dated entries already present"
+          "source": "Google DeepMind/Google AI",
+          "result": "RSS重新读取；未发现尚未收录条目"
         },
         {
-          "source": "Qwen",
-          "result": "legacy official blog accessible; not a complete archive of the current product site"
+          "source": "Gemini/DeepSeek",
+          "result": "官方更新页面已核查"
         },
         {
-          "source": "Microsoft",
-          "result": "corporate AI feed HTTP 403; Research index and 10 article pages verified through web reader; Research RSS timed out"
+          "source": "MiniMax/Qwen",
+          "result": "MiniMax新发布核实；Qwen站点部分归档，未宣称穷尽"
         },
         {
-          "source": "Meta",
-          "result": "official AI blog index plus 10 original articles retrieved; partial history backfilled"
+          "source": "Microsoft/Meta",
+          "result": "官方索引核查；Agent Lightning原文已恢复并补录，历史仍非穷尽"
         }
       ],
-      "partialSources": [
-        {
-          "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
-          "result": "original article fetch timed out twice; index headline and summary verified; not added pending full-source retrieval"
-        }
+      "partialSources": [],
+      "limitations": [
+        "Microsoft企业AI RSS直接访问403，Research页面通过网页读取；历史覆盖仍不完整。",
+        "Qwen当前产品归档及部分国内厂商历史尚未穷尽；不将未发现视为没有更新。"
+      ],
+      "recoveredSources": [
+        "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/"
       ]
     }
   },
   "description": "完整资讯与论文库，interest字段准确标记用户喜欢和想深入了解的内容。仅公开内容与主动标记，不包含用户名、密码、会话或运行日志。",
   "articles": [
+    {
+      "id": "8d2ebd54b178caa3",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.164.0-alpha.6 测试版发布",
+      "titleZh": "Codex CLI 0.164.0-alpha.6 测试版发布",
+      "summary": "Codex 官方 GitHub 发布了 0.164.0-alpha.6 预发布版本。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.6",
+      "date": "2026-10-20",
+      "source": "Codex GitHub Releases",
+      "status": "已发布 alpha 测试版；官方未提供详细变更说明。",
+      "sourceMaterial": "官方原始发布正文",
+      "details": {
+        "overview": "Codex 官方 GitHub 发布了 0.164.0-alpha.6 预发布版本。发布正文仅列出版本号，没有提供逐项功能、修复或兼容性变化说明，因此本条仅记录已经发生的版本发布，不能据此推断新增能力或稳定性改善。",
+        "keyPoints": [
+          "这是已发布的 alpha 测试版本，归入功能更新。",
+          "官方发布正文未提供详细变更说明，功能差异需等待后续说明。"
+        ],
+        "editorialNote": "依据官方原文中文提炼；请通过来源链接核对完整条件与后续变化。"
+      },
+      "recommended": false,
+      "publishedAt": "2026-10-19T22:48:51Z",
+      "releaseChannel": "prerelease",
+      "interest": []
+    },
+    {
+      "id": "7999785106b49084",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "德国与 NVIDIA 推进工业 AI 合作及初创企业投资计划",
+      "titleZh": "德国与 NVIDIA 推进工业 AI 合作及初创企业投资计划",
+      "summary": "NVIDIA 报道与德国政府围绕工业 AI 的合作意向，重点包括制造业、物理 AI 及中小企业的应用。",
+      "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+      "date": "2026-10-20",
+      "source": "NVIDIA 官方博客",
+      "status": "官方已发布信息；评测及性能数据为发布方报告，适用条件以原文为准。",
+      "sourceMaterial": "官方原始发布正文",
+      "details": {
+        "overview": "NVIDIA 报道与德国政府围绕工业 AI 的合作意向，重点包括制造业、物理 AI 及中小企业的应用。双方签署意向声明，拟推进相关模型与产业生态；NVIDIA 同时公布对四家德国初创企业的计划投资。文章包含合作目标和展示案例，不表示所有计划已经落地。",
+        "keyPoints": [
+          "合作意向聚焦德国制造与工程经验同 AI 技术结合。",
+          "计划投资涉及 Agile Robots、Avelios Medical、Mirelo 和 Reflex Aerospace。",
+          "工厂示范与效率数字属于官方所述场景，不能直接推广到全部企业。"
+        ],
+        "editorialNote": "依据官方原文中文提炼；请通过来源链接核对完整条件与后续变化。"
+      },
+      "recommended": true,
+      "publishedAt": "2026-10-19T19:27:08Z",
+      "recommendedOn": "2026-10-20",
+      "recommendationReason": "过去24小时内发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "cfee9c113701d74b",
+      "section": "news",
+      "category": "模型动态",
+      "title": "MiniMax M3.1 Flash 发布，模型权重计划稍后开放",
+      "titleZh": "MiniMax M3.1 Flash 发布，模型权重计划稍后开放",
+      "summary": "MiniMax 宣布 M3.1 Flash 已通过 API、M Plan 和 MiniMax Code 提供，强调智能体任务、编程、计算机操作及推理效率。",
+      "url": "https://www.minimax.io/blog/minimax-m31f",
+      "date": "2026-10-19",
+      "source": "MiniMax 官方博客",
+      "status": "官方已发布服务；权重及 Pro 版本仍为未来计划，评测为厂商报告。",
+      "sourceMaterial": "官方原始发布正文",
+      "details": {
+        "overview": "MiniMax 宣布 M3.1 Flash 已通过 API、M Plan 和 MiniMax Code 提供，强调智能体任务、编程、计算机操作及推理效率。官方报告相对前代的任务成本下降，并给出多项自测成绩。权重将稍后发布，Pro 版本也仍属未来计划；本文未提供确切发布时间，保留10月19日原始日期。",
+        "keyPoints": [
+          "API、M Plan 与 MiniMax Code 为原文明确列出的当前获取方式。",
+          "官方给出的每百万 token 价格为输入0.15美元、输出0.60美元、缓存输入0.015美元。",
+          "模型权重与 Pro 版本尚为后续计划，不标记为已经开源。"
+        ],
+        "editorialNote": "依据官方原文中文提炼；请通过来源链接核对完整条件与后续变化。"
+      },
+      "recommended": false,
+      "publicationTimeNote": "发布时间未详，保留原文日期。",
+      "interest": []
+    },
+    {
+      "id": "820062c4f4187c4d",
+      "section": "news",
+      "category": "工具动态",
+      "title": "TorchNeuron 将以公开 Beta 形式支持 Hugging Face 原生工作流",
+      "titleZh": "TorchNeuron 将以公开 Beta 形式支持 Hugging Face 原生工作流",
+      "summary": "Hugging Face 介绍 TorchNeuron：面向 AWS Trainium 的 PyTorch 原生后端，可接入 Transformers、Diffusers 等库。",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "date": "2026-10-19",
+      "source": "Hugging Face 官方博客",
+      "status": "官方公开 Beta 预告；原文说明计划于10月20日起提供。",
+      "sourceMaterial": "官方原始发布正文",
+      "details": {
+        "overview": "Hugging Face 介绍 TorchNeuron：面向 AWS Trainium 的 PyTorch 原生后端，可接入 Transformers、Diffusers 等库。文章预告从10月20日起提供公开 Beta，并说明 eager 执行、torch.compile 和分布式接口的支持。该条记录的是10月19日的官方介绍，不能把预告日期当作已经完成所有地区开放的证明。",
+        "keyPoints": [
+          "官方宣布公开 Beta 计划自2026年10月20日起提供。",
+          "Trainium 可作为原生设备使用，减少依赖 Optimum Neuron 定制实现。",
+          "兼容范围、缓存设置与具体模型条件应按原文及项目文档核实。"
+        ],
+        "editorialNote": "依据官方原文中文提炼；请通过来源链接核对完整条件与后续变化。"
+      },
+      "recommended": false,
+      "publishedAt": "2026-10-19T00:00:00Z",
+      "interest": []
+    },
+    {
+      "id": "7e1911eeec6ca113",
+      "section": "news",
+      "category": "工具动态",
+      "title": "NVIDIA 与 EBU 扩展媒体 AI 框架，Adobe 加速视频语义搜索",
+      "titleZh": "NVIDIA 与 EBU 扩展媒体 AI 框架，Adobe 加速视频语义搜索",
+      "summary": "NVIDIA 介绍两项媒体领域合作：与欧洲广播联盟扩展主权 AI 框架，以及利用 GPU 加速 Adobe Frame.io 视频搜索。",
+      "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+      "date": "2026-10-19",
+      "source": "NVIDIA 官方博客",
+      "status": "官方已发布信息；评测及性能数据为发布方报告，适用条件以原文为准。",
+      "sourceMaterial": "官方原始发布正文",
+      "details": {
+        "overview": "NVIDIA 介绍两项媒体领域合作：与欧洲广播联盟扩展主权 AI 框架，以及利用 GPU 加速 Adobe Frame.io 视频搜索。前者将云服务、开放模型与集成伙伴纳入参考架构；后者结合视频解码、推理和嵌入生成，帮助制作团队按内容语义检索素材。框架建设与产品工作流的适用范围需分别理解。",
+        "keyPoints": [
+          "EBU 合作将定义数据治理、部署位置与全生命周期安全要求。",
+          "Frame.io 工作流使用 NVDEC、TensorRT 和 CUDA 加速视频检索处理。",
+          "官方展示 UFA 素材检索案例；性能提升为指定工作流中的报告结果。"
+        ],
+        "editorialNote": "依据官方原文中文提炼；请通过来源链接核对完整条件与后续变化。"
+      },
+      "recommended": true,
+      "publishedAt": "2026-10-19T15:00:31Z",
+      "recommendedOn": "2026-10-20",
+      "recommendationReason": "过去24小时内发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "48c3723613f5f630",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.164.0-alpha.4 测试版发布",
+      "titleZh": "Codex CLI 0.164.0-alpha.4 测试版发布",
+      "summary": "Codex 官方 GitHub 发布了 0.164.0-alpha.4 预发布版本。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.4",
+      "date": "2026-10-19",
+      "source": "Codex GitHub Releases",
+      "status": "已发布 alpha 测试版；官方未提供详细变更说明。",
+      "sourceMaterial": "官方原始发布正文",
+      "details": {
+        "overview": "Codex 官方 GitHub 发布了 0.164.0-alpha.4 预发布版本。发布正文仅列出版本号，没有提供逐项功能、修复或兼容性变化说明，因此本条仅记录已经发生的版本发布，不能据此推断新增能力或稳定性改善。",
+        "keyPoints": [
+          "这是已发布的 alpha 测试版本，归入功能更新。",
+          "官方发布正文未提供详细变更说明，功能差异需等待后续说明。"
+        ],
+        "editorialNote": "依据官方原文中文提炼；请通过来源链接核对完整条件与后续变化。"
+      },
+      "recommended": false,
+      "publishedAt": "2026-10-19T10:42:34Z",
+      "releaseChannel": "prerelease",
+      "interest": []
+    },
+    {
+      "id": "1da5a14fa536b13d",
+      "section": "news",
+      "category": "模型动态",
+      "title": "OpenAI 公布低资源编程语言与 COBOL 迁移评测",
+      "titleZh": "OpenAI 公布低资源编程语言与 COBOL 迁移评测",
+      "summary": "OpenAI 发布两组编程评测，研究模型在训练资料较少的语言中构建软件，以及迁移 COBOL 程序时保持原有行为的能力。",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "date": "2026-10-19",
+      "source": "OpenAI 官方新闻",
+      "status": "官方已发布信息；评测及性能数据为发布方报告，适用条件以原文为准。",
+      "sourceMaterial": "官方原始发布正文",
+      "details": {
+        "overview": "OpenAI 发布两组编程评测，研究模型在训练资料较少的语言中构建软件，以及迁移 COBOL 程序时保持原有行为的能力。MultiLangBench 覆盖20种语言，另一组评测检查跨语言迁移后的输出一致性。官方报告新模型的准确率及成本表现改善；用于实际业务系统仍需专家审查和业务测试。",
+        "keyPoints": [
+          "MultiLangBench 要求从零构建兼容 SQLite 的数据库引擎，评测设置与测试套件对外发布。",
+          "COBOL 迁移重点包括舍入规则等业务语义，成功需通过全部隐藏测试。",
+          "这是官方研究与评测发布，不代表 ChatGPT 新增了一个客户端功能。"
+        ],
+        "editorialNote": "依据官方原文中文提炼；请通过来源链接核对完整条件与后续变化。"
+      },
+      "recommended": true,
+      "publishedAt": "2026-10-19T12:00:00Z",
+      "recommendedOn": "2026-10-20",
+      "recommendationReason": "过去24小时内发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "09dbc8d4b11475fc",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.164.0-alpha.5 测试版发布",
+      "titleZh": "Codex CLI 0.164.0-alpha.5 测试版发布",
+      "summary": "Codex 官方 GitHub 发布了 0.164.0-alpha.5 预发布版本。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.5",
+      "date": "2026-10-19",
+      "source": "Codex GitHub Releases",
+      "status": "已发布 alpha 测试版；官方未提供详细变更说明。",
+      "sourceMaterial": "官方原始发布正文",
+      "details": {
+        "overview": "Codex 官方 GitHub 发布了 0.164.0-alpha.5 预发布版本。发布正文仅列出版本号，没有提供逐项功能、修复或兼容性变化说明，因此本条仅记录已经发生的版本发布，不能据此推断新增能力或稳定性改善。",
+        "keyPoints": [
+          "这是已发布的 alpha 测试版本，归入功能更新。",
+          "官方发布正文未提供详细变更说明，功能差异需等待后续说明。"
+        ],
+        "editorialNote": "依据官方原文中文提炼；请通过来源链接核对完整条件与后续变化。"
+      },
+      "recommended": false,
+      "publishedAt": "2026-10-19T14:23:35Z",
+      "releaseChannel": "prerelease",
+      "interest": []
+    },
     {
       "id": "92919c2a8145088e",
       "section": "news",
@@ -232,6 +442,31 @@
           "markedAt": "2026-10-19T04:47:22.547Z"
         }
       ]
+    },
+    {
+      "id": "23bcaa42dd93bf4e",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Anthropic 宣布公共利益基金股权安排",
+      "titleZh": "Anthropic 宣布公共利益基金股权安排",
+      "summary": "Anthropic 宣布设立公共利益基金，计划在股东批准后投入公司5%的股权，并设计随公司价值增长而由董事会决定增加份额的机制。",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "date": "2026-10-18",
+      "source": "Anthropic 官方新闻与研究",
+      "status": "官方宣布的公益及股权计划，部分安排待股东批准与后续披露。",
+      "sourceMaterial": "官方原始发布正文",
+      "details": {
+        "overview": "Anthropic 宣布设立公共利益基金，计划在股东批准后投入公司5%的股权，并设计随公司价值增长而由董事会决定增加份额的机制。基金将采用全资 LLC 结构，以支持多种形式的公益投入。公告说明更多结构和治理细节将在未来数月公布，因此当前属于附有审批及后续安排的承诺。",
+        "keyPoints": [
+          "初始5%股权安排仍以股东批准为条件。",
+          "相对设定基准的公司价值每增长50%，董事会可决定再增加2%股权。",
+          "基金所持股权不用于政治捐赠或游说，具体治理细节待后续披露。"
+        ],
+        "editorialNote": "依据官方原文中文提炼；请通过来源链接核对完整条件与后续变化。"
+      },
+      "recommended": false,
+      "publicationTimeNote": "发布时间未详，保留原文日期。",
+      "interest": []
     },
     {
       "id": "f679446ac750e220",
@@ -1177,6 +1412,31 @@
         ],
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       },
+      "interest": []
+    },
+    {
+      "id": "5c678631ccec19d4",
+      "section": "news",
+      "category": "模型动态",
+      "title": "Apertus 1.5 技术说明：多模态、思考模式与更长上下文",
+      "titleZh": "Apertus 1.5 技术说明：多模态、思考模式与更长上下文",
+      "summary": "Swiss AI 发布 Apertus 1.5 技术说明，介绍8B和70B模型新增图像与音频理解、可选思考模式、工具使用改进及262144 token上下文。",
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "date": "2026-10-15",
+      "source": "Hugging Face 官方博客",
+      "status": "官方已发布信息；评测及性能数据为发布方报告，适用条件以原文为准。",
+      "sourceMaterial": "官方原始发布正文",
+      "details": {
+        "overview": "Swiss AI 发布 Apertus 1.5 技术说明，介绍8B和70B模型新增图像与音频理解、可选思考模式、工具使用改进及262144 token上下文。本文是10月15日发布的说明，权重已于7月24日以 Apache 2.0 许可发布，并非10月新发布的权重。语音处理在原文中仍标为实验性。",
+        "keyPoints": [
+          "8B及70B权重沿用 Apache 2.0 许可，提供训练与数据透明度资料。",
+          "上下文窗口扩大至262144 token，支持图像与音频输入。",
+          "技术说明日期与模型权重发布时间分开记录，实验性能力不视为成熟服务。"
+        ],
+        "editorialNote": "依据官方原文中文提炼；请通过来源链接核对完整条件与后续变化。"
+      },
+      "recommended": false,
+      "publishedAt": "2026-10-15T09:08:45Z",
       "interest": []
     },
     {
@@ -2909,6 +3169,31 @@
         "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
       },
       "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+      "interest": []
+    },
+    {
+      "id": "f6a591f586f5206c",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Agent Lightning v1.0：让真实智能体运行框架参与强化学习",
+      "titleZh": "Agent Lightning v1.0：让真实智能体运行框架参与强化学习",
+      "summary": "微软亚洲研究院介绍重构后的 Agent Lightning v1.0，以约3500行代码构建智能体强化学习控制平面。",
+      "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+      "date": "2026-10-07",
+      "source": "Microsoft Research",
+      "status": "官方已发布信息；评测及性能数据为发布方报告，适用条件以原文为准。",
+      "sourceMaterial": "官方原始发布正文",
+      "details": {
+        "overview": "微软亚洲研究院介绍重构后的 Agent Lightning v1.0，以约3500行代码构建智能体强化学习控制平面。其 Harnessed Agentic RL 思路让部署时使用的智能体运行框架直接参加训练，通过模型代理观察和记录调用，降低重新实现智能体交互循环的需要。本次恢复读取原文后补入历史归档。",
+        "keyPoints": [
+          "原文宣布开源 Agent Lightning v1.0，强调轻量与可复现训练流程。",
+          "通过 LLM 代理连接智能体与模型，保留现有运行框架的交互逻辑。",
+          "发布日期为10月7日，本次补录不进入今日推荐。"
+        ],
+        "editorialNote": "依据官方原文中文提炼；请通过来源链接核对完整条件与后续变化。"
+      },
+      "recommended": false,
+      "publicationTimeNote": "发布时间未详，保留原文日期。",
       "interest": []
     },
     {

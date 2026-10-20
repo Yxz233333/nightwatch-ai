@@ -1,0 +1,27 @@
+{
+  "id": "1da5a14fa536b13d",
+  "section": "news",
+  "category": "模型动态",
+  "title": "OpenAI 公布低资源编程语言与 COBOL 迁移评测",
+  "titleZh": "OpenAI 公布低资源编程语言与 COBOL 迁移评测",
+  "summary": "OpenAI 发布两组编程评测，研究模型在训练资料较少的语言中构建软件，以及迁移 COBOL 程序时保持原有行为的能力。",
+  "url": "https://openai.com/index/low-resource-programming-languages",
+  "date": "2026-10-19",
+  "source": "OpenAI 官方新闻",
+  "status": "官方已发布信息；评测及性能数据为发布方报告，适用条件以原文为准。",
+  "sourceMaterial": "官方原始发布正文",
+  "details": {
+    "overview": "OpenAI 发布两组编程评测，研究模型在训练资料较少的语言中构建软件，以及迁移 COBOL 程序时保持原有行为的能力。MultiLangBench 覆盖20种语言，另一组评测检查跨语言迁移后的输出一致性。官方报告新模型的准确率及成本表现改善；用于实际业务系统仍需专家审查和业务测试。",
+    "keyPoints": [
+      "MultiLangBench 要求从零构建兼容 SQLite 的数据库引擎，评测设置与测试套件对外发布。",
+      "COBOL 迁移重点包括舍入规则等业务语义，成功需通过全部隐藏测试。",
+      "这是官方研究与评测发布，不代表 ChatGPT 新增了一个客户端功能。"
+    ],
+    "editorialNote": "依据官方原文中文提炼；请通过来源链接核对完整条件与后续变化。"
+  },
+  "recommended": true,
+  "publishedAt": "2026-10-19T12:00:00Z",
+  "recommendedOn": "2026-10-20",
+  "recommendationReason": "过去24小时内发布的官方消息。",
+  "interest": []
+}

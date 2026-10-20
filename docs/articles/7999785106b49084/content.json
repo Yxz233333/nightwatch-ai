@@ -1,0 +1,27 @@
+{
+  "id": "7999785106b49084",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "德国与 NVIDIA 推进工业 AI 合作及初创企业投资计划",
+  "titleZh": "德国与 NVIDIA 推进工业 AI 合作及初创企业投资计划",
+  "summary": "NVIDIA 报道与德国政府围绕工业 AI 的合作意向，重点包括制造业、物理 AI 及中小企业的应用。",
+  "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+  "date": "2026-10-20",
+  "source": "NVIDIA 官方博客",
+  "status": "官方已发布信息；评测及性能数据为发布方报告，适用条件以原文为准。",
+  "sourceMaterial": "官方原始发布正文",
+  "details": {
+    "overview": "NVIDIA 报道与德国政府围绕工业 AI 的合作意向，重点包括制造业、物理 AI 及中小企业的应用。双方签署意向声明，拟推进相关模型与产业生态；NVIDIA 同时公布对四家德国初创企业的计划投资。文章包含合作目标和展示案例，不表示所有计划已经落地。",
+    "keyPoints": [
+      "合作意向聚焦德国制造与工程经验同 AI 技术结合。",
+      "计划投资涉及 Agile Robots、Avelios Medical、Mirelo 和 Reflex Aerospace。",
+      "工厂示范与效率数字属于官方所述场景，不能直接推广到全部企业。"
+    ],
+    "editorialNote": "依据官方原文中文提炼；请通过来源链接核对完整条件与后续变化。"
+  },
+  "recommended": true,
+  "publishedAt": "2026-10-19T19:27:08Z",
+  "recommendedOn": "2026-10-20",
+  "recommendationReason": "过去24小时内发布的官方消息。",
+  "interest": []
+}

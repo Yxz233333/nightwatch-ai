@@ -1,0 +1,25 @@
+{
+  "id": "23bcaa42dd93bf4e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic 宣布公共利益基金股权安排",
+  "titleZh": "Anthropic 宣布公共利益基金股权安排",
+  "summary": "Anthropic 宣布设立公共利益基金，计划在股东批准后投入公司5%的股权，并设计随公司价值增长而由董事会决定增加份额的机制。",
+  "url": "https://www.anthropic.com/news/public-benefit-fund",
+  "date": "2026-10-18",
+  "source": "Anthropic 官方新闻与研究",
+  "status": "官方宣布的公益及股权计划，部分安排待股东批准与后续披露。",
+  "sourceMaterial": "官方原始发布正文",
+  "details": {
+    "overview": "Anthropic 宣布设立公共利益基金，计划在股东批准后投入公司5%的股权，并设计随公司价值增长而由董事会决定增加份额的机制。基金将采用全资 LLC 结构，以支持多种形式的公益投入。公告说明更多结构和治理细节将在未来数月公布，因此当前属于附有审批及后续安排的承诺。",
+    "keyPoints": [
+      "初始5%股权安排仍以股东批准为条件。",
+      "相对设定基准的公司价值每增长50%，董事会可决定再增加2%股权。",
+      "基金所持股权不用于政治捐赠或游说，具体治理细节待后续披露。"
+    ],
+    "editorialNote": "依据官方原文中文提炼；请通过来源链接核对完整条件与后续变化。"
+  },
+  "recommended": false,
+  "publicationTimeNote": "发布时间未详，保留原文日期。",
+  "interest": []
+}

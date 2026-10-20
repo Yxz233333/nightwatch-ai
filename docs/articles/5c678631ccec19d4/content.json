@@ -1,0 +1,25 @@
+{
+  "id": "5c678631ccec19d4",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Apertus 1.5 技术说明：多模态、思考模式与更长上下文",
+  "titleZh": "Apertus 1.5 技术说明：多模态、思考模式与更长上下文",
+  "summary": "Swiss AI 发布 Apertus 1.5 技术说明，介绍8B和70B模型新增图像与音频理解、可选思考模式、工具使用改进及262144 token上下文。",
+  "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+  "date": "2026-10-15",
+  "source": "Hugging Face 官方博客",
+  "status": "官方已发布信息；评测及性能数据为发布方报告，适用条件以原文为准。",
+  "sourceMaterial": "官方原始发布正文",
+  "details": {
+    "overview": "Swiss AI 发布 Apertus 1.5 技术说明，介绍8B和70B模型新增图像与音频理解、可选思考模式、工具使用改进及262144 token上下文。本文是10月15日发布的说明，权重已于7月24日以 Apache 2.0 许可发布，并非10月新发布的权重。语音处理在原文中仍标为实验性。",
+    "keyPoints": [
+      "8B及70B权重沿用 Apache 2.0 许可，提供训练与数据透明度资料。",
+      "上下文窗口扩大至262144 token，支持图像与音频输入。",
+      "技术说明日期与模型权重发布时间分开记录，实验性能力不视为成熟服务。"
+    ],
+    "editorialNote": "依据官方原文中文提炼；请通过来源链接核对完整条件与后续变化。"
+  },
+  "recommended": false,
+  "publishedAt": "2026-10-15T09:08:45Z",
+  "interest": []
+}
