@@ -1,0 +1,27 @@
+{
+  "id": "25178607dfcbfc6f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "餐饮加盟商利用 ChatGPT Work 缩短对账与定价分析时间",
+  "titleZh": "餐饮加盟商利用 ChatGPT Work 缩短对账与定价分析时间",
+  "summary": "OpenAI 发布餐饮加盟商 Ted Taylor 的应用案例，介绍其使用 ChatGPT Work 分析菜单价格、销售预测、排班与现金对账。",
+  "url": "https://openai.com/index/ted-taylor-restaurant",
+  "date": "2026-10-20",
+  "source": "OpenAI 官方新闻",
+  "status": "官方已发布信息；研究及性能结果为发布方报告，实际适用条件以原文为准。",
+  "sourceMaterial": "官方原始发布正文",
+  "details": {
+    "overview": "OpenAI 发布餐饮加盟商 Ted Taylor 的应用案例，介绍其使用 ChatGPT Work 分析菜单价格、销售预测、排班与现金对账。案例报告称，定价分析从五天缩短到一至两小时，每次工资处理节约四小时，月度现金对账用时下降94%。这些属于单个客户案例中的自述结果，不能视为通用收益保证。",
+    "keyPoints": [
+      "经营者管理三家 Schlotzsky’s 与 Cinnabon 联名餐厅。",
+      "工作流围绕数据汇总、价格建议和后台运营分析展开。",
+      "文章提到可能释放的现金流是估计潜力，并非已经兑现的普遍财务回报。"
+    ],
+    "editorialNote": "依据官方原文中文提炼，请通过原始来源核对完整条件和后续变化。"
+  },
+  "recommended": true,
+  "publishedAt": "2026-10-20T10:00:00Z",
+  "recommendedOn": "2026-10-21",
+  "recommendationReason": "滚动24小时内发布的官方消息。",
+  "interest": []
+}

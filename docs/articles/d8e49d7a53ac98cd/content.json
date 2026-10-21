@@ -1,0 +1,27 @@
+{
+  "id": "d8e49d7a53ac98cd",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Ai2 发布 FairStress，评估模型决策在说服压力下的公平性",
+  "titleZh": "Ai2 发布 FairStress，评估模型决策在说服压力下的公平性",
+  "summary": "Ai2 发布 FairStress，除最终选择外，还测试大语言模型面对成对说服性提示时是否对不同人口群体保持一致的判断标准。",
+  "url": "https://huggingface.co/blog/allenai/fairstress",
+  "date": "2026-10-21",
+  "source": "Hugging Face 官方博客",
+  "status": "官方已发布信息；研究及性能结果为发布方报告，实际适用条件以原文为准。",
+  "sourceMaterial": "官方原始发布正文",
+  "details": {
+    "overview": "Ai2 发布 FairStress，除最终选择外，还测试大语言模型面对成对说服性提示时是否对不同人口群体保持一致的判断标准。它包含29个领域的300个基础场景，组合成超过1300万项测试，并提供约五万项的精简子集。该评测采用对称公平定义，不试图代表所有公平观念；结果取决于任务、提示和评分方式。",
+    "keyPoints": [
+      "在资格条件不变时替换身份信息，再对双方施加匹配的说服性前缀。",
+      "评估选择稳定性、解释差异及部分模型的内部激活。",
+      "作者指出激活分析仅覆盖两个模型，不能把局部发现推广为所有模型的内在机制。"
+    ],
+    "editorialNote": "依据官方原文中文提炼，请通过原始来源核对完整条件和后续变化。"
+  },
+  "recommended": true,
+  "publishedAt": "2026-10-20T16:09:19Z",
+  "recommendedOn": "2026-10-21",
+  "recommendationReason": "滚动24小时内发布的官方消息。",
+  "interest": []
+}

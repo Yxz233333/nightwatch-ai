@@ -1,0 +1,25 @@
+{
+  "id": "af266a5f023a06c3",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Hugging Face 介绍 TorchTPU 原生 PyTorch 后端",
+  "titleZh": "Hugging Face 介绍 TorchTPU 原生 PyTorch 后端",
+  "summary": "Hugging Face 介绍 TorchTPU，将 Google TPU 作为 PyTorch 原生设备接入 Transformers、Diffusers 和 Kernels。",
+  "url": "https://huggingface.co/blog/hf-torchtpu",
+  "date": "2026-10-20",
+  "source": "Hugging Face 官方博客",
+  "status": "官方已发布信息；研究及性能结果为发布方报告，实际适用条件以原文为准。",
+  "sourceMaterial": "官方原始发布正文",
+  "details": {
+    "overview": "Hugging Face 介绍 TorchTPU，将 Google TPU 作为 PyTorch 原生设备接入 Transformers、Diffusers 和 Kernels。工作流支持 eager 执行、torch.compile 与分布式使用，减少为 TPU 维护独立代码分支的需要。原文提供安装和模型示例，性能取决于硬件、模型、编译配置及输入规模。",
+    "keyPoints": [
+      "通过 tpu 设备运行支持的模型，保留常规 PyTorch 编程方式。",
+      "Diffusers 示例区分 eager 与编译模式，首次编译与后续运行的开销不同。",
+      "原文称运行 Hugging Face 模型不再必须通过 Optimum TPU，具体兼容性按文档确认。"
+    ],
+    "editorialNote": "依据官方原文中文提炼，请通过原始来源核对完整条件和后续变化。"
+  },
+  "recommended": false,
+  "publishedAt": "2026-10-20T00:00:00Z",
+  "interest": []
+}

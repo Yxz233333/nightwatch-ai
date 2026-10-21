@@ -1,6 +1,31 @@
 {
-  "syncedAt": "2026-10-20T01:58:53.186Z",
+  "syncedAt": "2026-10-21T00:03:23.976Z",
   "articles": [
+    {
+      "id": "a3185bdff07e55f3",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "ChatGPT 开始灰度推出锁定聊天",
+      "titleZh": "ChatGPT 开始灰度推出锁定聊天",
+      "summary": "ChatGPT 开始逐步推出锁定聊天：选定对话仍保存在账户中，但从常规历史、置顶与搜索中隐藏。",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "date": "2026-10-20",
+      "source": "ChatGPT 官方发布说明",
+      "status": "官方已开始灰度推出；Free/Go/Plus/Pro，具体账户可用性以实际开放为准。",
+      "sourceMaterial": "官方原始发布正文",
+      "details": {
+        "overview": "ChatGPT 开始逐步推出锁定聊天：选定对话仍保存在账户中，但从常规历史、置顶与搜索中隐藏。用户通过四位账户 PIN 或支持的设备身份验证打开。该功能面向 Free、Go、Plus 和 Pro 用户分批开放，覆盖网页、移动端及新版桌面应用；数据保留和模型改进设置不因此改变。",
+        "keyPoints": [
+          "在对话的更多菜单中选择锁定聊天。",
+          "锁定影响常规入口中的可见性，打开时需要账户 PIN 或支持的设备验证。",
+          "这是分批推出的功能更新，不能保证全部账户立即可用。"
+        ],
+        "editorialNote": "依据官方原文中文提炼，请通过原始来源核对完整条件和后续变化。"
+      },
+      "recommended": false,
+      "publicationTimeNote": "发布时间未详，保留原始发布日期。",
+      "interest": []
+    },
     {
       "id": "f7906d958d784330",
       "section": "chatgpt",

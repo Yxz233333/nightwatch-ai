@@ -1,6 +1,56 @@
 {
-  "syncedAt": "2026-10-20T01:58:53.186Z",
+  "syncedAt": "2026-10-21T00:03:23.976Z",
   "articles": [
+    {
+      "id": "79603b89bcf4a98c",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.164.0-alpha.8 测试版发布",
+      "titleZh": "Codex CLI 0.164.0-alpha.8 测试版发布",
+      "summary": "Codex 官方 GitHub 发布了 0.164.0-alpha.8 alpha 测试版本。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.8",
+      "date": "2026-10-21",
+      "source": "Codex GitHub Releases",
+      "status": "已发布 alpha 测试版；官方未提供详细变更说明。",
+      "sourceMaterial": "官方原始发布正文",
+      "details": {
+        "overview": "Codex 官方 GitHub 发布了 0.164.0-alpha.8 alpha 测试版本。该发布已经可以在版本页查看，但正文只提供版本号，没有逐项说明新增功能、修复或兼容性变化。本条只记录实际发生的预发布版本，不从版本号推测功能，也不将测试版误记为未来预告。",
+        "keyPoints": [
+          "这是已经发布的 alpha 版本，归入功能更新。",
+          "官方未提供详细变更说明，具体差异需等待后续发布记录。"
+        ],
+        "editorialNote": "依据官方原文中文提炼，请通过原始来源核对完整条件和后续变化。"
+      },
+      "recommended": false,
+      "publishedAt": "2026-10-20T22:15:45Z",
+      "releaseChannel": "prerelease",
+      "interest": []
+    },
+    {
+      "id": "b81f1cbf1feddb87",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.164.0-alpha.7 测试版发布",
+      "titleZh": "Codex CLI 0.164.0-alpha.7 测试版发布",
+      "summary": "Codex 官方 GitHub 发布了 0.164.0-alpha.7 alpha 测试版本。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.7",
+      "date": "2026-10-20",
+      "source": "Codex GitHub Releases",
+      "status": "已发布 alpha 测试版；官方未提供详细变更说明。",
+      "sourceMaterial": "官方原始发布正文",
+      "details": {
+        "overview": "Codex 官方 GitHub 发布了 0.164.0-alpha.7 alpha 测试版本。该发布已经可以在版本页查看，但正文只提供版本号，没有逐项说明新增功能、修复或兼容性变化。本条只记录实际发生的预发布版本，不从版本号推测功能，也不将测试版误记为未来预告。",
+        "keyPoints": [
+          "这是已经发布的 alpha 版本，归入功能更新。",
+          "官方未提供详细变更说明，具体差异需等待后续发布记录。"
+        ],
+        "editorialNote": "依据官方原文中文提炼，请通过原始来源核对完整条件和后续变化。"
+      },
+      "recommended": false,
+      "publishedAt": "2026-10-20T13:47:31Z",
+      "releaseChannel": "prerelease",
+      "interest": []
+    },
     {
       "id": "8d2ebd54b178caa3",
       "section": "codex",

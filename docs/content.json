@@ -1,11 +1,11 @@
 {
   "schemaVersion": 4,
   "title": "夜行 · AI 阅读入口",
-  "syncedAt": "2026-10-20T01:58:53.186Z",
-  "contentUpdatedAt": "2026-10-20T09:58:44+08:00",
+  "syncedAt": "2026-10-21T00:03:23.976Z",
+  "contentUpdatedAt": "2026-10-21T08:03:22+08:00",
   "coverage": {
     "requestedFrom": "2025-09-01",
-    "requestedThrough": "2026-10-20",
+    "requestedThrough": "2026-10-21",
     "scope": "已核实官方发布说明、GitHub Releases、官方 RSS 与新闻研究归档；不是全网穷尽清单。",
     "historyAddedBySource": {
       "ChatGPT 官方发布说明": 207,
@@ -46,15 +46,15 @@
       ]
     },
     "sourceCounts": {
-      "Codex GitHub Releases": 1131,
-      "NVIDIA 官方博客": 318,
+      "Hugging Face 官方博客": 236,
+      "Codex GitHub Releases": 1133,
+      "ChatGPT 官方发布说明": 208,
+      "NVIDIA 官方博客": 319,
+      "OpenAI 官方新闻": 656,
       "MiniMax 官方博客": 1,
-      "Hugging Face 官方博客": 232,
-      "OpenAI 官方新闻": 654,
-      "Anthropic 官方新闻与研究": 248,
+      "Anthropic 官方新闻与研究": 249,
       "DeepSeek 官方更新": 11,
       "此前已核实内容": 745,
-      "ChatGPT 官方发布说明": 207,
       "ChatGPT 与 Codex 官方变更日志": 127,
       "Google DeepMind": 110,
       "Google AI 官方博客": 20,
@@ -66,12 +66,12 @@
       "OpenAI 官方研究": 2
     },
     "excludedNonAINews": 33,
-    "total": 3863,
+    "total": 3874,
     "byMonth": {
       "2026-10": {
-        "codex": 70,
-        "news": 112,
-        "chatgpt": 19,
+        "news": 120,
+        "codex": 72,
+        "chatgpt": 20,
         "papers": 162
       },
       "2026-09": {
@@ -143,24 +143,25 @@
         "chatgpt": 9
       }
     },
-    "lastCheckedAt": "2026-10-20T09:58:44+08:00",
+    "lastCheckedAt": "2026-10-21T08:03:22+08:00",
     "dailyCheck": {
-      "checkedAt": "2026-10-20T09:58:44+08:00",
+      "checkedAt": "2026-10-21T08:03:22+08:00",
       "addedArticles": 11,
-      "addedHistoricalArticles": 5,
+      "addedHistoricalArticles": 1,
       "newItemsLast24Hours": 6,
+      "recommendationsAdded": 4,
       "checks": [
         {
           "source": "ChatGPT release notes",
-          "result": "已核查；最新有日期更新10月16日"
+          "result": "新增10月20日锁定聊天灰度更新，未提供确切小时"
         },
         {
           "source": "ChatGPT Learn changelog",
-          "result": "已核查；未发现新的非CLI条目，CLI对照GitHub"
+          "result": "已核查，最新有日期条目10月15日，CLI对照GitHub"
         },
         {
-          "source": "Codex GitHub Releases",
-          "result": "最新50条；新增3个alpha发布，均无详细变更说明"
+          "source": "Codex GitHub",
+          "result": "最新50条，新增alpha.7/alpha.8，正文无详细变更说明"
         },
         {
           "source": "OpenAI math",
@@ -168,41 +169,197 @@
         },
         {
           "source": "OpenAI/Hugging Face/NVIDIA",
-          "result": "已重新读取官方RSS并核查新增原文"
+          "result": "官方RSS重读，并读取新增原文"
         },
         {
           "source": "Anthropic",
-          "result": "索引及公共利益基金原文核实"
+          "result": "当前新闻索引核查，补录蒸馏防护原文"
         },
         {
           "source": "Google DeepMind/Google AI",
-          "result": "RSS重新读取；未发现尚未收录条目"
+          "result": "官方RSS重读，未发现未归档条目"
         },
         {
           "source": "Gemini/DeepSeek",
-          "result": "官方更新页面已核查"
+          "result": "官方更新页面重读，最新日期未变化"
         },
         {
           "source": "MiniMax/Qwen",
-          "result": "MiniMax新发布核实；Qwen站点部分归档，未宣称穷尽"
+          "result": "MiniMax官方索引仍为10月19日；Qwen官方归档与定向搜索部分覆盖"
         },
         {
           "source": "Microsoft/Meta",
-          "result": "官方索引核查；Agent Lightning原文已恢复并补录，历史仍非穷尽"
+          "result": "官方Research及AI博客当前索引已核查；不代表完整归档"
         }
       ],
-      "partialSources": [],
-      "limitations": [
-        "Microsoft企业AI RSS直接访问403，Research页面通过网页读取；历史覆盖仍不完整。",
-        "Qwen当前产品归档及部分国内厂商历史尚未穷尽；不将未发现视为没有更新。"
+      "partialSources": [
+        {
+          "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
+          "result": "可见日期10月19日与RSS及页面元数据10月20日不一致；保留冲突说明，按元数据归档，排除今日推荐。"
+        }
       ],
-      "recoveredSources": [
-        "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/"
+      "limitations": [
+        "部分来源直接HTTP或网页读取失败，已通过官方页面HTTP正文或网页读取交叉恢复；不将来源获取失败视为没有更新。",
+        "微软、Meta及部分国内厂商历史仍非穷尽，沿用公开覆盖限制。"
       ]
     }
   },
   "description": "完整资讯与论文库，interest字段准确标记用户喜欢和想深入了解的内容。仅公开内容与主动标记，不包含用户名、密码、会话或运行日志。",
   "articles": [
+    {
+      "id": "d8e49d7a53ac98cd",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Ai2 发布 FairStress，评估模型决策在说服压力下的公平性",
+      "titleZh": "Ai2 发布 FairStress，评估模型决策在说服压力下的公平性",
+      "summary": "Ai2 发布 FairStress，除最终选择外，还测试大语言模型面对成对说服性提示时是否对不同人口群体保持一致的判断标准。",
+      "url": "https://huggingface.co/blog/allenai/fairstress",
+      "date": "2026-10-21",
+      "source": "Hugging Face 官方博客",
+      "status": "官方已发布信息；研究及性能结果为发布方报告，实际适用条件以原文为准。",
+      "sourceMaterial": "官方原始发布正文",
+      "details": {
+        "overview": "Ai2 发布 FairStress，除最终选择外，还测试大语言模型面对成对说服性提示时是否对不同人口群体保持一致的判断标准。它包含29个领域的300个基础场景，组合成超过1300万项测试，并提供约五万项的精简子集。该评测采用对称公平定义，不试图代表所有公平观念；结果取决于任务、提示和评分方式。",
+        "keyPoints": [
+          "在资格条件不变时替换身份信息，再对双方施加匹配的说服性前缀。",
+          "评估选择稳定性、解释差异及部分模型的内部激活。",
+          "作者指出激活分析仅覆盖两个模型，不能把局部发现推广为所有模型的内在机制。"
+        ],
+        "editorialNote": "依据官方原文中文提炼，请通过原始来源核对完整条件和后续变化。"
+      },
+      "recommended": true,
+      "publishedAt": "2026-10-20T16:09:19Z",
+      "recommendedOn": "2026-10-21",
+      "recommendationReason": "滚动24小时内发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "be2d8f6cbac058fb",
+      "section": "news",
+      "category": "模型动态",
+      "title": "NVIDIA Cosmos3-H-Dreams 发布临床手术场景生成模拟研究",
+      "titleZh": "NVIDIA Cosmos3-H-Dreams 发布临床手术场景生成模拟研究",
+      "summary": "NVIDIA 介绍 Cosmos3-H-Dreams，以临床胆囊切除术视频与机器人运动信息训练生成模拟器，让器械控制驱动场景变化。",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "date": "2026-10-21",
+      "source": "Hugging Face 官方博客",
+      "status": "已发布研究模型与模拟工具；未经验证用于患者照护。",
+      "sourceMaterial": "官方原始发布正文",
+      "details": {
+        "overview": "NVIDIA 介绍 Cosmos3-H-Dreams，以临床胆囊切除术视频与机器人运动信息训练生成模拟器，让器械控制驱动场景变化。项目提供四步及两步生成检查点，并通过 FlashDreams 加速交互式推理。原文明确这是研究模拟器，视觉逼真不证明生物力学精度，也不是经过验证、可用于患者照护的系统。",
+        "keyPoints": [
+          "基于 Cosmos 3 的模型学习手术视频与器械运动的对应关系。",
+          "四步和两步模型经过分别训练，用于探索质量与推理成本的取舍。",
+          "解剖准确性、组织响应及完整流程仍需进一步评估，不标记为临床可用突破。"
+        ],
+        "editorialNote": "依据官方原文中文提炼，请通过原始来源核对完整条件和后续变化。"
+      },
+      "recommended": true,
+      "publishedAt": "2026-10-20T18:17:47Z",
+      "recommendedOn": "2026-10-21",
+      "recommendationReason": "滚动24小时内发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "79603b89bcf4a98c",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.164.0-alpha.8 测试版发布",
+      "titleZh": "Codex CLI 0.164.0-alpha.8 测试版发布",
+      "summary": "Codex 官方 GitHub 发布了 0.164.0-alpha.8 alpha 测试版本。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.8",
+      "date": "2026-10-21",
+      "source": "Codex GitHub Releases",
+      "status": "已发布 alpha 测试版；官方未提供详细变更说明。",
+      "sourceMaterial": "官方原始发布正文",
+      "details": {
+        "overview": "Codex 官方 GitHub 发布了 0.164.0-alpha.8 alpha 测试版本。该发布已经可以在版本页查看，但正文只提供版本号，没有逐项说明新增功能、修复或兼容性变化。本条只记录实际发生的预发布版本，不从版本号推测功能，也不将测试版误记为未来预告。",
+        "keyPoints": [
+          "这是已经发布的 alpha 版本，归入功能更新。",
+          "官方未提供详细变更说明，具体差异需等待后续发布记录。"
+        ],
+        "editorialNote": "依据官方原文中文提炼，请通过原始来源核对完整条件和后续变化。"
+      },
+      "recommended": false,
+      "publishedAt": "2026-10-20T22:15:45Z",
+      "releaseChannel": "prerelease",
+      "interest": []
+    },
+    {
+      "id": "b81f1cbf1feddb87",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.164.0-alpha.7 测试版发布",
+      "titleZh": "Codex CLI 0.164.0-alpha.7 测试版发布",
+      "summary": "Codex 官方 GitHub 发布了 0.164.0-alpha.7 alpha 测试版本。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.7",
+      "date": "2026-10-20",
+      "source": "Codex GitHub Releases",
+      "status": "已发布 alpha 测试版；官方未提供详细变更说明。",
+      "sourceMaterial": "官方原始发布正文",
+      "details": {
+        "overview": "Codex 官方 GitHub 发布了 0.164.0-alpha.7 alpha 测试版本。该发布已经可以在版本页查看，但正文只提供版本号，没有逐项说明新增功能、修复或兼容性变化。本条只记录实际发生的预发布版本，不从版本号推测功能，也不将测试版误记为未来预告。",
+        "keyPoints": [
+          "这是已经发布的 alpha 版本，归入功能更新。",
+          "官方未提供详细变更说明，具体差异需等待后续发布记录。"
+        ],
+        "editorialNote": "依据官方原文中文提炼，请通过原始来源核对完整条件和后续变化。"
+      },
+      "recommended": false,
+      "publishedAt": "2026-10-20T13:47:31Z",
+      "releaseChannel": "prerelease",
+      "interest": []
+    },
+    {
+      "id": "af266a5f023a06c3",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Hugging Face 介绍 TorchTPU 原生 PyTorch 后端",
+      "titleZh": "Hugging Face 介绍 TorchTPU 原生 PyTorch 后端",
+      "summary": "Hugging Face 介绍 TorchTPU，将 Google TPU 作为 PyTorch 原生设备接入 Transformers、Diffusers 和 Kernels。",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
+      "date": "2026-10-20",
+      "source": "Hugging Face 官方博客",
+      "status": "官方已发布信息；研究及性能结果为发布方报告，实际适用条件以原文为准。",
+      "sourceMaterial": "官方原始发布正文",
+      "details": {
+        "overview": "Hugging Face 介绍 TorchTPU，将 Google TPU 作为 PyTorch 原生设备接入 Transformers、Diffusers 和 Kernels。工作流支持 eager 执行、torch.compile 与分布式使用，减少为 TPU 维护独立代码分支的需要。原文提供安装和模型示例，性能取决于硬件、模型、编译配置及输入规模。",
+        "keyPoints": [
+          "通过 tpu 设备运行支持的模型，保留常规 PyTorch 编程方式。",
+          "Diffusers 示例区分 eager 与编译模式，首次编译与后续运行的开销不同。",
+          "原文称运行 Hugging Face 模型不再必须通过 Optimum TPU，具体兼容性按文档确认。"
+        ],
+        "editorialNote": "依据官方原文中文提炼，请通过原始来源核对完整条件和后续变化。"
+      },
+      "recommended": false,
+      "publishedAt": "2026-10-20T00:00:00Z",
+      "interest": []
+    },
+    {
+      "id": "a3185bdff07e55f3",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "ChatGPT 开始灰度推出锁定聊天",
+      "titleZh": "ChatGPT 开始灰度推出锁定聊天",
+      "summary": "ChatGPT 开始逐步推出锁定聊天：选定对话仍保存在账户中，但从常规历史、置顶与搜索中隐藏。",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "date": "2026-10-20",
+      "source": "ChatGPT 官方发布说明",
+      "status": "官方已开始灰度推出；Free/Go/Plus/Pro，具体账户可用性以实际开放为准。",
+      "sourceMaterial": "官方原始发布正文",
+      "details": {
+        "overview": "ChatGPT 开始逐步推出锁定聊天：选定对话仍保存在账户中，但从常规历史、置顶与搜索中隐藏。用户通过四位账户 PIN 或支持的设备身份验证打开。该功能面向 Free、Go、Plus 和 Pro 用户分批开放，覆盖网页、移动端及新版桌面应用；数据保留和模型改进设置不因此改变。",
+        "keyPoints": [
+          "在对话的更多菜单中选择锁定聊天。",
+          "锁定影响常规入口中的可见性，打开时需要账户 PIN 或支持的设备验证。",
+          "这是分批推出的功能更新，不能保证全部账户立即可用。"
+        ],
+        "editorialNote": "依据官方原文中文提炼，请通过原始来源核对完整条件和后续变化。"
+      },
+      "recommended": false,
+      "publicationTimeNote": "发布时间未详，保留原始发布日期。",
+      "interest": []
+    },
     {
       "id": "8d2ebd54b178caa3",
       "section": "codex",
@@ -253,6 +410,111 @@
       "publishedAt": "2026-10-19T19:27:08Z",
       "recommendedOn": "2026-10-20",
       "recommendationReason": "过去24小时内发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "4adb815242f0b053",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "巴塞罗那超算中心与 NVIDIA 支持西班牙 AI 初创企业",
+      "titleZh": "巴塞罗那超算中心与 NVIDIA 支持西班牙 AI 初创企业",
+      "summary": "NVIDIA 介绍巴塞罗那超算中心 AI Factory 加速计划，提供主权算力、技术支持与培训，部分服务可从 Inception 入口获取。",
+      "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
+      "date": "2026-10-20",
+      "source": "NVIDIA 官方博客",
+      "status": "官方已发布信息；研究及性能结果为发布方报告，实际适用条件以原文为准。",
+      "sourceMaterial": "官方原始发布正文",
+      "details": {
+        "overview": "NVIDIA 介绍巴塞罗那超算中心 AI Factory 加速计划，提供主权算力、技术支持与培训，部分服务可从 Inception 入口获取。案例涉及供水网络、心电信号研究及医药信息协作。原文可见日期为10月19日，官方 RSS 与页面发布时间元数据均为10月20日05:00 UTC；本条保留冲突说明，不进入今日推荐。",
+        "keyPoints": [
+          "加速计划在试点后进入正式运行，支持多类行业初创企业。",
+          "部分团队利用 NVIDIA NIM、Nemotron 等技术开展产品或研究。",
+          "MareNostrum 5 扩建属于未来安排；医疗案例不等于已完成临床验证。"
+        ],
+        "editorialNote": "依据官方原文中文提炼，请通过原始来源核对完整条件和后续变化。"
+      },
+      "recommended": false,
+      "publishedAt": "2026-10-20T05:00:00Z",
+      "publicationTimeNote": "来源日期存在冲突：页面可见2026-10-19，RSS及article:published_time为2026-10-20T05:00:00+00:00；按元数据归档，暂不推荐。",
+      "interest": []
+    },
+    {
+      "id": "251a93e9562e61e9",
+      "section": "news",
+      "category": "工具动态",
+      "title": "IBM ALTK-Evolve：以学习到的提示记忆改进客服智能体",
+      "titleZh": "IBM ALTK-Evolve：以学习到的提示记忆改进客服智能体",
+      "summary": "IBM Research 介绍 ALTK-Evolve，从智能体在训练任务中的成功与失败轨迹提炼行为准则，附加到系统提示中，不更新模型权重。",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "date": "2026-10-20",
+      "source": "Hugging Face 官方博客",
+      "status": "官方已发布信息；研究及性能结果为发布方报告，实际适用条件以原文为准。",
+      "sourceMaterial": "官方原始发布正文",
+      "details": {
+        "overview": "IBM Research 介绍 ALTK-Evolve，从智能体在训练任务中的成功与失败轨迹提炼行为准则，附加到系统提示中，不更新模型权重。作者在 τ²-bench 零售与航空客服任务上测试不同数量的准则，并报告准确率和多次尝试一致性的提升。较长提示增加输入 token 成本，最佳准则数量随领域而变。",
+        "keyPoints": [
+          "以现有 ReAct 框架和标准模型执行任务，学习内容作为提示中的操作手册。",
+          "Pass^4 衡量四次尝试均成功的任务比例，与平均准确率不同。",
+          "榜单比较采用10月12日快照，不能将发布时间的宣传标题理解为持续实时排名。"
+        ],
+        "editorialNote": "依据官方原文中文提炼，请通过原始来源核对完整条件和后续变化。"
+      },
+      "recommended": true,
+      "publishedAt": "2026-10-20T15:19:48Z",
+      "recommendedOn": "2026-10-21",
+      "recommendationReason": "滚动24小时内发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "25178607dfcbfc6f",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "餐饮加盟商利用 ChatGPT Work 缩短对账与定价分析时间",
+      "titleZh": "餐饮加盟商利用 ChatGPT Work 缩短对账与定价分析时间",
+      "summary": "OpenAI 发布餐饮加盟商 Ted Taylor 的应用案例，介绍其使用 ChatGPT Work 分析菜单价格、销售预测、排班与现金对账。",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "date": "2026-10-20",
+      "source": "OpenAI 官方新闻",
+      "status": "官方已发布信息；研究及性能结果为发布方报告，实际适用条件以原文为准。",
+      "sourceMaterial": "官方原始发布正文",
+      "details": {
+        "overview": "OpenAI 发布餐饮加盟商 Ted Taylor 的应用案例，介绍其使用 ChatGPT Work 分析菜单价格、销售预测、排班与现金对账。案例报告称，定价分析从五天缩短到一至两小时，每次工资处理节约四小时，月度现金对账用时下降94%。这些属于单个客户案例中的自述结果，不能视为通用收益保证。",
+        "keyPoints": [
+          "经营者管理三家 Schlotzsky’s 与 Cinnabon 联名餐厅。",
+          "工作流围绕数据汇总、价格建议和后台运营分析展开。",
+          "文章提到可能释放的现金流是估计潜力，并非已经兑现的普遍财务回报。"
+        ],
+        "editorialNote": "依据官方原文中文提炼，请通过原始来源核对完整条件和后续变化。"
+      },
+      "recommended": true,
+      "publishedAt": "2026-10-20T10:00:00Z",
+      "recommendedOn": "2026-10-21",
+      "recommendationReason": "滚动24小时内发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "235e9f886e326ef3",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "OpenAI 收购 Orchestra Bio，计划结合 Rosalind 推进药物研发协作",
+      "titleZh": "OpenAI 收购 Orchestra Bio，计划结合 Rosalind 推进药物研发协作",
+      "summary": "OpenAI 宣布已经收购 Orchestra Bio，将其团队和协调药物开发工作的技术与 Rosalind 结合。",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "date": "2026-10-20",
+      "source": "OpenAI 官方新闻",
+      "status": "官方已发布信息；研究及性能结果为发布方报告，实际适用条件以原文为准。",
+      "sourceMaterial": "官方原始发布正文",
+      "details": {
+        "overview": "OpenAI 宣布已经收购 Orchestra Bio，将其团队和协调药物开发工作的技术与 Rosalind 结合。目标是让智能体连接科学发现、研究安排和项目决策，帮助生物医药团队处理跨部门与外部伙伴的复杂协作。收购公告及后续产品目标不等于已经证实能缩短临床试验或取得监管批准。",
+        "keyPoints": [
+          "官方表述为已经完成收购，而非仅签署收购意向。",
+          "Orchestra 侧重研究与药物项目的追踪协调，Rosalind 提供生命科学模型和工具。",
+          "未来整合能力仍需依据后续产品说明，不把目标当成现有临床成果。"
+        ],
+        "editorialNote": "依据官方原文中文提炼，请通过原始来源核对完整条件和后续变化。"
+      },
+      "recommended": false,
+      "publishedAt": "2026-10-20T00:00:00Z",
       "interest": []
     },
     {
@@ -2349,6 +2611,31 @@
         "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
       },
       "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+      "interest": []
+    },
+    {
+      "id": "3d4b2c4a2055d0fb",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Anthropic 介绍推理提取与蒸馏攻击防护措施",
+      "titleZh": "Anthropic 介绍推理提取与蒸馏攻击防护措施",
+      "summary": "Anthropic 介绍增强蒸馏防护的方法，包括限制受保护推理内容的跨账户流转、分类器检测提取尝试，以及对重复滥用账户施加限制。",
+      "url": "https://www.anthropic.com/news/distillation-defenses",
+      "date": "2026-10-12",
+      "source": "Anthropic 官方新闻与研究",
+      "status": "官方已发布信息；研究及性能结果为发布方报告，实际适用条件以原文为准。",
+      "sourceMaterial": "官方原始发布正文",
+      "details": {
+        "overview": "Anthropic 介绍增强蒸馏防护的方法，包括限制受保护推理内容的跨账户流转、分类器检测提取尝试，以及对重复滥用账户施加限制。公司报告其平台上被提取的推理 token 数下降约90%至99%，同时承认集成调整、误判和被拦截请求计费等代价。这是厂商对自身防护的报告，不能当作独立安全审计结论。",
+        "keyPoints": [
+          "防护针对未经授权的大规模推理提取，与一般合法使用及研究需区分。",
+          "官方称分类器误判率低于0.1%，仍承认存在正常请求受影响的情况。",
+          "文章发布于10月12日，本次补入历史，不混入今日推荐。"
+        ],
+        "editorialNote": "依据官方原文中文提炼，请通过原始来源核对完整条件和后续变化。"
+      },
+      "recommended": false,
+      "publishedAt": "2026-10-12T00:00:00Z",
       "interest": []
     },
     {

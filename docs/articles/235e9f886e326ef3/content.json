@@ -1,0 +1,25 @@
+{
+  "id": "235e9f886e326ef3",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI 收购 Orchestra Bio，计划结合 Rosalind 推进药物研发协作",
+  "titleZh": "OpenAI 收购 Orchestra Bio，计划结合 Rosalind 推进药物研发协作",
+  "summary": "OpenAI 宣布已经收购 Orchestra Bio，将其团队和协调药物开发工作的技术与 Rosalind 结合。",
+  "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+  "date": "2026-10-20",
+  "source": "OpenAI 官方新闻",
+  "status": "官方已发布信息；研究及性能结果为发布方报告，实际适用条件以原文为准。",
+  "sourceMaterial": "官方原始发布正文",
+  "details": {
+    "overview": "OpenAI 宣布已经收购 Orchestra Bio，将其团队和协调药物开发工作的技术与 Rosalind 结合。目标是让智能体连接科学发现、研究安排和项目决策，帮助生物医药团队处理跨部门与外部伙伴的复杂协作。收购公告及后续产品目标不等于已经证实能缩短临床试验或取得监管批准。",
+    "keyPoints": [
+      "官方表述为已经完成收购，而非仅签署收购意向。",
+      "Orchestra 侧重研究与药物项目的追踪协调，Rosalind 提供生命科学模型和工具。",
+      "未来整合能力仍需依据后续产品说明，不把目标当成现有临床成果。"
+    ],
+    "editorialNote": "依据官方原文中文提炼，请通过原始来源核对完整条件和后续变化。"
+  },
+  "recommended": false,
+  "publishedAt": "2026-10-20T00:00:00Z",
+  "interest": []
+}

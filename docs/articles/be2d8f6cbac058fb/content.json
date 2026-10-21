@@ -1,0 +1,27 @@
+{
+  "id": "be2d8f6cbac058fb",
+  "section": "news",
+  "category": "模型动态",
+  "title": "NVIDIA Cosmos3-H-Dreams 发布临床手术场景生成模拟研究",
+  "titleZh": "NVIDIA Cosmos3-H-Dreams 发布临床手术场景生成模拟研究",
+  "summary": "NVIDIA 介绍 Cosmos3-H-Dreams，以临床胆囊切除术视频与机器人运动信息训练生成模拟器，让器械控制驱动场景变化。",
+  "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+  "date": "2026-10-21",
+  "source": "Hugging Face 官方博客",
+  "status": "已发布研究模型与模拟工具；未经验证用于患者照护。",
+  "sourceMaterial": "官方原始发布正文",
+  "details": {
+    "overview": "NVIDIA 介绍 Cosmos3-H-Dreams，以临床胆囊切除术视频与机器人运动信息训练生成模拟器，让器械控制驱动场景变化。项目提供四步及两步生成检查点，并通过 FlashDreams 加速交互式推理。原文明确这是研究模拟器，视觉逼真不证明生物力学精度，也不是经过验证、可用于患者照护的系统。",
+    "keyPoints": [
+      "基于 Cosmos 3 的模型学习手术视频与器械运动的对应关系。",
+      "四步和两步模型经过分别训练，用于探索质量与推理成本的取舍。",
+      "解剖准确性、组织响应及完整流程仍需进一步评估，不标记为临床可用突破。"
+    ],
+    "editorialNote": "依据官方原文中文提炼，请通过原始来源核对完整条件和后续变化。"
+  },
+  "recommended": true,
+  "publishedAt": "2026-10-20T18:17:47Z",
+  "recommendedOn": "2026-10-21",
+  "recommendationReason": "滚动24小时内发布的官方消息。",
+  "interest": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "251a93e9562e61e9",
+  "section": "news",
+  "category": "工具动态",
+  "title": "IBM ALTK-Evolve：以学习到的提示记忆改进客服智能体",
+  "titleZh": "IBM ALTK-Evolve：以学习到的提示记忆改进客服智能体",
+  "summary": "IBM Research 介绍 ALTK-Evolve，从智能体在训练任务中的成功与失败轨迹提炼行为准则，附加到系统提示中，不更新模型权重。",
+  "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+  "date": "2026-10-20",
+  "source": "Hugging Face 官方博客",
+  "status": "官方已发布信息；研究及性能结果为发布方报告，实际适用条件以原文为准。",
+  "sourceMaterial": "官方原始发布正文",
+  "details": {
+    "overview": "IBM Research 介绍 ALTK-Evolve，从智能体在训练任务中的成功与失败轨迹提炼行为准则，附加到系统提示中，不更新模型权重。作者在 τ²-bench 零售与航空客服任务上测试不同数量的准则，并报告准确率和多次尝试一致性的提升。较长提示增加输入 token 成本，最佳准则数量随领域而变。",
+    "keyPoints": [
+      "以现有 ReAct 框架和标准模型执行任务，学习内容作为提示中的操作手册。",
+      "Pass^4 衡量四次尝试均成功的任务比例，与平均准确率不同。",
+      "榜单比较采用10月12日快照，不能将发布时间的宣传标题理解为持续实时排名。"
+    ],
+    "editorialNote": "依据官方原文中文提炼，请通过原始来源核对完整条件和后续变化。"
+  },
+  "recommended": true,
+  "publishedAt": "2026-10-20T15:19:48Z",
+  "recommendedOn": "2026-10-21",
+  "recommendationReason": "滚动24小时内发布的官方消息。",
+  "interest": []
+}
