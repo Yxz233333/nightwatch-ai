@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-22T08:02:50+08:00",
+  "updatedAt": "2026-10-23T07:59:30+08:00",
   "coverage": {
     "requestedFrom": "2025-09-01",
-    "requestedThrough": "2026-10-22",
+    "requestedThrough": "2026-10-23",
     "scope": "已核实官方发布说明、GitHub Releases、官方 RSS 与新闻研究归档；不是全网穷尽清单。",
     "historyAddedBySource": {
       "ChatGPT 官方发布说明": 207,
@@ -43,31 +43,31 @@
       ]
     },
     "sourceCounts": {
-      "Hugging Face 官方博客": 242,
-      "Codex GitHub Releases": 1135,
+      "Codex GitHub Releases": 1139,
+      "Hugging Face 官方博客": 245,
+      "OpenAI 官方新闻": 668,
+      "NVIDIA 官方博客": 336,
+      "Microsoft Research": 13,
+      "Anthropic 官方新闻与研究": 252,
       "ChatGPT 官方发布说明": 208,
-      "NVIDIA 官方博客": 329,
-      "OpenAI 官方新闻": 665,
-      "MiniMax 官方博客": 1,
-      "Anthropic 官方新闻与研究": 250,
+      "MiniMax 官方博客": 2,
       "DeepSeek 官方更新": 11,
       "此前已核实内容": 745,
       "ChatGPT 与 Codex 官方变更日志": 127,
-      "Google DeepMind": 110,
-      "Google AI 官方博客": 20,
+      "Google DeepMind": 111,
+      "Google AI 官方博客": 21,
       "Gemini 官方发布说明": 32,
-      "Microsoft Research": 12,
       "OpenAI 数学仓库": 2,
       "Meta AI 官方博客": 10,
       "Anthropic 官方迁移归档": 2,
       "OpenAI 官方研究": 2
     },
     "excludedNonAINews": 33,
-    "total": 3903,
+    "total": 3926,
     "byMonth": {
       "2026-10": {
-        "news": 145,
-        "codex": 75,
+        "codex": 79,
+        "news": 164,
         "chatgpt": 21,
         "papers": 162
       },
@@ -140,68 +140,142 @@
         "chatgpt": 9
       }
     },
-    "lastCheckedAt": "2026-10-22T08:02:50+08:00",
+    "lastCheckedAt": "2026-10-23T07:59:30+08:00",
     "dailyCheck": {
-      "checkedAt": "2026-10-22T08:02:50+08:00",
-      "addedArticles": 29,
-      "newItemsLast24Hours": 22,
-      "addedHistoricalArticles": 7,
-      "recommendationsAdded": 18,
+      "checkedAt": "2026-10-23T07:59:30+08:00",
+      "addedArticles": 23,
+      "recommendationsAdded": 15,
       "checks": [
         {
           "source": "ChatGPT release notes",
-          "result": "已核查；最新日期仍为10月20日锁定聊天，新增广告扩区依据官方产品公告"
+          "result": "核查；最新日期仍10月20日锁定聊天，无新的已核实客户端更新"
         },
         {
           "source": "ChatGPT Learn changelog",
-          "result": "已核查；非CLI最新日期10月14日，CLI交叉GitHub"
+          "result": "核查当前变更日志；CLI对照GitHub"
         },
         {
           "source": "Codex GitHub",
-          "result": "最新50条核查，新增alpha.9与alpha.11.1；仅版本号，无详细变更说明"
+          "result": "最新50条；新增4个已发布alpha版本，正文未提供详细变更说明"
         },
         {
           "source": "OpenAI math",
-          "result": "719篇索引无变化；SHA 2c68c086fff36a5806c936ad1659cf1a8d0b6dd9"
+          "result": "719篇索引未变化；SHA 2c68c086fff36a5806c936ad1659cf1a8d0b6dd9"
         },
         {
-          "source": "OpenAI research/news",
-          "result": "RSS及9篇新增原文经网页读取核实；直接HTTP403已恢复替代读取"
+          "source": "OpenAI news",
+          "result": "3篇新增原文均通过官方网页恢复读取；Decisions API正式可用，Uber为企业部署案例，Cloudflare为历史补录"
+        },
+        {
+          "source": "DeepMind/Google AI",
+          "result": "重新读取RSS，森林类型研究与东南亚数字经济报告原文核查"
         },
         {
           "source": "Hugging Face/NVIDIA",
-          "result": "官方RSS及全部新增原文核实；预览、上线和未来计划分别标注"
+          "result": "重新读取官方RSS及新增原文，去除无AI内容的常规游戏上架消息"
         },
         {
           "source": "Anthropic",
-          "result": "新闻索引及Stubbs加入长期利益信托原文核查"
-        },
-        {
-          "source": "Google DeepMind/Google AI",
-          "result": "RSS重读，无新未归档条目"
-        },
-        {
-          "source": "Gemini/DeepSeek",
-          "result": "更新页面重读，最新有日期条目未变化"
+          "result": "新闻索引与Agent Skills捐赠、生命科学客座研究员招募原文核查"
         },
         {
           "source": "Microsoft/Meta",
-          "result": "Research索引出现KLS报道，交叉原论文、独立证明及Lean仓库；Meta索引无新条目"
+          "result": "Research新Flint-interactive文章已核查；Meta当前索引未发现新条目，分页非穷尽"
         },
         {
-          "source": "MiniMax/Qwen/国内厂商",
-          "result": "MiniMax当前索引及Qwen页面重读，国内厂商仍部分覆盖，不声称穷尽"
+          "source": "MiniMax/Qwen/DeepSeek/Gemini",
+          "result": "MiniMax Mini App原文核查；其余当前官方页重读，完整国内厂商历史仍非穷尽"
         }
       ],
       "partialSources": [],
       "limitations": [
-        "Microsoft企业AI RSS直接HTTP403；Research索引通过网页读取核查，完整历史仍未穷尽。",
-        "部分中文厂商自有完整归档与Meta分页历史仍未穷尽，沿用公开历史覆盖说明。"
-      ],
-      "previousUncertainty": "10月21日NVIDIA巴塞罗那条目日期冲突仍保留原注释；本次未改写历史发布时间或恢复推荐。"
+        "微软企业AI RSS直接HTTP403；已核查Research官方索引和新增原文，企业全部文章仍非穷尽。",
+        "部分中文厂商自有归档与Meta分页历史仍未穷尽；未知发布时间不补写为今天。"
+      ]
     }
   },
   "articles": [
+    {
+      "id": "bc3bc4febae53193",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "summary": "微软团队在 Hugging Face 发布的博客介绍 ThinkingBox：它让智能体在真实后端上操作，再比对最终数据库状态与预期结果，给出可执行的成功或失败判定。",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "date": "2026-10-23",
+      "source": "Hugging Face 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "publishedAt": "2026-10-22T22:24:34+00:00",
+      "recommendedOn": "2026-10-23",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "titleZh": "把数据库评分变成强化学习奖励：用 ThinkingBox 后训练智能体",
+      "details": {
+        "overview": "微软团队在 Hugging Face 发布的博客介绍 ThinkingBox：它让智能体在真实后端上操作，再比对最终数据库状态与预期结果，给出可执行的成功或失败判定。作者把这种判定直接当作强化学习奖励，在 ThinkingBox-Bench 之外的训练任务上对 Qwen3.8-27B 做 50 步 GRPO 微调。作者声称，平均成功率从 51.70% 升至 60.78%，20 次尝试全部正确的任务数从 38 增至 107；同时至少成功一次的任务数略有下降。作者将这一变化解释为模型变得更可重复，而非覆盖面更广。",
+        "keyPoints": [
+          "ThinkingBox 以终端数据库状态的可执行检查替代工具调用比对，判定结果可直接作为奖励信号。",
+          "作者用离线策略相对难度筛选训练任务，只保留成功概率居中的任务，以产生 GRPO 可学习的组内对比。",
+          "在 507 项基准上，微调后 20/20 全对任务由 38 增至 107，pass@1 升 9.08 个百分点，pass@20 减少 7 项。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "8e50c578669622be",
+      "section": "news",
+      "category": "模型动态",
+      "title": "Build more responsive apps with the Decisions API",
+      "summary": "OpenAI 宣布 Decisions API 正式可用，该接口基于 GPT-6 Luna，面向应用和智能体工作流中大量“小决策”场景，例如输入分类、请求路由和下一步动作选择。",
+      "url": "https://openai.com/index/decisions-api",
+      "date": "2026-10-23",
+      "source": "OpenAI 官方新闻",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "publishedAt": "2026-10-22T19:00:00+00:00",
+      "recommendedOn": "2026-10-23",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "Build more responsive apps with the Decisions API",
+      "titleZh": "用 Decisions API 构建响应更快的应用",
+      "details": {
+        "overview": "OpenAI 宣布 Decisions API 正式可用，该接口基于 GPT-6 Luna，面向应用和智能体工作流中大量“小决策”场景，例如输入分类、请求路由和下一步动作选择。官方称其针对有界答案问题，可从文本、图像和结构化输入中做出近实时判断，速度最高为经 Responses API 调用 GPT-6 Luna 的 10 倍。相比公测，新增 GPT-Live 原生集成、提示缓存、美欧推理驻留，并支持原生 JSON 输入、图像指令及单次最多 400 个问题。",
+        "keyPoints": [
+          "基于 GPT-6 Luna，官方称决策速度最高为经 Responses API 调用的 10 倍。",
+          "支持概率、选项和评分三类答案，可处理文本、图像与原生 JSON 输入。",
+          "新增 GPT-Live 原生集成、提示缓存及美欧推理驻留，单次最多 400 问。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "546e4e7fb6d62ee5",
+      "section": "news",
+      "category": "模型动态",
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "summary": "Ai2发布OlmoEarth v1.3卫星嵌入模型，可读取一年期Sentinel-1雷达与Sentinel-2、Landsat多光谱时序数据，为全球每10米像素生成128维向量，前64维亦可单独使用。",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "date": "2026-10-23",
+      "source": "Hugging Face 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "publishedAt": "2026-10-22T16:11:31+00:00",
+      "recommendedOn": "2026-10-23",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "titleZh": "OlmoEarth v1.3：面向全球的高水平卫星嵌入模型",
+      "details": {
+        "overview": "Ai2发布OlmoEarth v1.3卫星嵌入模型，可读取一年期Sentinel-1雷达与Sentinel-2、Landsat多光谱时序数据，为全球每10米像素生成128维向量，前64维亦可单独使用。官方同时公开全球预计算年度嵌入及浏览器工具Embeddings Explorer，无需登录即可探索、比较年份变化并训练小型分类器。作者称在27项评测中128维版本于20项得分最高，并称训练算力与碳排放低于前代；模型权重、预训练数据和代码均开放。",
+        "keyPoints": [
+          "为全球每10米像素生成128维嵌入，前64维可作轻量版本单独使用",
+          "作者称27项评测中128维版本20项最高，64维版本18项最高",
+          "公开预计算全球嵌入与浏览器探索工具，无需登录或GPU"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
     {
       "id": "f98169d420b7518b",
       "section": "codex",
@@ -252,6 +326,109 @@
       }
     },
     {
+      "id": "cd402058eb332608",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
+      "summary": "NVIDIA官方博客介绍，欧洲多家机构正基于Earth-2开放AI模型与工具开展天气和气候应用。",
+      "url": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
+      "date": "2026-10-22",
+      "source": "NVIDIA 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "publishedAt": "2026-10-22T05:00:19+00:00",
+      "recommendedOn": "2026-10-23",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
+      "titleZh": "欧洲多家机构部署NVIDIA Earth-2开放模型，推动真实天气与气候预测",
+      "details": {
+        "overview": "NVIDIA官方博客介绍，欧洲多家机构正基于Earth-2开放AI模型与工具开展天气和气候应用。新加入的StormScope EU面向欧洲短期预报，利用EUMETSAT卫星观测预测16个Meteosat通道的云况，间隔10分钟；GTC Berlin展示与Earthmover合作的实时演示。AXA、Vaisala Xweather、曼彻斯特大学、TotalEnergies和Space42分别将FourCastNet 3、StormScope、CorrDiff等用于气旋风险、闪电短临预报、空气质量、光伏辐照和雷达测高探索。",
+        "keyPoints": [
+          "StormScope EU基于欧洲天气气候数据训练，用EUMETSAT卫星观测预测16通道云况，每10分钟更新。",
+          "GTC Berlin展示与Earthmover合作的实时预报演示，用Earth2Studio运行并以地图瓦片呈现结果。",
+          "AXA用FourCastNet 3模拟逾1000个季节研究区域气旋风险；曼彻斯特大学用CorrDiff做英国空气质量建模。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "c433702a2090d3e8",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.164.0-alpha.10 测试版发布",
+      "titleZh": "Codex CLI 0.164.0-alpha.10 测试版发布",
+      "summary": "Codex 官方 GitHub 发布了 0.164.0-alpha.10 alpha 测试版本。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.10",
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T00:04:24Z",
+      "source": "Codex GitHub Releases",
+      "releaseChannel": "prerelease",
+      "status": "已发布alpha测试版；官方未提供详细变更说明。",
+      "details": {
+        "overview": "Codex 官方 GitHub 发布了 0.164.0-alpha.10 alpha 测试版本。该版本已经发布，属于功能更新记录；官方正文只有版本号，没有逐项说明新增功能、修复或兼容性变化。本条不据此推测功能差异，也不将测试版误归入未来预告。",
+        "keyPoints": [
+          "这是已发布的 alpha 版本，并非稳定版或尚未发布的计划。",
+          "官方正文没有详细变更说明，具体差异应继续关注发布记录。"
+        ]
+      },
+      "recommended": false
+    },
+    {
+      "id": "c361429efdea4720",
+      "section": "news",
+      "category": "模型动态",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "summary": "IBM Research 发布 Granite Timeseries Ensemble，将四个预训练 Granite 时间序列模型（PatchTST-FM-r1、PatchTST-FM-r2、FlowState-r1.1、TTM-r3）组合为一个可扩展的预测接口，无需重新训练或拟合集成权重。",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "date": "2026-10-22",
+      "source": "Hugging Face 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "publishedAt": "2026-10-22T07:51:31+00:00",
+      "recommendedOn": "2026-10-23",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "Ensemble forecasting with IBM Granite time-series models",
+      "titleZh": "使用 IBM Granite 时间序列模型进行集成预测",
+      "details": {
+        "overview": "IBM Research 发布 Granite Timeseries Ensemble，将四个预训练 Granite 时间序列模型（PatchTST-FM-r1、PatchTST-FM-r2、FlowState-r1.1、TTM-r3）组合为一个可扩展的预测接口，无需重新训练或拟合集成权重。默认的 Probabilistic Ensemble 采用均匀概率池化，另提供按预测区间宽度加权的 IQR Ensemble。作者在 97 个 GIFT-Eval 配置上比较，称两种集成在平均 MASE 与平均排名上优于四个成员模型，但相对最佳单模型的 MASE 优势较小，主要价值在于无需预先挑选架构即可获得较稳定的结果。",
+        "keyPoints": [
+          "默认配方组合四种架构，返回中位数与分位数预测，无需重训或拟合权重。",
+          "Probabilistic Ensemble 等权池化；IQR Ensemble 按成员预测区间宽度自适应加权。",
+          "作者称在 GIFT-Eval 上两种集成平均 MASE 优于四个成员，但领先幅度较小。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "9ea82187a8ba44b9",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+      "summary": "该新闻汇总了在GTC Berlin上多家欧洲银行、支付公司与金融数据商的展示：它们基于NVIDIA加速计算、开放权重模型和自有基础设施构建生产级智能。",
+      "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+      "date": "2026-10-22",
+      "source": "NVIDIA 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "publishedAt": "2026-10-22T05:00:56+00:00",
+      "recommendedOn": "2026-10-23",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+      "titleZh": "欧洲领先金融服务机构采用开放模型构建专有智能",
+      "details": {
+        "overview": "该新闻汇总了在GTC Berlin上多家欧洲银行、支付公司与金融数据商的展示：它们基于NVIDIA加速计算、开放权重模型和自有基础设施构建生产级智能。Revolut以单一基础模型PRAGMA重建技术栈，初期服务8000万客户；Starling Bank在英国主权云上训练代理模型；Lloyds构建交易基础模型ATUM；bunq、NatWest、Modulr、Santander等也采用开放模型。新闻还提到LSEG、RavenPack、HSBC、Stripe在金融研究与欺诈检测上的加速效果。",
+        "keyPoints": [
+          "Revolut基于NVIDIA加速计算以PRAGMA重建技术栈，初期服务8000万客户并设计可扩展3倍。",
+          "Starling Bank称其为首家在英国主权云上训练代理模型的银行，使用自有交易数据。",
+          "bunq称其代理助手Finn采用开放权重模型，每次回答成本为领先闭源模型的60%。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
       "id": "8c4162b77ea9ab35",
       "section": "news",
       "category": "行业新闻",
@@ -277,6 +454,134 @@
         ],
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       }
+    },
+    {
+      "id": "8347bc58bbbad9e7",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+      "summary": "NVIDIA发布AIOps平台Minerva，面向大规模AI工厂运维。",
+      "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+      "date": "2026-10-22",
+      "source": "NVIDIA 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "publishedAt": "2026-10-22T15:00:02+00:00",
+      "recommendedOn": "2026-10-23",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+      "titleZh": "NVIDIA推出Minerva，为AI工厂带来端到端可观测性",
+      "details": {
+        "overview": "NVIDIA发布AIOps平台Minerva，面向大规模AI工厂运维。该平台汇聚GPU、网络、存储、调度器与AI工作负载的遥测数据，构建动态知识图谱，并用监督与无监督机器学习分析每小时数十亿数据点，识别异常、预测故障并关联事件，将大量告警归并为带可能根因的单一事件。平台还提供基于实时遥测的AI助手，可连接外部智能体工具。NVIDIA称其有助于延长无中断运行时间、加快修复并提升洞察，IREN等合作伙伴计划部署。",
+        "keyPoints": [
+          "平台整合基础设施与AI工作负载遥测，构建动态知识图谱映射GPU、网络与作业。",
+          "用监督与无监督学习分析每小时数十亿数据点，检测异常、预测故障并归并告警。",
+          "内置AI助手并支持连接外部智能体工具，IREN等合作伙伴计划部署。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "7ac240e0f3c2c648",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "summary": "该文宣布将 Agent Skills 这一开放标准捐赠给 Linux 基金会下的 Agentic AI Foundation（AAIF）。",
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "date": "2026-10-22",
+      "source": "Anthropic 官方新闻与研究",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "publishedAt": "2026-10-22T00:00:00+00:00",
+      "recommendedOn": "2026-10-23",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "Donating Agent Skills to the Agentic AI Foundation",
+      "titleZh": "将 Agent Skills 捐赠给 Agentic AI Foundation",
+      "details": {
+        "overview": "该文宣布将 Agent Skills 这一开放标准捐赠给 Linux 基金会下的 Agentic AI Foundation（AAIF）。Agent Skills 以包含 SKILL.md 的文件夹形式，为 AI 代理提供特定任务或领域的流程知识；自 2025 年 12 月发布标准以来，已有 70 多个代理平台接入。此次捐赠包括名称、标识、GitHub 组织及 agentskills.io 域名，由多家公司工程师以个人身份维护，并计划推进版本化发布、正式提案流程与安全指引。",
+        "keyPoints": [
+          "Agent Skills 以含 SKILL.md 的文件夹向代理传授特定任务或领域知识。",
+          "自 2025 年 12 月发布标准以来，已有 70 多个代理平台接入。",
+          "捐赠范围含名称、标识、GitHub 组织与 agentskills.io 域名。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "75a5de3a9998e004",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Introducing MiniMax Code Mini App",
+      "summary": "MiniMax 官方发布 MiniMax Code 桌面端的 Mini App 功能。",
+      "url": "https://www.minimax.io/blog/minimax-code-mini-app-1792650729",
+      "date": "2026-10-22",
+      "source": "MiniMax 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": false,
+      "publicationTimeNote": "发布时间未详，保留官方原始日期。",
+      "titleEn": "Introducing MiniMax Code Mini App",
+      "titleZh": "MiniMax Code 推出 Mini App",
+      "details": {
+        "overview": "MiniMax 官方发布 MiniMax Code 桌面端的 Mini App 功能。据原文，Mini App 是带前端与后端的长期运行应用，以插件形式安装，可与 Agent 互相调用，并把 Agent 的工作保留在持续存活的页面上，而非散落在多个对话中。发布包含运行时、/miniapp-creator 生成工具、插件市场官方应用及开源社区仓库三部分。原文称凭据由宿主保管、连接器与权限须在清单中声明，并提醒代码以用户身份在本机运行，仅安装可信来源。",
+        "keyPoints": [
+          "Mini App 为带前端与后端的长期运行应用，以插件形式安装，可与 Agent 互相调用。",
+          "发布含运行时、/miniapp-creator 生成工具、官方应用与开源社区仓库三部分。",
+          "原文称凭据由宿主保管，连接器与 Agent 权限须在清单中声明后方可使用。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "6e957fe37f76ff3b",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+      "summary": "该文为 NVIDIA 官方发布，介绍欧洲零售商借助开放模型与物理智能推进零售场景。",
+      "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+      "date": "2026-10-22",
+      "source": "NVIDIA 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "publishedAt": "2026-10-22T05:00:23+00:00",
+      "recommendedOn": "2026-10-23",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+      "titleZh": "NVIDIA 重塑欧洲零售：从数字发现到实体运营",
+      "details": {
+        "overview": "该文为 NVIDIA 官方发布，介绍欧洲零售商借助开放模型与物理智能推进零售场景。文中列举 Shopify 后训练 Nemotron 3.5 Lightning 用于 Sidekick 子代理、Zooplus 商品发现原型、Photoroom 图像标准化、Omi 与欧莱雅的数字孪生及分子模拟，以及 Otto Group 仓储仿真、ALLSIDES 数字孪生工厂等。作者声称这些案例在成本、速度或转化上取得改善，并展示面向零售的蓝图。相关测试与预览不等同于全面上线。",
+        "keyPoints": [
+          "Shopify 称后训练模型在内部基准上准确率超过前沿模型，服务成本降九成、响应快七倍。",
+          "Zooplus 在 AWS 环境部署原型，称语义检索达到 86% 搜索准确率。",
+          "Otto Group 在仿真中设计并测试仓库运营，再推进实体实施。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "6e68a1e659d8fe3d",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.164.0-alpha.12 测试版发布",
+      "titleZh": "Codex CLI 0.164.0-alpha.12 测试版发布",
+      "summary": "Codex 官方 GitHub 发布了 0.164.0-alpha.12 alpha 测试版本。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.12",
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T11:11:51Z",
+      "source": "Codex GitHub Releases",
+      "releaseChannel": "prerelease",
+      "status": "已发布alpha测试版；官方未提供详细变更说明。",
+      "details": {
+        "overview": "Codex 官方 GitHub 发布了 0.164.0-alpha.12 alpha 测试版本。该版本已经发布，属于功能更新记录；官方正文只有版本号，没有逐项说明新增功能、修复或兼容性变化。本条不据此推测功能差异，也不将测试版误归入未来预告。",
+        "keyPoints": [
+          "这是已发布的 alpha 版本，并非稳定版或尚未发布的计划。",
+          "官方正文没有详细变更说明，具体差异应继续关注发布记录。"
+        ]
+      },
+      "recommended": false
     },
     {
       "id": "65eb6a82c6d1ba10",
@@ -333,6 +638,53 @@
       }
     },
     {
+      "id": "6043b783b580d3f8",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.164.0-alpha.11 测试版发布",
+      "titleZh": "Codex CLI 0.164.0-alpha.11 测试版发布",
+      "summary": "Codex 官方 GitHub 发布了 0.164.0-alpha.11 alpha 测试版本。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.11",
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T04:22:12Z",
+      "source": "Codex GitHub Releases",
+      "releaseChannel": "prerelease",
+      "status": "已发布alpha测试版；官方未提供详细变更说明。",
+      "details": {
+        "overview": "Codex 官方 GitHub 发布了 0.164.0-alpha.11 alpha 测试版本。该版本已经发布，属于功能更新记录；官方正文只有版本号，没有逐项说明新增功能、修复或兼容性变化。本条不据此推测功能差异，也不将测试版误归入未来预告。",
+        "keyPoints": [
+          "这是已发布的 alpha 版本，并非稳定版或尚未发布的计划。",
+          "官方正文没有详细变更说明，具体差异应继续关注发布记录。"
+        ]
+      },
+      "recommended": false
+    },
+    {
+      "id": "5ca30e2df00d5cba",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Flint-interactive: A language for creating interactive data visualizations",
+      "summary": "微软研究院发布 Flint-interactive，一种构建在 Flint 之上的交互式数据可视化语言，目标是让 AI 智能体生成可点击、筛选、缩放、高亮并支持跨图表联动的图表。",
+      "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+      "date": "2026-10-22",
+      "source": "Microsoft Research",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": false,
+      "publicationTimeNote": "发布时间未详，保留官方原始日期。",
+      "titleEn": "Flint-interactive: A language for creating interactive data visualizations",
+      "titleZh": "Flint-interactive：一种创建交互式数据可视化的语言",
+      "details": {
+        "overview": "微软研究院发布 Flint-interactive，一种构建在 Flint 之上的交互式数据可视化语言，目标是让 AI 智能体生成可点击、筛选、缩放、高亮并支持跨图表联动的图表。作者指出，当前即使前沿模型也难以一次生成令人满意的交互图表，存在生成成本高、布局与交互易出错等问题，根源在于缺少兼具表达力与高层抽象的交互描述语言。Flint-interactive 借助 Flint 编译器把点击、拖拽等原始触发解析为语义事件，再由高层更新算子驱动画布变化，从而把视觉依赖处理交给编译器。",
+        "keyPoints": [
+          "将点击、拖拽等原始触发解析为标识图表元素与数据的语义事件",
+          "用户以高层算子描述交互逻辑，编译器负责命中测试与底层视觉更新",
+          "支持图表与表格、文本、控件及应用状态之间的联动"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
       "id": "561e3b00981e70df",
       "section": "news",
       "category": "模型动态",
@@ -355,6 +707,191 @@
           "模型直接作用于数据库的表、外键和时间戳，通过上下文学习适配新任务，推理时最多读取1万个历史样本。",
           "官方称在15个数据库41项任务上优于监督式关系深度学习和专家特征工程梯度提升树，SAP SALT 上 MRR 比 AutoGluon 高8%。",
           "预训练使用合成关系型数据，模型权重以 OpenMDW 1.1 许可发布，代码采用 Apache 2.0 许可。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "4a3f4baad1f67a65",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "summary": "OpenAI官方发布消息称，Uber宣布在公司范围内推广ChatGPT Work，这是一款在ChatGPT Enterprise内帮助员工处理多种任务的智能体。",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "date": "2026-10-22",
+      "source": "OpenAI 官方新闻",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "publishedAt": "2026-10-22T00:00:00+00:00",
+      "recommendedOn": "2026-10-23",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "titleZh": "Uber携手OpenAI向全体员工部署ChatGPT Work",
+      "details": {
+        "overview": "OpenAI官方发布消息称，Uber宣布在公司范围内推广ChatGPT Work，这是一款在ChatGPT Enterprise内帮助员工处理多种任务的智能体。此次推广覆盖Uber全球超过3万名员工，从此前1000名员工的试点扩展而来，成为Uber首个面向知识工作的全公司级智能体平台部署。该智能体可连接Google Drive、Gmail、Google日历和Slack等日常工具，用于调研信息、准备会议简报、制作演示、分析数据和完成跨应用工作流。Uber还将获得OpenAI前沿模型组合，其中GPT-6.1 Sol将作为默认能力部署。",
+        "keyPoints": [
+          "推广覆盖Uber全球逾3万名员工，由此前1000人试点扩展至全公司。",
+          "ChatGPT Work可连接Google Drive、Gmail、日历和Slack，支持跨应用完成工作流。",
+          "GPT-6.1 Sol将作为ChatGPT Work默认能力部署，兼顾前沿性能与成本效率。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "3c569641c83b33cf",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
+      "summary": "NVIDIA 官方博客介绍，欧洲多国政府与 NVIDIA 合作伙伴正利用开放模型建设公共部门应用，强调模型可评估、适配本地语言、在自有基础设施上运行并保留敏感数据。",
+      "url": "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
+      "date": "2026-10-22",
+      "source": "NVIDIA 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "publishedAt": "2026-10-22T05:00:02+00:00",
+      "recommendedOn": "2026-10-23",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
+      "titleZh": "NVIDIA 开放模型推动欧洲公共部门新一轮项目",
+      "details": {
+        "overview": "NVIDIA 官方博客介绍，欧洲多国政府与 NVIDIA 合作伙伴正利用开放模型建设公共部门应用，强调模型可评估、适配本地语言、在自有基础设施上运行并保留敏感数据。文中列举欧盟委员会 AI@EC 平台扩展、波兰医疗影像与就业服务智能体、英国与德国合成人口数据集、法国主权协作工作区、希腊智能体生态及 NVIDIA 开放模型 Codefest 等案例。稿件属于厂商发布，所述项目多为计划或建设中，测试与预览不等于已全面上线。",
+        "keyPoints": [
+          "欧盟委员会 AI@EC 平台扩展，整合智能体开发、执行、优化与治理能力",
+          "波兰用开放模型建设医疗影像与就业服务智能体，德国推出本地部署数字助手平台",
+          "英德发布合成人口数据集，用于测试公共服务模型在不同群体间的一致性"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "1dd3454bfee47f4a",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "summary": "Google DeepMind与Google Research联合世界资源研究所（WRI）和国际应用系统分析研究所（IIASA）发布Forest Typology（ForTy）2020全球地图，将地球每10米×10米地块归入六类森林与土地利用类型，并附2017至2025年逐年变化时间序列。",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "date": "2026-10-22",
+      "source": "Google DeepMind",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "publishedAt": "2026-10-22T14:30:24+00:00",
+      "recommendedOn": "2026-10-23",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "Beyond tree cover: mapping the world’s forest types",
+      "titleZh": "超越树冠覆盖：绘制全球森林类型地图",
+      "details": {
+        "overview": "Google DeepMind与Google Research联合世界资源研究所（WRI）和国际应用系统分析研究所（IIASA）发布Forest Typology（ForTy）2020全球地图，将地球每10米×10米地块归入六类森林与土地利用类型，并附2017至2025年逐年变化时间序列。作者称该图可区分原始林、自然再生林、人工林、种植园、树作物与农林业及其他土地，用于识别自然林被转为种植园或农田的情况，并作为欧盟无毁林法规的基线。",
+        "keyPoints": [
+          "ForTy按FAO定义将地表分为原始林、自然再生林、人工林、种植园、树作物与农林业、其他土地六类。",
+          "模型以约170万个标注地点训练，并引入AlphaEarth Foundations嵌入作为关键输入。",
+          "作者称在9000多个随机验证点上森林类型判对率约90%，森林与非森林区分率约95%。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "16733c0c3810bb3b",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+      "summary": "NVIDIA 宣布扩展 Cosmos 平台，新增训练工具、仿真检查点和 Cosmos Data Factory 蓝图，帮助开发者构建用于物理 AI 的世界模型。",
+      "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+      "date": "2026-10-22",
+      "source": "NVIDIA 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "publishedAt": "2026-10-22T05:00:27+00:00",
+      "recommendedOn": "2026-10-23",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+      "titleZh": "NVIDIA Cosmos 推出新工具，用于训练、评估和部署世界模型",
+      "details": {
+        "overview": "NVIDIA 宣布扩展 Cosmos 平台，新增训练工具、仿真检查点和 Cosmos Data Factory 蓝图，帮助开发者构建用于物理 AI 的世界模型。官方称该平台在六个开放模型排行榜上进入前五。新工具覆盖数据整理与合成、模型微调与强化学习、蒸馏量化优化以及 NIM 微服务部署，并给出保时捷、ANYbotics、Ultralytics、ADNOC 等使用案例。相关性能与效率数字均为厂商自述，本次整理未额外核验独立复现情况。",
+        "keyPoints": [
+          "Cosmos Data Factory 新增五个云原生蓝图，覆盖自动驾驶数据、图像属性增强、事件视频、缺陷图像和视频数据增强。",
+          "Cosmos Framework 将训练、优化与部署工具扩展为智能体技能，支持 GR00T、QWEN、Pi0.5 等开放模型。",
+          "新版 Cosmos 3 NIM 微服务在已验证配置下推理速度最高提升 2 倍，且官方称质量无损。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "118a92e4f2495406",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Open call for guest investigators in the life sciences",
+      "summary": "Anthropic发布公告，面向学术机构、非营利组织和政府实验室的首席研究员及其团队公开招募客座研究员，申请者需提交使用Claude研究因果人类生物学、结构与计算分子生物学、药物化学、药物发现和临床科学等问题的项目提案。",
+      "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+      "date": "2026-10-22",
+      "source": "Anthropic 官方新闻与研究",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "publishedAt": "2026-10-22T00:00:00+00:00",
+      "recommendedOn": "2026-10-23",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "Open call for guest investigators in the life sciences",
+      "titleZh": "生命科学领域客座研究员公开招募",
+      "details": {
+        "overview": "Anthropic发布公告，面向学术机构、非营利组织和政府实验室的首席研究员及其团队公开招募客座研究员，申请者需提交使用Claude研究因果人类生物学、结构与计算分子生物学、药物化学、药物发现和临床科学等问题的项目提案。入选者将在8至12周内与Anthropic研究人员直接合作，由公司免费运行模型和工具，共同发布成果并开源数据与代码，研究者保留数据权利。申请期约14天，入选通知约在截止后14天发出。",
+        "keyPoints": [
+          "招募对象为学术机构、非营利组织或政府实验室的首席研究员及其研究团队。",
+          "合作期8至12周，Anthropic免费提供模型与工具，成果共同发表并开源数据代码。",
+          "申请材料仅限公开信息，申请期约14天，截止后约14天通知结果。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "0bb8013448c34f89",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.163.0-alpha.11.2 测试版发布",
+      "titleZh": "Codex CLI 0.163.0-alpha.11.2 测试版发布",
+      "summary": "Codex 官方 GitHub 发布了 0.163.0-alpha.11.2 alpha 测试版本。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0-alpha.11.2",
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T06:41:14Z",
+      "source": "Codex GitHub Releases",
+      "releaseChannel": "prerelease",
+      "status": "已发布alpha测试版；官方未提供详细变更说明。",
+      "details": {
+        "overview": "Codex 官方 GitHub 发布了 0.163.0-alpha.11.2 alpha 测试版本。该版本已经发布，属于功能更新记录；官方正文只有版本号，没有逐项说明新增功能、修复或兼容性变化。本条不据此推测功能差异，也不将测试版误归入未来预告。",
+        "keyPoints": [
+          "这是已发布的 alpha 版本，并非稳定版或尚未发布的计划。",
+          "官方正文没有详细变更说明，具体差异应继续关注发布记录。"
+        ]
+      },
+      "recommended": false
+    },
+    {
+      "id": "028d98cb692f1cd5",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
+      "summary": "这篇英伟达官方博客介绍，多家企业正采用NVIDIA DSX AI工厂平台，把电网、变电站与AI工厂作为一个系统来规划、仿真和运行，以应对电力成为基础设施最大瓶颈的问题。",
+      "url": "https://blogs.nvidia.com/blog/dsx-power/",
+      "date": "2026-10-22",
+      "source": "NVIDIA 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "publishedAt": "2026-10-22T05:00:25+00:00",
+      "recommendedOn": "2026-10-23",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
+      "titleZh": "企业如何借助NVIDIA DSX突破电力瓶颈",
+      "details": {
+        "overview": "这篇英伟达官方博客介绍，多家企业正采用NVIDIA DSX AI工厂平台，把电网、变电站与AI工厂作为一个系统来规划、仿真和运行，以应对电力成为基础设施最大瓶颈的问题。原文称，超过3000亿美元设备积压，美国并网队列中逾200吉瓦项目等待接入，根源之一是电网、设施与算力长期各自独立设计。GE Vernova、日立能源、施耐德电气、西门子能源等被列为合作方，分别涉及参考架构、储能认证、数字孪生与电网感知设计。",
+        "keyPoints": [
+          "DSX Sim与SimReady资产支持在动工前联合仿真电网、变电站与AI工厂的供电和冷却。",
+          "DSX Flex将AI工厂负载与电网状况及现场发电同步，使其成为可灵活调节的电网资产。",
+          "Phaidra称在相同功率包络内提升约10%算力；Emerald AI称其方案建模可释放至多100吉瓦。",
+          "施耐德电气、日立能源、西门子能源等提供参考架构、储能认证与电网感知设计。"
         ],
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       }
@@ -582,6 +1119,31 @@
       "recommendationReason": "滚动24小时内发布的官方消息。"
     },
     {
+      "id": "b701bf2b669aeeca",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "summary": "OpenAI 官方发布客户案例，介绍 Cloudflare 如何把通过 Daybreak 访问的 OpenAI 模型接入其漏洞发现与修复早期访问服务：模型调查客户授权代码、评估潜在漏洞并核查证据，Cloudflare 再叠加实时流量与安全信号，对发现排序并准备补丁和自定义 WAF 规则供客户审核。",
+      "url": "https://openai.com/index/cloudflare-cyber",
+      "date": "2026-10-21",
+      "source": "OpenAI 官方新闻",
+      "status": "客户案例；漏洞发现与修复为早期访问服务，客户审核建议的缓解措施。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": false,
+      "publishedAt": "2026-10-21T00:00:00+00:00",
+      "titleEn": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "titleZh": "Cloudflare 借助 OpenAI 将漏洞发现与防御联动",
+      "details": {
+        "overview": "OpenAI 官方发布客户案例，介绍 Cloudflare 如何把通过 Daybreak 访问的 OpenAI 模型接入其漏洞发现与修复早期访问服务：模型调查客户授权代码、评估潜在漏洞并核查证据，Cloudflare 再叠加实时流量与安全信号，对发现排序并准备补丁和自定义 WAF 规则供客户审核。文中还称 Codex 被 Cloudflare 约三分之一为开发者的员工使用，一支四人团队三天重建某产品、token 花费 1100 美元。",
+        "keyPoints": [
+          "Cloudflare 用 Daybreak 访问的 OpenAI 模型调查代码、评估漏洞并核查证据。",
+          "服务结合实时流量与安全信号排序发现，提出补丁和 WAF 规则供客户审核。",
+          "案例称一支四人团队借助Codex三天完成某产品重建，属于特定团队自述。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
       "id": "a82f01318910676a",
       "section": "codex",
       "category": "功能预告",
@@ -786,6 +1348,31 @@
           "FOX蓝图在GitHub开放早期访问，用于构建工厂管理及视觉检测等专项智能体。",
           "西门子将FOX构建的智能体集成至Intelligence Center X，稿件称预计节省成本20%。",
           "cuDSS正式发布，用于加速结构应力、流体、电磁场等工程仿真计算。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "5bc3956ef3f20e99",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "summary": "谷歌、淡马锡与贝恩公司发布第11版《e-Conomy SEA》报告，称东南亚数字经济2026年商品交易总额将同比增长17%至3680亿美元，并有望在2035年突破1万亿美元。",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "date": "2026-10-21",
+      "source": "Google AI 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": false,
+      "publishedAt": "2026-10-21T04:00:00+00:00",
+      "titleEn": "Southeast Asia’s digital economy to hit $368 billion",
+      "titleZh": "东南亚数字经济规模将达3680亿美元",
+      "details": {
+        "overview": "谷歌、淡马锡与贝恩公司发布第11版《e-Conomy SEA》报告，称东南亚数字经济2026年商品交易总额将同比增长17%至3680亿美元，并有望在2035年突破1万亿美元。报告称生成式AI已被2.43亿东南亚人日常使用，增速为移动互联网的四倍，并预计未来五年区域AI使用量增长约60倍。报告还提出数据中心扩容、能效规则与区域数字贸易协定等配套条件。",
+        "keyPoints": [
+          "报告预计2026年东南亚数字经济GMV达3680亿美元，同比增长17%，2035年有望超1万亿美元。",
+          "生成式AI被2.43亿人使用，增速为移动互联网四倍，报告预计五年内区域AI使用量增约60倍。",
+          "报告称75%用户愿让AI代理比价并完成交易，并提出数据中心容量约需扩至三倍。"
         ],
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       }
