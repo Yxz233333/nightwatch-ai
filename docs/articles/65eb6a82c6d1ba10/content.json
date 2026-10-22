@@ -1,0 +1,28 @@
+{
+  "id": "65eb6a82c6d1ba10",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Broad access through consistent standards",
+  "summary": "OpenAI 说明其正在与模型托管及转售伙伴统一安全标准，并宣布更新后的使用政策将于2026年11月20日生效。",
+  "url": "https://openai.com/index/broad-access-through-consistent-standards",
+  "date": "2026-10-22",
+  "publishedAt": "2026-10-21T21:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "status": "官方公布的政策与安全实施安排；更新使用政策的生效日为2026年11月20日。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "recommendedOn": "2026-10-22",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "Broad access through consistent standards",
+  "titleZh": "OpenAI 将统一服务安全标准，使用政策拟于11月20日生效",
+  "details": {
+    "overview": "OpenAI 说明其正在与模型托管及转售伙伴统一安全标准，并宣布更新后的使用政策将于2026年11月20日生效。新政策要求直接提供模型访问的路由器、AI网关等服务事先接受审查与批准。文中还介绍利用 SafetyIDs 区分终端用户的工作；这些是政策及实施安排，不应当作已经生效的全部限制。",
+    "keyPoints": [
+      "更新后的使用政策明确计划于2026年11月20日生效。",
+      "模型托管与转售伙伴需维持相应安全措施，并协调处理违规。",
+      "直接提供模型访问的模型路由与AI网关需按新政策完成审查批准。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

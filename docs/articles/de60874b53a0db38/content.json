@@ -1,0 +1,40 @@
+{
+  "id": "de60874b53a0db38",
+  "section": "news",
+  "category": "模型动态",
+  "title": "微软研究院报告人类主导 AI 协作证明 KLS 猜想",
+  "titleZh": "微软研究院报告人类主导 AI 协作证明 KLS 猜想",
+  "summary": "微软研究院报道研究者结合数学创新与人类主导的 AI 搜索，得到与维数无关的 KLS 常数界。",
+  "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+  "date": "2026-10-21",
+  "publicationTimeNote": "官方报道只有日期，未提供确切小时；论文证明版本早于本次报道。",
+  "source": "Microsoft Research",
+  "status": "研究及预印本报道；独立证明与Lean形式化为原文所述，本次未执行完整证明核验，不等同于已确认同行评审。",
+  "breakthrough": true,
+  "breakthroughField": "AI辅助数学研究",
+  "recommended": false,
+  "details": {
+    "overview": "微软研究院报道研究者结合数学创新与人类主导的 AI 搜索，得到与维数无关的 KLS 常数界。AI 辅助探索候选方法和推导，研究者决定方向并组织最终证明。原文报告独立证明与 Lean 形式化，本次已核查论文和相关仓库的公开入口，但未复核完整证明；10月21日是报道日期，完整证明版本早在10月上旬公布。",
+    "keyPoints": [
+      "结果涉及高维对数凹分布的等周性质，对采样和随机算法理论有意义。",
+      "研究者筛选并引导约百条研究轨迹，不能表述为AI单次独立解题。",
+      "作者简化证明及进一步形式化仍有后续工作，预印本不自动等同于同行评审。"
+    ],
+    "editorialNote": "来源为微软官方研究报道，并交叉查看所链接的arXiv论文及Lean仓库；不是本网站对数学证明正确性的独立认证。"
+  },
+  "relatedSources": [
+    {
+      "title": "原论文：An O(1) Bound for the KLS Constant",
+      "url": "https://arxiv.org/abs/2610.01447"
+    },
+    {
+      "title": "独立证明",
+      "url": "https://arxiv.org/abs/2610.05474"
+    },
+    {
+      "title": "Lean 4形式化项目",
+      "url": "https://github.com/HongruZhao/KLS500"
+    }
+  ],
+  "interest": []
+}

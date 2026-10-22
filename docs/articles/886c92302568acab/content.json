@@ -1,0 +1,28 @@
+{
+  "id": "886c92302568acab",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
+  "summary": "NVIDIA 官方博客介绍 Agent Toolkit 的扩展内容：新增 Agent Knowledge Foundation，结合 CUDA-X 库与 Auto-Ontology，把企业原始数据映射为业务概念；并纳入 Nemotron Retriever、Kumo 系列开放模型、OpenShell 安全运行时与 NemoClaw 蓝图。",
+  "url": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
+  "date": "2026-10-21",
+  "publishedAt": "2026-10-21T10:10:01+00:00",
+  "source": "NVIDIA 官方博客",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "recommendedOn": "2026-10-22",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
+  "titleZh": "NVIDIA Agent Toolkit 扩展，将企业智能体扎根于公司数据",
+  "details": {
+    "overview": "NVIDIA 官方博客介绍 Agent Toolkit 的扩展内容：新增 Agent Knowledge Foundation，结合 CUDA-X 库与 Auto-Ontology，把企业原始数据映射为业务概念；并纳入 Nemotron Retriever、Kumo 系列开放模型、OpenShell 安全运行时与 NemoClaw 蓝图。文章称企业可在不迁移数据、不改动既有工作流与治理控制的前提下使用该基础。文中还列举 Palantir、Databricks、Snowflake、SAP、ServiceNow、Zoom 等合作方场景，属官方发布信息，非独立验证。",
+    "keyPoints": [
+      "Agent Knowledge Foundation 含 CUDA-X 库与 Auto-Ontology，可将原始数据映射为业务概念",
+      "配套 Nemotron Retriever、Kumo 系列开放模型及 OpenShell 安全运行时",
+      "官方称企业无需迁移数据或改动治理控制即可使用"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

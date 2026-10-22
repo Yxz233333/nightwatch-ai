@@ -1,0 +1,28 @@
+{
+  "id": "f80f0496f7133c2e",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
+  "summary": "NVIDIA宣布扩展其机密计算方案，新增“机密裸金属”部署选项，使前沿模型构建者可在第三方云、neocloud和企业基础设施的专用裸金属实例上运行敏感工作负载，同时保留对模型和数据的控制。",
+  "url": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
+  "date": "2026-10-21",
+  "publishedAt": "2026-10-21T10:30:02+00:00",
+  "source": "NVIDIA 官方博客",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "recommendedOn": "2026-10-22",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
+  "titleZh": "NVIDIA机密计算扩展，助力前沿模型构建者在全球基础设施上安全扩展",
+  "details": {
+    "overview": "NVIDIA宣布扩展其机密计算方案，新增“机密裸金属”部署选项，使前沿模型构建者可在第三方云、neocloud和企业基础设施的专用裸金属实例上运行敏感工作负载，同时保留对模型和数据的控制。方案提供传输中数据保护、平台完整性度量和硬件级访问限制，并与机密容器、机密虚拟机共同构成三种部署模式。支持范围扩展至Grace Blackwell NVL72及基于x86的HGX Rubin NVL8、DGX Rubin NVL8系统，并将与DSX OS集成。Cohere、Google Cloud等表示计划或已支持相关部署。",
+    "keyPoints": [
+      "新增机密裸金属部署选项，与机密容器、机密虚拟机并列，覆盖不同信任边界需求。",
+      "支持范围扩展至Grace Blackwell NVL72及x86的HGX Rubin NVL8、DGX Rubin NVL8系统。",
+      "Cohere计划将其集成至Model Vault；Google Cloud将支持A4X Max实例。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

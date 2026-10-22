@@ -1,0 +1,28 @@
+{
+  "id": "f2cd8136d2c22b61",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+  "summary": "NVIDIA在柏林GTC上展示RTX Spark、DGX Spark与DGX Station等本地AI硬件，面向Windows个人智能体、Linux开发者与企业前沿工作负载。",
+  "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
+  "date": "2026-10-21",
+  "publishedAt": "2026-10-21T10:50:37+00:00",
+  "source": "NVIDIA 官方博客",
+  "status": "官方发布与预览计划并存；DGX Spark 64GB计划10月23日，Windows版DGX Station计划12月提供。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "recommendedOn": "2026-10-22",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+  "titleZh": "NVIDIA 展示欧洲本地 AI 系统及智能体计划",
+  "details": {
+    "overview": "NVIDIA在柏林GTC上展示RTX Spark、DGX Spark与DGX Station等本地AI硬件，面向Windows个人智能体、Linux开发者与企业前沿工作负载。原文列出多项发布：Underdog桌面智能体上线RTX Spark、DGX Spark 64GB于10月23日推出、NVIDIA Sync支持八台DGX Spark集群并新增Model Launcher、DGX Station for Windows预计12月推出，以及Recursive Flint本地编码模型和多个新模型的Day-0支持。这些内容属于官方发布与计划，部分为预览或早期访问，尚不代表已全面上线或经独立验证。",
+    "keyPoints": [
+      "RTX Spark面向Windows个人智能体，最高128GB统一内存与1 petaflop AI算力。",
+      "DGX Spark支持最多八台集群，合计1TB统一内存，可运行前沿级模型。",
+      "DGX Station for Windows预计12月推出，支持多家制造与工程应用。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

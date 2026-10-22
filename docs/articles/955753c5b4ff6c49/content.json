@@ -1,0 +1,28 @@
+{
+  "id": "955753c5b4ff6c49",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+  "summary": "IBM 发布 Granite Speech 系列三项更新：新模型 granite-speech-5.0-2b 支持英语、法语、德语、西班牙语、葡萄牙语和日语的转写，并在这些语言与英语之间互译，另支持英语译意大利语和普通话；更新版 granite-speech-5.0-470m-turboctc 增加多语言与原生标点、大小写；granite-speech-4.1-2b-plus 改进说话人归属、时间戳、关键词偏置和长语音表现。",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+  "date": "2026-10-21",
+  "publishedAt": "2026-10-21T14:58:18+00:00",
+  "source": "Hugging Face 官方博客",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "recommendedOn": "2026-10-22",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+  "titleZh": "Granite Speech 5.0：更准确、更快速地转写、翻译与说话人归属",
+  "details": {
+    "overview": "IBM 发布 Granite Speech 系列三项更新：新模型 granite-speech-5.0-2b 支持英语、法语、德语、西班牙语、葡萄牙语和日语的转写，并在这些语言与英语之间互译，另支持英语译意大利语和普通话；更新版 granite-speech-5.0-470m-turboctc 增加多语言与原生标点、大小写；granite-speech-4.1-2b-plus 改进说话人归属、时间戳、关键词偏置和长语音表现。三者均以 Apache 2.0 许可发布。",
+    "keyPoints": [
+      "granite-speech-5.0-2b 支持最多 2,000 个关键词偏置，覆盖全部支持语言。",
+      "Turbo CTC 更新后 RTFx 由约 12,600 提升至 19,870，官方称约 1.6 倍加速。",
+      "4.1-2b-plus 长语音测试集 WER 由 13.53 降至 10.22，说话人归属指标改善。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

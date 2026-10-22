@@ -1,0 +1,28 @@
+{
+  "id": "dd491d284515d8d4",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
+  "summary": "本文为英伟达官方发布的GTC Berlin 2026主题演讲实录。",
+  "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
+  "date": "2026-10-21",
+  "publishedAt": "2026-10-21T09:30:16+00:00",
+  "source": "NVIDIA 官方博客",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "recommendedOn": "2026-10-22",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
+  "titleZh": "GTC Berlin 2026：英伟达CEO黄仁勋主题演讲实时更新",
+  "details": {
+    "overview": "本文为英伟达官方发布的GTC Berlin 2026主题演讲实录。黄仁勋在柏林Tempodrom登台，称欧洲多家企业正与英伟达合作推进AI，并宣布DSX POD模块化AI工厂参考设计、面向安全智能体的OpenShell参考架构、Agent Knowledge Foundation知识层，以及Nemotron、Cosmos、GR00T等开放模型系列。他还介绍电信网络作为分布式AI基础设施、与西门子医疗的自适应放疗合作、Hyperion车载平台新增车企，以及RTX Spark笔记本和Agile ONE SN人形机器人参考平台。",
+    "keyPoints": [
+      "黄仁勋称英伟达已向欧洲技术生态投入近100亿美元，并与超过1.2万家合作伙伴协作。",
+      "DSX POD为模块化容器式AI工厂参考设计，官方称站点就绪后现场部署可由六个月缩短至14天。",
+      "OpenShell为开源、策略控制的智能体运行时，提供内核级沙箱以限制并监控智能体权限。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

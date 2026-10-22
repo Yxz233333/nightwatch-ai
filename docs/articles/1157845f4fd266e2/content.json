@@ -1,0 +1,28 @@
+{
+  "id": "1157845f4fd266e2",
+  "section": "news",
+  "category": "工具动态",
+  "title": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
+  "summary": "NVIDIA 宣布 CUDA-X 库 cuDSS 正式全面可用，将工程与科学仿真中反复出现的大型稀疏系统求解迁移到 GPU 上执行。",
+  "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+  "date": "2026-10-21",
+  "publishedAt": "2026-10-21T10:30:25+00:00",
+  "source": "NVIDIA 官方博客",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "recommendedOn": "2026-10-22",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
+  "titleZh": "NVIDIA cuDSS 正式全面可用，加速工程与科学仿真",
+  "details": {
+    "overview": "NVIDIA 宣布 CUDA-X 库 cuDSS 正式全面可用，将工程与科学仿真中反复出现的大型稀疏系统求解迁移到 GPU 上执行。官方称这可缩短结果时间、提升仿真吞吐，让用户以更低成本探索更大模型和更广设计空间。文中列出应用材料、COMSOL、Cadence、达索系统、西门子、新思科技等厂商的集成情况，并给出各自报告的加速幅度，但这些数据来自厂商自述，并非独立验证。",
+    "keyPoints": [
+      "cuDSS 将大型稀疏系统求解这一仿真关键步骤交由 GPU 加速。",
+      "官方称其可从单工作站扩展至大型计算集群，并提供 C、C++、Python、Fortran 接口。",
+      "多家厂商称已集成 cuDSS，并报告最高约 10 倍等加速效果。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

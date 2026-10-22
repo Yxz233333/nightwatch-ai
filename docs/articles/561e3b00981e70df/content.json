@@ -1,0 +1,28 @@
+{
+  "id": "561e3b00981e70df",
+  "section": "news",
+  "category": "模型动态",
+  "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+  "summary": "NVIDIA 发布预训练关系型基础模型 Kumo Relational，可直接在企业数据库上做预测：给定预测查询，模型在推理时读取最多1万个历史样本作为上下文，单次前向传播输出流失、需求或欺诈等结果，无需任务特定训练、特征工程或表展平。",
+  "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+  "date": "2026-10-22",
+  "publishedAt": "2026-10-21T18:26:30+00:00",
+  "source": "Hugging Face 官方博客",
+  "status": "已发布模型与工具；基准优势为作者在特定测试中的报告，非所有任务的性能保证。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "recommendedOn": "2026-10-22",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+  "titleZh": "NVIDIA 发布 Kumo Relational，报告关系数据少样本预测进展",
+  "details": {
+    "overview": "NVIDIA 发布预训练关系型基础模型 Kumo Relational，可直接在企业数据库上做预测：给定预测查询，模型在推理时读取最多1万个历史样本作为上下文，单次前向传播输出流失、需求或欺诈等结果，无需任务特定训练、特征工程或表展平。官方称其在15个数据库的41项任务上超过监督式关系深度学习和专家特征工程梯度提升树，在 SAP SALT 基准上平均倒数排名比 AutoGluon 集成高8%，并可扩展至5000亿行以上数据库。",
+    "keyPoints": [
+      "模型直接作用于数据库的表、外键和时间戳，通过上下文学习适配新任务，推理时最多读取1万个历史样本。",
+      "官方称在15个数据库41项任务上优于监督式关系深度学习和专家特征工程梯度提升树，SAP SALT 上 MRR 比 AutoGluon 高8%。",
+      "预训练使用合成关系型数据，模型权重以 OpenMDW 1.1 许可发布，代码采用 Apache 2.0 许可。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

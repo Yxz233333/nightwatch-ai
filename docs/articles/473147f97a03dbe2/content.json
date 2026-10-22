@@ -1,0 +1,28 @@
+{
+  "id": "473147f97a03dbe2",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+  "summary": "Google Cloud 与 NVIDIA 宣布，由 NVIDIA Vera Rubin NVL72 加速的 A5X 实例计划于2026年11月正式可用，并计划扩展至欧洲，为训练、推理和大规模强化学习提供集成平台。",
+  "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
+  "date": "2026-10-21",
+  "publishedAt": "2026-10-21T10:45:17+00:00",
+  "source": "NVIDIA 官方博客",
+  "status": "官方预告：A5X实例计划下月正式可用，欧洲开放范围另有扩展计划；不可视为已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "recommendedOn": "2026-10-22",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+  "titleZh": "Google Cloud A5X 与 NVIDIA Vera Rubin 基础设施计划下月正式可用",
+  "details": {
+    "overview": "Google Cloud 与 NVIDIA 宣布，由 NVIDIA Vera Rubin NVL72 加速的 A5X 实例计划于2026年11月正式可用，并计划扩展至欧洲，为训练、推理和大规模强化学习提供集成平台。稿件称 A5X 整合 Vera Rubin NVL72、ConnectX-9 SuperNICs、Google Cloud Virgo 网络与第四代液冷技术，并计划在多个站点扩展到最多 96 万块 Rubin GPU。首批客户 Ineffable Intelligence 用于大规模强化学习，WPP 则演示了创意智能体参考架构。",
+    "keyPoints": [
+      "A5X 实例整合 Vera Rubin NVL72、ConnectX-9 SuperNICs、Virgo 网络与第四代液冷技术。",
+      "Google Cloud 计划将基于 Vera Rubin 的基础设施扩展至多站点最多 96 万块 Rubin GPU。",
+      "Ineffable Intelligence 为首批客户，用于大规模强化学习与“超级学习者”系统。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

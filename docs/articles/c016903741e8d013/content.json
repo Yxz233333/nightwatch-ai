@@ -1,0 +1,26 @@
+{
+  "id": "c016903741e8d013",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+  "summary": "OpenAI于2026年10月21日发布一份蓝图，主题是让网络防御者获得先进AI能力。",
+  "url": "https://openai.com/index/empowering-cyber-defenders",
+  "date": "2026-10-21",
+  "publishedAt": "2026-10-21T00:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": false,
+  "titleEn": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+  "titleZh": "前沿AI的民主治理，第二部分：赋能网络防御者",
+  "details": {
+    "overview": "OpenAI于2026年10月21日发布一份蓝图，主题是让网络防御者获得先进AI能力。文章称AI正改变网络安全的节奏、规模与经济性，既能帮助防御者发现漏洞、检测入侵和响应攻击，也可能被恶意行为者利用；当前处于“防御者窗口”，即先进网络攻击能力广泛可用前的一段有限时间。蓝图围绕三方面提出建议：强化前沿模型与智能体的安全责任、检测危险行为并保持可靠关停控制；为防御者提供工具、培训与技术支持并修补长期弱点；加强政府评估、独立技术评估、事件报告与协同响应。",
+    "keyPoints": [
+      "文章称AI同时提升攻防能力，当前是加强防御的有限窗口期。",
+      "蓝图建议明确前沿模型与智能体的安全责任、危险行为检测和关停控制。",
+      "提出为防御者提供工具与培训，并强化政府评估、事件报告和协同响应。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

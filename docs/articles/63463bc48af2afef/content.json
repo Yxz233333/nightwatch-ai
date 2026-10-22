@@ -1,0 +1,28 @@
+{
+  "id": "63463bc48af2afef",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+  "summary": "该新闻稿介绍欧洲多家工业企业在工程与制造全流程中采用NVIDIA CUDA-X、Omniverse库及Cosmos、Nemotron开放模型。",
+  "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
+  "date": "2026-10-21",
+  "publishedAt": "2026-10-21T10:30:40+00:00",
+  "source": "NVIDIA 官方博客",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "recommendedOn": "2026-10-22",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+  "titleZh": "欧洲工业领军企业借助NVIDIA重塑工程与制造",
+  "details": {
+    "overview": "该新闻稿介绍欧洲多家工业企业在工程与制造全流程中采用NVIDIA CUDA-X、Omniverse库及Cosmos、Nemotron开放模型。稿件称，面向工厂场景的NVIDIA Factory Operations Blueprint（FOX）已在GitHub开放早期访问，供开发者构建协调设备与专项任务的工厂智能体。文中列举西门子、梅赛德斯-奔驰、奥迪等企业的应用案例，并给出部分加速与成本节省数字，属厂商发布信息，非独立验证结论。",
+    "keyPoints": [
+      "FOX蓝图在GitHub开放早期访问，用于构建工厂管理及视觉检测等专项智能体。",
+      "西门子将FOX构建的智能体集成至Intelligence Center X，稿件称预计节省成本20%。",
+      "cuDSS正式发布，用于加速结构应力、流体、电磁场等工程仿真计算。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

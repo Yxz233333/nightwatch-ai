@@ -1,6 +1,32 @@
 {
-  "syncedAt": "2026-10-21T00:03:23.976Z",
+  "syncedAt": "2026-10-22T00:03:02.777Z",
   "articles": [
+    {
+      "id": "d801af45ebed7c9b",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "summary": "OpenAI宣布将ChatGPT Ads扩展至26个新增国家，全球覆盖范围增至89个国家。",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T13:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "status": "官方已宣布扩大广告投放地区；广告仅面向Free和Go计划。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": false,
+      "titleEn": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "titleZh": "ChatGPT Ads扩展至26个新国家，已有超10万名广告主使用该平台",
+      "details": {
+        "overview": "OpenAI宣布将ChatGPT Ads扩展至26个新增国家，全球覆盖范围增至89个国家。官方称自广告上线八个多月以来，已有超过10万名广告主在ChatGPT投放广告。新增市场包括阿根廷、智利、哥伦比亚、秘鲁等14个拉美国家，以及尼日利亚、南非、塞尔维亚、乌克兰、柬埔寨、孟加拉国和巴基斯坦等。广告仅出现在Free和Go计划中，Plus、Pro和Enterprise订阅保持无广告。广告主可通过技术合作伙伴或Ads Manager自助接入。",
+        "keyPoints": [
+          "ChatGPT Ads新增26个国家，全球覆盖范围扩大至89个国家。",
+          "官方称广告上线八个多月，已有超10万名广告主投放。",
+          "广告仅面向Free和Go计划；原文明确Plus、Pro及Enterprise保持无广告。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
     {
       "id": "a3185bdff07e55f3",
       "section": "chatgpt",

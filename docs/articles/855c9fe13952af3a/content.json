@@ -1,0 +1,28 @@
+{
+  "id": "855c9fe13952af3a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+  "summary": "OpenAI 发布文章称，其牵头联合维护者、研究人员与安全厂商，处理 PHP 开源语言中的关键漏洞。",
+  "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+  "date": "2026-10-21",
+  "publishedAt": "2026-10-21T07:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "recommendedOn": "2026-10-22",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+  "titleZh": "Patch the Planet：智能体发现关键漏洞，全球响应协同展开",
+  "details": {
+    "overview": "OpenAI 发布文章称，其牵头联合维护者、研究人员与安全厂商，处理 PHP 开源语言中的关键漏洞。文中称 Calif 借助 GPT‑5.6 Sol 在 Patch the Planet 计划中发现一处严重缺陷，Wiz 也独立发现并报告了这两个漏洞；PHP 维护者主导修复与发布，Wiz、Cloudflare 等参与研究与协调。文章称这是近年影响最大的安全问题之一，并强调前沿 AI 先于攻击者发现漏洞，为防御方争取了窗口期。",
+    "keyPoints": [
+      "OpenAI 称 Calif 用 GPT‑5.6 Sol 发现 PHP 关键漏洞，Wiz 独立发现并报告两个漏洞。",
+      "PHP 维护者主导修复与发布，Wiz、Cloudflare 等参与研究、技术支持与披露前协调。",
+      "OpenAI 称已承诺 10 亿美元补贴 Daybreak 访问，面向安全资源有限的机构。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

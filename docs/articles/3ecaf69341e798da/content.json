@@ -1,0 +1,26 @@
+{
+  "id": "3ecaf69341e798da",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+  "summary": "OpenAI 官方发布案例称，金融科技初创公司 Terminal X 的 Capital Memory 系统将投资机构的决策逻辑编码进自有智能体，并用 Eval Agent 按 54 项标准评分。",
+  "url": "https://openai.com/index/terminal-x",
+  "date": "2026-10-20",
+  "publishedAt": "2026-10-20T07:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": false,
+  "titleEn": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+  "titleZh": "Terminal X 借助 GPT-6.1 使判断与资深投资人一致率达 88.6%",
+  "details": {
+    "overview": "OpenAI 官方发布案例称，金融科技初创公司 Terminal X 的 Capital Memory 系统将投资机构的决策逻辑编码进自有智能体，并用 Eval Agent 按 54 项标准评分。稿件表示，使用 GPT-6.1 Sol 后，Eval Agent 对偏离基金授权范围建议的检出率比次优模型高约 25%，与人工评审的一致率提升 220 个基点，单次查询成本低约 30%，某客户年化节省 240 万美元。这些是官方客户案例的报告结果，不能等同于投资收益或普遍效果保证。",
+    "keyPoints": [
+      "Eval Agent 依据 54 项标准评分，GPT-6.1 Sol 对偏离基金授权建议的检出率比次优模型高约 25%",
+      "官方称与人工评审的一致率提升 220 个基点，单次查询成本低约 30%",
+      "系统部署在客户本地或自有云，由前金融从业工程师协助编码投资逻辑"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

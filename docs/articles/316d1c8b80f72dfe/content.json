@@ -1,0 +1,28 @@
+{
+  "id": "316d1c8b80f72dfe",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+  "summary": "OpenAI工程团队撰文介绍ChatGPT广告投放系统的设计思路。",
+  "url": "https://openai.com/index/building-chatgpt-ad-stack",
+  "date": "2026-10-21",
+  "publishedAt": "2026-10-21T07:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "recommendedOn": "2026-10-22",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+  "titleZh": "我们如何为ChatGPT构建兼顾用户信任与相关性的全新广告系统",
+  "details": {
+    "overview": "OpenAI工程团队撰文介绍ChatGPT广告投放系统的设计思路。文章指出，传统广告系统依赖搜索词或页面浏览等离散意图事件，而ChatGPT中的用户意图跨多轮对话逐步形成，有时并不存在合适的广告时机。为此团队构建了一套定制广告投放系统，基于经后训练的前沿大模型，通过工具调用完成广告检索、排序、相关性评估以及竞价与定价。文章还涉及对话记忆不影响回答、编排器在智能体循环中调用广告工具、候选过滤与最终资格检查等环节。",
+    "keyPoints": [
+      "广告系统基于经后训练的前沿大模型，通过工具调用完成检索、排序、相关性评估与竞价",
+      "设计强调对话记忆不用于影响ChatGPT的回答内容",
+      "针对意图跨多轮对话演变的场景，设置候选过滤与最终资格检查等环节"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

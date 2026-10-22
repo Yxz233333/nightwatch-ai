@@ -1,0 +1,28 @@
+{
+  "id": "8c4162b77ea9ab35",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+  "summary": "该文是 AWS 官方技术博客系列第一篇，面向没有剖析经验的读者，介绍如何系统分析模型推理性能、定位耗时环节。",
+  "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+  "date": "2026-10-22",
+  "publishedAt": "2026-10-21T16:04:43+00:00",
+  "source": "Hugging Face 官方博客",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "recommendedOn": "2026-10-22",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+  "titleZh": "剖析 TorchNeuron（第一部分）：在 AWS Trainium 上进行系统级性能剖析",
+  "details": {
+    "overview": "该文是 AWS 官方技术博客系列第一篇，面向没有剖析经验的读者，介绍如何系统分析模型推理性能、定位耗时环节。作者以 AWS Trainium 芯片及其开源 PyTorch 后端 TorchNeuron 为平台，演示用 torch.profiler 配合 NeuronConfig 采集干净的性能轨迹，读取 key_averages() 表找出占用 Neuron 设备时间最多的算子，并借助 Neuron Explorer 追踪单个算子从框架调度、运行时排程到硬件执行的全过程。文中以 RMSNorm 的三种实现做对比，说明融合算子与 torch.compile 可减少设备时间。",
+    "keyPoints": [
+      "介绍用 NeuronConfig 配置 torch.profiler，采集设备与运行时数据流并导出轨迹。",
+      "演示按 self_privateuse1_time_total 排序 key_averages() 表，定位设备耗时算子。",
+      "对比朴素算子、torch.rms_norm 与 torch.compile 三种 RMSNorm 实现的设备时间。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

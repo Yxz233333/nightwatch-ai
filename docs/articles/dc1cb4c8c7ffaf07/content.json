@@ -1,0 +1,28 @@
+{
+  "id": "dc1cb4c8c7ffaf07",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+  "summary": "Dharma-AI团队介绍其生产环境中的葡萄牙语作文评分器（基于Qwen3-4B）。",
+  "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+  "date": "2026-10-22",
+  "publishedAt": "2026-10-21T17:35:36+00:00",
+  "source": "Hugging Face 官方博客",
+  "status": "研究预览；论文仍在审查，数字可能在正式发表前变化。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "recommendedOn": "2026-10-22",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+  "titleZh": "VocabX 团队报告：专用词表在作文评分案例中降低77%推理成本",
+  "details": {
+    "overview": "Dharma-AI团队介绍其生产环境中的葡萄牙语作文评分器（基于Qwen3-4B）。该模型沿用通用词表，导致高频输出文本被拆成大量token，且每生成一个token都要对约15万词表打分。团队提出VocabX方法，按token成本而非频率重建词表，同时做子词层与多词宏token两层优化，并控制词表规模。作者声称在相同基座、数据和训练配方下，实测推理成本降低77%，评分质量指标从0.703升至0.810。相关论文尚在审稿，数据可能变动。",
+    "keyPoints": [
+      "作者称评分器平均响应从350个token降至101个，实测推理成本下降77.0%。",
+      "VocabX按成本加权选择token，输出层词表从约15.2万行缩减至约6.5万行。",
+      "在五个公开领域与三种模型家族的对比中，作者称VocabX在全部15种组合上压缩率领先。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

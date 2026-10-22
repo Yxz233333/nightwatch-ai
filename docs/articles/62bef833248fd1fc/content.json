@@ -1,0 +1,26 @@
+{
+  "id": "62bef833248fd1fc",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure",
+  "summary": "该新闻稿介绍，Nebius、Nscale、Verda等AI云服务商，以及Bull、Dell、HPE、Lenovo、Supermicro等服务器厂商，正基于NVIDIA Vera CPU构建本地基础设施。",
+  "url": "https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure/",
+  "date": "2026-10-20",
+  "publishedAt": "2026-10-20T10:30:11+00:00",
+  "source": "NVIDIA 官方博客",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": false,
+  "titleEn": "European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure",
+  "titleZh": "欧洲业界领袖采用NVIDIA Vera CPU构建本地基础设施",
+  "details": {
+    "overview": "该新闻稿介绍，Nebius、Nscale、Verda等AI云服务商，以及Bull、Dell、HPE、Lenovo、Supermicro等服务器厂商，正基于NVIDIA Vera CPU构建本地基础设施。稿件称，Vera面向智能体计算场景，强调单核性能、LPDDR5X内存带宽与可扩展一致性互连，用于加速信息检索、工具调用、代码执行等CPU密集型环节，并支持独立CPU服务器或与GPU协同部署。ClickHouse、SAP等数据公司称早期测试在分析、ETL和语义搜索负载上观察到良好结果。",
+    "keyPoints": [
+      "Nebius、Nscale、Verda等AI云商采用Vera，支撑企业及开发者的数据处理与软件执行需求。",
+      "Bull、Dell、HPE、Lenovo、Supermicro基于Vera构建系统，可单独部署或与GPU协同。",
+      "ClickHouse、SAP等称早期测试在分析、ETL与语义搜索负载上观察到良好结果。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

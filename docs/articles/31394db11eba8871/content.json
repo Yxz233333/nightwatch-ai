@@ -1,0 +1,28 @@
+{
+  "id": "31394db11eba8871",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+  "summary": "该新闻介绍NVIDIA云合作伙伴在欧洲、北欧、非洲和中亚扩展区域算力，用于模型训练与推理，并支持智能体与物理AI应用。",
+  "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
+  "date": "2026-10-21",
+  "publishedAt": "2026-10-21T10:30:41+00:00",
+  "source": "NVIDIA 官方博客",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "recommendedOn": "2026-10-22",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+  "titleZh": "NVIDIA云合作伙伴在欧洲扩张——主权、开放、为安全AI智能体而建",
+  "details": {
+    "overview": "该新闻介绍NVIDIA云合作伙伴在欧洲、北欧、非洲和中亚扩展区域算力，用于模型训练与推理，并支持智能体与物理AI应用。文中提到Nscale、Crusoe、Nebius、Mistral等伙伴的部署与计划，以及NVIDIA OpenShell参考架构为智能体设定访问边界。内容属官方发布，测试与未来计划不等于已全面上线。",
+    "keyPoints": [
+      "Nscale称在GB300 NVL72测试中，DSX MaxLPS使同一供电预算下GPU数量增37%、聚合推理吞吐近50%。",
+      "Nebius采用NVIDIA Groq 3 LPX配合Spectrum-X接入Vera Rubin NVL72，用于Token Factory生产推理。",
+      "OpenShell参考架构结合Vera CPU与BlueField-4 DPU，为智能体访问与操作设定边界。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

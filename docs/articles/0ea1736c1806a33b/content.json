@@ -1,0 +1,28 @@
+{
+  "id": "0ea1736c1806a33b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
+  "summary": "NVIDIA在GTC柏林期间宣布扩展其开放模型家族，覆盖语言、视觉、检索、表格数据、生物、机器人与量子计算。",
+  "url": "https://blogs.nvidia.com/blog/open-models-europe-industry/",
+  "date": "2026-10-21",
+  "publishedAt": "2026-10-21T10:00:07+00:00",
+  "source": "NVIDIA 官方博客",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "recommendedOn": "2026-10-22",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
+  "titleZh": "NVIDIA开放模型推动欧洲各行业主权智能发展",
+  "details": {
+    "overview": "NVIDIA在GTC柏林期间宣布扩展其开放模型家族，覆盖语言、视觉、检索、表格数据、生物、机器人与量子计算。稿件称，Nemotron 3.5 Super VL与Bolt、Nemotron Retriever、Kumo、Cosmos 3.5、Alpamayo 2 Edge、BioNeMo RFD4-Proteina及Ising等模型，让开发者可用本地数据定制并部署在自有基础设施上。文中列举Dassault Systèmes、SAP、西门子、IQM等合作方，并给出各模型的获取渠道与部分上线时间。",
+    "keyPoints": [
+      "NVIDIA发布Nemotron、Kumo、Cosmos、BioNeMo、Ising等开放模型，覆盖多行业场景。",
+      "稿件称企业可用本地数据定制模型，并部署在自身可控的基础设施上。",
+      "部分模型已上线Hugging Face等平台，Nemotron 3.5 Bolt E4B计划10月23日提供。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

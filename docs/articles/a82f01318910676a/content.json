@@ -1,0 +1,26 @@
+{
+  "id": "a82f01318910676a",
+  "section": "codex",
+  "category": "功能预告",
+  "title": "OpenAI models are coming to Google Cloud",
+  "summary": "OpenAI与Google Cloud宣布合作，计划将OpenAI的前沿模型和Codex智能体工作流引入Google Cloud的Model Garden。",
+  "url": "https://openai.com/index/openai-models-google-cloud",
+  "date": "2026-10-21",
+  "publishedAt": "2026-10-21T12:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "status": "官方未来集成计划；原文为will/soon，未宣称已普遍可用。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": false,
+  "titleEn": "OpenAI models are coming to Google Cloud",
+  "titleZh": "OpenAI模型即将登陆Google Cloud",
+  "details": {
+    "overview": "OpenAI与Google Cloud宣布合作，计划将OpenAI的前沿模型和Codex智能体工作流引入Google Cloud的Model Garden。原文使用will和soon表述，属于未来集成计划，并未宣称已普遍可用。按原文说法，客户将能在Google Cloud环境中原生访问这些模型，并借助其访问控制、集中式数据治理和高性能基础设施运行企业级智能体工作流；购买可通过Google Cloud Marketplace完成，并可用GCP承诺消费抵扣。",
+    "keyPoints": [
+      "OpenAI前沿模型与Codex工作流计划接入Google Cloud的Model Garden。",
+      "购买拟通过Google Cloud Marketplace进行，可用GCP承诺消费抵扣。",
+      "原文称模型还将进入Google Antigravity和Gemini Agent，属未来计划。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

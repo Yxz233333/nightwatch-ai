@@ -1,0 +1,26 @@
+{
+  "id": "329410bb72949714",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "MPS in PyTorch 2.15",
+  "summary": "Hugging Face 的 PyTorch 团队介绍了 PyTorch 2.15 在苹果 MPS 后端上的改进：FP8 张量与 F.scaled_mm 支持、面向语言模型解码的线性层与 softmax 加速、MoE 分组矩阵乘法的原生 Metal 实现，以及复数 LU、三角求解等线性代数运算。",
+  "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+  "date": "2026-10-20",
+  "publishedAt": "2026-10-20T00:00:00+00:00",
+  "source": "Hugging Face 官方博客",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": false,
+  "titleEn": "MPS in PyTorch 2.15",
+  "titleZh": "PyTorch 2.15 中的 MPS 后端更新",
+  "details": {
+    "overview": "Hugging Face 的 PyTorch 团队介绍了 PyTorch 2.15 在苹果 MPS 后端上的改进：FP8 张量与 F.scaled_mm 支持、面向语言模型解码的线性层与 softmax 加速、MoE 分组矩阵乘法的原生 Metal 实现，以及复数 LU、三角求解等线性代数运算。作者声称在 M3 Ultra 上 MoE 模型解码速度较 2.14 提升 5–6.5 倍，Wan2.2 视频 VAE 解码峰值驱动内存从约 270 GiB 降至约 8 GiB。这些数据来自该团队的测试，属于官方发布说明，并非独立验证。",
+    "keyPoints": [
+      "MPS 新增 float8_e4m3fn 张量，可用 F.scaled_mm 在 GPU 上做缩放矩阵乘法。",
+      "MoE 分组矩阵乘法改为原生 Metal 内核，作者称解码吞吐较 2.14 提升 5–6.5 倍。",
+      "常量填充改走 Metal 内核，作者称 Wan2.2 视频 VAE 解码峰值驱动内存降至约 8 GiB。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}
