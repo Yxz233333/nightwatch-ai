@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-21T08:03:22+08:00",
+  "updatedAt": "2026-10-22T08:02:50+08:00",
   "coverage": {
     "requestedFrom": "2025-09-01",
-    "requestedThrough": "2026-10-21",
+    "requestedThrough": "2026-10-22",
     "scope": "已核实官方发布说明、GitHub Releases、官方 RSS 与新闻研究归档；不是全网穷尽清单。",
     "historyAddedBySource": {
       "ChatGPT 官方发布说明": 207,
@@ -43,32 +43,32 @@
       ]
     },
     "sourceCounts": {
-      "Hugging Face 官方博客": 236,
-      "Codex GitHub Releases": 1133,
+      "Hugging Face 官方博客": 242,
+      "Codex GitHub Releases": 1135,
       "ChatGPT 官方发布说明": 208,
-      "NVIDIA 官方博客": 319,
-      "OpenAI 官方新闻": 656,
+      "NVIDIA 官方博客": 329,
+      "OpenAI 官方新闻": 665,
       "MiniMax 官方博客": 1,
-      "Anthropic 官方新闻与研究": 249,
+      "Anthropic 官方新闻与研究": 250,
       "DeepSeek 官方更新": 11,
       "此前已核实内容": 745,
       "ChatGPT 与 Codex 官方变更日志": 127,
       "Google DeepMind": 110,
       "Google AI 官方博客": 20,
       "Gemini 官方发布说明": 32,
-      "Microsoft Research": 11,
+      "Microsoft Research": 12,
       "OpenAI 数学仓库": 2,
       "Meta AI 官方博客": 10,
       "Anthropic 官方迁移归档": 2,
       "OpenAI 官方研究": 2
     },
     "excludedNonAINews": 33,
-    "total": 3874,
+    "total": 3903,
     "byMonth": {
       "2026-10": {
-        "news": 120,
-        "codex": 72,
-        "chatgpt": 20,
+        "news": 145,
+        "codex": 75,
+        "chatgpt": 21,
         "papers": 162
       },
       "2026-09": {
@@ -140,68 +140,345 @@
         "chatgpt": 9
       }
     },
-    "lastCheckedAt": "2026-10-21T08:03:22+08:00",
+    "lastCheckedAt": "2026-10-22T08:02:50+08:00",
     "dailyCheck": {
-      "checkedAt": "2026-10-21T08:03:22+08:00",
-      "addedArticles": 11,
-      "addedHistoricalArticles": 1,
-      "newItemsLast24Hours": 6,
-      "recommendationsAdded": 4,
+      "checkedAt": "2026-10-22T08:02:50+08:00",
+      "addedArticles": 29,
+      "newItemsLast24Hours": 22,
+      "addedHistoricalArticles": 7,
+      "recommendationsAdded": 18,
       "checks": [
         {
           "source": "ChatGPT release notes",
-          "result": "新增10月20日锁定聊天灰度更新，未提供确切小时"
+          "result": "已核查；最新日期仍为10月20日锁定聊天，新增广告扩区依据官方产品公告"
         },
         {
           "source": "ChatGPT Learn changelog",
-          "result": "已核查，最新有日期条目10月15日，CLI对照GitHub"
+          "result": "已核查；非CLI最新日期10月14日，CLI交叉GitHub"
         },
         {
           "source": "Codex GitHub",
-          "result": "最新50条，新增alpha.7/alpha.8，正文无详细变更说明"
+          "result": "最新50条核查，新增alpha.9与alpha.11.1；仅版本号，无详细变更说明"
         },
         {
           "source": "OpenAI math",
-          "result": "719篇索引未变化；CONTENTS SHA 2c68c086fff36a5806c936ad1659cf1a8d0b6dd9"
+          "result": "719篇索引无变化；SHA 2c68c086fff36a5806c936ad1659cf1a8d0b6dd9"
         },
         {
-          "source": "OpenAI/Hugging Face/NVIDIA",
-          "result": "官方RSS重读，并读取新增原文"
+          "source": "OpenAI research/news",
+          "result": "RSS及9篇新增原文经网页读取核实；直接HTTP403已恢复替代读取"
+        },
+        {
+          "source": "Hugging Face/NVIDIA",
+          "result": "官方RSS及全部新增原文核实；预览、上线和未来计划分别标注"
         },
         {
           "source": "Anthropic",
-          "result": "当前新闻索引核查，补录蒸馏防护原文"
+          "result": "新闻索引及Stubbs加入长期利益信托原文核查"
         },
         {
           "source": "Google DeepMind/Google AI",
-          "result": "官方RSS重读，未发现未归档条目"
+          "result": "RSS重读，无新未归档条目"
         },
         {
           "source": "Gemini/DeepSeek",
-          "result": "官方更新页面重读，最新日期未变化"
-        },
-        {
-          "source": "MiniMax/Qwen",
-          "result": "MiniMax官方索引仍为10月19日；Qwen官方归档与定向搜索部分覆盖"
+          "result": "更新页面重读，最新有日期条目未变化"
         },
         {
           "source": "Microsoft/Meta",
-          "result": "官方Research及AI博客当前索引已核查；不代表完整归档"
-        }
-      ],
-      "partialSources": [
+          "result": "Research索引出现KLS报道，交叉原论文、独立证明及Lean仓库；Meta索引无新条目"
+        },
         {
-          "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
-          "result": "可见日期10月19日与RSS及页面元数据10月20日不一致；保留冲突说明，按元数据归档，排除今日推荐。"
+          "source": "MiniMax/Qwen/国内厂商",
+          "result": "MiniMax当前索引及Qwen页面重读，国内厂商仍部分覆盖，不声称穷尽"
         }
       ],
+      "partialSources": [],
       "limitations": [
-        "部分来源直接HTTP或网页读取失败，已通过官方页面HTTP正文或网页读取交叉恢复；不将来源获取失败视为没有更新。",
-        "微软、Meta及部分国内厂商历史仍非穷尽，沿用公开覆盖限制。"
-      ]
+        "Microsoft企业AI RSS直接HTTP403；Research索引通过网页读取核查，完整历史仍未穷尽。",
+        "部分中文厂商自有完整归档与Meta分页历史仍未穷尽，沿用公开历史覆盖说明。"
+      ],
+      "previousUncertainty": "10月21日NVIDIA巴塞罗那条目日期冲突仍保留原注释；本次未改写历史发布时间或恢复推荐。"
     }
   },
   "articles": [
+    {
+      "id": "f98169d420b7518b",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.163.0-alpha.11.1 测试版发布",
+      "titleZh": "Codex CLI 0.163.0-alpha.11.1 测试版发布",
+      "summary": "Codex 官方 GitHub 发布了 0.163.0-alpha.11.1 alpha 测试版本。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0-alpha.11.1",
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-21T22:18:14Z",
+      "source": "Codex GitHub Releases",
+      "releaseChannel": "prerelease",
+      "status": "已发布alpha测试版；官方未提供详细变更说明。",
+      "details": {
+        "overview": "Codex 官方 GitHub 发布了 0.163.0-alpha.11.1 alpha 测试版本。该版本已经发布，属于功能更新记录；官方正文只有版本号，没有逐项说明新增功能、修复或兼容性变化。本条不据此推测功能差异，也不将测试版误归入未来预告。",
+        "keyPoints": [
+          "这是已发布的 alpha 版本，并非稳定版或尚未发布的计划。",
+          "官方正文没有详细变更说明，具体差异应继续关注发布记录。"
+        ]
+      },
+      "recommended": false
+    },
+    {
+      "id": "dc1cb4c8c7ffaf07",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "summary": "Dharma-AI团队介绍其生产环境中的葡萄牙语作文评分器（基于Qwen3-4B）。",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-21T17:35:36+00:00",
+      "source": "Hugging Face 官方博客",
+      "status": "研究预览；论文仍在审查，数字可能在正式发表前变化。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "recommendedOn": "2026-10-22",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "titleZh": "VocabX 团队报告：专用词表在作文评分案例中降低77%推理成本",
+      "details": {
+        "overview": "Dharma-AI团队介绍其生产环境中的葡萄牙语作文评分器（基于Qwen3-4B）。该模型沿用通用词表，导致高频输出文本被拆成大量token，且每生成一个token都要对约15万词表打分。团队提出VocabX方法，按token成本而非频率重建词表，同时做子词层与多词宏token两层优化，并控制词表规模。作者声称在相同基座、数据和训练配方下，实测推理成本降低77%，评分质量指标从0.703升至0.810。相关论文尚在审稿，数据可能变动。",
+        "keyPoints": [
+          "作者称评分器平均响应从350个token降至101个，实测推理成本下降77.0%。",
+          "VocabX按成本加权选择token，输出层词表从约15.2万行缩减至约6.5万行。",
+          "在五个公开领域与三种模型家族的对比中，作者称VocabX在全部15种组合上压缩率领先。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "8c4162b77ea9ab35",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "summary": "该文是 AWS 官方技术博客系列第一篇，面向没有剖析经验的读者，介绍如何系统分析模型推理性能、定位耗时环节。",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-21T16:04:43+00:00",
+      "source": "Hugging Face 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "recommendedOn": "2026-10-22",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "titleZh": "剖析 TorchNeuron（第一部分）：在 AWS Trainium 上进行系统级性能剖析",
+      "details": {
+        "overview": "该文是 AWS 官方技术博客系列第一篇，面向没有剖析经验的读者，介绍如何系统分析模型推理性能、定位耗时环节。作者以 AWS Trainium 芯片及其开源 PyTorch 后端 TorchNeuron 为平台，演示用 torch.profiler 配合 NeuronConfig 采集干净的性能轨迹，读取 key_averages() 表找出占用 Neuron 设备时间最多的算子，并借助 Neuron Explorer 追踪单个算子从框架调度、运行时排程到硬件执行的全过程。文中以 RMSNorm 的三种实现做对比，说明融合算子与 torch.compile 可减少设备时间。",
+        "keyPoints": [
+          "介绍用 NeuronConfig 配置 torch.profiler，采集设备与运行时数据流并导出轨迹。",
+          "演示按 self_privateuse1_time_total 排序 key_averages() 表，定位设备耗时算子。",
+          "对比朴素算子、torch.rms_norm 与 torch.compile 三种 RMSNorm 实现的设备时间。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "65eb6a82c6d1ba10",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Broad access through consistent standards",
+      "summary": "OpenAI 说明其正在与模型托管及转售伙伴统一安全标准，并宣布更新后的使用政策将于2026年11月20日生效。",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-21T21:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "status": "官方公布的政策与安全实施安排；更新使用政策的生效日为2026年11月20日。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "recommendedOn": "2026-10-22",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "Broad access through consistent standards",
+      "titleZh": "OpenAI 将统一服务安全标准，使用政策拟于11月20日生效",
+      "details": {
+        "overview": "OpenAI 说明其正在与模型托管及转售伙伴统一安全标准，并宣布更新后的使用政策将于2026年11月20日生效。新政策要求直接提供模型访问的路由器、AI网关等服务事先接受审查与批准。文中还介绍利用 SafetyIDs 区分终端用户的工作；这些是政策及实施安排，不应当作已经生效的全部限制。",
+        "keyPoints": [
+          "更新后的使用政策明确计划于2026年11月20日生效。",
+          "模型托管与转售伙伴需维持相应安全措施，并协调处理违规。",
+          "直接提供模型访问的模型路由与AI网关需按新政策完成审查批准。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "612859bec9a4c274",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "summary": "OpenAI官方发布介绍了AT&T内部法律部门与OpenAI的合作。",
+      "url": "https://openai.com/index/att-legal",
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-21T17:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "recommendedOn": "2026-10-22",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "How AT&T is rethinking in-house legal work with OpenAI",
+      "titleZh": "AT&T如何借助OpenAI重塑内部法律工作",
+      "details": {
+        "overview": "OpenAI官方发布介绍了AT&T内部法律部门与OpenAI的合作。AT&T拥有数百名律师和法律专业人员，其LegalEdge团队由律师、技术专家和项目经理组成，专注将AI应用于重大法律事务。双方计划在LegalEdge基础上进一步连接公司积累的专业知识，并规划一套自然语言受理系统，对请求进行分类、排定优先级，并关联先例、研究和过往工作。AT&T高管强调决策权始终归律师所有，目标是让律师更快获得信息、把判断力覆盖到更多业务需求。",
+        "keyPoints": [
+          "AT&T内部法律部门有数百名律师，合作建立在LegalEdge团队基础上",
+          "规划中的受理系统以自然语言入口分类请求并关联先例与研究",
+          "AT&T高管表示决策权始终保留在律师手中"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "561e3b00981e70df",
+      "section": "news",
+      "category": "模型动态",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "summary": "NVIDIA 发布预训练关系型基础模型 Kumo Relational，可直接在企业数据库上做预测：给定预测查询，模型在推理时读取最多1万个历史样本作为上下文，单次前向传播输出流失、需求或欺诈等结果，无需任务特定训练、特征工程或表展平。",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-21T18:26:30+00:00",
+      "source": "Hugging Face 官方博客",
+      "status": "已发布模型与工具；基准优势为作者在特定测试中的报告，非所有任务的性能保证。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "recommendedOn": "2026-10-22",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "titleZh": "NVIDIA 发布 Kumo Relational，报告关系数据少样本预测进展",
+      "details": {
+        "overview": "NVIDIA 发布预训练关系型基础模型 Kumo Relational，可直接在企业数据库上做预测：给定预测查询，模型在推理时读取最多1万个历史样本作为上下文，单次前向传播输出流失、需求或欺诈等结果，无需任务特定训练、特征工程或表展平。官方称其在15个数据库的41项任务上超过监督式关系深度学习和专家特征工程梯度提升树，在 SAP SALT 基准上平均倒数排名比 AutoGluon 集成高8%，并可扩展至5000亿行以上数据库。",
+        "keyPoints": [
+          "模型直接作用于数据库的表、外键和时间戳，通过上下文学习适配新任务，推理时最多读取1万个历史样本。",
+          "官方称在15个数据库41项任务上优于监督式关系深度学习和专家特征工程梯度提升树，SAP SALT 上 MRR 比 AutoGluon 高8%。",
+          "预训练使用合成关系型数据，模型权重以 OpenMDW 1.1 许可发布，代码采用 Apache 2.0 许可。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "f80f0496f7133c2e",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
+      "summary": "NVIDIA宣布扩展其机密计算方案，新增“机密裸金属”部署选项，使前沿模型构建者可在第三方云、neocloud和企业基础设施的专用裸金属实例上运行敏感工作负载，同时保留对模型和数据的控制。",
+      "url": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T10:30:02+00:00",
+      "source": "NVIDIA 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "recommendedOn": "2026-10-22",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
+      "titleZh": "NVIDIA机密计算扩展，助力前沿模型构建者在全球基础设施上安全扩展",
+      "details": {
+        "overview": "NVIDIA宣布扩展其机密计算方案，新增“机密裸金属”部署选项，使前沿模型构建者可在第三方云、neocloud和企业基础设施的专用裸金属实例上运行敏感工作负载，同时保留对模型和数据的控制。方案提供传输中数据保护、平台完整性度量和硬件级访问限制，并与机密容器、机密虚拟机共同构成三种部署模式。支持范围扩展至Grace Blackwell NVL72及基于x86的HGX Rubin NVL8、DGX Rubin NVL8系统，并将与DSX OS集成。Cohere、Google Cloud等表示计划或已支持相关部署。",
+        "keyPoints": [
+          "新增机密裸金属部署选项，与机密容器、机密虚拟机并列，覆盖不同信任边界需求。",
+          "支持范围扩展至Grace Blackwell NVL72及x86的HGX Rubin NVL8、DGX Rubin NVL8系统。",
+          "Cohere计划将其集成至Model Vault；Google Cloud将支持A4X Max实例。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "f2cd8136d2c22b61",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+      "summary": "NVIDIA在柏林GTC上展示RTX Spark、DGX Spark与DGX Station等本地AI硬件，面向Windows个人智能体、Linux开发者与企业前沿工作负载。",
+      "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T10:50:37+00:00",
+      "source": "NVIDIA 官方博客",
+      "status": "官方发布与预览计划并存；DGX Spark 64GB计划10月23日，Windows版DGX Station计划12月提供。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "recommendedOn": "2026-10-22",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+      "titleZh": "NVIDIA 展示欧洲本地 AI 系统及智能体计划",
+      "details": {
+        "overview": "NVIDIA在柏林GTC上展示RTX Spark、DGX Spark与DGX Station等本地AI硬件，面向Windows个人智能体、Linux开发者与企业前沿工作负载。原文列出多项发布：Underdog桌面智能体上线RTX Spark、DGX Spark 64GB于10月23日推出、NVIDIA Sync支持八台DGX Spark集群并新增Model Launcher、DGX Station for Windows预计12月推出，以及Recursive Flint本地编码模型和多个新模型的Day-0支持。这些内容属于官方发布与计划，部分为预览或早期访问，尚不代表已全面上线或经独立验证。",
+        "keyPoints": [
+          "RTX Spark面向Windows个人智能体，最高128GB统一内存与1 petaflop AI算力。",
+          "DGX Spark支持最多八台集群，合计1TB统一内存，可运行前沿级模型。",
+          "DGX Station for Windows预计12月推出，支持多家制造与工程应用。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "de60874b53a0db38",
+      "section": "news",
+      "category": "模型动态",
+      "title": "微软研究院报告人类主导 AI 协作证明 KLS 猜想",
+      "titleZh": "微软研究院报告人类主导 AI 协作证明 KLS 猜想",
+      "summary": "微软研究院报道研究者结合数学创新与人类主导的 AI 搜索，得到与维数无关的 KLS 常数界。",
+      "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+      "date": "2026-10-21",
+      "publicationTimeNote": "官方报道只有日期，未提供确切小时；论文证明版本早于本次报道。",
+      "source": "Microsoft Research",
+      "status": "研究及预印本报道；独立证明与Lean形式化为原文所述，本次未执行完整证明核验，不等同于已确认同行评审。",
+      "breakthrough": true,
+      "breakthroughField": "AI辅助数学研究",
+      "recommended": false,
+      "details": {
+        "overview": "微软研究院报道研究者结合数学创新与人类主导的 AI 搜索，得到与维数无关的 KLS 常数界。AI 辅助探索候选方法和推导，研究者决定方向并组织最终证明。原文报告独立证明与 Lean 形式化，本次已核查论文和相关仓库的公开入口，但未复核完整证明；10月21日是报道日期，完整证明版本早在10月上旬公布。",
+        "keyPoints": [
+          "结果涉及高维对数凹分布的等周性质，对采样和随机算法理论有意义。",
+          "研究者筛选并引导约百条研究轨迹，不能表述为AI单次独立解题。",
+          "作者简化证明及进一步形式化仍有后续工作，预印本不自动等同于同行评审。"
+        ],
+        "editorialNote": "来源为微软官方研究报道，并交叉查看所链接的arXiv论文及Lean仓库；不是本网站对数学证明正确性的独立认证。"
+      },
+      "relatedSources": [
+        {
+          "title": "原论文：An O(1) Bound for the KLS Constant",
+          "url": "https://arxiv.org/abs/2610.01447"
+        },
+        {
+          "title": "独立证明",
+          "url": "https://arxiv.org/abs/2610.05474"
+        },
+        {
+          "title": "Lean 4形式化项目",
+          "url": "https://github.com/HongruZhao/KLS500"
+        }
+      ]
+    },
+    {
+      "id": "dd491d284515d8d4",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
+      "summary": "本文为英伟达官方发布的GTC Berlin 2026主题演讲实录。",
+      "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T09:30:16+00:00",
+      "source": "NVIDIA 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "recommendedOn": "2026-10-22",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
+      "titleZh": "GTC Berlin 2026：英伟达CEO黄仁勋主题演讲实时更新",
+      "details": {
+        "overview": "本文为英伟达官方发布的GTC Berlin 2026主题演讲实录。黄仁勋在柏林Tempodrom登台，称欧洲多家企业正与英伟达合作推进AI，并宣布DSX POD模块化AI工厂参考设计、面向安全智能体的OpenShell参考架构、Agent Knowledge Foundation知识层，以及Nemotron、Cosmos、GR00T等开放模型系列。他还介绍电信网络作为分布式AI基础设施、与西门子医疗的自适应放疗合作、Hyperion车载平台新增车企，以及RTX Spark笔记本和Agile ONE SN人形机器人参考平台。",
+        "keyPoints": [
+          "黄仁勋称英伟达已向欧洲技术生态投入近100亿美元，并与超过1.2万家合作伙伴协作。",
+          "DSX POD为模块化容器式AI工厂参考设计，官方称站点就绪后现场部署可由六个月缩短至14天。",
+          "OpenShell为开源、策略控制的智能体运行时，提供内核级沙箱以限制并监控智能体权限。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
     {
       "id": "d8e49d7a53ac98cd",
       "section": "news",
@@ -227,6 +504,56 @@
       "publishedAt": "2026-10-20T16:09:19Z",
       "recommendedOn": "2026-10-21",
       "recommendationReason": "滚动24小时内发布的官方消息。"
+    },
+    {
+      "id": "d801af45ebed7c9b",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "summary": "OpenAI宣布将ChatGPT Ads扩展至26个新增国家，全球覆盖范围增至89个国家。",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T13:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "status": "官方已宣布扩大广告投放地区；广告仅面向Free和Go计划。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": false,
+      "titleEn": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "titleZh": "ChatGPT Ads扩展至26个新国家，已有超10万名广告主使用该平台",
+      "details": {
+        "overview": "OpenAI宣布将ChatGPT Ads扩展至26个新增国家，全球覆盖范围增至89个国家。官方称自广告上线八个多月以来，已有超过10万名广告主在ChatGPT投放广告。新增市场包括阿根廷、智利、哥伦比亚、秘鲁等14个拉美国家，以及尼日利亚、南非、塞尔维亚、乌克兰、柬埔寨、孟加拉国和巴基斯坦等。广告仅出现在Free和Go计划中，Plus、Pro和Enterprise订阅保持无广告。广告主可通过技术合作伙伴或Ads Manager自助接入。",
+        "keyPoints": [
+          "ChatGPT Ads新增26个国家，全球覆盖范围扩大至89个国家。",
+          "官方称广告上线八个多月，已有超10万名广告主投放。",
+          "广告仅面向Free和Go计划；原文明确Plus、Pro及Enterprise保持无广告。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "c016903741e8d013",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "summary": "OpenAI于2026年10月21日发布一份蓝图，主题是让网络防御者获得先进AI能力。",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T00:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": false,
+      "titleEn": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "titleZh": "前沿AI的民主治理，第二部分：赋能网络防御者",
+      "details": {
+        "overview": "OpenAI于2026年10月21日发布一份蓝图，主题是让网络防御者获得先进AI能力。文章称AI正改变网络安全的节奏、规模与经济性，既能帮助防御者发现漏洞、检测入侵和响应攻击，也可能被恶意行为者利用；当前处于“防御者窗口”，即先进网络攻击能力广泛可用前的一段有限时间。蓝图围绕三方面提出建议：强化前沿模型与智能体的安全责任、检测危险行为并保持可靠关停控制；为防御者提供工具、培训与技术支持并修补长期弱点；加强政府评估、独立技术评估、事件报告与协同响应。",
+        "keyPoints": [
+          "文章称AI同时提升攻防能力，当前是加强防御的有限窗口期。",
+          "蓝图建议明确前沿模型与智能体的安全责任、危险行为检测和关停控制。",
+          "提出为防御者提供工具与培训，并强化政府评估、事件报告和协同响应。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
     },
     {
       "id": "be2d8f6cbac058fb",
@@ -255,6 +582,164 @@
       "recommendationReason": "滚动24小时内发布的官方消息。"
     },
     {
+      "id": "a82f01318910676a",
+      "section": "codex",
+      "category": "功能预告",
+      "title": "OpenAI models are coming to Google Cloud",
+      "summary": "OpenAI与Google Cloud宣布合作，计划将OpenAI的前沿模型和Codex智能体工作流引入Google Cloud的Model Garden。",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T12:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "status": "官方未来集成计划；原文为will/soon，未宣称已普遍可用。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": false,
+      "titleEn": "OpenAI models are coming to Google Cloud",
+      "titleZh": "OpenAI模型即将登陆Google Cloud",
+      "details": {
+        "overview": "OpenAI与Google Cloud宣布合作，计划将OpenAI的前沿模型和Codex智能体工作流引入Google Cloud的Model Garden。原文使用will和soon表述，属于未来集成计划，并未宣称已普遍可用。按原文说法，客户将能在Google Cloud环境中原生访问这些模型，并借助其访问控制、集中式数据治理和高性能基础设施运行企业级智能体工作流；购买可通过Google Cloud Marketplace完成，并可用GCP承诺消费抵扣。",
+        "keyPoints": [
+          "OpenAI前沿模型与Codex工作流计划接入Google Cloud的Model Garden。",
+          "购买拟通过Google Cloud Marketplace进行，可用GCP承诺消费抵扣。",
+          "原文称模型还将进入Google Antigravity和Gemini Agent，属未来计划。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "955753c5b4ff6c49",
+      "section": "news",
+      "category": "模型动态",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "summary": "IBM 发布 Granite Speech 系列三项更新：新模型 granite-speech-5.0-2b 支持英语、法语、德语、西班牙语、葡萄牙语和日语的转写，并在这些语言与英语之间互译，另支持英语译意大利语和普通话；更新版 granite-speech-5.0-470m-turboctc 增加多语言与原生标点、大小写；granite-speech-4.1-2b-plus 改进说话人归属、时间戳、关键词偏置和长语音表现。",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T14:58:18+00:00",
+      "source": "Hugging Face 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "recommendedOn": "2026-10-22",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "titleZh": "Granite Speech 5.0：更准确、更快速地转写、翻译与说话人归属",
+      "details": {
+        "overview": "IBM 发布 Granite Speech 系列三项更新：新模型 granite-speech-5.0-2b 支持英语、法语、德语、西班牙语、葡萄牙语和日语的转写，并在这些语言与英语之间互译，另支持英语译意大利语和普通话；更新版 granite-speech-5.0-470m-turboctc 增加多语言与原生标点、大小写；granite-speech-4.1-2b-plus 改进说话人归属、时间戳、关键词偏置和长语音表现。三者均以 Apache 2.0 许可发布。",
+        "keyPoints": [
+          "granite-speech-5.0-2b 支持最多 2,000 个关键词偏置，覆盖全部支持语言。",
+          "Turbo CTC 更新后 RTFx 由约 12,600 提升至 19,870，官方称约 1.6 倍加速。",
+          "4.1-2b-plus 长语音测试集 WER 由 13.53 降至 10.22，说话人归属指标改善。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "886c92302568acab",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
+      "summary": "NVIDIA 官方博客介绍 Agent Toolkit 的扩展内容：新增 Agent Knowledge Foundation，结合 CUDA-X 库与 Auto-Ontology，把企业原始数据映射为业务概念；并纳入 Nemotron Retriever、Kumo 系列开放模型、OpenShell 安全运行时与 NemoClaw 蓝图。",
+      "url": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T10:10:01+00:00",
+      "source": "NVIDIA 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "recommendedOn": "2026-10-22",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
+      "titleZh": "NVIDIA Agent Toolkit 扩展，将企业智能体扎根于公司数据",
+      "details": {
+        "overview": "NVIDIA 官方博客介绍 Agent Toolkit 的扩展内容：新增 Agent Knowledge Foundation，结合 CUDA-X 库与 Auto-Ontology，把企业原始数据映射为业务概念；并纳入 Nemotron Retriever、Kumo 系列开放模型、OpenShell 安全运行时与 NemoClaw 蓝图。文章称企业可在不迁移数据、不改动既有工作流与治理控制的前提下使用该基础。文中还列举 Palantir、Databricks、Snowflake、SAP、ServiceNow、Zoom 等合作方场景，属官方发布信息，非独立验证。",
+        "keyPoints": [
+          "Agent Knowledge Foundation 含 CUDA-X 库与 Auto-Ontology，可将原始数据映射为业务概念",
+          "配套 Nemotron Retriever、Kumo 系列开放模型及 OpenShell 安全运行时",
+          "官方称企业无需迁移数据或改动治理控制即可使用"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "855c9fe13952af3a",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "summary": "OpenAI 发布文章称，其牵头联合维护者、研究人员与安全厂商，处理 PHP 开源语言中的关键漏洞。",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T07:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "recommendedOn": "2026-10-22",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "titleZh": "Patch the Planet：智能体发现关键漏洞，全球响应协同展开",
+      "details": {
+        "overview": "OpenAI 发布文章称，其牵头联合维护者、研究人员与安全厂商，处理 PHP 开源语言中的关键漏洞。文中称 Calif 借助 GPT‑5.6 Sol 在 Patch the Planet 计划中发现一处严重缺陷，Wiz 也独立发现并报告了这两个漏洞；PHP 维护者主导修复与发布，Wiz、Cloudflare 等参与研究与协调。文章称这是近年影响最大的安全问题之一，并强调前沿 AI 先于攻击者发现漏洞，为防御方争取了窗口期。",
+        "keyPoints": [
+          "OpenAI 称 Calif 用 GPT‑5.6 Sol 发现 PHP 关键漏洞，Wiz 独立发现并报告两个漏洞。",
+          "PHP 维护者主导修复与发布，Wiz、Cloudflare 等参与研究、技术支持与披露前协调。",
+          "OpenAI 称已承诺 10 亿美元补贴 Daybreak 访问，面向安全资源有限的机构。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "7ceb1320e7fc8579",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+      "summary": "Anthropic宣布，实验物理学家、哈佛大学前理学院院长Christopher Stubbs加入其长期利益信托，成为该信托首位物理学家。",
+      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T00:00:00+00:00",
+      "source": "Anthropic 官方新闻与研究",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": false,
+      "titleEn": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+      "titleZh": "物理学家Christopher Stubbs加入Anthropic长期利益信托",
+      "details": {
+        "overview": "Anthropic宣布，实验物理学家、哈佛大学前理学院院长Christopher Stubbs加入其长期利益信托，成为该信托首位物理学家。他长期从事观测宇宙学与精密测量研究，曾参与发现宇宙加速膨胀，并担任Vera C. Rubin天文台首任项目科学家，还曾就国家安全与军控向美国政府提供建议。Anthropic称，该信托有权任命公司董事会多数席位，并就AI风险与社会影响等关键决策向董事会和管理层提供建议。Stubbs表示，他日常在研究中使用AI工具，希望帮助确保AI的开发和部署服务于人类长期利益。",
+        "keyPoints": [
+          "Stubbs是实验物理学家、哈佛前理学院院长，曾参与发现宇宙加速膨胀。",
+          "他成为Anthropic长期利益信托首位物理学家，该信托可任命董事会多数席位。",
+          "他近期撰文讨论模型对同一问题给出不同答案时，如何保持AI辅助研究的可复现性。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "7b858af7632a2536",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "summary": "OpenAI、PerturbAI与Scripps Research报告使用数千个GPT-Rosalind智能体，在32分钟内分析数百万小鼠脑细胞的既有实验数据。",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T04:50:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "status": "官方研究及预印本发布；机制假说需后续实验，不等于临床治疗成果。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "recommendedOn": "2026-10-22",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "Using thousands of AI agents to uncover new leads in biological data",
+      "titleZh": "利用数千个AI智能体在生物数据中发现新线索",
+      "details": {
+        "overview": "OpenAI、PerturbAI与Scripps Research报告使用数千个GPT-Rosalind智能体，在32分钟内分析数百万小鼠脑细胞的既有实验数据。智能体连接基因扰动、细胞响应与科学文献，形成供研究者探索的推理图谱。文章称部分判断与盲评专家一致，但新机制线索仍需后续实验检验，不能表述为发现了已验证疗法。",
+        "keyPoints": [
+          "数千个AI智能体并行分析数百万个小鼠脑细胞实验数据，耗时32分钟。",
+          "智能体将基因扰动效应与文献发现关联，找出意外的生物学联系。",
+          "研究线索用于帮助选择后续实验，潜在机制仍需验证。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
       "id": "79603b89bcf4a98c",
       "section": "codex",
       "category": "功能更新",
@@ -277,6 +762,190 @@
       "recommended": false,
       "publishedAt": "2026-10-20T22:15:45Z",
       "releaseChannel": "prerelease"
+    },
+    {
+      "id": "63463bc48af2afef",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+      "summary": "该新闻稿介绍欧洲多家工业企业在工程与制造全流程中采用NVIDIA CUDA-X、Omniverse库及Cosmos、Nemotron开放模型。",
+      "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T10:30:40+00:00",
+      "source": "NVIDIA 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "recommendedOn": "2026-10-22",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+      "titleZh": "欧洲工业领军企业借助NVIDIA重塑工程与制造",
+      "details": {
+        "overview": "该新闻稿介绍欧洲多家工业企业在工程与制造全流程中采用NVIDIA CUDA-X、Omniverse库及Cosmos、Nemotron开放模型。稿件称，面向工厂场景的NVIDIA Factory Operations Blueprint（FOX）已在GitHub开放早期访问，供开发者构建协调设备与专项任务的工厂智能体。文中列举西门子、梅赛德斯-奔驰、奥迪等企业的应用案例，并给出部分加速与成本节省数字，属厂商发布信息，非独立验证结论。",
+        "keyPoints": [
+          "FOX蓝图在GitHub开放早期访问，用于构建工厂管理及视觉检测等专项智能体。",
+          "西门子将FOX构建的智能体集成至Intelligence Center X，稿件称预计节省成本20%。",
+          "cuDSS正式发布，用于加速结构应力、流体、电磁场等工程仿真计算。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "473147f97a03dbe2",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+      "summary": "Google Cloud 与 NVIDIA 宣布，由 NVIDIA Vera Rubin NVL72 加速的 A5X 实例计划于2026年11月正式可用，并计划扩展至欧洲，为训练、推理和大规模强化学习提供集成平台。",
+      "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T10:45:17+00:00",
+      "source": "NVIDIA 官方博客",
+      "status": "官方预告：A5X实例计划下月正式可用，欧洲开放范围另有扩展计划；不可视为已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "recommendedOn": "2026-10-22",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+      "titleZh": "Google Cloud A5X 与 NVIDIA Vera Rubin 基础设施计划下月正式可用",
+      "details": {
+        "overview": "Google Cloud 与 NVIDIA 宣布，由 NVIDIA Vera Rubin NVL72 加速的 A5X 实例计划于2026年11月正式可用，并计划扩展至欧洲，为训练、推理和大规模强化学习提供集成平台。稿件称 A5X 整合 Vera Rubin NVL72、ConnectX-9 SuperNICs、Google Cloud Virgo 网络与第四代液冷技术，并计划在多个站点扩展到最多 96 万块 Rubin GPU。首批客户 Ineffable Intelligence 用于大规模强化学习，WPP 则演示了创意智能体参考架构。",
+        "keyPoints": [
+          "A5X 实例整合 Vera Rubin NVL72、ConnectX-9 SuperNICs、Virgo 网络与第四代液冷技术。",
+          "Google Cloud 计划将基于 Vera Rubin 的基础设施扩展至多站点最多 96 万块 Rubin GPU。",
+          "Ineffable Intelligence 为首批客户，用于大规模强化学习与“超级学习者”系统。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "316d1c8b80f72dfe",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "summary": "OpenAI工程团队撰文介绍ChatGPT广告投放系统的设计思路。",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T07:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "recommendedOn": "2026-10-22",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "titleZh": "我们如何为ChatGPT构建兼顾用户信任与相关性的全新广告系统",
+      "details": {
+        "overview": "OpenAI工程团队撰文介绍ChatGPT广告投放系统的设计思路。文章指出，传统广告系统依赖搜索词或页面浏览等离散意图事件，而ChatGPT中的用户意图跨多轮对话逐步形成，有时并不存在合适的广告时机。为此团队构建了一套定制广告投放系统，基于经后训练的前沿大模型，通过工具调用完成广告检索、排序、相关性评估以及竞价与定价。文章还涉及对话记忆不影响回答、编排器在智能体循环中调用广告工具、候选过滤与最终资格检查等环节。",
+        "keyPoints": [
+          "广告系统基于经后训练的前沿大模型，通过工具调用完成检索、排序、相关性评估与竞价",
+          "设计强调对话记忆不用于影响ChatGPT的回答内容",
+          "针对意图跨多轮对话演变的场景，设置候选过滤与最终资格检查等环节"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "31394db11eba8871",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+      "summary": "该新闻介绍NVIDIA云合作伙伴在欧洲、北欧、非洲和中亚扩展区域算力，用于模型训练与推理，并支持智能体与物理AI应用。",
+      "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T10:30:41+00:00",
+      "source": "NVIDIA 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "recommendedOn": "2026-10-22",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+      "titleZh": "NVIDIA云合作伙伴在欧洲扩张——主权、开放、为安全AI智能体而建",
+      "details": {
+        "overview": "该新闻介绍NVIDIA云合作伙伴在欧洲、北欧、非洲和中亚扩展区域算力，用于模型训练与推理，并支持智能体与物理AI应用。文中提到Nscale、Crusoe、Nebius、Mistral等伙伴的部署与计划，以及NVIDIA OpenShell参考架构为智能体设定访问边界。内容属官方发布，测试与未来计划不等于已全面上线。",
+        "keyPoints": [
+          "Nscale称在GB300 NVL72测试中，DSX MaxLPS使同一供电预算下GPU数量增37%、聚合推理吞吐近50%。",
+          "Nebius采用NVIDIA Groq 3 LPX配合Spectrum-X接入Vera Rubin NVL72，用于Token Factory生产推理。",
+          "OpenShell参考架构结合Vera CPU与BlueField-4 DPU，为智能体访问与操作设定边界。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "136d352cd7f838dd",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.164.0-alpha.9 测试版发布",
+      "titleZh": "Codex CLI 0.164.0-alpha.9 测试版发布",
+      "summary": "Codex 官方 GitHub 发布了 0.164.0-alpha.9 alpha 测试版本。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.9",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T14:12:01Z",
+      "source": "Codex GitHub Releases",
+      "releaseChannel": "prerelease",
+      "status": "已发布alpha测试版；官方未提供详细变更说明。",
+      "details": {
+        "overview": "Codex 官方 GitHub 发布了 0.164.0-alpha.9 alpha 测试版本。该版本已经发布，属于功能更新记录；官方正文只有版本号，没有逐项说明新增功能、修复或兼容性变化。本条不据此推测功能差异，也不将测试版误归入未来预告。",
+        "keyPoints": [
+          "这是已发布的 alpha 版本，并非稳定版或尚未发布的计划。",
+          "官方正文没有详细变更说明，具体差异应继续关注发布记录。"
+        ]
+      },
+      "recommended": false
+    },
+    {
+      "id": "1157845f4fd266e2",
+      "section": "news",
+      "category": "工具动态",
+      "title": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
+      "summary": "NVIDIA 宣布 CUDA-X 库 cuDSS 正式全面可用，将工程与科学仿真中反复出现的大型稀疏系统求解迁移到 GPU 上执行。",
+      "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T10:30:25+00:00",
+      "source": "NVIDIA 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "recommendedOn": "2026-10-22",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
+      "titleZh": "NVIDIA cuDSS 正式全面可用，加速工程与科学仿真",
+      "details": {
+        "overview": "NVIDIA 宣布 CUDA-X 库 cuDSS 正式全面可用，将工程与科学仿真中反复出现的大型稀疏系统求解迁移到 GPU 上执行。官方称这可缩短结果时间、提升仿真吞吐，让用户以更低成本探索更大模型和更广设计空间。文中列出应用材料、COMSOL、Cadence、达索系统、西门子、新思科技等厂商的集成情况，并给出各自报告的加速幅度，但这些数据来自厂商自述，并非独立验证。",
+        "keyPoints": [
+          "cuDSS 将大型稀疏系统求解这一仿真关键步骤交由 GPU 加速。",
+          "官方称其可从单工作站扩展至大型计算集群，并提供 C、C++、Python、Fortran 接口。",
+          "多家厂商称已集成 cuDSS，并报告最高约 10 倍等加速效果。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "0ea1736c1806a33b",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
+      "summary": "NVIDIA在GTC柏林期间宣布扩展其开放模型家族，覆盖语言、视觉、检索、表格数据、生物、机器人与量子计算。",
+      "url": "https://blogs.nvidia.com/blog/open-models-europe-industry/",
+      "date": "2026-10-21",
+      "publishedAt": "2026-10-21T10:00:07+00:00",
+      "source": "NVIDIA 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "recommendedOn": "2026-10-22",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
+      "titleZh": "NVIDIA开放模型推动欧洲各行业主权智能发展",
+      "details": {
+        "overview": "NVIDIA在GTC柏林期间宣布扩展其开放模型家族，覆盖语言、视觉、检索、表格数据、生物、机器人与量子计算。稿件称，Nemotron 3.5 Super VL与Bolt、Nemotron Retriever、Kumo、Cosmos 3.5、Alpamayo 2 Edge、BioNeMo RFD4-Proteina及Ising等模型，让开发者可用本地数据定制并部署在自有基础设施上。文中列举Dassault Systèmes、SAP、西门子、IQM等合作方，并给出各模型的获取渠道与部分上线时间。",
+        "keyPoints": [
+          "NVIDIA发布Nemotron、Kumo、Cosmos、BioNeMo、Ising等开放模型，覆盖多行业场景。",
+          "稿件称企业可用本地数据定制模型，并部署在自身可控的基础设施上。",
+          "部分模型已上线Hugging Face等平台，Nemotron 3.5 Bolt E4B计划10月23日提供。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
     },
     {
       "id": "b81f1cbf1feddb87",
@@ -375,6 +1044,31 @@
       "releaseChannel": "prerelease"
     },
     {
+      "id": "7aee2ccf84bd3b76",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "summary": "本文回顾 AnyLanguageModel 发布一年后的 1.0 版本。",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T00:00:00+00:00",
+      "source": "Hugging Face 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": false,
+      "titleEn": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "titleZh": "AnyLanguageModel 1.0：Apple 平台本地模型的一年",
+      "details": {
+        "overview": "本文回顾 AnyLanguageModel 发布一年后的 1.0 版本。该项目是 Apple Foundation Models 框架的替代实现，开发者只需把 import 语句从 FoundationModels 改为 AnyLanguageModel，同一套会话代码即可调用系统模型、经 llama.cpp、MLX、Core ML 运行的开放权重模型，以及 OpenAI、Anthropic、Gemini、Ollama 等托管服务。作者称工具调用与引导式生成已覆盖所有提供方，并新增图像输入、推理块记录和基于闭包的 API 密钥获取；配套的 swift-huggingface 与 swift-xet 1.0 用于加速模型下载。文中还列出若干可在 iPhone 或 Mac 上运行的开放权重模型，并预告后续将支持决策类与语音类模型。",
+        "keyPoints": [
+          "以替换 import 的方式兼容 Foundation Models API，同一会话代码可切换本地与托管模型。",
+          "作者称工具调用、引导式生成已覆盖所有提供方，并新增图像输入与推理块记录。",
+          "配套 swift-huggingface、swift-xet 1.0 提供从 Hub 加速下载模型的能力。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
       "id": "7999785106b49084",
       "section": "news",
       "category": "行业新闻",
@@ -401,6 +1095,31 @@
       "recommendationReason": "过去24小时内发布的官方消息。"
     },
     {
+      "id": "62bef833248fd1fc",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure",
+      "summary": "该新闻稿介绍，Nebius、Nscale、Verda等AI云服务商，以及Bull、Dell、HPE、Lenovo、Supermicro等服务器厂商，正基于NVIDIA Vera CPU构建本地基础设施。",
+      "url": "https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure/",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T10:30:11+00:00",
+      "source": "NVIDIA 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": false,
+      "titleEn": "European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure",
+      "titleZh": "欧洲业界领袖采用NVIDIA Vera CPU构建本地基础设施",
+      "details": {
+        "overview": "该新闻稿介绍，Nebius、Nscale、Verda等AI云服务商，以及Bull、Dell、HPE、Lenovo、Supermicro等服务器厂商，正基于NVIDIA Vera CPU构建本地基础设施。稿件称，Vera面向智能体计算场景，强调单核性能、LPDDR5X内存带宽与可扩展一致性互连，用于加速信息检索、工具调用、代码执行等CPU密集型环节，并支持独立CPU服务器或与GPU协同部署。ClickHouse、SAP等数据公司称早期测试在分析、ETL和语义搜索负载上观察到良好结果。",
+        "keyPoints": [
+          "Nebius、Nscale、Verda等AI云商采用Vera，支撑企业及开发者的数据处理与软件执行需求。",
+          "Bull、Dell、HPE、Lenovo、Supermicro基于Vera构建系统，可单独部署或与GPU协同。",
+          "ClickHouse、SAP等称早期测试在分析、ETL与语义搜索负载上观察到良好结果。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
       "id": "4adb815242f0b053",
       "section": "news",
       "category": "行业新闻",
@@ -424,6 +1143,56 @@
       "recommended": false,
       "publishedAt": "2026-10-20T05:00:00Z",
       "publicationTimeNote": "来源日期存在冲突：页面可见2026-10-19，RSS及article:published_time为2026-10-20T05:00:00+00:00；按元数据归档，暂不推荐。"
+    },
+    {
+      "id": "3ecaf69341e798da",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "summary": "OpenAI 官方发布案例称，金融科技初创公司 Terminal X 的 Capital Memory 系统将投资机构的决策逻辑编码进自有智能体，并用 Eval Agent 按 54 项标准评分。",
+      "url": "https://openai.com/index/terminal-x",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T07:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": false,
+      "titleEn": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "titleZh": "Terminal X 借助 GPT-6.1 使判断与资深投资人一致率达 88.6%",
+      "details": {
+        "overview": "OpenAI 官方发布案例称，金融科技初创公司 Terminal X 的 Capital Memory 系统将投资机构的决策逻辑编码进自有智能体，并用 Eval Agent 按 54 项标准评分。稿件表示，使用 GPT-6.1 Sol 后，Eval Agent 对偏离基金授权范围建议的检出率比次优模型高约 25%，与人工评审的一致率提升 220 个基点，单次查询成本低约 30%，某客户年化节省 240 万美元。这些是官方客户案例的报告结果，不能等同于投资收益或普遍效果保证。",
+        "keyPoints": [
+          "Eval Agent 依据 54 项标准评分，GPT-6.1 Sol 对偏离基金授权建议的检出率比次优模型高约 25%",
+          "官方称与人工评审的一致率提升 220 个基点，单次查询成本低约 30%",
+          "系统部署在客户本地或自有云，由前金融从业工程师协助编码投资逻辑"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "329410bb72949714",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "MPS in PyTorch 2.15",
+      "summary": "Hugging Face 的 PyTorch 团队介绍了 PyTorch 2.15 在苹果 MPS 后端上的改进：FP8 张量与 F.scaled_mm 支持、面向语言模型解码的线性层与 softmax 加速、MoE 分组矩阵乘法的原生 Metal 实现，以及复数 LU、三角求解等线性代数运算。",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "date": "2026-10-20",
+      "publishedAt": "2026-10-20T00:00:00+00:00",
+      "source": "Hugging Face 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": false,
+      "titleEn": "MPS in PyTorch 2.15",
+      "titleZh": "PyTorch 2.15 中的 MPS 后端更新",
+      "details": {
+        "overview": "Hugging Face 的 PyTorch 团队介绍了 PyTorch 2.15 在苹果 MPS 后端上的改进：FP8 张量与 F.scaled_mm 支持、面向语言模型解码的线性层与 softmax 加速、MoE 分组矩阵乘法的原生 Metal 实现，以及复数 LU、三角求解等线性代数运算。作者声称在 M3 Ultra 上 MoE 模型解码速度较 2.14 提升 5–6.5 倍，Wan2.2 视频 VAE 解码峰值驱动内存从约 270 GiB 降至约 8 GiB。这些数据来自该团队的测试，属于官方发布说明，并非独立验证。",
+        "keyPoints": [
+          "MPS 新增 float8_e4m3fn 张量，可用 F.scaled_mm 在 GPU 上做缩放矩阵乘法。",
+          "MoE 分组矩阵乘法改为原生 Metal 内核，作者称解码吞吐较 2.14 提升 5–6.5 倍。",
+          "常量填充改走 Metal 内核，作者称 Wan2.2 视频 VAE 解码峰值驱动内存降至约 8 GiB。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
     },
     {
       "id": "251a93e9562e61e9",
