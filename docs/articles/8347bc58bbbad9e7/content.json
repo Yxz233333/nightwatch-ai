@@ -1,0 +1,28 @@
+{
+  "id": "8347bc58bbbad9e7",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+  "summary": "NVIDIA发布AIOps平台Minerva，面向大规模AI工厂运维。",
+  "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+  "date": "2026-10-22",
+  "source": "NVIDIA 官方博客",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "publishedAt": "2026-10-22T15:00:02+00:00",
+  "recommendedOn": "2026-10-23",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+  "titleZh": "NVIDIA推出Minerva，为AI工厂带来端到端可观测性",
+  "details": {
+    "overview": "NVIDIA发布AIOps平台Minerva，面向大规模AI工厂运维。该平台汇聚GPU、网络、存储、调度器与AI工作负载的遥测数据，构建动态知识图谱，并用监督与无监督机器学习分析每小时数十亿数据点，识别异常、预测故障并关联事件，将大量告警归并为带可能根因的单一事件。平台还提供基于实时遥测的AI助手，可连接外部智能体工具。NVIDIA称其有助于延长无中断运行时间、加快修复并提升洞察，IREN等合作伙伴计划部署。",
+    "keyPoints": [
+      "平台整合基础设施与AI工作负载遥测，构建动态知识图谱映射GPU、网络与作业。",
+      "用监督与无监督学习分析每小时数十亿数据点，检测异常、预测故障并归并告警。",
+      "内置AI助手并支持连接外部智能体工具，IREN等合作伙伴计划部署。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

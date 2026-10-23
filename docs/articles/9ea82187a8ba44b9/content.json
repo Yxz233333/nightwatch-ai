@@ -1,0 +1,28 @@
+{
+  "id": "9ea82187a8ba44b9",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+  "summary": "该新闻汇总了在GTC Berlin上多家欧洲银行、支付公司与金融数据商的展示：它们基于NVIDIA加速计算、开放权重模型和自有基础设施构建生产级智能。",
+  "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+  "date": "2026-10-22",
+  "source": "NVIDIA 官方博客",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "publishedAt": "2026-10-22T05:00:56+00:00",
+  "recommendedOn": "2026-10-23",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+  "titleZh": "欧洲领先金融服务机构采用开放模型构建专有智能",
+  "details": {
+    "overview": "该新闻汇总了在GTC Berlin上多家欧洲银行、支付公司与金融数据商的展示：它们基于NVIDIA加速计算、开放权重模型和自有基础设施构建生产级智能。Revolut以单一基础模型PRAGMA重建技术栈，初期服务8000万客户；Starling Bank在英国主权云上训练代理模型；Lloyds构建交易基础模型ATUM；bunq、NatWest、Modulr、Santander等也采用开放模型。新闻还提到LSEG、RavenPack、HSBC、Stripe在金融研究与欺诈检测上的加速效果。",
+    "keyPoints": [
+      "Revolut基于NVIDIA加速计算以PRAGMA重建技术栈，初期服务8000万客户并设计可扩展3倍。",
+      "Starling Bank称其为首家在英国主权云上训练代理模型的银行，使用自有交易数据。",
+      "bunq称其代理助手Finn采用开放权重模型，每次回答成本为领先闭源模型的60%。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

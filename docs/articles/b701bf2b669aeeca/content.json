@@ -1,0 +1,26 @@
+{
+  "id": "b701bf2b669aeeca",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+  "summary": "OpenAI 官方发布客户案例，介绍 Cloudflare 如何把通过 Daybreak 访问的 OpenAI 模型接入其漏洞发现与修复早期访问服务：模型调查客户授权代码、评估潜在漏洞并核查证据，Cloudflare 再叠加实时流量与安全信号，对发现排序并准备补丁和自定义 WAF 规则供客户审核。",
+  "url": "https://openai.com/index/cloudflare-cyber",
+  "date": "2026-10-21",
+  "source": "OpenAI 官方新闻",
+  "status": "客户案例；漏洞发现与修复为早期访问服务，客户审核建议的缓解措施。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": false,
+  "publishedAt": "2026-10-21T00:00:00+00:00",
+  "titleEn": "Cloudflare links vulnerability discovery to defense with OpenAI",
+  "titleZh": "Cloudflare 借助 OpenAI 将漏洞发现与防御联动",
+  "details": {
+    "overview": "OpenAI 官方发布客户案例，介绍 Cloudflare 如何把通过 Daybreak 访问的 OpenAI 模型接入其漏洞发现与修复早期访问服务：模型调查客户授权代码、评估潜在漏洞并核查证据，Cloudflare 再叠加实时流量与安全信号，对发现排序并准备补丁和自定义 WAF 规则供客户审核。文中还称 Codex 被 Cloudflare 约三分之一为开发者的员工使用，一支四人团队三天重建某产品、token 花费 1100 美元。",
+    "keyPoints": [
+      "Cloudflare 用 Daybreak 访问的 OpenAI 模型调查代码、评估漏洞并核查证据。",
+      "服务结合实时流量与安全信号排序发现，提出补丁和 WAF 规则供客户审核。",
+      "案例称一支四人团队借助Codex三天完成某产品重建，属于特定团队自述。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

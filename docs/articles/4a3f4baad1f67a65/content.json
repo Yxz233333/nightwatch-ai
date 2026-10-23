@@ -1,0 +1,28 @@
+{
+  "id": "4a3f4baad1f67a65",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+  "summary": "OpenAI官方发布消息称，Uber宣布在公司范围内推广ChatGPT Work，这是一款在ChatGPT Enterprise内帮助员工处理多种任务的智能体。",
+  "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+  "date": "2026-10-22",
+  "source": "OpenAI 官方新闻",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "publishedAt": "2026-10-22T00:00:00+00:00",
+  "recommendedOn": "2026-10-23",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "Uber brings ChatGPT Work to all employees with OpenAI",
+  "titleZh": "Uber携手OpenAI向全体员工部署ChatGPT Work",
+  "details": {
+    "overview": "OpenAI官方发布消息称，Uber宣布在公司范围内推广ChatGPT Work，这是一款在ChatGPT Enterprise内帮助员工处理多种任务的智能体。此次推广覆盖Uber全球超过3万名员工，从此前1000名员工的试点扩展而来，成为Uber首个面向知识工作的全公司级智能体平台部署。该智能体可连接Google Drive、Gmail、Google日历和Slack等日常工具，用于调研信息、准备会议简报、制作演示、分析数据和完成跨应用工作流。Uber还将获得OpenAI前沿模型组合，其中GPT-6.1 Sol将作为默认能力部署。",
+    "keyPoints": [
+      "推广覆盖Uber全球逾3万名员工，由此前1000人试点扩展至全公司。",
+      "ChatGPT Work可连接Google Drive、Gmail、日历和Slack，支持跨应用完成工作流。",
+      "GPT-6.1 Sol将作为ChatGPT Work默认能力部署，兼顾前沿性能与成本效率。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

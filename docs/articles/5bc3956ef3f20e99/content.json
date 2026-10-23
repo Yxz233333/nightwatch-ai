@@ -1,0 +1,26 @@
+{
+  "id": "5bc3956ef3f20e99",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Southeast Asia’s digital economy to hit $368 billion",
+  "summary": "谷歌、淡马锡与贝恩公司发布第11版《e-Conomy SEA》报告，称东南亚数字经济2026年商品交易总额将同比增长17%至3680亿美元，并有望在2035年突破1万亿美元。",
+  "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+  "date": "2026-10-21",
+  "source": "Google AI 官方博客",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": false,
+  "publishedAt": "2026-10-21T04:00:00+00:00",
+  "titleEn": "Southeast Asia’s digital economy to hit $368 billion",
+  "titleZh": "东南亚数字经济规模将达3680亿美元",
+  "details": {
+    "overview": "谷歌、淡马锡与贝恩公司发布第11版《e-Conomy SEA》报告，称东南亚数字经济2026年商品交易总额将同比增长17%至3680亿美元，并有望在2035年突破1万亿美元。报告称生成式AI已被2.43亿东南亚人日常使用，增速为移动互联网的四倍，并预计未来五年区域AI使用量增长约60倍。报告还提出数据中心扩容、能效规则与区域数字贸易协定等配套条件。",
+    "keyPoints": [
+      "报告预计2026年东南亚数字经济GMV达3680亿美元，同比增长17%，2035年有望超1万亿美元。",
+      "生成式AI被2.43亿人使用，增速为移动互联网四倍，报告预计五年内区域AI使用量增约60倍。",
+      "报告称75%用户愿让AI代理比价并完成交易，并提出数据中心容量约需扩至三倍。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

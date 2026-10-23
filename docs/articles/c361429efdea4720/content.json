@@ -1,0 +1,28 @@
+{
+  "id": "c361429efdea4720",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Ensemble forecasting with IBM Granite time-series models",
+  "summary": "IBM Research 发布 Granite Timeseries Ensemble，将四个预训练 Granite 时间序列模型（PatchTST-FM-r1、PatchTST-FM-r2、FlowState-r1.1、TTM-r3）组合为一个可扩展的预测接口，无需重新训练或拟合集成权重。",
+  "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+  "date": "2026-10-22",
+  "source": "Hugging Face 官方博客",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "publishedAt": "2026-10-22T07:51:31+00:00",
+  "recommendedOn": "2026-10-23",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "Ensemble forecasting with IBM Granite time-series models",
+  "titleZh": "使用 IBM Granite 时间序列模型进行集成预测",
+  "details": {
+    "overview": "IBM Research 发布 Granite Timeseries Ensemble，将四个预训练 Granite 时间序列模型（PatchTST-FM-r1、PatchTST-FM-r2、FlowState-r1.1、TTM-r3）组合为一个可扩展的预测接口，无需重新训练或拟合集成权重。默认的 Probabilistic Ensemble 采用均匀概率池化，另提供按预测区间宽度加权的 IQR Ensemble。作者在 97 个 GIFT-Eval 配置上比较，称两种集成在平均 MASE 与平均排名上优于四个成员模型，但相对最佳单模型的 MASE 优势较小，主要价值在于无需预先挑选架构即可获得较稳定的结果。",
+    "keyPoints": [
+      "默认配方组合四种架构，返回中位数与分位数预测，无需重训或拟合权重。",
+      "Probabilistic Ensemble 等权池化；IQR Ensemble 按成员预测区间宽度自适应加权。",
+      "作者称在 GIFT-Eval 上两种集成平均 MASE 优于四个成员，但领先幅度较小。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

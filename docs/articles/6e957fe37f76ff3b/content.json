@@ -1,0 +1,28 @@
+{
+  "id": "6e957fe37f76ff3b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+  "summary": "该文为 NVIDIA 官方发布，介绍欧洲零售商借助开放模型与物理智能推进零售场景。",
+  "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+  "date": "2026-10-22",
+  "source": "NVIDIA 官方博客",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "publishedAt": "2026-10-22T05:00:23+00:00",
+  "recommendedOn": "2026-10-23",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+  "titleZh": "NVIDIA 重塑欧洲零售：从数字发现到实体运营",
+  "details": {
+    "overview": "该文为 NVIDIA 官方发布，介绍欧洲零售商借助开放模型与物理智能推进零售场景。文中列举 Shopify 后训练 Nemotron 3.5 Lightning 用于 Sidekick 子代理、Zooplus 商品发现原型、Photoroom 图像标准化、Omi 与欧莱雅的数字孪生及分子模拟，以及 Otto Group 仓储仿真、ALLSIDES 数字孪生工厂等。作者声称这些案例在成本、速度或转化上取得改善，并展示面向零售的蓝图。相关测试与预览不等同于全面上线。",
+    "keyPoints": [
+      "Shopify 称后训练模型在内部基准上准确率超过前沿模型，服务成本降九成、响应快七倍。",
+      "Zooplus 在 AWS 环境部署原型，称语义检索达到 86% 搜索准确率。",
+      "Otto Group 在仿真中设计并测试仓库运营，再推进实体实施。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

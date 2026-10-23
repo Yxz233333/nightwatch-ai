@@ -1,0 +1,28 @@
+{
+  "id": "1dd3454bfee47f4a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Beyond tree cover: mapping the world’s forest types",
+  "summary": "Google DeepMind与Google Research联合世界资源研究所（WRI）和国际应用系统分析研究所（IIASA）发布Forest Typology（ForTy）2020全球地图，将地球每10米×10米地块归入六类森林与土地利用类型，并附2017至2025年逐年变化时间序列。",
+  "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+  "date": "2026-10-22",
+  "source": "Google DeepMind",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "publishedAt": "2026-10-22T14:30:24+00:00",
+  "recommendedOn": "2026-10-23",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "Beyond tree cover: mapping the world’s forest types",
+  "titleZh": "超越树冠覆盖：绘制全球森林类型地图",
+  "details": {
+    "overview": "Google DeepMind与Google Research联合世界资源研究所（WRI）和国际应用系统分析研究所（IIASA）发布Forest Typology（ForTy）2020全球地图，将地球每10米×10米地块归入六类森林与土地利用类型，并附2017至2025年逐年变化时间序列。作者称该图可区分原始林、自然再生林、人工林、种植园、树作物与农林业及其他土地，用于识别自然林被转为种植园或农田的情况，并作为欧盟无毁林法规的基线。",
+    "keyPoints": [
+      "ForTy按FAO定义将地表分为原始林、自然再生林、人工林、种植园、树作物与农林业、其他土地六类。",
+      "模型以约170万个标注地点训练，并引入AlphaEarth Foundations嵌入作为关键输入。",
+      "作者称在9000多个随机验证点上森林类型判对率约90%，森林与非森林区分率约95%。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

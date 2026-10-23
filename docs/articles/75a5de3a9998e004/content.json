@@ -1,0 +1,26 @@
+{
+  "id": "75a5de3a9998e004",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Introducing MiniMax Code Mini App",
+  "summary": "MiniMax 官方发布 MiniMax Code 桌面端的 Mini App 功能。",
+  "url": "https://www.minimax.io/blog/minimax-code-mini-app-1792650729",
+  "date": "2026-10-22",
+  "source": "MiniMax 官方博客",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": false,
+  "publicationTimeNote": "发布时间未详，保留官方原始日期。",
+  "titleEn": "Introducing MiniMax Code Mini App",
+  "titleZh": "MiniMax Code 推出 Mini App",
+  "details": {
+    "overview": "MiniMax 官方发布 MiniMax Code 桌面端的 Mini App 功能。据原文，Mini App 是带前端与后端的长期运行应用，以插件形式安装，可与 Agent 互相调用，并把 Agent 的工作保留在持续存活的页面上，而非散落在多个对话中。发布包含运行时、/miniapp-creator 生成工具、插件市场官方应用及开源社区仓库三部分。原文称凭据由宿主保管、连接器与权限须在清单中声明，并提醒代码以用户身份在本机运行，仅安装可信来源。",
+    "keyPoints": [
+      "Mini App 为带前端与后端的长期运行应用，以插件形式安装，可与 Agent 互相调用。",
+      "发布含运行时、/miniapp-creator 生成工具、官方应用与开源社区仓库三部分。",
+      "原文称凭据由宿主保管，连接器与 Agent 权限须在清单中声明后方可使用。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

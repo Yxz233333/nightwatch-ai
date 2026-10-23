@@ -1,0 +1,28 @@
+{
+  "id": "8e50c578669622be",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Build more responsive apps with the Decisions API",
+  "summary": "OpenAI 宣布 Decisions API 正式可用，该接口基于 GPT-6 Luna，面向应用和智能体工作流中大量“小决策”场景，例如输入分类、请求路由和下一步动作选择。",
+  "url": "https://openai.com/index/decisions-api",
+  "date": "2026-10-23",
+  "source": "OpenAI 官方新闻",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "publishedAt": "2026-10-22T19:00:00+00:00",
+  "recommendedOn": "2026-10-23",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "Build more responsive apps with the Decisions API",
+  "titleZh": "用 Decisions API 构建响应更快的应用",
+  "details": {
+    "overview": "OpenAI 宣布 Decisions API 正式可用，该接口基于 GPT-6 Luna，面向应用和智能体工作流中大量“小决策”场景，例如输入分类、请求路由和下一步动作选择。官方称其针对有界答案问题，可从文本、图像和结构化输入中做出近实时判断，速度最高为经 Responses API 调用 GPT-6 Luna 的 10 倍。相比公测，新增 GPT-Live 原生集成、提示缓存、美欧推理驻留，并支持原生 JSON 输入、图像指令及单次最多 400 个问题。",
+    "keyPoints": [
+      "基于 GPT-6 Luna，官方称决策速度最高为经 Responses API 调用的 10 倍。",
+      "支持概率、选项和评分三类答案，可处理文本、图像与原生 JSON 输入。",
+      "新增 GPT-Live 原生集成、提示缓存及美欧推理驻留，单次最多 400 问。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "16733c0c3810bb3b",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+  "summary": "NVIDIA 宣布扩展 Cosmos 平台，新增训练工具、仿真检查点和 Cosmos Data Factory 蓝图，帮助开发者构建用于物理 AI 的世界模型。",
+  "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+  "date": "2026-10-22",
+  "source": "NVIDIA 官方博客",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "publishedAt": "2026-10-22T05:00:27+00:00",
+  "recommendedOn": "2026-10-23",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+  "titleZh": "NVIDIA Cosmos 推出新工具，用于训练、评估和部署世界模型",
+  "details": {
+    "overview": "NVIDIA 宣布扩展 Cosmos 平台，新增训练工具、仿真检查点和 Cosmos Data Factory 蓝图，帮助开发者构建用于物理 AI 的世界模型。官方称该平台在六个开放模型排行榜上进入前五。新工具覆盖数据整理与合成、模型微调与强化学习、蒸馏量化优化以及 NIM 微服务部署，并给出保时捷、ANYbotics、Ultralytics、ADNOC 等使用案例。相关性能与效率数字均为厂商自述，本次整理未额外核验独立复现情况。",
+    "keyPoints": [
+      "Cosmos Data Factory 新增五个云原生蓝图，覆盖自动驾驶数据、图像属性增强、事件视频、缺陷图像和视频数据增强。",
+      "Cosmos Framework 将训练、优化与部署工具扩展为智能体技能，支持 GR00T、QWEN、Pi0.5 等开放模型。",
+      "新版 Cosmos 3 NIM 微服务在已验证配置下推理速度最高提升 2 倍，且官方称质量无损。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

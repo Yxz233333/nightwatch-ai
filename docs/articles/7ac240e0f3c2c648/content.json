@@ -1,0 +1,28 @@
+{
+  "id": "7ac240e0f3c2c648",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Donating Agent Skills to the Agentic AI Foundation",
+  "summary": "该文宣布将 Agent Skills 这一开放标准捐赠给 Linux 基金会下的 Agentic AI Foundation（AAIF）。",
+  "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+  "date": "2026-10-22",
+  "source": "Anthropic 官方新闻与研究",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "publishedAt": "2026-10-22T00:00:00+00:00",
+  "recommendedOn": "2026-10-23",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "Donating Agent Skills to the Agentic AI Foundation",
+  "titleZh": "将 Agent Skills 捐赠给 Agentic AI Foundation",
+  "details": {
+    "overview": "该文宣布将 Agent Skills 这一开放标准捐赠给 Linux 基金会下的 Agentic AI Foundation（AAIF）。Agent Skills 以包含 SKILL.md 的文件夹形式，为 AI 代理提供特定任务或领域的流程知识；自 2025 年 12 月发布标准以来，已有 70 多个代理平台接入。此次捐赠包括名称、标识、GitHub 组织及 agentskills.io 域名，由多家公司工程师以个人身份维护，并计划推进版本化发布、正式提案流程与安全指引。",
+    "keyPoints": [
+      "Agent Skills 以含 SKILL.md 的文件夹向代理传授特定任务或领域知识。",
+      "自 2025 年 12 月发布标准以来，已有 70 多个代理平台接入。",
+      "捐赠范围含名称、标识、GitHub 组织与 agentskills.io 域名。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

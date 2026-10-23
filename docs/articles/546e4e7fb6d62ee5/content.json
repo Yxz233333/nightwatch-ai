@@ -1,0 +1,28 @@
+{
+  "id": "546e4e7fb6d62ee5",
+  "section": "news",
+  "category": "模型动态",
+  "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+  "summary": "Ai2发布OlmoEarth v1.3卫星嵌入模型，可读取一年期Sentinel-1雷达与Sentinel-2、Landsat多光谱时序数据，为全球每10米像素生成128维向量，前64维亦可单独使用。",
+  "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+  "date": "2026-10-23",
+  "source": "Hugging Face 官方博客",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "publishedAt": "2026-10-22T16:11:31+00:00",
+  "recommendedOn": "2026-10-23",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+  "titleZh": "OlmoEarth v1.3：面向全球的高水平卫星嵌入模型",
+  "details": {
+    "overview": "Ai2发布OlmoEarth v1.3卫星嵌入模型，可读取一年期Sentinel-1雷达与Sentinel-2、Landsat多光谱时序数据，为全球每10米像素生成128维向量，前64维亦可单独使用。官方同时公开全球预计算年度嵌入及浏览器工具Embeddings Explorer，无需登录即可探索、比较年份变化并训练小型分类器。作者称在27项评测中128维版本于20项得分最高，并称训练算力与碳排放低于前代；模型权重、预训练数据和代码均开放。",
+    "keyPoints": [
+      "为全球每10米像素生成128维嵌入，前64维可作轻量版本单独使用",
+      "作者称27项评测中128维版本20项最高，64维版本18项最高",
+      "公开预计算全球嵌入与浏览器探索工具，无需登录或GPU"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

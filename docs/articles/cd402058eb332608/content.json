@@ -1,0 +1,28 @@
+{
+  "id": "cd402058eb332608",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
+  "summary": "NVIDIA官方博客介绍，欧洲多家机构正基于Earth-2开放AI模型与工具开展天气和气候应用。",
+  "url": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
+  "date": "2026-10-22",
+  "source": "NVIDIA 官方博客",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "publishedAt": "2026-10-22T05:00:19+00:00",
+  "recommendedOn": "2026-10-23",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
+  "titleZh": "欧洲多家机构部署NVIDIA Earth-2开放模型，推动真实天气与气候预测",
+  "details": {
+    "overview": "NVIDIA官方博客介绍，欧洲多家机构正基于Earth-2开放AI模型与工具开展天气和气候应用。新加入的StormScope EU面向欧洲短期预报，利用EUMETSAT卫星观测预测16个Meteosat通道的云况，间隔10分钟；GTC Berlin展示与Earthmover合作的实时演示。AXA、Vaisala Xweather、曼彻斯特大学、TotalEnergies和Space42分别将FourCastNet 3、StormScope、CorrDiff等用于气旋风险、闪电短临预报、空气质量、光伏辐照和雷达测高探索。",
+    "keyPoints": [
+      "StormScope EU基于欧洲天气气候数据训练，用EUMETSAT卫星观测预测16通道云况，每10分钟更新。",
+      "GTC Berlin展示与Earthmover合作的实时预报演示，用Earth2Studio运行并以地图瓦片呈现结果。",
+      "AXA用FourCastNet 3模拟逾1000个季节研究区域气旋风险；曼彻斯特大学用CorrDiff做英国空气质量建模。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

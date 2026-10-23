@@ -1,0 +1,26 @@
+{
+  "id": "5ca30e2df00d5cba",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Flint-interactive: A language for creating interactive data visualizations",
+  "summary": "微软研究院发布 Flint-interactive，一种构建在 Flint 之上的交互式数据可视化语言，目标是让 AI 智能体生成可点击、筛选、缩放、高亮并支持跨图表联动的图表。",
+  "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+  "date": "2026-10-22",
+  "source": "Microsoft Research",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": false,
+  "publicationTimeNote": "发布时间未详，保留官方原始日期。",
+  "titleEn": "Flint-interactive: A language for creating interactive data visualizations",
+  "titleZh": "Flint-interactive：一种创建交互式数据可视化的语言",
+  "details": {
+    "overview": "微软研究院发布 Flint-interactive，一种构建在 Flint 之上的交互式数据可视化语言，目标是让 AI 智能体生成可点击、筛选、缩放、高亮并支持跨图表联动的图表。作者指出，当前即使前沿模型也难以一次生成令人满意的交互图表，存在生成成本高、布局与交互易出错等问题，根源在于缺少兼具表达力与高层抽象的交互描述语言。Flint-interactive 借助 Flint 编译器把点击、拖拽等原始触发解析为语义事件，再由高层更新算子驱动画布变化，从而把视觉依赖处理交给编译器。",
+    "keyPoints": [
+      "将点击、拖拽等原始触发解析为标识图表元素与数据的语义事件",
+      "用户以高层算子描述交互逻辑，编译器负责命中测试与底层视觉更新",
+      "支持图表与表格、文本、控件及应用状态之间的联动"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

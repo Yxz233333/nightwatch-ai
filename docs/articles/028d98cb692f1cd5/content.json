@@ -1,0 +1,29 @@
+{
+  "id": "028d98cb692f1cd5",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
+  "summary": "这篇英伟达官方博客介绍，多家企业正采用NVIDIA DSX AI工厂平台，把电网、变电站与AI工厂作为一个系统来规划、仿真和运行，以应对电力成为基础设施最大瓶颈的问题。",
+  "url": "https://blogs.nvidia.com/blog/dsx-power/",
+  "date": "2026-10-22",
+  "source": "NVIDIA 官方博客",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "publishedAt": "2026-10-22T05:00:25+00:00",
+  "recommendedOn": "2026-10-23",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
+  "titleZh": "企业如何借助NVIDIA DSX突破电力瓶颈",
+  "details": {
+    "overview": "这篇英伟达官方博客介绍，多家企业正采用NVIDIA DSX AI工厂平台，把电网、变电站与AI工厂作为一个系统来规划、仿真和运行，以应对电力成为基础设施最大瓶颈的问题。原文称，超过3000亿美元设备积压，美国并网队列中逾200吉瓦项目等待接入，根源之一是电网、设施与算力长期各自独立设计。GE Vernova、日立能源、施耐德电气、西门子能源等被列为合作方，分别涉及参考架构、储能认证、数字孪生与电网感知设计。",
+    "keyPoints": [
+      "DSX Sim与SimReady资产支持在动工前联合仿真电网、变电站与AI工厂的供电和冷却。",
+      "DSX Flex将AI工厂负载与电网状况及现场发电同步，使其成为可灵活调节的电网资产。",
+      "Phaidra称在相同功率包络内提升约10%算力；Emerald AI称其方案建模可释放至多100吉瓦。",
+      "施耐德电气、日立能源、西门子能源等提供参考架构、储能认证与电网感知设计。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

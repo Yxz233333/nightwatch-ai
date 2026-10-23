@@ -1,0 +1,28 @@
+{
+  "id": "bc3bc4febae53193",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+  "summary": "微软团队在 Hugging Face 发布的博客介绍 ThinkingBox：它让智能体在真实后端上操作，再比对最终数据库状态与预期结果，给出可执行的成功或失败判定。",
+  "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+  "date": "2026-10-23",
+  "source": "Hugging Face 官方博客",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "publishedAt": "2026-10-22T22:24:34+00:00",
+  "recommendedOn": "2026-10-23",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+  "titleZh": "把数据库评分变成强化学习奖励：用 ThinkingBox 后训练智能体",
+  "details": {
+    "overview": "微软团队在 Hugging Face 发布的博客介绍 ThinkingBox：它让智能体在真实后端上操作，再比对最终数据库状态与预期结果，给出可执行的成功或失败判定。作者把这种判定直接当作强化学习奖励，在 ThinkingBox-Bench 之外的训练任务上对 Qwen3.8-27B 做 50 步 GRPO 微调。作者声称，平均成功率从 51.70% 升至 60.78%，20 次尝试全部正确的任务数从 38 增至 107；同时至少成功一次的任务数略有下降。作者将这一变化解释为模型变得更可重复，而非覆盖面更广。",
+    "keyPoints": [
+      "ThinkingBox 以终端数据库状态的可执行检查替代工具调用比对，判定结果可直接作为奖励信号。",
+      "作者用离线策略相对难度筛选训练任务，只保留成功概率居中的任务，以产生 GRPO 可学习的组内对比。",
+      "在 507 项基准上，微调后 20/20 全对任务由 38 增至 107，pass@1 升 9.08 个百分点，pass@20 减少 7 项。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

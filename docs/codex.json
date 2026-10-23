@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-22T00:03:02.777Z",
+  "syncedAt": "2026-10-22T23:59:34.411Z",
   "articles": [
     {
       "id": "f98169d420b7518b",
@@ -16,6 +16,98 @@
       "status": "已发布alpha测试版；官方未提供详细变更说明。",
       "details": {
         "overview": "Codex 官方 GitHub 发布了 0.163.0-alpha.11.1 alpha 测试版本。该版本已经发布，属于功能更新记录；官方正文只有版本号，没有逐项说明新增功能、修复或兼容性变化。本条不据此推测功能差异，也不将测试版误归入未来预告。",
+        "keyPoints": [
+          "这是已发布的 alpha 版本，并非稳定版或尚未发布的计划。",
+          "官方正文没有详细变更说明，具体差异应继续关注发布记录。"
+        ]
+      },
+      "recommended": false,
+      "interest": []
+    },
+    {
+      "id": "c433702a2090d3e8",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.164.0-alpha.10 测试版发布",
+      "titleZh": "Codex CLI 0.164.0-alpha.10 测试版发布",
+      "summary": "Codex 官方 GitHub 发布了 0.164.0-alpha.10 alpha 测试版本。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.10",
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T00:04:24Z",
+      "source": "Codex GitHub Releases",
+      "releaseChannel": "prerelease",
+      "status": "已发布alpha测试版；官方未提供详细变更说明。",
+      "details": {
+        "overview": "Codex 官方 GitHub 发布了 0.164.0-alpha.10 alpha 测试版本。该版本已经发布，属于功能更新记录；官方正文只有版本号，没有逐项说明新增功能、修复或兼容性变化。本条不据此推测功能差异，也不将测试版误归入未来预告。",
+        "keyPoints": [
+          "这是已发布的 alpha 版本，并非稳定版或尚未发布的计划。",
+          "官方正文没有详细变更说明，具体差异应继续关注发布记录。"
+        ]
+      },
+      "recommended": false,
+      "interest": []
+    },
+    {
+      "id": "6e68a1e659d8fe3d",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.164.0-alpha.12 测试版发布",
+      "titleZh": "Codex CLI 0.164.0-alpha.12 测试版发布",
+      "summary": "Codex 官方 GitHub 发布了 0.164.0-alpha.12 alpha 测试版本。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.12",
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T11:11:51Z",
+      "source": "Codex GitHub Releases",
+      "releaseChannel": "prerelease",
+      "status": "已发布alpha测试版；官方未提供详细变更说明。",
+      "details": {
+        "overview": "Codex 官方 GitHub 发布了 0.164.0-alpha.12 alpha 测试版本。该版本已经发布，属于功能更新记录；官方正文只有版本号，没有逐项说明新增功能、修复或兼容性变化。本条不据此推测功能差异，也不将测试版误归入未来预告。",
+        "keyPoints": [
+          "这是已发布的 alpha 版本，并非稳定版或尚未发布的计划。",
+          "官方正文没有详细变更说明，具体差异应继续关注发布记录。"
+        ]
+      },
+      "recommended": false,
+      "interest": []
+    },
+    {
+      "id": "6043b783b580d3f8",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.164.0-alpha.11 测试版发布",
+      "titleZh": "Codex CLI 0.164.0-alpha.11 测试版发布",
+      "summary": "Codex 官方 GitHub 发布了 0.164.0-alpha.11 alpha 测试版本。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.11",
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T04:22:12Z",
+      "source": "Codex GitHub Releases",
+      "releaseChannel": "prerelease",
+      "status": "已发布alpha测试版；官方未提供详细变更说明。",
+      "details": {
+        "overview": "Codex 官方 GitHub 发布了 0.164.0-alpha.11 alpha 测试版本。该版本已经发布，属于功能更新记录；官方正文只有版本号，没有逐项说明新增功能、修复或兼容性变化。本条不据此推测功能差异，也不将测试版误归入未来预告。",
+        "keyPoints": [
+          "这是已发布的 alpha 版本，并非稳定版或尚未发布的计划。",
+          "官方正文没有详细变更说明，具体差异应继续关注发布记录。"
+        ]
+      },
+      "recommended": false,
+      "interest": []
+    },
+    {
+      "id": "0bb8013448c34f89",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.163.0-alpha.11.2 测试版发布",
+      "titleZh": "Codex CLI 0.163.0-alpha.11.2 测试版发布",
+      "summary": "Codex 官方 GitHub 发布了 0.163.0-alpha.11.2 alpha 测试版本。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.163.0-alpha.11.2",
+      "date": "2026-10-22",
+      "publishedAt": "2026-10-22T06:41:14Z",
+      "source": "Codex GitHub Releases",
+      "releaseChannel": "prerelease",
+      "status": "已发布alpha测试版；官方未提供详细变更说明。",
+      "details": {
+        "overview": "Codex 官方 GitHub 发布了 0.163.0-alpha.11.2 alpha 测试版本。该版本已经发布，属于功能更新记录；官方正文只有版本号，没有逐项说明新增功能、修复或兼容性变化。本条不据此推测功能差异，也不将测试版误归入未来预告。",
         "keyPoints": [
           "这是已发布的 alpha 版本，并非稳定版或尚未发布的计划。",
           "官方正文没有详细变更说明，具体差异应继续关注发布记录。"

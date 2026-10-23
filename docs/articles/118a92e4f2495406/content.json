@@ -1,0 +1,28 @@
+{
+  "id": "118a92e4f2495406",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Open call for guest investigators in the life sciences",
+  "summary": "Anthropic发布公告，面向学术机构、非营利组织和政府实验室的首席研究员及其团队公开招募客座研究员，申请者需提交使用Claude研究因果人类生物学、结构与计算分子生物学、药物化学、药物发现和临床科学等问题的项目提案。",
+  "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+  "date": "2026-10-22",
+  "source": "Anthropic 官方新闻与研究",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "publishedAt": "2026-10-22T00:00:00+00:00",
+  "recommendedOn": "2026-10-23",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "Open call for guest investigators in the life sciences",
+  "titleZh": "生命科学领域客座研究员公开招募",
+  "details": {
+    "overview": "Anthropic发布公告，面向学术机构、非营利组织和政府实验室的首席研究员及其团队公开招募客座研究员，申请者需提交使用Claude研究因果人类生物学、结构与计算分子生物学、药物化学、药物发现和临床科学等问题的项目提案。入选者将在8至12周内与Anthropic研究人员直接合作，由公司免费运行模型和工具，共同发布成果并开源数据与代码，研究者保留数据权利。申请期约14天，入选通知约在截止后14天发出。",
+    "keyPoints": [
+      "招募对象为学术机构、非营利组织或政府实验室的首席研究员及其研究团队。",
+      "合作期8至12周，Anthropic免费提供模型与工具，成果共同发表并开源数据代码。",
+      "申请材料仅限公开信息，申请期约14天，截止后约14天通知结果。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

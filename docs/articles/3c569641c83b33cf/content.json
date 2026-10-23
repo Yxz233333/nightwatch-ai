@@ -1,0 +1,28 @@
+{
+  "id": "3c569641c83b33cf",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
+  "summary": "NVIDIA 官方博客介绍，欧洲多国政府与 NVIDIA 合作伙伴正利用开放模型建设公共部门应用，强调模型可评估、适配本地语言、在自有基础设施上运行并保留敏感数据。",
+  "url": "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
+  "date": "2026-10-22",
+  "source": "NVIDIA 官方博客",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "publishedAt": "2026-10-22T05:00:02+00:00",
+  "recommendedOn": "2026-10-23",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
+  "titleZh": "NVIDIA 开放模型推动欧洲公共部门新一轮项目",
+  "details": {
+    "overview": "NVIDIA 官方博客介绍，欧洲多国政府与 NVIDIA 合作伙伴正利用开放模型建设公共部门应用，强调模型可评估、适配本地语言、在自有基础设施上运行并保留敏感数据。文中列举欧盟委员会 AI@EC 平台扩展、波兰医疗影像与就业服务智能体、英国与德国合成人口数据集、法国主权协作工作区、希腊智能体生态及 NVIDIA 开放模型 Codefest 等案例。稿件属于厂商发布，所述项目多为计划或建设中，测试与预览不等于已全面上线。",
+    "keyPoints": [
+      "欧盟委员会 AI@EC 平台扩展，整合智能体开发、执行、优化与治理能力",
+      "波兰用开放模型建设医疗影像与就业服务智能体，德国推出本地部署数字助手平台",
+      "英德发布合成人口数据集，用于测试公共服务模型在不同群体间的一致性"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}
