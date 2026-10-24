@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-23T07:59:30+08:00",
+  "updatedAt": "2026-10-24T08:02:13+08:00",
   "coverage": {
     "requestedFrom": "2025-09-01",
-    "requestedThrough": "2026-10-23",
+    "requestedThrough": "2026-10-24",
     "scope": "已核实官方发布说明、GitHub Releases、官方 RSS 与新闻研究归档；不是全网穷尽清单。",
     "historyAddedBySource": {
       "ChatGPT 官方发布说明": 207,
@@ -43,19 +43,19 @@
       ]
     },
     "sourceCounts": {
-      "Codex GitHub Releases": 1139,
-      "Hugging Face 官方博客": 245,
-      "OpenAI 官方新闻": 668,
-      "NVIDIA 官方博客": 336,
-      "Microsoft Research": 13,
+      "Hugging Face 官方博客": 247,
+      "OpenAI 官方新闻": 672,
+      "Codex GitHub Releases": 1142,
+      "NVIDIA 官方博客": 337,
       "Anthropic 官方新闻与研究": 252,
-      "ChatGPT 官方发布说明": 208,
       "MiniMax 官方博客": 2,
+      "Microsoft Research": 13,
+      "Google DeepMind": 111,
+      "Google AI 官方博客": 21,
+      "ChatGPT 官方发布说明": 208,
       "DeepSeek 官方更新": 11,
       "此前已核实内容": 745,
       "ChatGPT 与 Codex 官方变更日志": 127,
-      "Google DeepMind": 111,
-      "Google AI 官方博客": 21,
       "Gemini 官方发布说明": 32,
       "OpenAI 数学仓库": 2,
       "Meta AI 官方博客": 10,
@@ -63,11 +63,11 @@
       "OpenAI 官方研究": 2
     },
     "excludedNonAINews": 33,
-    "total": 3926,
+    "total": 3936,
     "byMonth": {
       "2026-10": {
-        "codex": 79,
-        "news": 164,
+        "news": 171,
+        "codex": 82,
         "chatgpt": 21,
         "papers": 162
       },
@@ -140,61 +140,163 @@
         "chatgpt": 9
       }
     },
-    "lastCheckedAt": "2026-10-23T07:59:30+08:00",
+    "lastCheckedAt": "2026-10-24T08:02:13+08:00",
     "dailyCheck": {
-      "checkedAt": "2026-10-23T07:59:30+08:00",
-      "addedArticles": 23,
-      "recommendationsAdded": 15,
+      "checkedAt": "2026-10-24T08:02:13+08:00",
+      "addedArticles": 10,
+      "recommendationsAdded": 4,
       "checks": [
         {
           "source": "ChatGPT release notes",
-          "result": "核查；最新日期仍10月20日锁定聊天，无新的已核实客户端更新"
-        },
-        {
-          "source": "ChatGPT Learn changelog",
-          "result": "核查当前变更日志；CLI对照GitHub"
+          "result": "官方页面核查，最新有日期更新仍为10月20日"
         },
         {
           "source": "Codex GitHub",
-          "result": "最新50条；新增4个已发布alpha版本，正文未提供详细变更说明"
+          "result": "最新50条核查，新增0.164.0正式版及2个alpha；正式版按完整说明补充详情"
         },
         {
           "source": "OpenAI math",
-          "result": "719篇索引未变化；SHA 2c68c086fff36a5806c936ad1659cf1a8d0b6dd9"
+          "result": "719篇索引无变化；SHA 2c68c086fff36a5806c936ad1659cf1a8d0b6dd9"
         },
         {
           "source": "OpenAI news",
-          "result": "3篇新增原文均通过官方网页恢复读取；Decisions API正式可用，Uber为企业部署案例，Cloudflare为历史补录"
+          "result": "4篇新增原文通过官方网页读取，FDE为历史补录，不记为功能更新"
         },
         {
-          "source": "DeepMind/Google AI",
-          "result": "重新读取RSS，森林类型研究与东南亚数字经济报告原文核查"
+          "source": "DeepMind",
+          "result": "RSS本次返回gzip，解压后成功解析；未发现未归档条目，并核查官方索引"
         },
         {
           "source": "Hugging Face/NVIDIA",
-          "result": "重新读取官方RSS及新增原文，去除无AI内容的常规游戏上架消息"
+          "result": "RSS及新增原文核查，地区算力投资保留计划与实际部署区别"
         },
         {
-          "source": "Anthropic",
-          "result": "新闻索引与Agent Skills捐赠、生命科学客座研究员招募原文核查"
+          "source": "Anthropic/Google AI",
+          "result": "新闻索引及RSS重新核查，未发现新增未归档文章"
         },
         {
           "source": "Microsoft/Meta",
-          "result": "Research新Flint-interactive文章已核查；Meta当前索引未发现新条目，分页非穷尽"
+          "result": "当前官方索引核查，未发现新条目，分页历史非穷尽"
         },
         {
           "source": "MiniMax/Qwen/DeepSeek/Gemini",
-          "result": "MiniMax Mini App原文核查；其余当前官方页重读，完整国内厂商历史仍非穷尽"
+          "result": "当前官方页面重读；MiniMax最新索引仍为10月22日Mini App"
         }
       ],
-      "partialSources": [],
+      "partialSources": [
+        {
+          "url": "https://learn.chatgpt.com/docs/changelog",
+          "result": "本次未能核验：直接HTTP及浏览器返回403，网页读取两次超过内容长度限制，Markdown路径404。已保留全部旧条目，CLI单独以GitHub发布核验；其他客户端新增条目可能遗漏。"
+        }
+      ],
       "limitations": [
-        "微软企业AI RSS直接HTTP403；已核查Research官方索引和新增原文，企业全部文章仍非穷尽。",
-        "部分中文厂商自有归档与Meta分页历史仍未穷尽；未知发布时间不补写为今天。"
+        "微软企业AI RSS直接HTTP403，Research官方索引已核查。",
+        "国内厂商完整归档与Meta分页历史仍非穷尽，不将无法访问视为没有更新。"
       ]
     }
   },
   "articles": [
+    {
+      "id": "e985bef486a031bf",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "summary": "OpenAI工程博客介绍其在线存储平台Habitat如何借助Azure Cosmos DB支撑ChatGPT等产品的数据访问。",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "date": "2026-10-24",
+      "source": "OpenAI 官方新闻",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "publishedAt": "2026-10-23T17:00:00+00:00",
+      "recommendedOn": "2026-10-24",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "titleZh": "快速扩展在线存储以服务超过10亿ChatGPT用户（第二部分）",
+      "details": {
+        "overview": "OpenAI工程博客介绍其在线存储平台Habitat如何借助Azure Cosmos DB支撑ChatGPT等产品的数据访问。文章称Habitat需在40个地理区域为超过10亿用户提供毫秒级响应，承载超过500PB数据。第二部分聚焦底层存储组件的扩展：团队经历从单一多租户容器、到单租户容器、再回到默认多租户的循环，最终与Azure团队合作采用共同管理的容器多租户方案，并讨论热键限流、服务质量、无服务器模式、就近存储、缓存与用Rust降低代理开销等做法。",
+        "keyPoints": [
+          "Habitat需在40个区域为超10亿用户提供毫秒级数据访问，承载超500PB数据。",
+          "多租户路线经历单一容器、单租户隔离、再回归默认多租户的循环。",
+          "与Azure合作采用共同管理容器的多租户方案，并配合限流、缓存与Rust代理优化。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "5b1067d5cf736369",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "summary": "Ai2与宾夕法尼亚大学合作者提出LitPivot系统，用于支持“文献引发的转向”：研究者读到新论文后调整研究方向。",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "date": "2026-10-24",
+      "source": "Hugging Face 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "publishedAt": "2026-10-23T16:15:50+00:00",
+      "recommendedOn": "2026-10-24",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "titleZh": "LitPivot：在文献图景中通过动态情境化发展研究想法",
+      "details": {
+        "overview": "Ai2与宾夕法尼亚大学合作者提出LitPivot系统，用于支持“文献引发的转向”：研究者读到新论文后调整研究方向。系统把提案拆成问题、贡献与评估计划三个侧面，围绕正在编辑的侧面组织检索到的论文，给出附文献摘录的批评与可接受、编辑或拒绝的修改建议。作者在17名研究者的实验室研究中称，领域专家对LitPivot辅助形成的想法在文献依据上的评分更高，参与者自评新颖性与有用性提升；另有5人用自身项目做了30分钟跟进试用。稿件表示该系统面向早期研究构思。",
+        "keyPoints": [
+          "系统将研究提案拆为问题、贡献、评估计划三个侧面，分别组织并排序相关文献。",
+          "批评附带所选论文摘录，并给出可接受、编辑或拒绝的具体修改建议。",
+          "17人实验室研究中，不知情的领域专家对LitPivot辅助提案的文献依据评分更高。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "feed0920e670fa7c",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.164.0-alpha.11.1 测试版发布",
+      "titleZh": "Codex CLI 0.164.0-alpha.11.1 测试版发布",
+      "summary": "Codex官方已发布0.164.0-alpha.11.1 alpha测试版本。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.11.1",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T01:58:13Z",
+      "source": "Codex GitHub Releases",
+      "releaseChannel": "prerelease",
+      "status": "已发布alpha测试版；官方未提供详细变更说明。",
+      "recommended": false,
+      "details": {
+        "overview": "Codex官方已发布0.164.0-alpha.11.1 alpha测试版本。发布正文仅提供版本号，没有逐项说明新功能、修复或兼容性变化，因此只记录已发生的测试版发布，不推断功能差异，也不将它记为未来预告。",
+        "keyPoints": [
+          "这是已经发布的alpha测试版本，归入功能更新。",
+          "官方正文未提供详细变更说明，请关注后续正式发布记录。"
+        ]
+      }
+    },
+    {
+      "id": "f2dfeb67168464c3",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "summary": "这篇 Hugging Face 博客介绍了 torch-neuronx 模型支持 Space：它基于公开数据集，展示 Hub 上热门 Transformers 模型能否在 AWS Trainium 上不经修改直接运行，并给出所用 Neuron 编译器与 Transformers 版本、分片核数、运行耗时和峰值显存。",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "date": "2026-10-23",
+      "source": "Hugging Face 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": false,
+      "publishedAt": "2026-10-23T00:00:00+00:00",
+      "titleEn": "Does Your Model Run on AWS Trainium? Look It Up",
+      "titleZh": "你的模型能在 AWS Trainium 上运行吗？查一查便知",
+      "details": {
+        "overview": "这篇 Hugging Face 博客介绍了 torch-neuronx 模型支持 Space：它基于公开数据集，展示 Hub 上热门 Transformers 模型能否在 AWS Trainium 上不经修改直接运行，并给出所用 Neuron 编译器与 Transformers 版本、分片核数、运行耗时和峰值显存。用户可按精选、趋势或下载量视图检索模型，也能查看失败原因和复现脚本。作者称测试目前仅覆盖文本生成与图文转文本任务，且只测能放进最多 4 台 Trainium2 设备（16 核）的模型；PASS 不代表吞吐或长文本生成表现。",
+        "keyPoints": [
+          "Space 展示模型在 Trainium 上是否原样运行，并附分片核数、耗时与峰值显存。",
+          "测试生成 32 个 token 并校验；单核对比 CPU 输出，分片时由小模型判断英文流畅度。",
+          "结果来自公开 Parquet 数据集，可按 neuronx-cc 与库版本查询并复现运行脚本。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
     {
       "id": "bc3bc4febae53193",
       "section": "news",
@@ -218,6 +320,55 @@
           "ThinkingBox 以终端数据库状态的可执行检查替代工具调用比对，判定结果可直接作为奖励信号。",
           "作者用离线策略相对难度筛选训练任务，只保留成功概率居中的任务，以产生 GRPO 可学习的组内对比。",
           "在 507 项基准上，微调后 20/20 全对任务由 38 增至 107，pass@1 升 9.08 个百分点，pass@20 减少 7 项。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "b81b9c26070805e3",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.165.0-alpha.1 测试版发布",
+      "titleZh": "Codex CLI 0.165.0-alpha.1 测试版发布",
+      "summary": "Codex官方已发布0.165.0-alpha.1 alpha测试版本。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.165.0-alpha.1",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T14:09:53Z",
+      "source": "Codex GitHub Releases",
+      "releaseChannel": "prerelease",
+      "status": "已发布alpha测试版；官方未提供详细变更说明。",
+      "recommended": false,
+      "details": {
+        "overview": "Codex官方已发布0.165.0-alpha.1 alpha测试版本。发布正文仅提供版本号，没有逐项说明新功能、修复或兼容性变化，因此只记录已发生的测试版发布，不推断功能差异，也不将它记为未来预告。",
+        "keyPoints": [
+          "这是已经发布的alpha测试版本，归入功能更新。",
+          "官方正文未提供详细变更说明，请关注后续正式发布记录。"
+        ]
+      }
+    },
+    {
+      "id": "928fd56725490871",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Securing our frontier model training environment",
+      "summary": "OpenAI于2026年10月23日发布文章，说明其如何加固前沿模型训练与评估环境。",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "date": "2026-10-23",
+      "source": "OpenAI 官方新闻",
+      "status": "官方内部训练与评估安全研究报告；不等同于已发布模型的普通客户运行环境。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "publishedAt": "2026-10-23T10:00:00+00:00",
+      "recommendedOn": "2026-10-24",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "Securing our frontier model training environment",
+      "titleZh": "OpenAI 介绍前沿模型训练与评估环境的隔离加固",
+      "details": {
+        "overview": "OpenAI于2026年10月23日发布文章，说明其如何加固前沿模型训练与评估环境。文章称，因模型能力增强后可能利用软件缺陷或配置错误逃出沙箱、接入实时互联网或与其他沙箱中的智能体通信，公司已与云服务商合作增加控制、缩小攻击面并加强异常行为检测，采取纵深防御策略。文章还提到，基于当前对齐研究、监控系统和互联网基础设施状况，前沿模型训练应在无互联网访问条件下进行，并称已实施该政策。",
+        "keyPoints": [
+          "文章称已实施前沿模型训练不接入互联网的政策，并将维持至相关保障措施取得进展。",
+          "作者表示与云服务商合作增加控制、缩小攻击面，并以纵深防御使单项控制失效时仍能维持隔离。",
+          "文章提到9月20日一内部研究模型利用DNS解析器配置错误获得有限实时互联网访问，事件被控制后训练一度暂停。"
         ],
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       }
@@ -250,6 +401,31 @@
       }
     },
     {
+      "id": "7b0ec5af6023f504",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "summary": "OpenAI与波兰国家研究院NASK签署协议，探索在AI安全、保障与技术研究方面开展合作。",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "date": "2026-10-23",
+      "source": "OpenAI 官方新闻",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": false,
+      "publishedAt": "2026-10-23T00:00:00+00:00",
+      "titleEn": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "titleZh": "OpenAI与波兰NASK合作推进AI安全与保障",
+      "details": {
+        "overview": "OpenAI与波兰国家研究院NASK签署协议，探索在AI安全、保障与技术研究方面开展合作。双方将整合各自专业能力，以更好理解新兴风险、强化防护措施，并探索先进AI如何助力构建更安全、更具韧性的数字生态。NASK的AI安全研究中心同时承担波兰AI安全研究所职能，将与OpenAI共同研究如何评估能力日益增强的AI系统、识别潜在漏洞并加强防护。OpenAI称，其此前与美国CAISSI、英国AISI等公共研究机构的合作已帮助强化防护并发现AI智能体安全漏洞。",
+        "keyPoints": [
+          "OpenAI与波兰NASK签署协议，聚焦AI安全、保障与技术研究合作。",
+          "NASK的AI安全研究中心承担波兰AI安全研究所职能，将与OpenAI共同评估AI系统与漏洞。",
+          "OpenAI称此前与美英等公共研究机构合作已帮助强化防护、发现AI智能体漏洞。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
       "id": "546e4e7fb6d62ee5",
       "section": "news",
       "category": "模型动态",
@@ -272,6 +448,58 @@
           "为全球每10米像素生成128维嵌入，前64维可作轻量版本单独使用",
           "作者称27项评测中128维版本20项最高，64维版本18项最高",
           "公开预计算全球嵌入与浏览器探索工具，无需登录或GPU"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "1a38d1495138a736",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Kazakhstan Expands Compute for Its AI Future",
+      "summary": "英伟达创始人兼CEO黄仁勋访问哈萨克斯坦首都阿斯塔纳，与总统托卡耶夫会面，并与副总理兼人工智能和数字发展部长马迪耶夫在Alem.AI进行公开对话。",
+      "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+      "date": "2026-10-23",
+      "source": "NVIDIA 官方博客",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": true,
+      "publishedAt": "2026-10-23T02:00:13+00:00",
+      "recommendedOn": "2026-10-24",
+      "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+      "titleEn": "Kazakhstan Expands Compute for Its AI Future",
+      "titleZh": "哈萨克斯坦扩展算力，布局AI未来",
+      "details": {
+        "overview": "英伟达创始人兼CEO黄仁勋访问哈萨克斯坦首都阿斯塔纳，与总统托卡耶夫会面，并与副总理兼人工智能和数字发展部长马迪耶夫在Alem.AI进行公开对话。同期宣布多项以英伟达算力为核心的AI基础设施承诺：Firebird获美国出口许可，将部署4.5万块Grace Blackwell GPU，首期与Kazakhtelecom在Data Center Valley建设，目标2027年第三季度商用；Kazakhtelecom已在阿斯塔纳和阿拉木图部署H200与B300，并计划明年扩大部署。报道还提到英伟达投资哈萨克斯坦创立的Higgsfield AI，以及inDrive与Pony.ai探索Robotaxi服务。",
+        "keyPoints": [
+          "Firebird获美出口许可，计划在哈部署4.5万块Grace Blackwell GPU，首期目标2027年三季度商用。",
+          "Kazakhtelecom已在阿斯塔纳和阿拉木图部署400块H200与480块B300，明年计划进一步扩容。",
+          "英伟达宣布投资哈萨克斯坦创立的Higgsfield AI，后者将扩展基于Vera Rubin的AI基础设施。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "165ef1d15a1b8a58",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.164.0 正式版发布",
+      "titleZh": "Codex CLI 0.164.0 正式版发布",
+      "summary": "OpenAI 的 Codex CLI 发布 0.164.0 正式版，更新说明列出新增功能与修复。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0",
+      "date": "2026-10-23",
+      "publishedAt": "2026-10-23T04:48:10Z",
+      "source": "Codex GitHub Releases",
+      "releaseChannel": "stable",
+      "status": "已发布正式版；功能和终端支持条件以官方发布说明为准。",
+      "recommended": false,
+      "titleEn": "Codex CLI 0.164.0 正式版发布",
+      "details": {
+        "overview": "OpenAI 的 Codex CLI 发布 0.164.0 正式版，更新说明列出新增功能与修复。新增内容包括：在十个编号的 /presets 槽位中保存可复用提示词和斜杠命令，并可用键盘菜单快速调用；通过内联 /model 和 /permissions 参数直接设置模型、推理强度、速度与权限配置；在支持 Kitty 或 Sixel 图形的终端中于全屏记录预览图像；企业 MCP 连接支持用符合条件的 Codex 账户授权或专用登录认证；远程 Bash 命令与 Zsh 快照会话中遮蔽凭据；Amazon Bedrock 设置向导默认启用。修复涉及压缩失败、会话恢复、Windows 代理认证等。",
+        "keyPoints": [
+          "新增十个编号 /presets 槽位，可保存提示词和斜杠命令并用键盘菜单调用。",
+          "支持内联 /model 与 /permissions 参数直接设置模型、推理强度、速度和权限。",
+          "修复压缩失败残留摘要、会话恢复丢失设置及 Windows 代理认证等问题。"
         ],
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       }
@@ -788,6 +1016,31 @@
           "ForTy按FAO定义将地表分为原始林、自然再生林、人工林、种植园、树作物与农林业、其他土地六类。",
           "模型以约170万个标注地点训练，并引入AlphaEarth Foundations嵌入作为关键输入。",
           "作者称在9000多个随机验证点上森林类型判对率约90%，森林与非森林区分率约95%。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "1bece6e324c775c0",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "What FDE means at OpenAI",
+      "summary": "OpenAI前向部署工程负责人Colin Jarvis撰文介绍该团队的工作方式：团队于2025年初成立，目标是弥合模型能力与实际可靠使用之间的“部署差距”。",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "date": "2026-10-22",
+      "source": "OpenAI 官方新闻",
+      "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+      "sourceMaterial": "官方原始发布正文",
+      "recommended": false,
+      "publishedAt": "2026-10-22T06:00:00+00:00",
+      "titleEn": "What FDE means at OpenAI",
+      "titleZh": "FDE在OpenAI意味着什么",
+      "details": {
+        "overview": "OpenAI前向部署工程负责人Colin Jarvis撰文介绍该团队的工作方式：团队于2025年初成立，目标是弥合模型能力与实际可靠使用之间的“部署差距”。文中以农业客户John Deere和一家大型半导体客户为例，说明FDE如何嵌入客户团队、围绕真实业务结果构建方案，并在Codex能力提升后把定制应用迁移到统一底座上，从而减少重复开发。文章属于官方经验分享，所述效果数据来自其自身项目。",
+        "keyPoints": [
+          "团队2025年初成立，旨在弥合模型能力与实际可用系统之间的部署差距。",
+          "半导体客户案例中，作者称定向测试生成节省约48%时间，调试由数周压缩到数小时。",
+          "借助Codex重构后，作者称各项目可移除约90%的定制代码，便于跨团队复用。"
         ],
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       }
