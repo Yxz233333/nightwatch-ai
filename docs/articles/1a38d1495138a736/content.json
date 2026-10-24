@@ -1,0 +1,28 @@
+{
+  "id": "1a38d1495138a736",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Kazakhstan Expands Compute for Its AI Future",
+  "summary": "英伟达创始人兼CEO黄仁勋访问哈萨克斯坦首都阿斯塔纳，与总统托卡耶夫会面，并与副总理兼人工智能和数字发展部长马迪耶夫在Alem.AI进行公开对话。",
+  "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+  "date": "2026-10-23",
+  "source": "NVIDIA 官方博客",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "publishedAt": "2026-10-23T02:00:13+00:00",
+  "recommendedOn": "2026-10-24",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "Kazakhstan Expands Compute for Its AI Future",
+  "titleZh": "哈萨克斯坦扩展算力，布局AI未来",
+  "details": {
+    "overview": "英伟达创始人兼CEO黄仁勋访问哈萨克斯坦首都阿斯塔纳，与总统托卡耶夫会面，并与副总理兼人工智能和数字发展部长马迪耶夫在Alem.AI进行公开对话。同期宣布多项以英伟达算力为核心的AI基础设施承诺：Firebird获美国出口许可，将部署4.5万块Grace Blackwell GPU，首期与Kazakhtelecom在Data Center Valley建设，目标2027年第三季度商用；Kazakhtelecom已在阿斯塔纳和阿拉木图部署H200与B300，并计划明年扩大部署。报道还提到英伟达投资哈萨克斯坦创立的Higgsfield AI，以及inDrive与Pony.ai探索Robotaxi服务。",
+    "keyPoints": [
+      "Firebird获美出口许可，计划在哈部署4.5万块Grace Blackwell GPU，首期目标2027年三季度商用。",
+      "Kazakhtelecom已在阿斯塔纳和阿拉木图部署400块H200与480块B300，明年计划进一步扩容。",
+      "英伟达宣布投资哈萨克斯坦创立的Higgsfield AI，后者将扩展基于Vera Rubin的AI基础设施。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

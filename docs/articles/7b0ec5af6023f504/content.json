@@ -1,0 +1,26 @@
+{
+  "id": "7b0ec5af6023f504",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+  "summary": "OpenAI与波兰国家研究院NASK签署协议，探索在AI安全、保障与技术研究方面开展合作。",
+  "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+  "date": "2026-10-23",
+  "source": "OpenAI 官方新闻",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": false,
+  "publishedAt": "2026-10-23T00:00:00+00:00",
+  "titleEn": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+  "titleZh": "OpenAI与波兰NASK合作推进AI安全与保障",
+  "details": {
+    "overview": "OpenAI与波兰国家研究院NASK签署协议，探索在AI安全、保障与技术研究方面开展合作。双方将整合各自专业能力，以更好理解新兴风险、强化防护措施，并探索先进AI如何助力构建更安全、更具韧性的数字生态。NASK的AI安全研究中心同时承担波兰AI安全研究所职能，将与OpenAI共同研究如何评估能力日益增强的AI系统、识别潜在漏洞并加强防护。OpenAI称，其此前与美国CAISSI、英国AISI等公共研究机构的合作已帮助强化防护并发现AI智能体安全漏洞。",
+    "keyPoints": [
+      "OpenAI与波兰NASK签署协议，聚焦AI安全、保障与技术研究合作。",
+      "NASK的AI安全研究中心承担波兰AI安全研究所职能，将与OpenAI共同评估AI系统与漏洞。",
+      "OpenAI称此前与美英等公共研究机构合作已帮助强化防护、发现AI智能体漏洞。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

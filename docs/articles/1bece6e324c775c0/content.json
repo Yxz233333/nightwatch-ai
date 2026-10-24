@@ -1,0 +1,26 @@
+{
+  "id": "1bece6e324c775c0",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "What FDE means at OpenAI",
+  "summary": "OpenAI前向部署工程负责人Colin Jarvis撰文介绍该团队的工作方式：团队于2025年初成立，目标是弥合模型能力与实际可靠使用之间的“部署差距”。",
+  "url": "https://openai.com/index/forward-deployed-engineering-means",
+  "date": "2026-10-22",
+  "source": "OpenAI 官方新闻",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": false,
+  "publishedAt": "2026-10-22T06:00:00+00:00",
+  "titleEn": "What FDE means at OpenAI",
+  "titleZh": "FDE在OpenAI意味着什么",
+  "details": {
+    "overview": "OpenAI前向部署工程负责人Colin Jarvis撰文介绍该团队的工作方式：团队于2025年初成立，目标是弥合模型能力与实际可靠使用之间的“部署差距”。文中以农业客户John Deere和一家大型半导体客户为例，说明FDE如何嵌入客户团队、围绕真实业务结果构建方案，并在Codex能力提升后把定制应用迁移到统一底座上，从而减少重复开发。文章属于官方经验分享，所述效果数据来自其自身项目。",
+    "keyPoints": [
+      "团队2025年初成立，旨在弥合模型能力与实际可用系统之间的部署差距。",
+      "半导体客户案例中，作者称定向测试生成节省约48%时间，调试由数周压缩到数小时。",
+      "借助Codex重构后，作者称各项目可移除约90%的定制代码，便于跨团队复用。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

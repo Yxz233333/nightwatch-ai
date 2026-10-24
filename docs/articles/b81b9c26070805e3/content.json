@@ -1,0 +1,23 @@
+{
+  "id": "b81b9c26070805e3",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.165.0-alpha.1 测试版发布",
+  "titleZh": "Codex CLI 0.165.0-alpha.1 测试版发布",
+  "summary": "Codex官方已发布0.165.0-alpha.1 alpha测试版本。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.165.0-alpha.1",
+  "date": "2026-10-23",
+  "publishedAt": "2026-10-23T14:09:53Z",
+  "source": "Codex GitHub Releases",
+  "releaseChannel": "prerelease",
+  "status": "已发布alpha测试版；官方未提供详细变更说明。",
+  "recommended": false,
+  "details": {
+    "overview": "Codex官方已发布0.165.0-alpha.1 alpha测试版本。发布正文仅提供版本号，没有逐项说明新功能、修复或兼容性变化，因此只记录已发生的测试版发布，不推断功能差异，也不将它记为未来预告。",
+    "keyPoints": [
+      "这是已经发布的alpha测试版本，归入功能更新。",
+      "官方正文未提供详细变更说明，请关注后续正式发布记录。"
+    ]
+  },
+  "interest": []
+}

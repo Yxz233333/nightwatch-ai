@@ -1,0 +1,28 @@
+{
+  "id": "5b1067d5cf736369",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+  "summary": "Ai2与宾夕法尼亚大学合作者提出LitPivot系统，用于支持“文献引发的转向”：研究者读到新论文后调整研究方向。",
+  "url": "https://huggingface.co/blog/allenai/litpivot",
+  "date": "2026-10-24",
+  "source": "Hugging Face 官方博客",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "publishedAt": "2026-10-23T16:15:50+00:00",
+  "recommendedOn": "2026-10-24",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+  "titleZh": "LitPivot：在文献图景中通过动态情境化发展研究想法",
+  "details": {
+    "overview": "Ai2与宾夕法尼亚大学合作者提出LitPivot系统，用于支持“文献引发的转向”：研究者读到新论文后调整研究方向。系统把提案拆成问题、贡献与评估计划三个侧面，围绕正在编辑的侧面组织检索到的论文，给出附文献摘录的批评与可接受、编辑或拒绝的修改建议。作者在17名研究者的实验室研究中称，领域专家对LitPivot辅助形成的想法在文献依据上的评分更高，参与者自评新颖性与有用性提升；另有5人用自身项目做了30分钟跟进试用。稿件表示该系统面向早期研究构思。",
+    "keyPoints": [
+      "系统将研究提案拆为问题、贡献、评估计划三个侧面，分别组织并排序相关文献。",
+      "批评附带所选论文摘录，并给出可接受、编辑或拒绝的具体修改建议。",
+      "17人实验室研究中，不知情的领域专家对LitPivot辅助提案的文献依据评分更高。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

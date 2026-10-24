@@ -1,0 +1,26 @@
+{
+  "id": "f2dfeb67168464c3",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Does Your Model Run on AWS Trainium? Look It Up",
+  "summary": "这篇 Hugging Face 博客介绍了 torch-neuronx 模型支持 Space：它基于公开数据集，展示 Hub 上热门 Transformers 模型能否在 AWS Trainium 上不经修改直接运行，并给出所用 Neuron 编译器与 Transformers 版本、分片核数、运行耗时和峰值显存。",
+  "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+  "date": "2026-10-23",
+  "source": "Hugging Face 官方博客",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": false,
+  "publishedAt": "2026-10-23T00:00:00+00:00",
+  "titleEn": "Does Your Model Run on AWS Trainium? Look It Up",
+  "titleZh": "你的模型能在 AWS Trainium 上运行吗？查一查便知",
+  "details": {
+    "overview": "这篇 Hugging Face 博客介绍了 torch-neuronx 模型支持 Space：它基于公开数据集，展示 Hub 上热门 Transformers 模型能否在 AWS Trainium 上不经修改直接运行，并给出所用 Neuron 编译器与 Transformers 版本、分片核数、运行耗时和峰值显存。用户可按精选、趋势或下载量视图检索模型，也能查看失败原因和复现脚本。作者称测试目前仅覆盖文本生成与图文转文本任务，且只测能放进最多 4 台 Trainium2 设备（16 核）的模型；PASS 不代表吞吐或长文本生成表现。",
+    "keyPoints": [
+      "Space 展示模型在 Trainium 上是否原样运行，并附分片核数、耗时与峰值显存。",
+      "测试生成 32 个 token 并校验；单核对比 CPU 输出，分片时由小模型判断英文流畅度。",
+      "结果来自公开 Parquet 数据集，可按 neuronx-cc 与库版本查询并复现运行脚本。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

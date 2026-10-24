@@ -1,0 +1,28 @@
+{
+  "id": "e985bef486a031bf",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+  "summary": "OpenAI工程博客介绍其在线存储平台Habitat如何借助Azure Cosmos DB支撑ChatGPT等产品的数据访问。",
+  "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+  "date": "2026-10-24",
+  "source": "OpenAI 官方新闻",
+  "status": "依据官方原始发布整理；测试、预览及未来计划不等于已全面上线。",
+  "sourceMaterial": "官方原始发布正文",
+  "recommended": true,
+  "publishedAt": "2026-10-23T17:00:00+00:00",
+  "recommendedOn": "2026-10-24",
+  "recommendationReason": "滚动24小时内的官方研究、工具或行业发布。",
+  "titleEn": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+  "titleZh": "快速扩展在线存储以服务超过10亿ChatGPT用户（第二部分）",
+  "details": {
+    "overview": "OpenAI工程博客介绍其在线存储平台Habitat如何借助Azure Cosmos DB支撑ChatGPT等产品的数据访问。文章称Habitat需在40个地理区域为超过10亿用户提供毫秒级响应，承载超过500PB数据。第二部分聚焦底层存储组件的扩展：团队经历从单一多租户容器、到单租户容器、再回到默认多租户的循环，最终与Azure团队合作采用共同管理的容器多租户方案，并讨论热键限流、服务质量、无服务器模式、就近存储、缓存与用Rust降低代理开销等做法。",
+    "keyPoints": [
+      "Habitat需在40个区域为超10亿用户提供毫秒级数据访问，承载超500PB数据。",
+      "多租户路线经历单一容器、单租户隔离、再回归默认多租户的循环。",
+      "与Azure合作采用共同管理容器的多租户方案，并配合限流、缓存与Rust代理优化。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "165ef1d15a1b8a58",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.164.0 正式版发布",
+  "titleZh": "Codex CLI 0.164.0 正式版发布",
+  "summary": "OpenAI 的 Codex CLI 发布 0.164.0 正式版，更新说明列出新增功能与修复。",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0",
+  "date": "2026-10-23",
+  "publishedAt": "2026-10-23T04:48:10Z",
+  "source": "Codex GitHub Releases",
+  "releaseChannel": "stable",
+  "status": "已发布正式版；功能和终端支持条件以官方发布说明为准。",
+  "recommended": false,
+  "titleEn": "Codex CLI 0.164.0 正式版发布",
+  "details": {
+    "overview": "OpenAI 的 Codex CLI 发布 0.164.0 正式版，更新说明列出新增功能与修复。新增内容包括：在十个编号的 /presets 槽位中保存可复用提示词和斜杠命令，并可用键盘菜单快速调用；通过内联 /model 和 /permissions 参数直接设置模型、推理强度、速度与权限配置；在支持 Kitty 或 Sixel 图形的终端中于全屏记录预览图像；企业 MCP 连接支持用符合条件的 Codex 账户授权或专用登录认证；远程 Bash 命令与 Zsh 快照会话中遮蔽凭据；Amazon Bedrock 设置向导默认启用。修复涉及压缩失败、会话恢复、Windows 代理认证等。",
+    "keyPoints": [
+      "新增十个编号 /presets 槽位，可保存提示词和斜杠命令并用键盘菜单调用。",
+      "支持内联 /model 与 /permissions 参数直接设置模型、推理强度、速度和权限。",
+      "修复压缩失败残留摘要、会话恢复丢失设置及 Windows 代理认证等问题。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}
