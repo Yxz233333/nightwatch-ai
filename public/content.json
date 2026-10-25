@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-24T08:02:13+08:00",
+  "updatedAt": "2026-10-25T08:05:27+08:00",
   "coverage": {
     "requestedFrom": "2025-09-01",
-    "requestedThrough": "2026-10-24",
+    "requestedThrough": "2026-10-25",
     "scope": "已核实官方发布说明、GitHub Releases、官方 RSS 与新闻研究归档；不是全网穷尽清单。",
     "historyAddedBySource": {
       "ChatGPT 官方发布说明": 207,
@@ -43,8 +43,8 @@
       ]
     },
     "sourceCounts": {
-      "Hugging Face 官方博客": 247,
       "OpenAI 官方新闻": 672,
+      "Hugging Face 官方博客": 247,
       "Codex GitHub Releases": 1142,
       "NVIDIA 官方博客": 337,
       "Anthropic 官方新闻与研究": 252,
@@ -140,11 +140,13 @@
         "chatgpt": 9
       }
     },
-    "lastCheckedAt": "2026-10-24T08:02:13+08:00",
+    "lastCheckedAt": "2026-10-25T08:05:27+08:00",
     "dailyCheck": {
-      "checkedAt": "2026-10-24T08:02:13+08:00",
-      "addedArticles": 10,
-      "recommendationsAdded": 4,
+      "checkedAt": "2026-10-25T08:05:27+08:00",
+      "addedArticles": 0,
+      "addedHistoricalArticles": 0,
+      "newItemsLast24Hours": 0,
+      "recommendationsAdded": 0,
       "checks": [
         {
           "source": "ChatGPT release notes",
@@ -152,46 +154,43 @@
         },
         {
           "source": "Codex GitHub",
-          "result": "最新50条核查，新增0.164.0正式版及2个alpha；正式版按完整说明补充详情"
+          "result": "最新50条核查，未发现未归档的新发布"
         },
         {
           "source": "OpenAI math",
-          "result": "719篇索引无变化；SHA 2c68c086fff36a5806c936ad1659cf1a8d0b6dd9"
+          "result": "719篇索引未变化；SHA 2c68c086fff36a5806c936ad1659cf1a8d0b6dd9"
         },
         {
-          "source": "OpenAI news",
-          "result": "4篇新增原文通过官方网页读取，FDE为历史补录，不记为功能更新"
+          "source": "OpenAI/Hugging Face/NVIDIA",
+          "result": "RSS重新读取；未归档项为范围外旧稿或常规游戏上架；不以旧稿补今日推荐"
         },
         {
-          "source": "DeepMind",
-          "result": "RSS本次返回gzip，解压后成功解析；未发现未归档条目，并核查官方索引"
+          "source": "Google DeepMind/Google AI",
+          "result": "DeepMind gzip解压后解析成功；Google AI RSS重读，未发现未归档条目"
         },
         {
-          "source": "Hugging Face/NVIDIA",
-          "result": "RSS及新增原文核查，地区算力投资保留计划与实际部署区别"
-        },
-        {
-          "source": "Anthropic/Google AI",
-          "result": "新闻索引及RSS重新核查，未发现新增未归档文章"
+          "source": "Anthropic",
+          "result": "新闻索引重读，未发现新的未归档文章"
         },
         {
           "source": "Microsoft/Meta",
-          "result": "当前官方索引核查，未发现新条目，分页历史非穷尽"
+          "result": "官方索引核查；补入2026年8月31日病理研究原文，历史仍非穷尽"
         },
         {
           "source": "MiniMax/Qwen/DeepSeek/Gemini",
-          "result": "当前官方页面重读；MiniMax最新索引仍为10月22日Mini App"
+          "result": "当前官方索引与更新页核查，未发现已核实的新发布，国内厂商完整归档仍非穷尽"
         }
       ],
       "partialSources": [
         {
           "url": "https://learn.chatgpt.com/docs/changelog",
-          "result": "本次未能核验：直接HTTP及浏览器返回403，网页读取两次超过内容长度限制，Markdown路径404。已保留全部旧条目，CLI单独以GitHub发布核验；其他客户端新增条目可能遗漏。"
+          "result": "此前已记录的限制仍未恢复：本次直接HTTP403，网页读取超过内容长度上限；非CLI客户端更新未能核验，CLI仍以GitHub发布独立核查。"
         }
       ],
       "limitations": [
-        "微软企业AI RSS直接HTTP403，Research官方索引已核查。",
-        "国内厂商完整归档与Meta分页历史仍非穷尽，不将无法访问视为没有更新。"
+        "ChatGPT Learn来源访问限制与上次相同，未把失败解释为没有更新。",
+        "Microsoft企业AI RSS直接403；Research索引与新增历史原文已核查。",
+        "中文厂商完整归档与Meta分页仍部分覆盖。"
       ]
     }
   },
