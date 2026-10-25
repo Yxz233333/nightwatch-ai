@@ -1,8 +1,8 @@
 {
   "schemaVersion": 4,
   "title": "夜行 · AI 阅读入口",
-  "syncedAt": "2026-10-25T00:05:30.555Z",
-  "contentUpdatedAt": "2026-10-25T08:05:27+08:00",
+  "syncedAt": "2026-10-25T00:08:02.700Z",
+  "contentUpdatedAt": "2026-10-25T08:08:01+08:00",
   "coverage": {
     "requestedFrom": "2025-09-01",
     "requestedThrough": "2026-10-25",
@@ -177,7 +177,7 @@
         },
         {
           "source": "Microsoft/Meta",
-          "result": "官方索引核查；补入2026年8月31日病理研究原文，历史仍非穷尽"
+          "result": "官方索引核查；8月31日病理研究原文已在历史库中，本次核查后不重复新增，历史仍非穷尽。"
         },
         {
           "source": "MiniMax/Qwen/DeepSeek/Gemini",
