@@ -1,11 +1,11 @@
 {
   "schemaVersion": 4,
   "title": "夜行 · AI 阅读入口",
-  "syncedAt": "2026-10-25T00:08:02.700Z",
-  "contentUpdatedAt": "2026-10-25T08:08:01+08:00",
+  "syncedAt": "2026-10-25T23:57:42.064Z",
+  "contentUpdatedAt": "2026-10-26T07:57:38+08:00",
   "coverage": {
     "requestedFrom": "2025-09-01",
-    "requestedThrough": "2026-10-25",
+    "requestedThrough": "2026-10-26",
     "scope": "已核实官方发布说明、GitHub Releases、官方 RSS 与新闻研究归档；不是全网穷尽清单。",
     "historyAddedBySource": {
       "ChatGPT 官方发布说明": 207,
@@ -143,9 +143,9 @@
         "chatgpt": 9
       }
     },
-    "lastCheckedAt": "2026-10-25T08:05:27+08:00",
+    "lastCheckedAt": "2026-10-26T07:57:38+08:00",
     "dailyCheck": {
-      "checkedAt": "2026-10-25T08:05:27+08:00",
+      "checkedAt": "2026-10-26T07:57:38+08:00",
       "addedArticles": 0,
       "addedHistoricalArticles": 0,
       "newItemsLast24Hours": 0,
@@ -153,47 +153,50 @@
       "checks": [
         {
           "source": "ChatGPT release notes",
-          "result": "官方页面核查，最新有日期更新仍为10月20日"
+          "result": "官方页面核查，最新有日期条目仍为10月20日"
         },
         {
           "source": "Codex GitHub",
-          "result": "最新50条核查，未发现未归档的新发布"
+          "result": "最新50条重新核查，无未归档新发布"
         },
         {
           "source": "OpenAI math",
           "result": "719篇索引未变化；SHA 2c68c086fff36a5806c936ad1659cf1a8d0b6dd9"
         },
         {
-          "source": "OpenAI/Hugging Face/NVIDIA",
-          "result": "RSS重新读取；未归档项为范围外旧稿或常规游戏上架；不以旧稿补今日推荐"
+          "source": "OpenAI/DeepMind/NVIDIA",
+          "result": "RSS重新获取并解析，无范围内未归档AI条目；常规游戏上架消息不充当AI新闻"
         },
         {
-          "source": "Google DeepMind/Google AI",
-          "result": "DeepMind gzip解压后解析成功；Google AI RSS重读，未发现未归档条目"
+          "source": "Hugging Face",
+          "result": "初次SSL连接异常，随后重试成功并重新解析，无范围内未归档条目"
         },
         {
-          "source": "Anthropic",
-          "result": "新闻索引重读，未发现新的未归档文章"
+          "source": "Anthropic/Google AI",
+          "result": "当前新闻索引及RSS重读，无新的未归档文章"
         },
         {
-          "source": "Microsoft/Meta",
-          "result": "官方索引核查；8月31日病理研究原文已在历史库中，本次核查后不重复新增，历史仍非穷尽。"
+          "source": "Meta",
+          "result": "当前官方AI博客索引核查，未发现新条目；未声明分页全量覆盖"
         },
         {
           "source": "MiniMax/Qwen/DeepSeek/Gemini",
-          "result": "当前官方索引与更新页核查，未发现已核实的新发布，国内厂商完整归档仍非穷尽"
+          "result": "官方索引及更新页面重读，未发现已核实的新发布，国内厂商完整历史仍部分覆盖"
         }
       ],
       "partialSources": [
         {
           "url": "https://learn.chatgpt.com/docs/changelog",
-          "result": "此前已记录的限制仍未恢复：本次直接HTTP403，网页读取超过内容长度上限；非CLI客户端更新未能核验，CLI仍以GitHub发布独立核查。"
+          "result": "此前已知访问限制仍存在：HTTP403，网页读取超过长度限制；其他客户端更新无法核验，CLI以GitHub独立核查。"
+        },
+        {
+          "url": "https://www.microsoft.com/en-us/research/blog/",
+          "result": "本次网页读取两次超时，直接HTTP回退403；无法核验当前Research新增文章，保留全部旧内容，不把失败解释为没有更新。"
         }
       ],
       "limitations": [
-        "ChatGPT Learn来源访问限制与上次相同，未把失败解释为没有更新。",
-        "Microsoft企业AI RSS直接403；Research索引与新增历史原文已核查。",
-        "中文厂商完整归档与Meta分页仍部分覆盖。"
+        "Microsoft企业AI RSS直接403；Research本次亦未成功获取，新增内容可能遗漏。",
+        "中文厂商完整归档与Meta分页历史仍非穷尽；不将历史消息加入今日推荐。"
       ]
     }
   },
