@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-25T23:57:42.064Z",
+  "syncedAt": "2026-10-27T00:08:57.181Z",
   "articles": [
     {
       "id": "d801af45ebed7c9b",
@@ -4859,6 +4859,51 @@
         ],
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       },
+      "interest": []
+    },
+    {
+      "id": "f087d44b4966134d",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "GPT-6.1 Terra 开始向 ChatGPT Work 与 Codex 推出",
+      "titleZh": "GPT-6.1 Terra 开始向 ChatGPT Work 与 Codex 推出",
+      "summary": "OpenAI 发布 GPT-6.1 Terra，强调视觉推理、电脑操作与自然写作中的效率，并开始在 ChatGPT Work、Codex 及 API 提供。",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "date": "2026-10-26",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "details": {
+        "overview": "OpenAI 发布 GPT-6.1 Terra，强调视觉推理、电脑操作与自然写作中的效率，并开始在 ChatGPT Work、Codex 及 API 提供。",
+        "keyPoints": [
+          "可用范围取决于订阅、地区和工作区设置；逐步推出不等于所有用户立即可用。",
+          "API 模型标识为 gpt-6.1-terra；普通调用价格每百万输入、缓存输入、输出 token 分别为1、0.05、5美元。",
+          "帮助中心说明整体套餐限制不变；模型效率提升不等于提高套餐总额度。"
+        ]
+      },
+      "publishedAt": "2026-10-26T00:00:00+00:00",
+      "status": "官方已发布并逐步推出；具体可用性以账号及工作区设置为准。",
+      "interest": []
+    },
+    {
+      "id": "7bbdc74c3fccd702",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "ChatGPT 网页订阅在越南支持 MoMo 支付",
+      "titleZh": "ChatGPT 网页订阅在越南支持 MoMo 支付",
+      "summary": "ChatGPT 官方发布说明宣布，越南用户可在 chatgpt.com 使用 MoMo 支付 Go、Plus 与 Pro 订阅。",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "date": "2026-10-21",
+      "source": "ChatGPT 官方发布说明",
+      "recommended": false,
+      "details": {
+        "overview": "ChatGPT 官方发布说明宣布，越南用户可在 chatgpt.com 使用 MoMo 支付 Go、Plus 与 Pro 订阅。",
+        "keyPoints": [
+          "适用于官方说明列出的网页订阅及地区。",
+          "iOS 和 Android 应用内购买仍通过 Apple 或 Google 结算。"
+        ]
+      },
+      "status": "已发布的地区性支付方式更新。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
       "interest": []
     }
   ]

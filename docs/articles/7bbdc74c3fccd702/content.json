@@ -1,0 +1,22 @@
+{
+  "id": "7bbdc74c3fccd702",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT 网页订阅在越南支持 MoMo 支付",
+  "titleZh": "ChatGPT 网页订阅在越南支持 MoMo 支付",
+  "summary": "ChatGPT 官方发布说明宣布，越南用户可在 chatgpt.com 使用 MoMo 支付 Go、Plus 与 Pro 订阅。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+  "date": "2026-10-21",
+  "source": "ChatGPT 官方发布说明",
+  "recommended": false,
+  "details": {
+    "overview": "ChatGPT 官方发布说明宣布，越南用户可在 chatgpt.com 使用 MoMo 支付 Go、Plus 与 Pro 订阅。",
+    "keyPoints": [
+      "适用于官方说明列出的网页订阅及地区。",
+      "iOS 和 Android 应用内购买仍通过 Apple 或 Google 结算。"
+    ]
+  },
+  "status": "已发布的地区性支付方式更新。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "interest": []
+}

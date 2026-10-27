@@ -1,0 +1,24 @@
+{
+  "id": "387b0e4100736973",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Fanatics 与 OpenAI 推出商品搭配推荐体验",
+  "titleZh": "Fanatics 与 OpenAI 推出商品搭配推荐体验",
+  "summary": "Fanatics 介绍由 OpenAI 模型支持的 Shop the Look 商品搭配推荐，并使用 Codex 辅助开发与测试。",
+  "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+  "date": "2026-10-26",
+  "source": "OpenAI 官方新闻",
+  "recommended": true,
+  "details": {
+    "overview": "Fanatics 介绍由 OpenAI 模型支持的 Shop the Look 商品搭配推荐，并使用 Codex 辅助开发与测试。",
+    "keyPoints": [
+      "推荐结合商品、球队、库存及商家搭配规则，随商品目录变化刷新。",
+      "官方案例报告约三万件 MLB 商品测试中的互动提升；这是特定案例结果，不代表所有商家的效果。"
+    ]
+  },
+  "publishedAt": "2026-10-26T07:00:00+00:00",
+  "status": "依据官方原始发布整理。",
+  "recommendedOn": "2026-10-27",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "interest": []
+}

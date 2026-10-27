@@ -1,0 +1,30 @@
+{
+  "id": "a3f2f185910c0e64",
+  "section": "papers",
+  "category": "分析与偏微分方程",
+  "title": "欧几里得波动方程的局部光滑性",
+  "titleZh": "欧几里得波动方程的局部光滑性",
+  "summary": "该 AI 手稿宣称证明所有至少二维欧几里得空间中的 Sogge 局部光滑性猜想，并推导若干调和分析结果。以下是原稿主张的中文说明，不能视为已获独立学界审查通过。",
+  "url": "https://github.com/openai/math/blob/main/preprints/Local-smoothing-for-the-Euclidean-wave-equation-October-25-2026/paper.pdf",
+  "date": "2026-10-27",
+  "source": "OpenAI 数学仓库",
+  "recommended": false,
+  "details": {
+    "overview": "该 AI 手稿宣称证明所有至少二维欧几里得空间中的 Sogge 局部光滑性猜想，并推导若干调和分析结果。以下是原稿主张的中文说明，不能视为已获独立学界审查通过。",
+    "keyPoints": [
+      "研究波动方程的局部光滑性以及时间平均后的聚焦行为。",
+      "摘要宣称推导 Bochner–Riesz、傅里叶限制及 Kakeya、Nikodym 极大估计等结果。",
+      "官方提供自然语言稿与 Lean 形式化；收录不表示已完成同行评议。"
+    ]
+  },
+  "titleEn": "Local smoothing for the Euclidean wave equation",
+  "abstractEnglish": "We prove Sogge’s local smoothing conjecture for the Euclidean wave equation in every spatial dimension at least two. We deduce the Bochner–Riesz conjecture, maximal estimates for these means, and sharp bounds for Stein’s square function. We obtain Fourier restriction estimates for the sphere, the compact paraboloid, and the truncated cone throughout the interior of the conjectured range, as well as local smoothing for the Schrödinger equation. We also prove the Kakeya and Nikodym maximal conjectures. In particular, every Euclidean Kakeya set has full Hausdorff dimension.",
+  "sourceRepository": "https://github.com/openai/math",
+  "license": "Apache-2.0",
+  "manuscriptDate": "2026-10-25",
+  "publishedAt": "2026-10-26T20:35:02Z",
+  "publicationTimeNote": "按仓库首次公开提交时间归档；文件目录标示手稿日期为2026-10-25。",
+  "status": "AI 产生的研究手稿；官方公布形式化材料，独立审阅仍需进行；不宣称已经同行评议。",
+  "subjectDetail": "分析与偏微分方程",
+  "interest": []
+}

@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-25T23:57:42.064Z",
+  "syncedAt": "2026-10-27T00:08:57.181Z",
   "articles": [
     {
       "id": "de60874b53a0db38",
@@ -383,6 +383,33 @@
         "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
       },
       "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+      "interest": []
+    },
+    {
+      "id": "0bb37b2046fc6929",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "OpenAI 公布数学、复杂性与量子场论研究，并组织学界审阅",
+      "titleZh": "OpenAI 公布数学、复杂性与量子场论研究，并组织学界审阅",
+      "summary": "OpenAI 发布三类 AI 研究主张，并试验不同的学界解释与审阅机制。官方将 AI 手稿视为原始研究资料；收录不表示已完成独立审查。",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "date": "2026-10-26",
+      "source": "OpenAI 官方新闻",
+      "recommended": true,
+      "details": {
+        "overview": "OpenAI 发布三类 AI 研究主张，并试验不同的学界解释与审阅机制。官方将 AI 手稿视为原始研究资料；收录不表示已完成独立审查。",
+        "keyPoints": [
+          "数学材料与 ETH 相关材料公开；物理材料由外部合作组决定后续发布安排。",
+          "ETH 主张由 Impagliazzo、Paturi、Williams 牵头的团队组织理解和验证，不能等同于解决 P 与 NP 问题。",
+          "官方称部分结果已有 Lean 形式化；形式化材料不替代对问题表述、前提及科学意义的独立审阅。"
+        ]
+      },
+      "publishedAt": "2026-10-26T14:30:00+00:00",
+      "status": "重大研究候选；AI原始研究资料，学界独立审阅与解释仍在进行。",
+      "recommendedOn": "2026-10-27",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "breakthrough": true,
+      "breakthroughField": "AI 数学与基础科学",
       "interest": []
     }
   ]

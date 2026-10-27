@@ -1,11 +1,11 @@
 {
   "schemaVersion": 4,
   "title": "夜行 · AI 阅读入口",
-  "syncedAt": "2026-10-25T23:57:42.064Z",
-  "contentUpdatedAt": "2026-10-26T07:57:38+08:00",
+  "syncedAt": "2026-10-27T00:08:57.181Z",
+  "contentUpdatedAt": "2026-10-27T08:08:17+08:00",
   "coverage": {
     "requestedFrom": "2025-09-01",
-    "requestedThrough": "2026-10-26",
+    "requestedThrough": "2026-10-27",
     "scope": "已核实官方发布说明、GitHub Releases、官方 RSS 与新闻研究归档；不是全网穷尽清单。",
     "historyAddedBySource": {
       "ChatGPT 官方发布说明": 207,
@@ -46,33 +46,33 @@
       ]
     },
     "sourceCounts": {
-      "OpenAI 官方新闻": 672,
+      "OpenAI 官方新闻": 679,
       "Hugging Face 官方博客": 247,
-      "Codex GitHub Releases": 1142,
+      "Codex GitHub Releases": 1143,
       "NVIDIA 官方博客": 337,
-      "Anthropic 官方新闻与研究": 252,
+      "Anthropic 官方新闻与研究": 253,
       "MiniMax 官方博客": 2,
       "Microsoft Research": 13,
       "Google DeepMind": 111,
       "Google AI 官方博客": 21,
-      "ChatGPT 官方发布说明": 208,
+      "ChatGPT 官方发布说明": 209,
       "DeepSeek 官方更新": 11,
       "此前已核实内容": 745,
       "ChatGPT 与 Codex 官方变更日志": 127,
       "Gemini 官方发布说明": 32,
-      "OpenAI 数学仓库": 2,
+      "OpenAI 数学仓库": 4,
       "Meta AI 官方博客": 10,
       "Anthropic 官方迁移归档": 2,
       "OpenAI 官方研究": 2
     },
     "excludedNonAINews": 33,
-    "total": 3936,
+    "total": 3948,
     "byMonth": {
       "2026-10": {
-        "news": 171,
-        "codex": 82,
-        "chatgpt": 21,
-        "papers": 162
+        "news": 178,
+        "codex": 83,
+        "chatgpt": 23,
+        "papers": 164
       },
       "2026-09": {
         "papers": 557,
@@ -143,60 +143,52 @@
         "chatgpt": 9
       }
     },
-    "lastCheckedAt": "2026-10-26T07:57:38+08:00",
+    "lastCheckedAt": "2026-10-27T08:08:17+08:00",
     "dailyCheck": {
-      "checkedAt": "2026-10-26T07:57:38+08:00",
-      "addedArticles": 0,
-      "addedHistoricalArticles": 0,
-      "newItemsLast24Hours": 0,
-      "recommendationsAdded": 0,
+      "checkedAt": "2026-10-27T08:08:17+08:00",
+      "addedArticles": 12,
+      "addedHistoricalArticles": 1,
+      "newItemsLast24Hours": 9,
+      "recommendationsAdded": 6,
       "checks": [
         {
           "source": "ChatGPT release notes",
-          "result": "官方页面核查，最新有日期条目仍为10月20日"
+          "result": "核查10月26日Terra与10月21日MoMo支付；历史条目不进入今日推荐。"
         },
         {
           "source": "Codex GitHub",
-          "result": "最新50条重新核查，无未归档新发布"
+          "result": "重新核查最新50条，补入0.165.0-alpha.3；官方正文未提供详细变更。"
         },
         {
           "source": "OpenAI math",
-          "result": "719篇索引未变化；SHA 2c68c086fff36a5806c936ad1659cf1a8d0b6dd9"
+          "result": "索引721篇手稿、373个结果族；新增两篇，按首次公开Git提交时间归档。032与079族新增形式化链接，079族概述扩展；旧手稿与ID全部保留。SHA 7e1ed90ac5a666f1bbecb22027387c4ad79e9d03"
         },
         {
-          "source": "OpenAI/DeepMind/NVIDIA",
-          "result": "RSS重新获取并解析，无范围内未归档AI条目；常规游戏上架消息不充当AI新闻"
+          "source": "OpenAI/Anthropic",
+          "result": "核查官方RSS、正文与新闻索引，补入新发布；日期元数据为午夜的Anthropic条目保守仅记日期。"
         },
         {
-          "source": "Hugging Face",
-          "result": "初次SSL连接异常，随后重试成功并重新解析，无范围内未归档条目"
+          "source": "DeepMind/Hugging Face/NVIDIA/Google AI",
+          "result": "当前RSS重新获取并比对现有URL；未发现其他已核实范围内的新AI文章。"
         },
         {
-          "source": "Anthropic/Google AI",
-          "result": "当前新闻索引及RSS重读，无新的未归档文章"
+          "source": "Microsoft Research",
+          "result": "官方索引恢复核查，最新展示仍为已归档的10月22日Flint；企业AI源直接HTTP403。"
         },
         {
-          "source": "Meta",
-          "result": "当前官方AI博客索引核查，未发现新条目；未声明分页全量覆盖"
-        },
-        {
-          "source": "MiniMax/Qwen/DeepSeek/Gemini",
-          "result": "官方索引及更新页面重读，未发现已核实的新发布，国内厂商完整历史仍部分覆盖"
+          "source": "Meta/MiniMax/Qwen/DeepSeek/Gemini",
+          "result": "当前官方索引或更新页核查，无其他已核实的新条目；不宣称分页与中文厂商历史穷尽。"
         }
       ],
       "partialSources": [
         {
           "url": "https://learn.chatgpt.com/docs/changelog",
-          "result": "此前已知访问限制仍存在：HTTP403，网页读取超过长度限制；其他客户端更新无法核验，CLI以GitHub独立核查。"
-        },
-        {
-          "url": "https://www.microsoft.com/en-us/research/blog/",
-          "result": "本次网页读取两次超时，直接HTTP回退403；无法核验当前Research新增文章，保留全部旧内容，不把失败解释为没有更新。"
+          "result": "已知访问限制仍存在：直接HTTP403，网页工具超过长度限制；无法完整核验该源客户端更新。"
         }
       ],
       "limitations": [
-        "Microsoft企业AI RSS直接403；Research本次亦未成功获取，新增内容可能遗漏。",
-        "中文厂商完整归档与Meta分页历史仍非穷尽；不将历史消息加入今日推荐。"
+        "Microsoft企业AI源直接HTTP403；Research索引可核查，但不代表完整历史覆盖。",
+        "中文厂商完整归档与Meta分页历史仍非穷尽。"
       ]
     }
   },
@@ -95993,6 +95985,303 @@
         "editorialNote": "根据官方 RSS 所附摘要或正文节选整理，中文为辅助阅读；材料未列出的细节请打开原始文章核实，不能据此断言原文没有说明。"
       },
       "sourceMaterial": "官方 RSS 所附摘要或正文节选",
+      "interest": []
+    },
+    {
+      "id": "5549ce122c7244a3",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Greptile 用 GPT-6 Astra 扩展代码审查后的界面测试",
+      "titleZh": "Greptile 用 GPT-6 Astra 扩展代码审查后的界面测试",
+      "summary": "Greptile 分享将 GPT-6 Astra 的电脑操作能力用于开发服务器上的界面检查，补充静态代码审查。",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "date": "2026-10-27",
+      "source": "OpenAI 官方新闻",
+      "recommended": true,
+      "details": {
+        "overview": "Greptile 分享将 GPT-6 Astra 的电脑操作能力用于开发服务器上的界面检查，补充静态代码审查。",
+        "keyPoints": [
+          "案例包括调整浏览器至手机视口并发现界面缺失按钮。",
+          "这是第三方开发工作流案例，不能理解为 Codex 当天新增一项普遍开放的功能。"
+        ]
+      },
+      "publishedAt": "2026-10-26T22:00:00+00:00",
+      "status": "依据官方原始发布整理。",
+      "recommendedOn": "2026-10-27",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "0bb37b2046fc6929",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "OpenAI 公布数学、复杂性与量子场论研究，并组织学界审阅",
+      "titleZh": "OpenAI 公布数学、复杂性与量子场论研究，并组织学界审阅",
+      "summary": "OpenAI 发布三类 AI 研究主张，并试验不同的学界解释与审阅机制。官方将 AI 手稿视为原始研究资料；收录不表示已完成独立审查。",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "date": "2026-10-26",
+      "source": "OpenAI 官方新闻",
+      "recommended": true,
+      "details": {
+        "overview": "OpenAI 发布三类 AI 研究主张，并试验不同的学界解释与审阅机制。官方将 AI 手稿视为原始研究资料；收录不表示已完成独立审查。",
+        "keyPoints": [
+          "数学材料与 ETH 相关材料公开；物理材料由外部合作组决定后续发布安排。",
+          "ETH 主张由 Impagliazzo、Paturi、Williams 牵头的团队组织理解和验证，不能等同于解决 P 与 NP 问题。",
+          "官方称部分结果已有 Lean 形式化；形式化材料不替代对问题表述、前提及科学意义的独立审阅。"
+        ]
+      },
+      "publishedAt": "2026-10-26T14:30:00+00:00",
+      "status": "重大研究候选；AI原始研究资料，学界独立审阅与解释仍在进行。",
+      "recommendedOn": "2026-10-27",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "breakthrough": true,
+      "breakthroughField": "AI 数学与基础科学",
+      "interest": []
+    },
+    {
+      "id": "3c2b83031546ec25",
+      "section": "news",
+      "category": "工具动态",
+      "title": "CodeRabbit 使用 GPT-6.1 Sol 检查跨文件与跨仓库安全问题",
+      "titleZh": "CodeRabbit 使用 GPT-6.1 Sol 检查跨文件与跨仓库安全问题",
+      "summary": "CodeRabbit 介绍结合 GPT-6.1 Sol、既有扫描器及其他模型开展代码安全检查的流程。",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "date": "2026-10-26",
+      "source": "OpenAI 官方新闻",
+      "recommended": true,
+      "details": {
+        "overview": "CodeRabbit 介绍结合 GPT-6.1 Sol、既有扫描器及其他模型开展代码安全检查的流程。",
+        "keyPoints": [
+          "DeepScan 与 CodeRabbit Secure 结合跨文件、依赖和仓库上下文分析。",
+          "部分问题在沙箱中验证，修复建议通过需要人工审批的拉取请求交付。"
+        ]
+      },
+      "publishedAt": "2026-10-26T13:45:00+00:00",
+      "status": "依据官方原始发布整理。",
+      "recommendedOn": "2026-10-27",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "2885a16d17bb4635",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "OpenAI 更新 ChatGPT 工作使用活动研究",
+      "titleZh": "OpenAI 更新 ChatGPT 工作使用活动研究",
+      "summary": "OpenAI 通过 Signals 数据观察不同国家与职业活动中的 ChatGPT 使用分布，提供季度变化的描述性分析。",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "date": "2026-10-26",
+      "source": "OpenAI 官方新闻",
+      "recommended": true,
+      "details": {
+        "overview": "OpenAI 通过 Signals 数据观察不同国家与职业活动中的 ChatGPT 使用分布，提供季度变化的描述性分析。",
+        "keyPoints": [
+          "研究覆盖约100个国家的165类工作活动，时间范围为2025年第一季度至2026年第三季度。",
+          "使用活动数据描述任务分布，不能直接证明就业变化或因果关系。"
+        ]
+      },
+      "publishedAt": "2026-10-26T10:00:00+00:00",
+      "status": "依据官方原始发布整理。",
+      "recommendedOn": "2026-10-27",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "387b0e4100736973",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Fanatics 与 OpenAI 推出商品搭配推荐体验",
+      "titleZh": "Fanatics 与 OpenAI 推出商品搭配推荐体验",
+      "summary": "Fanatics 介绍由 OpenAI 模型支持的 Shop the Look 商品搭配推荐，并使用 Codex 辅助开发与测试。",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "date": "2026-10-26",
+      "source": "OpenAI 官方新闻",
+      "recommended": true,
+      "details": {
+        "overview": "Fanatics 介绍由 OpenAI 模型支持的 Shop the Look 商品搭配推荐，并使用 Codex 辅助开发与测试。",
+        "keyPoints": [
+          "推荐结合商品、球队、库存及商家搭配规则，随商品目录变化刷新。",
+          "官方案例报告约三万件 MLB 商品测试中的互动提升；这是特定案例结果，不代表所有商家的效果。"
+        ]
+      },
+      "publishedAt": "2026-10-26T07:00:00+00:00",
+      "status": "依据官方原始发布整理。",
+      "recommendedOn": "2026-10-27",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "d9c9b3083eccf0ba",
+      "section": "news",
+      "category": "工具动态",
+      "title": "OpenAI 分享 Codex Ultrafast 在内部事故排查中的应用",
+      "titleZh": "OpenAI 分享 Codex Ultrafast 在内部事故排查中的应用",
+      "summary": "OpenAI 工程团队介绍利用 Codex Ultrafast 并行排查日志及沟通记录的内部实践。",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "date": "2026-10-26",
+      "source": "OpenAI 官方新闻",
+      "recommended": true,
+      "details": {
+        "overview": "OpenAI 工程团队介绍利用 Codex Ultrafast 并行排查日志及沟通记录的内部实践。",
+        "keyPoints": [
+          "团队报告部分安全调查的数据整理由一至两小时缩短至约十至十五分钟。",
+          "这是内部经验与示例，不能据此断言所有账号已获得相同模式、权限或响应速度。"
+        ]
+      },
+      "publishedAt": "2026-10-26T07:00:00+00:00",
+      "status": "依据官方原始发布整理。",
+      "recommendedOn": "2026-10-27",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "f087d44b4966134d",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "GPT-6.1 Terra 开始向 ChatGPT Work 与 Codex 推出",
+      "titleZh": "GPT-6.1 Terra 开始向 ChatGPT Work 与 Codex 推出",
+      "summary": "OpenAI 发布 GPT-6.1 Terra，强调视觉推理、电脑操作与自然写作中的效率，并开始在 ChatGPT Work、Codex 及 API 提供。",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "date": "2026-10-26",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "details": {
+        "overview": "OpenAI 发布 GPT-6.1 Terra，强调视觉推理、电脑操作与自然写作中的效率，并开始在 ChatGPT Work、Codex 及 API 提供。",
+        "keyPoints": [
+          "可用范围取决于订阅、地区和工作区设置；逐步推出不等于所有用户立即可用。",
+          "API 模型标识为 gpt-6.1-terra；普通调用价格每百万输入、缓存输入、输出 token 分别为1、0.05、5美元。",
+          "帮助中心说明整体套餐限制不变；模型效率提升不等于提高套餐总额度。"
+        ]
+      },
+      "publishedAt": "2026-10-26T00:00:00+00:00",
+      "status": "官方已发布并逐步推出；具体可用性以账号及工作区设置为准。",
+      "interest": []
+    },
+    {
+      "id": "0d96640a89036ca0",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Anthropic 为拟议首次公开募股提交 S-1 注册声明",
+      "titleZh": "Anthropic 为拟议首次公开募股提交 S-1 注册声明",
+      "summary": "Anthropic 宣布向美国 SEC 提交 S-1 注册声明，拟在纳斯达克以 ANT 为代码上市。提交声明并不表示发行已获生效或已经上市。",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "date": "2026-10-26",
+      "source": "Anthropic 官方新闻与研究",
+      "recommended": false,
+      "details": {
+        "overview": "Anthropic 宣布向美国 SEC 提交 S-1 注册声明，拟在纳斯达克以 ANT 为代码上市。提交声明并不表示发行已获生效或已经上市。",
+        "keyPoints": [
+          "发行股数及价格区间尚未确定。",
+          "原文说明注册声明尚未生效；本条保留官方日期，不将午夜元数据当成已核实的具体发布小时。"
+        ]
+      },
+      "status": "拟议发行；注册声明尚未生效。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "interest": []
+    },
+    {
+      "id": "7bbdc74c3fccd702",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "ChatGPT 网页订阅在越南支持 MoMo 支付",
+      "titleZh": "ChatGPT 网页订阅在越南支持 MoMo 支付",
+      "summary": "ChatGPT 官方发布说明宣布，越南用户可在 chatgpt.com 使用 MoMo 支付 Go、Plus 与 Pro 订阅。",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "date": "2026-10-21",
+      "source": "ChatGPT 官方发布说明",
+      "recommended": false,
+      "details": {
+        "overview": "ChatGPT 官方发布说明宣布，越南用户可在 chatgpt.com 使用 MoMo 支付 Go、Plus 与 Pro 订阅。",
+        "keyPoints": [
+          "适用于官方说明列出的网页订阅及地区。",
+          "iOS 和 Android 应用内购买仍通过 Apple 或 Google 结算。"
+        ]
+      },
+      "status": "已发布的地区性支付方式更新。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "interest": []
+    },
+    {
+      "id": "8cd25ee31d337569",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.165.0-alpha.3 测试版发布",
+      "titleZh": "Codex CLI 0.165.0-alpha.3 测试版发布",
+      "summary": "Codex 官方已发布 0.165.0-alpha.3 alpha 测试版。发布正文未提供逐项变更说明，不推断新增功能或修复。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.165.0-alpha.3",
+      "date": "2026-10-27",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "details": {
+        "overview": "Codex 官方已发布 0.165.0-alpha.3 alpha 测试版。发布正文未提供逐项变更说明，不推断新增功能或修复。",
+        "keyPoints": [
+          "这是已经发布的测试版本，归入功能更新。",
+          "具体功能差异尚无详细官方说明，可继续关注后续正式版记录。"
+        ]
+      },
+      "publishedAt": "2026-10-26T21:54:06Z",
+      "releaseChannel": "prerelease",
+      "status": "已发布 alpha 测试版；未提供详细变更说明。",
+      "interest": []
+    },
+    {
+      "id": "a3f2f185910c0e64",
+      "section": "papers",
+      "category": "分析与偏微分方程",
+      "title": "欧几里得波动方程的局部光滑性",
+      "titleZh": "欧几里得波动方程的局部光滑性",
+      "summary": "该 AI 手稿宣称证明所有至少二维欧几里得空间中的 Sogge 局部光滑性猜想，并推导若干调和分析结果。以下是原稿主张的中文说明，不能视为已获独立学界审查通过。",
+      "url": "https://github.com/openai/math/blob/main/preprints/Local-smoothing-for-the-Euclidean-wave-equation-October-25-2026/paper.pdf",
+      "date": "2026-10-27",
+      "source": "OpenAI 数学仓库",
+      "recommended": false,
+      "details": {
+        "overview": "该 AI 手稿宣称证明所有至少二维欧几里得空间中的 Sogge 局部光滑性猜想，并推导若干调和分析结果。以下是原稿主张的中文说明，不能视为已获独立学界审查通过。",
+        "keyPoints": [
+          "研究波动方程的局部光滑性以及时间平均后的聚焦行为。",
+          "摘要宣称推导 Bochner–Riesz、傅里叶限制及 Kakeya、Nikodym 极大估计等结果。",
+          "官方提供自然语言稿与 Lean 形式化；收录不表示已完成同行评议。"
+        ]
+      },
+      "titleEn": "Local smoothing for the Euclidean wave equation",
+      "abstractEnglish": "We prove Sogge’s local smoothing conjecture for the Euclidean wave equation in every spatial dimension at least two. We deduce the Bochner–Riesz conjecture, maximal estimates for these means, and sharp bounds for Stein’s square function. We obtain Fourier restriction estimates for the sphere, the compact paraboloid, and the truncated cone throughout the interior of the conjectured range, as well as local smoothing for the Schrödinger equation. We also prove the Kakeya and Nikodym maximal conjectures. In particular, every Euclidean Kakeya set has full Hausdorff dimension.",
+      "sourceRepository": "https://github.com/openai/math",
+      "license": "Apache-2.0",
+      "manuscriptDate": "2026-10-25",
+      "publishedAt": "2026-10-26T20:35:02Z",
+      "publicationTimeNote": "按仓库首次公开提交时间归档；文件目录标示手稿日期为2026-10-25。",
+      "status": "AI 产生的研究手稿；官方公布形式化材料，独立审阅仍需进行；不宣称已经同行评议。",
+      "subjectDetail": "分析与偏微分方程",
+      "interest": []
+    },
+    {
+      "id": "829a3256805277f3",
+      "section": "papers",
+      "category": "理论计算机科学",
+      "title": "指数时间假设为假",
+      "titleZh": "指数时间假设为假",
+      "summary": "该 AI 手稿提出固定 k 的 k-CNF 满足赋值精确计数算法，宣称以多项式空间和次指数时间反驳指数时间假设（ETH）。官方正在组织学界理解与独立验证，不等同于证明 P=NP。",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "date": "2026-10-27",
+      "source": "OpenAI 数学仓库",
+      "recommended": false,
+      "details": {
+        "overview": "该 AI 手稿提出固定 k 的 k-CNF 满足赋值精确计数算法，宣称以多项式空间和次指数时间反驳指数时间假设（ETH）。官方正在组织学界理解与独立验证，不等同于证明 P=NP。",
+        "keyPoints": [
+          "对象是布尔公式满足性及精确计数问题。",
+          "摘要给出的时间上界为 (n+m)^{O_k(1)} · 2^{n/(log n)^{1/2+o(1)}}，并非多项式时间算法。",
+          "官方同时公开自然语言材料与 Lean 形式化；独立审阅与解释仍需进行。"
+        ]
+      },
+      "titleEn": "The Exponential Time Hypothesis is False",
+      "abstractEnglish": "We give a deterministic algorithm for exactly counting the satisfying assignments of an arbitrary $`k`$-CNF formula. For every fixed $`k\\ge2`$, on a formula with $`n`$ variables and $`m`$ clauses, our algorithm uses space polynomial in $`n`$ and $`m`$ and runs in time $`(n+m)^{O_k(1)}2^{n/(\\log n)^{1/2+o(1)}}`$. Our algorithm refutes the Exponential Time Hypothesis (ETH), which postulates that deciding 3-SAT on $`n`$ variables requires $`2^{\\Omega(n)}`$ time in the worst case.",
+      "sourceRepository": "https://github.com/openai/math",
+      "license": "Apache-2.0",
+      "manuscriptDate": "2026-10-25",
+      "publishedAt": "2026-10-26T20:35:02Z",
+      "publicationTimeNote": "按仓库首次公开提交时间归档；文件目录标示手稿日期为2026-10-25。",
+      "status": "AI 产生的研究手稿；官方公布形式化材料，独立审阅仍需进行；不宣称已经同行评议。",
+      "subjectDetail": "理论计算机科学",
       "interest": []
     }
   ]

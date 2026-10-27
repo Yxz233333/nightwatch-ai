@@ -1,0 +1,24 @@
+{
+  "id": "3c2b83031546ec25",
+  "section": "news",
+  "category": "工具动态",
+  "title": "CodeRabbit 使用 GPT-6.1 Sol 检查跨文件与跨仓库安全问题",
+  "titleZh": "CodeRabbit 使用 GPT-6.1 Sol 检查跨文件与跨仓库安全问题",
+  "summary": "CodeRabbit 介绍结合 GPT-6.1 Sol、既有扫描器及其他模型开展代码安全检查的流程。",
+  "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+  "date": "2026-10-26",
+  "source": "OpenAI 官方新闻",
+  "recommended": true,
+  "details": {
+    "overview": "CodeRabbit 介绍结合 GPT-6.1 Sol、既有扫描器及其他模型开展代码安全检查的流程。",
+    "keyPoints": [
+      "DeepScan 与 CodeRabbit Secure 结合跨文件、依赖和仓库上下文分析。",
+      "部分问题在沙箱中验证，修复建议通过需要人工审批的拉取请求交付。"
+    ]
+  },
+  "publishedAt": "2026-10-26T13:45:00+00:00",
+  "status": "依据官方原始发布整理。",
+  "recommendedOn": "2026-10-27",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "interest": []
+}

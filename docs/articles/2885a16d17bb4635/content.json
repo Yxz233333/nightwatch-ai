@@ -1,0 +1,24 @@
+{
+  "id": "2885a16d17bb4635",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI 更新 ChatGPT 工作使用活动研究",
+  "titleZh": "OpenAI 更新 ChatGPT 工作使用活动研究",
+  "summary": "OpenAI 通过 Signals 数据观察不同国家与职业活动中的 ChatGPT 使用分布，提供季度变化的描述性分析。",
+  "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+  "date": "2026-10-26",
+  "source": "OpenAI 官方新闻",
+  "recommended": true,
+  "details": {
+    "overview": "OpenAI 通过 Signals 数据观察不同国家与职业活动中的 ChatGPT 使用分布，提供季度变化的描述性分析。",
+    "keyPoints": [
+      "研究覆盖约100个国家的165类工作活动，时间范围为2025年第一季度至2026年第三季度。",
+      "使用活动数据描述任务分布，不能直接证明就业变化或因果关系。"
+    ]
+  },
+  "publishedAt": "2026-10-26T10:00:00+00:00",
+  "status": "依据官方原始发布整理。",
+  "recommendedOn": "2026-10-27",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "interest": []
+}
