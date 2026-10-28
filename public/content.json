@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-27T08:08:17+08:00",
+  "updatedAt": "2026-10-28T08:01:55+08:00",
   "coverage": {
     "requestedFrom": "2025-09-01",
-    "requestedThrough": "2026-10-27",
+    "requestedThrough": "2026-10-28",
     "scope": "已核实官方发布说明、GitHub Releases、官方 RSS 与新闻研究归档；不是全网穷尽清单。",
     "historyAddedBySource": {
       "ChatGPT 官方发布说明": 207,
@@ -43,16 +43,16 @@
       ]
     },
     "sourceCounts": {
-      "OpenAI 官方新闻": 679,
-      "Hugging Face 官方博客": 247,
-      "Codex GitHub Releases": 1143,
-      "NVIDIA 官方博客": 337,
-      "Anthropic 官方新闻与研究": 253,
+      "OpenAI 官方新闻": 685,
+      "Hugging Face 官方博客": 249,
+      "Codex GitHub Releases": 1149,
+      "NVIDIA 官方博客": 338,
+      "Anthropic 官方新闻与研究": 254,
       "MiniMax 官方博客": 2,
       "Microsoft Research": 13,
-      "Google DeepMind": 111,
-      "Google AI 官方博客": 21,
-      "ChatGPT 官方发布说明": 209,
+      "Google DeepMind": 112,
+      "Google AI 官方博客": 22,
+      "ChatGPT 官方发布说明": 210,
       "DeepSeek 官方更新": 11,
       "此前已核实内容": 745,
       "ChatGPT 与 Codex 官方变更日志": 127,
@@ -63,12 +63,12 @@
       "OpenAI 官方研究": 2
     },
     "excludedNonAINews": 33,
-    "total": 3948,
+    "total": 3967,
     "byMonth": {
       "2026-10": {
-        "news": 178,
-        "codex": 83,
-        "chatgpt": 23,
+        "news": 189,
+        "codex": 89,
+        "chatgpt": 25,
         "papers": 164
       },
       "2026-09": {
@@ -140,51 +140,50 @@
         "chatgpt": 9
       }
     },
-    "lastCheckedAt": "2026-10-27T08:08:17+08:00",
+    "lastCheckedAt": "2026-10-28T08:01:55+08:00",
     "dailyCheck": {
-      "checkedAt": "2026-10-27T08:08:17+08:00",
-      "addedArticles": 12,
-      "addedHistoricalArticles": 1,
-      "newItemsLast24Hours": 9,
-      "recommendationsAdded": 6,
+      "checkedAt": "2026-10-28T08:01:55+08:00",
+      "addedArticles": 19,
+      "addedHistoricalArticles": 4,
+      "recommendationsAdded": 5,
       "checks": [
         {
           "source": "ChatGPT release notes",
-          "result": "核查10月26日Terra与10月21日MoMo支付；历史条目不进入今日推荐。"
+          "result": "补入10月27日iCloud邮件与日历连接，原文无具体小时。"
         },
         {
           "source": "Codex GitHub",
-          "result": "重新核查最新50条，补入0.165.0-alpha.3；官方正文未提供详细变更。"
+          "result": "核查最新50条，补入0.165.0正式版及五条alpha测试版；按正文区分功能与实验性API。"
         },
         {
           "source": "OpenAI math",
-          "result": "索引721篇手稿、373个结果族；新增两篇，按首次公开Git提交时间归档。032与079族新增形式化链接，079族概述扩展；旧手稿与ID全部保留。SHA 7e1ed90ac5a666f1bbecb22027387c4ad79e9d03"
+          "result": "索引721篇、373个结果族，SHA 7e1ed90ac5a666f1bbecb22027387c4ad79e9d03，与昨日相同；未新增或改写论文。"
         },
         {
-          "source": "OpenAI/Anthropic",
-          "result": "核查官方RSS、正文与新闻索引，补入新发布；日期元数据为午夜的Anthropic条目保守仅记日期。"
+          "source": "OpenAI/Anthropic/DeepMind/Hugging Face/NVIDIA/Google AI",
+          "result": "核查当前官方RSS、索引及原文，新增与历史补漏分开入档；前一天日期未详消息不进入今日推荐。"
         },
         {
-          "source": "DeepMind/Hugging Face/NVIDIA/Google AI",
-          "result": "当前RSS重新获取并比对现有URL；未发现其他已核实范围内的新AI文章。"
+          "source": "Microsoft Research/Meta",
+          "result": "当前官方索引核查，无新的已核实条目；不代表分页历史全量覆盖。"
         },
         {
-          "source": "Microsoft Research",
-          "result": "官方索引恢复核查，最新展示仍为已归档的10月22日Flint；企业AI源直接HTTP403。"
-        },
-        {
-          "source": "Meta/MiniMax/Qwen/DeepSeek/Gemini",
-          "result": "当前官方索引或更新页核查，无其他已核实的新条目；不宣称分页与中文厂商历史穷尽。"
+          "source": "MiniMax/Qwen/DeepSeek/Gemini",
+          "result": "当前页面已重新获取；MiniMax新闻列表未在可读页面显示，不能据此断言无更新。"
         }
       ],
       "partialSources": [
         {
           "url": "https://learn.chatgpt.com/docs/changelog",
-          "result": "已知访问限制仍存在：直接HTTP403，网页工具超过长度限制；无法完整核验该源客户端更新。"
+          "result": "已知限制持续：直接HTTP403，网页读取超过长度上限，无法完整核验客户端变更。"
+        },
+        {
+          "url": "https://www.minimax.io/news",
+          "result": "可读页面仅显示导航，当前新闻列表未能核验。"
         }
       ],
       "limitations": [
-        "Microsoft企业AI源直接HTTP403；Research索引可核查，但不代表完整历史覆盖。",
+        "Microsoft企业AI源直接HTTP403；Research索引可核查。",
         "中文厂商完整归档与Meta分页历史仍非穷尽。"
       ]
     }
@@ -92322,6 +92321,422 @@
       "publicationTimeNote": "按仓库首次公开提交时间归档；文件目录标示手稿日期为2026-10-25。",
       "status": "AI 产生的研究手稿；官方公布形式化材料，独立审阅仍需进行；不宣称已经同行评议。",
       "subjectDetail": "理论计算机科学"
+    },
+    {
+      "id": "a00353e781b84b3a",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Retell 分享月度上亿通话的 AI 语音代理实践",
+      "titleZh": "Retell 分享月度上亿通话的 AI 语音代理实践",
+      "summary": "Retell 分享使用 OpenAI 模型处理呼叫中心工作，并以 Codex 辅助开发、调查和界面测试。",
+      "url": "https://openai.com/index/retell-ai",
+      "date": "2026-10-27",
+      "source": "OpenAI 官方新闻",
+      "recommended": true,
+      "details": {
+        "overview": "Retell 分享使用 OpenAI 模型处理呼叫中心工作，并以 Codex 辅助开发、调查和界面测试。",
+        "keyPoints": [
+          "官方案例称平台月通话量超过一亿，部分客户请求解决率超过80%。",
+          "这是企业报告的使用案例及测评结果，不代表所有部署都能取得相同效果。"
+        ]
+      },
+      "publishedAt": "2026-10-27T15:00:00+00:00",
+      "status": "依据官方原始发布整理；案例指标不代表普遍效果。",
+      "recommendedOn": "2026-10-28",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。"
+    },
+    {
+      "id": "8b42e3c666f30a94",
+      "section": "chatgpt",
+      "category": "功能预告",
+      "title": "Oracle 正在开发接入 ChatGPT 的 AI Workspace",
+      "titleZh": "Oracle 正在开发接入 ChatGPT 的 AI Workspace",
+      "summary": "OpenAI 与 Oracle 扩大合作；Oracle 正在开发 AI Workspace，以将企业应用与数据接入 ChatGPT 的受控工作流程。",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "date": "2026-10-27",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "details": {
+        "overview": "OpenAI 与 Oracle 扩大合作；Oracle 正在开发 AI Workspace，以将企业应用与数据接入 ChatGPT 的受控工作流程。",
+        "keyPoints": [
+          "该集成仍以正在开发及预期体验描述，不能当成已经全面上线。",
+          "原文另提美国客户可通过 Oracle Marketplace 采购指定 OpenAI 产品，须遵循企业权限与审批。"
+        ]
+      },
+      "publishedAt": "2026-10-27T07:00:00+00:00",
+      "status": "官方正在开发的未来集成。"
+    },
+    {
+      "id": "71582cff38688513",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Check Point 分享用 Daybreak 加速漏洞研究",
+      "titleZh": "Check Point 分享用 Daybreak 加速漏洞研究",
+      "summary": "Check Point 介绍用 OpenAI Daybreak 辅助分析漏洞、攻击路径和代码配置，支持形成防御规则。",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "date": "2026-10-27",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "details": {
+        "overview": "Check Point 介绍用 OpenAI Daybreak 辅助分析漏洞、攻击路径和代码配置，支持形成防御规则。",
+        "keyPoints": [
+          "案例称部分研究流程从小时缩短至分钟；这是企业报告结果。",
+          "更自主的网络安全编排与修复仍在开发，重要操作计划保留人工审批。"
+        ]
+      },
+      "publishedAt": "2026-10-27T00:00:00+00:00",
+      "status": "依据官方原始发布整理；案例指标不代表普遍效果。"
+    },
+    {
+      "id": "723e88590611e4dc",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Anima 分享 GPT-6 与 GPT-Live 在诊所工作流中的应用",
+      "titleZh": "Anima 分享 GPT-6 与 GPT-Live 在诊所工作流中的应用",
+      "summary": "Anima 在官方案例中介绍用 GPT-6 处理文件、用 GPT-Live 支持电话服务，为医疗团队整理资料。",
+      "url": "https://openai.com/index/anima",
+      "date": "2026-10-23",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "details": {
+        "overview": "Anima 在官方案例中介绍用 GPT-6 处理文件、用 GPT-Live 支持电话服务，为医疗团队整理资料。",
+        "keyPoints": [
+          "案例报告电话等待时间减少超过75%；该数字来自特定部署。",
+          "这是行政与服务工作流案例，不能推导为已证实的临床疗效或替代医生。"
+        ]
+      },
+      "publishedAt": "2026-10-23T00:00:00+00:00",
+      "status": "依据官方原始发布整理；案例指标不代表普遍效果。"
+    },
+    {
+      "id": "22ec019f01c3f5fe",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Grupo Boticário 分享零售代理平台与经销商服务实践",
+      "titleZh": "Grupo Boticário 分享零售代理平台与经销商服务实践",
+      "summary": "Grupo Boticário 介绍基于 AI 的经销商服务平台，尝试在扩大运营规模的同时保留人工顾问角色。",
+      "url": "https://openai.com/index/grupo-boticario",
+      "date": "2026-10-16",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "details": {
+        "overview": "Grupo Boticário 介绍基于 AI 的经销商服务平台，尝试在扩大运营规模的同时保留人工顾问角色。",
+        "keyPoints": [
+          "官方案例报告部分运营请求的自动解决率可达80%。",
+          "案例中的经营数据为企业报告，不是面向所有场景的性能保证。"
+        ]
+      },
+      "publishedAt": "2026-10-16T00:00:00+00:00",
+      "status": "依据官方原始发布整理；案例指标不代表普遍效果。"
+    },
+    {
+      "id": "4c0ce53d999730f4",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Localiza 围绕生成式 AI 重组工作和客户界面",
+      "titleZh": "Localiza 围绕生成式 AI 重组工作和客户界面",
+      "summary": "Localiza 分享内部跨团队实验、ChatGPT 应用及 Liza 对话助手三方面的组织实践。",
+      "url": "https://openai.com/index/localiza-generative-ai",
+      "date": "2026-10-16",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "details": {
+        "overview": "Localiza 分享内部跨团队实验、ChatGPT 应用及 Liza 对话助手三方面的组织实践。",
+        "keyPoints": [
+          "技术及业务团队使用定制 GPT、代理和 Codex 制作原型及自动化。",
+          "Liza 结合企业服务与工具支持租车流程，交易仍在企业受控环境完成。"
+        ]
+      },
+      "publishedAt": "2026-10-16T00:00:00+00:00",
+      "status": "依据官方原始发布整理；案例指标不代表普遍效果。"
+    },
+    {
+      "id": "58d854dc90d2a495",
+      "section": "news",
+      "category": "模型动态",
+      "title": "Google DeepMind 发布 Genie 4 世界模拟研究预览",
+      "titleZh": "Google DeepMind 发布 Genie 4 世界模拟研究预览",
+      "summary": "Genie 4 将实时交互世界模拟与原生声音、环境噪声和对话结合，支持通过自然语言修改场景。",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "date": "2026-10-28",
+      "source": "Google DeepMind",
+      "recommended": true,
+      "details": {
+        "overview": "Genie 4 将实时交互世界模拟与原生声音、环境噪声和对话结合，支持通过自然语言修改场景。",
+        "keyPoints": [
+          "已开始面向受信任测试者推出研究预览；消费者与开发者开放仍待后续安排，可加入候补名单。",
+          "官方演示展示物理场景、人物行为及声音生成；不能视为已验证的通用物理模拟器。"
+        ]
+      },
+      "publishedAt": "2026-10-27T16:01:38+00:00",
+      "status": "研究预览，尚未全面开放。",
+      "recommendedOn": "2026-10-28",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。"
+    },
+    {
+      "id": "0704bf6a62091dd5",
+      "section": "news",
+      "category": "模型动态",
+      "title": "Liquid AI 发布面向端侧定制的 LFM3 多模态模型家族",
+      "titleZh": "Liquid AI 发布面向端侧定制的 LFM3 多模态模型家族",
+      "summary": "Liquid AI 介绍共享骨干的约20亿参数级文本、视觉、音频、全模态与决策模型，强调单 GPU 微调及端侧部署。",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "date": "2026-10-28",
+      "source": "Hugging Face 官方博客",
+      "recommended": true,
+      "details": {
+        "overview": "Liquid AI 介绍共享骨干的约20亿参数级文本、视觉、音频、全模态与决策模型，强调单 GPU 微调及端侧部署。",
+        "keyPoints": [
+          "模型家族覆盖不同输入输出模态，需按具体模型选择部署方式。",
+          "官方报告文本模型支持256K上下文及低精度运行；实际资源和性能依设备、精度与任务而变。"
+        ]
+      },
+      "publishedAt": "2026-10-27T17:16:52+00:00",
+      "status": "依据官方原始发布整理；案例指标不代表普遍效果。",
+      "recommendedOn": "2026-10-28",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。"
+    },
+    {
+      "id": "3e072a154a26d59d",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Ai2 发布研究创意新颖性评估基准，揭示 LLM 裁判不稳定性",
+      "titleZh": "Ai2 发布研究创意新颖性评估基准，揭示 LLM 裁判不稳定性",
+      "summary": "Ai2 发布 Old Ideas, Novel Problems 研究及数据、代码与评估流水线，研究语言模型判断研究创意新颖性的可靠性。",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "date": "2026-10-28",
+      "source": "Hugging Face 官方博客",
+      "recommended": true,
+      "details": {
+        "overview": "Ai2 发布 Old Ideas, Novel Problems 研究及数据、代码与评估流水线，研究语言模型判断研究创意新颖性的可靠性。",
+        "keyPoints": [
+          "实验发现提示词、格式及评估设置变化可能大幅改变同一创意的判断。",
+          "检索和额外推理并不总改善表现；部分人类与生成创意配对标签属于弱标签，不能当成普适真值。"
+        ]
+      },
+      "publishedAt": "2026-10-27T16:12:42+00:00",
+      "status": "依据官方原始发布整理；案例指标不代表普遍效果。",
+      "recommendedOn": "2026-10-28",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。"
+    },
+    {
+      "id": "eec2b4ab0df198b0",
+      "section": "news",
+      "category": "工具动态",
+      "title": "C-BRAIN 与 NVIDIA 介绍用于神经退行性疾病研究的开源 AI 工具",
+      "titleZh": "C-BRAIN 与 NVIDIA 介绍用于神经退行性疾病研究的开源 AI 工具",
+      "summary": "C-BRAIN 与 NVIDIA 分享通过 OpenScientist、InsightEngine 及计算基础设施帮助研究者分析数据与检验文献主张的工作。",
+      "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+      "date": "2026-10-27",
+      "source": "NVIDIA 官方博客",
+      "recommended": true,
+      "details": {
+        "overview": "C-BRAIN 与 NVIDIA 分享通过 OpenScientist、InsightEngine 及计算基础设施帮助研究者分析数据与检验文献主张的工作。",
+        "keyPoints": [
+          "组合集中式与联邦式方法，按机构治理要求使用研究数据。",
+          "加快分析和提出假设不等于已经找到有效治疗；因果机制与临床验证仍属后续研究。"
+        ]
+      },
+      "publishedAt": "2026-10-27T15:00:20+00:00",
+      "status": "依据官方原始发布整理；案例指标不代表普遍效果。",
+      "recommendedOn": "2026-10-28",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。"
+    },
+    {
+      "id": "621b13bef3ba2cd3",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "ChatGPT 支持连接 iCloud 邮件与日历",
+      "titleZh": "ChatGPT 支持连接 iCloud 邮件与日历",
+      "summary": "iCloud 用户现可将邮件与日历连接到 ChatGPT，用于查找邮件、了解收件箱、查询日程及更新日历事件。",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "date": "2026-10-27",
+      "source": "ChatGPT 官方发布说明",
+      "recommended": false,
+      "details": {
+        "overview": "iCloud 用户现可将邮件与日历连接到 ChatGPT，用于查找邮件、了解收件箱、查询日程及更新日历事件。",
+        "keyPoints": [
+          "官方说明覆盖所有 ChatGPT 计划，可在网页、桌面应用及 iOS 使用。",
+          "需要用户连接相应服务；原始发布仅提供日期，具体小时未详。"
+        ]
+      },
+      "status": "官方宣布已可用；需要用户连接服务。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。"
+    },
+    {
+      "id": "2a86e5e9e5aa07db",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Anthropic 扩大 GSA 合作，为美国各级政府提供 Claude 折扣",
+      "titleZh": "Anthropic 扩大 GSA 合作，为美国各级政府提供 Claude 折扣",
+      "summary": "Anthropic 宣布扩大与 GSA 的合作，符合条件的美国政府采购可获得指定 Claude 产品40%的折扣。",
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "date": "2026-10-27",
+      "source": "Anthropic 官方新闻与研究",
+      "recommended": false,
+      "details": {
+        "overview": "Anthropic 宣布扩大与 GSA 的合作，符合条件的美国政府采购可获得指定 Claude 产品40%的折扣。",
+        "keyPoints": [
+          "覆盖 Claude Enterprise、Claude for Government 与 API；州、地方、部落及领地政府也纳入范围。",
+          "直接采购已可采用；通过云提供商的折扣渠道计划在未来数月扩展，不能当成现已全部可用。"
+        ]
+      },
+      "status": "协议已宣布；部分渠道仍为未来安排。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。"
+    },
+    {
+      "id": "edf75600e83d56dc",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Google 推出 AI Quests 神经科学互动课程 Polar Peaks",
+      "titleZh": "Google 推出 AI Quests 神经科学互动课程 Polar Peaks",
+      "summary": "Google Research 与斯坦福学习加速器推出 Polar Peaks，让11至14岁学生通过脑神经元映射任务学习 AI 素养。",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "date": "2026-10-26",
+      "source": "Google AI 官方博客",
+      "recommended": false,
+      "details": {
+        "overview": "Google Research 与斯坦福学习加速器推出 Polar Peaks，让11至14岁学生通过脑神经元映射任务学习 AI 素养。",
+        "keyPoints": [
+          "活动包括数据清理与模型测试，强调人工监督和批判性思考。",
+          "同步推出教师培训模块；第三课教师模块计划于下个月提供。"
+        ]
+      },
+      "status": "课程已发布；部分教师模块仍待后续上线。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。"
+    },
+    {
+      "id": "e819fc4ecd57c32a",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.165.0 正式版发布",
+      "titleZh": "Codex CLI 0.165.0 正式版发布",
+      "summary": "Codex CLI 0.165.0 正式版加入内置 Google Cloud Vertex AI 提供商和 GPT-6.1 Terra 模型目录，并改善会话导航、推理设置及记忆。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.165.0",
+      "date": "2026-10-28",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "details": {
+        "overview": "Codex CLI 0.165.0 正式版加入内置 Google Cloud Vertex AI 提供商和 GPT-6.1 Terra 模型目录，并改善会话导航、推理设置及记忆。",
+        "keyPoints": [
+          "可用 model_provider = \"gcp\" 配置内置 Vertex AI 提供商；线程附属分叉仍属实验性 app-server API。",
+          "新增会话仓库过滤、目录分组；支持的模型默认允许在对话中修改推理强度，新配置默认采用 memory v2。",
+          "修复审批审阅器默认值、MCP 请求取消、中断后代理消息唤醒、模型不存在时重试及市场 URL 验证等问题。"
+        ]
+      },
+      "publishedAt": "2026-10-27T20:09:38Z",
+      "releaseChannel": "stable",
+      "status": "已发布正式版；其中个别 API 明确标为实验性。"
+    },
+    {
+      "id": "5e143e6c98571d4c",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.166.0-alpha.3 测试版发布",
+      "titleZh": "Codex CLI 0.166.0-alpha.3 测试版发布",
+      "summary": "Codex 官方已发布 0.166.0-alpha.3 alpha 测试版。发布正文仅提供版本号，没有逐项功能与修复说明。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.166.0-alpha.3",
+      "date": "2026-10-28",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "details": {
+        "overview": "Codex 官方已发布 0.166.0-alpha.3 alpha 测试版。发布正文仅提供版本号，没有逐项功能与修复说明。",
+        "keyPoints": [
+          "这是已经发布的测试版本，归入功能更新。",
+          "不从版本号推测新增功能，具体差异以后续官方记录为准。"
+        ]
+      },
+      "publishedAt": "2026-10-27T19:23:16Z",
+      "releaseChannel": "prerelease",
+      "status": "已发布 alpha；官方未提供详细变更。"
+    },
+    {
+      "id": "3cc1801d5821cb5f",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.166.0-alpha.2 测试版发布",
+      "titleZh": "Codex CLI 0.166.0-alpha.2 测试版发布",
+      "summary": "Codex 官方已发布 0.166.0-alpha.2 alpha 测试版。发布正文仅提供版本号，没有逐项功能与修复说明。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.166.0-alpha.2",
+      "date": "2026-10-27",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "details": {
+        "overview": "Codex 官方已发布 0.166.0-alpha.2 alpha 测试版。发布正文仅提供版本号，没有逐项功能与修复说明。",
+        "keyPoints": [
+          "这是已经发布的测试版本，归入功能更新。",
+          "不从版本号推测新增功能，具体差异以后续官方记录为准。"
+        ]
+      },
+      "publishedAt": "2026-10-27T11:54:48Z",
+      "releaseChannel": "prerelease",
+      "status": "已发布 alpha；官方未提供详细变更。"
+    },
+    {
+      "id": "aa1f6ef46ddefb01",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.166.0-alpha.1 测试版发布",
+      "titleZh": "Codex CLI 0.166.0-alpha.1 测试版发布",
+      "summary": "Codex 官方已发布 0.166.0-alpha.1 alpha 测试版。发布正文仅提供版本号，没有逐项功能与修复说明。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.166.0-alpha.1",
+      "date": "2026-10-27",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "details": {
+        "overview": "Codex 官方已发布 0.166.0-alpha.1 alpha 测试版。发布正文仅提供版本号，没有逐项功能与修复说明。",
+        "keyPoints": [
+          "这是已经发布的测试版本，归入功能更新。",
+          "不从版本号推测新增功能，具体差异以后续官方记录为准。"
+        ]
+      },
+      "publishedAt": "2026-10-27T01:33:18Z",
+      "releaseChannel": "prerelease",
+      "status": "已发布 alpha；官方未提供详细变更。"
+    },
+    {
+      "id": "8dd45d8ea5f6d739",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.165.0-alpha.1.2 测试版发布",
+      "titleZh": "Codex CLI 0.165.0-alpha.1.2 测试版发布",
+      "summary": "Codex 官方已发布 0.165.0-alpha.1.2 alpha 测试版。发布正文仅提供版本号，没有逐项功能与修复说明。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.165.0-alpha.1.2",
+      "date": "2026-10-27",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "details": {
+        "overview": "Codex 官方已发布 0.165.0-alpha.1.2 alpha 测试版。发布正文仅提供版本号，没有逐项功能与修复说明。",
+        "keyPoints": [
+          "这是已经发布的测试版本，归入功能更新。",
+          "不从版本号推测新增功能，具体差异以后续官方记录为准。"
+        ]
+      },
+      "publishedAt": "2026-10-27T04:57:39Z",
+      "releaseChannel": "prerelease",
+      "status": "已发布 alpha；官方未提供详细变更。"
+    },
+    {
+      "id": "f1605fc6ca11eb31",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.165.0-alpha.1.1 测试版发布",
+      "titleZh": "Codex CLI 0.165.0-alpha.1.1 测试版发布",
+      "summary": "Codex 官方已发布 0.165.0-alpha.1.1 alpha 测试版。发布正文仅提供版本号，没有逐项功能与修复说明。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.165.0-alpha.1.1",
+      "date": "2026-10-27",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "details": {
+        "overview": "Codex 官方已发布 0.165.0-alpha.1.1 alpha 测试版。发布正文仅提供版本号，没有逐项功能与修复说明。",
+        "keyPoints": [
+          "这是已经发布的测试版本，归入功能更新。",
+          "不从版本号推测新增功能，具体差异以后续官方记录为准。"
+        ]
+      },
+      "publishedAt": "2026-10-27T00:36:33Z",
+      "releaseChannel": "prerelease",
+      "status": "已发布 alpha；官方未提供详细变更。"
     }
   ]
 }
