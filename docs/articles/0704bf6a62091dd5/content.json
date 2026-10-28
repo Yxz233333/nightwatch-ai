@@ -1,0 +1,24 @@
+{
+  "id": "0704bf6a62091dd5",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Liquid AI 发布面向端侧定制的 LFM3 多模态模型家族",
+  "titleZh": "Liquid AI 发布面向端侧定制的 LFM3 多模态模型家族",
+  "summary": "Liquid AI 介绍共享骨干的约20亿参数级文本、视觉、音频、全模态与决策模型，强调单 GPU 微调及端侧部署。",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+  "date": "2026-10-28",
+  "source": "Hugging Face 官方博客",
+  "recommended": true,
+  "details": {
+    "overview": "Liquid AI 介绍共享骨干的约20亿参数级文本、视觉、音频、全模态与决策模型，强调单 GPU 微调及端侧部署。",
+    "keyPoints": [
+      "模型家族覆盖不同输入输出模态，需按具体模型选择部署方式。",
+      "官方报告文本模型支持256K上下文及低精度运行；实际资源和性能依设备、精度与任务而变。"
+    ]
+  },
+  "publishedAt": "2026-10-27T17:16:52+00:00",
+  "status": "依据官方原始发布整理；案例指标不代表普遍效果。",
+  "recommendedOn": "2026-10-28",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "interest": []
+}

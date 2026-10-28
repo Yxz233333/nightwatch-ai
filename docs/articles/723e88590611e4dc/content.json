@@ -1,0 +1,22 @@
+{
+  "id": "723e88590611e4dc",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anima 分享 GPT-6 与 GPT-Live 在诊所工作流中的应用",
+  "titleZh": "Anima 分享 GPT-6 与 GPT-Live 在诊所工作流中的应用",
+  "summary": "Anima 在官方案例中介绍用 GPT-6 处理文件、用 GPT-Live 支持电话服务，为医疗团队整理资料。",
+  "url": "https://openai.com/index/anima",
+  "date": "2026-10-23",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "details": {
+    "overview": "Anima 在官方案例中介绍用 GPT-6 处理文件、用 GPT-Live 支持电话服务，为医疗团队整理资料。",
+    "keyPoints": [
+      "案例报告电话等待时间减少超过75%；该数字来自特定部署。",
+      "这是行政与服务工作流案例，不能推导为已证实的临床疗效或替代医生。"
+    ]
+  },
+  "publishedAt": "2026-10-23T00:00:00+00:00",
+  "status": "依据官方原始发布整理；案例指标不代表普遍效果。",
+  "interest": []
+}

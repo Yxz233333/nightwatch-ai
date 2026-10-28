@@ -1,0 +1,24 @@
+{
+  "id": "3e072a154a26d59d",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Ai2 发布研究创意新颖性评估基准，揭示 LLM 裁判不稳定性",
+  "titleZh": "Ai2 发布研究创意新颖性评估基准，揭示 LLM 裁判不稳定性",
+  "summary": "Ai2 发布 Old Ideas, Novel Problems 研究及数据、代码与评估流水线，研究语言模型判断研究创意新颖性的可靠性。",
+  "url": "https://huggingface.co/blog/allenai/novelty-bench",
+  "date": "2026-10-28",
+  "source": "Hugging Face 官方博客",
+  "recommended": true,
+  "details": {
+    "overview": "Ai2 发布 Old Ideas, Novel Problems 研究及数据、代码与评估流水线，研究语言模型判断研究创意新颖性的可靠性。",
+    "keyPoints": [
+      "实验发现提示词、格式及评估设置变化可能大幅改变同一创意的判断。",
+      "检索和额外推理并不总改善表现；部分人类与生成创意配对标签属于弱标签，不能当成普适真值。"
+    ]
+  },
+  "publishedAt": "2026-10-27T16:12:42+00:00",
+  "status": "依据官方原始发布整理；案例指标不代表普遍效果。",
+  "recommendedOn": "2026-10-28",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "interest": []
+}

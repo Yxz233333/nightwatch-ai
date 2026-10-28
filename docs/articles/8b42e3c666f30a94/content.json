@@ -1,0 +1,22 @@
+{
+  "id": "8b42e3c666f30a94",
+  "section": "chatgpt",
+  "category": "功能预告",
+  "title": "Oracle 正在开发接入 ChatGPT 的 AI Workspace",
+  "titleZh": "Oracle 正在开发接入 ChatGPT 的 AI Workspace",
+  "summary": "OpenAI 与 Oracle 扩大合作；Oracle 正在开发 AI Workspace，以将企业应用与数据接入 ChatGPT 的受控工作流程。",
+  "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+  "date": "2026-10-27",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "details": {
+    "overview": "OpenAI 与 Oracle 扩大合作；Oracle 正在开发 AI Workspace，以将企业应用与数据接入 ChatGPT 的受控工作流程。",
+    "keyPoints": [
+      "该集成仍以正在开发及预期体验描述，不能当成已经全面上线。",
+      "原文另提美国客户可通过 Oracle Marketplace 采购指定 OpenAI 产品，须遵循企业权限与审批。"
+    ]
+  },
+  "publishedAt": "2026-10-27T07:00:00+00:00",
+  "status": "官方正在开发的未来集成。",
+  "interest": []
+}

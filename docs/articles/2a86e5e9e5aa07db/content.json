@@ -1,0 +1,22 @@
+{
+  "id": "2a86e5e9e5aa07db",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic 扩大 GSA 合作，为美国各级政府提供 Claude 折扣",
+  "titleZh": "Anthropic 扩大 GSA 合作，为美国各级政府提供 Claude 折扣",
+  "summary": "Anthropic 宣布扩大与 GSA 的合作，符合条件的美国政府采购可获得指定 Claude 产品40%的折扣。",
+  "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+  "date": "2026-10-27",
+  "source": "Anthropic 官方新闻与研究",
+  "recommended": false,
+  "details": {
+    "overview": "Anthropic 宣布扩大与 GSA 的合作，符合条件的美国政府采购可获得指定 Claude 产品40%的折扣。",
+    "keyPoints": [
+      "覆盖 Claude Enterprise、Claude for Government 与 API；州、地方、部落及领地政府也纳入范围。",
+      "直接采购已可采用；通过云提供商的折扣渠道计划在未来数月扩展，不能当成现已全部可用。"
+    ]
+  },
+  "status": "协议已宣布；部分渠道仍为未来安排。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "interest": []
+}

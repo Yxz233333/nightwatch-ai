@@ -1,0 +1,24 @@
+{
+  "id": "58d854dc90d2a495",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Google DeepMind 发布 Genie 4 世界模拟研究预览",
+  "titleZh": "Google DeepMind 发布 Genie 4 世界模拟研究预览",
+  "summary": "Genie 4 将实时交互世界模拟与原生声音、环境噪声和对话结合，支持通过自然语言修改场景。",
+  "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+  "date": "2026-10-28",
+  "source": "Google DeepMind",
+  "recommended": true,
+  "details": {
+    "overview": "Genie 4 将实时交互世界模拟与原生声音、环境噪声和对话结合，支持通过自然语言修改场景。",
+    "keyPoints": [
+      "已开始面向受信任测试者推出研究预览；消费者与开发者开放仍待后续安排，可加入候补名单。",
+      "官方演示展示物理场景、人物行为及声音生成；不能视为已验证的通用物理模拟器。"
+    ]
+  },
+  "publishedAt": "2026-10-27T16:01:38+00:00",
+  "status": "研究预览，尚未全面开放。",
+  "recommendedOn": "2026-10-28",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "interest": []
+}

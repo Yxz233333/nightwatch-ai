@@ -1,0 +1,22 @@
+{
+  "id": "71582cff38688513",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Check Point 分享用 Daybreak 加速漏洞研究",
+  "titleZh": "Check Point 分享用 Daybreak 加速漏洞研究",
+  "summary": "Check Point 介绍用 OpenAI Daybreak 辅助分析漏洞、攻击路径和代码配置，支持形成防御规则。",
+  "url": "https://openai.com/index/check-point-daybreak",
+  "date": "2026-10-27",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "details": {
+    "overview": "Check Point 介绍用 OpenAI Daybreak 辅助分析漏洞、攻击路径和代码配置，支持形成防御规则。",
+    "keyPoints": [
+      "案例称部分研究流程从小时缩短至分钟；这是企业报告结果。",
+      "更自主的网络安全编排与修复仍在开发，重要操作计划保留人工审批。"
+    ]
+  },
+  "publishedAt": "2026-10-27T00:00:00+00:00",
+  "status": "依据官方原始发布整理；案例指标不代表普遍效果。",
+  "interest": []
+}

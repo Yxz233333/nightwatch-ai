@@ -1,0 +1,22 @@
+{
+  "id": "22ec019f01c3f5fe",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Grupo Boticário 分享零售代理平台与经销商服务实践",
+  "titleZh": "Grupo Boticário 分享零售代理平台与经销商服务实践",
+  "summary": "Grupo Boticário 介绍基于 AI 的经销商服务平台，尝试在扩大运营规模的同时保留人工顾问角色。",
+  "url": "https://openai.com/index/grupo-boticario",
+  "date": "2026-10-16",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "details": {
+    "overview": "Grupo Boticário 介绍基于 AI 的经销商服务平台，尝试在扩大运营规模的同时保留人工顾问角色。",
+    "keyPoints": [
+      "官方案例报告部分运营请求的自动解决率可达80%。",
+      "案例中的经营数据为企业报告，不是面向所有场景的性能保证。"
+    ]
+  },
+  "publishedAt": "2026-10-16T00:00:00+00:00",
+  "status": "依据官方原始发布整理；案例指标不代表普遍效果。",
+  "interest": []
+}

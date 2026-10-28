@@ -1,0 +1,22 @@
+{
+  "id": "4c0ce53d999730f4",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Localiza 围绕生成式 AI 重组工作和客户界面",
+  "titleZh": "Localiza 围绕生成式 AI 重组工作和客户界面",
+  "summary": "Localiza 分享内部跨团队实验、ChatGPT 应用及 Liza 对话助手三方面的组织实践。",
+  "url": "https://openai.com/index/localiza-generative-ai",
+  "date": "2026-10-16",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "details": {
+    "overview": "Localiza 分享内部跨团队实验、ChatGPT 应用及 Liza 对话助手三方面的组织实践。",
+    "keyPoints": [
+      "技术及业务团队使用定制 GPT、代理和 Codex 制作原型及自动化。",
+      "Liza 结合企业服务与工具支持租车流程，交易仍在企业受控环境完成。"
+    ]
+  },
+  "publishedAt": "2026-10-16T00:00:00+00:00",
+  "status": "依据官方原始发布整理；案例指标不代表普遍效果。",
+  "interest": []
+}

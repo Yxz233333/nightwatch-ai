@@ -1,0 +1,24 @@
+{
+  "id": "eec2b4ab0df198b0",
+  "section": "news",
+  "category": "工具动态",
+  "title": "C-BRAIN 与 NVIDIA 介绍用于神经退行性疾病研究的开源 AI 工具",
+  "titleZh": "C-BRAIN 与 NVIDIA 介绍用于神经退行性疾病研究的开源 AI 工具",
+  "summary": "C-BRAIN 与 NVIDIA 分享通过 OpenScientist、InsightEngine 及计算基础设施帮助研究者分析数据与检验文献主张的工作。",
+  "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+  "date": "2026-10-27",
+  "source": "NVIDIA 官方博客",
+  "recommended": true,
+  "details": {
+    "overview": "C-BRAIN 与 NVIDIA 分享通过 OpenScientist、InsightEngine 及计算基础设施帮助研究者分析数据与检验文献主张的工作。",
+    "keyPoints": [
+      "组合集中式与联邦式方法，按机构治理要求使用研究数据。",
+      "加快分析和提出假设不等于已经找到有效治疗；因果机制与临床验证仍属后续研究。"
+    ]
+  },
+  "publishedAt": "2026-10-27T15:00:20+00:00",
+  "status": "依据官方原始发布整理；案例指标不代表普遍效果。",
+  "recommendedOn": "2026-10-28",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "interest": []
+}

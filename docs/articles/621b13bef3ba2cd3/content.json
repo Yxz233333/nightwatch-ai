@@ -1,0 +1,22 @@
+{
+  "id": "621b13bef3ba2cd3",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT 支持连接 iCloud 邮件与日历",
+  "titleZh": "ChatGPT 支持连接 iCloud 邮件与日历",
+  "summary": "iCloud 用户现可将邮件与日历连接到 ChatGPT，用于查找邮件、了解收件箱、查询日程及更新日历事件。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+  "date": "2026-10-27",
+  "source": "ChatGPT 官方发布说明",
+  "recommended": false,
+  "details": {
+    "overview": "iCloud 用户现可将邮件与日历连接到 ChatGPT，用于查找邮件、了解收件箱、查询日程及更新日历事件。",
+    "keyPoints": [
+      "官方说明覆盖所有 ChatGPT 计划，可在网页、桌面应用及 iOS 使用。",
+      "需要用户连接相应服务；原始发布仅提供日期，具体小时未详。"
+    ]
+  },
+  "status": "官方宣布已可用；需要用户连接服务。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "interest": []
+}

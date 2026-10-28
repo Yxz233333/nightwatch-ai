@@ -1,0 +1,24 @@
+{
+  "id": "a00353e781b84b3a",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Retell 分享月度上亿通话的 AI 语音代理实践",
+  "titleZh": "Retell 分享月度上亿通话的 AI 语音代理实践",
+  "summary": "Retell 分享使用 OpenAI 模型处理呼叫中心工作，并以 Codex 辅助开发、调查和界面测试。",
+  "url": "https://openai.com/index/retell-ai",
+  "date": "2026-10-27",
+  "source": "OpenAI 官方新闻",
+  "recommended": true,
+  "details": {
+    "overview": "Retell 分享使用 OpenAI 模型处理呼叫中心工作，并以 Codex 辅助开发、调查和界面测试。",
+    "keyPoints": [
+      "官方案例称平台月通话量超过一亿，部分客户请求解决率超过80%。",
+      "这是企业报告的使用案例及测评结果，不代表所有部署都能取得相同效果。"
+    ]
+  },
+  "publishedAt": "2026-10-27T15:00:00+00:00",
+  "status": "依据官方原始发布整理；案例指标不代表普遍效果。",
+  "recommendedOn": "2026-10-28",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "interest": []
+}

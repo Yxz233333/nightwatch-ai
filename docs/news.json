@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-27T00:08:57.181Z",
+  "syncedAt": "2026-10-28T00:02:27.913Z",
   "articles": [
     {
       "id": "e985bef486a031bf",
@@ -42537,6 +42537,258 @@
         ]
       },
       "status": "拟议发行；注册声明尚未生效。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "interest": []
+    },
+    {
+      "id": "a00353e781b84b3a",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Retell 分享月度上亿通话的 AI 语音代理实践",
+      "titleZh": "Retell 分享月度上亿通话的 AI 语音代理实践",
+      "summary": "Retell 分享使用 OpenAI 模型处理呼叫中心工作，并以 Codex 辅助开发、调查和界面测试。",
+      "url": "https://openai.com/index/retell-ai",
+      "date": "2026-10-27",
+      "source": "OpenAI 官方新闻",
+      "recommended": true,
+      "details": {
+        "overview": "Retell 分享使用 OpenAI 模型处理呼叫中心工作，并以 Codex 辅助开发、调查和界面测试。",
+        "keyPoints": [
+          "官方案例称平台月通话量超过一亿，部分客户请求解决率超过80%。",
+          "这是企业报告的使用案例及测评结果，不代表所有部署都能取得相同效果。"
+        ]
+      },
+      "publishedAt": "2026-10-27T15:00:00+00:00",
+      "status": "依据官方原始发布整理；案例指标不代表普遍效果。",
+      "recommendedOn": "2026-10-28",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "71582cff38688513",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Check Point 分享用 Daybreak 加速漏洞研究",
+      "titleZh": "Check Point 分享用 Daybreak 加速漏洞研究",
+      "summary": "Check Point 介绍用 OpenAI Daybreak 辅助分析漏洞、攻击路径和代码配置，支持形成防御规则。",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "date": "2026-10-27",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "details": {
+        "overview": "Check Point 介绍用 OpenAI Daybreak 辅助分析漏洞、攻击路径和代码配置，支持形成防御规则。",
+        "keyPoints": [
+          "案例称部分研究流程从小时缩短至分钟；这是企业报告结果。",
+          "更自主的网络安全编排与修复仍在开发，重要操作计划保留人工审批。"
+        ]
+      },
+      "publishedAt": "2026-10-27T00:00:00+00:00",
+      "status": "依据官方原始发布整理；案例指标不代表普遍效果。",
+      "interest": []
+    },
+    {
+      "id": "723e88590611e4dc",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Anima 分享 GPT-6 与 GPT-Live 在诊所工作流中的应用",
+      "titleZh": "Anima 分享 GPT-6 与 GPT-Live 在诊所工作流中的应用",
+      "summary": "Anima 在官方案例中介绍用 GPT-6 处理文件、用 GPT-Live 支持电话服务，为医疗团队整理资料。",
+      "url": "https://openai.com/index/anima",
+      "date": "2026-10-23",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "details": {
+        "overview": "Anima 在官方案例中介绍用 GPT-6 处理文件、用 GPT-Live 支持电话服务，为医疗团队整理资料。",
+        "keyPoints": [
+          "案例报告电话等待时间减少超过75%；该数字来自特定部署。",
+          "这是行政与服务工作流案例，不能推导为已证实的临床疗效或替代医生。"
+        ]
+      },
+      "publishedAt": "2026-10-23T00:00:00+00:00",
+      "status": "依据官方原始发布整理；案例指标不代表普遍效果。",
+      "interest": []
+    },
+    {
+      "id": "22ec019f01c3f5fe",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Grupo Boticário 分享零售代理平台与经销商服务实践",
+      "titleZh": "Grupo Boticário 分享零售代理平台与经销商服务实践",
+      "summary": "Grupo Boticário 介绍基于 AI 的经销商服务平台，尝试在扩大运营规模的同时保留人工顾问角色。",
+      "url": "https://openai.com/index/grupo-boticario",
+      "date": "2026-10-16",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "details": {
+        "overview": "Grupo Boticário 介绍基于 AI 的经销商服务平台，尝试在扩大运营规模的同时保留人工顾问角色。",
+        "keyPoints": [
+          "官方案例报告部分运营请求的自动解决率可达80%。",
+          "案例中的经营数据为企业报告，不是面向所有场景的性能保证。"
+        ]
+      },
+      "publishedAt": "2026-10-16T00:00:00+00:00",
+      "status": "依据官方原始发布整理；案例指标不代表普遍效果。",
+      "interest": []
+    },
+    {
+      "id": "4c0ce53d999730f4",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Localiza 围绕生成式 AI 重组工作和客户界面",
+      "titleZh": "Localiza 围绕生成式 AI 重组工作和客户界面",
+      "summary": "Localiza 分享内部跨团队实验、ChatGPT 应用及 Liza 对话助手三方面的组织实践。",
+      "url": "https://openai.com/index/localiza-generative-ai",
+      "date": "2026-10-16",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "details": {
+        "overview": "Localiza 分享内部跨团队实验、ChatGPT 应用及 Liza 对话助手三方面的组织实践。",
+        "keyPoints": [
+          "技术及业务团队使用定制 GPT、代理和 Codex 制作原型及自动化。",
+          "Liza 结合企业服务与工具支持租车流程，交易仍在企业受控环境完成。"
+        ]
+      },
+      "publishedAt": "2026-10-16T00:00:00+00:00",
+      "status": "依据官方原始发布整理；案例指标不代表普遍效果。",
+      "interest": []
+    },
+    {
+      "id": "58d854dc90d2a495",
+      "section": "news",
+      "category": "模型动态",
+      "title": "Google DeepMind 发布 Genie 4 世界模拟研究预览",
+      "titleZh": "Google DeepMind 发布 Genie 4 世界模拟研究预览",
+      "summary": "Genie 4 将实时交互世界模拟与原生声音、环境噪声和对话结合，支持通过自然语言修改场景。",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "date": "2026-10-28",
+      "source": "Google DeepMind",
+      "recommended": true,
+      "details": {
+        "overview": "Genie 4 将实时交互世界模拟与原生声音、环境噪声和对话结合，支持通过自然语言修改场景。",
+        "keyPoints": [
+          "已开始面向受信任测试者推出研究预览；消费者与开发者开放仍待后续安排，可加入候补名单。",
+          "官方演示展示物理场景、人物行为及声音生成；不能视为已验证的通用物理模拟器。"
+        ]
+      },
+      "publishedAt": "2026-10-27T16:01:38+00:00",
+      "status": "研究预览，尚未全面开放。",
+      "recommendedOn": "2026-10-28",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "0704bf6a62091dd5",
+      "section": "news",
+      "category": "模型动态",
+      "title": "Liquid AI 发布面向端侧定制的 LFM3 多模态模型家族",
+      "titleZh": "Liquid AI 发布面向端侧定制的 LFM3 多模态模型家族",
+      "summary": "Liquid AI 介绍共享骨干的约20亿参数级文本、视觉、音频、全模态与决策模型，强调单 GPU 微调及端侧部署。",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "date": "2026-10-28",
+      "source": "Hugging Face 官方博客",
+      "recommended": true,
+      "details": {
+        "overview": "Liquid AI 介绍共享骨干的约20亿参数级文本、视觉、音频、全模态与决策模型，强调单 GPU 微调及端侧部署。",
+        "keyPoints": [
+          "模型家族覆盖不同输入输出模态，需按具体模型选择部署方式。",
+          "官方报告文本模型支持256K上下文及低精度运行；实际资源和性能依设备、精度与任务而变。"
+        ]
+      },
+      "publishedAt": "2026-10-27T17:16:52+00:00",
+      "status": "依据官方原始发布整理；案例指标不代表普遍效果。",
+      "recommendedOn": "2026-10-28",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "3e072a154a26d59d",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Ai2 发布研究创意新颖性评估基准，揭示 LLM 裁判不稳定性",
+      "titleZh": "Ai2 发布研究创意新颖性评估基准，揭示 LLM 裁判不稳定性",
+      "summary": "Ai2 发布 Old Ideas, Novel Problems 研究及数据、代码与评估流水线，研究语言模型判断研究创意新颖性的可靠性。",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "date": "2026-10-28",
+      "source": "Hugging Face 官方博客",
+      "recommended": true,
+      "details": {
+        "overview": "Ai2 发布 Old Ideas, Novel Problems 研究及数据、代码与评估流水线，研究语言模型判断研究创意新颖性的可靠性。",
+        "keyPoints": [
+          "实验发现提示词、格式及评估设置变化可能大幅改变同一创意的判断。",
+          "检索和额外推理并不总改善表现；部分人类与生成创意配对标签属于弱标签，不能当成普适真值。"
+        ]
+      },
+      "publishedAt": "2026-10-27T16:12:42+00:00",
+      "status": "依据官方原始发布整理；案例指标不代表普遍效果。",
+      "recommendedOn": "2026-10-28",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "eec2b4ab0df198b0",
+      "section": "news",
+      "category": "工具动态",
+      "title": "C-BRAIN 与 NVIDIA 介绍用于神经退行性疾病研究的开源 AI 工具",
+      "titleZh": "C-BRAIN 与 NVIDIA 介绍用于神经退行性疾病研究的开源 AI 工具",
+      "summary": "C-BRAIN 与 NVIDIA 分享通过 OpenScientist、InsightEngine 及计算基础设施帮助研究者分析数据与检验文献主张的工作。",
+      "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+      "date": "2026-10-27",
+      "source": "NVIDIA 官方博客",
+      "recommended": true,
+      "details": {
+        "overview": "C-BRAIN 与 NVIDIA 分享通过 OpenScientist、InsightEngine 及计算基础设施帮助研究者分析数据与检验文献主张的工作。",
+        "keyPoints": [
+          "组合集中式与联邦式方法，按机构治理要求使用研究数据。",
+          "加快分析和提出假设不等于已经找到有效治疗；因果机制与临床验证仍属后续研究。"
+        ]
+      },
+      "publishedAt": "2026-10-27T15:00:20+00:00",
+      "status": "依据官方原始发布整理；案例指标不代表普遍效果。",
+      "recommendedOn": "2026-10-28",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "2a86e5e9e5aa07db",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Anthropic 扩大 GSA 合作，为美国各级政府提供 Claude 折扣",
+      "titleZh": "Anthropic 扩大 GSA 合作，为美国各级政府提供 Claude 折扣",
+      "summary": "Anthropic 宣布扩大与 GSA 的合作，符合条件的美国政府采购可获得指定 Claude 产品40%的折扣。",
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "date": "2026-10-27",
+      "source": "Anthropic 官方新闻与研究",
+      "recommended": false,
+      "details": {
+        "overview": "Anthropic 宣布扩大与 GSA 的合作，符合条件的美国政府采购可获得指定 Claude 产品40%的折扣。",
+        "keyPoints": [
+          "覆盖 Claude Enterprise、Claude for Government 与 API；州、地方、部落及领地政府也纳入范围。",
+          "直接采购已可采用；通过云提供商的折扣渠道计划在未来数月扩展，不能当成现已全部可用。"
+        ]
+      },
+      "status": "协议已宣布；部分渠道仍为未来安排。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "interest": []
+    },
+    {
+      "id": "edf75600e83d56dc",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Google 推出 AI Quests 神经科学互动课程 Polar Peaks",
+      "titleZh": "Google 推出 AI Quests 神经科学互动课程 Polar Peaks",
+      "summary": "Google Research 与斯坦福学习加速器推出 Polar Peaks，让11至14岁学生通过脑神经元映射任务学习 AI 素养。",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "date": "2026-10-26",
+      "source": "Google AI 官方博客",
+      "recommended": false,
+      "details": {
+        "overview": "Google Research 与斯坦福学习加速器推出 Polar Peaks，让11至14岁学生通过脑神经元映射任务学习 AI 素养。",
+        "keyPoints": [
+          "活动包括数据清理与模型测试，强调人工监督和批判性思考。",
+          "同步推出教师培训模块；第三课教师模块计划于下个月提供。"
+        ]
+      },
+      "status": "课程已发布；部分教师模块仍待后续上线。",
       "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
       "interest": []
     }
