@@ -1,0 +1,22 @@
+{
+  "id": "7d75896a281f4deb",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT 的 dot 短信功能向美国 Pro 用户开启 Beta",
+  "titleZh": "ChatGPT 的 dot 短信功能向美国 Pro 用户开启 Beta",
+  "summary": "dot 短信功能开始向美国 Pro 用户分批推出 Beta，可通过 iMessage 或 RCS 联系自己的 dot，并接收主动更新。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+  "date": "2026-10-28",
+  "source": "ChatGPT 官方发布说明",
+  "recommended": false,
+  "details": {
+    "overview": "dot 短信功能开始向美国 Pro 用户分批推出 Beta，可通过 iMessage 或 RCS 联系自己的 dot，并接收主动更新。",
+    "keyPoints": [
+      "仅用户与自己的 dot 能互发消息，不因此授予其读取其他短信会话的权限。",
+      "在 dot 资料页选择 Texting；短信沿用应用内 dot 的记忆与插件，并通过第三方 Linq 收发。"
+    ]
+  },
+  "status": "Beta 分批推出；仅官方说明的美国 Pro 用户。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "interest": []
+}

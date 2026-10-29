@@ -1,0 +1,23 @@
+{
+  "id": "67cb523c62e91517",
+  "section": "chatgpt",
+  "category": "功能预告",
+  "title": "ServiceNow 将扩展 ChatGPT 工作流与 Codex 集成",
+  "titleZh": "ServiceNow 将扩展 ChatGPT 工作流与 Codex 集成",
+  "summary": "OpenAI 与 ServiceNow 宣布扩大合作。现有 MCP 插件已在市场提供；增强交互体验与多项产品能力仍按后续时间表推进。",
+  "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+  "date": "2026-10-28",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "details": {
+    "overview": "OpenAI 与 ServiceNow 宣布扩大合作。现有 MCP 插件已在市场提供；增强交互体验与多项产品能力仍按后续时间表推进。",
+    "keyPoints": [
+      "增强插件能力预计在2026年底提供；语音预计2027年第一季度推出。",
+      "安全能力预计2027年1月早期访问、第二季度普遍可用；AI Workflow Factory 的 Codex 集成预计2027年提供。",
+      "组织可选接入能力，既有业务规则与权限继续约束操作；计划日期不代表已全面上线。"
+    ]
+  },
+  "publishedAt": "2026-10-28T13:15:00+00:00",
+  "status": "官方未来计划，部分既有插件已可用。",
+  "interest": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "a9e2a3ed0a763a57",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic 将 AI for Science 扩展至科研基金会与机构",
+  "titleZh": "Anthropic 将 AI for Science 扩展至科研基金会与机构",
+  "summary": "Anthropic 介绍 AI for Science 与20家基金会、科研机构及研究团队的合作，通过 Claude 额度等资源支持科研项目。",
+  "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+  "date": "2026-10-28",
+  "source": "Anthropic 官方新闻与研究",
+  "recommended": false,
+  "details": {
+    "overview": "Anthropic 介绍 AI for Science 与20家基金会、科研机构及研究团队的合作，通过 Claude 额度等资源支持科研项目。",
+    "keyPoints": [
+      "合作从个人研究者扩展至机构，覆盖生物、医学、物理、化学、气候与数学等方向。",
+      "与 Janelia 合作的 Model Hardware Standard 仍处研究预览；项目支持不表示已经证实所有研究主张。"
+    ]
+  },
+  "status": "合作计划扩展已宣布；部分相关工具仍为研究预览。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "interest": []
+}

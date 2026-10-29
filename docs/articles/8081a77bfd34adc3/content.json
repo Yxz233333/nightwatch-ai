@@ -1,0 +1,24 @@
+{
+  "id": "8081a77bfd34adc3",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "观点文章：AI 可能如何改变企业组织结构",
+  "titleZh": "观点文章：AI 可能如何改变企业组织结构",
+  "summary": "Hemanth Asirvatham 与 Elliott Mokski 讨论 AI 在员工之下、同级或管理层之间参与企业组织的三种假设情景。",
+  "url": "https://openai.com/index/the-future-of-the-firm",
+  "date": "2026-10-28",
+  "source": "OpenAI 官方新闻",
+  "recommended": true,
+  "details": {
+    "overview": "Hemanth Asirvatham 与 Elliott Mokski 讨论 AI 在员工之下、同级或管理层之间参与企业组织的三种假设情景。",
+    "keyPoints": [
+      "文章探讨协调流程、员工自主权、企业规模及薪酬差距等问题。",
+      "作者明确说明是个人观点，不代表 OpenAI；这些情景不是已经发生的普遍事实或官方产品预告。"
+    ]
+  },
+  "publishedAt": "2026-10-28T10:00:00+00:00",
+  "status": "依据官方原文整理；观点及案例与产品普遍能力区分。",
+  "recommendedOn": "2026-10-29",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "interest": []
+}

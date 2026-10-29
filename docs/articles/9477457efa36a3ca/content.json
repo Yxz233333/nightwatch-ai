@@ -1,0 +1,25 @@
+{
+  "id": "9477457efa36a3ca",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Google 宣布 Gemini 4 Carbon，先向部分网络防御者开放",
+  "titleZh": "Google 宣布 Gemini 4 Carbon，先向部分网络防御者开放",
+  "summary": "Google DeepMind 宣布 Gemini 4 Carbon，强调长程编码、代理任务和网络防御能力，并采取分阶段开放方式。",
+  "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+  "date": "2026-10-29",
+  "source": "Google DeepMind",
+  "recommended": true,
+  "details": {
+    "overview": "Google DeepMind 宣布 Gemini 4 Carbon，强调长程编码、代理任务和网络防御能力，并采取分阶段开放方式。",
+    "keyPoints": [
+      "本周起面向部分网络防御者开放，再通过 Fairwind 向更多可信伙伴扩展；开发者、企业及消费者普遍使用仍待后续。",
+      "官方公布编码与网络安全评估提升，部分基准明确在未加防护条件下评测，不能等同真实部署效果。",
+      "公布的介绍期价格为每百万输入2美元、输出10美元；介绍期结束后分别为4美元和20美元，缓存输入按输入价减免95%。"
+    ]
+  },
+  "publishedAt": "2026-10-28T17:00:58+00:00",
+  "status": "分阶段受限开放，尚未普遍可用。",
+  "recommendedOn": "2026-10-29",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "interest": []
+}

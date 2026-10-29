@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-28T00:02:27.913Z",
+  "syncedAt": "2026-10-29T00:06:03.994Z",
   "articles": [
     {
       "id": "e985bef486a031bf",
@@ -42789,6 +42789,126 @@
         ]
       },
       "status": "课程已发布；部分教师模块仍待后续上线。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "interest": []
+    },
+    {
+      "id": "8081a77bfd34adc3",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "观点文章：AI 可能如何改变企业组织结构",
+      "titleZh": "观点文章：AI 可能如何改变企业组织结构",
+      "summary": "Hemanth Asirvatham 与 Elliott Mokski 讨论 AI 在员工之下、同级或管理层之间参与企业组织的三种假设情景。",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "date": "2026-10-28",
+      "source": "OpenAI 官方新闻",
+      "recommended": true,
+      "details": {
+        "overview": "Hemanth Asirvatham 与 Elliott Mokski 讨论 AI 在员工之下、同级或管理层之间参与企业组织的三种假设情景。",
+        "keyPoints": [
+          "文章探讨协调流程、员工自主权、企业规模及薪酬差距等问题。",
+          "作者明确说明是个人观点，不代表 OpenAI；这些情景不是已经发生的普遍事实或官方产品预告。"
+        ]
+      },
+      "publishedAt": "2026-10-28T10:00:00+00:00",
+      "status": "依据官方原文整理；观点及案例与产品普遍能力区分。",
+      "recommendedOn": "2026-10-29",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "3a4f7e6b5c3a96b7",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Legora 分享 AI 法律工作流与内部开发实践",
+      "titleZh": "Legora 分享 AI 法律工作流与内部开发实践",
+      "summary": "Legora 介绍使用 OpenAI 模型、Codex 与 ChatGPT 支持法律文档分析和内部团队工作。",
+      "url": "https://openai.com/index/legora",
+      "date": "2026-10-28",
+      "source": "OpenAI 官方新闻",
+      "recommended": true,
+      "details": {
+        "overview": "Legora 介绍使用 OpenAI 模型、Codex 与 ChatGPT 支持法律文档分析和内部团队工作。",
+        "keyPoints": [
+          "官方案例报告部分保密协议审阅与合同流转的时间节省，属于特定客户和团队经验。",
+          "产品旨在辅助法律团队扩大分析范围；案例数据不能推导为所有任务都可替代律师审查。"
+        ]
+      },
+      "publishedAt": "2026-10-28T09:30:00+00:00",
+      "status": "依据官方原文整理；观点及案例与产品普遍能力区分。",
+      "recommendedOn": "2026-10-29",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "9477457efa36a3ca",
+      "section": "news",
+      "category": "模型动态",
+      "title": "Google 宣布 Gemini 4 Carbon，先向部分网络防御者开放",
+      "titleZh": "Google 宣布 Gemini 4 Carbon，先向部分网络防御者开放",
+      "summary": "Google DeepMind 宣布 Gemini 4 Carbon，强调长程编码、代理任务和网络防御能力，并采取分阶段开放方式。",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "date": "2026-10-29",
+      "source": "Google DeepMind",
+      "recommended": true,
+      "details": {
+        "overview": "Google DeepMind 宣布 Gemini 4 Carbon，强调长程编码、代理任务和网络防御能力，并采取分阶段开放方式。",
+        "keyPoints": [
+          "本周起面向部分网络防御者开放，再通过 Fairwind 向更多可信伙伴扩展；开发者、企业及消费者普遍使用仍待后续。",
+          "官方公布编码与网络安全评估提升，部分基准明确在未加防护条件下评测，不能等同真实部署效果。",
+          "公布的介绍期价格为每百万输入2美元、输出10美元；介绍期结束后分别为4美元和20美元，缓存输入按输入价减免95%。"
+        ]
+      },
+      "publishedAt": "2026-10-28T17:00:58+00:00",
+      "status": "分阶段受限开放，尚未普遍可用。",
+      "recommendedOn": "2026-10-29",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "54323fc44e35bfbf",
+      "section": "news",
+      "category": "工具动态",
+      "title": "NVIDIA 更新 RTX Spark 本地 AI 模型与代理资源管理",
+      "titleZh": "NVIDIA 更新 RTX Spark 本地 AI 模型与代理资源管理",
+      "summary": "NVIDIA 介绍 RTX Spark 上的本地语音模型、LFM3 支持、GPU 资源分配及创作工作流更新。",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+      "date": "2026-10-28",
+      "source": "NVIDIA 官方博客",
+      "recommended": true,
+      "details": {
+        "overview": "NVIDIA 介绍 RTX Spark 上的本地语音模型、LFM3 支持、GPU 资源分配及创作工作流更新。",
+        "keyPoints": [
+          "Nemotron 3.5 Transcribe 将转录、说话人标注和翻译结合；模型权重已提供，部分量化版本仍为即将推出。",
+          "NVIDIA App 的资源管理可调整前台应用与后台代理的 GPU 分配，需要 Windows 硬件加速 GPU 调度。",
+          "介绍包含现已可用和计划中的功能；不能将整篇更新都视为当天已全部上线。"
+        ]
+      },
+      "publishedAt": "2026-10-28T15:00:46+00:00",
+      "status": "依据官方原文整理；观点及案例与产品普遍能力区分。",
+      "recommendedOn": "2026-10-29",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "a9e2a3ed0a763a57",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Anthropic 将 AI for Science 扩展至科研基金会与机构",
+      "titleZh": "Anthropic 将 AI for Science 扩展至科研基金会与机构",
+      "summary": "Anthropic 介绍 AI for Science 与20家基金会、科研机构及研究团队的合作，通过 Claude 额度等资源支持科研项目。",
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "date": "2026-10-28",
+      "source": "Anthropic 官方新闻与研究",
+      "recommended": false,
+      "details": {
+        "overview": "Anthropic 介绍 AI for Science 与20家基金会、科研机构及研究团队的合作，通过 Claude 额度等资源支持科研项目。",
+        "keyPoints": [
+          "合作从个人研究者扩展至机构，覆盖生物、医学、物理、化学、气候与数学等方向。",
+          "与 Janelia 合作的 Model Hardware Standard 仍处研究预览；项目支持不表示已经证实所有研究主张。"
+        ]
+      },
+      "status": "合作计划扩展已宣布；部分相关工具仍为研究预览。",
       "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
       "interest": []
     }

@@ -1,0 +1,24 @@
+{
+  "id": "3a4f7e6b5c3a96b7",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Legora 分享 AI 法律工作流与内部开发实践",
+  "titleZh": "Legora 分享 AI 法律工作流与内部开发实践",
+  "summary": "Legora 介绍使用 OpenAI 模型、Codex 与 ChatGPT 支持法律文档分析和内部团队工作。",
+  "url": "https://openai.com/index/legora",
+  "date": "2026-10-28",
+  "source": "OpenAI 官方新闻",
+  "recommended": true,
+  "details": {
+    "overview": "Legora 介绍使用 OpenAI 模型、Codex 与 ChatGPT 支持法律文档分析和内部团队工作。",
+    "keyPoints": [
+      "官方案例报告部分保密协议审阅与合同流转的时间节省，属于特定客户和团队经验。",
+      "产品旨在辅助法律团队扩大分析范围；案例数据不能推导为所有任务都可替代律师审查。"
+    ]
+  },
+  "publishedAt": "2026-10-28T09:30:00+00:00",
+  "status": "依据官方原文整理；观点及案例与产品普遍能力区分。",
+  "recommendedOn": "2026-10-29",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "interest": []
+}

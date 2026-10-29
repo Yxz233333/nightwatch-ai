@@ -1,0 +1,25 @@
+{
+  "id": "54323fc44e35bfbf",
+  "section": "news",
+  "category": "工具动态",
+  "title": "NVIDIA 更新 RTX Spark 本地 AI 模型与代理资源管理",
+  "titleZh": "NVIDIA 更新 RTX Spark 本地 AI 模型与代理资源管理",
+  "summary": "NVIDIA 介绍 RTX Spark 上的本地语音模型、LFM3 支持、GPU 资源分配及创作工作流更新。",
+  "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+  "date": "2026-10-28",
+  "source": "NVIDIA 官方博客",
+  "recommended": true,
+  "details": {
+    "overview": "NVIDIA 介绍 RTX Spark 上的本地语音模型、LFM3 支持、GPU 资源分配及创作工作流更新。",
+    "keyPoints": [
+      "Nemotron 3.5 Transcribe 将转录、说话人标注和翻译结合；模型权重已提供，部分量化版本仍为即将推出。",
+      "NVIDIA App 的资源管理可调整前台应用与后台代理的 GPU 分配，需要 Windows 硬件加速 GPU 调度。",
+      "介绍包含现已可用和计划中的功能；不能将整篇更新都视为当天已全部上线。"
+    ]
+  },
+  "publishedAt": "2026-10-28T15:00:46+00:00",
+  "status": "依据官方原文整理；观点及案例与产品普遍能力区分。",
+  "recommendedOn": "2026-10-29",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "interest": []
+}

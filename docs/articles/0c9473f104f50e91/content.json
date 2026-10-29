@@ -1,0 +1,22 @@
+{
+  "id": "0c9473f104f50e91",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "符合条件的 ChatGPT Pro 与 Business 订阅可激活促销 API 额度",
+  "titleZh": "符合条件的 ChatGPT Pro 与 Business 订阅可激活促销 API 额度",
+  "summary": "符合条件的 Pro 与 Business 订阅者可为关联的 API 组织激活促销额度，用于 OpenAI API 应用与代理开发。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+  "date": "2026-10-28",
+  "source": "ChatGPT 官方发布说明",
+  "recommended": false,
+  "details": {
+    "overview": "符合条件的 Pro 与 Business 订阅者可为关联的 API 组织激活促销额度，用于 OpenAI API 应用与代理开发。",
+    "keyPoints": [
+      "不是所有订阅自动获得，资格、激活及优惠条款以帮助中心为准。",
+      "API 额度与 ChatGPT 使用额度分开，不能视为可互相兑换或提高 ChatGPT 总额度。"
+    ]
+  },
+  "status": "促销权益已宣布；须符合资格并激活。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "interest": []
+}

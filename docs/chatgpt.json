@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-28T00:02:27.913Z",
+  "syncedAt": "2026-10-29T00:06:03.994Z",
   "articles": [
     {
       "id": "d801af45ebed7c9b",
@@ -4947,6 +4947,73 @@
         ]
       },
       "status": "官方宣布已可用；需要用户连接服务。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "interest": []
+    },
+    {
+      "id": "67cb523c62e91517",
+      "section": "chatgpt",
+      "category": "功能预告",
+      "title": "ServiceNow 将扩展 ChatGPT 工作流与 Codex 集成",
+      "titleZh": "ServiceNow 将扩展 ChatGPT 工作流与 Codex 集成",
+      "summary": "OpenAI 与 ServiceNow 宣布扩大合作。现有 MCP 插件已在市场提供；增强交互体验与多项产品能力仍按后续时间表推进。",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "date": "2026-10-28",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "details": {
+        "overview": "OpenAI 与 ServiceNow 宣布扩大合作。现有 MCP 插件已在市场提供；增强交互体验与多项产品能力仍按后续时间表推进。",
+        "keyPoints": [
+          "增强插件能力预计在2026年底提供；语音预计2027年第一季度推出。",
+          "安全能力预计2027年1月早期访问、第二季度普遍可用；AI Workflow Factory 的 Codex 集成预计2027年提供。",
+          "组织可选接入能力，既有业务规则与权限继续约束操作；计划日期不代表已全面上线。"
+        ]
+      },
+      "publishedAt": "2026-10-28T13:15:00+00:00",
+      "status": "官方未来计划，部分既有插件已可用。",
+      "interest": []
+    },
+    {
+      "id": "7d75896a281f4deb",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "ChatGPT 的 dot 短信功能向美国 Pro 用户开启 Beta",
+      "titleZh": "ChatGPT 的 dot 短信功能向美国 Pro 用户开启 Beta",
+      "summary": "dot 短信功能开始向美国 Pro 用户分批推出 Beta，可通过 iMessage 或 RCS 联系自己的 dot，并接收主动更新。",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "date": "2026-10-28",
+      "source": "ChatGPT 官方发布说明",
+      "recommended": false,
+      "details": {
+        "overview": "dot 短信功能开始向美国 Pro 用户分批推出 Beta，可通过 iMessage 或 RCS 联系自己的 dot，并接收主动更新。",
+        "keyPoints": [
+          "仅用户与自己的 dot 能互发消息，不因此授予其读取其他短信会话的权限。",
+          "在 dot 资料页选择 Texting；短信沿用应用内 dot 的记忆与插件，并通过第三方 Linq 收发。"
+        ]
+      },
+      "status": "Beta 分批推出；仅官方说明的美国 Pro 用户。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "interest": []
+    },
+    {
+      "id": "0c9473f104f50e91",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "符合条件的 ChatGPT Pro 与 Business 订阅可激活促销 API 额度",
+      "titleZh": "符合条件的 ChatGPT Pro 与 Business 订阅可激活促销 API 额度",
+      "summary": "符合条件的 Pro 与 Business 订阅者可为关联的 API 组织激活促销额度，用于 OpenAI API 应用与代理开发。",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "date": "2026-10-28",
+      "source": "ChatGPT 官方发布说明",
+      "recommended": false,
+      "details": {
+        "overview": "符合条件的 Pro 与 Business 订阅者可为关联的 API 组织激活促销额度，用于 OpenAI API 应用与代理开发。",
+        "keyPoints": [
+          "不是所有订阅自动获得，资格、激活及优惠条款以帮助中心为准。",
+          "API 额度与 ChatGPT 使用额度分开，不能视为可互相兑换或提高 ChatGPT 总额度。"
+        ]
+      },
+      "status": "促销权益已宣布；须符合资格并激活。",
       "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
       "interest": []
     }
