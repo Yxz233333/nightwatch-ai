@@ -1,11 +1,11 @@
 {
   "schemaVersion": 4,
   "title": "夜行 · AI 阅读入口",
-  "syncedAt": "2026-10-29T00:06:03.994Z",
-  "contentUpdatedAt": "2026-10-29T08:05:33+08:00",
+  "syncedAt": "2026-10-29T23:59:40.861Z",
+  "contentUpdatedAt": "2026-10-30T07:59:38+08:00",
   "coverage": {
     "requestedFrom": "2025-09-01",
-    "requestedThrough": "2026-10-29",
+    "requestedThrough": "2026-10-30",
     "scope": "已核实官方发布说明、GitHub Releases、官方 RSS 与新闻研究归档；不是全网穷尽清单。",
     "historyAddedBySource": {
       "ChatGPT 官方发布说明": 207,
@@ -66,7 +66,7 @@
       "OpenAI 官方研究": 2
     },
     "excludedNonAINews": 33,
-    "total": 3978,
+    "total": 3979,
     "byMonth": {
       "2026-10": {
         "news": 194,
@@ -143,59 +143,18 @@
         "chatgpt": 9
       }
     },
-    "lastCheckedAt": "2026-10-29T08:05:33+08:00",
+    "lastCheckedAt": "2026-10-30T07:59:38+08:00",
     "dailyCheck": {
-      "checkedAt": "2026-10-29T08:05:33+08:00",
-      "addedArticles": 11,
-      "addedHistoricalArticles": 0,
-      "recommendationsAdded": 4,
-      "checks": [
-        {
-          "source": "ChatGPT release notes",
-          "result": "核查10月28日新增dot短信Beta及促销API额度，均仅有日期；资格限制保留。"
-        },
-        {
-          "source": "Codex GitHub",
-          "result": "核查最新50条，新增三条alpha版本；官方正文未提供详细变更。"
-        },
-        {
-          "source": "OpenAI math",
-          "result": "721篇索引、373个结果族及SHA 7e1ed90ac5a666f1bbecb22027387c4ad79e9d03未变，既有论文全部保留。"
-        },
-        {
-          "source": "OpenAI/Anthropic/DeepMind/NVIDIA",
-          "result": "当前官方RSS、新闻索引及原文核查；区分未来计划、受限开放与观点文章。"
-        },
-        {
-          "source": "Google AI/Microsoft Research/Meta",
-          "result": "重新读取当前RSS或官方索引，无其他已核实新条目；不代表分页历史全量覆盖。"
-        },
-        {
-          "source": "Qwen/DeepSeek/Gemini",
-          "result": "官方页面重新获取并比对已有材料；没有新增已核实条目。"
-        }
-      ],
+      "checkedAt": "2026-10-30T07:59:38+08:00",
+      "addedArticles": 1,
       "partialSources": [
         {
           "url": "https://learn.chatgpt.com/docs/changelog",
-          "result": "既有直接HTTP403与网页长度上限持续，无法完整核验。"
-        },
-        {
-          "url": "https://www.minimax.io/news",
-          "result": "既有新闻列表缺失持续，可读页面仅显示导航。"
-        },
-        {
-          "url": "https://huggingface.co/blog/feed.xml",
-          "result": "本次RSS发生SSL/连接失败，未把旧缓存当新抓取；已改读当前官方博客索引。"
-        },
-        {
-          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "result": "当前索引发现10月28日新文章，但正文HTTP429或连接失败，Granary v2具体细节尚未核验，暂不新增该文章；Transcribe部分由NVIDIA原文独立核验。"
+          "result": "直接HTTP403，尚未完整核验。"
         }
       ],
       "limitations": [
-        "Microsoft企业AI源直接HTTP403，Research索引可核查。",
-        "中文厂商完整历史、Meta分页及Hugging Face本次新增文章仍部分覆盖。"
+        "本次仅完成ChatGPT官方套餐用量变更核验与发布；Codex 0.166.0正式版、alpha.6及最新资讯正文整理未完成，保留旧库，后续需补漏。"
       ]
     }
   },
@@ -96980,6 +96939,28 @@
       "publishedAt": "2026-10-28T01:22:03Z",
       "releaseChannel": "prerelease",
       "status": "已发布 alpha 测试版；未提供详细变更。",
+      "interest": []
+    },
+    {
+      "id": "908a511c10fe0513",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "Pro 与 Business Premium 的 Work 和 Codex 用量调整",
+      "titleZh": "Pro 与 Business Premium 的 Work 和 Codex 用量调整",
+      "summary": "官方宣布提高 Pro 与 Business Premium 计划包含的 Work 和 Codex 用量；Pro 100 和 Pro 500 的额度为此前两倍。",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "date": "2026-10-29",
+      "source": "ChatGPT 官方发布说明",
+      "recommended": false,
+      "details": {
+        "overview": "官方宣布提高 Pro 与 Business Premium 计划包含的 Work 和 Codex 用量；Pro 100 和 Pro 500 的额度为此前两倍。",
+        "keyPoints": [
+          "取消此前邮件宣布的 Pro 200 额度削减；已有较高额度者保留。",
+          "从10月29日起，较低额度的 Pro 200 用户获得此前两倍额度，达到相同上限；不能据此推断所有套餐均翻倍。"
+        ]
+      },
+      "status": "官方已宣布生效；具体套餐以账号显示为准。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
       "interest": []
     }
   ]

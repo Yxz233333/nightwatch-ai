@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-29T00:06:03.994Z",
+  "syncedAt": "2026-10-29T23:59:40.861Z",
   "articles": [
     {
       "id": "d801af45ebed7c9b",
@@ -5014,6 +5014,28 @@
         ]
       },
       "status": "促销权益已宣布；须符合资格并激活。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "interest": []
+    },
+    {
+      "id": "908a511c10fe0513",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "Pro 与 Business Premium 的 Work 和 Codex 用量调整",
+      "titleZh": "Pro 与 Business Premium 的 Work 和 Codex 用量调整",
+      "summary": "官方宣布提高 Pro 与 Business Premium 计划包含的 Work 和 Codex 用量；Pro 100 和 Pro 500 的额度为此前两倍。",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "date": "2026-10-29",
+      "source": "ChatGPT 官方发布说明",
+      "recommended": false,
+      "details": {
+        "overview": "官方宣布提高 Pro 与 Business Premium 计划包含的 Work 和 Codex 用量；Pro 100 和 Pro 500 的额度为此前两倍。",
+        "keyPoints": [
+          "取消此前邮件宣布的 Pro 200 额度削减；已有较高额度者保留。",
+          "从10月29日起，较低额度的 Pro 200 用户获得此前两倍额度，达到相同上限；不能据此推断所有套餐均翻倍。"
+        ]
+      },
+      "status": "官方已宣布生效；具体套餐以账号显示为准。",
       "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
       "interest": []
     }
