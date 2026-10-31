@@ -1,0 +1,22 @@
+{
+  "id": "a908ef272d3df832",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT 手机端开始支持双账号切换",
+  "titleZh": "ChatGPT 手机端开始支持双账号切换",
+  "summary": "ChatGPT iOS 与 Android 应用正逐步推出账号切换，可同时保持最多两个账号登录，无须每次退出。",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+  "date": "2026-10-30",
+  "source": "ChatGPT 官方发布说明",
+  "recommended": false,
+  "details": {
+    "overview": "ChatGPT iOS 与 Android 应用正逐步推出账号切换，可同时保持最多两个账号登录，无须每次退出。",
+    "keyPoints": [
+      "在设置中选择 Switch account 进行切换。",
+      "每个账号分别保留自己的聊天、记忆、设置和订阅。"
+    ]
+  },
+  "status": "逐步推出；以客户端实际可用情况为准。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "interest": []
+}

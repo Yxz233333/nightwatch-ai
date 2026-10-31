@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-29T23:59:40.861Z",
+  "syncedAt": "2026-10-31T00:05:57.861Z",
   "articles": [
     {
       "id": "feed0920e670fa7c",
@@ -30064,6 +30064,53 @@
       "publishedAt": "2026-10-28T01:22:03Z",
       "releaseChannel": "prerelease",
       "status": "已发布 alpha 测试版；未提供详细变更。",
+      "interest": []
+    },
+    {
+      "id": "8d0a1d05299c52b2",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.166.0 正式版发布",
+      "titleZh": "Codex CLI 0.166.0 正式版发布",
+      "summary": "Codex CLI 0.166.0 正式版改善键盘操作与 Markdown 显示，扩展 Terra 模型目录，并增加队列恢复与网络诊断。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.166.0",
+      "date": "2026-10-30",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "details": {
+        "overview": "Codex CLI 0.166.0 正式版改善键盘操作与 Markdown 显示，扩展 Terra 模型目录，并增加队列恢复与网络诊断。",
+        "keyPoints": [
+          "新增键盘驱动的对话记录选择、搜索与快捷键；异步问题及回答统一渲染 Markdown。",
+          "新增 codex queue --resume、codex doctor --network-only；内置、Vertex AI 和 Bedrock 目录加入 GPT-6.1 Terra。",
+          "修复恢复与分叉时权限设置保留、图片附件恢复、子线程取消归档、连接恢复及推理 token 计数等问题。"
+        ]
+      },
+      "publishedAt": "2026-10-29T19:47:53Z",
+      "status": "已发布正式版。",
+      "releaseChannel": "stable",
+      "interest": []
+    },
+    {
+      "id": "e7673025a932978f",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.166.0-alpha.6 测试版发布",
+      "titleZh": "Codex CLI 0.166.0-alpha.6 测试版发布",
+      "summary": "官方已发布alpha测试版，正文仅列版本号，未提供详细变更。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.166.0-alpha.6",
+      "date": "2026-10-29",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "details": {
+        "overview": "官方已发布alpha测试版，正文仅列版本号，未提供详细变更。",
+        "keyPoints": [
+          "这是已发布的测试版本，归入功能更新。",
+          "没有详细官方说明，不推断新增功能。"
+        ]
+      },
+      "publishedAt": "2026-10-29T01:41:25Z",
+      "status": "已发布测试版；未提供详细变更。",
+      "releaseChannel": "prerelease",
       "interest": []
     }
   ]
