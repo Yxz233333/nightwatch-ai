@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-30T07:59:38+08:00",
+  "updatedAt": "2026-10-31T08:05:44+08:00",
   "coverage": {
     "requestedFrom": "2025-09-01",
-    "requestedThrough": "2026-10-30",
+    "requestedThrough": "2026-10-31",
     "scope": "已核实官方发布说明、GitHub Releases、官方 RSS 与新闻研究归档；不是全网穷尽清单。",
     "historyAddedBySource": {
       "ChatGPT 官方发布说明": 207,
@@ -63,7 +63,7 @@
       "OpenAI 官方研究": 2
     },
     "excludedNonAINews": 33,
-    "total": 3979,
+    "total": 3982,
     "byMonth": {
       "2026-10": {
         "news": 194,
@@ -140,18 +140,12 @@
         "chatgpt": 9
       }
     },
-    "lastCheckedAt": "2026-10-30T07:59:38+08:00",
+    "lastCheckedAt": "2026-10-31T08:05:44+08:00",
     "dailyCheck": {
-      "checkedAt": "2026-10-30T07:59:38+08:00",
-      "addedArticles": 1,
-      "partialSources": [
-        {
-          "url": "https://learn.chatgpt.com/docs/changelog",
-          "result": "直接HTTP403，尚未完整核验。"
-        }
-      ],
+      "checkedAt": "2026-10-31T08:05:44+08:00",
+      "addedArticles": 3,
       "limitations": [
-        "本次仅完成ChatGPT官方套餐用量变更核验与发布；Codex 0.166.0正式版、alpha.6及最新资讯正文整理未完成，保留旧库，后续需补漏。"
+        "本次完成ChatGPT账号切换及Codex 0.166.0/alpha.6补录；最新资讯正文、数学仓库修订及其他来源的完整核查未完成，旧库全部保留，不声明本次全面覆盖。"
       ]
     }
   },
@@ -92970,6 +92964,72 @@
       },
       "status": "官方已宣布生效；具体套餐以账号显示为准。",
       "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。"
+    },
+    {
+      "id": "a908ef272d3df832",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "ChatGPT 手机端开始支持双账号切换",
+      "titleZh": "ChatGPT 手机端开始支持双账号切换",
+      "summary": "ChatGPT iOS 与 Android 应用正逐步推出账号切换，可同时保持最多两个账号登录，无须每次退出。",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "date": "2026-10-30",
+      "source": "ChatGPT 官方发布说明",
+      "recommended": false,
+      "details": {
+        "overview": "ChatGPT iOS 与 Android 应用正逐步推出账号切换，可同时保持最多两个账号登录，无须每次退出。",
+        "keyPoints": [
+          "在设置中选择 Switch account 进行切换。",
+          "每个账号分别保留自己的聊天、记忆、设置和订阅。"
+        ]
+      },
+      "status": "逐步推出；以客户端实际可用情况为准。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。"
+    },
+    {
+      "id": "8d0a1d05299c52b2",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.166.0 正式版发布",
+      "titleZh": "Codex CLI 0.166.0 正式版发布",
+      "summary": "Codex CLI 0.166.0 正式版改善键盘操作与 Markdown 显示，扩展 Terra 模型目录，并增加队列恢复与网络诊断。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.166.0",
+      "date": "2026-10-30",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "details": {
+        "overview": "Codex CLI 0.166.0 正式版改善键盘操作与 Markdown 显示，扩展 Terra 模型目录，并增加队列恢复与网络诊断。",
+        "keyPoints": [
+          "新增键盘驱动的对话记录选择、搜索与快捷键；异步问题及回答统一渲染 Markdown。",
+          "新增 codex queue --resume、codex doctor --network-only；内置、Vertex AI 和 Bedrock 目录加入 GPT-6.1 Terra。",
+          "修复恢复与分叉时权限设置保留、图片附件恢复、子线程取消归档、连接恢复及推理 token 计数等问题。"
+        ]
+      },
+      "publishedAt": "2026-10-29T19:47:53Z",
+      "status": "已发布正式版。",
+      "releaseChannel": "stable"
+    },
+    {
+      "id": "e7673025a932978f",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.166.0-alpha.6 测试版发布",
+      "titleZh": "Codex CLI 0.166.0-alpha.6 测试版发布",
+      "summary": "官方已发布alpha测试版，正文仅列版本号，未提供详细变更。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.166.0-alpha.6",
+      "date": "2026-10-29",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "details": {
+        "overview": "官方已发布alpha测试版，正文仅列版本号，未提供详细变更。",
+        "keyPoints": [
+          "这是已发布的测试版本，归入功能更新。",
+          "没有详细官方说明，不推断新增功能。"
+        ]
+      },
+      "publishedAt": "2026-10-29T01:41:25Z",
+      "status": "已发布测试版；未提供详细变更。",
+      "releaseChannel": "prerelease"
     }
   ]
 }
