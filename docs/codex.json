@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-06T00:01:20.067Z",
+  "syncedAt": "2026-11-07T00:04:16.656Z",
   "articles": [
     {
       "id": "feed0920e670fa7c",
@@ -30364,6 +30364,52 @@
       "publishedAt": "2026-11-05T13:16:05Z",
       "status": "已发布alpha测试版；未提供详细变更说明。",
       "releaseChannel": "prerelease",
+      "interest": []
+    },
+    {
+      "id": "acb80109d543fdbb",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.169.0-alpha.2 测试版发布",
+      "titleZh": "Codex CLI 0.169.0-alpha.2 测试版发布",
+      "summary": "Codex 官方已发布 0.169.0-alpha.2 alpha 测试版，发布正文仅提供版本号，未提供逐项变更说明。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.2",
+      "date": "2026-11-07",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "details": {
+        "overview": "Codex 官方已发布 0.169.0-alpha.2 alpha 测试版，发布正文仅提供版本号，未提供逐项变更说明。",
+        "keyPoints": [
+          "这是已经发布的测试版本，归入功能更新。",
+          "不从版本号推断新功能、修复或兼容性变化。"
+        ]
+      },
+      "publishedAt": "2026-11-06T22:13:30Z",
+      "status": "已发布alpha测试版；未提供详细变更说明。",
+      "releaseChannel": "prerelease",
+      "interest": []
+    },
+    {
+      "id": "a84c73b4a115e7f5",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.167.0 正式版发布",
+      "titleZh": "Codex CLI 0.167.0 正式版发布",
+      "summary": "正式版扩展终端代理管理、后端切换和本地图片预览，并修复对话恢复与网络审批问题。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.0",
+      "date": "2026-11-06",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "details": {
+        "overview": "正式版扩展终端代理管理、后端切换和本地图片预览，并修复对话恢复与网络审批问题。",
+        "keyPoints": [
+          "codex agents --no-daemon 可打开代理管理中心，管理中心与会话选择器显示未读结果。",
+          "终端可切换已连接后端并保留草稿，支持的终端可预览本地图片附件。",
+          "系统代理设置须在 experimental 主动启用，Vertex AI 设置向导也需要启用。"
+        ]
+      },
+      "publishedAt": "2026-11-06T01:40:00Z",
+      "status": "已发布正式版；部分功能需要主动启用。",
       "interest": []
     }
   ]
