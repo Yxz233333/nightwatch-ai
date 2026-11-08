@@ -1,0 +1,22 @@
+{
+  "id": "ba021b86d0638968",
+  "section": "news",
+  "category": "模型动态",
+  "title": "OpenAI 发布安全研究模型 GPT-6 Cyber",
+  "titleZh": "OpenAI 发布安全研究模型 GPT-6 Cyber",
+  "summary": "OpenAI 发布用于授权漏洞研究的 GPT-6 Cyber。",
+  "url": "https://openai.com/index/introducing-gpt-6-cyber",
+  "date": "2026-11-05",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "details": {
+    "overview": "OpenAI 发布用于授权漏洞研究的 GPT-6 Cyber。",
+    "keyPoints": [
+      "官方 ExploitGym 分数为48.5%，前代 GPT-5.6 Cyber 为32.1%。",
+      "Daybreak Red 用于更深入的授权安全测试，访问面向可信防御方。"
+    ]
+  },
+  "publishedAt": "2026-11-05T09:00:00Z",
+  "status": "受限开放。",
+  "interest": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "e13e39a25075ed32",
+  "section": "news",
+  "category": "工具动态",
+  "title": "OpenAI 与 Ligo 发布湿实验分析评测 BioBasicsBench",
+  "titleZh": "OpenAI 与 Ligo 发布湿实验分析评测 BioBasicsBench",
+  "summary": "BioBasicsBench 使用原始实验数据评估 AI 对日常湿实验的解读。",
+  "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+  "date": "2026-11-06",
+  "source": "OpenAI 官方研究",
+  "recommended": false,
+  "details": {
+    "overview": "BioBasicsBench 使用原始实验数据评估 AI 对日常湿实验的解读。",
+    "keyPoints": [
+      "覆盖100项任务，包括成像、定量、蛋白和核酸方法、分子克隆。",
+      "官方测试中 GPT-6 Astra 在 xhigh 获得66.7%的可用分数，实验对照与图像判断仍存在错误。"
+    ]
+  },
+  "publishedAt": "2026-11-06T00:00:00Z",
+  "status": "已发布评测。",
+  "interest": []
+}

@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-07T00:04:16.656Z",
+  "syncedAt": "2026-11-08T00:06:50.314Z",
   "articles": [
     {
       "id": "e985bef486a031bf",
@@ -42910,6 +42910,94 @@
       },
       "status": "合作计划扩展已宣布；部分相关工具仍为研究预览。",
       "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "interest": []
+    },
+    {
+      "id": "ba021b86d0638968",
+      "section": "news",
+      "category": "模型动态",
+      "title": "OpenAI 发布安全研究模型 GPT-6 Cyber",
+      "titleZh": "OpenAI 发布安全研究模型 GPT-6 Cyber",
+      "summary": "OpenAI 发布用于授权漏洞研究的 GPT-6 Cyber。",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "date": "2026-11-05",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "details": {
+        "overview": "OpenAI 发布用于授权漏洞研究的 GPT-6 Cyber。",
+        "keyPoints": [
+          "官方 ExploitGym 分数为48.5%，前代 GPT-5.6 Cyber 为32.1%。",
+          "Daybreak Red 用于更深入的授权安全测试，访问面向可信防御方。"
+        ]
+      },
+      "publishedAt": "2026-11-05T09:00:00Z",
+      "status": "受限开放。",
+      "interest": []
+    },
+    {
+      "id": "e13e39a25075ed32",
+      "section": "news",
+      "category": "工具动态",
+      "title": "OpenAI 与 Ligo 发布湿实验分析评测 BioBasicsBench",
+      "titleZh": "OpenAI 与 Ligo 发布湿实验分析评测 BioBasicsBench",
+      "summary": "BioBasicsBench 使用原始实验数据评估 AI 对日常湿实验的解读。",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "date": "2026-11-06",
+      "source": "OpenAI 官方研究",
+      "recommended": false,
+      "details": {
+        "overview": "BioBasicsBench 使用原始实验数据评估 AI 对日常湿实验的解读。",
+        "keyPoints": [
+          "覆盖100项任务，包括成像、定量、蛋白和核酸方法、分子克隆。",
+          "官方测试中 GPT-6 Astra 在 xhigh 获得66.7%的可用分数，实验对照与图像判断仍存在错误。"
+        ]
+      },
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "status": "已发布评测。",
+      "interest": []
+    },
+    {
+      "id": "aa7e2fe1967004db",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Ai2 发布机器人积木模拟框架 ToyBlocks",
+      "titleZh": "Ai2 发布机器人积木模拟框架 ToyBlocks",
+      "summary": "ToyBlocks 在受控桌面场景中研究机械臂推、翻和堆叠积木的能力。",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "date": "2026-11-06",
+      "source": "Ai2 官方博客",
+      "recommended": false,
+      "details": {
+        "overview": "ToyBlocks 在受控桌面场景中研究机械臂推、翻和堆叠积木的能力。",
+        "keyPoints": [
+          "自动生成模拟演示，减少对人工遥操作的依赖。",
+          "研究者可改变训练任务分布，并用训练未见的任务评估泛化。"
+        ]
+      },
+      "publishedAt": "2026-11-06T14:00:48Z",
+      "status": "已发布研究工具。",
+      "interest": []
+    },
+    {
+      "id": "00c3f390adeb5de3",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "NVIDIA 分享开源工具支持的 6G 研究案例",
+      "titleZh": "NVIDIA 分享开源工具支持的 6G 研究案例",
+      "summary": "NVIDIA 介绍使用 AI Aerial 与 Sionna 研究机器人通信、神经接收器及节能的案例。",
+      "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+      "date": "2026-11-07",
+      "source": "NVIDIA 官方博客",
+      "recommended": false,
+      "details": {
+        "overview": "NVIDIA 介绍使用 AI Aerial 与 Sionna 研究机器人通信、神经接收器及节能的案例。",
+        "keyPoints": [
+          "机器人实验以紧凑的物体描述代替周期性图像传输。",
+          "SoftBank 在受控干扰测试中比较了神经接收器与传统接收器的上行吞吐。"
+        ]
+      },
+      "publishedAt": "2026-11-06T16:00:35Z",
+      "status": "研究与受控演示。",
       "interest": []
     }
   ]

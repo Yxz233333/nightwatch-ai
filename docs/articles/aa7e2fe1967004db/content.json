@@ -1,0 +1,22 @@
+{
+  "id": "aa7e2fe1967004db",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Ai2 发布机器人积木模拟框架 ToyBlocks",
+  "titleZh": "Ai2 发布机器人积木模拟框架 ToyBlocks",
+  "summary": "ToyBlocks 在受控桌面场景中研究机械臂推、翻和堆叠积木的能力。",
+  "url": "https://huggingface.co/blog/allenai/toyblocks",
+  "date": "2026-11-06",
+  "source": "Ai2 官方博客",
+  "recommended": false,
+  "details": {
+    "overview": "ToyBlocks 在受控桌面场景中研究机械臂推、翻和堆叠积木的能力。",
+    "keyPoints": [
+      "自动生成模拟演示，减少对人工遥操作的依赖。",
+      "研究者可改变训练任务分布，并用训练未见的任务评估泛化。"
+    ]
+  },
+  "publishedAt": "2026-11-06T14:00:48Z",
+  "status": "已发布研究工具。",
+  "interest": []
+}

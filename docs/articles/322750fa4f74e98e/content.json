@@ -1,0 +1,22 @@
+{
+  "id": "322750fa4f74e98e",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "OpenAI 发布 Images 2.6",
+  "titleZh": "OpenAI 发布 Images 2.6",
+  "summary": "OpenAI 在 ChatGPT、Codex 和 API 发布 Images 2.6，改善生成速度和多轮编辑一致性。",
+  "url": "https://openai.com/index/introducing-images-2-6",
+  "date": "2026-11-04",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "details": {
+    "overview": "OpenAI 在 ChatGPT、Codex 和 API 发布 Images 2.6，改善生成速度和多轮编辑一致性。",
+    "keyPoints": [
+      "支持制作 GIF 动画。",
+      "API 提供偏重速度的 Flare 和偏重质量及编辑一致性的 Sunburst。"
+    ]
+  },
+  "publishedAt": "2026-11-04T00:00:00Z",
+  "status": "已发布。",
+  "interest": []
+}
