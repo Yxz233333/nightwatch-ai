@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-07T08:04:14+08:00",
+  "updatedAt": "2026-11-08T08:06:46+08:00",
   "coverage": {
     "requestedFrom": "2025-09-01",
-    "requestedThrough": "2026-11-07",
+    "requestedThrough": "2026-11-08",
     "scope": "已核实官方发布说明、GitHub Releases、官方 RSS 与新闻研究归档；不是全网穷尽清单。",
     "historyAddedBySource": {
       "ChatGPT 官方发布说明": 207,
@@ -63,7 +63,7 @@
       "OpenAI 官方研究": 2
     },
     "excludedNonAINews": 33,
-    "total": 3995,
+    "total": 4001,
     "byMonth": {
       "2026-10": {
         "news": 194,
@@ -140,12 +140,12 @@
         "chatgpt": 9
       }
     },
-    "lastCheckedAt": "2026-11-07T08:04:14+08:00",
+    "lastCheckedAt": "2026-11-08T08:06:46+08:00",
     "dailyCheck": {
-      "checkedAt": "2026-11-07T08:04:14+08:00",
-      "addedArticles": 2,
+      "checkedAt": "2026-11-08T08:06:46+08:00",
+      "addedArticles": 6,
       "limitations": [
-        "本次完成Codex最新50条版本比对及新alpha发布归档；数学索引SHA与此前一致。此前积压资讯正文及其他来源的完整核查尚未完成，不声明本次全面覆盖。"
+        "核查Codex最新发布及OpenAI数学索引，补录OpenAI、Ai2、NVIDIA原文。积压资讯仍有缺口。ChatGPT Learn与微软企业AI源直接访问403，其余厂商索引未全部完成核对。"
       ]
     }
   },
@@ -93316,6 +93316,132 @@
       },
       "publishedAt": "2026-11-06T01:40:00Z",
       "status": "已发布正式版；部分功能需要主动启用。"
+    },
+    {
+      "id": "14cf1a85ba91d465",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.169.0-alpha.3 测试版发布",
+      "titleZh": "Codex CLI 0.169.0-alpha.3 测试版发布",
+      "summary": "Codex 已发布此测试版，发布说明仅列出版本号。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.3",
+      "date": "2026-11-08",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "details": {
+        "overview": "Codex 已发布此测试版，发布说明仅列出版本号。",
+        "keyPoints": [
+          "归入已发布的功能更新。",
+          "官方未提供逐项变更说明。"
+        ]
+      },
+      "publishedAt": "2026-11-07T19:31:41Z",
+      "status": "已发布 alpha 测试版。"
+    },
+    {
+      "id": "322750fa4f74e98e",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "OpenAI 发布 Images 2.6",
+      "titleZh": "OpenAI 发布 Images 2.6",
+      "summary": "OpenAI 在 ChatGPT、Codex 和 API 发布 Images 2.6，改善生成速度和多轮编辑一致性。",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "date": "2026-11-04",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "details": {
+        "overview": "OpenAI 在 ChatGPT、Codex 和 API 发布 Images 2.6，改善生成速度和多轮编辑一致性。",
+        "keyPoints": [
+          "支持制作 GIF 动画。",
+          "API 提供偏重速度的 Flare 和偏重质量及编辑一致性的 Sunburst。"
+        ]
+      },
+      "publishedAt": "2026-11-04T00:00:00Z",
+      "status": "已发布。"
+    },
+    {
+      "id": "ba021b86d0638968",
+      "section": "news",
+      "category": "模型动态",
+      "title": "OpenAI 发布安全研究模型 GPT-6 Cyber",
+      "titleZh": "OpenAI 发布安全研究模型 GPT-6 Cyber",
+      "summary": "OpenAI 发布用于授权漏洞研究的 GPT-6 Cyber。",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "date": "2026-11-05",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "details": {
+        "overview": "OpenAI 发布用于授权漏洞研究的 GPT-6 Cyber。",
+        "keyPoints": [
+          "官方 ExploitGym 分数为48.5%，前代 GPT-5.6 Cyber 为32.1%。",
+          "Daybreak Red 用于更深入的授权安全测试，访问面向可信防御方。"
+        ]
+      },
+      "publishedAt": "2026-11-05T09:00:00Z",
+      "status": "受限开放。"
+    },
+    {
+      "id": "e13e39a25075ed32",
+      "section": "news",
+      "category": "工具动态",
+      "title": "OpenAI 与 Ligo 发布湿实验分析评测 BioBasicsBench",
+      "titleZh": "OpenAI 与 Ligo 发布湿实验分析评测 BioBasicsBench",
+      "summary": "BioBasicsBench 使用原始实验数据评估 AI 对日常湿实验的解读。",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "date": "2026-11-06",
+      "source": "OpenAI 官方研究",
+      "recommended": false,
+      "details": {
+        "overview": "BioBasicsBench 使用原始实验数据评估 AI 对日常湿实验的解读。",
+        "keyPoints": [
+          "覆盖100项任务，包括成像、定量、蛋白和核酸方法、分子克隆。",
+          "官方测试中 GPT-6 Astra 在 xhigh 获得66.7%的可用分数，实验对照与图像判断仍存在错误。"
+        ]
+      },
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "status": "已发布评测。"
+    },
+    {
+      "id": "aa7e2fe1967004db",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Ai2 发布机器人积木模拟框架 ToyBlocks",
+      "titleZh": "Ai2 发布机器人积木模拟框架 ToyBlocks",
+      "summary": "ToyBlocks 在受控桌面场景中研究机械臂推、翻和堆叠积木的能力。",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "date": "2026-11-06",
+      "source": "Ai2 官方博客",
+      "recommended": false,
+      "details": {
+        "overview": "ToyBlocks 在受控桌面场景中研究机械臂推、翻和堆叠积木的能力。",
+        "keyPoints": [
+          "自动生成模拟演示，减少对人工遥操作的依赖。",
+          "研究者可改变训练任务分布，并用训练未见的任务评估泛化。"
+        ]
+      },
+      "publishedAt": "2026-11-06T14:00:48Z",
+      "status": "已发布研究工具。"
+    },
+    {
+      "id": "00c3f390adeb5de3",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "NVIDIA 分享开源工具支持的 6G 研究案例",
+      "titleZh": "NVIDIA 分享开源工具支持的 6G 研究案例",
+      "summary": "NVIDIA 介绍使用 AI Aerial 与 Sionna 研究机器人通信、神经接收器及节能的案例。",
+      "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+      "date": "2026-11-07",
+      "source": "NVIDIA 官方博客",
+      "recommended": false,
+      "details": {
+        "overview": "NVIDIA 介绍使用 AI Aerial 与 Sionna 研究机器人通信、神经接收器及节能的案例。",
+        "keyPoints": [
+          "机器人实验以紧凑的物体描述代替周期性图像传输。",
+          "SoftBank 在受控干扰测试中比较了神经接收器与传统接收器的上行吞吐。"
+        ]
+      },
+      "publishedAt": "2026-11-06T16:00:35Z",
+      "status": "研究与受控演示。"
     }
   ]
 }
