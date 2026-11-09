@@ -1,0 +1,22 @@
+{
+  "id": "56c1a7438d90e750",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Open ASR 排行榜加入埃及及尼日利亚口音英语",
+  "titleZh": "Open ASR 排行榜加入埃及及尼日利亚口音英语",
+  "summary": "Hugging Face 与 Liva AI 将两种口音的自然对话加入语音识别评估。",
+  "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+  "date": "2026-11-06",
+  "source": "Hugging Face 官方博客",
+  "recommended": false,
+  "details": {
+    "overview": "Hugging Face 与 Liva AI 将两种口音的自然对话加入语音识别评估。",
+    "keyPoints": [
+      "埃及和尼日利亚英语子集分别约1.34和1.55小时。",
+      "评估用数据保持私有，排行榜新增美国与非美国口音等分组。"
+    ]
+  },
+  "publishedAt": "2026-11-06T00:00:00Z",
+  "status": "已更新评估。",
+  "interest": []
+}

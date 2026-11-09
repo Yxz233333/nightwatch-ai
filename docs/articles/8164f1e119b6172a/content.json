@@ -1,0 +1,22 @@
+{
+  "id": "8164f1e119b6172a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI 与 Hacktron 合作寻找系统漏洞",
+  "titleZh": "OpenAI 与 Hacktron 合作寻找系统漏洞",
+  "summary": "OpenAI 与 Hacktron 宣布联合测试 OpenAI 系统，重点关注与第三方服务的交互。",
+  "url": "https://openai.com/index/partnering-with-hacktron",
+  "date": "2026-11-06",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "details": {
+    "overview": "OpenAI 与 Hacktron 宣布联合测试 OpenAI 系统，重点关注与第三方服务的交互。",
+    "keyPoints": [
+      "双方工程师和研究人员共同选定优先测试范围。",
+      "合作扩大 Hacktron 经 Daybreak Red 使用前沿模型的权限。"
+    ]
+  },
+  "publishedAt": "2026-11-06T08:00:00Z",
+  "status": "合作已宣布，测试工作按授权范围进行。",
+  "interest": []
+}

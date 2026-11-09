@@ -1,11 +1,11 @@
 {
   "schemaVersion": 4,
   "title": "夜行 · AI 阅读入口",
-  "syncedAt": "2026-11-08T00:06:50.314Z",
-  "contentUpdatedAt": "2026-11-08T08:06:46+08:00",
+  "syncedAt": "2026-11-09T00:06:24.930Z",
+  "contentUpdatedAt": "2026-11-09T08:06:22+08:00",
   "coverage": {
     "requestedFrom": "2025-09-01",
-    "requestedThrough": "2026-11-08",
+    "requestedThrough": "2026-11-09",
     "scope": "已核实官方发布说明、GitHub Releases、官方 RSS 与新闻研究归档；不是全网穷尽清单。",
     "historyAddedBySource": {
       "ChatGPT 官方发布说明": 207,
@@ -66,7 +66,7 @@
       "OpenAI 官方研究": 2
     },
     "excludedNonAINews": 33,
-    "total": 4001,
+    "total": 4005,
     "byMonth": {
       "2026-10": {
         "news": 194,
@@ -143,12 +143,13 @@
         "chatgpt": 9
       }
     },
-    "lastCheckedAt": "2026-11-08T08:06:46+08:00",
+    "lastCheckedAt": "2026-11-09T08:06:22+08:00",
     "dailyCheck": {
-      "checkedAt": "2026-11-08T08:06:46+08:00",
-      "addedArticles": 6,
+      "checkedAt": "2026-11-09T08:06:22+08:00",
+      "addedArticles": 4,
+      "recommendationsAdded": 0,
       "limitations": [
-        "核查Codex最新发布及OpenAI数学索引，补录OpenAI、Ai2、NVIDIA原文。积压资讯仍有缺口。ChatGPT Learn与微软企业AI源直接访问403，其余厂商索引未全部完成核对。"
+        "补录OpenAI、DeepMind、NVIDIA与Hugging Face原文，均早于今日24小时窗口。Codex最近版本和数学索引核查无新增。ChatGPT Learn与微软企业AI源HTTP403。其他厂商及历史积压仍有覆盖缺口。"
       ]
     }
   },
@@ -97455,6 +97456,94 @@
       },
       "publishedAt": "2026-11-06T16:00:35Z",
       "status": "研究与受控演示。",
+      "interest": []
+    },
+    {
+      "id": "8164f1e119b6172a",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "OpenAI 与 Hacktron 合作寻找系统漏洞",
+      "titleZh": "OpenAI 与 Hacktron 合作寻找系统漏洞",
+      "summary": "OpenAI 与 Hacktron 宣布联合测试 OpenAI 系统，重点关注与第三方服务的交互。",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "date": "2026-11-06",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "details": {
+        "overview": "OpenAI 与 Hacktron 宣布联合测试 OpenAI 系统，重点关注与第三方服务的交互。",
+        "keyPoints": [
+          "双方工程师和研究人员共同选定优先测试范围。",
+          "合作扩大 Hacktron 经 Daybreak Red 使用前沿模型的权限。"
+        ]
+      },
+      "publishedAt": "2026-11-06T08:00:00Z",
+      "status": "合作已宣布，测试工作按授权范围进行。",
+      "interest": []
+    },
+    {
+      "id": "c9ae95626fb6f4ef",
+      "section": "news",
+      "category": "模型动态",
+      "title": "Google 推出 Gemini Omni 1.2 Flash",
+      "titleZh": "Google 推出 Gemini Omni 1.2 Flash",
+      "summary": "Google 宣布推出 Gemini Omni 1.2 Flash，支持更长的视频片段，并改善生成效率及一致性。",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "date": "2026-11-06",
+      "source": "Google DeepMind",
+      "recommended": false,
+      "details": {
+        "overview": "Google 宣布推出 Gemini Omni 1.2 Flash，支持更长的视频片段，并改善生成效率及一致性。",
+        "keyPoints": [
+          "官方公布最长15秒的片段。",
+          "按官方发布逐步推出，具体入口和使用条件见原文。"
+        ]
+      },
+      "publishedAt": "2026-11-05T17:05:16Z",
+      "status": "逐步推出。",
+      "interest": []
+    },
+    {
+      "id": "4e18a0e001d007dd",
+      "section": "news",
+      "category": "模型动态",
+      "title": "NVIDIA 发布四个 Cosmos 3 交互模拟模型",
+      "titleZh": "NVIDIA 发布四个 Cosmos 3 交互模拟模型",
+      "summary": "NVIDIA 发布四个基于 Cosmos 3 Nano 后训练的模型，面向机器人和自动驾驶模拟。",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "date": "2026-11-06",
+      "source": "NVIDIA 官方博客",
+      "recommended": false,
+      "details": {
+        "overview": "NVIDIA 发布四个基于 Cosmos 3 Nano 后训练的模型，面向机器人和自动驾驶模拟。",
+        "keyPoints": [
+          "示例覆盖双臂动作预测、模拟器控制到图像，以及驾驶场景的相机与激光雷达生成。",
+          "权重按 OpenMDW 1.1 条款提供。闭环驾驶模拟还需要模拟运行环境和控制渲染。"
+        ]
+      },
+      "publishedAt": "2026-11-05T19:35:16Z",
+      "status": "已发布研究权重和示例。",
+      "interest": []
+    },
+    {
+      "id": "56c1a7438d90e750",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Open ASR 排行榜加入埃及及尼日利亚口音英语",
+      "titleZh": "Open ASR 排行榜加入埃及及尼日利亚口音英语",
+      "summary": "Hugging Face 与 Liva AI 将两种口音的自然对话加入语音识别评估。",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "date": "2026-11-06",
+      "source": "Hugging Face 官方博客",
+      "recommended": false,
+      "details": {
+        "overview": "Hugging Face 与 Liva AI 将两种口音的自然对话加入语音识别评估。",
+        "keyPoints": [
+          "埃及和尼日利亚英语子集分别约1.34和1.55小时。",
+          "评估用数据保持私有，排行榜新增美国与非美国口音等分组。"
+        ]
+      },
+      "publishedAt": "2026-11-06T00:00:00Z",
+      "status": "已更新评估。",
       "interest": []
     }
   ]

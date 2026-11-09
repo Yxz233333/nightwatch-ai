@@ -1,0 +1,22 @@
+{
+  "id": "4e18a0e001d007dd",
+  "section": "news",
+  "category": "模型动态",
+  "title": "NVIDIA 发布四个 Cosmos 3 交互模拟模型",
+  "titleZh": "NVIDIA 发布四个 Cosmos 3 交互模拟模型",
+  "summary": "NVIDIA 发布四个基于 Cosmos 3 Nano 后训练的模型，面向机器人和自动驾驶模拟。",
+  "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+  "date": "2026-11-06",
+  "source": "NVIDIA 官方博客",
+  "recommended": false,
+  "details": {
+    "overview": "NVIDIA 发布四个基于 Cosmos 3 Nano 后训练的模型，面向机器人和自动驾驶模拟。",
+    "keyPoints": [
+      "示例覆盖双臂动作预测、模拟器控制到图像，以及驾驶场景的相机与激光雷达生成。",
+      "权重按 OpenMDW 1.1 条款提供。闭环驾驶模拟还需要模拟运行环境和控制渲染。"
+    ]
+  },
+  "publishedAt": "2026-11-05T19:35:16Z",
+  "status": "已发布研究权重和示例。",
+  "interest": []
+}

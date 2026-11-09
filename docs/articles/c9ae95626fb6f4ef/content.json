@@ -1,0 +1,22 @@
+{
+  "id": "c9ae95626fb6f4ef",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Google 推出 Gemini Omni 1.2 Flash",
+  "titleZh": "Google 推出 Gemini Omni 1.2 Flash",
+  "summary": "Google 宣布推出 Gemini Omni 1.2 Flash，支持更长的视频片段，并改善生成效率及一致性。",
+  "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+  "date": "2026-11-06",
+  "source": "Google DeepMind",
+  "recommended": false,
+  "details": {
+    "overview": "Google 宣布推出 Gemini Omni 1.2 Flash，支持更长的视频片段，并改善生成效率及一致性。",
+    "keyPoints": [
+      "官方公布最长15秒的片段。",
+      "按官方发布逐步推出，具体入口和使用条件见原文。"
+    ]
+  },
+  "publishedAt": "2026-11-05T17:05:16Z",
+  "status": "逐步推出。",
+  "interest": []
+}
