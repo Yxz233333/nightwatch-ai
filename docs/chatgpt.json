@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-09T00:06:24.930Z",
+  "syncedAt": "2026-11-10T00:04:47.244Z",
   "articles": [
     {
       "id": "d801af45ebed7c9b",
@@ -5081,6 +5081,28 @@
       },
       "publishedAt": "2026-11-04T00:00:00Z",
       "status": "已发布。",
+      "interest": []
+    },
+    {
+      "id": "ef0be22749295cc8",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "ChatGPT Enterprise 上架 AWS Marketplace",
+      "titleZh": "ChatGPT Enterprise 上架 AWS Marketplace",
+      "summary": "组织可通过现有 AWS 采购和账单关系购买与管理 ChatGPT Enterprise。",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "date": "2026-11-10",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "details": {
+        "overview": "组织可通过现有 AWS 采购和账单关系购买与管理 ChatGPT Enterprise。",
+        "keyPoints": [
+          "官方称该渠道提供与直接采购相同的模型及功能，符合条件的支出可计入 AWS 承诺。",
+          "符合条件的客户还可采购医疗及金融服务版本，资格需向账号团队确认。"
+        ]
+      },
+      "publishedAt": "2026-11-09T19:00:00Z",
+      "status": "采购渠道已上线。",
       "interest": []
     }
   ]

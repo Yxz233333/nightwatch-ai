@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-09T00:06:24.930Z",
+  "syncedAt": "2026-11-10T00:04:47.244Z",
   "articles": [
     {
       "id": "e985bef486a031bf",
@@ -43086,6 +43086,30 @@
       },
       "publishedAt": "2026-11-06T00:00:00Z",
       "status": "已更新评估。",
+      "interest": []
+    },
+    {
+      "id": "05b6b4e0bd9be454",
+      "section": "news",
+      "category": "工具动态",
+      "title": "OpenAI 介绍研究推理的集中控制系统 Control Room",
+      "titleZh": "OpenAI 介绍研究推理的集中控制系统 Control Room",
+      "summary": "Control Room 集中跟踪研究推理作业，并可在出现安全问题时暂停或停止作业。",
+      "url": "https://openai.com/index/control-room",
+      "date": "2026-11-09",
+      "source": "OpenAI 官方研究",
+      "recommended": true,
+      "details": {
+        "overview": "Control Room 集中跟踪研究推理作业，并可在出现安全问题时暂停或停止作业。",
+        "keyPoints": [
+          "官方披露当前收到停止指令到作业无法继续推进的最长时间为35秒，与推理授权缓存有关。",
+          "服务不可用时拒绝推理请求的机制已覆盖前沿模型研究作业，其他研究作业仍在逐步覆盖。"
+        ]
+      },
+      "publishedAt": "2026-11-09T13:00:00Z",
+      "status": "内部系统已部署，部分保护仍在扩展。",
+      "recommendedOn": "2026-11-10",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
       "interest": []
     }
   ]
