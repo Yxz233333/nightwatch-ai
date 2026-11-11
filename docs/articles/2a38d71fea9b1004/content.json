@@ -1,0 +1,22 @@
+{
+  "id": "2a38d71fea9b1004",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT 网页端推出 Business Hub",
+  "titleZh": "ChatGPT 网页端推出 Business Hub",
+  "summary": "企业所有者和授权代表可认领企业，并经身份核验后管理企业信息、产品数据及访问分析。",
+  "url": "https://help.openai.com/en/articles/20001635-setting-up-your-business-on-chatgpt",
+  "date": "2026-11-10",
+  "source": "ChatGPT 官方发布说明",
+  "recommended": false,
+  "details": {
+    "overview": "企业所有者和授权代表可认领企业，并经身份核验后管理企业信息、产品数据及访问分析。",
+    "keyPoints": [
+      "在 ChatGPT 网页端侧栏打开 Business Hub。",
+      "通过 Persona 验证且符合条件的美国电商和在线服务企业可创建客服代理，经审阅发布后供顾客使用。"
+    ]
+  },
+  "status": "已公布功能，部分能力有地区及资格要求。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "interest": []
+}

@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-10T00:04:47.244Z",
+  "syncedAt": "2026-11-11T00:02:46.339Z",
   "articles": [
     {
       "id": "d801af45ebed7c9b",
@@ -5103,6 +5103,50 @@
       },
       "publishedAt": "2026-11-09T19:00:00Z",
       "status": "采购渠道已上线。",
+      "interest": []
+    },
+    {
+      "id": "8b489346cfcbafdf",
+      "section": "chatgpt",
+      "category": "功能预告",
+      "title": "ChatGPT 将于12月11日停用旧版语音",
+      "titleZh": "ChatGPT 将于12月11日停用旧版语音",
+      "summary": "OpenAI 计划于2026年12月11日停用 ChatGPT Voice 的 Advanced 和 Standard 语音模式，后续重点改进 GPT-Live。",
+      "url": "https://help.openai.com/en/articles/20001638-retiring-advanced-and-standard-voice-in-chatgpt",
+      "date": "2026-11-10",
+      "source": "ChatGPT 官方发布说明",
+      "recommended": false,
+      "details": {
+        "overview": "OpenAI 计划于2026年12月11日停用 ChatGPT Voice 的 Advanced 和 Standard 语音模式，后续重点改进 GPT-Live。",
+        "keyPoints": [
+          "此条为官方未来计划。",
+          "实时视频及屏幕共享将继续使用 Advanced Voice，直至 GPT-Live 支持这些能力。"
+        ]
+      },
+      "status": "官方计划于12月11日执行。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "interest": []
+    },
+    {
+      "id": "2a38d71fea9b1004",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "ChatGPT 网页端推出 Business Hub",
+      "titleZh": "ChatGPT 网页端推出 Business Hub",
+      "summary": "企业所有者和授权代表可认领企业，并经身份核验后管理企业信息、产品数据及访问分析。",
+      "url": "https://help.openai.com/en/articles/20001635-setting-up-your-business-on-chatgpt",
+      "date": "2026-11-10",
+      "source": "ChatGPT 官方发布说明",
+      "recommended": false,
+      "details": {
+        "overview": "企业所有者和授权代表可认领企业，并经身份核验后管理企业信息、产品数据及访问分析。",
+        "keyPoints": [
+          "在 ChatGPT 网页端侧栏打开 Business Hub。",
+          "通过 Persona 验证且符合条件的美国电商和在线服务企业可创建客服代理，经审阅发布后供顾客使用。"
+        ]
+      },
+      "status": "已公布功能，部分能力有地区及资格要求。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
       "interest": []
     }
   ]

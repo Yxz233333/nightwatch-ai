@@ -1,11 +1,11 @@
 {
   "schemaVersion": 4,
   "title": "夜行 · AI 阅读入口",
-  "syncedAt": "2026-11-10T00:04:47.244Z",
-  "contentUpdatedAt": "2026-11-10T08:04:44+08:00",
+  "syncedAt": "2026-11-11T00:02:46.339Z",
+  "contentUpdatedAt": "2026-11-11T08:02:45+08:00",
   "coverage": {
     "requestedFrom": "2025-09-01",
-    "requestedThrough": "2026-11-10",
+    "requestedThrough": "2026-11-11",
     "scope": "已核实官方发布说明、GitHub Releases、官方 RSS 与新闻研究归档；不是全网穷尽清单。",
     "historyAddedBySource": {
       "ChatGPT 官方发布说明": 207,
@@ -66,7 +66,7 @@
       "OpenAI 官方研究": 2
     },
     "excludedNonAINews": 33,
-    "total": 4010,
+    "total": 4014,
     "byMonth": {
       "2026-10": {
         "news": 194,
@@ -143,13 +143,13 @@
         "chatgpt": 9
       }
     },
-    "lastCheckedAt": "2026-11-10T08:04:44+08:00",
+    "lastCheckedAt": "2026-11-11T08:02:45+08:00",
     "dailyCheck": {
-      "checkedAt": "2026-11-10T08:04:44+08:00",
-      "addedArticles": 5,
-      "recommendationsAdded": 1,
+      "checkedAt": "2026-11-11T08:02:45+08:00",
+      "addedArticles": 4,
+      "recommendationsAdded": 0,
       "limitations": [
-        "已核查所收录的OpenAI原文和Codex发布说明，数学索引未变。Learn与微软企业AI源HTTP403。NVIDIA CoRL及Hugging Face日本金融合成数据文章正文未能读取，暂缓收录。其他积压资讯尚未完成核查。"
+        "已核查ChatGPT官方发布说明及Codex版本。数学索引未变。AI资讯、Learn及其他来源仍待完整核查，今日推荐暂无新增。"
       ]
     }
   },
@@ -97659,6 +97659,96 @@
       "status": "内部系统已部署，部分保护仍在扩展。",
       "recommendedOn": "2026-11-10",
       "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "bb06f255b79f1dc6",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.167.1 正式版发布",
+      "titleZh": "Codex CLI 0.167.1 正式版发布",
+      "summary": "Codex 官方发布了 0.167.1 正式版。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.1",
+      "date": "2026-11-11",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "details": {
+        "overview": "Codex 官方发布了 0.167.1 正式版。",
+        "keyPoints": [
+          "归入已发布的功能更新。",
+          "发布页提供与 0.167.0 的对比链接，未列逐项变更。"
+        ]
+      },
+      "publishedAt": "2026-11-10T21:32:01Z",
+      "status": "已发布正式版。",
+      "releaseChannel": "stable",
+      "interest": []
+    },
+    {
+      "id": "792c17866de6bfe4",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.169.0-alpha.9 测试版发布",
+      "titleZh": "Codex CLI 0.169.0-alpha.9 测试版发布",
+      "summary": "Codex 官方发布了 0.169.0-alpha.9 测试版。",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.9",
+      "date": "2026-11-11",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "details": {
+        "overview": "Codex 官方发布了 0.169.0-alpha.9 测试版。",
+        "keyPoints": [
+          "归入已发布的功能更新。",
+          "发布正文仅列版本号，未提供详细说明。"
+        ]
+      },
+      "publishedAt": "2026-11-10T22:09:09Z",
+      "status": "已发布测试版。",
+      "releaseChannel": "prerelease",
+      "interest": []
+    },
+    {
+      "id": "8b489346cfcbafdf",
+      "section": "chatgpt",
+      "category": "功能预告",
+      "title": "ChatGPT 将于12月11日停用旧版语音",
+      "titleZh": "ChatGPT 将于12月11日停用旧版语音",
+      "summary": "OpenAI 计划于2026年12月11日停用 ChatGPT Voice 的 Advanced 和 Standard 语音模式，后续重点改进 GPT-Live。",
+      "url": "https://help.openai.com/en/articles/20001638-retiring-advanced-and-standard-voice-in-chatgpt",
+      "date": "2026-11-10",
+      "source": "ChatGPT 官方发布说明",
+      "recommended": false,
+      "details": {
+        "overview": "OpenAI 计划于2026年12月11日停用 ChatGPT Voice 的 Advanced 和 Standard 语音模式，后续重点改进 GPT-Live。",
+        "keyPoints": [
+          "此条为官方未来计划。",
+          "实时视频及屏幕共享将继续使用 Advanced Voice，直至 GPT-Live 支持这些能力。"
+        ]
+      },
+      "status": "官方计划于12月11日执行。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "interest": []
+    },
+    {
+      "id": "2a38d71fea9b1004",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "ChatGPT 网页端推出 Business Hub",
+      "titleZh": "ChatGPT 网页端推出 Business Hub",
+      "summary": "企业所有者和授权代表可认领企业，并经身份核验后管理企业信息、产品数据及访问分析。",
+      "url": "https://help.openai.com/en/articles/20001635-setting-up-your-business-on-chatgpt",
+      "date": "2026-11-10",
+      "source": "ChatGPT 官方发布说明",
+      "recommended": false,
+      "details": {
+        "overview": "企业所有者和授权代表可认领企业，并经身份核验后管理企业信息、产品数据及访问分析。",
+        "keyPoints": [
+          "在 ChatGPT 网页端侧栏打开 Business Hub。",
+          "通过 Persona 验证且符合条件的美国电商和在线服务企业可创建客服代理，经审阅发布后供顾客使用。"
+        ]
+      },
+      "status": "已公布功能，部分能力有地区及资格要求。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
       "interest": []
     }
   ]

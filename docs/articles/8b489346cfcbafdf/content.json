@@ -1,0 +1,22 @@
+{
+  "id": "8b489346cfcbafdf",
+  "section": "chatgpt",
+  "category": "功能预告",
+  "title": "ChatGPT 将于12月11日停用旧版语音",
+  "titleZh": "ChatGPT 将于12月11日停用旧版语音",
+  "summary": "OpenAI 计划于2026年12月11日停用 ChatGPT Voice 的 Advanced 和 Standard 语音模式，后续重点改进 GPT-Live。",
+  "url": "https://help.openai.com/en/articles/20001638-retiring-advanced-and-standard-voice-in-chatgpt",
+  "date": "2026-11-10",
+  "source": "ChatGPT 官方发布说明",
+  "recommended": false,
+  "details": {
+    "overview": "OpenAI 计划于2026年12月11日停用 ChatGPT Voice 的 Advanced 和 Standard 语音模式，后续重点改进 GPT-Live。",
+    "keyPoints": [
+      "此条为官方未来计划。",
+      "实时视频及屏幕共享将继续使用 Advanced Voice，直至 GPT-Live 支持这些能力。"
+    ]
+  },
+  "status": "官方计划于12月11日执行。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "interest": []
+}
