@@ -1,0 +1,25 @@
+{
+  "id": "ccc90e3ae52cbeee",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Community safety report and new protections for teens",
+  "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+  "date": "2026-10-30",
+  "publishedAt": "2026-10-30T09:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "titleEn": "Community safety report and new protections for teens",
+  "titleZh": "社区安全报告与面向青少年的新保护措施",
+  "summary": "OpenAI发布博客，宣布将推出《社区安全报告》，并加强对ChatGPT中暴力相关内容的限制。",
+  "details": {
+    "overview": "OpenAI发布博客，宣布将推出《社区安全报告》，并加强对ChatGPT中暴力相关内容的限制。作者称2026年第三季度向执法机构转介超过200起案件，并称将收紧对过往大规模袭击细节的回应，对疑似未满18岁用户施加更严格限制，还可在对话显示暴力执念时自动结束聊天。首份报告计划2027年初发布，覆盖2026年下半年，此后每半年更新。相关措施将在未来数周开始推出。",
+    "keyPoints": [
+      "作者称2026年第三季度向执法机构转介超过200起案件，并称转介有助于阻断暴力图谋。",
+      "将限制对过往大规模袭击武器、获取方式及危害规模比较等细节的回应，适用于所有用户。",
+      "对疑似未满18岁用户进一步限制武器与安防系统实用信息，并计划在因反复讨论暴力而暂停账号时通知家长。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

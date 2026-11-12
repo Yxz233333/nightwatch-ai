@@ -1,0 +1,25 @@
+{
+  "id": "eecc020295df611a",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Franklin Templeton uses OpenAI to support investment research",
+  "url": "https://openai.com/index/franklin-templeton",
+  "date": "2026-11-05",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+  "titleEn": "Franklin Templeton uses OpenAI to support investment research",
+  "titleZh": "富兰克林邓普顿利用OpenAI支持投资研究",
+  "summary": "OpenAI官方发布案例称，资产管理公司富兰克林邓普顿正以股票研究为起点，借助Codex等工具开发AI工作流，帮助投资组合经理比较不同研究观点并审视投资想法背后的风险。",
+  "details": {
+    "overview": "OpenAI官方发布案例称，资产管理公司富兰克林邓普顿正以股票研究为起点，借助Codex等工具开发AI工作流，帮助投资组合经理比较不同研究观点并审视投资想法背后的风险。该公司此前把数据接入模型效果不佳，加入智能体与语义层后构建起“互联智能层”，把研究、风险、合规、交易等视角汇入决策流程。发布方强调其AI系统刻意避免偏好收窄，转而呈现多元研究与风险提示，并配合安全审查与数据管控推进落地。",
+    "keyPoints": [
+      "富兰克林邓普顿以股票研究为起点，用Codex等工具开发投资研究工作流。",
+      "该公司称加入智能体与语义层后，才让模型理解数据之间的关联。",
+      "其AI设计强调呈现多元研究观点与投资风险，而非收窄用户偏好。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "f314c68c0022b942",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+  "url": "https://openai.com/index/credit-saison",
+  "date": "2026-10-29",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+  "titleEn": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+  "titleZh": "Credit Saison 在 ChatGPT Enterprise 试点中实现 954% ROI",
+  "summary": "OpenAI 官方发布案例称，日本金融企业 Credit Saison 于 2025 年 6 月底至 8 月初开展 ChatGPT Enterprise 试点，315 名参与者约占其日本约 3700 名员工的近 10%。",
+  "details": {
+    "overview": "OpenAI 官方发布案例称，日本金融企业 Credit Saison 于 2025 年 6 月底至 8 月初开展 ChatGPT Enterprise 试点，315 名参与者约占其日本约 3700 名员工的近 10%。发布方称试点实现 954% 投资回报率，每人每月节省 14 小时，超过原定 500% ROI 与每月 7.5 小时的目标；试点结束一个月后公司决定全员推广。案例还介绍了用自定义 GPT 做股东会模拟、销售复盘与客户研究等用法。上述成效均为发布方自述，未提供独立验证。",
+    "keyPoints": [
+      "试点覆盖 315 人、历时一个多月，发布方称 ROI 达 954%，人均每月省 14 小时。",
+      "试点后调查称 75% 管理者与 70% 非管理者表示离不开 ChatGPT Enterprise。",
+      "公司称工程团队使用 Codex 平均每月节省 850 小时，并计划推进 AI 呼叫中心。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

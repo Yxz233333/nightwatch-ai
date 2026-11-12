@@ -1,0 +1,25 @@
+{
+  "id": "adb00a08774cdce3",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Kuken Industries searches 70 years of drawings in minutes",
+  "url": "https://openai.com/index/kuken",
+  "date": "2026-11-09",
+  "publishedAt": "2026-11-09T08:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "titleEn": "Kuken Industries searches 70 years of drawings in minutes",
+  "titleZh": "Kuken Industries 借助 AI 在几分钟内检索 70 年图纸档案",
+  "summary": "OpenAI 官方发布的企业案例显示，日本冷却塔制造商 Kuken Industries 与日本 AI 初创公司 Recursive 合作，基于 OpenAI API 构建图纸检索系统及现场应用。",
+  "details": {
+    "overview": "OpenAI 官方发布的企业案例显示，日本冷却塔制造商 Kuken Industries 与日本 AI 初创公司 Recursive 合作，基于 OpenAI API 构建图纸检索系统及现场应用。工程师可输入图纸或零件编号，也可上传图纸或零件清单的图片、PDF，系统读取编号并返回可能匹配的图纸。Kuken 自述，查找一张图纸的时间从近一小时降至 4.5 分钟，并预计每年检索图纸的工时减少约 90%。该案例还提到，Kuken 正开发图纸审核工具，原型测试中 AI 标记的问题约 90% 为真实差异。",
+    "keyPoints": [
+      "工程师可输入编号或上传图纸、零件清单截图，由应用读取编号并返回匹配结果。",
+      "Kuken 自述查找图纸从近一小时降至 4.5 分钟，预计年检索工时减少约 90%。",
+      "Kuken 正开发图纸审核工具，原型测试中约 90% 的 AI 标记为真实差异。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

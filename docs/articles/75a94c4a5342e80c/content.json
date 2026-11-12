@@ -1,0 +1,23 @@
+{
+  "id": "75a94c4a5342e80c",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.167.2 正式版发布",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.2",
+  "date": "2026-11-12",
+  "publishedAt": "2026-11-11T22:44:46+00:00",
+  "source": "Codex GitHub Releases",
+  "recommended": false,
+  "titleZh": "Codex CLI 0.167.2 正式版发布",
+  "summary": "Codex CLI 0.167.2 正式发布，在 Google Cloud Vertex AI 上默认增量发送工具更新。",
+  "details": {
+    "overview": "Codex CLI 0.167.2 正式发布，在 Google Cloud Vertex AI 上默认增量发送工具更新。",
+    "keyPoints": [
+      "发布说明列出的新功能是 Vertex AI 工具更新的默认增量传送。",
+      "官方提供配置方式：在 config.toml 的 [features] 下设置 incremental_tools_legacy_gcp = false 可退出该行为。"
+    ]
+  },
+  "releaseChannel": "stable",
+  "status": "已发布正式版。",
+  "interest": []
+}

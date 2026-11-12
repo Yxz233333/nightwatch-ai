@@ -1,0 +1,25 @@
+{
+  "id": "3faeb10df9671448",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Fair use benefits everyone",
+  "url": "https://openai.com/index/fair-use-benefits-everyone",
+  "date": "2026-10-30",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+  "titleEn": "Fair use benefits everyone",
+  "titleZh": "合理使用惠及所有人",
+  "summary": "OpenAI发布文章，主张用受版权保护的作品训练AI模型属于合理使用，并汇编了作者、记者、学者、图书馆专家、经济学家、前国会议员等多方提交法院的意见书摘录。",
+  "details": {
+    "overview": "OpenAI发布文章，主张用受版权保护的作品训练AI模型属于合理使用，并汇编了作者、记者、学者、图书馆专家、经济学家、前国会议员等多方提交法院的意见书摘录。文中称AI训练目的与原作品不同、不提供替代性访问、不构成可诉市场损害，并反驳“市场稀释”理论。文章属发布方立场陈述，所引案例成效为自述，未提供独立验证。",
+    "keyPoints": [
+      "OpenAI称AI训练是转化性使用，不替代原作品市场，应属合理使用。",
+      "多方意见书反驳“市场稀释”理论，认为体裁与事实不受版权保护。",
+      "文章称限制合理使用将影响科研、教育、无障碍与独立创作者。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

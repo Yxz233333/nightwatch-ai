@@ -1,0 +1,25 @@
+{
+  "id": "827f91146947202c",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+  "url": "https://huggingface.co/blog/token-pooling",
+  "date": "2026-11-11",
+  "source": "Hugging Face 官方及社区博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+  "titleZh": "面向多向量嵌入模型的Token池化感知训练",
+  "summary": "作者介绍多向量检索的池化感知训练，让编码器同时学习原始表示和压缩表示。",
+  "details": {
+    "overview": "作者介绍多向量检索的池化感知训练，让编码器同时学习原始表示和压缩表示。在相同池化配置与存储预算下，普通训练和池化感知训练模型的检索效果被分别比较，并非同一模型的一次推理前后变化。",
+    "keyPoints": [
+      "示例联合优化未池化表示与压缩至约四分之一表示的检索损失，二者各占一半权重。",
+      "作者报告 pool_factor=4 时，普通训练与池化感知训练的 nDCG@10 分别为49.03与51.23，得分保留率分别为94.6%与97.8%。",
+      "作者提供可替换池化器与损失权重的示例；结果限于文中模型、数据集和配置。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+  "interest": []
+}

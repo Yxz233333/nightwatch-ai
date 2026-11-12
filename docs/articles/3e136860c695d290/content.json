@@ -1,0 +1,25 @@
+{
+  "id": "3e136860c695d290",
+  "section": "news",
+  "category": "工具动态",
+  "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+  "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+  "date": "2026-11-09",
+  "publishedAt": "2026-11-09T05:00:04+00:00",
+  "source": "NVIDIA 官方博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+  "titleZh": "从芯片到技能：NVIDIA 与韩国扩大主权 AI 合作",
+  "summary": "NVIDIA 与韩国科学技术信息通信部（MSIT）宣布扩大在韩国主权 AI 生态上的合作，覆盖 AI 半导体、数据中心基础设施、人才、初创企业、模型、智能体与安全。",
+  "details": {
+    "overview": "NVIDIA 与韩国科学技术信息通信部（MSIT）宣布扩大在韩国主权 AI 生态上的合作，覆盖 AI 半导体、数据中心基础设施、人才、初创企业、模型、智能体与安全。稿件称，合作将为韩国 NPU 与 XPU 企业探索参与 NVIDIA NVLink Fusion 生态铺路，并包含 NVIDIA 培训认证、黑客松与技术研讨会以提升 GPU 使用能力；同时通过韩国“AI for All”计划与三家入选联合体及四家韩国基础模型开发商合作，用 NVIDIA Dynamo 软件优化和扩展 AI 推理。NVIDIA 还宣布在 MSIT 支持下与 SK Telecom、Rebellions 合作推进面向韩国模型与工作负载的主权 AI 基础设施。",
+    "keyPoints": [
+      "合作覆盖 AI 半导体、数据中心、人才、初创、模型、智能体与安全等多个层面。",
+      "韩国 NPU 与 XPU 企业将探索参与 NVIDIA NVLink Fusion 生态。",
+      "通过培训认证、黑客松与研讨会提升 GPU 使用能力，并用 Dynamo 优化推理。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

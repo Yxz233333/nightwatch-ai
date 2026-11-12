@@ -1,0 +1,26 @@
+{
+  "id": "826660a637d33e36",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Work at the Frontier: AI’s effect on freelance work",
+  "url": "https://openai.com/index/ai-effect-on-freelance-work",
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T07:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "titleEn": "Work at the Frontier: AI’s effect on freelance work",
+  "titleZh": "前沿工作：AI对自由职业工作的影响",
+  "summary": "OpenAI与Upwork合作研究AI对自由职业市场的影响，比较ChatGPT使用数据与Upwork招聘需求。",
+  "details": {
+    "overview": "OpenAI与Upwork合作研究AI对自由职业市场的影响，比较ChatGPT使用数据与Upwork招聘需求。研究发现，在63个工作类别中，有43个在ChatGPT中较常见的活动在Upwork上的份额下降，但这一模式并不统一；AI相关项目涉及更多样化的任务组合，固定价格预算更大、工时更多。作者认为，AI可能同时改变客户雇佣自由职业者的内容与项目组织方式，而非简单的替代关系。",
+    "keyPoints": [
+      "63个工作类别中43个呈现ChatGPT常用活动在Upwork份额下降的模式",
+      "2023年初至2025年底，AI相关岗位任务组合多样性提高约45%",
+      "AI相关项目时薪相近，但固定价格预算更大、工时更多",
+      "这是描述性相关比较，ChatGPT 使用程度不能单独解释招聘需求变化。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

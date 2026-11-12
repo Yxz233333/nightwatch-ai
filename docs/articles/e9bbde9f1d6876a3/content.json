@@ -1,0 +1,25 @@
+{
+  "id": "e9bbde9f1d6876a3",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Decision Models in Hugging Face",
+  "url": "https://huggingface.co/blog/decision",
+  "date": "2026-11-10",
+  "source": "Hugging Face 官方及社区博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "Decision Models in Hugging Face",
+  "titleZh": "Hugging Face 中的决策模型",
+  "summary": "Hugging Face 博文介绍“决策模型”这一新接口：输入状态与若干带类型的问题，模型不生成文本，而是直接对预设选项打分并返回概率分布。",
+  "details": {
+    "overview": "Hugging Face 博文介绍“决策模型”这一新接口：输入状态与若干带类型的问题，模型不生成文本，而是直接对预设选项打分并返回概率分布。文章以客服工单分流为例，演示 choice、score、noul 三种原语，并说明 Transformers 新增 DecisionPipeline、AutoModelForDecision 与 /v1/systemone 端点，llama.cpp 也支持同一接口，Hub 提供专用标签，可用 Trainer 微调。作者强调其价值在于把决策与概率作为一等输出，而非发明分类本身。",
+    "keyPoints": [
+      "决策模型接收状态与问题，返回带类型的决策及概率，不逐词生成文本。",
+      "提供 choice、score、noul 三种原语，分别对应选项分布、有序评分与是/否概率。",
+      "Transformers 与 llama.cpp 均支持 /v1/systemone 接口，Hub 设专用标签便于发现模型。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+  "interest": []
+}

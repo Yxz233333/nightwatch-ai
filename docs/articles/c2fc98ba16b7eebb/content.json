@@ -1,0 +1,25 @@
+{
+  "id": "c2fc98ba16b7eebb",
+  "section": "news",
+  "category": "工具动态",
+  "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+  "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+  "date": "2026-11-11",
+  "publishedAt": "2026-11-10T16:00:03+00:00",
+  "source": "NVIDIA 官方博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+  "titleZh": "NVIDIA扩展开源承诺：捐赠OpenShell并推出新AI基础设施",
+  "summary": "在KubeCon + CloudNativeCon上，NVIDIA宣布将用于保障和治理自主智能体的开源运行时OpenShell捐赠给云原生计算基金会（CNCF），作为沙箱项目接受社区治理；同时参与Google主导的Agent Substrate框架，并发布DSX AI Factory平台新组件NVIDIA Kubernetes Engine、Kubernetes Recipes和Snapshot。",
+  "details": {
+    "overview": "在KubeCon + CloudNativeCon上，NVIDIA宣布将用于保障和治理自主智能体的开源运行时OpenShell捐赠给云原生计算基金会（CNCF），作为沙箱项目接受社区治理；同时参与Google主导的Agent Substrate框架，并发布DSX AI Factory平台新组件NVIDIA Kubernetes Engine、Kubernetes Recipes和Snapshot。原文称这些工具帮助团队在Kubernetes上部署、管理和扩展GPU基础设施，并给出设计伙伴对Snapshot的测试数据，但厂商测试不等于独立验证。",
+    "keyPoints": [
+      "OpenShell作为CNCF沙箱项目捐赠，为自主智能体提供确定性控制与策略执行。",
+      "NVIDIA参与Google主导的Agent Substrate，并与Dynamo、KAI Scheduler集成。",
+      "NVKE与NVKR进入公开预览，Snapshot称可在数秒内恢复检查点副本。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "d648556b7e07e26c",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Helping caregivers use AI in everyday life",
+  "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T12:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "titleEn": "Helping caregivers use AI in everyday life",
+  "titleZh": "帮助照护者在日常生活中使用AI",
+  "summary": "OpenAI于2026年11月10日宣布，OpenAI Academy与Caregiver Action Network、阿尔茨海默病协会及美国糖尿病协会合作，在全美家庭照护者月期间于奥克兰、坦帕、匹兹堡、亚特兰大、底特律五城举办免费的线下ChatGPT工作坊。",
+  "details": {
+    "overview": "OpenAI于2026年11月10日宣布，OpenAI Academy与Caregiver Action Network、阿尔茨海默病协会及美国糖尿病协会合作，在全美家庭照护者月期间于奥克兰、坦帕、匹兹堡、亚特兰大、底特律五城举办免费的线下ChatGPT工作坊。发布方称，参与者将学习用ChatGPT整理照护日程与清单、把可信教育资源改写为通俗材料、查找社区资源及准备支持小组讨论提纲，并了解保护个人信息、认识工具局限以及何时咨询医疗专业人员。OpenAI还引用一项隐私保护用量估算称，美国每周有逾4000万条与医疗健康相关的ChatGPT消息是在为他人询问健康问题。",
+    "keyPoints": [
+      "OpenAI Academy与三家照护及健康组织合作，在五座美国城市举办免费线下工作坊。",
+      "工作坊教授用ChatGPT整理日程清单、改写教育资源、查找社区资源等日常照护任务。",
+      "课程强调保护个人信息、认识AI局限，并明确AI不替代医疗、法律或财务建议。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

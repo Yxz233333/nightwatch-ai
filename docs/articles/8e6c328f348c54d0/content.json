@@ -1,0 +1,25 @@
+{
+  "id": "8e6c328f348c54d0",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Cult.fit builds operational muscle with Codex",
+  "url": "https://openai.com/index/cultfit-builds-with-codex",
+  "date": "2026-11-06",
+  "publishedAt": "2026-11-05T20:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "titleEn": "Cult.fit builds operational muscle with Codex",
+  "titleZh": "Cult.fit 借助 Codex 提升运营能力",
+  "summary": "OpenAI 官方发布案例称，印度健身企业 Cult.fit 将 Codex 作为统一开发平台，并把使用范围从工程团队扩展到人力资源等非技术团队，用于数据分析、内部工具搭建和流程自动化。",
+  "details": {
+    "overview": "OpenAI 官方发布案例称，印度健身企业 Cult.fit 将 Codex 作为统一开发平台，并把使用范围从工程团队扩展到人力资源等非技术团队，用于数据分析、内部工具搭建和流程自动化。发布方自述的成效包括：非工程团队近期构建 20 多个内部应用、重建内部看板能力每年节省逾 10 万美元软件费用、客服成本下降 50% 以上；同时通过 OpenAI API 升级语音优先的 AI Trainer。上述数字均为发布方自述，未经独立验证。",
+    "keyPoints": [
+      "Cult.fit 以 Codex 统一开发规范，并延伸至 SRE、安全等工程工作流",
+      "非工程团队用 Codex 自建 20 多个内部应用，HR 绩效流程也在其中",
+      "发布方自述重建内部看板每年省逾 10 万美元，客服成本降 50% 以上"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

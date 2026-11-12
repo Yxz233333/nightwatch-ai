@@ -1,0 +1,25 @@
+{
+  "id": "fe3c510239c713ce",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+  "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+  "date": "2026-11-09",
+  "publishedAt": "2026-11-09T05:00:39+00:00",
+  "source": "NVIDIA 官方博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+  "titleZh": "韩国AI生态推进并借助NVIDIA保障智能体AI安全",
+  "summary": "该报道介绍韩国AI生态与NVIDIA在智能体AI安全与开放模型方面的合作。",
+  "details": {
+    "overview": "该报道介绍韩国AI生态与NVIDIA在智能体AI安全与开放模型方面的合作。现代汽车集团探索NVIDIA NemoClaw蓝图与OpenShell运行时；韩国AI安全公司AIM Intelligence将Starfort智能体控制平台与OpenShell集成，结合运行时访问控制与恶意指令、数据泄露检测，并考虑在公共能源领域开展初步概念验证。模型方面，LG AI Research开放K-EXAONE-2.5的API，该模型开发使用 Nemotron 数据集，包括含700万合成人物画像的 Nemotron-Personas-Korea。报道称这些举措旨在为自主智能体提供沙箱执行与策略管控。",
+    "keyPoints": [
+      "现代汽车集团探索NVIDIA NemoClaw蓝图与OpenShell运行时，用于企业智能体。",
+      "AIM Intelligence将Starfort与OpenShell集成，结合访问控制与恶意指令检测。",
+      "LG AI Research开放K-EXAONE-2.5的API，开发使用包括Nemotron韩国人物画像在内的数据集。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

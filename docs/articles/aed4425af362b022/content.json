@@ -1,0 +1,25 @@
+{
+  "id": "aed4425af362b022",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+  "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+  "date": "2026-10-30",
+  "publishedAt": "2026-10-30T15:00:10+00:00",
+  "source": "NVIDIA 官方博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+  "titleZh": "夜间鸣响之物：智能体AI加入地外信号搜寻",
+  "summary": "文章介绍Breakthrough Listen与SETI研究所在北加州艾伦望远镜阵列把智能体AI引入日常搜寻：研究人员用自然语言即可让智能体操控天线、校准聚焦、修正数据错误并绘制结果。",
+  "details": {
+    "overview": "文章介绍Breakthrough Listen与SETI研究所在北加州艾伦望远镜阵列把智能体AI引入日常搜寻：研究人员用自然语言即可让智能体操控天线、校准聚焦、修正数据错误并绘制结果。NVIDIA Holoscan平台把每秒数太比特的传感器数据直接送入GPU内存实时处理，Nexus作为智能体编排层统一仪器状态与计算资源。团队称该系统已在蟹状星云实现脉冲星实时AI探测，并正评估Nemotron等开放模型以备未来离线观测。",
+    "keyPoints": [
+      "智能体可用自然语言指令操控望远镜、校准仪器并修正数据错误",
+      "Holoscan将每秒数太比特数据直接送入GPU内存，实现观测中实时处理",
+      "团队称已实现蟹状星云脉冲星的首次实时AI探测"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

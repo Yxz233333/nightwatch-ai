@@ -1,0 +1,25 @@
+{
+  "id": "ac62d76fc3f800c7",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Palette: teaching a small model to build decks in your design language",
+  "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+  "date": "2026-11-04",
+  "publishedAt": "2026-11-03T16:35:36+00:00",
+  "source": "Hugging Face 官方及社区博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "Palette: teaching a small model to build decks in your design language",
+  "titleZh": "Palette：教小模型按你的设计语言制作演示文稿",
+  "summary": "IBM Research 团队发布 Palette，尝试让可自托管的小型开放权重模型按企业自有设计语言生成幻灯片。",
+  "details": {
+    "overview": "IBM Research 团队发布 Palette，尝试让可自托管的小型开放权重模型按企业自有设计语言生成幻灯片。稿件称，他们用合成数据对 20B 模型做 LoRA 微调，把任务拆成“设计师”写结构化 JSON 简报和“编码器”逐页生成 pptxgenjs 代码两个角色，并在输出前用检查与修复框架拦截重叠、溢出等问题。作者声称该模型在 PresentBench 的经济学和教育两个领域排名第一，三领域均分第二，落后 NotebookLM 1.1 分。",
+    "keyPoints": [
+      "将制稿拆为设计师写 JSON 简报、编码器逐页写代码，编码阶段可并行，稿件称约快 6–7 倍。",
+      "用约 1000 份合成演示、约 1 万页数据训练，每例附反事实推理，并用渲染检查器修复坏页。",
+      "检查修复框架只保留经检查确认改善的改写；稿件称 131 份评测演示平均提升 3.5 分。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

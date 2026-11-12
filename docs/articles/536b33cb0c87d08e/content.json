@@ -1,0 +1,25 @@
+{
+  "id": "536b33cb0c87d08e",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+  "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+  "date": "2026-11-09",
+  "publishedAt": "2026-11-09T12:34:29+00:00",
+  "source": "Hugging Face 官方及社区博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+  "titleZh": "你的专家有搭档：HOPE 让它们保持在一起",
+  "summary": "该文介绍亚马逊团队提出的 HOPE（高阶专家剪枝）方法，用于压缩混合专家（MoE）语言模型。",
+  "details": {
+    "overview": "该文介绍亚马逊团队提出的 HOPE（高阶专家剪枝）方法，用于压缩混合专家（MoE）语言模型。作者指出，MoE 推理时所有专家 MLP 都占内存，但每个 token 只激活少数专家；现有剪枝方法按单个专家独立打分，忽略了专家之间稳定的协作关系。HOPE 用二阶方法在标定集上构建专家两两交互矩阵，求解二次规划选出剪枝集合。作者声称在 50% 剪枝率下平均排名最优，在该剪枝率下，相对次优剪枝方法的智能体编程得分最高增加6.1%。",
+    "keyPoints": [
+      "HOPE 构建专家两两交互的 F 矩阵，用二次规划选剪枝集合，而非独立打分。",
+      "作者称 50% 剪枝时平均排名 1.58，优于次优方法 REAP 的 2.42。",
+      "F 矩阵对角线几乎复现 REAP 排名（Spearman ρ=0.988），增益来自非对角交互项。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "bd69f023436b2e30",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Closing the AI guidance gap in education",
+  "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T09:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "titleEn": "Closing the AI guidance gap in education",
+  "titleZh": "弥合教育领域的AI指导缺口",
+  "summary": "OpenAI于2026年11月10日发布文章，介绍其在欧洲、中东和非洲地区与爱沙尼亚、斯洛伐克、希腊、意大利等国政府及教育系统合作的经验，聚焦教育者支持、AI素养、本地能力和评估。",
+  "details": {
+    "overview": "OpenAI于2026年11月10日发布文章，介绍其在欧洲、中东和非洲地区与爱沙尼亚、斯洛伐克、希腊、意大利等国政府及教育系统合作的经验，聚焦教育者支持、AI素养、本地能力和评估。文章引用ThinkYoung研究称，79%的受访学生表示用AI做作业或完成任务，但仅47%表示被教过如何使用。作者提出清晰教育目标、教育者准备、本地合作、批判性AI素养和可信证据五个主题，并强调教师作用随AI能力提升而更重要。文章自述这些是早期经验而非单一模式。",
+    "keyPoints": [
+      "文章称79%受访学生用AI做作业，仅47%被教过如何使用，凸显指导缺口。",
+      "EMEA合作强调公平获取前沿AI工具、共同设计AI素养项目及持续测量评估。",
+      "作者称教师采用AI和报告节省时间属早期积极信号，仍需持续评估。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

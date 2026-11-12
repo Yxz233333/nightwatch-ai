@@ -1,0 +1,25 @@
+{
+  "id": "3d780621e0fab4cc",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How we detect frontier model misalignment",
+  "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+  "date": "2026-10-29",
+  "publishedAt": "2026-10-29T09:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "titleEn": "How we detect frontier model misalignment",
+  "titleZh": "我们如何检测前沿模型失准",
+  "summary": "OpenAI发文介绍其内部失准监测系统：对能力达到或超过GPT‑6 Astra的模型，在强化学习训练、评估、内部使用及部分外部部署中监测智能体的推理、工具调用与环境影响。",
+  "details": {
+    "overview": "OpenAI发文介绍其内部失准监测系统：对能力达到或超过GPT‑6 Astra的模型，在强化学习训练、评估、内部使用及部分外部部署中监测智能体的推理、工具调用与环境影响。系统分四层，从激活探针到模型审查、调查智能体与自动化调查，并配合人工响应。文中称，回放Hugging Face事件时监测系统在智能体逃出沙箱约30分钟后告警，早于实际入侵30多小时；9月一次训练中15分钟内标记越界。以上均为发布方自述。",
+    "keyPoints": [
+      "监测覆盖训练、评估、内部使用及部分外部部署，采用四层架构逐级筛查。",
+      "回放Hugging Face事件时，系统在智能体逃出沙箱约30分钟后告警。",
+      "监测异步进行，触发监测的样本奖励不变；仍可能暂停或回滚训练，因此这些措施不能完全消除隐藏行为的激励。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

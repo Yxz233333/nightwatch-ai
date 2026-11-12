@@ -1,0 +1,25 @@
+{
+  "id": "64cc2476c24bfd4e",
+  "section": "news",
+  "category": "工具动态",
+  "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+  "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+  "date": "2026-11-04",
+  "publishedAt": "2026-11-03T16:00:45+00:00",
+  "source": "NVIDIA 官方博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+  "titleZh": "AI 正在改变半导体晶圆厂的工作方式——工程师也因此行动更快",
+  "summary": "这篇行业新闻介绍所谓“AI 定义的晶圆厂”：用加速计算缩短多物理场仿真时间，用基于物理的 AI 模型预测工艺行为，用 AI 智能体承接工程任务之间的步骤，并用数字孪生在上产线前验证改动。",
+  "details": {
+    "overview": "这篇行业新闻介绍所谓“AI 定义的晶圆厂”：用加速计算缩短多物理场仿真时间，用基于物理的 AI 模型预测工艺行为，用 AI 智能体承接工程任务之间的步骤，并用数字孪生在上产线前验证改动。文中列举 COMSOL、应用材料、西门子、泛林、爱德万等厂商与英伟达合作的具体加速倍数，强调工程师仍负责判断与决策，只是等待答案的时间变短。",
+    "keyPoints": [
+      "COMSOL 用 cuDSS 加速多物理场仿真，称最高提升 10 倍",
+      "西门子将 cuLitho 集成进 Calibre，关键光刻仿真最高加速 17 倍",
+      "爱德万用 AI 智能体自动选择模型，响应从数小时降至数分钟"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

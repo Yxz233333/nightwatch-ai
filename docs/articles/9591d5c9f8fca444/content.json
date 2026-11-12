@@ -1,0 +1,25 @@
+{
+  "id": "9591d5c9f8fca444",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context ",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+  "date": "2026-11-09",
+  "publishedAt": "2026-11-09T15:05:57+00:00",
+  "source": "Hugging Face 官方及社区博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context ",
+  "titleZh": "Nemotron-Personas-Finance-Japan：捕捉日本人口结构与金融情境的合成数据集",
+  "summary": "该文介绍 Elith 与 NVIDIA 发布的 Nemotron-Personas-Finance-Japan，这是开源人物画像数据集 Nemotron-Personas-Japan 的金融领域扩展。",
+  "details": {
+    "overview": "该文介绍 Elith 与 NVIDIA 发布的 Nemotron-Personas-Finance-Japan，这是开源人物画像数据集 Nemotron-Personas-Japan 的金融领域扩展。作者称其为首个百万记录规模、将日本官方统计与家庭金融及金融素养数据配对的开源人物画像数据集。数据基于政府官方统计，用 NeMo SDG-PGMs 与 NeMo Data Designer 生成，并参考日本多家金融机构和行业协会的反馈设计。数据集含 900 万人物画像、每条 50 个字段，以 CC BY 4.0 许可发布，可用于商业用途，面向对话代理、客户模拟与模型评估等金融 AI 开发场景。",
+    "keyPoints": [
+      "作者称这是首个百万记录级、结合日本官方统计与家庭金融数据的开源人物画像数据集。",
+      "数据集含 900 万人物画像，每条 50 个字段，以自然日语书写，采用 CC BY 4.0 许可。",
+      "生成使用 NeMo SDG-PGMs 与 NeMo Data Designer，并参考日本金融机构与行业协会反馈。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

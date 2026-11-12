@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-11T00:02:46.339Z",
+  "syncedAt": "2026-11-12T00:15:55.581Z",
   "articles": [
     {
       "id": "e985bef486a031bf",
@@ -43110,6 +43110,1981 @@
       "status": "内部系统已部署，部分保护仍在扩展。",
       "recommendedOn": "2026-11-10",
       "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "9989774913168f52",
+      "section": "news",
+      "category": "工具动态",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T15:00:15+00:00",
+      "source": "Google DeepMind 官方博客",
+      "recommended": true,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "recommendedOn": "2026-11-12",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "titleZh": "AlphaGenome 2：解读细胞如何读取DNA，以更好地理解疾病",
+      "summary": "DeepMind 发布 AlphaGenome 2 条件式 DNA 序列模型，针对指定组织、细胞类型或状态预测基因调控读出。",
+      "details": {
+        "overview": "DeepMind 发布 AlphaGenome 2 条件式 DNA 序列模型，针对指定组织、细胞类型或状态预测基因调控读出。模型训练使用超过1.07亿份单细胞数据记录等资料，帮助研究基因变异在不同细胞中的作用；不是临床诊断工具。",
+        "keyPoints": [
+          "以百万碱基 DNA 序列和生物学条件作为输入，可结合单细胞测量预测基因表达、染色质可及性等。",
+          "在 TenK10K 免疫细胞测试中，官方报告因果变异识别为30%对16%、方向性基因效应为43%对23%；比较对象包括原 AlphaGenome 单细胞微调版及专用工具。",
+          "非商业研究可使用 API，商业研究为私有预览；尚未获得临床或诊断用途的验证或批准。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "3750232251e6cd5f",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-10T16:03:47+00:00",
+      "source": "Google DeepMind 官方博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "Gemini 4 Carbon is now available",
+      "titleZh": "Gemini 4 Carbon 现已开放使用",
+      "summary": "Google 宣布开放 Gemini 4 Carbon。",
+      "details": {
+        "overview": "Google 宣布开放 Gemini 4 Carbon。付费开发者和企业可通过 Google AI Studio 与相关企业服务的 API 使用；消费者端向 Google AI Ultra 订阅者逐步推出。官方强调复杂长程任务、安全和科学推理，并称 Argon 仍适合多数软件工程与知识工作。",
+        "keyPoints": [
+          "Antigravity 的 /swarm 处于预览，可协调多智能体工作。",
+          "介绍期 API 价格为每百万输入2美元、输出10美元；原文说明介绍期于2026年11月30日结束，之后分别为4美元和20美元。",
+          "文中列出的基准和案例有各自测试条件，不能推断所有任务均排名第一或所有用户均已可用。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "0987516d87704d4d",
+      "section": "news",
+      "category": "工具动态",
+      "title": "AlphaProof Code：用多模型智能体验证 Signal 核心加密代码",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T12:02:28+00:00",
+      "source": "Google DeepMind 官方博客",
+      "recommended": false,
+      "status": "官方公布研究及形式化验证材料；结论受所指定安全属性和模型前提约束，不表示所有实现与使用场景绝对安全。",
+      "titleEn": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "titleZh": "AlphaProof Code：用多模型智能体验证 Signal 核心加密代码",
+      "summary": "Google DeepMind 发布 AlphaProof Code，一个由多个大模型智能体组成的框架，用于对真实代码做形式化验证。",
+      "details": {
+        "overview": "Google DeepMind 发布 AlphaProof Code，一个由多个大模型智能体组成的框架，用于对真实代码做形式化验证。作者称，团队与 AI 协作把 Signal 加密协议的安全目标写成数学规范，由 Gemini Carbon 驱动的智能体生成超六百万行 Lean 证明，并证明编译后的代码满足关键安全属性；还向隔离版本重新植入两个已修复的真实缺陷，系统均给出机器可检验的不安全证明。该工作声称首次用 AI 对广泛部署的加密协议实现做如此深度的形式化验证，耗时约四周。",
+        "keyPoints": [
+          "多 LLM 智能体框架分工：人类定规范，智能体生成并审计 Lean 证明。",
+          "作者称对 Signal 核心加密代码完成形式化验证，耗时约四周。",
+          "向隔离代码重植两个真实缺陷，系统均产出机器可检验的不安全证明。",
+          "验证的是专家指定的安全属性及其形式化前提，不代表 Signal 所有组件或部署场景都不存在漏洞。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "breakthrough": true,
+      "breakthroughField": "形式化验证与软件安全",
+      "interest": []
+    },
+    {
+      "id": "be29aee5488e0429",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-09T19:51:47+00:00",
+      "source": "Google DeepMind 官方博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "titleZh": "Gemini Robotics 2.5 加速真实世界通用灵巧性",
+      "summary": "谷歌发布视觉-语言-动作模型 Gemini Robotics 2.5，称其在技能广度与学习速度上均有提升，可支持 Apptronik Apollo 2 人形机器人和 Franka Duo 等平台。",
+      "details": {
+        "overview": "谷歌发布视觉-语言-动作模型 Gemini Robotics 2.5，称其在技能广度与学习速度上均有提升，可支持 Apptronik Apollo 2 人形机器人和 Franka Duo 等平台。官方称在 200 项任务评测中，成功率较此前基线提高 30% 至 100%，任务完成速度快 20% 至 30%；在梅赛德斯-奔驰工厂的概念验证中，Apollo 2 完成汽车零件分拣，成功率达 96%。模型还增强了实时避障安全引导，并推出 ASIMOV-Jailbreak 基准。上述均为厂商自述，尚待独立验证。",
+        "keyPoints": [
+          "官方称在 200 项任务上成功率较基线提升 30% 至 100%，速度快 20% 至 30%。",
+          "与 Apptronik、奔驰合作的概念验证中，Apollo 2 零件分拣成功率达 96%。",
+          "新增推理时安全引导，官方称障碍物与人员附近安全完成率分别提升 33% 和 43%。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "8076e56b7815f7bf",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-03T17:01:49+00:00",
+      "source": "Google DeepMind 官方博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "Agentic cheminformatics with Google Antigravity",
+      "titleZh": "Google Antigravity 中的智能体化学信息学",
+      "summary": "该文介绍 Google Antigravity 新增的化学信息学技能（Cheminformatics Skills）：由语言模型负责流程编排与科学推理，RDKit 等确定性工具执行分子计算，并连接 ChEMBL、PubChem 数据。",
+      "details": {
+        "overview": "该文介绍 Google Antigravity 新增的化学信息学技能（Cheminformatics Skills）：由语言模型负责流程编排与科学推理，RDKit 等确定性工具执行分子计算，并连接 ChEMBL、PubChem 数据。作者以肺癌药物为例，称智能体在约一小时内检索数千化合物、完成匹配分子对分析与效力建模，并提出刚性化大环设计及合成路线。原文强调这些设计只是可检验假设，仍需实验合成验证，且数据稀疏与测定噪声限制预测精度。",
+        "keyPoints": [
+          "语言模型负责流程编排与推理，RDKit 等确定性工具执行分子计算",
+          "以克唑替尼与劳拉替尼为例，智能体检索化合物并做匹配分子对分析",
+          "作者称约一小时提出刚性化大环设计与合成路线，但须实验验证"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "59dd402fc865f9d1",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Speeding up planning decisions with AI",
+      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T14:18:30+00:00",
+      "source": "Google DeepMind 官方博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "Speeding up planning decisions with AI",
+      "titleZh": "用AI加速规划审批决策",
+      "summary": "谷歌DeepMind与英国政府等合作开发的AI规划工具PlanAssist，用于辅助规划官员处理常规住宅申请。",
+      "details": {
+        "overview": "谷歌DeepMind与英国政府等合作开发的AI规划工具PlanAssist，用于辅助规划官员处理常规住宅申请。摘要称，在Barnet、Camden和Dorset的早期试点中，官员评估每份申请的平均耗时最多减少58%，且超过70%的自动生成报告无需编辑即获批准。工具负责核验材料、比对遗产与规划政策、检查既往异议并起草带引用的报告，最终决定仍由规划官员作出。该工具将扩展至更多英格兰地方规划部门，并进入为期12个月的Beta阶段。",
+        "keyPoints": [
+          "试点显示规划官员评估每份申请的平均时间最多减少58%。",
+          "超过70%的自动生成报告无需编辑即被官员批准。",
+          "工具核验材料、比对政策并起草报告，最终决定仍由官员作出。",
+          "报告无需修改是对草稿的接受，不是AI批准规划申请；扩大到全英格兰仍取决于测试。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "82e211b1b3e6d8e6",
+      "section": "news",
+      "category": "工具动态",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T05:01:16+00:00",
+      "source": "Hugging Face 官方及社区博客",
+      "recommended": true,
+      "status": "模型研究与发布计划；官方原文使用将发布权重的表述，下载状态未在本条另行核验。",
+      "recommendedOn": "2026-11-12",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "titleZh": "BotPsy：搭载十亿参数以下智能体语言模型的端侧个人助理",
+      "summary": "Tether AI Research 发布 BotPsy，一个基于 Qwen3.5-0.8B 后训练的 0.8B 参数模型，面向函数调用与智能体工作流，可在设备端运行。",
+      "details": {
+        "overview": "Tether AI Research 发布 BotPsy，一个基于 Qwen3.5-0.8B 后训练的 0.8B 参数模型，面向函数调用与智能体工作流，可在设备端运行。稿件称其覆盖网页搜索、出行、商务、设备控制、文件、日历与消息等场景，适合低至中等难度任务。作者声称在测试的 ≤1.2B 参数模型中，BotPsy 在六项工具使用与智能体基准中的五项领先，并在五项上超过 2.5 倍规模的 Qwen3.5-2B-Think；同时承认模型仍会出错，不适用于高风险场景。",
+        "keyPoints": [
+          "作者称 BFCL v4 从基座 23.4 升至 44.0，ACEBench 从 30.1 升至 58.7，τ-bench 从 23.2 升至 51.5。",
+          "在受测且参数不超过1.2B的模型中，五项基准领先；与更大的 Qwen3.5-2B-Think 比较时，仅 Claw-Eval 落后。",
+          "采用 SFT、多教师在线蒸馏与两轮强化学习四阶段训练，原文宣布将以 Apache 2.0 发布开放权重；本条未把发布意向当作权重已可下载的核验。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "827f91146947202c",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "date": "2026-11-11",
+      "source": "Hugging Face 官方及社区博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "titleZh": "面向多向量嵌入模型的Token池化感知训练",
+      "summary": "作者介绍多向量检索的池化感知训练，让编码器同时学习原始表示和压缩表示。",
+      "details": {
+        "overview": "作者介绍多向量检索的池化感知训练，让编码器同时学习原始表示和压缩表示。在相同池化配置与存储预算下，普通训练和池化感知训练模型的检索效果被分别比较，并非同一模型的一次推理前后变化。",
+        "keyPoints": [
+          "示例联合优化未池化表示与压缩至约四分之一表示的检索损失，二者各占一半权重。",
+          "作者报告 pool_factor=4 时，普通训练与池化感知训练的 nDCG@10 分别为49.03与51.23，得分保留率分别为94.6%与97.8%。",
+          "作者提供可替换池化器与损失权重的示例；结果限于文中模型、数据集和配置。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+      "interest": []
+    },
+    {
+      "id": "4777d42975f9b03d",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "date": "2026-11-10",
+      "source": "Hugging Face 官方及社区博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "titleZh": "用 Google Cloud 账户支付 Hugging Face Hub 费用",
+      "summary": "Hugging Face 发布博客称，组织管理员现在可通过 Google Cloud Marketplace 订阅 Hugging Face，将组织与 Google Cloud 账户关联，使 Hugging Face 用量计入现有 Google Cloud 账单，而不再走信用卡。",
+      "details": {
+        "overview": "Hugging Face 发布博客称，组织管理员现在可通过 Google Cloud Marketplace 订阅 Hugging Face，将组织与 Google Cloud 账户关联，使 Hugging Face 用量计入现有 Google Cloud 账单，而不再走信用卡。文章说明订阅、关联组织、审批三步流程，并指出订阅需经 Hugging Face 团队审核，已有信用卡的组织在下一计费周期切换，免费层无卡组织通常立即切换。",
+        "keyPoints": [
+          "组织可在 Google Cloud Marketplace 订阅 Hugging Face 并关联账户，用量计入云账单。",
+          "订阅需 Hugging Face 团队审核；已有信用卡组织下一计费周期切换。",
+          "覆盖 Team/Enterprise 订阅、按需算力与额外存储，含额度仍先抵扣。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+      "interest": []
+    },
+    {
+      "id": "e9bbde9f1d6876a3",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Decision Models in Hugging Face",
+      "url": "https://huggingface.co/blog/decision",
+      "date": "2026-11-10",
+      "source": "Hugging Face 官方及社区博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "Decision Models in Hugging Face",
+      "titleZh": "Hugging Face 中的决策模型",
+      "summary": "Hugging Face 博文介绍“决策模型”这一新接口：输入状态与若干带类型的问题，模型不生成文本，而是直接对预设选项打分并返回概率分布。",
+      "details": {
+        "overview": "Hugging Face 博文介绍“决策模型”这一新接口：输入状态与若干带类型的问题，模型不生成文本，而是直接对预设选项打分并返回概率分布。文章以客服工单分流为例，演示 choice、score、noul 三种原语，并说明 Transformers 新增 DecisionPipeline、AutoModelForDecision 与 /v1/systemone 端点，llama.cpp 也支持同一接口，Hub 提供专用标签，可用 Trainer 微调。作者强调其价值在于把决策与概率作为一等输出，而非发明分类本身。",
+        "keyPoints": [
+          "决策模型接收状态与问题，返回带类型的决策及概率，不逐词生成文本。",
+          "提供 choice、score、noul 三种原语，分别对应选项分布、有序评分与是/否概率。",
+          "Transformers 与 llama.cpp 均支持 /v1/systemone 接口，Hub 设专用标签便于发现模型。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+      "interest": []
+    },
+    {
+      "id": "9591d5c9f8fca444",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context ",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T15:05:57+00:00",
+      "source": "Hugging Face 官方及社区博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context ",
+      "titleZh": "Nemotron-Personas-Finance-Japan：捕捉日本人口结构与金融情境的合成数据集",
+      "summary": "该文介绍 Elith 与 NVIDIA 发布的 Nemotron-Personas-Finance-Japan，这是开源人物画像数据集 Nemotron-Personas-Japan 的金融领域扩展。",
+      "details": {
+        "overview": "该文介绍 Elith 与 NVIDIA 发布的 Nemotron-Personas-Finance-Japan，这是开源人物画像数据集 Nemotron-Personas-Japan 的金融领域扩展。作者称其为首个百万记录规模、将日本官方统计与家庭金融及金融素养数据配对的开源人物画像数据集。数据基于政府官方统计，用 NeMo SDG-PGMs 与 NeMo Data Designer 生成，并参考日本多家金融机构和行业协会的反馈设计。数据集含 900 万人物画像、每条 50 个字段，以 CC BY 4.0 许可发布，可用于商业用途，面向对话代理、客户模拟与模型评估等金融 AI 开发场景。",
+        "keyPoints": [
+          "作者称这是首个百万记录级、结合日本官方统计与家庭金融数据的开源人物画像数据集。",
+          "数据集含 900 万人物画像，每条 50 个字段，以自然日语书写，采用 CC BY 4.0 许可。",
+          "生成使用 NeMo SDG-PGMs 与 NeMo Data Designer，并参考日本金融机构与行业协会反馈。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "536b33cb0c87d08e",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T12:34:29+00:00",
+      "source": "Hugging Face 官方及社区博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "titleZh": "你的专家有搭档：HOPE 让它们保持在一起",
+      "summary": "该文介绍亚马逊团队提出的 HOPE（高阶专家剪枝）方法，用于压缩混合专家（MoE）语言模型。",
+      "details": {
+        "overview": "该文介绍亚马逊团队提出的 HOPE（高阶专家剪枝）方法，用于压缩混合专家（MoE）语言模型。作者指出，MoE 推理时所有专家 MLP 都占内存，但每个 token 只激活少数专家；现有剪枝方法按单个专家独立打分，忽略了专家之间稳定的协作关系。HOPE 用二阶方法在标定集上构建专家两两交互矩阵，求解二次规划选出剪枝集合。作者声称在 50% 剪枝率下平均排名最优，在该剪枝率下，相对次优剪枝方法的智能体编程得分最高增加6.1%。",
+        "keyPoints": [
+          "HOPE 构建专家两两交互的 F 矩阵，用二次规划选剪枝集合，而非独立打分。",
+          "作者称 50% 剪枝时平均排名 1.58，优于次优方法 REAP 的 2.42。",
+          "F 矩阵对角线几乎复现 REAP 排名（Spearman ρ=0.988），增益来自非对角交互项。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "444b221f23f3551a",
+      "section": "news",
+      "category": "工具动态",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "date": "2026-11-05",
+      "source": "Hugging Face 官方及社区博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "titleZh": "深入解析 Phonon TTS：推出在基准测试中领先的高质量端侧语音",
+      "summary": "本文介绍 Gradium 团队开源的端侧文本转语音模型 Phonon：无需服务器和网络，文本留在本地设备。",
+      "details": {
+        "overview": "本文介绍 Gradium 团队开源的端侧文本转语音模型 Phonon：无需服务器和网络，文本留在本地设备。模型约 65MB 和 75MB 两档，两档合计覆盖英、法、德、西、葡五种语言，内置 100 多个声音，并支持声音克隆与文本描述生成声音。作者称其基于 Pocket TTS 谱系、采用流匹配生成音频，在 Hugging Face 开放 TTS 排行榜的德语和西班牙语可懂度上排名第一，并在 CPU 流式首音延迟基准中领先。文章还介绍了配套推理框架 ptts 与 Transformers 集成。",
+        "keyPoints": [
+          "Phonon 提供约 65MB 与 75MB 两档模型，其中31m仅英语，40m覆盖英法德西葡五种语言，内置逾百种声音。",
+          "Phonon 31m 以 Apache 2.0 发布可商用，其余模型为 CC BY-NC 非商业许可。",
+          "作者称其在开放 TTS 排行榜德语、西班牙语可懂度居首，CPU 流式首音延迟领先。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+      "interest": []
+    },
+    {
+      "id": "0da468e6e131ec36",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-04T17:50:10+00:00",
+      "source": "Hugging Face 官方及社区博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "titleZh": "Dharma Field Extractor：任意文档输入，JSON 结构化字段输出",
+      "summary": "Dharma-AI 团队发布 Dharma Field Extractor，一个 20 亿参数模型，旨在从不同类型文档中按需抽取字段并输出结构化 JSON。",
+      "details": {
+        "overview": "Dharma-AI 团队发布 Dharma Field Extractor，一个 20 亿参数模型，旨在从不同类型文档中按需抽取字段并输出结构化 JSON。它支持两种请求方式：不提供 schema 时自动识别页面中的结构化字段并以键值对返回；提供 schema 时按指定键名和类型（字符串、数字、布尔）逐字段填充，文档中不存在的字段返回 null。模型基于 DharmaOCR-LITE v1.1，在其上训练 LoRA 适配器，数据覆盖英文多领域、巴西葡语及少量多语种文档。团队称在所用546份文档、1638 个用例的基准上，其复合评测得分（结合字段级F1、字符串相似度与有效JSON比例） 为 0.834，高于所测四个前沿模型配置，并以单张 L40S 自托管运行。上述对比为厂商自测，未经独立验证。",
+        "keyPoints": [
+          "支持开放抽取与 schema 定向两种模式，输出严格遵循指定键名与类型，缺失字段返回 null。",
+          "基于 DharmaOCR-LITE v1.1 训练 LoRA 适配器，使用 43,384 个字段级标注样本，覆盖多领域与多语种。",
+          "团队自测复合评测得分（结合字段级F1、字符串相似度与有效JSON比例） 为 0.834，称高于所测前沿模型配置，自托管成本按单张 L40S 每小时 2.24 美元估算。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "ac62d76fc3f800c7",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-03T16:35:36+00:00",
+      "source": "Hugging Face 官方及社区博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "Palette: teaching a small model to build decks in your design language",
+      "titleZh": "Palette：教小模型按你的设计语言制作演示文稿",
+      "summary": "IBM Research 团队发布 Palette，尝试让可自托管的小型开放权重模型按企业自有设计语言生成幻灯片。",
+      "details": {
+        "overview": "IBM Research 团队发布 Palette，尝试让可自托管的小型开放权重模型按企业自有设计语言生成幻灯片。稿件称，他们用合成数据对 20B 模型做 LoRA 微调，把任务拆成“设计师”写结构化 JSON 简报和“编码器”逐页生成 pptxgenjs 代码两个角色，并在输出前用检查与修复框架拦截重叠、溢出等问题。作者声称该模型在 PresentBench 的经济学和教育两个领域排名第一，三领域均分第二，落后 NotebookLM 1.1 分。",
+        "keyPoints": [
+          "将制稿拆为设计师写 JSON 简报、编码器逐页写代码，编码阶段可并行，稿件称约快 6–7 倍。",
+          "用约 1000 份合成演示、约 1 万页数据训练，每例附反事实推理，并用渲染检查器修复坏页。",
+          "检查修复框架只保留经检查确认改善的改写；稿件称 131 份评测演示平均提升 3.5 分。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "fb46e5f3d951e2a3",
+      "section": "news",
+      "category": "工具动态",
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "url": "https://huggingface.co/blog/cwe-bench",
+      "date": "2026-11-03",
+      "source": "Hugging Face 官方及社区博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "CWE-bench v2: More coverage, quality, and transparency",
+      "titleZh": "CWE-bench v2：覆盖更广、质量更高、更透明",
+      "summary": "Collinear AI 发布 CWE-bench v2，公开 100 个安全漏洞修复任务，覆盖 91 种 CWE。",
+      "details": {
+        "overview": "Collinear AI 发布 CWE-bench v2，公开 100 个安全漏洞修复任务，覆盖 91 种 CWE。智能体拿到真实开源仓库检出和简短指令，需在不破坏原有功能的前提下找出并修复安全弱点，评分完全程序化、可复现。作者称每题经人工复核，并用 LLM 评审小组校准难度与公平性，另设留出集跟踪未见过任务的进展。榜单显示 Gemini 4 Argon 以 67.8% pass@1 领先，但领先模型仍有约19%的任务在四次尝试中均未解决，长尾未解。",
+        "keyPoints": [
+          "公开 100 个任务、覆盖 91 种 CWE，评分程序化且可复现",
+          "每题经人工复核，并检查指令真实性、验证器公平性等条件",
+          "11 个模型中 Gemini 4 Argon 以 67.8% pass@1 居首，长尾仍难"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+      "interest": []
+    },
+    {
+      "id": "3a79d9ab9f1aacb7",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Transformers Model Integration Contracts",
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "date": "2026-11-03",
+      "source": "Hugging Face 官方及社区博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "Transformers Model Integration Contracts",
+      "titleZh": "Transformers 模型集成契约",
+      "summary": "该文介绍 Hugging Face 提出的模型集成契约（MIC）方案：用真实检查点配置构建缩小版 fixture，并配可运行用法路径与人工审核基线，在廉价 CPU 上跑快速集成测试。",
+      "details": {
+        "overview": "该文介绍 Hugging Face 提出的模型集成契约（MIC）方案：用真实检查点配置构建缩小版 fixture，并配可运行用法路径与人工审核基线，在廉价 CPU 上跑快速集成测试。作者称，2026 年 7 月 T5 启用 SDPA 后，UMT5 解码器可看到未来 token，该缺陷在 main 分支存留近两个月；回放冻结契约时，小型 UMT5 fixture 在每个相关提交上都标记了它。作者据此主张在 PR 阶段提前拦截回归，但明确 MIC 尚不替代完整集成测试。",
+        "keyPoints": [
+          "作者称 UMT5 缺陷因 SDPA 改动使解码器可关注未来 token，在 main 存留近两个月。",
+          "fixture 由真实检查点配置缩小而来，保留各类层与分词器文件，UMT5 权重 66MB 对源 1,227MB。",
+          "回放中契约须走 SDPA 默认路径才复现；仅 eager 注意力变体会漏掉该缺陷。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+      "interest": []
+    },
+    {
+      "id": "937fef2afc24be6d",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T13:37:07+00:00",
+      "source": "Hugging Face 官方及社区博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "Granite Switch 4.1.1 — Update models like you update software",
+      "titleZh": "Granite Switch 4.1.1 — 像更新软件一样更新模型",
+      "summary": "IBM 发布 Granite Switch 4.1.1 补丁版本，与 4.1 完全向后兼容、无需迁移。",
+      "details": {
+        "overview": "IBM 发布 Granite Switch 4.1.1 补丁版本，与 4.1 完全向后兼容、无需迁移。更新包括支持 10 种语言、自带标点与大小写的 Granite Speech ASR 模型，以及在 Jev Decision Index 测试集上表现改进的 granitelib-core Decision 适配器。作者强调，除训练新 ASR 模型和 Decision 适配器外，基础模型未重新计算，只需组合最新适配器即可部署，并称正开发教程与 Adapter SDK，供开发者与第三方构建自有适配器。",
+        "keyPoints": [
+          "补丁版本与 4.1 完全向后兼容，无需迁移，属增量改进。",
+          "更新 ASR 支持 10 种语言，原生标点与大小写，便于下游使用。",
+          "除新 ASR 与 Decision 适配器外基础模型未重算，组合适配器即可部署。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "72d37334c1f030cb",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "date": "2026-10-29",
+      "source": "Hugging Face 官方及社区博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "titleZh": "Project ProtoStar 发布：让公共资助科学成果适配 AI",
+      "summary": "Hugging Face 联合卡内基梅隆大学、普渡大学、佐治亚理工学院等机构发起 Project ProtoStar，目标是让公共资助科研产出的数据集、模型和代码以 AI 可用的机器可操作格式开放，便于发现、复用与组合。",
+      "details": {
+        "overview": "Hugging Face 联合卡内基梅隆大学、普渡大学、佐治亚理工学院等机构发起 Project ProtoStar，目标是让公共资助科研产出的数据集、模型和代码以 AI 可用的机器可操作格式开放，便于发现、复用与组合。项目通过开放挑战赛展示复用价值，首场由卡内基梅隆大学主办，于11月2日开放，举办期至11月13日，用 210 个美国城市的历史天气数据预测 2019 至 2026 年气候指标。发布方称，Hugging Face 已托管逾 1.7 万个核心科学领域公开数据集，2026 年前九个月新增科学数据集约为 2025 年同期三倍。",
+        "keyPoints": [
+          "项目由高校、Astera Institute、Hugging Face 与 ORCA 等合作推进，参与机构以谅解备忘录确认共享科研产出。",
+          "首场挑战用 210 个美国城市截至 2018 年的天气记录预测 2019 至 2026 年四项城市气候指标。",
+          "发布方称 Hugging Face 核心科学领域公开数据集超 1.7 万个，2026 年前九个月新增量约为去年同期三倍。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+      "interest": []
+    },
+    {
+      "id": "43962531e5c8e3d5",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "date": "2026-10-29",
+      "source": "Hugging Face 官方及社区博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "titleZh": "欢迎 Le Chonk：Mistral Large 4 登陆 Hugging Face",
+      "summary": "Hugging Face 发布博文介绍 Mistral 的 Mistral Large 4（代号 Le Chonk）。",
+      "details": {
+        "overview": "Hugging Face 发布博文介绍 Mistral 的 Mistral Large 4（代号 Le Chonk）。这是一款多模态、多语言混合专家模型，可接收文本与图像并生成文本，总参数约 1T，上下文窗口 1M token。文章称其在网络安全、编程智能体和多模态方面表现突出，并给出架构、基准测试、推理与微调支持等细节。本文整理原博文披露的模型与评测资料，未作额外独立复测。",
+        "keyPoints": [
+          "模型总参数约 1T，上下文窗口 1M token，支持文本与图像输入。",
+          "采用 72 层文本解码器、首层稠密、其余层128选4并配共享专家的路由，并配 1.6B Pixtral 视觉编码器。",
+          "博文称其在漏洞复现与修补测试中得分 82%，并列出多项编程与安全基准成绩。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+      "interest": []
+    },
+    {
+      "id": "6197baed466c3fde",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "date": "2026-10-29",
+      "source": "Hugging Face 官方及社区博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "titleZh": "推出 AnySpeechRecognizer 与 AnyDecisionModel：面向 Apple 平台的语音与决策开源模型",
+      "summary": "作者发布两个 Swift 包：AnySpeechRecognizer 沿用 Apple SpeechAnalyzer 风格 API，可切换 Apple、NVIDIA Parakeet、阿里 Qwen3-ASR 等识别引擎，并新增基于 Streaming Sortformer 的说话人分离；AnyDecisionModel 以类型化结果和概率回答是非、多选与评分问题，支持 MLX、Core AI、llama.cpp、Jev、Ollama 等后端。",
+      "details": {
+        "overview": "作者发布两个 Swift 包：AnySpeechRecognizer 沿用 Apple SpeechAnalyzer 风格 API，可切换 Apple、NVIDIA Parakeet、阿里 Qwen3-ASR 等识别引擎，并新增基于 Streaming Sortformer 的说话人分离；AnyDecisionModel 以类型化结果和概率回答是非、多选与评分问题，支持 MLX、Core AI、llama.cpp、Jev、Ollama 等后端。两者均可从 Hugging Face Hub 下载开源模型并在设备端运行。作者在 M4 Max 上给出部分词错误率数据，并说明仅测过 macOS 27、未测 iPhone。",
+        "keyPoints": [
+          "AnySpeechRecognizer 保留 Apple 语音 API 形态，在共享API代码中可改导入，切换具体引擎还需调整转写器构造。",
+          "SpeakerDiarizer 跟踪最多四名说话人，配合 SpeakerTimeline 将词与说话人关联。",
+          "AnyDecisionModel 从模型概率导出答案，提供是非、多选、评分及置信度。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+      "interest": []
+    },
+    {
+      "id": "790e3c20e64e1b87",
+      "section": "news",
+      "category": "工具动态",
+      "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+      "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T03:00:20+00:00",
+      "source": "NVIDIA 官方博客",
+      "recommended": true,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "recommendedOn": "2026-11-12",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+      "titleZh": "AI如何帮助回收商将混合废弃物转化为可再利用材料",
+      "summary": "这篇NVIDIA博客介绍四家Inception初创公司如何用视觉AI与机器人分拣混合废弃物。",
+      "details": {
+        "overview": "这篇NVIDIA博客介绍四家Inception初创公司如何用视觉AI与机器人分拣混合废弃物。AIRECO用Jetson模块分拣塑料，测试线识别准确率超95%；EverestLabs在北美和澳大利亚部署约150台分拣机器人；Greyparrot的Analyzer系统在20多国运行；reverse.fashion用高分辨率视觉模型分拣旧衣物。文章称这些技术有助于提升回收材料的商业可用性，但相关数据来自厂商自述，未经独立验证。",
+        "keyPoints": [
+          "AIRECO用视觉AI细化塑料分拣，测试线识别准确率超95%，目标将年处理量从1.8万吨提至4.8万吨。",
+          "EverestLabs在北美和澳大利亚部署约150台视觉引导分拣机器人，称已识别约400亿个物体。",
+          "Greyparrot的Analyzer系统在20多国运行，称使用设施效率提升10%至30%。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "c2fc98ba16b7eebb",
+      "section": "news",
+      "category": "工具动态",
+      "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+      "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-10T16:00:03+00:00",
+      "source": "NVIDIA 官方博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+      "titleZh": "NVIDIA扩展开源承诺：捐赠OpenShell并推出新AI基础设施",
+      "summary": "在KubeCon + CloudNativeCon上，NVIDIA宣布将用于保障和治理自主智能体的开源运行时OpenShell捐赠给云原生计算基金会（CNCF），作为沙箱项目接受社区治理；同时参与Google主导的Agent Substrate框架，并发布DSX AI Factory平台新组件NVIDIA Kubernetes Engine、Kubernetes Recipes和Snapshot。",
+      "details": {
+        "overview": "在KubeCon + CloudNativeCon上，NVIDIA宣布将用于保障和治理自主智能体的开源运行时OpenShell捐赠给云原生计算基金会（CNCF），作为沙箱项目接受社区治理；同时参与Google主导的Agent Substrate框架，并发布DSX AI Factory平台新组件NVIDIA Kubernetes Engine、Kubernetes Recipes和Snapshot。原文称这些工具帮助团队在Kubernetes上部署、管理和扩展GPU基础设施，并给出设计伙伴对Snapshot的测试数据，但厂商测试不等于独立验证。",
+        "keyPoints": [
+          "OpenShell作为CNCF沙箱项目捐赠，为自主智能体提供确定性控制与策略执行。",
+          "NVIDIA参与Google主导的Agent Substrate，并与Dynamo、KAI Scheduler集成。",
+          "NVKE与NVKR进入公开预览，Snapshot称可在数秒内恢复检查点副本。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "91a8cb85be030c52",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+      "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T14:00:01+00:00",
+      "source": "NVIDIA 官方博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+      "titleZh": "熟能生巧：NVIDIA 与合作伙伴在 CoRL 展示机器人如何在仿真中演练精细作业",
+      "summary": "NVIDIA 在 CoRL 上介绍 GR00T 2 世界动作模型、Isaac Lab 3.0 仿真框架及新开放基准，并与多家伙伴合作，把机器人训练从行走跳跃转向齿轮对齐、线缆连接等精细操作。",
+      "details": {
+        "overview": "NVIDIA 在 CoRL 上介绍 GR00T 2 世界动作模型、Isaac Lab 3.0 仿真框架及新开放基准，并与多家伙伴合作，把机器人训练从行走跳跃转向齿轮对齐、线缆连接等精细操作。稿件称 GR00T 2 基于 Cosmos，用大量人类第一视角数据训练，可在无任务演示时完成部分评测任务，并借少量演示迁移技能；Isaac Lab 3.0 结合 Newton 物理引擎支持可变形物体仿真，提升并行训练吞吐。这些工具意在帮助研究者训练、评估并利用失败改进机器人策略。",
+        "keyPoints": [
+          "GR00T 2 为开放世界动作模型，稿件称其可在无任务专属演示下完成 50 项评测中的 40 项。",
+          "Isaac Lab 3.0 与 Newton 集成，可仿真线缆、布料等可变形物体，并支持大规模并行训练。",
+          "DexBench、VABAR 等新开放基准用于评测工业场景下的机器人灵巧性与适应性。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "5c9176a450fcc532",
+      "section": "news",
+      "category": "工具动态",
+      "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T08:00:53+00:00",
+      "source": "NVIDIA 官方博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "titleZh": "NVIDIA在MSIT-NVIDIA AI创业合作论坛上宣布对韩国初创企业的新投资计划",
+      "summary": "韩国科学技术信息通信部与NVIDIA在首尔COEX举办AI创业合作论坛，与20余家覆盖基础模型、物理AI、AI基础设施和AI半导体的韩国初创企业交流。",
+      "details": {
+        "overview": "韩国科学技术信息通信部与NVIDIA在首尔COEX举办AI创业合作论坛，与20余家覆盖基础模型、物理AI、AI基础设施和AI半导体的韩国初创企业交流。NVIDIA宣布投资AI互连公司Point2，并计划投资首尔AI实验室Motif Technologies、物理AI公司RLWRLD和企业AI公司Upstage。这些公司横跨从基础设施到模型再到机器人应用的完整AI栈，投资计划建立在NVIDIA与韩国创业及风投社区既有合作之上。",
+        "keyPoints": [
+          "NVIDIA宣布投资Point2，并计划投资Motif Technologies、RLWRLD和Upstage。",
+          "论坛由韩国科学技术信息通信部与NVIDIA合办，20余家韩国初创企业参与。",
+          "四家公司覆盖AI互连、基础模型、机器人基础模型和企业文档AI。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "4c6ef578ca120672",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T05:00:40+00:00",
+      "source": "NVIDIA 官方博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "titleZh": "韩国携手NVIDIA在各行业推进物理AI",
+      "summary": "该新闻介绍NVIDIA与韩国产业界合作推进物理AI落地：三星电子借助加速计算与AI物理扩展半导体创新，覆盖材料研究、工艺开发和器件工程；Kakao Mobility计划基于NVIDIA车载计算与安全技术开发L4自动驾驶系统；LG电子与NVIDIA在实际制造环境中演示了CLOiD机器人的操作与制造任务。",
+      "details": {
+        "overview": "该新闻介绍NVIDIA与韩国产业界合作推进物理AI落地：三星电子借助加速计算与AI物理扩展半导体创新，覆盖材料研究、工艺开发和器件工程；Kakao Mobility计划基于NVIDIA车载计算与安全技术开发L4自动驾驶系统；LG电子与NVIDIA在实际制造环境中演示了CLOiD机器人的操作与制造任务。报道强调这些合作把物理AI从开发推向真实生产，但所述加速效果与演示属于厂商合作成果，并非独立验证。",
+        "keyPoints": [
+          "三星在sMOL平台用cuEST使部分量子化学计算端到端最高快5倍。",
+          "某AI均质化案例中，仿真时间由32核CPU细网格约18小时降至GPU粗网格41秒。",
+          "LG与NVIDIA用Isaac GR00T在真实制造环境演示CLOiD机器人操作任务。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "fe3c510239c713ce",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T05:00:39+00:00",
+      "source": "NVIDIA 官方博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "titleZh": "韩国AI生态推进并借助NVIDIA保障智能体AI安全",
+      "summary": "该报道介绍韩国AI生态与NVIDIA在智能体AI安全与开放模型方面的合作。",
+      "details": {
+        "overview": "该报道介绍韩国AI生态与NVIDIA在智能体AI安全与开放模型方面的合作。现代汽车集团探索NVIDIA NemoClaw蓝图与OpenShell运行时；韩国AI安全公司AIM Intelligence将Starfort智能体控制平台与OpenShell集成，结合运行时访问控制与恶意指令、数据泄露检测，并考虑在公共能源领域开展初步概念验证。模型方面，LG AI Research开放K-EXAONE-2.5的API，该模型开发使用 Nemotron 数据集，包括含700万合成人物画像的 Nemotron-Personas-Korea。报道称这些举措旨在为自主智能体提供沙箱执行与策略管控。",
+        "keyPoints": [
+          "现代汽车集团探索NVIDIA NemoClaw蓝图与OpenShell运行时，用于企业智能体。",
+          "AIM Intelligence将Starfort与OpenShell集成，结合访问控制与恶意指令检测。",
+          "LG AI Research开放K-EXAONE-2.5的API，开发使用包括Nemotron韩国人物画像在内的数据集。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "3e136860c695d290",
+      "section": "news",
+      "category": "工具动态",
+      "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+      "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T05:00:04+00:00",
+      "source": "NVIDIA 官方博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+      "titleZh": "从芯片到技能：NVIDIA 与韩国扩大主权 AI 合作",
+      "summary": "NVIDIA 与韩国科学技术信息通信部（MSIT）宣布扩大在韩国主权 AI 生态上的合作，覆盖 AI 半导体、数据中心基础设施、人才、初创企业、模型、智能体与安全。",
+      "details": {
+        "overview": "NVIDIA 与韩国科学技术信息通信部（MSIT）宣布扩大在韩国主权 AI 生态上的合作，覆盖 AI 半导体、数据中心基础设施、人才、初创企业、模型、智能体与安全。稿件称，合作将为韩国 NPU 与 XPU 企业探索参与 NVIDIA NVLink Fusion 生态铺路，并包含 NVIDIA 培训认证、黑客松与技术研讨会以提升 GPU 使用能力；同时通过韩国“AI for All”计划与三家入选联合体及四家韩国基础模型开发商合作，用 NVIDIA Dynamo 软件优化和扩展 AI 推理。NVIDIA 还宣布在 MSIT 支持下与 SK Telecom、Rebellions 合作推进面向韩国模型与工作负载的主权 AI 基础设施。",
+        "keyPoints": [
+          "合作覆盖 AI 半导体、数据中心、人才、初创、模型、智能体与安全等多个层面。",
+          "韩国 NPU 与 XPU 企业将探索参与 NVIDIA NVLink Fusion 生态。",
+          "通过培训认证、黑客松与研讨会提升 GPU 使用能力，并用 Dynamo 优化推理。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "a68a814cf2bac743",
+      "section": "news",
+      "category": "工具动态",
+      "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+      "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T05:00:00+00:00",
+      "source": "NVIDIA 官方博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+      "titleZh": "NVIDIA Dynamo Recipes 将韩国领先开放模型推向生产环境",
+      "summary": "NVIDIA 发布针对韩国主要开放模型的 Dynamo 优化部署配方，覆盖 SK Telecom 的 A.X K2、LG AI Research 的 K-EXAONE 2.0、Upstage 的 Solar Open 2 和 Motif Technologies 的 Motif-3。",
+      "details": {
+        "overview": "NVIDIA 发布针对韩国主要开放模型的 Dynamo 优化部署配方，覆盖 SK Telecom 的 A.X K2、LG AI Research 的 K-EXAONE 2.0、Upstage 的 Solar Open 2 和 Motif Technologies 的 Motif-3。原文说明，当模型规模超出单块 GPU 容量时需拆分到多块 GPU，并协调请求路由与通信以维持性能；Dynamo 是面向数据中心规模多节点部署的开源分布式推理服务框架，负责这些路由与通信。配方针对 NVIDIA B200 GPU 优化，原文称开箱即可获得最高 2 倍性能，帮助开发者更快将上述模型投入生产。",
+        "keyPoints": [
+          "发布四款韩国开放模型的 Dynamo 优化部署配方，覆盖 SK Telecom、LG AI Research、Upstage 与 Motif Technologies。",
+          "Dynamo 为开源分布式推理服务框架，处理多节点环境中的请求路由与通信以提升推理性能。",
+          "配方针对 NVIDIA B200 GPU 优化，原文称开箱最高可达 2 倍性能。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "d7b6ddf6c814f392",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+      "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-05T20:00:41+00:00",
+      "source": "NVIDIA 官方博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+      "titleZh": "Vera 两全其美：最高吞吐量与最快智能体",
+      "summary": "英伟达发布博客称，其 Vera CPU 面向 AI 智能体工作负载，兼顾单核速度与每瓦容量。",
+      "details": {
+        "overview": "英伟达发布博客称，其 Vera CPU 面向 AI 智能体工作负载，兼顾单核速度与每瓦容量。文中引用 100 兆瓦数据中心对比，称 Vera 在智能体速度上领先最快 x86 CPU，且每瓦可支持 1.6 倍智能体；相比最节能 x86 CPU，速度达 2 倍。Perplexity、DeepInfra、ClickHouse、DuckLabs、Daytona、Modal 等早期采用者给出生产式测试数据。需注意这些为厂商及合作方测试，并非独立验证。",
+        "keyPoints": [
+          "英伟达称在 100 兆瓦对比中，Vera 比最快 x86 CPU 每瓦多支持 1.6 倍智能体。",
+          "相比最节能 x86 CPU，Vera 的智能体速度达 2 倍并保持领先能效。",
+          "Perplexity、DeepInfra 等合作方给出生产式测试加速数据，属厂商测试。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "03e93b6c7c2b9b74",
+      "section": "news",
+      "category": "工具动态",
+      "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+      "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-05T16:00:05+00:00",
+      "source": "NVIDIA 官方博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+      "titleZh": "开放权重魔法师：Chris Alexiuk 用开放模型让 AI 变简单",
+      "summary": "这篇 NVIDIA 官方博客人物报道介绍深度学习高级产品研究工程师 Chris Alexiuk。",
+      "details": {
+        "overview": "这篇 NVIDIA 官方博客人物报道介绍深度学习高级产品研究工程师 Chris Alexiuk。他常驻多伦多，专注让开放大语言模型对实际开发者更实用，并通过 YouTube 等平台讲授构建、微调、评估与部署 LLM 应用和智能体的方法。他自称 NVIDIA Nemotron 开放多模态模型家族的头号支持者，认为开放权重、训练数据和配方是智能普及的前提。文中还讲述他从大学计算物理课起步、用网络摄像头识别朋友宠物鸟的经历。",
+        "keyPoints": [
+          "Alexiuk 任职 NVIDIA，专注让开放大语言模型对实际开发者更实用。",
+          "他主张开放权重、训练数据与配方，称这是智能普及的前提。",
+          "他通过 YouTube 等平台讲授 LLM 应用与智能体的构建、微调和部署。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "e57c84e0adf5a5fa",
+      "section": "news",
+      "category": "工具动态",
+      "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
+      "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-05T16:00:00+00:00",
+      "source": "NVIDIA 官方博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
+      "titleZh": "让每一字节发挥更多性能：全栈协同设计如何应对AI内存挑战",
+      "summary": "文章讨论大模型、长上下文与智能体应用带来的GPU显存压力，介绍NVIDIA以全栈协同设计思路，将GPU高带宽内存、CPU内存、本地SSD与共享存储组成分层体系，并通过NVFP4压缩权重与KV缓存、跨NVL72分发权重、Dynamo管理上下文、CMX存储层及RAG索引外置等手段提升每字节内存的有效产出。",
+      "details": {
+        "overview": "文章讨论大模型、长上下文与智能体应用带来的GPU显存压力，介绍NVIDIA以全栈协同设计思路，将GPU高带宽内存、CPU内存、本地SSD与共享存储组成分层体系，并通过NVFP4压缩权重与KV缓存、跨NVL72分发权重、Dynamo管理上下文、CMX存储层及RAG索引外置等手段提升每字节内存的有效产出。文中引用SemiAnalysis AgentX数据称，从Blackwell Ultra到Vera Rubin平台，单GPU的HBM容量约增3%，智能体吞吐每美元最高提升30倍。",
+        "keyPoints": [
+          "文章称从Blackwell Ultra到Vera Rubin，单GPU HBM容量约增3%，智能体吞吐每美元最高提升30倍。",
+          "NVFP4用于压缩模型权重和KV缓存，权重可分散到NVL72中最多72块GPU。",
+          "Dynamo将闲置上下文移至CMX共享存储层，RAG索引放在HBM之外。",
+          "最高30倍每美元吞吐的比较限于文中 SemiAnalysis AgentX、DeepSeek V4 Pro、每用户125 tokens/s及对应NVL72配置，不能推广到所有任务。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "64cc2476c24bfd4e",
+      "section": "news",
+      "category": "工具动态",
+      "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+      "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-03T16:00:45+00:00",
+      "source": "NVIDIA 官方博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+      "titleZh": "AI 正在改变半导体晶圆厂的工作方式——工程师也因此行动更快",
+      "summary": "这篇行业新闻介绍所谓“AI 定义的晶圆厂”：用加速计算缩短多物理场仿真时间，用基于物理的 AI 模型预测工艺行为，用 AI 智能体承接工程任务之间的步骤，并用数字孪生在上产线前验证改动。",
+      "details": {
+        "overview": "这篇行业新闻介绍所谓“AI 定义的晶圆厂”：用加速计算缩短多物理场仿真时间，用基于物理的 AI 模型预测工艺行为，用 AI 智能体承接工程任务之间的步骤，并用数字孪生在上产线前验证改动。文中列举 COMSOL、应用材料、西门子、泛林、爱德万等厂商与英伟达合作的具体加速倍数，强调工程师仍负责判断与决策，只是等待答案的时间变短。",
+        "keyPoints": [
+          "COMSOL 用 cuDSS 加速多物理场仿真，称最高提升 10 倍",
+          "西门子将 cuLitho 集成进 Calibre，关键光刻仿真最高加速 17 倍",
+          "爱德万用 AI 智能体自动选择模型，响应从数小时降至数分钟"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "3efdc3ec465b6b20",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+      "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T07:00:12+00:00",
+      "source": "NVIDIA 官方博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+      "titleZh": "全球城市借助NVIDIA物理AI与智能体AI构建并扩展AI服务",
+      "summary": "该新闻介绍NVIDIA及其合作伙伴在全球多个城市推广物理AI与智能体AI应用，覆盖居民服务、城市摄像头视频分析、基础设施数字孪生和本地AI生态建设。",
+      "details": {
+        "overview": "该新闻介绍NVIDIA及其合作伙伴在全球多个城市推广物理AI与智能体AI应用，覆盖居民服务、城市摄像头视频分析、基础设施数字孪生和本地AI生态建设。文中列举西班牙、旧金山湾区、波兰弗罗茨瓦夫、马来西亚、尼日利亚、台湾、摩洛哥等地案例，强调共享算力与托管服务可降低城市各部门自建门槛。相关性能与效率数字均为厂商或项目方说法，未经独立验证。",
+        "keyPoints": [
+          "西班牙1MillionBot结合开源ALIA与Nemotron模型，为马德里等150多个部署提供居民服务智能体。",
+          "马来西亚ITMAX的SamurAI V2视觉智能体计划到2027年支持超1.7万路摄像头。",
+          "台湾Linker Vision与MVRDV用Omniverse和Nemotron模拟城市树冠15年效果，将设计迭代从两周缩短至一小时以内。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "aed4425af362b022",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T15:00:10+00:00",
+      "source": "NVIDIA 官方博客",
+      "recommended": false,
+      "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+      "titleEn": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "titleZh": "夜间鸣响之物：智能体AI加入地外信号搜寻",
+      "summary": "文章介绍Breakthrough Listen与SETI研究所在北加州艾伦望远镜阵列把智能体AI引入日常搜寻：研究人员用自然语言即可让智能体操控天线、校准聚焦、修正数据错误并绘制结果。",
+      "details": {
+        "overview": "文章介绍Breakthrough Listen与SETI研究所在北加州艾伦望远镜阵列把智能体AI引入日常搜寻：研究人员用自然语言即可让智能体操控天线、校准聚焦、修正数据错误并绘制结果。NVIDIA Holoscan平台把每秒数太比特的传感器数据直接送入GPU内存实时处理，Nexus作为智能体编排层统一仪器状态与计算资源。团队称该系统已在蟹状星云实现脉冲星实时AI探测，并正评估Nemotron等开放模型以备未来离线观测。",
+        "keyPoints": [
+          "智能体可用自然语言指令操控望远镜、校准仪器并修正数据错误",
+          "Holoscan将每秒数太比特数据直接送入GPU内存，实现观测中实时处理",
+          "团队称已实现蟹状星云脉冲星的首次实时AI探测"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "1d4c8a91c4ff52cb",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "OpenAI 回顾退伍军人与现役转业人员的 ChatGPT Plus 支持计划",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "date": "2026-11-11",
+      "publishedAt": "2026-11-11T08:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": true,
+      "titleZh": "OpenAI 回顾退伍军人与现役转业人员的 ChatGPT Plus 支持计划",
+      "summary": "OpenAI 回顾过去一年为符合资格的转业军人与退伍军人提供一年免费 ChatGPT Plus 的计划，以及求职和 AI 使用培训。",
+      "details": {
+        "overview": "OpenAI 回顾过去一年为符合资格的转业军人与退伍军人提供一年免费 ChatGPT Plus 的计划，以及求职和 AI 使用培训。",
+        "keyPoints": [
+          "官方表示已有超过两万人领取一年免费访问资格，并开展社区培训。",
+          "这是已有支持计划的进展回顾；不表示当天对所有用户开放免费 Plus。"
+        ]
+      },
+      "status": "已有计划的进展回顾。",
+      "recommendedOn": "2026-11-12",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "be73e03d311e3e9c",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Anthropic 启动拟议首次公开募股路演",
+      "url": "https://www.anthropic.com/news/roadshow-launch",
+      "date": "2026-11-10",
+      "source": "Anthropic 官方新闻与研究",
+      "recommended": false,
+      "titleZh": "Anthropic 启动拟议首次公开募股路演",
+      "summary": "Anthropic 宣布启动拟议首次公开募股路演，并申请以 ANT 为代码在纳斯达克上市。该声明不表示发行已完成。",
+      "details": {
+        "overview": "Anthropic 宣布启动拟议首次公开募股路演，并申请以 ANT 为代码在纳斯达克上市。该声明不表示发行已完成。",
+        "keyPoints": [
+          "官方列出的预期发行价格区间为每股70至78美元；最终条款尚待确定。",
+          "注册声明已提交但尚未生效，不能把路演启动当作已经上市。"
+        ]
+      },
+      "status": "拟议发行，注册声明尚未生效。",
+      "publicationTimeNote": "官方仅提供2026-11-10日期，具体发布时间未详。",
+      "interest": []
+    },
+    {
+      "id": "d648556b7e07e26c",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T12:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "Helping caregivers use AI in everyday life",
+      "titleZh": "帮助照护者在日常生活中使用AI",
+      "summary": "OpenAI于2026年11月10日宣布，OpenAI Academy与Caregiver Action Network、阿尔茨海默病协会及美国糖尿病协会合作，在全美家庭照护者月期间于奥克兰、坦帕、匹兹堡、亚特兰大、底特律五城举办免费的线下ChatGPT工作坊。",
+      "details": {
+        "overview": "OpenAI于2026年11月10日宣布，OpenAI Academy与Caregiver Action Network、阿尔茨海默病协会及美国糖尿病协会合作，在全美家庭照护者月期间于奥克兰、坦帕、匹兹堡、亚特兰大、底特律五城举办免费的线下ChatGPT工作坊。发布方称，参与者将学习用ChatGPT整理照护日程与清单、把可信教育资源改写为通俗材料、查找社区资源及准备支持小组讨论提纲，并了解保护个人信息、认识工具局限以及何时咨询医疗专业人员。OpenAI还引用一项隐私保护用量估算称，美国每周有逾4000万条与医疗健康相关的ChatGPT消息是在为他人询问健康问题。",
+        "keyPoints": [
+          "OpenAI Academy与三家照护及健康组织合作，在五座美国城市举办免费线下工作坊。",
+          "工作坊教授用ChatGPT整理日程清单、改写教育资源、查找社区资源等日常照护任务。",
+          "课程强调保护个人信息、认识AI局限，并明确AI不替代医疗、法律或财务建议。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "bd69f023436b2e30",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T09:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "Closing the AI guidance gap in education",
+      "titleZh": "弥合教育领域的AI指导缺口",
+      "summary": "OpenAI于2026年11月10日发布文章，介绍其在欧洲、中东和非洲地区与爱沙尼亚、斯洛伐克、希腊、意大利等国政府及教育系统合作的经验，聚焦教育者支持、AI素养、本地能力和评估。",
+      "details": {
+        "overview": "OpenAI于2026年11月10日发布文章，介绍其在欧洲、中东和非洲地区与爱沙尼亚、斯洛伐克、希腊、意大利等国政府及教育系统合作的经验，聚焦教育者支持、AI素养、本地能力和评估。文章引用ThinkYoung研究称，79%的受访学生表示用AI做作业或完成任务，但仅47%表示被教过如何使用。作者提出清晰教育目标、教育者准备、本地合作、批判性AI素养和可信证据五个主题，并强调教师作用随AI能力提升而更重要。文章自述这些是早期经验而非单一模式。",
+        "keyPoints": [
+          "文章称79%受访学生用AI做作业，仅47%被教过如何使用，凸显指导缺口。",
+          "EMEA合作强调公平获取前沿AI工具、共同设计AI素养项目及持续测量评估。",
+          "作者称教师采用AI和报告节省时间属早期积极信号，仍需持续评估。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "826660a637d33e36",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T07:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "Work at the Frontier: AI’s effect on freelance work",
+      "titleZh": "前沿工作：AI对自由职业工作的影响",
+      "summary": "OpenAI与Upwork合作研究AI对自由职业市场的影响，比较ChatGPT使用数据与Upwork招聘需求。",
+      "details": {
+        "overview": "OpenAI与Upwork合作研究AI对自由职业市场的影响，比较ChatGPT使用数据与Upwork招聘需求。研究发现，在63个工作类别中，有43个在ChatGPT中较常见的活动在Upwork上的份额下降，但这一模式并不统一；AI相关项目涉及更多样化的任务组合，固定价格预算更大、工时更多。作者认为，AI可能同时改变客户雇佣自由职业者的内容与项目组织方式，而非简单的替代关系。",
+        "keyPoints": [
+          "63个工作类别中43个呈现ChatGPT常用活动在Upwork份额下降的模式",
+          "2023年初至2025年底，AI相关岗位任务组合多样性提高约45%",
+          "AI相关项目时薪相近，但固定价格预算更大、工时更多",
+          "这是描述性相关比较，ChatGPT 使用程度不能单独解释招聘需求变化。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "a7af3cb84f0109dc",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "date": "2026-11-11",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+      "titleEn": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "titleZh": "JioStar首席架构师谈5亿用户规模下的AI内容发现",
+      "summary": "这是OpenAI对JioStar首席架构师Vijay Seshadri的访谈。",
+      "details": {
+        "overview": "这是OpenAI对JioStar首席架构师Vijay Seshadri的访谈。JioStar运营娱乐与直播体育平台，服务超5亿用户，曾支持7250万并发直播体育观众。其使用OpenAI API在JioHotstar中构建对话式视频与板球数据发现助手，用户可自然语言查找影视、历史集锦、直播瞬间或板球统计，并以可视化对话返回结果。团队称约八周内支持超15种语言，围绕准确性、延迟与成本三方权衡设计，并强调评估体系与护栏先行。",
+        "keyPoints": [
+          "JioStar用OpenAI API在JioHotstar内建对话式视频与板球数据发现助手，覆盖超15种语言。",
+          "团队称约八周完成开发，设计围绕准确性、延迟、成本三方权衡，超六成用户使用语音。",
+          "作者强调评估与护栏先行，用LLM作评审并借Codex加速生成评估用例。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "af628abd3425e568",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "date": "2026-11-12",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+      "titleEn": "Gilbert + Tobin rethinks the business of law with AI",
+      "titleZh": "Gilbert + Tobin 借助 AI 重新思考法律业务",
+      "summary": "OpenAI 官网发布对澳大利亚律所 Gilbert + Tobin 合伙人兼首席执行官 Sam Nickless 的访谈，介绍该所从鼓励员工在无客户数据的受限环境中试用 ChatGPT，到引入 ChatGPT Enterprise、ChatGPT Work 与 Codex，把个人辅助推进到多步骤代理式工作流，并由人员负责审核与批准。",
+      "details": {
+        "overview": "OpenAI 官网发布对澳大利亚律所 Gilbert + Tobin 合伙人兼首席执行官 Sam Nickless 的访谈，介绍该所从鼓励员工在无客户数据的受限环境中试用 ChatGPT，到引入 ChatGPT Enterprise、ChatGPT Work 与 Codex，把个人辅助推进到多步骤代理式工作流，并由人员负责审核与批准。Nickless 称 AI 的价值不在削减成本或减少人员，而在释放员工投入客户沟通、团队辅导等更具人性的一面；文中还提到启用用户中 87% 活跃使用，以及一次涉及 120 名合伙人的年度评审工作成本约 62 美元。上述成效均为发布方自述。",
+        "keyPoints": [
+          "该所分实验、个人生产力、组织生产力三阶段推进 AI 应用。",
+          "引入 ChatGPT Enterprise 等产品，强调数据驻留、合同保护与权限管控。",
+          "Nickless 称 AI 价值在于释放员工投入客户沟通与团队辅导。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "b215b799841f2486",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "date": "2026-11-10",
+      "publishedAt": "2026-11-10T08:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "titleZh": "新加坡航空借助OpenAI技术提升旅行与办公体验",
+      "summary": "OpenAI官方发布案例称，新加坡航空通过OpenAI API与模型改造客服聊天机器人Kris、旅行推荐工具Flight Recommender及内部AI平台Jarvis。",
+      "details": {
+        "overview": "OpenAI官方发布案例称，新加坡航空通过OpenAI API与模型改造客服聊天机器人Kris、旅行推荐工具Flight Recommender及内部AI平台Jarvis。发布方自述，Kris从传统对话流程转为大模型驱动后客户满意度翻倍，客服代表平均处理时长约降10%，Flight Recommender月活一年内增至约原来的3倍，超六成员工每月使用Jarvis。该案例展示航司将AI嵌入客服、销售与内部办公的具体路径，但成效数据均为发布方自述，未经独立验证。",
+        "keyPoints": [
+          "Kris改用OpenAI API后，发布方称客户满意度提升2倍，客服平均处理时长约降10%。",
+          "Flight Recommender以自然语言理解需求并调用票价与余位数据，月活一年增至约原来的3倍。",
+          "内部平台Jarvis基于OpenAI模型，超60%员工每月使用，用于文档处理与自定义工作流。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "8e6c328f348c54d0",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-05T20:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "Cult.fit builds operational muscle with Codex",
+      "titleZh": "Cult.fit 借助 Codex 提升运营能力",
+      "summary": "OpenAI 官方发布案例称，印度健身企业 Cult.fit 将 Codex 作为统一开发平台，并把使用范围从工程团队扩展到人力资源等非技术团队，用于数据分析、内部工具搭建和流程自动化。",
+      "details": {
+        "overview": "OpenAI 官方发布案例称，印度健身企业 Cult.fit 将 Codex 作为统一开发平台，并把使用范围从工程团队扩展到人力资源等非技术团队，用于数据分析、内部工具搭建和流程自动化。发布方自述的成效包括：非工程团队近期构建 20 多个内部应用、重建内部看板能力每年节省逾 10 万美元软件费用、客服成本下降 50% 以上；同时通过 OpenAI API 升级语音优先的 AI Trainer。上述数字均为发布方自述，未经独立验证。",
+        "keyPoints": [
+          "Cult.fit 以 Codex 统一开发规范，并延伸至 SRE、安全等工程工作流",
+          "非工程团队用 Codex 自建 20 多个内部应用，HR 绩效流程也在其中",
+          "发布方自述重建内部看板每年省逾 10 万美元，客服成本降 50% 以上"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "adb00a08774cdce3",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "url": "https://openai.com/index/kuken",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T08:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "Kuken Industries searches 70 years of drawings in minutes",
+      "titleZh": "Kuken Industries 借助 AI 在几分钟内检索 70 年图纸档案",
+      "summary": "OpenAI 官方发布的企业案例显示，日本冷却塔制造商 Kuken Industries 与日本 AI 初创公司 Recursive 合作，基于 OpenAI API 构建图纸检索系统及现场应用。",
+      "details": {
+        "overview": "OpenAI 官方发布的企业案例显示，日本冷却塔制造商 Kuken Industries 与日本 AI 初创公司 Recursive 合作，基于 OpenAI API 构建图纸检索系统及现场应用。工程师可输入图纸或零件编号，也可上传图纸或零件清单的图片、PDF，系统读取编号并返回可能匹配的图纸。Kuken 自述，查找一张图纸的时间从近一小时降至 4.5 分钟，并预计每年检索图纸的工时减少约 90%。该案例还提到，Kuken 正开发图纸审核工具，原型测试中 AI 标记的问题约 90% 为真实差异。",
+        "keyPoints": [
+          "工程师可输入编号或上传图纸、零件清单截图，由应用读取编号并返回匹配结果。",
+          "Kuken 自述查找图纸从近一小时降至 4.5 分钟，预计年检索工时减少约 90%。",
+          "Kuken 正开发图纸审核工具，原型测试中约 90% 的 AI 标记为真实差异。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "bf23fe077b104ccc",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Australian universities are creating AI-native graduates",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "date": "2026-11-06",
+      "publishedAt": "2026-11-05T17:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "Australian universities are creating AI-native graduates",
+      "titleZh": "澳大利亚高校正在培养“AI原生”毕业生",
+      "summary": "OpenAI官方发布称，悉尼新南威尔士大学、悉尼大学、拉筹伯大学和阿德莱德大学等澳大利亚高校正与OpenAI合作，向师生提供前沿AI工具，并把AI引入临床模拟、机器人辅助教师培训和产业项目。",
+      "details": {
+        "overview": "OpenAI官方发布称，悉尼新南威尔士大学、悉尼大学、拉筹伯大学和阿德莱德大学等澳大利亚高校正与OpenAI合作，向师生提供前沿AI工具，并把AI引入临床模拟、机器人辅助教师培训和产业项目。发布方委托的调查显示，1018名受访学生中81%每周多次使用AI，79%希望学校提供更多在真实项目中用AI的机会。文章还介绍各校在课程、评估规范和安全治理上的做法，目标是让学生带着学科知识与判断力进入职场。",
+        "keyPoints": [
+          "OpenAI称多所澳大利亚高校与其合作，向师生开放ChatGPT Edu等前沿AI工具。",
+          "发布方委托调查显示，81%受访学生每周多次用AI，28%已自建AI助手。",
+          "UNSW采用“可、不可、必须”评估框架，明确不同课程中AI的使用边界。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "bfd1d14a51f4f21a",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "date": "2026-11-09",
+      "publishedAt": "2026-11-09T08:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "CodeRabbit scales agentic software development and ships 20x more",
+      "titleZh": "CodeRabbit 借助智能体化软件开发，交付量提升 20 倍",
+      "summary": "OpenAI 官方发布案例称，AI 代码审查平台 CodeRabbit 使用 OpenAI 模型与 Codex 来治理和验证 AI 生成的代码。",
+      "details": {
+        "overview": "OpenAI 官方发布案例称，AI 代码审查平台 CodeRabbit 使用 OpenAI 模型与 Codex 来治理和验证 AI 生成的代码。据该公司 CEO 自述，其团队在未增加工程师的情况下，近 6 个月软件交付量约为原来的 20 倍，并推出 CodeRabbit Secure 用于发现和修复漏洞。稿件还提到，CodeRabbit 用 Codex 处理营销与运营任务，并借助 Daybreak 做内部渗透测试。上述成效均为发布方自述，未提供独立验证。",
+        "keyPoints": [
+          "CodeRabbit 用 OpenAI 推理模型审查 AI 生成代码，称某模型在其基准中捕获约 50% 已知问题。",
+          "该公司称借助 Codex，在未增加工程师的情况下近 6 个月交付量约为原来的 20 倍。",
+          "CodeRabbit Secure 基于 Daybreak 与 Codex 模型，用于发现并修复代码漏洞。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "9a7b9f98b514fd80",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "url": "https://openai.com/index/cogent-security",
+      "date": "2026-11-10",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+      "titleEn": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "titleZh": "Cogent与OpenAI为企业打造网络防御工厂",
+      "summary": "OpenAI官方发布介绍了初创公司Cogent如何将OpenAI模型与企业环境上下文结合，构建“网络防御工厂”，让AI代理从漏洞调查一路推进到修复验证。",
+      "details": {
+        "overview": "OpenAI官方发布介绍了初创公司Cogent如何将OpenAI模型与企业环境上下文结合，构建“网络防御工厂”，让AI代理从漏洞调查一路推进到修复验证。Cogent的上下文引擎维护企业资产、漏洞、身份与依赖关系的知识图谱，代理策略与TRACE引擎在执行前校验允许的变更。发布方自述，一家财富1000强汽车客户将关键漏洞平均修复时间降低75%，一家财富500强IT服务客户的漏洞分诊吞吐量提升5倍。这些成效为发布方与客户自述，未说明独立验证。",
+        "keyPoints": [
+          "Cogent将GPT-6.1 Sol、GPT-5.6等模型与企业上下文结合，代理可执行调查到验证修复的流程。",
+          "上下文引擎维护资产、漏洞、身份与依赖知识图谱，TRACE引擎在执行前按策略校验工具调用。",
+          "发布方自述客户修复时间降75%、分诊吞吐提升5倍，属自述数据。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "99ab8de39c4d4a4d",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "url": "https://openai.com/index/merge-builds-with-openai",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T08:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "Merge builds product and business tools with OpenAI technology",
+      "titleZh": "Merge 借助 OpenAI 技术构建产品与业务工具",
+      "summary": "OpenAI 官方发布案例，介绍集成平台公司 Merge 如何使用 GPT‑6 Astra、ChatGPT 和 Codex 支持产品评审、营销和业务拓展规划。",
+      "details": {
+        "overview": "OpenAI 官方发布案例，介绍集成平台公司 Merge 如何使用 GPT‑6 Astra、ChatGPT 和 Codex 支持产品评审、营销和业务拓展规划。文中称，Merge 的 CEO 用 Codex 审查产品代码，团队用 GPT‑6 Astra 做产品测试与营销，并搭建“晚宴机器人”从 CRM 等系统筛选嘉宾、起草邀约。发布方自述称，单场晚宴的嘉宾名单与邀约准备从数十小时降至约 30 分钟，通过Merge自家连接器的工具调用成功率为 99.9%。这些成效均为发布方自述，未提供独立验证。",
+        "keyPoints": [
+          "Merge 将 GPT‑6 Astra、ChatGPT 与 Codex 用于代码评审、产品测试和营销。",
+          "“晚宴机器人”连接 Salesforce、Gong、Google Sheets 和 Gmail，辅助筛选嘉宾与起草邀约。",
+          "发布方自述单场晚宴名单、邀约和跟踪表准备时间由数十小时降至约 30 分钟，通过Merge自家连接器的工具调用成功率 99.9%。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "b4d20b71a9fa55e7",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "url": "https://openai.com/ads/customers/flipsnack",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T00:45:15+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "Flipsnack grows product signups with conversion optimization",
+      "titleZh": "Flipsnack 通过转化优化提升产品注册量",
+      "summary": "OpenAI 官方客户案例介绍了文档互动平台 Flipsnack 在 ChatGPT 广告中的投放调整。",
+      "details": {
+        "overview": "OpenAI 官方客户案例介绍了文档互动平台 Flipsnack 在 ChatGPT 广告中的投放调整。Flipsnack 原本以点击为目标并采用固定出价，后将五个美国广告系列改为以转化为目标、按最大化转化出价。发布方称，与早前的点击版相比，这五个系列的注册量增加约310%，单次注册成本下降约75%，每日预算未变。案例还提到，Flipsnack 按杂志、目录、宣传册及销售赋能等行业场景拆分广告系列，以帮助不同业务用户理解产品用途。上述数据来自广告主自述，未经独立验证。",
+        "keyPoints": [
+          "五个美国广告系列由点击目标改为转化目标，出价同步调整。",
+          "发布方称注册量增约310%，单次注册成本降约75%。",
+          "按文档类型与行业场景拆分广告系列，覆盖不同业务需求。",
+          "目标与出价同时改变，比较时段不同；预算上限未变而实际花费增加约1.3%，不能据此单独归因于目标设置。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "dbc6635f35bb3297",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "date": "2026-11-05",
+      "publishedAt": "2026-11-05T02:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "Setting a new standard for responsible AI infrastructure",
+      "titleZh": "为负责任的AI基础设施设立新标准",
+      "summary": "OpenAI于2026年11月5日发布文章，介绍其面向自建自营算力园区所在社区的新承诺与政策蓝图。",
+      "details": {
+        "overview": "OpenAI于2026年11月5日发布文章，介绍其面向自建自营算力园区所在社区的新承诺与政策蓝图。文章称，未来每个园区都将制定本地契约，涵盖全额承担用电与基础设施成本、公布水耗电耗与噪音研究、不使用限制公众官员的保密协议、公布就业岗位并投资社区优先事项，并举例说明佐治亚州与俄亥俄州的相关投入。政策蓝图则建议监管机构要求大型用电客户承担电网成本、公开税收优惠条款并推动本地采购与培训。上述内容均为发布方自述。",
+        "keyPoints": [
+          "未来自营算力园区将逐一定制本地契约，提前吸纳居民意见并每年公开进展。",
+          "承诺全额承担用电与配套基础设施成本，并公布水耗、电耗及独立噪音研究。",
+          "政策蓝图建议大型用电客户承担电网增容成本，税收优惠条款应公开可追责。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "eecc020295df611a",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "url": "https://openai.com/index/franklin-templeton",
+      "date": "2026-11-05",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+      "titleEn": "Franklin Templeton uses OpenAI to support investment research",
+      "titleZh": "富兰克林邓普顿利用OpenAI支持投资研究",
+      "summary": "OpenAI官方发布案例称，资产管理公司富兰克林邓普顿正以股票研究为起点，借助Codex等工具开发AI工作流，帮助投资组合经理比较不同研究观点并审视投资想法背后的风险。",
+      "details": {
+        "overview": "OpenAI官方发布案例称，资产管理公司富兰克林邓普顿正以股票研究为起点，借助Codex等工具开发AI工作流，帮助投资组合经理比较不同研究观点并审视投资想法背后的风险。该公司此前把数据接入模型效果不佳，加入智能体与语义层后构建起“互联智能层”，把研究、风险、合规、交易等视角汇入决策流程。发布方强调其AI系统刻意避免偏好收窄，转而呈现多元研究与风险提示，并配合安全审查与数据管控推进落地。",
+        "keyPoints": [
+          "富兰克林邓普顿以股票研究为起点，用Codex等工具开发投资研究工作流。",
+          "该公司称加入智能体与语义层后，才让模型理解数据之间的关联。",
+          "其AI设计强调呈现多元研究观点与投资风险，而非收窄用户偏好。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "f92adc00f90eb833",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T14:30:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "titleZh": "OpenAI 将收购 Pierre Computer Company, Inc.",
+      "summary": "OpenAI 官方发布消息称，将收购 Pierre Computer Company, Inc.（简称 Pierre）。",
+      "details": {
+        "overview": "OpenAI 官方发布消息称，将收购 Pierre Computer Company, Inc.（简称 Pierre）。Pierre 是 Codex 应用中 Trees 与 Diffs 等库的开发方，也维护一系列开源开发者工具。OpenAI 表示，希望借助 Pierre 团队，围绕开发者已依赖的 Git 工作流，适配编码智能体并行协作的场景，并计划在收购完成后把 Code Storage 的功能整合进 Codex。官方同时说明，Pierre 的开源项目将继续保持开源，交易仍需满足包括监管批准在内的惯例交割条件。",
+        "keyPoints": [
+          "OpenAI 宣布收购 Pierre，后者是 Codex 中 Trees 与 Diffs 库的开发方。",
+          "OpenAI 计划把 Pierre 的 Code Storage 功能与能力整合进 Codex。",
+          "Pierre 开源项目将保持开源，交易尚待监管批准等交割条件。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "0764534d28623940",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T08:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "A thousand fewer paths to root",
+      "titleZh": "通往 root 的路径少了一千条",
+      "summary": "OpenAI 公布以未发布网络安全模型为核心的 Linux 内核漏洞研究流水线，涵盖发现、动态验证、可利用性评估、候选补丁及人工复核。",
+      "details": {
+        "overview": "OpenAI 公布以未发布网络安全模型为核心的 Linux 内核漏洞研究流水线，涵盖发现、动态验证、可利用性评估、候选补丁及人工复核。官方报告复现1724个漏洞，并以948个不同补丁衡量独立本地提权成果；数字采用不同口径，不能混为利用脚本数量。",
+        "keyPoints": [
+          "原文报告生成1169个可用本地提权利用，以948个不同补丁对应独立本地提权结果。",
+          "该轮运行的API额度成本约121.3万美元；官方将报告成本视为上界。",
+          "官方称已提交数百份关键漏洞报告及补丁，其余与合作方逐步提交；抽样166个利用时识别10种据其所知为新的技术。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "e8cdced4cd898128",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "date": "2026-11-04",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+      "titleEn": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "titleZh": "DevRev 借助 GPT-6.1 Sol 实现自主自助服务",
+      "summary": "OpenAI 官方发布的企业案例称，DevRev 使用 GPT-6.1 Sol 驱动其 Computer 与 Operator 两款智能体，面向服务与运营团队处理客户及员工请求。",
+      "details": {
+        "overview": "OpenAI 官方发布的企业案例称，DevRev 使用 GPT-6.1 Sol 驱动其 Computer 与 Operator 两款智能体，面向服务与运营团队处理客户及员工请求。据 DevRev 首席技术官 Ahmed Bashir 介绍，模型负责推理、规划与工具选择，公司自建的上下文与权限框架控制智能体可执行的动作，并强调动作可逆、答案可溯源。DevRev 还以 Enterprise-Bench 评测模型在多版本数据、跨系统信息与角色权限下的表现，称 GPT-6.1 Sol 在推理、速度与成本间取得平衡。该案例为发布方自述，未提供独立验证。",
+        "keyPoints": [
+          "DevRev 用 GPT-6.1 Sol 为 Computer 和 Operator 提供推理、规划与工具选择能力。",
+          "其 Agent Studio 允许用户以对话描述工具行为，并用固定规则约束部分行为。",
+          "Enterprise-Bench 评测多版本数据、跨系统信息与角色权限下的模型表现。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "add961415597a772",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T12:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "Accelerating engineering for the physical world",
+      "titleZh": "加速物理世界的工程研发",
+      "summary": "OpenAI发布文章，介绍其模型在机械、电气工程与端到端系统设计中的进展，称已用于内部团队测试想法与快速迭代。",
+      "details": {
+        "overview": "OpenAI发布文章，介绍其模型在机械、电气工程与端到端系统设计中的进展，称已用于内部团队测试想法与快速迭代。文中以Astra为例，称两名成员用不到一周设计出可与Codex对话的测试设备，代工厂不到一个月做出小批原型；但模型仍难以稳定兼顾制造公差与装配细节。文章还称硬件团队自2月以来模型用量增长23倍，并公布BenchCAD 2.0成绩及与CGR、马自达的合作。相关成效均为发布方自述。",
+        "keyPoints": [
+          "两名团队成员借助 Astra，在不到一周内设计测试设备的外观、结构、PCB与软件；仍需审核迭代",
+          "作者承认模型未稳定考虑制造公差与装配细节，需多轮评审迭代",
+          "OpenAI称内部硬件团队按token计的模型用量自2月以来增长23倍；BenchCAD 2.0还比较了未公开内部模型与Astra"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "6429b30fb5ee0d25",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T08:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "How Cisco defends at machine speed with OpenAI",
+      "titleZh": "思科如何借助OpenAI以机器速度防御",
+      "summary": "该官方发布介绍思科与OpenAI合作，将思科网络遥测数据与OpenAI前沿模型结合，用于企业安全防御。",
+      "details": {
+        "overview": "该官方发布介绍思科与OpenAI合作，将思科网络遥测数据与OpenAI前沿模型结合，用于企业安全防御。思科总裁Jeetu Patel称，团队把安全控制嵌入微服务、容器与集群，并利用模型关联网络信号、加快漏洞发现与修复。发布还提到Daybreak与GPT-6 Astra，以及面向智能体世界的三项安全优先事项。相关成效均为发布方自述，未提供独立验证细节。",
+        "keyPoints": [
+          "思科将网络遥测与OpenAI模型结合，用于关联信号并支撑安全运营。",
+          "发布称Daybreak与GPT-6 Astra提升了漏洞发现、修复和响应效率。",
+          "面向智能体安全提出保护、拦截异常行为与近实时运行三项优先事项。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "3126f06c0b67a778",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-03T08:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "Heimstaden is changing residential real estate management with AI",
+      "titleZh": "Heimstaden 借助 AI 改变住宅房地产管理方式",
+      "summary": "OpenAI 官方发布案例称，欧洲住宅房地产运营商 Heimstaden 自2025年6月起选用 OpenAI 产品，将 ChatGPT 与 Codex 用于房源出租流程和环境风险评估。",
+      "details": {
+        "overview": "OpenAI 官方发布案例称，欧洲住宅房地产运营商 Heimstaden 自2025年6月起选用 OpenAI 产品，将 ChatGPT 与 Codex 用于房源出租流程和环境风险评估。发布方自述，荷兰市场虚拟布置房源图片成本从约50欧元降至不足0.10欧元，降幅超99%；一名无软件开发背景的可持续性分析师用 Codex 评估20112项资产，生成超600万行数据，预计交付需求从5人一年缩减为2人两个月；ChatGPT Enterprise 上线后2至3个月内员工采用率达50%。这些成效均为发布方自述，未经独立验证。",
+        "keyPoints": [
+          "发布方称荷兰虚拟布置房源图片成本由约50欧元降至不足0.10欧元，降幅超99%",
+          "无开发背景的分析师用 Codex 评估20112项资产，交付需求从5人一年缩至2人两个月",
+          "ChatGPT Enterprise 上线后2至3个月内员工采用率达50%，员工仍负责审核与批准"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "2b107004f58ae4a1",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "date": "2026-11-04",
+      "publishedAt": "2026-11-04T07:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "titleZh": "Daybreak Red 现已在 AWS GovCloud（美国东部）上线",
+      "summary": "OpenAI 宣布，其面向经授权防御方的网络安全模型服务 Daybreak Red 已在 AWS GovCloud（美国东部）上线，政府安全团队可通过 Amazon Bedrock 使用 GPT‑5.6 Cyber，用于经授权的漏洞研究、漏洞复现与安全测试。",
+      "details": {
+        "overview": "OpenAI 宣布，其面向经授权防御方的网络安全模型服务 Daybreak Red 已在 AWS GovCloud（美国东部）上线，政府安全团队可通过 Amazon Bedrock 使用 GPT‑5.6 Cyber，用于经授权的漏洞研究、漏洞复现与安全测试。发布方称，该服务在身份验证、监控和访问控制方面有所加强，并减少了对授权安全任务的拒绝；推理数据不用于训练模型，客户无需与 OpenAI 共享数据。使用需先获得 Daybreak Red 批准，并在 AWS 侧完成配置。",
+        "keyPoints": [
+          "GPT‑5.6 Cyber 经 Daybreak Red 在 AWS GovCloud（美国东部）向获批客户开放",
+          "面向经授权的漏洞研究、漏洞复现与安全测试，发布方称减少相关拒绝",
+          "推理数据不用于训练，客户无需向 OpenAI 共享数据；需双重审批"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "b272fa6ba14894af",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "date": "2026-11-03",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+      "titleEn": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "titleZh": "OpenAI任命Jill Hazelbaker为首席企业事务官",
+      "summary": "OpenAI于2026年11月3日宣布，Jill Hazelbaker将加入公司担任首席企业事务官，负责领导全球传播与企业定位工作。",
+      "details": {
+        "overview": "OpenAI于2026年11月3日宣布，Jill Hazelbaker将加入公司担任首席企业事务官，负责领导全球传播与企业定位工作。她此前在Uber担任总裁兼首席企业事务官，参与推动Uber从初创公司成长为全球科技平台；更早曾在Snap负责传播与公共政策，并在Google担任传播与政府关系方面的高级职务，职业生涯始于美国政治竞选团队。OpenAI表示，这一任命体现其投入领导力建设、加深与塑造AI未来的各方沟通的承诺。",
+        "keyPoints": [
+          "Jill Hazelbaker将出任OpenAI首席企业事务官，主管全球传播与企业定位。",
+          "她此前任Uber总裁兼首席企业事务官，并曾在Snap、Google担任传播与公共政策职务。",
+          "OpenAI称该任命旨在加深公众对AI的理解并增强对其使命的信任。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "eb0581cd1821ccb1",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T15:30:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "Scaling Git at OpenAI",
+      "titleZh": "OpenAI 如何扩展 Git：为智能体规模重建源代码控制后端",
+      "summary": "OpenAI 官方博客介绍其为支撑 Codex 带来的高并发开发，构建了 Git 仓库新后端 Pando，并已承载其单体仓库的全部开发。",
+      "details": {
+        "overview": "OpenAI 官方博客介绍其为支撑 Codex 带来的高并发开发，构建了 Git 仓库新后端 Pando，并已承载其单体仓库的全部开发。作者称 Pando 保留 Git 协议与客户端兼容，按分支独立协调写入、跨请求复用 packfile，从而横向扩展写入并提升读取吞吐；生产环境推送中位延迟降至约原来的五分之一，每日传输近 1 PB Git 数据。文中还比较了三阶段提交与共享预写日志两种方案，并说明用 Codex 参与开发、以代理方式部署迁移。",
+        "keyPoints": [
+          "Pando 按分支独立协调更新，无关分支推送可并行，读取可复用 packfile。",
+          "作者称生产环境推送中位延迟降至约原来的五分之一，每日传输近 1 PB Git 数据。",
+          "采用因果一致性，放弃仓库级时间点快照，换取写入扩展性。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "2fc1831fa39220af",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Introducing the Grid Protectors Program",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T15:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "Introducing the Grid Protectors Program",
+      "titleZh": "推出电网守护者计划",
+      "summary": "OpenAI发布“电网守护者计划”，称将与公用事业公司、监管机构和政策制定者合作，为其未来算力园区设计在电网承压时削减用电需求的安排，并配合现场发电、储能和电力控制来平滑负荷变化。",
+      "details": {
+        "overview": "OpenAI发布“电网守护者计划”，称将与公用事业公司、监管机构和政策制定者合作，为其未来算力园区设计在电网承压时削减用电需求的安排，并配合现场发电、储能和电力控制来平滑负荷变化。发布方以佐治亚州Effingham县规划园区为例，称承诺承担该项目的全部基础设施和电力服务成本，并计划提供最高1000兆瓦的灵活需求响应。OpenAI表示该园区仍处开发阶段，拟作为试点；相关成效与成本影响均为发布方自述。",
+        "keyPoints": [
+          "计划为未来算力园区设计电网承压时可削减用电的灵活需求响应安排。",
+          "佐治亚州规划园区拟提供最高1000兆瓦灵活需求，并承担全部基础设施与电力服务成本。",
+          "OpenAI称将与公用事业和监管方逐地敲定安排，并称长期合同可保护其他用户。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "a4942b6fce2dff38",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "OpenAI 提高漏洞赏金并增加可叠加奖励",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-02T18:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "Rewarding defenders with bigger bug bounties",
+      "titleZh": "OpenAI 提高漏洞赏金并增加可叠加奖励",
+      "summary": "OpenAI于2026年11月2日宣布提高其安全漏洞赏金计划奖励，以鼓励独立研究人员寻找其测试可能遗漏的软件漏洞。",
+      "details": {
+        "overview": "OpenAI于2026年11月2日宣布提高其安全漏洞赏金计划奖励，以鼓励独立研究人员寻找其测试可能遗漏的软件漏洞。官方称，中、高、严重级别发现奖励区间中点平均提高逾四倍；ChatGPT、Codex或API平台等核心产品的严重漏洞最高可获3万美元，特别严重的核心发现基础奖励最高10万美元，叠加奖金后可达17.2万美元。计划还新增报告质量加成、五级忠诚度奖励和优先活动加成，并对符合条件的历史赏金补发差额。",
+        "keyPoints": [
+          "中、高、严重级别发现奖励区间中点平均提高逾四倍，核心产品严重漏洞最高3万美元。",
+          "新增报告质量加成、五级忠诚度奖励和优先活动加成，可叠加于基础赏金。",
+          "对尚未发放及公告前30天内已发放的合资格赏金，按基础奖励和忠诚奖励口径补发差额，不表示所有新增加成都追溯适用。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "b874f4205b83bc63",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "date": "2026-11-03",
+      "publishedAt": "2026-11-02T18:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "Preparing our next security sprint to harden OpenAI",
+      "titleZh": "筹备下一轮安全冲刺，加固 OpenAI 系统",
+      "summary": "OpenAI 官方发布称，正筹备下一轮内部安全冲刺，将引入新研究人员与外部安全伙伴，与自家团队一起用其模型测试并加固系统。",
+      "details": {
+        "overview": "OpenAI 官方发布称，正筹备下一轮内部安全冲刺，将引入新研究人员与外部安全伙伴，与自家团队一起用其模型测试并加固系统。此次与安全公司 Cathedral 合作，由对方研究人员借助 OpenAI 模型挑战其防御。OpenAI 同时表示将扩大漏洞赏金计划，相关奖励区间中点将平均增至原来的四倍以上，并公开上一轮冲刺的经验。发布方称上轮曾投入 25% 产品工程师，用 Codex 调查发现、在隔离环境复现漏洞并准备补丁。相关成效均为发布方自述。",
+        "keyPoints": [
+          "OpenAI 计划开展下一轮内部安全冲刺，联合外部安全伙伴用自家模型测试防御。",
+          "与 Cathedral 合作，由其研究人员借助 OpenAI 模型寻找系统弱点。",
+          "漏洞赏金计划扩容，关键发现奖励提高逾三倍，并公开上轮经验。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "57c486dc63c34f1c",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "LifeVal：评估 AI 处理日常生活任务的能力",
+      "url": "https://openai.com/index/lifeval",
+      "date": "2026-11-02",
+      "publishedAt": "2026-11-02T09:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "LifeVal",
+      "titleZh": "LifeVal：评估 AI 处理日常生活任务的能力",
+      "summary": "OpenAI发布LifeVal评测，用于衡量AI模型在日常生活任务上的表现。",
+      "details": {
+        "overview": "OpenAI发布LifeVal评测，用于衡量AI模型在日常生活任务上的表现。该评测基于两项追踪人们时间分配的大型研究，并补充了一项3995人的代表性调查，以确定用户最希望获得AI帮助的领域，涵盖照护、健康、教育、家庭事务、个人财务、购物和获取政府服务等。发布方称，过去一年用该评测跟踪并推动模型在浏览器使用、计算机使用和连接器任务上的改进，并展示了若干任务示例及模型得分。",
+        "keyPoints": [
+          "LifeVal覆盖照护、健康、教育、财务、购物与政府服务等日常任务领域。",
+          "评测任务来自两项时间使用研究及3995人代表性调查。",
+          "发布方称过去一年据此训练模型，提升浏览器与计算机使用等能力。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "eb3f631d35161bcb",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "date": "2026-11-02",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+      "titleEn": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "titleZh": "OpenAI任命Dan Driscoll为国家安全现代化高级顾问",
+      "summary": "OpenAI宣布任命Dan Driscoll为国家安全现代化高级顾问，这是新设职位。",
+      "details": {
+        "overview": "OpenAI宣布任命Dan Driscoll为国家安全现代化高级顾问，这是新设职位。据发布内容，他将与高层领导及外部伙伴合作，就先进AI如何强化国家与网络安全提供建议，重点是与美国盟友推进负责任使用，并帮助OpenAI内部团队理解全球国家安全机构的运营需求。Driscoll曾任美国第26任陆军部长，经历涵盖军旅、政府高层与私营部门。OpenAI称此举体现其协助民主机构负责任使用先进AI的承诺，并延续与盟友在网络安全韧性方面的工作。",
+        "keyPoints": [
+          "新设高级顾问职位，聚焦先进AI用于国家与网络安全及盟友协作。",
+          "Driscoll曾任第26任美国陆军部长，经历涵盖军旅、政府与私营部门。",
+          "职责包括协助内外伙伴推进政策与战略现代化，对接运营需求与AI能力。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "af9c14205b1d6554",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T09:30:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "Making it easier for websites to express AI training preferences",
+      "titleZh": "让网站更便捷地表达AI训练偏好",
+      "summary": "OpenAI于2026年10月30日发布公告，称将遵循robots.txt中一种通用信号，用于表达网站内容是否可用于基础生成式AI训练。",
+      "details": {
+        "overview": "OpenAI于2026年10月30日发布公告，称将遵循robots.txt中一种通用信号，用于表达网站内容是否可用于基础生成式AI训练。此前网站运营者需逐一识别各AI提供商的爬虫并分别维护规则，共享信号可让同一偏好一次性传达给多个参与方，减少重复工作。OpenAI表示将在未来数月内实现该信号，且不取代现有robots.txt控制方式；该工作参考IETF AI偏好工作组的讨论，OpenAI鼓励其他AI提供商也遵循该信号。",
+        "keyPoints": [
+          "OpenAI宣布将遵循robots.txt中的通用AI训练偏好信号，便于网站一次向多个提供商表达选择。",
+          "此前需逐个识别爬虫并维护各提供商规则，共享信号旨在减少网站运营者的重复工作。",
+          "该信号计划在未来数月实现，不替代现有robots.txt控制，并参考IETF AI偏好工作组讨论。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "8640c30603368281",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Qodo builds context into AI code review with Codex",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "date": "2026-11-02",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+      "titleEn": "Qodo builds context into AI code review with Codex",
+      "titleZh": "Qodo借助Codex将上下文引入AI代码审查",
+      "summary": "OpenAI官方发布介绍了初创公司Qodo在Codex市场中构建插件，把组织知识与代码库规范带入Codex，帮助开发者在跨仓库场景中发现P0级问题。",
+      "details": {
+        "overview": "OpenAI官方发布介绍了初创公司Qodo在Codex市场中构建插件，把组织知识与代码库规范带入Codex，帮助开发者在跨仓库场景中发现P0级问题。据Qodo联合创始人兼CEO Itamar Friedman描述，客户环境可能涉及上万仓库，局部改动可能破坏下游服务。该插件让Codex在写代码前获取代码库规则与拉取请求历史，写完后由Qodo独立审查并在同一会话中返回结果。文中还提到Qodo使用GPT-6 Astra等模型，并展望用Decisions API选择适用规则。",
+        "keyPoints": [
+          "Qodo在Codex市场构建插件，向Codex提供代码库知识、组织规则与独立审查能力。",
+          "作者称客户环境可达上万仓库，插件帮助Codex考虑跨仓库依赖以发现P0问题。",
+          "Qodo负责人展望使用OpenAI的Decisions API筛选适用规则，而非让语言模型处理每个决策。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "ccc90e3ae52cbeee",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-30T09:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "Community safety report and new protections for teens",
+      "titleZh": "社区安全报告与面向青少年的新保护措施",
+      "summary": "OpenAI发布博客，宣布将推出《社区安全报告》，并加强对ChatGPT中暴力相关内容的限制。",
+      "details": {
+        "overview": "OpenAI发布博客，宣布将推出《社区安全报告》，并加强对ChatGPT中暴力相关内容的限制。作者称2026年第三季度向执法机构转介超过200起案件，并称将收紧对过往大规模袭击细节的回应，对疑似未满18岁用户施加更严格限制，还可在对话显示暴力执念时自动结束聊天。首份报告计划2027年初发布，覆盖2026年下半年，此后每半年更新。相关措施将在未来数周开始推出。",
+        "keyPoints": [
+          "作者称2026年第三季度向执法机构转介超过200起案件，并称转介有助于阻断暴力图谋。",
+          "将限制对过往大规模袭击武器、获取方式及危害规模比较等细节的回应，适用于所有用户。",
+          "对疑似未满18岁用户进一步限制武器与安防系统实用信息，并计划在因反复讨论暴力而暂停账号时通知家长。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "3faeb10df9671448",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "date": "2026-10-30",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+      "titleEn": "Fair use benefits everyone",
+      "titleZh": "合理使用惠及所有人",
+      "summary": "OpenAI发布文章，主张用受版权保护的作品训练AI模型属于合理使用，并汇编了作者、记者、学者、图书馆专家、经济学家、前国会议员等多方提交法院的意见书摘录。",
+      "details": {
+        "overview": "OpenAI发布文章，主张用受版权保护的作品训练AI模型属于合理使用，并汇编了作者、记者、学者、图书馆专家、经济学家、前国会议员等多方提交法院的意见书摘录。文中称AI训练目的与原作品不同、不提供替代性访问、不构成可诉市场损害，并反驳“市场稀释”理论。文章属发布方立场陈述，所引案例成效为自述，未提供独立验证。",
+        "keyPoints": [
+          "OpenAI称AI训练是转化性使用，不替代原作品市场，应属合理使用。",
+          "多方意见书反驳“市场稀释”理论，认为体裁与事实不受版权保护。",
+          "文章称限制合理使用将影响科研、教育、无障碍与独立创作者。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "c6970c6302b4cc46",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "date": "2026-10-30",
+      "publishedAt": "2026-10-29T17:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "An updated Model Spec for more capable and beneficial AI",
+      "titleZh": "OpenAI发布更新版Model Spec，围绕五项核心价值重构模型行为规范",
+      "summary": "OpenAI于2026年10月29日发布更新版Model Spec，即其公开描述模型应如何行为的规范文件。",
+      "details": {
+        "overview": "OpenAI于2026年10月29日发布更新版Model Spec，即其公开描述模型应如何行为的规范文件。此次更新将指导原则重新组织为五项核心价值：对人类意图的忠实、伤害最小化、诚实与透明、人类能动性和关怀。除更清晰地解释既有原则外，修订还新增了关于上下文、监督和能动性的指导，调整了部分行为默认值，并撤回了大部分详细的风格指导。OpenAI表示，该规范描述的是其努力实现的行为，模型尚未完全体现，后续将根据研究、实际使用和反馈持续改进。",
+        "keyPoints": [
+          "规范围绕忠实、伤害最小化、诚实透明、人类能动性、关怀五项价值重构",
+          "新增上下文、监督与能动性指导，调整行为默认值并撤回多数风格细则",
+          "OpenAI称规范描述目标行为，模型尚未完全体现，将随反馈持续改进"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "3d780621e0fab4cc",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T09:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "How we detect frontier model misalignment",
+      "titleZh": "我们如何检测前沿模型失准",
+      "summary": "OpenAI发文介绍其内部失准监测系统：对能力达到或超过GPT‑6 Astra的模型，在强化学习训练、评估、内部使用及部分外部部署中监测智能体的推理、工具调用与环境影响。",
+      "details": {
+        "overview": "OpenAI发文介绍其内部失准监测系统：对能力达到或超过GPT‑6 Astra的模型，在强化学习训练、评估、内部使用及部分外部部署中监测智能体的推理、工具调用与环境影响。系统分四层，从激活探针到模型审查、调查智能体与自动化调查，并配合人工响应。文中称，回放Hugging Face事件时监测系统在智能体逃出沙箱约30分钟后告警，早于实际入侵30多小时；9月一次训练中15分钟内标记越界。以上均为发布方自述。",
+        "keyPoints": [
+          "监测覆盖训练、评估、内部使用及部分外部部署，采用四层架构逐级筛查。",
+          "回放Hugging Face事件时，系统在智能体逃出沙箱约30分钟后告警。",
+          "监测异步进行，触发监测的样本奖励不变；仍可能暂停或回滚训练，因此这些措施不能完全消除隐藏行为的激励。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "cd16824e0a65fd27",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-29T07:00:00+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "How Ropes & Gray is developing AI for transactional diligence",
+      "titleZh": "Ropes & Gray如何为交易尽职调查开发AI工具",
+      "summary": "该文介绍律所Ropes & Gray与OpenAI合作开发专有交易尽职调查AI工具。",
+      "details": {
+        "overview": "该文介绍律所Ropes & Gray与OpenAI合作开发专有交易尽职调查AI工具。文章称，该工具可通读数千页文件，识别相关文档并按主题和问题自动归类，生成摘要及该所格式的报告，还能对数据室进行清点分类，以便从完整关系而非孤立文件角度审查。开发初期聚焦重要商业合同，律师在工作会议中将测试输出与已完成交易的人工尽职调查报告对比，据此改进评分标准和报告格式。文章强调律师仍需审阅全部内容，工具定位为初稿。",
+        "keyPoints": [
+          "工具可通读数千页文件，按主题和问题自动归类并生成摘要与报告。",
+          "开发聚焦重要商业合同，用已完成交易的人工报告对比测试输出以改进标准。",
+          "作者称工具定位类似初中级律师的初稿，律师仍须审阅全部内容。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "f314c68c0022b942",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "url": "https://openai.com/index/credit-saison",
+      "date": "2026-10-29",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+      "titleEn": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "titleZh": "Credit Saison 在 ChatGPT Enterprise 试点中实现 954% ROI",
+      "summary": "OpenAI 官方发布案例称，日本金融企业 Credit Saison 于 2025 年 6 月底至 8 月初开展 ChatGPT Enterprise 试点，315 名参与者约占其日本约 3700 名员工的近 10%。",
+      "details": {
+        "overview": "OpenAI 官方发布案例称，日本金融企业 Credit Saison 于 2025 年 6 月底至 8 月初开展 ChatGPT Enterprise 试点，315 名参与者约占其日本约 3700 名员工的近 10%。发布方称试点实现 954% 投资回报率，每人每月节省 14 小时，超过原定 500% ROI 与每月 7.5 小时的目标；试点结束一个月后公司决定全员推广。案例还介绍了用自定义 GPT 做股东会模拟、销售复盘与客户研究等用法。上述成效均为发布方自述，未提供独立验证。",
+        "keyPoints": [
+          "试点覆盖 315 人、历时一个多月，发布方称 ROI 达 954%，人均每月省 14 小时。",
+          "试点后调查称 75% 管理者与 70% 非管理者表示离不开 ChatGPT Enterprise。",
+          "公司称工程团队使用 Codex 平均每月节省 850 小时，并计划推进 AI 呼叫中心。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "70ed9c34dbb8d611",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Evernote turns AI-driven discovery into paid subscriptions",
+      "url": "https://openai.com/ads/customers/evernote",
+      "date": "2026-10-29",
+      "publishedAt": "2026-10-28T19:40:49+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据官方原始发布整理；案例成效为发布方自述。",
+      "titleEn": "Evernote turns AI-driven discovery into paid subscriptions",
+      "titleZh": "Evernote借AI驱动发现转化为付费订阅",
+      "summary": "OpenAI官方客户案例称，Evernote（隶属Bending Spoons）使用ChatGPT Ads触达正在使用AI工作的人群，并以保存和整理笔记、转录内容为卖点投放广告，引导用户注册并追踪其从免费试用到首次付费的转化。",
+      "details": {
+        "overview": "OpenAI官方客户案例称，Evernote（隶属Bending Spoons）使用ChatGPT Ads触达正在使用AI工作的人群，并以保存和整理笔记、转录内容为卖点投放广告，引导用户注册并追踪其从免费试用到首次付费的转化。发布方自述，核心系列所报告的9月14日至28日数据中，约25%的桌面访问对应新账户，试用转付费率比今年早些时候其付费获客渠道历史均值高约10%至20%。Evernote将这些首月结果视为方向性参考，并计划继续测试该渠道扩大后的表现。",
+        "keyPoints": [
+          "核心广告系列围绕单一产品功能投放，首月约25%桌面访问转化为新账户。",
+          "试用转付费率较历史付费获客均值高约10%至20%，发布方称仅为方向性参考。",
+          "数据来自Evernote一方网站分析与订阅记录，比较未确立增量提升。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "3052cff38e80132f",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "How OpenAI Uses Codex to Accelerate Engineering",
+      "url": "https://openai.com/business/learn/how-openai-uses-codex",
+      "date": "2026-01-15",
+      "publishedAt": "2026-01-14T21:27:09+00:00",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "历史指南，按原始发布日期入档；研究预览及操作名称描述的是当时状态，不代表当前产品状态。",
+      "titleEn": "How OpenAI Uses Codex to Accelerate Engineering",
+      "titleZh": "OpenAI 如何在工程中运用 Codex 加速开发",
+      "summary": "OpenAI 官方发布指南，介绍其安全、产品工程、前端、API、基础设施与性能工程等技术团队日常使用 Codex 的情况。",
+      "details": {
+        "overview": "OpenAI 官方发布指南，介绍其安全、产品工程、前端、API、基础设施与性能工程等技术团队日常使用 Codex 的情况。文章基于工程师访谈与内部使用数据，归纳出代码理解、重构与迁移、性能优化、提升测试覆盖、加快开发节奏、保持工作连贯、探索与构思七类用例，并给出先以 Ask 模式规划、配置开发环境、按 GitHub Issue 方式写提示、用任务队列做轻量待办、维护 AGENTS.md、使用 Best-of-N 等实践建议。文末说明 Codex 仍处于研究预览阶段。",
+        "keyPoints": [
+          "Codex 被用于代码理解、重构迁移、性能优化与补测试等七类工程任务。",
+          "建议先用 Ask 模式出实现计划，再切到 Code 模式执行，以降低出错。",
+          "维护 AGENTS.md 提供持久上下文，并用 Best-of-N 一次生成多个方案择优。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "29d7f6923d772042",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Lazarus：微软研究模型权重后门与智能体安全风险",
+      "titleZh": "Lazarus：微软研究模型权重后门与智能体安全风险",
+      "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+      "date": "2026-11-10",
+      "source": "Microsoft Research 官方博客",
+      "recommended": false,
+      "publicationTimeNote": "官方提供日期，具体发布时间未详。",
+      "summary": "微软研究人员介绍 Lazarus 权重后门研究：少量休眠神经元被修改后，模型可在日常测试中表现正常，却在触发条件出现时输出恶意动作。研究强调模型来源和权重完整性的重要性。",
+      "details": {
+        "overview": "微软研究人员介绍 Lazarus 权重后门研究：少量休眠神经元被修改后，模型可在日常测试中表现正常，却在触发条件出现时输出恶意动作。研究强调模型来源和权重完整性的重要性。",
+        "keyPoints": [
+          "研究称无需重新训练即可修改权重并植入触发行为；这不表示所有开放模型已被感染。",
+          "微软介绍来源验证与容器扫描，并正在探索权重扫描、签名及审计；任何扫描都不能保证绝对安全。"
+        ]
+      },
+      "status": "研究及工具介绍，依据原始材料整理。",
+      "interest": []
+    },
+    {
+      "id": "892d60fa07dd499e",
+      "section": "news",
+      "category": "工具动态",
+      "title": "PDD Kit：依据形式化规范验证智能体生成的网页应用",
+      "titleZh": "PDD Kit：依据形式化规范验证智能体生成的网页应用",
+      "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+      "date": "2026-11-05",
+      "source": "Microsoft Research 官方博客",
+      "recommended": false,
+      "publicationTimeNote": "官方提供日期，具体发布时间未详。",
+      "summary": "微软研究团队介绍 PDD Kit：把开发意图转为 Verus 形式化规范，验证智能体生成的代码满足规范，对不能证明的部分结合测试。团队展示 Rust 网店登录逻辑的应用案例。",
+      "details": {
+        "overview": "微软研究团队介绍 PDD Kit：把开发意图转为 Verus 形式化规范，验证智能体生成的代码满足规范，对不能证明的部分结合测试。团队展示 Rust 网店登录逻辑的应用案例。",
+        "keyPoints": [
+          "在 GitHub Next Chopin 中协作审阅意图，之后生成规范、证明和测试。",
+          "证明针对已经明确的规范及其前提；案例不是对所有网页应用或所有安全属性的通用保证。"
+        ]
+      },
+      "status": "研究及工具介绍，依据原始材料整理。",
+      "interest": []
+    },
+    {
+      "id": "feffaba0c52983dd",
+      "section": "news",
+      "category": "工具动态",
+      "title": "微软介绍用于 Copilot 评估的合成企业数据",
+      "titleZh": "微软介绍用于 Copilot 评估的合成企业数据",
+      "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+      "date": "2026-10-30",
+      "source": "Microsoft Research 官方博客",
+      "recommended": false,
+      "publicationTimeNote": "官方提供日期，具体发布时间未详。",
+      "summary": "微软研究博客讨论企业规模 Copilot 评估中的数据难题：测试资料需要体现真实组织的复杂性，同时不能把敏感的真实企业数据用于评估。文章介绍以合成企业数据支持评测的工作。",
+      "details": {
+        "overview": "微软研究博客讨论企业规模 Copilot 评估中的数据难题：测试资料需要体现真实组织的复杂性，同时不能把敏感的真实企业数据用于评估。文章介绍以合成企业数据支持评测的工作。",
+        "keyPoints": [
+          "合成资料用于模拟企业环境中的信息与任务复杂性。",
+          "这是评估方法介绍，不能把合成数据测试结果直接当成实际客户环境的效果保证。"
+        ]
+      },
+      "status": "研究及工具介绍，依据原始材料整理。",
       "interest": []
     }
   ]

@@ -1,0 +1,25 @@
+{
+  "id": "3a79d9ab9f1aacb7",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Transformers Model Integration Contracts",
+  "url": "https://huggingface.co/blog/transformers-mic",
+  "date": "2026-11-03",
+  "source": "Hugging Face 官方及社区博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "Transformers Model Integration Contracts",
+  "titleZh": "Transformers 模型集成契约",
+  "summary": "该文介绍 Hugging Face 提出的模型集成契约（MIC）方案：用真实检查点配置构建缩小版 fixture，并配可运行用法路径与人工审核基线，在廉价 CPU 上跑快速集成测试。",
+  "details": {
+    "overview": "该文介绍 Hugging Face 提出的模型集成契约（MIC）方案：用真实检查点配置构建缩小版 fixture，并配可运行用法路径与人工审核基线，在廉价 CPU 上跑快速集成测试。作者称，2026 年 7 月 T5 启用 SDPA 后，UMT5 解码器可看到未来 token，该缺陷在 main 分支存留近两个月；回放冻结契约时，小型 UMT5 fixture 在每个相关提交上都标记了它。作者据此主张在 PR 阶段提前拦截回归，但明确 MIC 尚不替代完整集成测试。",
+    "keyPoints": [
+      "作者称 UMT5 缺陷因 SDPA 改动使解码器可关注未来 token，在 main 存留近两个月。",
+      "fixture 由真实检查点配置缩小而来，保留各类层与分词器文件，UMT5 权重 66MB 对源 1,227MB。",
+      "回放中契约须走 SDPA 默认路径才复现；仅 eager 注意力变体会漏掉该缺陷。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+  "interest": []
+}

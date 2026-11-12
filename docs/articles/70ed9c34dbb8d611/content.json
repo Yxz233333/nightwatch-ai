@@ -1,0 +1,25 @@
+{
+  "id": "70ed9c34dbb8d611",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Evernote turns AI-driven discovery into paid subscriptions",
+  "url": "https://openai.com/ads/customers/evernote",
+  "date": "2026-10-29",
+  "publishedAt": "2026-10-28T19:40:49+00:00",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "titleEn": "Evernote turns AI-driven discovery into paid subscriptions",
+  "titleZh": "Evernote借AI驱动发现转化为付费订阅",
+  "summary": "OpenAI官方客户案例称，Evernote（隶属Bending Spoons）使用ChatGPT Ads触达正在使用AI工作的人群，并以保存和整理笔记、转录内容为卖点投放广告，引导用户注册并追踪其从免费试用到首次付费的转化。",
+  "details": {
+    "overview": "OpenAI官方客户案例称，Evernote（隶属Bending Spoons）使用ChatGPT Ads触达正在使用AI工作的人群，并以保存和整理笔记、转录内容为卖点投放广告，引导用户注册并追踪其从免费试用到首次付费的转化。发布方自述，核心系列所报告的9月14日至28日数据中，约25%的桌面访问对应新账户，试用转付费率比今年早些时候其付费获客渠道历史均值高约10%至20%。Evernote将这些首月结果视为方向性参考，并计划继续测试该渠道扩大后的表现。",
+    "keyPoints": [
+      "核心广告系列围绕单一产品功能投放，首月约25%桌面访问转化为新账户。",
+      "试用转付费率较历史付费获客均值高约10%至20%，发布方称仅为方向性参考。",
+      "数据来自Evernote一方网站分析与订阅记录，比较未确立增量提升。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

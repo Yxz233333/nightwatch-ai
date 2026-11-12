@@ -1,0 +1,25 @@
+{
+  "id": "8076e56b7815f7bf",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Agentic cheminformatics with Google Antigravity",
+  "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+  "date": "2026-11-04",
+  "publishedAt": "2026-11-03T17:01:49+00:00",
+  "source": "Google DeepMind 官方博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "Agentic cheminformatics with Google Antigravity",
+  "titleZh": "Google Antigravity 中的智能体化学信息学",
+  "summary": "该文介绍 Google Antigravity 新增的化学信息学技能（Cheminformatics Skills）：由语言模型负责流程编排与科学推理，RDKit 等确定性工具执行分子计算，并连接 ChEMBL、PubChem 数据。",
+  "details": {
+    "overview": "该文介绍 Google Antigravity 新增的化学信息学技能（Cheminformatics Skills）：由语言模型负责流程编排与科学推理，RDKit 等确定性工具执行分子计算，并连接 ChEMBL、PubChem 数据。作者以肺癌药物为例，称智能体在约一小时内检索数千化合物、完成匹配分子对分析与效力建模，并提出刚性化大环设计及合成路线。原文强调这些设计只是可检验假设，仍需实验合成验证，且数据稀疏与测定噪声限制预测精度。",
+    "keyPoints": [
+      "语言模型负责流程编排与推理，RDKit 等确定性工具执行分子计算",
+      "以克唑替尼与劳拉替尼为例，智能体检索化合物并做匹配分子对分析",
+      "作者称约一小时提出刚性化大环设计与合成路线，但须实验验证"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

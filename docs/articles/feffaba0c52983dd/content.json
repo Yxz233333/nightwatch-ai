@@ -1,0 +1,22 @@
+{
+  "id": "feffaba0c52983dd",
+  "section": "news",
+  "category": "工具动态",
+  "title": "微软介绍用于 Copilot 评估的合成企业数据",
+  "titleZh": "微软介绍用于 Copilot 评估的合成企业数据",
+  "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+  "date": "2026-10-30",
+  "source": "Microsoft Research 官方博客",
+  "recommended": false,
+  "publicationTimeNote": "官方提供日期，具体发布时间未详。",
+  "summary": "微软研究博客讨论企业规模 Copilot 评估中的数据难题：测试资料需要体现真实组织的复杂性，同时不能把敏感的真实企业数据用于评估。文章介绍以合成企业数据支持评测的工作。",
+  "details": {
+    "overview": "微软研究博客讨论企业规模 Copilot 评估中的数据难题：测试资料需要体现真实组织的复杂性，同时不能把敏感的真实企业数据用于评估。文章介绍以合成企业数据支持评测的工作。",
+    "keyPoints": [
+      "合成资料用于模拟企业环境中的信息与任务复杂性。",
+      "这是评估方法介绍，不能把合成数据测试结果直接当成实际客户环境的效果保证。"
+    ]
+  },
+  "status": "研究及工具介绍，依据原始材料整理。",
+  "interest": []
+}

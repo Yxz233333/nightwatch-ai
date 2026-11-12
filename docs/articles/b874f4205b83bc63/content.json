@@ -1,0 +1,25 @@
+{
+  "id": "b874f4205b83bc63",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Preparing our next security sprint to harden OpenAI",
+  "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+  "date": "2026-11-03",
+  "publishedAt": "2026-11-02T18:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "titleEn": "Preparing our next security sprint to harden OpenAI",
+  "titleZh": "筹备下一轮安全冲刺，加固 OpenAI 系统",
+  "summary": "OpenAI 官方发布称，正筹备下一轮内部安全冲刺，将引入新研究人员与外部安全伙伴，与自家团队一起用其模型测试并加固系统。",
+  "details": {
+    "overview": "OpenAI 官方发布称，正筹备下一轮内部安全冲刺，将引入新研究人员与外部安全伙伴，与自家团队一起用其模型测试并加固系统。此次与安全公司 Cathedral 合作，由对方研究人员借助 OpenAI 模型挑战其防御。OpenAI 同时表示将扩大漏洞赏金计划，相关奖励区间中点将平均增至原来的四倍以上，并公开上一轮冲刺的经验。发布方称上轮曾投入 25% 产品工程师，用 Codex 调查发现、在隔离环境复现漏洞并准备补丁。相关成效均为发布方自述。",
+    "keyPoints": [
+      "OpenAI 计划开展下一轮内部安全冲刺，联合外部安全伙伴用自家模型测试防御。",
+      "与 Cathedral 合作，由其研究人员借助 OpenAI 模型寻找系统弱点。",
+      "漏洞赏金计划扩容，关键发现奖励提高逾三倍，并公开上轮经验。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

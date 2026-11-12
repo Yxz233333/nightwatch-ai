@@ -1,0 +1,25 @@
+{
+  "id": "9a7b9f98b514fd80",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+  "url": "https://openai.com/index/cogent-security",
+  "date": "2026-11-10",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+  "titleEn": "Cogent and OpenAI build cyber defense factories for enterprises",
+  "titleZh": "Cogent与OpenAI为企业打造网络防御工厂",
+  "summary": "OpenAI官方发布介绍了初创公司Cogent如何将OpenAI模型与企业环境上下文结合，构建“网络防御工厂”，让AI代理从漏洞调查一路推进到修复验证。",
+  "details": {
+    "overview": "OpenAI官方发布介绍了初创公司Cogent如何将OpenAI模型与企业环境上下文结合，构建“网络防御工厂”，让AI代理从漏洞调查一路推进到修复验证。Cogent的上下文引擎维护企业资产、漏洞、身份与依赖关系的知识图谱，代理策略与TRACE引擎在执行前校验允许的变更。发布方自述，一家财富1000强汽车客户将关键漏洞平均修复时间降低75%，一家财富500强IT服务客户的漏洞分诊吞吐量提升5倍。这些成效为发布方与客户自述，未说明独立验证。",
+    "keyPoints": [
+      "Cogent将GPT-6.1 Sol、GPT-5.6等模型与企业上下文结合，代理可执行调查到验证修复的流程。",
+      "上下文引擎维护资产、漏洞、身份与依赖知识图谱，TRACE引擎在执行前按策略校验工具调用。",
+      "发布方自述客户修复时间降75%、分诊吞吐提升5倍，属自述数据。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

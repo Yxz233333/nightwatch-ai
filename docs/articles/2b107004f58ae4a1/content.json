@@ -1,0 +1,25 @@
+{
+  "id": "2b107004f58ae4a1",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+  "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+  "date": "2026-11-04",
+  "publishedAt": "2026-11-04T07:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "titleEn": "Daybreak Red is now available in AWS GovCloud (US-East)",
+  "titleZh": "Daybreak Red 现已在 AWS GovCloud（美国东部）上线",
+  "summary": "OpenAI 宣布，其面向经授权防御方的网络安全模型服务 Daybreak Red 已在 AWS GovCloud（美国东部）上线，政府安全团队可通过 Amazon Bedrock 使用 GPT‑5.6 Cyber，用于经授权的漏洞研究、漏洞复现与安全测试。",
+  "details": {
+    "overview": "OpenAI 宣布，其面向经授权防御方的网络安全模型服务 Daybreak Red 已在 AWS GovCloud（美国东部）上线，政府安全团队可通过 Amazon Bedrock 使用 GPT‑5.6 Cyber，用于经授权的漏洞研究、漏洞复现与安全测试。发布方称，该服务在身份验证、监控和访问控制方面有所加强，并减少了对授权安全任务的拒绝；推理数据不用于训练模型，客户无需与 OpenAI 共享数据。使用需先获得 Daybreak Red 批准，并在 AWS 侧完成配置。",
+    "keyPoints": [
+      "GPT‑5.6 Cyber 经 Daybreak Red 在 AWS GovCloud（美国东部）向获批客户开放",
+      "面向经授权的漏洞研究、漏洞复现与安全测试，发布方称减少相关拒绝",
+      "推理数据不用于训练，客户无需向 OpenAI 共享数据；需双重审批"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

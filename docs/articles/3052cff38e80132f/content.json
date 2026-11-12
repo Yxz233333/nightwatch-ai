@@ -1,0 +1,25 @@
+{
+  "id": "3052cff38e80132f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How OpenAI Uses Codex to Accelerate Engineering",
+  "url": "https://openai.com/business/learn/how-openai-uses-codex",
+  "date": "2026-01-15",
+  "publishedAt": "2026-01-14T21:27:09+00:00",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "历史指南，按原始发布日期入档；研究预览及操作名称描述的是当时状态，不代表当前产品状态。",
+  "titleEn": "How OpenAI Uses Codex to Accelerate Engineering",
+  "titleZh": "OpenAI 如何在工程中运用 Codex 加速开发",
+  "summary": "OpenAI 官方发布指南，介绍其安全、产品工程、前端、API、基础设施与性能工程等技术团队日常使用 Codex 的情况。",
+  "details": {
+    "overview": "OpenAI 官方发布指南，介绍其安全、产品工程、前端、API、基础设施与性能工程等技术团队日常使用 Codex 的情况。文章基于工程师访谈与内部使用数据，归纳出代码理解、重构与迁移、性能优化、提升测试覆盖、加快开发节奏、保持工作连贯、探索与构思七类用例，并给出先以 Ask 模式规划、配置开发环境、按 GitHub Issue 方式写提示、用任务队列做轻量待办、维护 AGENTS.md、使用 Best-of-N 等实践建议。文末说明 Codex 仍处于研究预览阶段。",
+    "keyPoints": [
+      "Codex 被用于代码理解、重构迁移、性能优化与补测试等七类工程任务。",
+      "建议先用 Ask 模式出实现计划，再切到 Code 模式执行，以降低出错。",
+      "维护 AGENTS.md 提供持久上下文，并用 Best-of-N 一次生成多个方案择优。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

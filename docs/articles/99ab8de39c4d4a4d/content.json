@@ -1,0 +1,25 @@
+{
+  "id": "99ab8de39c4d4a4d",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Merge builds product and business tools with OpenAI technology",
+  "url": "https://openai.com/index/merge-builds-with-openai",
+  "date": "2026-11-05",
+  "publishedAt": "2026-11-05T08:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "titleEn": "Merge builds product and business tools with OpenAI technology",
+  "titleZh": "Merge 借助 OpenAI 技术构建产品与业务工具",
+  "summary": "OpenAI 官方发布案例，介绍集成平台公司 Merge 如何使用 GPT‑6 Astra、ChatGPT 和 Codex 支持产品评审、营销和业务拓展规划。",
+  "details": {
+    "overview": "OpenAI 官方发布案例，介绍集成平台公司 Merge 如何使用 GPT‑6 Astra、ChatGPT 和 Codex 支持产品评审、营销和业务拓展规划。文中称，Merge 的 CEO 用 Codex 审查产品代码，团队用 GPT‑6 Astra 做产品测试与营销，并搭建“晚宴机器人”从 CRM 等系统筛选嘉宾、起草邀约。发布方自述称，单场晚宴的嘉宾名单与邀约准备从数十小时降至约 30 分钟，通过Merge自家连接器的工具调用成功率为 99.9%。这些成效均为发布方自述，未提供独立验证。",
+    "keyPoints": [
+      "Merge 将 GPT‑6 Astra、ChatGPT 与 Codex 用于代码评审、产品测试和营销。",
+      "“晚宴机器人”连接 Salesforce、Gong、Google Sheets 和 Gmail，辅助筛选嘉宾与起草邀约。",
+      "发布方自述单场晚宴名单、邀约和跟踪表准备时间由数十小时降至约 30 分钟，通过Merge自家连接器的工具调用成功率 99.9%。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

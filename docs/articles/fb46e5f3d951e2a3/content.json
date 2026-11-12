@@ -1,0 +1,25 @@
+{
+  "id": "fb46e5f3d951e2a3",
+  "section": "news",
+  "category": "工具动态",
+  "title": "CWE-bench v2: More coverage, quality, and transparency",
+  "url": "https://huggingface.co/blog/cwe-bench",
+  "date": "2026-11-03",
+  "source": "Hugging Face 官方及社区博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "CWE-bench v2: More coverage, quality, and transparency",
+  "titleZh": "CWE-bench v2：覆盖更广、质量更高、更透明",
+  "summary": "Collinear AI 发布 CWE-bench v2，公开 100 个安全漏洞修复任务，覆盖 91 种 CWE。",
+  "details": {
+    "overview": "Collinear AI 发布 CWE-bench v2，公开 100 个安全漏洞修复任务，覆盖 91 种 CWE。智能体拿到真实开源仓库检出和简短指令，需在不破坏原有功能的前提下找出并修复安全弱点，评分完全程序化、可复现。作者称每题经人工复核，并用 LLM 评审小组校准难度与公平性，另设留出集跟踪未见过任务的进展。榜单显示 Gemini 4 Argon 以 67.8% pass@1 领先，但领先模型仍有约19%的任务在四次尝试中均未解决，长尾未解。",
+    "keyPoints": [
+      "公开 100 个任务、覆盖 91 种 CWE，评分程序化且可复现",
+      "每题经人工复核，并检查指令真实性、验证器公平性等条件",
+      "11 个模型中 Gemini 4 Argon 以 67.8% pass@1 居首，长尾仍难"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+  "interest": []
+}

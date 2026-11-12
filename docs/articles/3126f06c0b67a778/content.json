@@ -1,0 +1,25 @@
+{
+  "id": "3126f06c0b67a778",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Heimstaden is changing residential real estate management with AI",
+  "url": "https://openai.com/index/heimstaden",
+  "date": "2026-11-03",
+  "publishedAt": "2026-11-03T08:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "titleEn": "Heimstaden is changing residential real estate management with AI",
+  "titleZh": "Heimstaden 借助 AI 改变住宅房地产管理方式",
+  "summary": "OpenAI 官方发布案例称，欧洲住宅房地产运营商 Heimstaden 自2025年6月起选用 OpenAI 产品，将 ChatGPT 与 Codex 用于房源出租流程和环境风险评估。",
+  "details": {
+    "overview": "OpenAI 官方发布案例称，欧洲住宅房地产运营商 Heimstaden 自2025年6月起选用 OpenAI 产品，将 ChatGPT 与 Codex 用于房源出租流程和环境风险评估。发布方自述，荷兰市场虚拟布置房源图片成本从约50欧元降至不足0.10欧元，降幅超99%；一名无软件开发背景的可持续性分析师用 Codex 评估20112项资产，生成超600万行数据，预计交付需求从5人一年缩减为2人两个月；ChatGPT Enterprise 上线后2至3个月内员工采用率达50%。这些成效均为发布方自述，未经独立验证。",
+    "keyPoints": [
+      "发布方称荷兰虚拟布置房源图片成本由约50欧元降至不足0.10欧元，降幅超99%",
+      "无开发背景的分析师用 Codex 评估20112项资产，交付需求从5人一年缩至2人两个月",
+      "ChatGPT Enterprise 上线后2至3个月内员工采用率达50%，员工仍负责审核与批准"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

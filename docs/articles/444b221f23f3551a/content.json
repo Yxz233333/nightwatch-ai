@@ -1,0 +1,25 @@
+{
+  "id": "444b221f23f3551a",
+  "section": "news",
+  "category": "工具动态",
+  "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+  "url": "https://huggingface.co/blog/phonon-tts",
+  "date": "2026-11-05",
+  "source": "Hugging Face 官方及社区博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+  "titleZh": "深入解析 Phonon TTS：推出在基准测试中领先的高质量端侧语音",
+  "summary": "本文介绍 Gradium 团队开源的端侧文本转语音模型 Phonon：无需服务器和网络，文本留在本地设备。",
+  "details": {
+    "overview": "本文介绍 Gradium 团队开源的端侧文本转语音模型 Phonon：无需服务器和网络，文本留在本地设备。模型约 65MB 和 75MB 两档，两档合计覆盖英、法、德、西、葡五种语言，内置 100 多个声音，并支持声音克隆与文本描述生成声音。作者称其基于 Pocket TTS 谱系、采用流匹配生成音频，在 Hugging Face 开放 TTS 排行榜的德语和西班牙语可懂度上排名第一，并在 CPU 流式首音延迟基准中领先。文章还介绍了配套推理框架 ptts 与 Transformers 集成。",
+    "keyPoints": [
+      "Phonon 提供约 65MB 与 75MB 两档模型，其中31m仅英语，40m覆盖英法德西葡五种语言，内置逾百种声音。",
+      "Phonon 31m 以 Apache 2.0 发布可商用，其余模型为 CC BY-NC 非商业许可。",
+      "作者称其在开放 TTS 排行榜德语、西班牙语可懂度居首，CPU 流式首音延迟领先。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+  "interest": []
+}

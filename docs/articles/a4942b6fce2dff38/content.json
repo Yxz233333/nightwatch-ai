@@ -1,0 +1,25 @@
+{
+  "id": "a4942b6fce2dff38",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI 提高漏洞赏金并增加可叠加奖励",
+  "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+  "date": "2026-11-03",
+  "publishedAt": "2026-11-02T18:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "titleEn": "Rewarding defenders with bigger bug bounties",
+  "titleZh": "OpenAI 提高漏洞赏金并增加可叠加奖励",
+  "summary": "OpenAI于2026年11月2日宣布提高其安全漏洞赏金计划奖励，以鼓励独立研究人员寻找其测试可能遗漏的软件漏洞。",
+  "details": {
+    "overview": "OpenAI于2026年11月2日宣布提高其安全漏洞赏金计划奖励，以鼓励独立研究人员寻找其测试可能遗漏的软件漏洞。官方称，中、高、严重级别发现奖励区间中点平均提高逾四倍；ChatGPT、Codex或API平台等核心产品的严重漏洞最高可获3万美元，特别严重的核心发现基础奖励最高10万美元，叠加奖金后可达17.2万美元。计划还新增报告质量加成、五级忠诚度奖励和优先活动加成，并对符合条件的历史赏金补发差额。",
+    "keyPoints": [
+      "中、高、严重级别发现奖励区间中点平均提高逾四倍，核心产品严重漏洞最高3万美元。",
+      "新增报告质量加成、五级忠诚度奖励和优先活动加成，可叠加于基础赏金。",
+      "对尚未发放及公告前30天内已发放的合资格赏金，按基础奖励和忠诚奖励口径补发差额，不表示所有新增加成都追溯适用。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "2fc1831fa39220af",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Introducing the Grid Protectors Program",
+  "url": "https://openai.com/index/grid-protectors-program",
+  "date": "2026-11-02",
+  "publishedAt": "2026-11-02T15:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "titleEn": "Introducing the Grid Protectors Program",
+  "titleZh": "推出电网守护者计划",
+  "summary": "OpenAI发布“电网守护者计划”，称将与公用事业公司、监管机构和政策制定者合作，为其未来算力园区设计在电网承压时削减用电需求的安排，并配合现场发电、储能和电力控制来平滑负荷变化。",
+  "details": {
+    "overview": "OpenAI发布“电网守护者计划”，称将与公用事业公司、监管机构和政策制定者合作，为其未来算力园区设计在电网承压时削减用电需求的安排，并配合现场发电、储能和电力控制来平滑负荷变化。发布方以佐治亚州Effingham县规划园区为例，称承诺承担该项目的全部基础设施和电力服务成本，并计划提供最高1000兆瓦的灵活需求响应。OpenAI表示该园区仍处开发阶段，拟作为试点；相关成效与成本影响均为发布方自述。",
+    "keyPoints": [
+      "计划为未来算力园区设计电网承压时可削减用电的灵活需求响应安排。",
+      "佐治亚州规划园区拟提供最高1000兆瓦灵活需求，并承担全部基础设施与电力服务成本。",
+      "OpenAI称将与公用事业和监管方逐地敲定安排，并称长期合同可保护其他用户。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

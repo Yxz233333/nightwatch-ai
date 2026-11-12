@@ -1,0 +1,25 @@
+{
+  "id": "a7af3cb84f0109dc",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+  "url": "https://openai.com/index/jiostar-vijay-seshadri",
+  "date": "2026-11-11",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+  "titleEn": "JioStar’s chief architect on AI discovery at 500M-user scale",
+  "titleZh": "JioStar首席架构师谈5亿用户规模下的AI内容发现",
+  "summary": "这是OpenAI对JioStar首席架构师Vijay Seshadri的访谈。",
+  "details": {
+    "overview": "这是OpenAI对JioStar首席架构师Vijay Seshadri的访谈。JioStar运营娱乐与直播体育平台，服务超5亿用户，曾支持7250万并发直播体育观众。其使用OpenAI API在JioHotstar中构建对话式视频与板球数据发现助手，用户可自然语言查找影视、历史集锦、直播瞬间或板球统计，并以可视化对话返回结果。团队称约八周内支持超15种语言，围绕准确性、延迟与成本三方权衡设计，并强调评估体系与护栏先行。",
+    "keyPoints": [
+      "JioStar用OpenAI API在JioHotstar内建对话式视频与板球数据发现助手，覆盖超15种语言。",
+      "团队称约八周完成开发，设计围绕准确性、延迟、成本三方权衡，超六成用户使用语音。",
+      "作者强调评估与护栏先行，用LLM作评审并借Codex加速生成评估用例。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "c6970c6302b4cc46",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "An updated Model Spec for more capable and beneficial AI",
+  "url": "https://openai.com/index/updated-model-spec",
+  "date": "2026-10-30",
+  "publishedAt": "2026-10-29T17:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "titleEn": "An updated Model Spec for more capable and beneficial AI",
+  "titleZh": "OpenAI发布更新版Model Spec，围绕五项核心价值重构模型行为规范",
+  "summary": "OpenAI于2026年10月29日发布更新版Model Spec，即其公开描述模型应如何行为的规范文件。",
+  "details": {
+    "overview": "OpenAI于2026年10月29日发布更新版Model Spec，即其公开描述模型应如何行为的规范文件。此次更新将指导原则重新组织为五项核心价值：对人类意图的忠实、伤害最小化、诚实与透明、人类能动性和关怀。除更清晰地解释既有原则外，修订还新增了关于上下文、监督和能动性的指导，调整了部分行为默认值，并撤回了大部分详细的风格指导。OpenAI表示，该规范描述的是其努力实现的行为，模型尚未完全体现，后续将根据研究、实际使用和反馈持续改进。",
+    "keyPoints": [
+      "规范围绕忠实、伤害最小化、诚实透明、人类能动性、关怀五项价值重构",
+      "新增上下文、监督与能动性指导，调整行为默认值并撤回多数风格细则",
+      "OpenAI称规范描述目标行为，模型尚未完全体现，将随反馈持续改进"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

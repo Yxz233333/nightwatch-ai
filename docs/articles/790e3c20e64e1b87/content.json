@@ -1,0 +1,27 @@
+{
+  "id": "790e3c20e64e1b87",
+  "section": "news",
+  "category": "工具动态",
+  "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+  "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
+  "date": "2026-11-11",
+  "publishedAt": "2026-11-11T03:00:20+00:00",
+  "source": "NVIDIA 官方博客",
+  "recommended": true,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "recommendedOn": "2026-11-12",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+  "titleZh": "AI如何帮助回收商将混合废弃物转化为可再利用材料",
+  "summary": "这篇NVIDIA博客介绍四家Inception初创公司如何用视觉AI与机器人分拣混合废弃物。",
+  "details": {
+    "overview": "这篇NVIDIA博客介绍四家Inception初创公司如何用视觉AI与机器人分拣混合废弃物。AIRECO用Jetson模块分拣塑料，测试线识别准确率超95%；EverestLabs在北美和澳大利亚部署约150台分拣机器人；Greyparrot的Analyzer系统在20多国运行；reverse.fashion用高分辨率视觉模型分拣旧衣物。文章称这些技术有助于提升回收材料的商业可用性，但相关数据来自厂商自述，未经独立验证。",
+    "keyPoints": [
+      "AIRECO用视觉AI细化塑料分拣，测试线识别准确率超95%，目标将年处理量从1.8万吨提至4.8万吨。",
+      "EverestLabs在北美和澳大利亚部署约150台视觉引导分拣机器人，称已识别约400亿个物体。",
+      "Greyparrot的Analyzer系统在20多国运行，称使用设施效率提升10%至30%。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

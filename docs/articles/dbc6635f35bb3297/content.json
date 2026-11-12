@@ -1,0 +1,25 @@
+{
+  "id": "dbc6635f35bb3297",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Setting a new standard for responsible AI infrastructure",
+  "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+  "date": "2026-11-05",
+  "publishedAt": "2026-11-05T02:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "titleEn": "Setting a new standard for responsible AI infrastructure",
+  "titleZh": "为负责任的AI基础设施设立新标准",
+  "summary": "OpenAI于2026年11月5日发布文章，介绍其面向自建自营算力园区所在社区的新承诺与政策蓝图。",
+  "details": {
+    "overview": "OpenAI于2026年11月5日发布文章，介绍其面向自建自营算力园区所在社区的新承诺与政策蓝图。文章称，未来每个园区都将制定本地契约，涵盖全额承担用电与基础设施成本、公布水耗电耗与噪音研究、不使用限制公众官员的保密协议、公布就业岗位并投资社区优先事项，并举例说明佐治亚州与俄亥俄州的相关投入。政策蓝图则建议监管机构要求大型用电客户承担电网成本、公开税收优惠条款并推动本地采购与培训。上述内容均为发布方自述。",
+    "keyPoints": [
+      "未来自营算力园区将逐一定制本地契约，提前吸纳居民意见并每年公开进展。",
+      "承诺全额承担用电与配套基础设施成本，并公布水耗、电耗及独立噪音研究。",
+      "政策蓝图建议大型用电客户承担电网增容成本，税收优惠条款应公开可追责。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

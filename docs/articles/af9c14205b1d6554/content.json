@@ -1,0 +1,25 @@
+{
+  "id": "af9c14205b1d6554",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Making it easier for websites to express AI training preferences",
+  "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+  "date": "2026-10-30",
+  "publishedAt": "2026-10-30T09:30:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "titleEn": "Making it easier for websites to express AI training preferences",
+  "titleZh": "让网站更便捷地表达AI训练偏好",
+  "summary": "OpenAI于2026年10月30日发布公告，称将遵循robots.txt中一种通用信号，用于表达网站内容是否可用于基础生成式AI训练。",
+  "details": {
+    "overview": "OpenAI于2026年10月30日发布公告，称将遵循robots.txt中一种通用信号，用于表达网站内容是否可用于基础生成式AI训练。此前网站运营者需逐一识别各AI提供商的爬虫并分别维护规则，共享信号可让同一偏好一次性传达给多个参与方，减少重复工作。OpenAI表示将在未来数月内实现该信号，且不取代现有robots.txt控制方式；该工作参考IETF AI偏好工作组的讨论，OpenAI鼓励其他AI提供商也遵循该信号。",
+    "keyPoints": [
+      "OpenAI宣布将遵循robots.txt中的通用AI训练偏好信号，便于网站一次向多个提供商表达选择。",
+      "此前需逐个识别爬虫并维护各提供商规则，共享信号旨在减少网站运营者的重复工作。",
+      "该信号计划在未来数月实现，不替代现有robots.txt控制，并参考IETF AI偏好工作组讨论。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

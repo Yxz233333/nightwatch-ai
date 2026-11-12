@@ -1,0 +1,25 @@
+{
+  "id": "72d37334c1f030cb",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+  "url": "https://huggingface.co/blog/announcing-project-protostar",
+  "date": "2026-10-29",
+  "source": "Hugging Face 官方及社区博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+  "titleZh": "Project ProtoStar 发布：让公共资助科学成果适配 AI",
+  "summary": "Hugging Face 联合卡内基梅隆大学、普渡大学、佐治亚理工学院等机构发起 Project ProtoStar，目标是让公共资助科研产出的数据集、模型和代码以 AI 可用的机器可操作格式开放，便于发现、复用与组合。",
+  "details": {
+    "overview": "Hugging Face 联合卡内基梅隆大学、普渡大学、佐治亚理工学院等机构发起 Project ProtoStar，目标是让公共资助科研产出的数据集、模型和代码以 AI 可用的机器可操作格式开放，便于发现、复用与组合。项目通过开放挑战赛展示复用价值，首场由卡内基梅隆大学主办，于11月2日开放，举办期至11月13日，用 210 个美国城市的历史天气数据预测 2019 至 2026 年气候指标。发布方称，Hugging Face 已托管逾 1.7 万个核心科学领域公开数据集，2026 年前九个月新增科学数据集约为 2025 年同期三倍。",
+    "keyPoints": [
+      "项目由高校、Astera Institute、Hugging Face 与 ORCA 等合作推进，参与机构以谅解备忘录确认共享科研产出。",
+      "首场挑战用 210 个美国城市截至 2018 年的天气记录预测 2019 至 2026 年四项城市气候指标。",
+      "发布方称 Hugging Face 核心科学领域公开数据集超 1.7 万个，2026 年前九个月新增量约为去年同期三倍。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+  "interest": []
+}

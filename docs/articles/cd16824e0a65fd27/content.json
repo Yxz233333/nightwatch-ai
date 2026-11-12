@@ -1,0 +1,25 @@
+{
+  "id": "cd16824e0a65fd27",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Ropes & Gray is developing AI for transactional diligence",
+  "url": "https://openai.com/index/ropes-gray-ai-diligence",
+  "date": "2026-10-29",
+  "publishedAt": "2026-10-29T07:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "titleEn": "How Ropes & Gray is developing AI for transactional diligence",
+  "titleZh": "Ropes & Gray如何为交易尽职调查开发AI工具",
+  "summary": "该文介绍律所Ropes & Gray与OpenAI合作开发专有交易尽职调查AI工具。",
+  "details": {
+    "overview": "该文介绍律所Ropes & Gray与OpenAI合作开发专有交易尽职调查AI工具。文章称，该工具可通读数千页文件，识别相关文档并按主题和问题自动归类，生成摘要及该所格式的报告，还能对数据室进行清点分类，以便从完整关系而非孤立文件角度审查。开发初期聚焦重要商业合同，律师在工作会议中将测试输出与已完成交易的人工尽职调查报告对比，据此改进评分标准和报告格式。文章强调律师仍需审阅全部内容，工具定位为初稿。",
+    "keyPoints": [
+      "工具可通读数千页文件，按主题和问题自动归类并生成摘要与报告。",
+      "开发聚焦重要商业合同，用已完成交易的人工报告对比测试输出以改进标准。",
+      "作者称工具定位类似初中级律师的初稿，律师仍须审阅全部内容。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

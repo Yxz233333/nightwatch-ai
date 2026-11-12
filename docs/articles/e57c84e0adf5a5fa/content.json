@@ -1,0 +1,26 @@
+{
+  "id": "e57c84e0adf5a5fa",
+  "section": "news",
+  "category": "工具动态",
+  "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
+  "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
+  "date": "2026-11-06",
+  "publishedAt": "2026-11-05T16:00:00+00:00",
+  "source": "NVIDIA 官方博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
+  "titleZh": "让每一字节发挥更多性能：全栈协同设计如何应对AI内存挑战",
+  "summary": "文章讨论大模型、长上下文与智能体应用带来的GPU显存压力，介绍NVIDIA以全栈协同设计思路，将GPU高带宽内存、CPU内存、本地SSD与共享存储组成分层体系，并通过NVFP4压缩权重与KV缓存、跨NVL72分发权重、Dynamo管理上下文、CMX存储层及RAG索引外置等手段提升每字节内存的有效产出。",
+  "details": {
+    "overview": "文章讨论大模型、长上下文与智能体应用带来的GPU显存压力，介绍NVIDIA以全栈协同设计思路，将GPU高带宽内存、CPU内存、本地SSD与共享存储组成分层体系，并通过NVFP4压缩权重与KV缓存、跨NVL72分发权重、Dynamo管理上下文、CMX存储层及RAG索引外置等手段提升每字节内存的有效产出。文中引用SemiAnalysis AgentX数据称，从Blackwell Ultra到Vera Rubin平台，单GPU的HBM容量约增3%，智能体吞吐每美元最高提升30倍。",
+    "keyPoints": [
+      "文章称从Blackwell Ultra到Vera Rubin，单GPU HBM容量约增3%，智能体吞吐每美元最高提升30倍。",
+      "NVFP4用于压缩模型权重和KV缓存，权重可分散到NVL72中最多72块GPU。",
+      "Dynamo将闲置上下文移至CMX共享存储层，RAG索引放在HBM之外。",
+      "最高30倍每美元吞吐的比较限于文中 SemiAnalysis AgentX、DeepSeek V4 Pro、每用户125 tokens/s及对应NVL72配置，不能推广到所有任务。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

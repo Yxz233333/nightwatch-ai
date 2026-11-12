@@ -1,0 +1,27 @@
+{
+  "id": "9989774913168f52",
+  "section": "news",
+  "category": "工具动态",
+  "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+  "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+  "date": "2026-11-11",
+  "publishedAt": "2026-11-11T15:00:15+00:00",
+  "source": "Google DeepMind 官方博客",
+  "recommended": true,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "recommendedOn": "2026-11-12",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+  "titleZh": "AlphaGenome 2：解读细胞如何读取DNA，以更好地理解疾病",
+  "summary": "DeepMind 发布 AlphaGenome 2 条件式 DNA 序列模型，针对指定组织、细胞类型或状态预测基因调控读出。",
+  "details": {
+    "overview": "DeepMind 发布 AlphaGenome 2 条件式 DNA 序列模型，针对指定组织、细胞类型或状态预测基因调控读出。模型训练使用超过1.07亿份单细胞数据记录等资料，帮助研究基因变异在不同细胞中的作用；不是临床诊断工具。",
+    "keyPoints": [
+      "以百万碱基 DNA 序列和生物学条件作为输入，可结合单细胞测量预测基因表达、染色质可及性等。",
+      "在 TenK10K 免疫细胞测试中，官方报告因果变异识别为30%对16%、方向性基因效应为43%对23%；比较对象包括原 AlphaGenome 单细胞微调版及专用工具。",
+      "非商业研究可使用 API，商业研究为私有预览；尚未获得临床或诊断用途的验证或批准。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

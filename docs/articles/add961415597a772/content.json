@@ -1,0 +1,25 @@
+{
+  "id": "add961415597a772",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Accelerating engineering for the physical world",
+  "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+  "date": "2026-11-03",
+  "publishedAt": "2026-11-03T12:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "titleEn": "Accelerating engineering for the physical world",
+  "titleZh": "加速物理世界的工程研发",
+  "summary": "OpenAI发布文章，介绍其模型在机械、电气工程与端到端系统设计中的进展，称已用于内部团队测试想法与快速迭代。",
+  "details": {
+    "overview": "OpenAI发布文章，介绍其模型在机械、电气工程与端到端系统设计中的进展，称已用于内部团队测试想法与快速迭代。文中以Astra为例，称两名成员用不到一周设计出可与Codex对话的测试设备，代工厂不到一个月做出小批原型；但模型仍难以稳定兼顾制造公差与装配细节。文章还称硬件团队自2月以来模型用量增长23倍，并公布BenchCAD 2.0成绩及与CGR、马自达的合作。相关成效均为发布方自述。",
+    "keyPoints": [
+      "两名团队成员借助 Astra，在不到一周内设计测试设备的外观、结构、PCB与软件；仍需审核迭代",
+      "作者承认模型未稳定考虑制造公差与装配细节，需多轮评审迭代",
+      "OpenAI称内部硬件团队按token计的模型用量自2月以来增长23倍；BenchCAD 2.0还比较了未公开内部模型与Astra"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

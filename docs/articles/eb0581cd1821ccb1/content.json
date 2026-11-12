@@ -1,0 +1,25 @@
+{
+  "id": "eb0581cd1821ccb1",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Scaling Git at OpenAI",
+  "url": "https://openai.com/index/scaling-git-at-openai",
+  "date": "2026-11-02",
+  "publishedAt": "2026-11-02T15:30:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "titleEn": "Scaling Git at OpenAI",
+  "titleZh": "OpenAI 如何扩展 Git：为智能体规模重建源代码控制后端",
+  "summary": "OpenAI 官方博客介绍其为支撑 Codex 带来的高并发开发，构建了 Git 仓库新后端 Pando，并已承载其单体仓库的全部开发。",
+  "details": {
+    "overview": "OpenAI 官方博客介绍其为支撑 Codex 带来的高并发开发，构建了 Git 仓库新后端 Pando，并已承载其单体仓库的全部开发。作者称 Pando 保留 Git 协议与客户端兼容，按分支独立协调写入、跨请求复用 packfile，从而横向扩展写入并提升读取吞吐；生产环境推送中位延迟降至约原来的五分之一，每日传输近 1 PB Git 数据。文中还比较了三阶段提交与共享预写日志两种方案，并说明用 Codex 参与开发、以代理方式部署迁移。",
+    "keyPoints": [
+      "Pando 按分支独立协调更新，无关分支推送可并行，读取可复用 packfile。",
+      "作者称生产环境推送中位延迟降至约原来的五分之一，每日传输近 1 PB Git 数据。",
+      "采用因果一致性，放弃仓库级时间点快照，换取写入扩展性。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

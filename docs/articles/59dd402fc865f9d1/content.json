@@ -1,0 +1,26 @@
+{
+  "id": "59dd402fc865f9d1",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Speeding up planning decisions with AI",
+  "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+  "date": "2026-10-30",
+  "publishedAt": "2026-10-30T14:18:30+00:00",
+  "source": "Google DeepMind 官方博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "Speeding up planning decisions with AI",
+  "titleZh": "用AI加速规划审批决策",
+  "summary": "谷歌DeepMind与英国政府等合作开发的AI规划工具PlanAssist，用于辅助规划官员处理常规住宅申请。",
+  "details": {
+    "overview": "谷歌DeepMind与英国政府等合作开发的AI规划工具PlanAssist，用于辅助规划官员处理常规住宅申请。摘要称，在Barnet、Camden和Dorset的早期试点中，官员评估每份申请的平均耗时最多减少58%，且超过70%的自动生成报告无需编辑即获批准。工具负责核验材料、比对遗产与规划政策、检查既往异议并起草带引用的报告，最终决定仍由规划官员作出。该工具将扩展至更多英格兰地方规划部门，并进入为期12个月的Beta阶段。",
+    "keyPoints": [
+      "试点显示规划官员评估每份申请的平均时间最多减少58%。",
+      "超过70%的自动生成报告无需编辑即被官员批准。",
+      "工具核验材料、比对政策并起草报告，最终决定仍由官员作出。",
+      "报告无需修改是对草稿的接受，不是AI批准规划申请；扩大到全英格兰仍取决于测试。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

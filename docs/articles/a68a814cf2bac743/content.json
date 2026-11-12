@@ -1,0 +1,25 @@
+{
+  "id": "a68a814cf2bac743",
+  "section": "news",
+  "category": "工具动态",
+  "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+  "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+  "date": "2026-11-09",
+  "publishedAt": "2026-11-09T05:00:00+00:00",
+  "source": "NVIDIA 官方博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+  "titleZh": "NVIDIA Dynamo Recipes 将韩国领先开放模型推向生产环境",
+  "summary": "NVIDIA 发布针对韩国主要开放模型的 Dynamo 优化部署配方，覆盖 SK Telecom 的 A.X K2、LG AI Research 的 K-EXAONE 2.0、Upstage 的 Solar Open 2 和 Motif Technologies 的 Motif-3。",
+  "details": {
+    "overview": "NVIDIA 发布针对韩国主要开放模型的 Dynamo 优化部署配方，覆盖 SK Telecom 的 A.X K2、LG AI Research 的 K-EXAONE 2.0、Upstage 的 Solar Open 2 和 Motif Technologies 的 Motif-3。原文说明，当模型规模超出单块 GPU 容量时需拆分到多块 GPU，并协调请求路由与通信以维持性能；Dynamo 是面向数据中心规模多节点部署的开源分布式推理服务框架，负责这些路由与通信。配方针对 NVIDIA B200 GPU 优化，原文称开箱即可获得最高 2 倍性能，帮助开发者更快将上述模型投入生产。",
+    "keyPoints": [
+      "发布四款韩国开放模型的 Dynamo 优化部署配方，覆盖 SK Telecom、LG AI Research、Upstage 与 Motif Technologies。",
+      "Dynamo 为开源分布式推理服务框架，处理多节点环境中的请求路由与通信以提升推理性能。",
+      "配方针对 NVIDIA B200 GPU 优化，原文称开箱最高可达 2 倍性能。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

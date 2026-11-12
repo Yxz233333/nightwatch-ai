@@ -1,0 +1,25 @@
+{
+  "id": "be29aee5488e0429",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+  "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-09T19:51:47+00:00",
+  "source": "Google DeepMind 官方博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+  "titleZh": "Gemini Robotics 2.5 加速真实世界通用灵巧性",
+  "summary": "谷歌发布视觉-语言-动作模型 Gemini Robotics 2.5，称其在技能广度与学习速度上均有提升，可支持 Apptronik Apollo 2 人形机器人和 Franka Duo 等平台。",
+  "details": {
+    "overview": "谷歌发布视觉-语言-动作模型 Gemini Robotics 2.5，称其在技能广度与学习速度上均有提升，可支持 Apptronik Apollo 2 人形机器人和 Franka Duo 等平台。官方称在 200 项任务评测中，成功率较此前基线提高 30% 至 100%，任务完成速度快 20% 至 30%；在梅赛德斯-奔驰工厂的概念验证中，Apollo 2 完成汽车零件分拣，成功率达 96%。模型还增强了实时避障安全引导，并推出 ASIMOV-Jailbreak 基准。上述均为厂商自述，尚待独立验证。",
+    "keyPoints": [
+      "官方称在 200 项任务上成功率较基线提升 30% 至 100%，速度快 20% 至 30%。",
+      "与 Apptronik、奔驰合作的概念验证中，Apollo 2 零件分拣成功率达 96%。",
+      "新增推理时安全引导，官方称障碍物与人员附近安全完成率分别提升 33% 和 43%。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

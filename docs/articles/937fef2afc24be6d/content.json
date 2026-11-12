@@ -1,0 +1,25 @@
+{
+  "id": "937fef2afc24be6d",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Granite Switch 4.1.1 — Update models like you update software",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+  "date": "2026-10-29",
+  "publishedAt": "2026-10-29T13:37:07+00:00",
+  "source": "Hugging Face 官方及社区博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "Granite Switch 4.1.1 — Update models like you update software",
+  "titleZh": "Granite Switch 4.1.1 — 像更新软件一样更新模型",
+  "summary": "IBM 发布 Granite Switch 4.1.1 补丁版本，与 4.1 完全向后兼容、无需迁移。",
+  "details": {
+    "overview": "IBM 发布 Granite Switch 4.1.1 补丁版本，与 4.1 完全向后兼容、无需迁移。更新包括支持 10 种语言、自带标点与大小写的 Granite Speech ASR 模型，以及在 Jev Decision Index 测试集上表现改进的 granitelib-core Decision 适配器。作者强调，除训练新 ASR 模型和 Decision 适配器外，基础模型未重新计算，只需组合最新适配器即可部署，并称正开发教程与 Adapter SDK，供开发者与第三方构建自有适配器。",
+    "keyPoints": [
+      "补丁版本与 4.1 完全向后兼容，无需迁移，属增量改进。",
+      "更新 ASR 支持 10 种语言，原生标点与大小写，便于下游使用。",
+      "除新 ASR 与 Decision 适配器外基础模型未重算，组合适配器即可部署。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

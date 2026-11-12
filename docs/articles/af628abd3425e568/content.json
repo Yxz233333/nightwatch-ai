@@ -1,0 +1,25 @@
+{
+  "id": "af628abd3425e568",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Gilbert + Tobin rethinks the business of law with AI",
+  "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+  "date": "2026-11-12",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+  "titleEn": "Gilbert + Tobin rethinks the business of law with AI",
+  "titleZh": "Gilbert + Tobin 借助 AI 重新思考法律业务",
+  "summary": "OpenAI 官网发布对澳大利亚律所 Gilbert + Tobin 合伙人兼首席执行官 Sam Nickless 的访谈，介绍该所从鼓励员工在无客户数据的受限环境中试用 ChatGPT，到引入 ChatGPT Enterprise、ChatGPT Work 与 Codex，把个人辅助推进到多步骤代理式工作流，并由人员负责审核与批准。",
+  "details": {
+    "overview": "OpenAI 官网发布对澳大利亚律所 Gilbert + Tobin 合伙人兼首席执行官 Sam Nickless 的访谈，介绍该所从鼓励员工在无客户数据的受限环境中试用 ChatGPT，到引入 ChatGPT Enterprise、ChatGPT Work 与 Codex，把个人辅助推进到多步骤代理式工作流，并由人员负责审核与批准。Nickless 称 AI 的价值不在削减成本或减少人员，而在释放员工投入客户沟通、团队辅导等更具人性的一面；文中还提到启用用户中 87% 活跃使用，以及一次涉及 120 名合伙人的年度评审工作成本约 62 美元。上述成效均为发布方自述。",
+    "keyPoints": [
+      "该所分实验、个人生产力、组织生产力三阶段推进 AI 应用。",
+      "引入 ChatGPT Enterprise 等产品，强调数据驻留、合同保护与权限管控。",
+      "Nickless 称 AI 价值在于释放员工投入客户沟通与团队辅导。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

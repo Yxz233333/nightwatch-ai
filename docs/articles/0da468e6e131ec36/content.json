@@ -1,0 +1,25 @@
+{
+  "id": "0da468e6e131ec36",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+  "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+  "date": "2026-11-05",
+  "publishedAt": "2026-11-04T17:50:10+00:00",
+  "source": "Hugging Face 官方及社区博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+  "titleZh": "Dharma Field Extractor：任意文档输入，JSON 结构化字段输出",
+  "summary": "Dharma-AI 团队发布 Dharma Field Extractor，一个 20 亿参数模型，旨在从不同类型文档中按需抽取字段并输出结构化 JSON。",
+  "details": {
+    "overview": "Dharma-AI 团队发布 Dharma Field Extractor，一个 20 亿参数模型，旨在从不同类型文档中按需抽取字段并输出结构化 JSON。它支持两种请求方式：不提供 schema 时自动识别页面中的结构化字段并以键值对返回；提供 schema 时按指定键名和类型（字符串、数字、布尔）逐字段填充，文档中不存在的字段返回 null。模型基于 DharmaOCR-LITE v1.1，在其上训练 LoRA 适配器，数据覆盖英文多领域、巴西葡语及少量多语种文档。团队称在所用546份文档、1638 个用例的基准上，其复合评测得分（结合字段级F1、字符串相似度与有效JSON比例） 为 0.834，高于所测四个前沿模型配置，并以单张 L40S 自托管运行。上述对比为厂商自测，未经独立验证。",
+    "keyPoints": [
+      "支持开放抽取与 schema 定向两种模式，输出严格遵循指定键名与类型，缺失字段返回 null。",
+      "基于 DharmaOCR-LITE v1.1 训练 LoRA 适配器，使用 43,384 个字段级标注样本，覆盖多领域与多语种。",
+      "团队自测复合评测得分（结合字段级F1、字符串相似度与有效JSON比例） 为 0.834，称高于所测前沿模型配置，自托管成本按单张 L40S 每小时 2.24 美元估算。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

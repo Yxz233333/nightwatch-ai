@@ -1,0 +1,25 @@
+{
+  "id": "d7b6ddf6c814f392",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+  "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+  "date": "2026-11-06",
+  "publishedAt": "2026-11-05T20:00:41+00:00",
+  "source": "NVIDIA 官方博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+  "titleZh": "Vera 两全其美：最高吞吐量与最快智能体",
+  "summary": "英伟达发布博客称，其 Vera CPU 面向 AI 智能体工作负载，兼顾单核速度与每瓦容量。",
+  "details": {
+    "overview": "英伟达发布博客称，其 Vera CPU 面向 AI 智能体工作负载，兼顾单核速度与每瓦容量。文中引用 100 兆瓦数据中心对比，称 Vera 在智能体速度上领先最快 x86 CPU，且每瓦可支持 1.6 倍智能体；相比最节能 x86 CPU，速度达 2 倍。Perplexity、DeepInfra、ClickHouse、DuckLabs、Daytona、Modal 等早期采用者给出生产式测试数据。需注意这些为厂商及合作方测试，并非独立验证。",
+    "keyPoints": [
+      "英伟达称在 100 兆瓦对比中，Vera 比最快 x86 CPU 每瓦多支持 1.6 倍智能体。",
+      "相比最节能 x86 CPU，Vera 的智能体速度达 2 倍并保持领先能效。",
+      "Perplexity、DeepInfra 等合作方给出生产式测试加速数据，属厂商测试。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

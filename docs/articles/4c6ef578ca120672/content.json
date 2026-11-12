@@ -1,0 +1,25 @@
+{
+  "id": "4c6ef578ca120672",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+  "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+  "date": "2026-11-09",
+  "publishedAt": "2026-11-09T05:00:40+00:00",
+  "source": "NVIDIA 官方博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "Korea Advances Physical AI Across Industries With NVIDIA",
+  "titleZh": "韩国携手NVIDIA在各行业推进物理AI",
+  "summary": "该新闻介绍NVIDIA与韩国产业界合作推进物理AI落地：三星电子借助加速计算与AI物理扩展半导体创新，覆盖材料研究、工艺开发和器件工程；Kakao Mobility计划基于NVIDIA车载计算与安全技术开发L4自动驾驶系统；LG电子与NVIDIA在实际制造环境中演示了CLOiD机器人的操作与制造任务。",
+  "details": {
+    "overview": "该新闻介绍NVIDIA与韩国产业界合作推进物理AI落地：三星电子借助加速计算与AI物理扩展半导体创新，覆盖材料研究、工艺开发和器件工程；Kakao Mobility计划基于NVIDIA车载计算与安全技术开发L4自动驾驶系统；LG电子与NVIDIA在实际制造环境中演示了CLOiD机器人的操作与制造任务。报道强调这些合作把物理AI从开发推向真实生产，但所述加速效果与演示属于厂商合作成果，并非独立验证。",
+    "keyPoints": [
+      "三星在sMOL平台用cuEST使部分量子化学计算端到端最高快5倍。",
+      "某AI均质化案例中，仿真时间由32核CPU细网格约18小时降至GPU粗网格41秒。",
+      "LG与NVIDIA用Isaac GR00T在真实制造环境演示CLOiD机器人操作任务。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "6197baed466c3fde",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+  "url": "https://huggingface.co/blog/anydecisionmodel",
+  "date": "2026-10-29",
+  "source": "Hugging Face 官方及社区博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+  "titleZh": "推出 AnySpeechRecognizer 与 AnyDecisionModel：面向 Apple 平台的语音与决策开源模型",
+  "summary": "作者发布两个 Swift 包：AnySpeechRecognizer 沿用 Apple SpeechAnalyzer 风格 API，可切换 Apple、NVIDIA Parakeet、阿里 Qwen3-ASR 等识别引擎，并新增基于 Streaming Sortformer 的说话人分离；AnyDecisionModel 以类型化结果和概率回答是非、多选与评分问题，支持 MLX、Core AI、llama.cpp、Jev、Ollama 等后端。",
+  "details": {
+    "overview": "作者发布两个 Swift 包：AnySpeechRecognizer 沿用 Apple SpeechAnalyzer 风格 API，可切换 Apple、NVIDIA Parakeet、阿里 Qwen3-ASR 等识别引擎，并新增基于 Streaming Sortformer 的说话人分离；AnyDecisionModel 以类型化结果和概率回答是非、多选与评分问题，支持 MLX、Core AI、llama.cpp、Jev、Ollama 等后端。两者均可从 Hugging Face Hub 下载开源模型并在设备端运行。作者在 M4 Max 上给出部分词错误率数据，并说明仅测过 macOS 27、未测 iPhone。",
+    "keyPoints": [
+      "AnySpeechRecognizer 保留 Apple 语音 API 形态，在共享API代码中可改导入，切换具体引擎还需调整转写器构造。",
+      "SpeakerDiarizer 跟踪最多四名说话人，配合 SpeakerTimeline 将词与说话人关联。",
+      "AnyDecisionModel 从模型概率导出答案，提供是非、多选、评分及置信度。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+  "interest": []
+}

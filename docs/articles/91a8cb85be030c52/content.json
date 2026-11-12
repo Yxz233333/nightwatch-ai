@@ -1,0 +1,25 @@
+{
+  "id": "91a8cb85be030c52",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+  "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+  "date": "2026-11-09",
+  "publishedAt": "2026-11-09T14:00:01+00:00",
+  "source": "NVIDIA 官方博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+  "titleZh": "熟能生巧：NVIDIA 与合作伙伴在 CoRL 展示机器人如何在仿真中演练精细作业",
+  "summary": "NVIDIA 在 CoRL 上介绍 GR00T 2 世界动作模型、Isaac Lab 3.0 仿真框架及新开放基准，并与多家伙伴合作，把机器人训练从行走跳跃转向齿轮对齐、线缆连接等精细操作。",
+  "details": {
+    "overview": "NVIDIA 在 CoRL 上介绍 GR00T 2 世界动作模型、Isaac Lab 3.0 仿真框架及新开放基准，并与多家伙伴合作，把机器人训练从行走跳跃转向齿轮对齐、线缆连接等精细操作。稿件称 GR00T 2 基于 Cosmos，用大量人类第一视角数据训练，可在无任务演示时完成部分评测任务，并借少量演示迁移技能；Isaac Lab 3.0 结合 Newton 物理引擎支持可变形物体仿真，提升并行训练吞吐。这些工具意在帮助研究者训练、评估并利用失败改进机器人策略。",
+    "keyPoints": [
+      "GR00T 2 为开放世界动作模型，稿件称其可在无任务专属演示下完成 50 项评测中的 40 项。",
+      "Isaac Lab 3.0 与 Newton 集成，可仿真线缆、布料等可变形物体，并支持大规模并行训练。",
+      "DexBench、VABAR 等新开放基准用于评测工业场景下的机器人灵巧性与适应性。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

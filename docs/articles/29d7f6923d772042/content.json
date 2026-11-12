@@ -1,0 +1,22 @@
+{
+  "id": "29d7f6923d772042",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Lazarus：微软研究模型权重后门与智能体安全风险",
+  "titleZh": "Lazarus：微软研究模型权重后门与智能体安全风险",
+  "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+  "date": "2026-11-10",
+  "source": "Microsoft Research 官方博客",
+  "recommended": false,
+  "publicationTimeNote": "官方提供日期，具体发布时间未详。",
+  "summary": "微软研究人员介绍 Lazarus 权重后门研究：少量休眠神经元被修改后，模型可在日常测试中表现正常，却在触发条件出现时输出恶意动作。研究强调模型来源和权重完整性的重要性。",
+  "details": {
+    "overview": "微软研究人员介绍 Lazarus 权重后门研究：少量休眠神经元被修改后，模型可在日常测试中表现正常，却在触发条件出现时输出恶意动作。研究强调模型来源和权重完整性的重要性。",
+    "keyPoints": [
+      "研究称无需重新训练即可修改权重并植入触发行为；这不表示所有开放模型已被感染。",
+      "微软介绍来源验证与容器扫描，并正在探索权重扫描、签名及审计；任何扫描都不能保证绝对安全。"
+    ]
+  },
+  "status": "研究及工具介绍，依据原始材料整理。",
+  "interest": []
+}

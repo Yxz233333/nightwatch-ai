@@ -1,0 +1,25 @@
+{
+  "id": "6429b30fb5ee0d25",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "How Cisco defends at machine speed with OpenAI",
+  "url": "https://openai.com/index/cisco-cyber",
+  "date": "2026-11-03",
+  "publishedAt": "2026-11-03T08:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "titleEn": "How Cisco defends at machine speed with OpenAI",
+  "titleZh": "思科如何借助OpenAI以机器速度防御",
+  "summary": "该官方发布介绍思科与OpenAI合作，将思科网络遥测数据与OpenAI前沿模型结合，用于企业安全防御。",
+  "details": {
+    "overview": "该官方发布介绍思科与OpenAI合作，将思科网络遥测数据与OpenAI前沿模型结合，用于企业安全防御。思科总裁Jeetu Patel称，团队把安全控制嵌入微服务、容器与集群，并利用模型关联网络信号、加快漏洞发现与修复。发布还提到Daybreak与GPT-6 Astra，以及面向智能体世界的三项安全优先事项。相关成效均为发布方自述，未提供独立验证细节。",
+    "keyPoints": [
+      "思科将网络遥测与OpenAI模型结合，用于关联信号并支撑安全运营。",
+      "发布称Daybreak与GPT-6 Astra提升了漏洞发现、修复和响应效率。",
+      "面向智能体安全提出保护、拦截异常行为与近实时运行三项优先事项。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

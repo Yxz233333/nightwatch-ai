@@ -1,0 +1,25 @@
+{
+  "id": "0764534d28623940",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "A thousand fewer paths to root",
+  "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+  "date": "2026-11-04",
+  "publishedAt": "2026-11-04T08:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "titleEn": "A thousand fewer paths to root",
+  "titleZh": "通往 root 的路径少了一千条",
+  "summary": "OpenAI 公布以未发布网络安全模型为核心的 Linux 内核漏洞研究流水线，涵盖发现、动态验证、可利用性评估、候选补丁及人工复核。",
+  "details": {
+    "overview": "OpenAI 公布以未发布网络安全模型为核心的 Linux 内核漏洞研究流水线，涵盖发现、动态验证、可利用性评估、候选补丁及人工复核。官方报告复现1724个漏洞，并以948个不同补丁衡量独立本地提权成果；数字采用不同口径，不能混为利用脚本数量。",
+    "keyPoints": [
+      "原文报告生成1169个可用本地提权利用，以948个不同补丁对应独立本地提权结果。",
+      "该轮运行的API额度成本约121.3万美元；官方将报告成本视为上界。",
+      "官方称已提交数百份关键漏洞报告及补丁，其余与合作方逐步提交；抽样166个利用时识别10种据其所知为新的技术。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

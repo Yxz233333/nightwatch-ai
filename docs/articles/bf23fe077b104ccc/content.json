@@ -1,0 +1,25 @@
+{
+  "id": "bf23fe077b104ccc",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Australian universities are creating AI-native graduates",
+  "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+  "date": "2026-11-06",
+  "publishedAt": "2026-11-05T17:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "titleEn": "Australian universities are creating AI-native graduates",
+  "titleZh": "澳大利亚高校正在培养“AI原生”毕业生",
+  "summary": "OpenAI官方发布称，悉尼新南威尔士大学、悉尼大学、拉筹伯大学和阿德莱德大学等澳大利亚高校正与OpenAI合作，向师生提供前沿AI工具，并把AI引入临床模拟、机器人辅助教师培训和产业项目。",
+  "details": {
+    "overview": "OpenAI官方发布称，悉尼新南威尔士大学、悉尼大学、拉筹伯大学和阿德莱德大学等澳大利亚高校正与OpenAI合作，向师生提供前沿AI工具，并把AI引入临床模拟、机器人辅助教师培训和产业项目。发布方委托的调查显示，1018名受访学生中81%每周多次使用AI，79%希望学校提供更多在真实项目中用AI的机会。文章还介绍各校在课程、评估规范和安全治理上的做法，目标是让学生带着学科知识与判断力进入职场。",
+    "keyPoints": [
+      "OpenAI称多所澳大利亚高校与其合作，向师生开放ChatGPT Edu等前沿AI工具。",
+      "发布方委托调查显示，81%受访学生每周多次用AI，28%已自建AI助手。",
+      "UNSW采用“可、不可、必须”评估框架，明确不同课程中AI的使用边界。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

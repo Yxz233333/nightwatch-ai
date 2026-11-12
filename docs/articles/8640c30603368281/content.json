@@ -1,0 +1,25 @@
+{
+  "id": "8640c30603368281",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Qodo builds context into AI code review with Codex",
+  "url": "https://openai.com/index/qodo-codex-plugin",
+  "date": "2026-11-02",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+  "titleEn": "Qodo builds context into AI code review with Codex",
+  "titleZh": "Qodo借助Codex将上下文引入AI代码审查",
+  "summary": "OpenAI官方发布介绍了初创公司Qodo在Codex市场中构建插件，把组织知识与代码库规范带入Codex，帮助开发者在跨仓库场景中发现P0级问题。",
+  "details": {
+    "overview": "OpenAI官方发布介绍了初创公司Qodo在Codex市场中构建插件，把组织知识与代码库规范带入Codex，帮助开发者在跨仓库场景中发现P0级问题。据Qodo联合创始人兼CEO Itamar Friedman描述，客户环境可能涉及上万仓库，局部改动可能破坏下游服务。该插件让Codex在写代码前获取代码库规则与拉取请求历史，写完后由Qodo独立审查并在同一会话中返回结果。文中还提到Qodo使用GPT-6 Astra等模型，并展望用Decisions API选择适用规则。",
+    "keyPoints": [
+      "Qodo在Codex市场构建插件，向Codex提供代码库知识、组织规则与独立审查能力。",
+      "作者称客户环境可达上万仓库，插件帮助Codex考虑跨仓库依赖以发现P0问题。",
+      "Qodo负责人展望使用OpenAI的Decisions API筛选适用规则，而非让语言模型处理每个决策。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

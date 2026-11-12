@@ -1,0 +1,25 @@
+{
+  "id": "b215b799841f2486",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+  "url": "https://openai.com/index/singapore-airlines-travel-work",
+  "date": "2026-11-10",
+  "publishedAt": "2026-11-10T08:00:00+00:00",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据官方原始发布整理；案例成效为发布方自述。",
+  "titleEn": "Singapore Airlines elevates travel & work with OpenAI technology",
+  "titleZh": "新加坡航空借助OpenAI技术提升旅行与办公体验",
+  "summary": "OpenAI官方发布案例称，新加坡航空通过OpenAI API与模型改造客服聊天机器人Kris、旅行推荐工具Flight Recommender及内部AI平台Jarvis。",
+  "details": {
+    "overview": "OpenAI官方发布案例称，新加坡航空通过OpenAI API与模型改造客服聊天机器人Kris、旅行推荐工具Flight Recommender及内部AI平台Jarvis。发布方自述，Kris从传统对话流程转为大模型驱动后客户满意度翻倍，客服代表平均处理时长约降10%，Flight Recommender月活一年内增至约原来的3倍，超六成员工每月使用Jarvis。该案例展示航司将AI嵌入客服、销售与内部办公的具体路径，但成效数据均为发布方自述，未经独立验证。",
+    "keyPoints": [
+      "Kris改用OpenAI API后，发布方称客户满意度提升2倍，客服平均处理时长约降10%。",
+      "Flight Recommender以自然语言理解需求并调用票价与余位数据，月活一年增至约原来的3倍。",
+      "内部平台Jarvis基于OpenAI模型，超60%员工每月使用，用于文档处理与自定义工作流。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

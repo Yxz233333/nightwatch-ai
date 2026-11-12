@@ -1,0 +1,25 @@
+{
+  "id": "43962531e5c8e3d5",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+  "url": "https://huggingface.co/blog/mistral-large4",
+  "date": "2026-10-29",
+  "source": "Hugging Face 官方及社区博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+  "titleZh": "欢迎 Le Chonk：Mistral Large 4 登陆 Hugging Face",
+  "summary": "Hugging Face 发布博文介绍 Mistral 的 Mistral Large 4（代号 Le Chonk）。",
+  "details": {
+    "overview": "Hugging Face 发布博文介绍 Mistral 的 Mistral Large 4（代号 Le Chonk）。这是一款多模态、多语言混合专家模型，可接收文本与图像并生成文本，总参数约 1T，上下文窗口 1M token。文章称其在网络安全、编程智能体和多模态方面表现突出，并给出架构、基准测试、推理与微调支持等细节。本文整理原博文披露的模型与评测资料，未作额外独立复测。",
+    "keyPoints": [
+      "模型总参数约 1T，上下文窗口 1M token，支持文本与图像输入。",
+      "采用 72 层文本解码器、首层稠密、其余层128选4并配共享专家的路由，并配 1.6B Pixtral 视觉编码器。",
+      "博文称其在漏洞复现与修补测试中得分 82%，并列出多项编程与安全基准成绩。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "publicationTimeNote": "原文提供日期；RSS午夜时间未作为已核实小时使用。",
+  "interest": []
+}

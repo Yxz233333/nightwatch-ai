@@ -1,0 +1,25 @@
+{
+  "id": "3efdc3ec465b6b20",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+  "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+  "date": "2026-11-03",
+  "publishedAt": "2026-11-03T07:00:12+00:00",
+  "source": "NVIDIA 官方博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+  "titleZh": "全球城市借助NVIDIA物理AI与智能体AI构建并扩展AI服务",
+  "summary": "该新闻介绍NVIDIA及其合作伙伴在全球多个城市推广物理AI与智能体AI应用，覆盖居民服务、城市摄像头视频分析、基础设施数字孪生和本地AI生态建设。",
+  "details": {
+    "overview": "该新闻介绍NVIDIA及其合作伙伴在全球多个城市推广物理AI与智能体AI应用，覆盖居民服务、城市摄像头视频分析、基础设施数字孪生和本地AI生态建设。文中列举西班牙、旧金山湾区、波兰弗罗茨瓦夫、马来西亚、尼日利亚、台湾、摩洛哥等地案例，强调共享算力与托管服务可降低城市各部门自建门槛。相关性能与效率数字均为厂商或项目方说法，未经独立验证。",
+    "keyPoints": [
+      "西班牙1MillionBot结合开源ALIA与Nemotron模型，为马德里等150多个部署提供居民服务智能体。",
+      "马来西亚ITMAX的SamurAI V2视觉智能体计划到2027年支持超1.7万路摄像头。",
+      "台湾Linker Vision与MVRDV用Omniverse和Nemotron模拟城市树冠15年效果，将设计迭代从两周缩短至一小时以内。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

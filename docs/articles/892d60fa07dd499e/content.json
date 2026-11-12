@@ -1,0 +1,22 @@
+{
+  "id": "892d60fa07dd499e",
+  "section": "news",
+  "category": "工具动态",
+  "title": "PDD Kit：依据形式化规范验证智能体生成的网页应用",
+  "titleZh": "PDD Kit：依据形式化规范验证智能体生成的网页应用",
+  "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+  "date": "2026-11-05",
+  "source": "Microsoft Research 官方博客",
+  "recommended": false,
+  "publicationTimeNote": "官方提供日期，具体发布时间未详。",
+  "summary": "微软研究团队介绍 PDD Kit：把开发意图转为 Verus 形式化规范，验证智能体生成的代码满足规范，对不能证明的部分结合测试。团队展示 Rust 网店登录逻辑的应用案例。",
+  "details": {
+    "overview": "微软研究团队介绍 PDD Kit：把开发意图转为 Verus 形式化规范，验证智能体生成的代码满足规范，对不能证明的部分结合测试。团队展示 Rust 网店登录逻辑的应用案例。",
+    "keyPoints": [
+      "在 GitHub Next Chopin 中协作审阅意图，之后生成规范、证明和测试。",
+      "证明针对已经明确的规范及其前提；案例不是对所有网页应用或所有安全属性的通用保证。"
+    ]
+  },
+  "status": "研究及工具介绍，依据原始材料整理。",
+  "interest": []
+}

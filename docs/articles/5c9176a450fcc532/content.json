@@ -1,0 +1,25 @@
+{
+  "id": "5c9176a450fcc532",
+  "section": "news",
+  "category": "工具动态",
+  "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+  "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+  "date": "2026-11-09",
+  "publishedAt": "2026-11-09T08:00:53+00:00",
+  "source": "NVIDIA 官方博客",
+  "recommended": false,
+  "status": "依据原始发布整理；研究和厂商测试不等于独立验证。",
+  "titleEn": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+  "titleZh": "NVIDIA在MSIT-NVIDIA AI创业合作论坛上宣布对韩国初创企业的新投资计划",
+  "summary": "韩国科学技术信息通信部与NVIDIA在首尔COEX举办AI创业合作论坛，与20余家覆盖基础模型、物理AI、AI基础设施和AI半导体的韩国初创企业交流。",
+  "details": {
+    "overview": "韩国科学技术信息通信部与NVIDIA在首尔COEX举办AI创业合作论坛，与20余家覆盖基础模型、物理AI、AI基础设施和AI半导体的韩国初创企业交流。NVIDIA宣布投资AI互连公司Point2，并计划投资首尔AI实验室Motif Technologies、物理AI公司RLWRLD和企业AI公司Upstage。这些公司横跨从基础设施到模型再到机器人应用的完整AI栈，投资计划建立在NVIDIA与韩国创业及风投社区既有合作之上。",
+    "keyPoints": [
+      "NVIDIA宣布投资Point2，并计划投资Motif Technologies、RLWRLD和Upstage。",
+      "论坛由韩国科学技术信息通信部与NVIDIA合办，20余家韩国初创企业参与。",
+      "四家公司覆盖AI互连、基础模型、机器人基础模型和企业文档AI。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}
