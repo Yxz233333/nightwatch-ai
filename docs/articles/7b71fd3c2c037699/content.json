@@ -1,0 +1,22 @@
+{
+  "id": "7b71fd3c2c037699",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT iOS 1.2026.300：附件预览、任务状态与批注改进",
+  "url": "https://learn.chatgpt.com/docs/changelog#2026-11-02-ios-1.2026.300",
+  "date": "2026-11-02",
+  "source": "ChatGPT Learn 官方变更日志",
+  "recommended": false,
+  "titleZh": "ChatGPT iOS 1.2026.300：附件预览、任务状态与批注改进",
+  "summary": "官方11月2日记录增强全屏编辑器附件管理、任务已读同步及回复批注。",
+  "details": {
+    "overview": "官方11月2日记录增强全屏编辑器附件管理、任务已读同步及回复批注。",
+    "keyPoints": [
+      "无需离开全屏编辑器即可添加、预览和移除附件。",
+      "默认后续消息可引导运行中任务，支持主机同步已读状态，并修复文件、图片和键盘显示问题。"
+    ]
+  },
+  "status": "已发布的iOS版本更新；按原日期补漏。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "interest": []
+}

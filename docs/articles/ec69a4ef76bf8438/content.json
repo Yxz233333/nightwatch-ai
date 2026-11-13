@@ -1,0 +1,22 @@
+{
+  "id": "ec69a4ef76bf8438",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT iOS 1.2026.307：编辑器附件与跨设备操作改进",
+  "url": "https://learn.chatgpt.com/docs/changelog#2026-11-10-ios-1.2026.307",
+  "date": "2026-11-10",
+  "source": "ChatGPT Learn 官方变更日志",
+  "recommended": false,
+  "titleZh": "ChatGPT iOS 1.2026.307：编辑器附件与跨设备操作改进",
+  "summary": "官方11月10日记录新增全屏编辑器粘贴图片和文件、语音输入批注，并改进多种跨设备操作。",
+  "details": {
+    "overview": "官方11月10日记录新增全屏编辑器粘贴图片和文件、语音输入批注，并改进多种跨设备操作。",
+    "keyPoints": [
+      "可打开已发送提示中的附件；Windows主机文件夹选择器支持切换驱动器。",
+      "改进任务消息显示、命令输出、键盘与辅助配对；部分能力取决于所连接主机。"
+    ]
+  },
+  "status": "已发布的iOS版本更新；按原日期补漏。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "interest": []
+}

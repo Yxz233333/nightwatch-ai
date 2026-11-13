@@ -1,0 +1,25 @@
+{
+  "id": "c02ec45251c5fffb",
+  "section": "news",
+  "category": "工具动态",
+  "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+  "url": "https://huggingface.co/blog/3d-lora-finetuning",
+  "date": "2026-11-12",
+  "source": "Hugging Face 官方及社区博客",
+  "recommended": false,
+  "status": "依据原始发布整理；案例或模型评测仅保留原文所述条件。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "titleEn": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+  "titleZh": "3D生成模型微调完全指南：为TRELLIS.2训练LoRA适配器",
+  "summary": "该博客提供微调TRELLIS.2的脚本与容器，可在本地或Hugging Face Jobs运行。",
+  "details": {
+    "overview": "该博客提供微调TRELLIS.2的脚本与容器，可在本地或Hugging Face Jobs运行。作者以GSO数据集中188个鞋类物体为例，指出预训练模型生成的鞋底常不准确，于是仅对控制形状的稀疏结构流DiT和形状流DiT注入LoRA适配器，冻结纹理流DiT，共训练约930万适配器参数。作者在9个留出物体上报告F-score从0.276升至0.803、Chamfer距离从0.174降至0.033，称鞋底更接近扫描结果。",
+    "keyPoints": [
+      "仅对稀疏结构流与形状流两个DiT注入LoRA，纹理流DiT保持冻结",
+      "使用188个GSO鞋类物体，留出9个评估，共训练约930万适配器参数",
+      "作者报告留出集F-score由0.276升至0.803，Chamfer距离由0.174降至0.033"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

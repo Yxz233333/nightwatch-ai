@@ -1,0 +1,28 @@
+{
+  "id": "3dfe1e1719037551",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Holiday Extras is rethinking what it can build with Codex",
+  "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+  "date": "2026-11-12",
+  "source": "OpenAI 官方新闻",
+  "recommended": true,
+  "status": "依据原始发布整理；案例或模型评测仅保留原文所述条件。",
+  "publishedAt": "2026-11-12T09:30:00+00:00",
+  "recommendedOn": "2026-11-13",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "Holiday Extras is rethinking what it can build with Codex",
+  "titleZh": "Holiday Extras 借助 Codex 重新思考能构建什么",
+  "summary": "OpenAI 发布客户案例，介绍英国旅游企业 Holiday Extras 使用 ChatGPT Enterprise 与 Codex 重建主应用。",
+  "details": {
+    "overview": "OpenAI 发布客户案例，介绍英国旅游企业 Holiday Extras 使用 ChatGPT Enterprise 与 Codex 重建主应用。原文称，团队两周内完成原本需六个月以上的可用重建，重建后应用从年度大版本改为首月每周发布；打开应用到预订转化率提升32.5%，错误率由19%降至9%。公司还让懂业务的员工在工程与安全护栏下直接构建工具，CEO 表示将据此重新评估业务野心。上述数字为厂商案例自述，未经独立验证。",
+    "keyPoints": [
+      "原文称主应用重建从六个月以上缩短至两周，首月改为每周发布。",
+      "案例称打开应用到预订转化率提升32.5%，错误率从19%降至9%。",
+      "公司鼓励非工程员工在护栏下用 Codex 构建工具，工程师负责架构与安全。",
+      "转化与错误率比较来自不同时间段；19%至9%为减少10个百分点，不是相对减少10%。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c8c4168822e7426f",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Gondola 分享 Codex 使用与团队产能、营收变化案例",
+  "url": "https://openai.com/business/customer-stories/gondola",
+  "date": "2026-11-12",
+  "source": "OpenAI 官方新闻",
+  "recommended": true,
+  "status": "依据原始发布整理；案例或模型评测仅保留原文所述条件。",
+  "publishedAt": "2026-11-12T12:00:00+00:00",
+  "recommendedOn": "2026-11-13",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "Gondola doubles revenue as its team builds more with Codex",
+  "titleZh": "Gondola 分享 Codex 使用与团队产能、营收变化案例",
+  "summary": "OpenAI客户案例介绍，创意人才平台Gondola使用Codex与ChatGPT后，在工程人数不变的情况下，团队月度工程产出提升约25%，首席工程师合并变更量提升约50%，公司营收同比增长超过一倍。",
+  "details": {
+    "overview": "OpenAI客户案例介绍，创意人才平台Gondola使用Codex与ChatGPT后，在工程人数不变的情况下，团队月度工程产出提升约25%，首席工程师合并变更量提升约50%，公司营收同比增长超过一倍。稿件称，业务团队可用Codex Cloud探索代码库、制作原型，产品经理能带着可运行原型交给工程师；工程师仍负责架构、安全与生产就绪。案例还提到世界杯创作者地图与Programs工具的开发。",
+    "keyPoints": [
+      "稿件称Codex使团队月度工程产出提升约25%，首席工程师合并变更量提升约50%，工程人数未变。",
+      "业务与产品人员用Codex Cloud制作原型，创始人及合作经理首次向主代码库合并代码。",
+      "公司称营收同比增长超过一倍，且未增加人力成本或显著开销。",
+      "营收与产出数字为企业报告，不能据此单独证明 Codex 导致全部营收变化。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

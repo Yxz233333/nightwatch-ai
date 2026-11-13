@@ -1,0 +1,27 @@
+{
+  "id": "3e3cb753fca2b7b4",
+  "section": "news",
+  "category": "工具动态",
+  "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+  "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+  "date": "2026-11-13",
+  "source": "Hugging Face 官方及社区博客",
+  "recommended": true,
+  "status": "依据原始发布整理；案例或模型评测仅保留原文所述条件。",
+  "publishedAt": "2026-11-12T19:07:35+00:00",
+  "recommendedOn": "2026-11-13",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+  "titleZh": "LLMON：一种面向大语言模型的原生标记语言，现已登陆 Granite 4.1 3B 与 8B",
+  "summary": "IBM 团队发布 LLMON（LLM Object Notation），一种面向大语言模型的原生标记语言，用保留特殊 token 作为结构分隔符，为指令、数据、要求等上下文组件打上有意义的标签并赋予唯一 ID，使指令能绑定到其作用的数据。",
+  "details": {
+    "overview": "IBM 团队发布 LLMON（LLM Object Notation），一种面向大语言模型的原生标记语言，用保留特殊 token 作为结构分隔符，为指令、数据、要求等上下文组件打上有意义的标签并赋予唯一 ID，使指令能绑定到其作用的数据。作者称，这种显式指令/数据分离可让隐藏在用户数据中的间接提示注入大多被忽略，在 OPI 等基准上攻击成功率接近零，同时保持与 Granite 4.1 Instruct 相当的一般能力。此次发布两个基于 Granite 4.1 的实验预览模型及配套工具库，明确为实验性预览，不适用于生产环境。",
+    "keyPoints": [
+      "LLMON 用保留特殊 token 标记结构，使结构与内容使用不同词表部分，避免 JSON 转义与括号计数问题。",
+      "作者称在 OPI 基准上 LLMON 模型几乎消除静态间接提示注入，较最佳前沿模型多挡下 47% 攻击。",
+      "发布 granite-4.1-3b/8b-LLMON-preview 实验模型、转换工具与 GitHub 仓库，并支持自定义标签微调 LoRA。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

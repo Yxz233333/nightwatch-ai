@@ -1,0 +1,27 @@
+{
+  "id": "c4f26bf4d2aaba08",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Introducing Gemini 4 Hydrogen",
+  "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+  "date": "2026-11-13",
+  "source": "Google DeepMind 官方博客",
+  "recommended": true,
+  "status": "依据原始发布整理；案例或模型评测仅保留原文所述条件。",
+  "publishedAt": "2026-11-12T18:00:50+00:00",
+  "recommendedOn": "2026-11-13",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "Introducing Gemini 4 Hydrogen",
+  "titleZh": "推出 Gemini 4 Hydrogen",
+  "summary": "谷歌发布 Gemini 4 Hydrogen，定位为面向日常编程与智能体工作流的高效模型，与侧重长程深度推理的 Gemini 4 Carbon、Argon 形成分工。",
+  "details": {
+    "overview": "谷歌发布 Gemini 4 Hydrogen，定位为面向日常编程与智能体工作流的高效模型，与侧重长程深度推理的 Gemini 4 Carbon、Argon 形成分工。原文称其在 Artificial Analysis 智能指数默认高思考档为 51，高于 Argon 的 50，最高 xhigh 档达 54；100 万 token 上下文窗口统一按每百万输入 1.50 美元、输出 7.50 美元计价。该模型开始逐步推出至 Gemini API、AI Studio、Gemini 应用、搜索及企业版等渠道，并配套 Antigravity 中的 Orchestrator 多模型调度。",
+    "keyPoints": [
+      "原文称 Hydrogen 在 Artificial Analysis 智能指数默认档为 51，高于 Argon 的 50，xhigh 档达 54。",
+      "100 万 token 上下文统一计价：每百万输入 1.50 美元、输出 7.50 美元。",
+      "开始向API、AI Studio、Gemini应用和搜索等推出；Gemini应用免费用户通过自动模型选择获得适当请求的访问，Antigravity需要付费AI Pro或Ultra。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-12T00:15:55.581Z",
+  "syncedAt": "2026-11-12T23:59:46.571Z",
   "articles": [
     {
       "id": "e985bef486a031bf",
@@ -45085,6 +45085,193 @@
         ]
       },
       "status": "研究及工具介绍，依据原始材料整理。",
+      "interest": []
+    },
+    {
+      "id": "9dc99601d85322f6",
+      "section": "news",
+      "category": "工具动态",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "date": "2026-11-13",
+      "source": "OpenAI 官方新闻",
+      "recommended": true,
+      "status": "依据原始发布整理；案例或模型评测仅保留原文所述条件。",
+      "publishedAt": "2026-11-12T20:00:00+00:00",
+      "recommendedOn": "2026-11-13",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "titleZh": "Amplitude 如何借助 OpenAI 在 1–2 天内交付产品改进",
+      "summary": "该客户案例介绍 Amplitude 的主动式产品智能体 Wave：团队给定产品领域与目标指标后，Wave 汇总产品数据、会话回放、客户反馈和代码，找出并排序改进机会，生成技术方案与验收标准，再交给 Codex 等编码智能体实施并跟踪效果。",
+      "details": {
+        "overview": "该客户案例介绍 Amplitude 的主动式产品智能体 Wave：团队给定产品领域与目标指标后，Wave 汇总产品数据、会话回放、客户反馈和代码，找出并排序改进机会，生成技术方案与验收标准，再交给 Codex 等编码智能体实施并跟踪效果。原文称 Wave 约 80% 由 OpenAI 模型驱动，按任务分别使用 GPT‑6.1 Sol、GPT‑6 Luna 和 GPT‑Image‑2.5 Flare。Amplitude 估计改进交付时间可从约一个月缩短到 1–2 天，并在自家首页建议卡片上报告了相对对照组的 由首页建议卡片发出的消息数增加160%。",
+        "keyPoints": [
+          "Wave 整合产品数据、会话回放、反馈与代码，识别机会并生成可交付给编码智能体的技术方案。",
+          "原文称 Wave 约 80% 由 OpenAI 模型驱动，按推理、低成本扫描和图像生成等任务分工选型。",
+          "Amplitude估计交付可由约一月缩短至1–2天；自家首页实验报告一天后由建议卡片发出的消息数比对照组增加160%，不是所有用户活跃度的普遍提升。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "c8c4168822e7426f",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Gondola 分享 Codex 使用与团队产能、营收变化案例",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "date": "2026-11-12",
+      "source": "OpenAI 官方新闻",
+      "recommended": true,
+      "status": "依据原始发布整理；案例或模型评测仅保留原文所述条件。",
+      "publishedAt": "2026-11-12T12:00:00+00:00",
+      "recommendedOn": "2026-11-13",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "Gondola doubles revenue as its team builds more with Codex",
+      "titleZh": "Gondola 分享 Codex 使用与团队产能、营收变化案例",
+      "summary": "OpenAI客户案例介绍，创意人才平台Gondola使用Codex与ChatGPT后，在工程人数不变的情况下，团队月度工程产出提升约25%，首席工程师合并变更量提升约50%，公司营收同比增长超过一倍。",
+      "details": {
+        "overview": "OpenAI客户案例介绍，创意人才平台Gondola使用Codex与ChatGPT后，在工程人数不变的情况下，团队月度工程产出提升约25%，首席工程师合并变更量提升约50%，公司营收同比增长超过一倍。稿件称，业务团队可用Codex Cloud探索代码库、制作原型，产品经理能带着可运行原型交给工程师；工程师仍负责架构、安全与生产就绪。案例还提到世界杯创作者地图与Programs工具的开发。",
+        "keyPoints": [
+          "稿件称Codex使团队月度工程产出提升约25%，首席工程师合并变更量提升约50%，工程人数未变。",
+          "业务与产品人员用Codex Cloud制作原型，创始人及合作经理首次向主代码库合并代码。",
+          "公司称营收同比增长超过一倍，且未增加人力成本或显著开销。",
+          "营收与产出数字为企业报告，不能据此单独证明 Codex 导致全部营收变化。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "3dfe1e1719037551",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "date": "2026-11-12",
+      "source": "OpenAI 官方新闻",
+      "recommended": true,
+      "status": "依据原始发布整理；案例或模型评测仅保留原文所述条件。",
+      "publishedAt": "2026-11-12T09:30:00+00:00",
+      "recommendedOn": "2026-11-13",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "Holiday Extras is rethinking what it can build with Codex",
+      "titleZh": "Holiday Extras 借助 Codex 重新思考能构建什么",
+      "summary": "OpenAI 发布客户案例，介绍英国旅游企业 Holiday Extras 使用 ChatGPT Enterprise 与 Codex 重建主应用。",
+      "details": {
+        "overview": "OpenAI 发布客户案例，介绍英国旅游企业 Holiday Extras 使用 ChatGPT Enterprise 与 Codex 重建主应用。原文称，团队两周内完成原本需六个月以上的可用重建，重建后应用从年度大版本改为首月每周发布；打开应用到预订转化率提升32.5%，错误率由19%降至9%。公司还让懂业务的员工在工程与安全护栏下直接构建工具，CEO 表示将据此重新评估业务野心。上述数字为厂商案例自述，未经独立验证。",
+        "keyPoints": [
+          "原文称主应用重建从六个月以上缩短至两周，首月改为每周发布。",
+          "案例称打开应用到预订转化率提升32.5%，错误率从19%降至9%。",
+          "公司鼓励非工程员工在护栏下用 Codex 构建工具，工程师负责架构与安全。",
+          "转化与错误率比较来自不同时间段；19%至9%为减少10个百分点，不是相对减少10%。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "333d7443a55bd903",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "date": "2026-11-12",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据原始发布整理；案例或模型评测仅保留原文所述条件。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "titleEn": "Supporting research on AI and children’s safety",
+      "titleZh": "支持有关AI与儿童安全的研究",
+      "summary": "OpenAI在巴黎和平论坛上签署相关宣言，并承诺出资200万美元，支持“AI时代儿童权利与保护联盟”下的科学研究网络。",
+      "details": {
+        "overview": "OpenAI在巴黎和平论坛上签署相关宣言，并承诺出资200万美元，支持“AI时代儿童权利与保护联盟”下的科学研究网络。该资金用于开发测量工具，帮助研究者更好理解和衡量AI对儿童的风险与机会，从而为更安全的产品和更好的政策提供依据。原文称研究团队保留对结论的控制权，研究结果将公开发表，包括负面或无定论的结果。此举旨在积累证据，在发挥AI对青少年益处的同时应对其安全与发展风险。",
+        "keyPoints": [
+          "OpenAI承诺出资200万美元，支持AI时代儿童权利与保护联盟下的科研网络。",
+          "资金用于开发测量工具，帮助研究者衡量AI对儿童的风险与机会。",
+          "研究团队保留结论控制权，结果将公开发表，包括负面或无定论结果。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "c4f26bf4d2aaba08",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "date": "2026-11-13",
+      "source": "Google DeepMind 官方博客",
+      "recommended": true,
+      "status": "依据原始发布整理；案例或模型评测仅保留原文所述条件。",
+      "publishedAt": "2026-11-12T18:00:50+00:00",
+      "recommendedOn": "2026-11-13",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "Introducing Gemini 4 Hydrogen",
+      "titleZh": "推出 Gemini 4 Hydrogen",
+      "summary": "谷歌发布 Gemini 4 Hydrogen，定位为面向日常编程与智能体工作流的高效模型，与侧重长程深度推理的 Gemini 4 Carbon、Argon 形成分工。",
+      "details": {
+        "overview": "谷歌发布 Gemini 4 Hydrogen，定位为面向日常编程与智能体工作流的高效模型，与侧重长程深度推理的 Gemini 4 Carbon、Argon 形成分工。原文称其在 Artificial Analysis 智能指数默认高思考档为 51，高于 Argon 的 50，最高 xhigh 档达 54；100 万 token 上下文窗口统一按每百万输入 1.50 美元、输出 7.50 美元计价。该模型开始逐步推出至 Gemini API、AI Studio、Gemini 应用、搜索及企业版等渠道，并配套 Antigravity 中的 Orchestrator 多模型调度。",
+        "keyPoints": [
+          "原文称 Hydrogen 在 Artificial Analysis 智能指数默认档为 51，高于 Argon 的 50，xhigh 档达 54。",
+          "100 万 token 上下文统一计价：每百万输入 1.50 美元、输出 7.50 美元。",
+          "开始向API、AI Studio、Gemini应用和搜索等推出；Gemini应用免费用户通过自动模型选择获得适当请求的访问，Antigravity需要付费AI Pro或Ultra。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "3e3cb753fca2b7b4",
+      "section": "news",
+      "category": "工具动态",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "date": "2026-11-13",
+      "source": "Hugging Face 官方及社区博客",
+      "recommended": true,
+      "status": "依据原始发布整理；案例或模型评测仅保留原文所述条件。",
+      "publishedAt": "2026-11-12T19:07:35+00:00",
+      "recommendedOn": "2026-11-13",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "titleZh": "LLMON：一种面向大语言模型的原生标记语言，现已登陆 Granite 4.1 3B 与 8B",
+      "summary": "IBM 团队发布 LLMON（LLM Object Notation），一种面向大语言模型的原生标记语言，用保留特殊 token 作为结构分隔符，为指令、数据、要求等上下文组件打上有意义的标签并赋予唯一 ID，使指令能绑定到其作用的数据。",
+      "details": {
+        "overview": "IBM 团队发布 LLMON（LLM Object Notation），一种面向大语言模型的原生标记语言，用保留特殊 token 作为结构分隔符，为指令、数据、要求等上下文组件打上有意义的标签并赋予唯一 ID，使指令能绑定到其作用的数据。作者称，这种显式指令/数据分离可让隐藏在用户数据中的间接提示注入大多被忽略，在 OPI 等基准上攻击成功率接近零，同时保持与 Granite 4.1 Instruct 相当的一般能力。此次发布两个基于 Granite 4.1 的实验预览模型及配套工具库，明确为实验性预览，不适用于生产环境。",
+        "keyPoints": [
+          "LLMON 用保留特殊 token 标记结构，使结构与内容使用不同词表部分，避免 JSON 转义与括号计数问题。",
+          "作者称在 OPI 基准上 LLMON 模型几乎消除静态间接提示注入，较最佳前沿模型多挡下 47% 攻击。",
+          "发布 granite-4.1-3b/8b-LLMON-preview 实验模型、转换工具与 GitHub 仓库，并支持自定义标签微调 LoRA。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "c02ec45251c5fffb",
+      "section": "news",
+      "category": "工具动态",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "date": "2026-11-12",
+      "source": "Hugging Face 官方及社区博客",
+      "recommended": false,
+      "status": "依据原始发布整理；案例或模型评测仅保留原文所述条件。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "titleEn": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "titleZh": "3D生成模型微调完全指南：为TRELLIS.2训练LoRA适配器",
+      "summary": "该博客提供微调TRELLIS.2的脚本与容器，可在本地或Hugging Face Jobs运行。",
+      "details": {
+        "overview": "该博客提供微调TRELLIS.2的脚本与容器，可在本地或Hugging Face Jobs运行。作者以GSO数据集中188个鞋类物体为例，指出预训练模型生成的鞋底常不准确，于是仅对控制形状的稀疏结构流DiT和形状流DiT注入LoRA适配器，冻结纹理流DiT，共训练约930万适配器参数。作者在9个留出物体上报告F-score从0.276升至0.803、Chamfer距离从0.174降至0.033，称鞋底更接近扫描结果。",
+        "keyPoints": [
+          "仅对稀疏结构流与形状流两个DiT注入LoRA，纹理流DiT保持冻结",
+          "使用188个GSO鞋类物体，留出9个评估，共训练约930万适配器参数",
+          "作者报告留出集F-score由0.276升至0.803，Chamfer距离由0.174降至0.033"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
       "interest": []
     }
   ]

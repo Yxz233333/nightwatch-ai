@@ -1,0 +1,25 @@
+{
+  "id": "333d7443a55bd903",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Supporting research on AI and children’s safety",
+  "url": "https://openai.com/index/children-first-declaration",
+  "date": "2026-11-12",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据原始发布整理；案例或模型评测仅保留原文所述条件。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "titleEn": "Supporting research on AI and children’s safety",
+  "titleZh": "支持有关AI与儿童安全的研究",
+  "summary": "OpenAI在巴黎和平论坛上签署相关宣言，并承诺出资200万美元，支持“AI时代儿童权利与保护联盟”下的科学研究网络。",
+  "details": {
+    "overview": "OpenAI在巴黎和平论坛上签署相关宣言，并承诺出资200万美元，支持“AI时代儿童权利与保护联盟”下的科学研究网络。该资金用于开发测量工具，帮助研究者更好理解和衡量AI对儿童的风险与机会，从而为更安全的产品和更好的政策提供依据。原文称研究团队保留对结论的控制权，研究结果将公开发表，包括负面或无定论的结果。此举旨在积累证据，在发挥AI对青少年益处的同时应对其安全与发展风险。",
+    "keyPoints": [
+      "OpenAI承诺出资200万美元，支持AI时代儿童权利与保护联盟下的科研网络。",
+      "资金用于开发测量工具，帮助研究者衡量AI对儿童的风险与机会。",
+      "研究团队保留结论控制权，结果将公开发表，包括负面或无定论结果。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}
