@@ -1,0 +1,27 @@
+{
+  "id": "96088e50d069a09a",
+  "section": "news",
+  "category": "工具动态",
+  "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+  "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+  "date": "2026-11-13",
+  "source": "NVIDIA 官方博客",
+  "recommended": true,
+  "status": "依据原始发布整理；保留测试、研究与部署条件。",
+  "publishedAt": "2026-11-13T13:00:42+00:00",
+  "recommendedOn": "2026-11-14",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+  "titleZh": "AI如何帮助护理团队让患者更早获得正确诊疗",
+  "summary": "这篇NVIDIA发布的行业新闻介绍医疗系统和初创公司如何用AI辅助临床团队。",
+  "details": {
+    "overview": "这篇NVIDIA发布的行业新闻介绍医疗系统和初创公司如何用AI辅助临床团队。重点案例是Dyania Health的Synapsis AI：它读取患者病历中的自由文本记录，跨年份串联检查结果，输出可追溯到原始记录来源的临床信号，供医生复核决策。该系统在医院防火墙内运行，患者数据不出院。文中提到克利夫兰诊所将其用于一项逾7800名主动脉瓣置换患者的回顾性研究，作者称AI完成了原本需临床人员数年完成的人工病历审阅。",
+    "keyPoints": [
+      "Synapsis AI跨病历自由文本与检查结果推理，输出可溯源至原始记录的临床信号，最终决策仍由临床医生做出。",
+      "系统在医院自有防火墙内基于NVIDIA加速计算运行，患者数据不对外共享、不离开医院。",
+      "克利夫兰诊所将其用于2005至2021年逾7800名主动脉瓣置换患者的病历审阅与预测建模研究。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

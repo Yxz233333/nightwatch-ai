@@ -1,0 +1,24 @@
+{
+  "id": "83366026b493f8c5",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.168.0 正式版发布",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.168.0",
+  "date": "2026-11-13",
+  "source": "Codex GitHub Releases",
+  "recommended": false,
+  "titleZh": "Codex CLI 0.168.0 正式版发布",
+  "summary": "Codex CLI 0.168.0 正式发布，新增模型提供商选择与可选侧聊工作区，改进音频附件、动画生成和终端通知。",
+  "details": {
+    "overview": "Codex CLI 0.168.0 正式发布，新增模型提供商选择与可选侧聊工作区，改进音频附件、动画生成和终端通知。部分能力需明确启用相应功能开关。",
+    "keyPoints": [
+      "Sessions中的Model providers可选择新聊天的默认提供商；features.tui_workspace启用并排侧聊，可调整或缩放窗格。",
+      "音频能力取决于所选模型；features.image_generation_animation启用GIF生成和编辑，并支持帧数及时间控制。",
+      "修复模型提供商保留、运行中任务引导、工具打断时Markdown显示及Windows空闲MCP管道阻塞。"
+    ]
+  },
+  "publishedAt": "2026-11-13T03:54:29Z",
+  "releaseChannel": "stable",
+  "status": "已发布正式版；部分功能需按说明启用。",
+  "interest": []
+}

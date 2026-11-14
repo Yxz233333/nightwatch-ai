@@ -1,0 +1,26 @@
+{
+  "id": "d3b65a3d6417cbf4",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Opening the datasets behind our AI weather models",
+  "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+  "date": "2026-11-13",
+  "source": "Google DeepMind 官方博客",
+  "recommended": false,
+  "status": "依据原始发布整理；保留测试、研究与部署条件。",
+  "publicationTimeNote": "页面标示11月13日，RSS却标11月10日，首次发布时间存在差异；按页面日期归档，不进入24小时推荐。",
+  "titleEn": "Opening the datasets behind our AI weather models",
+  "titleZh": "开放AI天气模型背后的数据集",
+  "summary": "谷歌WeatherNext团队发布SatWeave与PARDIG两个基础数据集，用于天气、水文和气候应用。",
+  "details": {
+    "overview": "谷歌WeatherNext团队发布SatWeave与PARDIG两个基础数据集，用于天气、水文和气候应用。SatWeave把多颗地球静止卫星的影像融合为覆盖17个可见光、水汽和红外通道的全球逐小时拼图，并提供十余年历史存档；PARDIG是基于AI的全球降水数据集，以SatWeave影像和ECMWF大气场为输入、用GPM核心观测站稀疏雷达数据训练，提供15分钟、约10公里分辨率的降水图。团队称两者是WeatherNext 3模型进展的关键，并已开放实时与历史数据。",
+    "keyPoints": [
+      "SatWeave融合多颗静止卫星影像，覆盖17个通道并逐小时更新，提供十余年历史存档。",
+      "PARDIG提供15分钟、约10公里分辨率的全球降水图，平均延迟约五小时。",
+      "作者称PARDIG在美国、欧洲、日本雷达网及3.6万多个气象站评估中优于IMERG-Final等基线。",
+      "原文不同段落分别出现5颗及6颗卫星的表述，本条不采用未消歧的精确卫星数量；发布日期与RSS也存在差异。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

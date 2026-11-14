@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-12T23:59:46.571Z",
+  "syncedAt": "2026-11-14T00:06:30.117Z",
   "articles": [
     {
       "id": "feed0920e670fa7c",
@@ -30775,6 +30775,124 @@
         ]
       },
       "publishedAt": "2026-11-12T01:30:28Z",
+      "releaseChannel": "prerelease",
+      "status": "已发布alpha测试版；无详细变更说明。",
+      "interest": []
+    },
+    {
+      "id": "e9e33c2dad5133ca",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.169.0 正式版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0",
+      "date": "2026-11-13",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "titleZh": "Codex CLI 0.169.0 正式版发布",
+      "summary": "Codex CLI 0.169.0 正式发布，增强按需启用的终端工作区、任务搜索、自定义模型提供商和诊断保存，并修复信任目录、计划交接及Windows沙箱问题。",
+      "details": {
+        "overview": "Codex CLI 0.169.0 正式发布，增强按需启用的终端工作区、任务搜索、自定义模型提供商和诊断保存，并修复信任目录、计划交接及Windows沙箱问题。",
+        "keyPoints": [
+          "可选终端工作区支持多个侧聊标签、重启后恢复本地侧聊；命令中心可按名称、提示或工作目录搜索旧任务。",
+          "全屏记录可折叠已完成活动；终端支持配置自定义提供商，并可用Ctrl+S本地保存诊断ZIP。",
+          "macOS/Linux可选Cloud连接支持图片、模型与推理强度选择、归档及恢复；这些可选能力不表示所有平台默认开启。",
+          "修复不可信目录中的项目配置与MCP启用边界、批准计划传递、Windows路径及工作目录沙箱处理。"
+        ]
+      },
+      "publishedAt": "2026-11-13T08:37:05Z",
+      "releaseChannel": "stable",
+      "status": "已发布正式版；部分功能需按说明启用。",
+      "interest": []
+    },
+    {
+      "id": "1f5b6abd5abb5c50",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.171.0-alpha.4 测试版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.4",
+      "date": "2026-11-14",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "titleZh": "Codex CLI 0.171.0-alpha.4 测试版发布",
+      "summary": "Codex CLI 0.171.0-alpha.4 alpha 测试版已发布。",
+      "details": {
+        "overview": "Codex CLI 0.171.0-alpha.4 alpha 测试版已发布。官方正文只列版本号，未提供逐项功能或修复说明。",
+        "keyPoints": [
+          "已发布测试版本归入功能更新。",
+          "不根据版本号猜测新功能或修复；保留官方发布页供后续查证。"
+        ]
+      },
+      "publishedAt": "2026-11-13T18:52:02Z",
+      "releaseChannel": "prerelease",
+      "status": "已发布alpha测试版；无详细变更说明。",
+      "interest": []
+    },
+    {
+      "id": "1fd9ad81e2c1f437",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.171.0-alpha.2 测试版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.2",
+      "date": "2026-11-13",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "titleZh": "Codex CLI 0.171.0-alpha.2 测试版发布",
+      "summary": "Codex CLI 0.171.0-alpha.2 alpha 测试版已发布。",
+      "details": {
+        "overview": "Codex CLI 0.171.0-alpha.2 alpha 测试版已发布。官方正文只列版本号，未提供逐项功能或修复说明。",
+        "keyPoints": [
+          "已发布测试版本归入功能更新。",
+          "不根据版本号猜测新功能或修复；保留官方发布页供后续查证。"
+        ]
+      },
+      "publishedAt": "2026-11-13T07:59:06Z",
+      "releaseChannel": "prerelease",
+      "status": "已发布alpha测试版；无详细变更说明。",
+      "interest": []
+    },
+    {
+      "id": "83366026b493f8c5",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.168.0 正式版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.168.0",
+      "date": "2026-11-13",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "titleZh": "Codex CLI 0.168.0 正式版发布",
+      "summary": "Codex CLI 0.168.0 正式发布，新增模型提供商选择与可选侧聊工作区，改进音频附件、动画生成和终端通知。",
+      "details": {
+        "overview": "Codex CLI 0.168.0 正式发布，新增模型提供商选择与可选侧聊工作区，改进音频附件、动画生成和终端通知。部分能力需明确启用相应功能开关。",
+        "keyPoints": [
+          "Sessions中的Model providers可选择新聊天的默认提供商；features.tui_workspace启用并排侧聊，可调整或缩放窗格。",
+          "音频能力取决于所选模型；features.image_generation_animation启用GIF生成和编辑，并支持帧数及时间控制。",
+          "修复模型提供商保留、运行中任务引导、工具打断时Markdown显示及Windows空闲MCP管道阻塞。"
+        ]
+      },
+      "publishedAt": "2026-11-13T03:54:29Z",
+      "releaseChannel": "stable",
+      "status": "已发布正式版；部分功能需按说明启用。",
+      "interest": []
+    },
+    {
+      "id": "ae967da154c5cf7a",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.171.0-alpha.1 测试版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.1",
+      "date": "2026-11-13",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "titleZh": "Codex CLI 0.171.0-alpha.1 测试版发布",
+      "summary": "Codex CLI 0.171.0-alpha.1 alpha 测试版已发布。",
+      "details": {
+        "overview": "Codex CLI 0.171.0-alpha.1 alpha 测试版已发布。官方正文只列版本号，未提供逐项功能或修复说明。",
+        "keyPoints": [
+          "已发布测试版本归入功能更新。",
+          "不根据版本号猜测新功能或修复；保留官方发布页供后续查证。"
+        ]
+      },
+      "publishedAt": "2026-11-13T04:15:28Z",
       "releaseChannel": "prerelease",
       "status": "已发布alpha测试版；无详细变更说明。",
       "interest": []

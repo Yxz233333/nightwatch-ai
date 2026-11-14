@@ -1,0 +1,27 @@
+{
+  "id": "6e5de60ae32ffc34",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+  "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+  "date": "2026-11-14",
+  "source": "Hugging Face 官方及社区博客",
+  "recommended": true,
+  "status": "依据原始发布整理；保留测试、研究与部署条件。",
+  "publishedAt": "2026-11-13T18:00:39+00:00",
+  "recommendedOn": "2026-11-14",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+  "titleZh": "使用 SimReady 资产构建机器人抓取放置仿真",
+  "summary": "该文介绍如何在 Isaac Sim 6.2 中用 SimReady Central 提供的 UR17G 机械臂、Robotiq 2F-140 夹爪和饮料罐资产搭建抓取放置场景。",
+  "details": {
+    "overview": "该文介绍如何在 Isaac Sim 6.2 中用 SimReady Central 提供的 UR17G 机械臂、Robotiq 2F-140 夹爪和饮料罐资产搭建抓取放置场景。作者说明 SimReady 资产已带有碰撞、质量、关节与驱动等仿真属性，并给出下载资产、组装机械臂与夹爪、检查关节与接触、再用 AI 代理生成控制代码运行抓取放置的步骤。文中强调结果仅适用于固定位置、无视觉、脚本化抓取的简化设定，未验证不确定物体位置、不同负载或真实硬件。",
+    "keyPoints": [
+      "SimReady 资产按 Profile、Feature、Requirement 三级规范校验关节驱动等仿真设置。",
+      "流程包括下载资产、组装机械臂与夹爪、检查关节与接触，再运行抓取放置。",
+      "示例采用固定起点、无视觉和脚本化抓取，未验证真实硬件部署，不能据仿真结果保证实机效果。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

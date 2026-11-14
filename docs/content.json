@@ -1,11 +1,11 @@
 {
   "schemaVersion": 4,
   "title": "夜行 · AI 阅读入口",
-  "syncedAt": "2026-11-12T23:59:46.571Z",
-  "contentUpdatedAt": "2026-11-13T07:59:33+08:00",
+  "syncedAt": "2026-11-14T00:06:30.117Z",
+  "contentUpdatedAt": "2026-11-14T08:06:20+08:00",
   "coverage": {
     "requestedFrom": "2025-09-01",
-    "requestedThrough": "2026-11-13",
+    "requestedThrough": "2026-11-14",
     "scope": "已核实官方发布说明、GitHub Releases、官方 RSS 与新闻研究归档；不是全网穷尽清单。",
     "historyAddedBySource": {
       "ChatGPT 官方发布说明": 207,
@@ -48,8 +48,8 @@
     "sourceCounts": {
       "OpenAI 官方新闻": 736,
       "Hugging Face 官方博客": 250,
-      "Codex GitHub Releases": 1183,
-      "NVIDIA 官方博客": 355,
+      "Codex GitHub Releases": 1188,
+      "NVIDIA 官方博客": 356,
       "Anthropic 官方新闻与研究": 256,
       "MiniMax 官方博客": 2,
       "Microsoft Research": 13,
@@ -65,18 +65,20 @@
       "Anthropic 官方迁移归档": 2,
       "OpenAI 官方研究": 4,
       "Ai2 官方博客": 1,
-      "Google DeepMind 官方博客": 7,
-      "Hugging Face 官方及社区博客": 17,
+      "Google DeepMind 官方博客": 8,
+      "Hugging Face 官方及社区博客": 20,
       "Microsoft Research 官方博客": 3,
-      "ChatGPT Learn 官方变更日志": 2
+      "ChatGPT Learn 官方变更日志": 2,
+      "OpenAI 官方新闻与帮助中心": 1,
+      "DeepSeek 官方API变更日志": 1
     },
     "excludedNonAINews": 33,
-    "total": 4112,
+    "total": 4124,
     "byMonth": {
       "2026-11": {
-        "codex": 29,
-        "chatgpt": 6,
-        "news": 79
+        "codex": 34,
+        "chatgpt": 7,
+        "news": 85
       },
       "2026-10": {
         "news": 209,
@@ -153,44 +155,40 @@
         "chatgpt": 9
       }
     },
-    "lastCheckedAt": "2026-11-13T07:59:33+08:00",
+    "lastCheckedAt": "2026-11-14T08:06:20+08:00",
     "dailyCheck": {
-      "checkedAt": "2026-11-13T07:59:33+08:00",
+      "checkedAt": "2026-11-14T08:06:20+08:00",
       "addedArticles": 12,
-      "addedHistoricalArticles": 2,
-      "recommendationsAdded": 5,
+      "addedHistoricalArticles": 0,
+      "recommendationsAdded": 4,
       "checks": [
         {
-          "source": "ChatGPT release notes",
-          "result": "重新核查官方页面，最新仍是11月10日已归档两项更新，无重复新增。"
+          "source": "ChatGPT release notes/OpenAI news",
+          "result": "核查11月13日Wallet官方公告与帮助中心；仅成年美国符合资格Pro用户灰度，不把未来完全委托购买当成已上线功能。"
         },
         {
-          "source": "ChatGPT Learn",
-          "result": "直接HTTP403，但网页工具现可读取完整索引；核查11月最新记录并补入iOS 1.2026.307与1.2026.300。此前无法读取的源已恢复本轮核查；未宣称所有客户端历史补漏已结束。"
-        },
-        {
-          "source": "Codex GitHub",
-          "result": "核查最新30个发布，补入0.170.0-alpha.2/.3/.4；均已发布但正文未列详细功能变化。"
+          "source": "ChatGPT Learn/Codex GitHub",
+          "result": "官方Learn与GitHub记录交叉核查0.168.0、0.169.0正式版；另补0.171.0-alpha.1/.2/.4已发布预发行版，后者正文无详细变更。"
         },
         {
           "source": "OpenAI math",
-          "result": "CONTENTS.md SHA 7e1ed90ac5a666f1bbecb22027387c4ad79e9d03未变；原有全部论文、稳定ID与原文保留。"
-        },
-        {
-          "source": "OpenAI news",
-          "result": "直接HTTP403，经网页工具核查当前RSS缺失正文，补入Amplitude、Gondola、Holiday Extras与儿童安全研究承诺；午夜RSS仅按真实日期归档。"
+          "result": "CONTENTS.md SHA 7e1ed90ac5a666f1bbecb22027387c4ad79e9d03未变；全部原论文和许可证、原文链接保留。"
         },
         {
           "source": "Anthropic/Microsoft Research",
-          "result": "重新核查当前官方新闻索引，已归档可见最新内容；本轮没有额外已核实的新条目。"
+          "result": "重新核查当前新闻/研究索引，未见额外尚未归档的可见新条目。"
         },
         {
           "source": "DeepMind/Hugging Face/NVIDIA",
-          "result": "重新获取RSS并核查缺失正文，新增Gemini 4 Hydrogen、LLMON和3D LoRA指南；普通GeForce NOW游戏周报排除。"
+          "result": "补入天气数据集、SimReady仿真教程、XYBench、llama.cpp库1.0与医疗团队案例。天气页面日期与RSS不同，不猜造精确发布时间、不进入今日推荐；卫星数量原文有差异，详情注明。"
         },
         {
-          "source": "DeepSeek/Meta",
-          "result": "重新核查官方可读更新/博客索引，DeepSeek最新可见10月17日，Meta可见最新7月27日；不推断其他频道没有消息。"
+          "source": "DeepSeek",
+          "result": "官方API日志新增11月13日应用层API开放公告；已补入，原文只给日期，不加入24小时推荐。"
+        },
+        {
+          "source": "Meta",
+          "result": "网页工具超时，直接HTTPS恢复取得200并核查可见索引，最新显示7月27日；不宣称完整分页历史。"
         }
       ],
       "partialSources": [
@@ -204,9 +202,9 @@
         }
       ],
       "limitations": [
-        "2025-09-01起已核实历史全量保留，不声称全网穷尽。",
-        "ChatGPT Learn客户端历史仍需逐段补漏；本轮已补入最新两项缺失iOS记录。",
-        "Meta分页、Microsoft其他企业AI频道及中文厂商完整归档仍存在已知范围缺口。"
+        "保留2025-09-01起已核实历史；并非全网穷尽归档。",
+        "ChatGPT Learn完整客户端历史、Meta分页、Microsoft其他企业AI频道与中文厂商历史仍需补漏。",
+        "天气数据集公告源内日期与卫星数量存在冲突，已显式保留局限，不凭采集时间修正发布时间。"
       ]
     }
   },
@@ -100242,6 +100240,305 @@
       },
       "status": "已发布的iOS版本更新；按原日期补漏。",
       "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "interest": []
+    },
+    {
+      "id": "d3b65a3d6417cbf4",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Opening the datasets behind our AI weather models",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "date": "2026-11-13",
+      "source": "Google DeepMind 官方博客",
+      "recommended": false,
+      "status": "依据原始发布整理；保留测试、研究与部署条件。",
+      "publicationTimeNote": "页面标示11月13日，RSS却标11月10日，首次发布时间存在差异；按页面日期归档，不进入24小时推荐。",
+      "titleEn": "Opening the datasets behind our AI weather models",
+      "titleZh": "开放AI天气模型背后的数据集",
+      "summary": "谷歌WeatherNext团队发布SatWeave与PARDIG两个基础数据集，用于天气、水文和气候应用。",
+      "details": {
+        "overview": "谷歌WeatherNext团队发布SatWeave与PARDIG两个基础数据集，用于天气、水文和气候应用。SatWeave把多颗地球静止卫星的影像融合为覆盖17个可见光、水汽和红外通道的全球逐小时拼图，并提供十余年历史存档；PARDIG是基于AI的全球降水数据集，以SatWeave影像和ECMWF大气场为输入、用GPM核心观测站稀疏雷达数据训练，提供15分钟、约10公里分辨率的降水图。团队称两者是WeatherNext 3模型进展的关键，并已开放实时与历史数据。",
+        "keyPoints": [
+          "SatWeave融合多颗静止卫星影像，覆盖17个通道并逐小时更新，提供十余年历史存档。",
+          "PARDIG提供15分钟、约10公里分辨率的全球降水图，平均延迟约五小时。",
+          "作者称PARDIG在美国、欧洲、日本雷达网及3.6万多个气象站评估中优于IMERG-Final等基线。",
+          "原文不同段落分别出现5颗及6颗卫星的表述，本条不采用未消歧的精确卫星数量；发布日期与RSS也存在差异。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "6e5de60ae32ffc34",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "date": "2026-11-14",
+      "source": "Hugging Face 官方及社区博客",
+      "recommended": true,
+      "status": "依据原始发布整理；保留测试、研究与部署条件。",
+      "publishedAt": "2026-11-13T18:00:39+00:00",
+      "recommendedOn": "2026-11-14",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "titleZh": "使用 SimReady 资产构建机器人抓取放置仿真",
+      "summary": "该文介绍如何在 Isaac Sim 6.2 中用 SimReady Central 提供的 UR17G 机械臂、Robotiq 2F-140 夹爪和饮料罐资产搭建抓取放置场景。",
+      "details": {
+        "overview": "该文介绍如何在 Isaac Sim 6.2 中用 SimReady Central 提供的 UR17G 机械臂、Robotiq 2F-140 夹爪和饮料罐资产搭建抓取放置场景。作者说明 SimReady 资产已带有碰撞、质量、关节与驱动等仿真属性，并给出下载资产、组装机械臂与夹爪、检查关节与接触、再用 AI 代理生成控制代码运行抓取放置的步骤。文中强调结果仅适用于固定位置、无视觉、脚本化抓取的简化设定，未验证不确定物体位置、不同负载或真实硬件。",
+        "keyPoints": [
+          "SimReady 资产按 Profile、Feature、Requirement 三级规范校验关节驱动等仿真设置。",
+          "流程包括下载资产、组装机械臂与夹爪、检查关节与接触，再运行抓取放置。",
+          "示例采用固定起点、无视觉和脚本化抓取，未验证真实硬件部署，不能据仿真结果保证实机效果。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "540cca48406feae9",
+      "section": "news",
+      "category": "工具动态",
+      "title": "XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "date": "2026-11-14",
+      "source": "Hugging Face 官方及社区博客",
+      "recommended": true,
+      "status": "依据原始发布整理；保留测试、研究与部署条件。",
+      "publishedAt": "2026-11-13T17:02:35+00:00",
+      "recommendedOn": "2026-11-14",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "XYBench: Helping with the problem behind the question",
+      "titleZh": "XYBench：帮助解决提问背后的问题",
+      "summary": "Ai2发布XYBench基准，含8115个问题，来源包括论坛问题、人工整理及基于WikiHow生成的示例，专门测试AI助手能否识别用户提问中的“XY问题”——用户想达成目标X，却假定方法Y可行并求助Y。",
+      "details": {
+        "overview": "Ai2发布XYBench基准，含8115个问题，来源包括论坛问题、人工整理及基于WikiHow生成的示例，专门测试AI助手能否识别用户提问中的“XY问题”——用户想达成目标X，却假定方法Y可行并求助Y。作者与卡内基梅隆、英伟达、约翰斯·霍普金斯研究者合作，用陈述请求、意图请求、误解识别三项指标评估Claude Sonnet 4.6、GPT-5、Gemini 3.1 Pro、Qwen3.5-9B和DeepSeek-V4 Pro，发现模型多能给出解决方案，但回答仍聚焦于原本错误的方法，不如人类参考答案那样引导用户转向真正目标。该基准获EMNLP 2026最佳资源论文奖。",
+        "keyPoints": [
+          "XYBench含8115个问题，覆盖编程与烹饪、家居维修等日常场景，用于测试模型识别用户隐含误解的能力。",
+          "在Stack Overflow上，模型回答含陈述请求方案的比例为75–86%，含底层目标方案为59–71%，仅35–41%主要聚焦底层目标。",
+          "提供显式意图的oracle实验中，Sonnet 4.6底层目标方案率从59%升至67%，但误解识别率从47%降至34%。",
+          "8115项中6272项由WikiHow指南生成，不能把全体样本视为真实用户原始提问；当前主要限英语和程序性问题。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "78bc48a69baed96b",
+      "section": "news",
+      "category": "工具动态",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "date": "2026-11-13",
+      "source": "Hugging Face 官方及社区博客",
+      "recommended": true,
+      "status": "依据原始发布整理；保留测试、研究与部署条件。",
+      "publishedAt": "2026-11-13T14:05:22+00:00",
+      "recommendedOn": "2026-11-14",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "titleZh": "llama.cpp v1.0.0：为本地AI生态奠定更坚实的基础",
+      "summary": "llama.cpp团队发布llama.cpp与ggml的v1.0.0库版本，强调对下游开发者的API稳定性责任。",
+      "details": {
+        "overview": "llama.cpp团队发布llama.cpp与ggml的v1.0.0库版本，强调对下游开发者的API稳定性责任。文章说明语义化版本规则：公共C API破坏性变更升主版本号，向后兼容的功能、后端更新、模型支持或API新增升次版本号，无API变更的修复升补丁号。文中还列出预发布产物、Docker、Homebrew、conda-forge、MacPorts、Winget、XCFramework等分发渠道，并称项目支持超过150种架构变体及主流推测解码方法。",
+        "keyPoints": [
+          "llama.cpp与ggml发布v1.0.0库版本，公共头文件分别位于llama.cpp/include与ggml/include。",
+          "版本规则规定公共C API破坏性变更才升主版本号，功能与后端更新升次版本号。",
+          "文章列出Docker、Homebrew、conda-forge、Winget、XCFramework等多种分发渠道。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "96088e50d069a09a",
+      "section": "news",
+      "category": "工具动态",
+      "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+      "date": "2026-11-13",
+      "source": "NVIDIA 官方博客",
+      "recommended": true,
+      "status": "依据原始发布整理；保留测试、研究与部署条件。",
+      "publishedAt": "2026-11-13T13:00:42+00:00",
+      "recommendedOn": "2026-11-14",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "titleZh": "AI如何帮助护理团队让患者更早获得正确诊疗",
+      "summary": "这篇NVIDIA发布的行业新闻介绍医疗系统和初创公司如何用AI辅助临床团队。",
+      "details": {
+        "overview": "这篇NVIDIA发布的行业新闻介绍医疗系统和初创公司如何用AI辅助临床团队。重点案例是Dyania Health的Synapsis AI：它读取患者病历中的自由文本记录，跨年份串联检查结果，输出可追溯到原始记录来源的临床信号，供医生复核决策。该系统在医院防火墙内运行，患者数据不出院。文中提到克利夫兰诊所将其用于一项逾7800名主动脉瓣置换患者的回顾性研究，作者称AI完成了原本需临床人员数年完成的人工病历审阅。",
+        "keyPoints": [
+          "Synapsis AI跨病历自由文本与检查结果推理，输出可溯源至原始记录的临床信号，最终决策仍由临床医生做出。",
+          "系统在医院自有防火墙内基于NVIDIA加速计算运行，患者数据不对外共享、不离开医院。",
+          "克利夫兰诊所将其用于2005至2021年逾7800名主动脉瓣置换患者的病历审阅与预测建模研究。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "e9e33c2dad5133ca",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.169.0 正式版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0",
+      "date": "2026-11-13",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "titleZh": "Codex CLI 0.169.0 正式版发布",
+      "summary": "Codex CLI 0.169.0 正式发布，增强按需启用的终端工作区、任务搜索、自定义模型提供商和诊断保存，并修复信任目录、计划交接及Windows沙箱问题。",
+      "details": {
+        "overview": "Codex CLI 0.169.0 正式发布，增强按需启用的终端工作区、任务搜索、自定义模型提供商和诊断保存，并修复信任目录、计划交接及Windows沙箱问题。",
+        "keyPoints": [
+          "可选终端工作区支持多个侧聊标签、重启后恢复本地侧聊；命令中心可按名称、提示或工作目录搜索旧任务。",
+          "全屏记录可折叠已完成活动；终端支持配置自定义提供商，并可用Ctrl+S本地保存诊断ZIP。",
+          "macOS/Linux可选Cloud连接支持图片、模型与推理强度选择、归档及恢复；这些可选能力不表示所有平台默认开启。",
+          "修复不可信目录中的项目配置与MCP启用边界、批准计划传递、Windows路径及工作目录沙箱处理。"
+        ]
+      },
+      "publishedAt": "2026-11-13T08:37:05Z",
+      "releaseChannel": "stable",
+      "status": "已发布正式版；部分功能需按说明启用。",
+      "interest": []
+    },
+    {
+      "id": "1f5b6abd5abb5c50",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.171.0-alpha.4 测试版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.4",
+      "date": "2026-11-14",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "titleZh": "Codex CLI 0.171.0-alpha.4 测试版发布",
+      "summary": "Codex CLI 0.171.0-alpha.4 alpha 测试版已发布。",
+      "details": {
+        "overview": "Codex CLI 0.171.0-alpha.4 alpha 测试版已发布。官方正文只列版本号，未提供逐项功能或修复说明。",
+        "keyPoints": [
+          "已发布测试版本归入功能更新。",
+          "不根据版本号猜测新功能或修复；保留官方发布页供后续查证。"
+        ]
+      },
+      "publishedAt": "2026-11-13T18:52:02Z",
+      "releaseChannel": "prerelease",
+      "status": "已发布alpha测试版；无详细变更说明。",
+      "interest": []
+    },
+    {
+      "id": "1fd9ad81e2c1f437",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.171.0-alpha.2 测试版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.2",
+      "date": "2026-11-13",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "titleZh": "Codex CLI 0.171.0-alpha.2 测试版发布",
+      "summary": "Codex CLI 0.171.0-alpha.2 alpha 测试版已发布。",
+      "details": {
+        "overview": "Codex CLI 0.171.0-alpha.2 alpha 测试版已发布。官方正文只列版本号，未提供逐项功能或修复说明。",
+        "keyPoints": [
+          "已发布测试版本归入功能更新。",
+          "不根据版本号猜测新功能或修复；保留官方发布页供后续查证。"
+        ]
+      },
+      "publishedAt": "2026-11-13T07:59:06Z",
+      "releaseChannel": "prerelease",
+      "status": "已发布alpha测试版；无详细变更说明。",
+      "interest": []
+    },
+    {
+      "id": "83366026b493f8c5",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.168.0 正式版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.168.0",
+      "date": "2026-11-13",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "titleZh": "Codex CLI 0.168.0 正式版发布",
+      "summary": "Codex CLI 0.168.0 正式发布，新增模型提供商选择与可选侧聊工作区，改进音频附件、动画生成和终端通知。",
+      "details": {
+        "overview": "Codex CLI 0.168.0 正式发布，新增模型提供商选择与可选侧聊工作区，改进音频附件、动画生成和终端通知。部分能力需明确启用相应功能开关。",
+        "keyPoints": [
+          "Sessions中的Model providers可选择新聊天的默认提供商；features.tui_workspace启用并排侧聊，可调整或缩放窗格。",
+          "音频能力取决于所选模型；features.image_generation_animation启用GIF生成和编辑，并支持帧数及时间控制。",
+          "修复模型提供商保留、运行中任务引导、工具打断时Markdown显示及Windows空闲MCP管道阻塞。"
+        ]
+      },
+      "publishedAt": "2026-11-13T03:54:29Z",
+      "releaseChannel": "stable",
+      "status": "已发布正式版；部分功能需按说明启用。",
+      "interest": []
+    },
+    {
+      "id": "ae967da154c5cf7a",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.171.0-alpha.1 测试版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.1",
+      "date": "2026-11-13",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "titleZh": "Codex CLI 0.171.0-alpha.1 测试版发布",
+      "summary": "Codex CLI 0.171.0-alpha.1 alpha 测试版已发布。",
+      "details": {
+        "overview": "Codex CLI 0.171.0-alpha.1 alpha 测试版已发布。官方正文只列版本号，未提供逐项功能或修复说明。",
+        "keyPoints": [
+          "已发布测试版本归入功能更新。",
+          "不根据版本号猜测新功能或修复；保留官方发布页供后续查证。"
+        ]
+      },
+      "publishedAt": "2026-11-13T04:15:28Z",
+      "releaseChannel": "prerelease",
+      "status": "已发布alpha测试版；无详细变更说明。",
+      "interest": []
+    },
+    {
+      "id": "8ad71d1514fbd65e",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "ChatGPT Wallet 开始向美国成年 Pro 用户的 dots 推出",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "date": "2026-11-13",
+      "source": "OpenAI 官方新闻与帮助中心",
+      "recommended": false,
+      "titleZh": "ChatGPT Wallet 开始向美国成年 Pro 用户的 dots 推出",
+      "summary": "OpenAI 开始在 dots 中逐步推出 ChatGPT Wallet，让符合资格的用户为智能体购买逐笔授权。",
+      "details": {
+        "overview": "OpenAI 开始在 dots 中逐步推出 ChatGPT Wallet，让符合资格的用户为智能体购买逐笔授权。初期面向美国年满18岁的Pro订阅者，需符合条件的美国发行卡及美国账单地址。",
+        "keyPoints": [
+          "付款前需核对商家、商品、总额及所选卡，并以Face ID或指纹等安全检查授权；不是默认允许智能体自行花费。",
+          "结账使用替代支付凭证，不向智能体及商家暴露真实卡资料；部分网站可能不兼容，批准并不等于订单已确认。",
+          "官方把设定预算等条件后完全委托购买描述为未来期望，不是当前已开放能力。"
+        ]
+      },
+      "publishedAt": "2026-11-13T15:00:00+00:00",
+      "status": "灰度推出；仅美国符合资格的成年Pro用户，具体可用性以账号为准。",
+      "interest": []
+    },
+    {
+      "id": "c2a35bdad177c7c4",
+      "section": "news",
+      "category": "工具动态",
+      "title": "DeepSeek 开放应用层API：搜索、文件、链接读取与语音能力",
+      "titleZh": "DeepSeek 开放应用层API：搜索、文件、链接读取与语音能力",
+      "url": "https://api-docs.deepseek.com/updates/#date-2026-11-13",
+      "date": "2026-11-13",
+      "source": "DeepSeek 官方API变更日志",
+      "recommended": false,
+      "publicationTimeNote": "官方仅提供日期，具体发布时间未详；不推断属于当前滚动24小时窗口。",
+      "summary": "DeepSeek 官方11月13日宣布向开发者开放应用层API，可在现有接口中启用搜索、文件输入和链接读取等能力，并提供独立的搜索抓取、OCR、语音识别和语音合成接口。",
+      "details": {
+        "overview": "DeepSeek 官方11月13日宣布向开发者开放应用层API，可在现有接口中启用搜索、文件输入和链接读取等能力，并提供独立的搜索抓取、OCR、语音识别和语音合成接口。",
+        "keyPoints": [
+          "deepseek-flash在Messages、Responses和Chat Completions接口中支持相应能力，服务端负责工具调用及上下文组装。",
+          "开启搜索工具后，非思考模式支持搜索及带引用回答，思考模式支持多步搜索与链接读取。",
+          "官方同时提供模型安全检查参数及开源演示客户端；具体接口支持与费用以官方指南为准。"
+        ]
+      },
+      "status": "官方已发布；日期确切，小时未详。",
       "interest": []
     }
   ]

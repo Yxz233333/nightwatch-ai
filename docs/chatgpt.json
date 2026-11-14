@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-12T23:59:46.571Z",
+  "syncedAt": "2026-11-14T00:06:30.117Z",
   "articles": [
     {
       "id": "d801af45ebed7c9b",
@@ -5191,6 +5191,29 @@
       },
       "status": "已发布的iOS版本更新；按原日期补漏。",
       "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "interest": []
+    },
+    {
+      "id": "8ad71d1514fbd65e",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "ChatGPT Wallet 开始向美国成年 Pro 用户的 dots 推出",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "date": "2026-11-13",
+      "source": "OpenAI 官方新闻与帮助中心",
+      "recommended": false,
+      "titleZh": "ChatGPT Wallet 开始向美国成年 Pro 用户的 dots 推出",
+      "summary": "OpenAI 开始在 dots 中逐步推出 ChatGPT Wallet，让符合资格的用户为智能体购买逐笔授权。",
+      "details": {
+        "overview": "OpenAI 开始在 dots 中逐步推出 ChatGPT Wallet，让符合资格的用户为智能体购买逐笔授权。初期面向美国年满18岁的Pro订阅者，需符合条件的美国发行卡及美国账单地址。",
+        "keyPoints": [
+          "付款前需核对商家、商品、总额及所选卡，并以Face ID或指纹等安全检查授权；不是默认允许智能体自行花费。",
+          "结账使用替代支付凭证，不向智能体及商家暴露真实卡资料；部分网站可能不兼容，批准并不等于订单已确认。",
+          "官方把设定预算等条件后完全委托购买描述为未来期望，不是当前已开放能力。"
+        ]
+      },
+      "publishedAt": "2026-11-13T15:00:00+00:00",
+      "status": "灰度推出；仅美国符合资格的成年Pro用户，具体可用性以账号为准。",
       "interest": []
     }
   ]

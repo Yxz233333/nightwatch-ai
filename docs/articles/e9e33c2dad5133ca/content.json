@@ -1,0 +1,25 @@
+{
+  "id": "e9e33c2dad5133ca",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.169.0 正式版发布",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0",
+  "date": "2026-11-13",
+  "source": "Codex GitHub Releases",
+  "recommended": false,
+  "titleZh": "Codex CLI 0.169.0 正式版发布",
+  "summary": "Codex CLI 0.169.0 正式发布，增强按需启用的终端工作区、任务搜索、自定义模型提供商和诊断保存，并修复信任目录、计划交接及Windows沙箱问题。",
+  "details": {
+    "overview": "Codex CLI 0.169.0 正式发布，增强按需启用的终端工作区、任务搜索、自定义模型提供商和诊断保存，并修复信任目录、计划交接及Windows沙箱问题。",
+    "keyPoints": [
+      "可选终端工作区支持多个侧聊标签、重启后恢复本地侧聊；命令中心可按名称、提示或工作目录搜索旧任务。",
+      "全屏记录可折叠已完成活动；终端支持配置自定义提供商，并可用Ctrl+S本地保存诊断ZIP。",
+      "macOS/Linux可选Cloud连接支持图片、模型与推理强度选择、归档及恢复；这些可选能力不表示所有平台默认开启。",
+      "修复不可信目录中的项目配置与MCP启用边界、批准计划传递、Windows路径及工作目录沙箱处理。"
+    ]
+  },
+  "publishedAt": "2026-11-13T08:37:05Z",
+  "releaseChannel": "stable",
+  "status": "已发布正式版；部分功能需按说明启用。",
+  "interest": []
+}

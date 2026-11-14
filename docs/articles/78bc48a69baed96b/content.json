@@ -1,0 +1,27 @@
+{
+  "id": "78bc48a69baed96b",
+  "section": "news",
+  "category": "工具动态",
+  "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+  "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+  "date": "2026-11-13",
+  "source": "Hugging Face 官方及社区博客",
+  "recommended": true,
+  "status": "依据原始发布整理；保留测试、研究与部署条件。",
+  "publishedAt": "2026-11-13T14:05:22+00:00",
+  "recommendedOn": "2026-11-14",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+  "titleZh": "llama.cpp v1.0.0：为本地AI生态奠定更坚实的基础",
+  "summary": "llama.cpp团队发布llama.cpp与ggml的v1.0.0库版本，强调对下游开发者的API稳定性责任。",
+  "details": {
+    "overview": "llama.cpp团队发布llama.cpp与ggml的v1.0.0库版本，强调对下游开发者的API稳定性责任。文章说明语义化版本规则：公共C API破坏性变更升主版本号，向后兼容的功能、后端更新、模型支持或API新增升次版本号，无API变更的修复升补丁号。文中还列出预发布产物、Docker、Homebrew、conda-forge、MacPorts、Winget、XCFramework等分发渠道，并称项目支持超过150种架构变体及主流推测解码方法。",
+    "keyPoints": [
+      "llama.cpp与ggml发布v1.0.0库版本，公共头文件分别位于llama.cpp/include与ggml/include。",
+      "版本规则规定公共C API破坏性变更才升主版本号，功能与后端更新升次版本号。",
+      "文章列出Docker、Homebrew、conda-forge、Winget、XCFramework等多种分发渠道。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}
