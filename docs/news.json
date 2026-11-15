@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-14T00:06:30.117Z",
+  "syncedAt": "2026-11-15T00:07:22.747Z",
   "articles": [
     {
       "id": "e985bef486a031bf",
@@ -45430,6 +45430,29 @@
         ]
       },
       "status": "官方已发布；日期确切，小时未详。",
+      "interest": []
+    },
+    {
+      "id": "d74fe86f6c4b66d6",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Shield 分享使用 GPT-6 Astra 操作旧式IT服务门户的案例",
+      "titleZh": "Shield 分享使用 GPT-6 Astra 操作旧式IT服务门户的案例",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T08:00:00+00:00",
+      "source": "OpenAI 官方客户案例",
+      "recommended": false,
+      "summary": "Shield介绍在Forge平台中使用GPT-6 Astra，让智能体操作缺少API的旧式IT服务网页。技术人员仍决定哪些动作可自主执行、哪些需要审核；该案例不表示所有IT支持任务均已自动化。",
+      "details": {
+        "overview": "Shield介绍在Forge平台中使用GPT-6 Astra，让智能体操作缺少API的旧式IT服务网页。技术人员仍决定哪些动作可自主执行、哪些需要审核；该案例不表示所有IT支持任务均已自动化。",
+        "keyPoints": [
+          "企业称相关浏览器流程已上线，每月运行数千次，电话、现场及远程桌面工作仍需人工参与。",
+          "企业报告相对其此前使用的模型，电脑操作任务平均快35%至40%；该比较为特定企业案例，不能推广到所有任务。",
+          "远程桌面流程仍在测试，不能把该探索当作已普遍部署。"
+        ]
+      },
+      "status": "已上线的支持范围内浏览器工作流案例；远程桌面仍在测试。",
       "interest": []
     }
   ]

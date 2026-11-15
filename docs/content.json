@@ -1,11 +1,11 @@
 {
   "schemaVersion": 4,
   "title": "夜行 · AI 阅读入口",
-  "syncedAt": "2026-11-14T00:06:30.117Z",
-  "contentUpdatedAt": "2026-11-14T08:06:20+08:00",
+  "syncedAt": "2026-11-15T00:07:22.747Z",
+  "contentUpdatedAt": "2026-11-15T08:07:12+08:00",
   "coverage": {
     "requestedFrom": "2025-09-01",
-    "requestedThrough": "2026-11-14",
+    "requestedThrough": "2026-11-15",
     "scope": "已核实官方发布说明、GitHub Releases、官方 RSS 与新闻研究归档；不是全网穷尽清单。",
     "historyAddedBySource": {
       "ChatGPT 官方发布说明": 207,
@@ -48,7 +48,7 @@
     "sourceCounts": {
       "OpenAI 官方新闻": 736,
       "Hugging Face 官方博客": 250,
-      "Codex GitHub Releases": 1188,
+      "Codex GitHub Releases": 1189,
       "NVIDIA 官方博客": 356,
       "Anthropic 官方新闻与研究": 256,
       "MiniMax 官方博客": 2,
@@ -70,15 +70,16 @@
       "Microsoft Research 官方博客": 3,
       "ChatGPT Learn 官方变更日志": 2,
       "OpenAI 官方新闻与帮助中心": 1,
-      "DeepSeek 官方API变更日志": 1
+      "DeepSeek 官方API变更日志": 1,
+      "OpenAI 官方客户案例": 1
     },
     "excludedNonAINews": 33,
-    "total": 4124,
+    "total": 4126,
     "byMonth": {
       "2026-11": {
-        "codex": 34,
+        "codex": 35,
         "chatgpt": 7,
-        "news": 85
+        "news": 86
       },
       "2026-10": {
         "news": 209,
@@ -155,56 +156,56 @@
         "chatgpt": 9
       }
     },
-    "lastCheckedAt": "2026-11-14T08:06:20+08:00",
+    "lastCheckedAt": "2026-11-15T08:07:12+08:00",
     "dailyCheck": {
-      "checkedAt": "2026-11-14T08:06:20+08:00",
-      "addedArticles": 12,
-      "addedHistoricalArticles": 0,
-      "recommendationsAdded": 4,
+      "checkedAt": "2026-11-15T08:07:12+08:00",
+      "addedArticles": 2,
+      "addedHistoricalArticles": 1,
+      "recommendationsAdded": 0,
       "checks": [
         {
-          "source": "ChatGPT release notes/OpenAI news",
-          "result": "核查11月13日Wallet官方公告与帮助中心；仅成年美国符合资格Pro用户灰度，不把未来完全委托购买当成已上线功能。"
+          "source": "ChatGPT release notes",
+          "result": "最新仍为11月13日Wallet，已归档；不重复新增。"
         },
         {
           "source": "ChatGPT Learn/Codex GitHub",
-          "result": "官方Learn与GitHub记录交叉核查0.168.0、0.169.0正式版；另补0.171.0-alpha.1/.2/.4已发布预发行版，后者正文无详细变更。"
+          "result": "Learn最新正式版仍为11月13日0.168/0.169；GitHub新增0.171.0-alpha.5已归档，无详细变更说明。"
         },
         {
           "source": "OpenAI math",
-          "result": "CONTENTS.md SHA 7e1ed90ac5a666f1bbecb22027387c4ad79e9d03未变；全部原论文和许可证、原文链接保留。"
+          "result": "CONTENTS.md SHA 7e1ed90ac5a666f1bbecb22027387c4ad79e9d03未变；原有论文、许可证及原文全部保留。"
+        },
+        {
+          "source": "OpenAI news",
+          "result": "重新核查官方RSS；Shield案例按11月13日真实发布时间补漏，不进入今日推荐。Business Hub与既有帮助中心记录同事件不重复。"
         },
         {
           "source": "Anthropic/Microsoft Research",
-          "result": "重新核查当前新闻/研究索引，未见额外尚未归档的可见新条目。"
+          "result": "重新核查新闻/研究索引，没有额外已核实且尚未归档的可见新条目。"
         },
         {
           "source": "DeepMind/Hugging Face/NVIDIA",
-          "result": "补入天气数据集、SimReady仿真教程、XYBench、llama.cpp库1.0与医疗团队案例。天气页面日期与RSS不同，不猜造精确发布时间、不进入今日推荐；卫星数量原文有差异，详情注明。"
+          "result": "重新获取RSS并按已有URL比对；无额外可核实新AI条目，普通GeForce NOW游戏周报排除。"
         },
         {
-          "source": "DeepSeek",
-          "result": "官方API日志新增11月13日应用层API开放公告；已补入，原文只给日期，不加入24小时推荐。"
-        },
-        {
-          "source": "Meta",
-          "result": "网页工具超时，直接HTTPS恢复取得200并核查可见索引，最新显示7月27日；不宣称完整分页历史。"
+          "source": "DeepSeek/Meta",
+          "result": "DeepSeek可读API日志最新仍为11月13日已归档应用API；Meta直接HTTPS200核查，可见索引最新仍显示7月27日。"
         }
       ],
       "partialSources": [
         {
           "url": "https://qwen.ai/research",
-          "result": "网页工具仍无可读正文，不能确认该源全部动态。"
+          "result": "网页工具无可读正文，不能判定没有新消息。"
         },
         {
           "url": "https://www.minimax.io/news",
-          "result": "网页工具主要返回导航，未取得带日期的新闻列表。"
+          "result": "返回导航，未取得带日期的新闻列表。"
         }
       ],
       "limitations": [
-        "保留2025-09-01起已核实历史；并非全网穷尽归档。",
-        "ChatGPT Learn完整客户端历史、Meta分页、Microsoft其他企业AI频道与中文厂商历史仍需补漏。",
-        "天气数据集公告源内日期与卫星数量存在冲突，已显式保留局限，不凭采集时间修正发布时间。"
+        "保留2025-09-01起已核实历史；不宣称全网全部消息。",
+        "本轮没有核实到滚动24小时内适合新增推荐的资讯，允许推荐为空，不拿历史消息补位。",
+        "ChatGPT Learn客户端历史、Meta分页、Microsoft其他企业AI频道及中文厂商完整归档仍需继续补漏。"
       ]
     }
   },
@@ -100539,6 +100540,52 @@
         ]
       },
       "status": "官方已发布；日期确切，小时未详。",
+      "interest": []
+    },
+    {
+      "id": "2aea734066aca6c5",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.171.0-alpha.5 测试版发布",
+      "titleZh": "Codex CLI 0.171.0-alpha.5 测试版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.5",
+      "date": "2026-11-14",
+      "publishedAt": "2026-11-14T01:20:37+00:00",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "summary": "Codex CLI 0.171.0-alpha.5 alpha测试版已发布。官方正文仅列版本号，未提供详细功能及修复说明。",
+      "details": {
+        "overview": "Codex CLI 0.171.0-alpha.5 alpha测试版已发布。官方正文仅列版本号，未提供详细功能及修复说明。",
+        "keyPoints": [
+          "这是已发布的预发行测试版本，归入功能更新。",
+          "不据版本号推测新增能力或修复；原始发布页保留用于后续核查。"
+        ]
+      },
+      "releaseChannel": "prerelease",
+      "status": "已发布alpha测试版；未提供逐项变更说明。",
+      "interest": []
+    },
+    {
+      "id": "d74fe86f6c4b66d6",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Shield 分享使用 GPT-6 Astra 操作旧式IT服务门户的案例",
+      "titleZh": "Shield 分享使用 GPT-6 Astra 操作旧式IT服务门户的案例",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "date": "2026-11-13",
+      "publishedAt": "2026-11-13T08:00:00+00:00",
+      "source": "OpenAI 官方客户案例",
+      "recommended": false,
+      "summary": "Shield介绍在Forge平台中使用GPT-6 Astra，让智能体操作缺少API的旧式IT服务网页。技术人员仍决定哪些动作可自主执行、哪些需要审核；该案例不表示所有IT支持任务均已自动化。",
+      "details": {
+        "overview": "Shield介绍在Forge平台中使用GPT-6 Astra，让智能体操作缺少API的旧式IT服务网页。技术人员仍决定哪些动作可自主执行、哪些需要审核；该案例不表示所有IT支持任务均已自动化。",
+        "keyPoints": [
+          "企业称相关浏览器流程已上线，每月运行数千次，电话、现场及远程桌面工作仍需人工参与。",
+          "企业报告相对其此前使用的模型，电脑操作任务平均快35%至40%；该比较为特定企业案例，不能推广到所有任务。",
+          "远程桌面流程仍在测试，不能把该探索当作已普遍部署。"
+        ]
+      },
+      "status": "已上线的支持范围内浏览器工作流案例；远程桌面仍在测试。",
       "interest": []
     }
   ]
