@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-15T00:07:22.747Z",
+  "syncedAt": "2026-11-15T23:59:35.706Z",
   "articles": [
     {
       "id": "e985bef486a031bf",
@@ -45453,6 +45453,57 @@
         ]
       },
       "status": "已上线的支持范围内浏览器工作流案例；远程桌面仍在测试。",
+      "interest": []
+    },
+    {
+      "id": "bbac567ecdbf4123",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "OpenAI 启动科学博客，分享 AI 辅助研究与方法",
+      "titleZh": "OpenAI 启动科学博客，分享 AI 辅助研究与方法",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-15T22:00:00Z",
+      "source": "OpenAI 官方新闻",
+      "recommended": true,
+      "summary": "OpenAI宣布启动科学博客，面向科研人员分享AI辅助研究发现、实践方法及学术界观点。栏目也将讨论结果检验、方法局限和科学实践中的开放问题。",
+      "details": {
+        "overview": "OpenAI宣布启动科学博客，面向科研人员分享AI辅助研究发现、实践方法及学术界观点。栏目也将讨论结果检验、方法局限和科学实践中的开放问题。",
+        "keyPoints": [
+          "范围覆盖多个科学学科，包含持续研究、科学计算、数据分析与实验规划的方法。",
+          "发布研究主张不等于独立审查已经完成；博客不能替代原始论文及学术讨论。"
+        ]
+      },
+      "status": "官方已宣布启动科学博客。",
+      "recommendedOn": "2026-11-16",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "f957564d9ee7fb11",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "GPT-6 Astra 辅助提出标准模型的候选格点定义",
+      "titleZh": "GPT-6 Astra 辅助提出标准模型的候选格点定义",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-15T22:00:01Z",
+      "source": "OpenAI 官方新闻",
+      "recommended": true,
+      "summary": "物理学家Nathaniel Craig介绍与GPT-6 Astra合作提出的标准模型非微扰格点定义候选。方案在有限格距及场强限制下构造费米子测度，尚需学界检验其全部所需性质。",
+      "details": {
+        "overview": "物理学家Nathaniel Craig介绍与GPT-6 Astra合作提出的标准模型非微扰格点定义候选。方案在有限格距及场强限制下构造费米子测度，尚需学界检验其全部所需性质。",
+        "keyPoints": [
+          "工作借助相邻精细格点上的手征投影比较构造相位规则；人类专家参与讨论与审阅。",
+          "作者明确其更偏向原则性构造，距离实际格点模拟仍有工作，有限格距的反射正性仍是开放核查问题。",
+          "原始预印本于10月6日提交；本条日期是11月15日官方解读公告时间，不把论文提交日改成今天。"
+        ]
+      },
+      "status": "候选理论构造及预印本；不能称为标准模型全部数学基础已获最终证明或实验验证。",
+      "breakthrough": true,
+      "breakthroughField": "数学物理与格点场论",
+      "recommendedOn": "2026-11-16",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
       "interest": []
     }
   ]

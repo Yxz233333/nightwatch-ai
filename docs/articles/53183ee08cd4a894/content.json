@@ -1,0 +1,31 @@
+{
+  "id": "53183ee08cd4a894",
+  "section": "papers",
+  "category": "数学物理与量子信息",
+  "title": "格点手征费米子的规范不变测度",
+  "titleZh": "格点手征费米子的规范不变测度",
+  "url": "https://arxiv.org/abs/2610.09093",
+  "date": "2026-10-07",
+  "publishedAt": "2026-10-06T20:47:54Z",
+  "source": "arXiv 原始预印本及 OpenAI 科学博客",
+  "recommended": false,
+  "summary": "作者提出四维欧几里得格点上重叠费米子的规范不变测度构造，适用于包含标准模型的一类非阿贝尔手征规范理论。这是一种候选非微扰定义，仍需进一步学术检验。",
+  "details": {
+    "overview": "作者提出四维欧几里得格点上重叠费米子的规范不变测度构造，适用于包含标准模型的一类非阿贝尔手征规范理论。这是一种候选非微扰定义，仍需进一步学术检验。",
+    "keyPoints": [
+      "在可容许规范场前提下，比较相邻格距的手征投影，构造指数局域流。",
+      "附数学伴随材料和Lean形式化报告；不据此宣称已完成同行评议或全部物理性质验证。"
+    ]
+  },
+  "titleEn": "A gauge-invariant measure for lattice chiral fermions",
+  "abstractEnglish": "We nonperturbatively construct a gauge-invariant measure for overlap fermions on four-dimensional Euclidean lattices in a class of nonabelian chiral gauge theories that includes the Standard Model. On admissible gauge fields, comparing chiral projectors at successive lattice spacings yields an exponentially local current and establishes the global properties needed for Lüscher's reconstruction of a smooth, gauge-invariant fermion measure. This provides a candidate nonperturbative lattice definition of the Standard Model.",
+  "authors": [
+    "Nathaniel Craig"
+  ],
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "subjectDetail": "格点手征规范理论；费米子测度",
+  "publicationTimeNote": "按arXiv v1原始提交时间归档；OpenAI解读公告为11月15日，二者不混用。",
+  "status": "作者预印本与AI辅助证明构造；本条没有同行评审通过证据。",
+  "interest": []
+}

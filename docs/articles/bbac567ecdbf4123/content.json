@@ -1,0 +1,24 @@
+{
+  "id": "bbac567ecdbf4123",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI 启动科学博客，分享 AI 辅助研究与方法",
+  "titleZh": "OpenAI 启动科学博客，分享 AI 辅助研究与方法",
+  "url": "https://openai.com/index/our-new-blog-for-science",
+  "date": "2026-11-16",
+  "publishedAt": "2026-11-15T22:00:00Z",
+  "source": "OpenAI 官方新闻",
+  "recommended": true,
+  "summary": "OpenAI宣布启动科学博客，面向科研人员分享AI辅助研究发现、实践方法及学术界观点。栏目也将讨论结果检验、方法局限和科学实践中的开放问题。",
+  "details": {
+    "overview": "OpenAI宣布启动科学博客，面向科研人员分享AI辅助研究发现、实践方法及学术界观点。栏目也将讨论结果检验、方法局限和科学实践中的开放问题。",
+    "keyPoints": [
+      "范围覆盖多个科学学科，包含持续研究、科学计算、数据分析与实验规划的方法。",
+      "发布研究主张不等于独立审查已经完成；博客不能替代原始论文及学术讨论。"
+    ]
+  },
+  "status": "官方已宣布启动科学博客。",
+  "recommendedOn": "2026-11-16",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "interest": []
+}

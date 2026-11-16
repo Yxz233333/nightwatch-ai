@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-15T00:07:22.747Z",
+  "syncedAt": "2026-11-15T23:59:35.706Z",
   "articles": [
     {
       "id": "feed0920e670fa7c",
@@ -30918,6 +30918,52 @@
       },
       "releaseChannel": "prerelease",
       "status": "已发布alpha测试版；未提供逐项变更说明。",
+      "interest": []
+    },
+    {
+      "id": "8471433d25401505",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.171.0-alpha.6 测试版发布",
+      "titleZh": "Codex CLI 0.171.0-alpha.6 测试版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.6",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-15T18:58:35Z",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "summary": "Codex CLI 0.171.0-alpha.6 alpha测试版已发布。官方正文仅列版本号，未提供逐项功能和修复说明。",
+      "details": {
+        "overview": "Codex CLI 0.171.0-alpha.6 alpha测试版已发布。官方正文仅列版本号，未提供逐项功能和修复说明。",
+        "keyPoints": [
+          "已发布的预发行版本归入功能更新，不作为未来预告。",
+          "发布时间按发布页relative-time核查，未使用Atom后续更新时间代替；不凭版本号推测变化。"
+        ]
+      },
+      "releaseChannel": "prerelease",
+      "status": "已发布alpha测试版；未提供详细变更说明。",
+      "interest": []
+    },
+    {
+      "id": "016d86c6c8984d64",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.171.0-alpha.7 测试版发布",
+      "titleZh": "Codex CLI 0.171.0-alpha.7 测试版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.7",
+      "date": "2026-11-16",
+      "publishedAt": "2026-11-15T23:13:50Z",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "summary": "Codex CLI 0.171.0-alpha.7 alpha测试版已发布。官方正文仅列版本号，未提供逐项功能和修复说明。",
+      "details": {
+        "overview": "Codex CLI 0.171.0-alpha.7 alpha测试版已发布。官方正文仅列版本号，未提供逐项功能和修复说明。",
+        "keyPoints": [
+          "已发布的预发行版本归入功能更新，不作为未来预告。",
+          "发布时间按发布页relative-time核查，未使用Atom后续更新时间代替；不凭版本号推测变化。"
+        ]
+      },
+      "releaseChannel": "prerelease",
+      "status": "已发布alpha测试版；未提供详细变更说明。",
       "interest": []
     }
   ]
