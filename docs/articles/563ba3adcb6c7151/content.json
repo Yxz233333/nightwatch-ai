@@ -1,0 +1,28 @@
+{
+  "id": "563ba3adcb6c7151",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+  "url": "https://openai.com/index/strengthening-online-child-safety",
+  "date": "2026-11-17",
+  "source": "OpenAI 官方新闻",
+  "recommended": true,
+  "publishedAt": "2026-11-16T17:00:00+00:00",
+  "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+  "recommendedOn": "2026-11-17",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "Strengthening the fight against online child sexual abuse with new tools and support",
+  "titleZh": "OpenAI推出新工具与支持，加强打击网络儿童性虐待",
+  "summary": "OpenAI发布一款可检测潜在儿童性虐待材料（CSAM）的图像分类器，并称其能识别AI生成内容，通过API免费向经审核组织开放。",
+  "details": {
+    "overview": "OpenAI发布一款可检测潜在儿童性虐待材料（CSAM）的图像分类器，并称其能识别AI生成内容，通过API免费向经审核组织开放。公司还介绍ChatGPT中新增警告与24小时暂停机制、面向开发者的实践指南，以及为儿童安全执法调查人员提供的工具与培训。稿件称早期测试中该分类器可减少约48%的被标记图像，同时发现大致相同数量的虐待图像。",
+    "keyPoints": [
+      "新图像分类器可检测潜在CSAM，并称是首个广泛可用、能提示AI生成CSAM的分类器。",
+      "ChatGPT新增警告，会移除被标记对话并暂停访问24小时，屡次违规或致封号。",
+      "发布开发者实践指南，并计划为儿童安全执法调查人员开展工具概览与演示培训。",
+      "分类器仅供获准组织使用；相关执法培训为计划安排，不能把全部支持措施视为已完成。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

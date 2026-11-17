@@ -1,0 +1,25 @@
+{
+  "id": "ac8e56328e865724",
+  "section": "news",
+  "category": "工具动态",
+  "title": "At Holiday Extras, dots get to work before anyone asks",
+  "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+  "date": "2026-11-16",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "publicationTimeNote": "原文仅提供日期；未将RSS午夜时间视为已经核实的小时。",
+  "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+  "titleEn": "At Holiday Extras, dots get to work before anyone asks",
+  "titleZh": "在Holiday Extras，dots 在无人要求前就主动开工",
+  "summary": "这是OpenAI发布的一则企业客户故事，介绍英国旅行科技公司Holiday Extras如何让员工使用ChatGPT中的dots作为个人助理。",
+  "details": {
+    "overview": "这是OpenAI发布的一则企业客户故事，介绍英国旅行科技公司Holiday Extras如何让员工使用ChatGPT中的dots作为个人助理。文中称，公司AI创新副总裁Liam Thompson的dot“Beast”在新功能上线次日主动拉取BigQuery数据并提交表现报告；创新与增长总监David Lee的dot“Brian”在通勤途中与其语音讨论日程并提前生成报告、标记API密钥退役可能影响的人员。稿件还称Beast借助After Effects和Rive完成3D角色动画，把原本数天的工作缩短到约十分钟。这些均为企业方与OpenAI的单方描述，未提供独立验证。",
+    "keyPoints": [
+      "Beast在新功能上线后未经要求，经ChatGPT插件从BigQuery取数并生成表现报告。",
+      "Brian在通勤语音通话中梳理当日会议，并提前准备好使用公司数据的报告。",
+      "Liam称Beast完成3D角色动画约用十分钟，而自己原本需数天。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

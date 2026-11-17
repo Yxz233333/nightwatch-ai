@@ -1,0 +1,27 @@
+{
+  "id": "fedf3d0a590d0bdc",
+  "section": "news",
+  "category": "工具动态",
+  "title": "CUDA at 20: How the Platform Transformed Scientific Computing",
+  "url": "https://blogs.nvidia.com/blog/20-years-cuda/",
+  "date": "2026-11-17",
+  "source": "NVIDIA 官方博客",
+  "recommended": true,
+  "publishedAt": "2026-11-16T16:00:11+00:00",
+  "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+  "recommendedOn": "2026-11-17",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "CUDA at 20: How the Platform Transformed Scientific Computing",
+  "titleZh": "CUDA 二十周年：这一平台如何改变科学计算",
+  "summary": "NVIDIA 在 SC26 大会上纪念 CUDA 发布二十周年。",
+  "details": {
+    "overview": "NVIDIA 在 SC26 大会上纪念 CUDA 发布二十周年。文章回顾 CUDA 于 2006 年 11 月在 SC06 面向科学界推出，为开发者提供使用 GPU 的高层编程模型，将加速计算从图形拓展到科学与仿真等领域。文中列举分子动力学工具、AlexNet 训练、AlphaFold 2 等使用 CUDA 的案例，并称目前有超过 1100 万开发者在 CUDA 上构建应用。",
+    "keyPoints": [
+      "CUDA 于 2006 年 11 月在 SC06 向科学界发布，提供使用 GPU 的高层编程模型。",
+      "文章称开发者用 CUDA 推进 AI 研究、超算科学应用与电影视觉效果。",
+      "NVIDIA 称目前有超过 1100 万开发者在 CUDA 上构建应用。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

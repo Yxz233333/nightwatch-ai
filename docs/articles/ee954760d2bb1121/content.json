@@ -1,0 +1,27 @@
+{
+  "id": "ee954760d2bb1121",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+  "url": "https://blogs.nvidia.com/blog/lambda-photonics/",
+  "date": "2026-11-17",
+  "source": "NVIDIA 官方博客",
+  "recommended": true,
+  "publishedAt": "2026-11-16T16:00:51+00:00",
+  "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+  "recommendedOn": "2026-11-17",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+  "titleZh": "Lambda 借助 NVIDIA Photonics 提升 AI 工厂韧性与效率",
+  "summary": "Lambda 在 AI 工厂中采用 NVIDIA Photonics 共封装光学（CPO）交换机，连接 NVIDIA GB300 NVL72 机架、涉及超过 1 万块 GPU。",
+  "details": {
+    "overview": "Lambda 在 AI 工厂中采用 NVIDIA Photonics 共封装光学（CPO）交换机，连接 NVIDIA GB300 NVL72 机架、涉及超过 1 万块 GPU。原文称，测试中机架级网络时延下降约 4%，pod 级最高约 10%，吞吐与传统可插拔光学方案持平；CPO 方案能效最高提升 5 倍、可靠性最高提升 15 倍，激光器用量减少 4 倍。交换机每台 144 端口、800Gb/s，采用液冷，光学器件中位温度 36°C，传统方案为 51°C，并配有 18 个可现场更换的外置光源。",
+    "keyPoints": [
+      "Lambda 用 NVIDIA Photonics CPO 交换机连接 GB300 NVL72 机架，规模超 1 万块 GPU。",
+      "原文称机架级时延降约 4%、pod 级最高约 10%，吞吐与传统方案持平。",
+      "每台交换机 144 端口、800Gb/s，配 18 个可现场更换外置光源。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

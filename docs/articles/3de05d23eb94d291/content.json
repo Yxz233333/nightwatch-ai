@@ -1,0 +1,27 @@
+{
+  "id": "3de05d23eb94d291",
+  "section": "news",
+  "category": "工具动态",
+  "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+  "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+  "date": "2026-11-17",
+  "source": "NVIDIA 官方博客",
+  "recommended": true,
+  "publishedAt": "2026-11-16T23:00:05+00:00",
+  "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+  "recommendedOn": "2026-11-17",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+  "titleZh": "NVIDIA DGX Spark 开发者套件把桌面变成超级计算实验室",
+  "summary": "NVIDIA 在 SC26 超算大会上推出面向研究人员、学术人员和开发者的 DGX Spark HPC 开发者套件。",
+  "details": {
+    "overview": "NVIDIA 在 SC26 超算大会上推出面向研究人员、学术人员和开发者的 DGX Spark HPC 开发者套件。该方案可从单节点扩展到四台DGX Spark环形直连集群，无需额外交换机，四节点时合计提供512GB内存和20TB NVMe存储，让团队在桌面运行多节点科学计算与 AI 模型，而不必排队等待共享 GPU 集群。原文还列举了材料模拟、分子动力学、量子化学电路模拟等使用案例，并称 HPC SDK 使用实践指南即将发布。",
+    "keyPoints": [
+      "四节点 DGX Spark 通过 ConnectX-7 环形直连，合计 512GB 内存与 20TB 存储。",
+      "原文称借助 NVFP4 可在四节点本地部署最多 700B 参数模型，如 DeepSeek V4.1。",
+      "套件已在 SC26 展示并开售，NVIDIA HPC SDK 使用实践指南即将发布。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ccd6d5f5d952c59b",
+  "section": "news",
+  "category": "工具动态",
+  "title": "TokenEconomizer：从历史会话中减少编程智能体的重复开销",
+  "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
+  "date": "2026-11-16",
+  "source": "Microsoft Research 官方博客",
+  "recommended": false,
+  "publicationTimeNote": "原文仅提供日期；未将RSS午夜时间视为已经核实的小时。",
+  "titleZh": "TokenEconomizer：从历史会话中减少编程智能体的重复开销",
+  "summary": "微软与合作研究者介绍TokenEconomizer开源插件，通过复用仓库经验、裁剪不常用工具及识别失败循环减少编程智能体成本，不修改底层模型。",
+  "details": {
+    "overview": "微软与合作研究者介绍TokenEconomizer开源插件，通过复用仓库经验、裁剪不常用工具及识别失败循环减少编程智能体成本，不修改底层模型。",
+    "keyPoints": [
+      "研究在六个仓库的277项SWE-Bench任务及五种智能体/模型组合中报告平均成本降低18.4%至30.9%，成功率总体稳定。",
+      "节省数字包含控制器自身调用成本；经验初期可能增加开销，不能保证每个任务都省钱。",
+      "开源插件在持续失败时提醒开发者，不自行终止工作；研究结果限于所测任务和配置。"
+    ]
+  },
+  "status": "已公布研究与开源插件；性能数字按原研究条件理解。",
+  "interest": []
+}

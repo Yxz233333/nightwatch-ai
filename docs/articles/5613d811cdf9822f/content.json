@@ -1,0 +1,27 @@
+{
+  "id": "5613d811cdf9822f",
+  "section": "news",
+  "category": "工具动态",
+  "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+  "url": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
+  "date": "2026-11-17",
+  "source": "NVIDIA 官方博客",
+  "recommended": true,
+  "publishedAt": "2026-11-16T20:00:37+00:00",
+  "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+  "recommendedOn": "2026-11-17",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+  "titleZh": "全球最先进AI基础设施供应链如何创造未来",
+  "summary": "这篇NVIDIA官方文章以运营负责人Deb Shoquist的访谈形式，介绍其AI平台背后的供应链与制造体系。",
+  "details": {
+    "overview": "这篇NVIDIA官方文章以运营负责人Deb Shoquist的访谈形式，介绍其AI平台背后的供应链与制造体系。她回顾与台积电、富士康、纬创、矽品、京元电子、欣兴、Lumentum、Coherent、Amkor等伙伴的长期合作，说明选择供应商看重技术能力、财务投入意愿与尝试新事物的意愿，并举例Amphenol线缆组件、CPO光学供应链及GB200测试环节的产能问题与跨团队处置。文章属于企业自述，未提供独立验证。",
+    "keyPoints": [
+      "Shoquist称挑选供应链伙伴需同时具备技术能力、相互信任与尝试新事物的意愿。",
+      "Amphenol越南工厂为复杂线缆组件建百余条自动化线，追求低于1 DPPM的质量水平。",
+      "GB200计算板自动化测试初期吞吐低于计划，团队一度改回人工上料并组织跨公司团队重设计。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

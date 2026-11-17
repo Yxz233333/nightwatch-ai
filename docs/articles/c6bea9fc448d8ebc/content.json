@@ -1,0 +1,28 @@
+{
+  "id": "c6bea9fc448d8ebc",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Science at the Frontier: How scientists use ChatGPT",
+  "url": "https://openai.com/index/science-at-the-frontier",
+  "date": "2026-11-16",
+  "source": "OpenAI 官方新闻",
+  "recommended": true,
+  "publishedAt": "2026-11-16T12:00:00+00:00",
+  "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+  "recommendedOn": "2026-11-17",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "Science at the Frontier: How scientists use ChatGPT",
+  "titleZh": "前沿科学：科学家如何使用ChatGPT",
+  "summary": "OpenAI经济研究团队基于“ChatGPT学术研究者夏季试点”，分析了1,819名科学家的逾58万条科研相关消息，并调查其中251人。",
+  "details": {
+    "overview": "OpenAI经济研究团队基于“ChatGPT学术研究者夏季试点”，分析了1,819名科学家的逾58万条科研相关消息，并调查其中251人。作者称，科学家将ChatGPT用于文献回顾、证据分析、代码编写和构思等环节；受访者估计同等质量工作若无AI耗时约为使用AI时的1.9倍，回答发现时间线问题的250人中，98%预期AI会加速本领域发现。研究还统计了构思消息中由科学家主导、共同完善和由ChatGPT提议的比例，以及科学家对回复进行追问核查的频率。OpenAI表示默认不用该项目数据训练模型，并以自动分类器归类消息、不读取原文。",
+    "keyPoints": [
+      "分析1,819名科学家的逾58万条消息，并调查251名参与者",
+      "受访者估计同等质量工作若无AI耗时约为使用AI时的1.9倍",
+      "回答发现时间线问题的250人中，98%预期AI将加速本领域科学发现",
+      "时间与发现预期是参与者自报及相关性观察，不是AI导致效率提升或发现加速的因果证明。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

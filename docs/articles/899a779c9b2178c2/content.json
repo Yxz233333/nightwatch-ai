@@ -1,0 +1,27 @@
+{
+  "id": "899a779c9b2178c2",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Our first phase of embedded assessments",
+  "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+  "date": "2026-11-16",
+  "source": "OpenAI 官方新闻",
+  "recommended": true,
+  "publishedAt": "2026-11-16T08:00:00+00:00",
+  "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+  "recommendedOn": "2026-11-17",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "Our first phase of embedded assessments",
+  "titleZh": "我们的第一阶段嵌入式评估",
+  "summary": "OpenAI 宣布与 Apollo Research、METR、Transluce 和 Goodfire 四家独立评估机构签署协议，启动首阶段“嵌入式评估”：让外部专家长期深入内部模型与系统，考察模型对齐与防护措施有效性。",
+  "details": {
+    "overview": "OpenAI 宣布与 Apollo Research、METR、Transluce 和 Goodfire 四家独立评估机构签署协议，启动首阶段“嵌入式评估”：让外部专家长期深入内部模型与系统，考察模型对齐与防护措施有效性。评估者可接触模型检查点、源代码、训练与评估数据、监控系统及研究人员。首轮聚焦训练与内部使用中的对齐和防护，并公布范围界定、现场安全、监督与争议处理、利益冲突与冷静期、发布与负责任披露等协议。",
+    "keyPoints": [
+      "与四家独立评估机构签约，启动首阶段嵌入式评估合作。",
+      "评估者可接触检查点、源代码、训练数据与监控系统等内部资源。",
+      "首轮聚焦训练与内部使用中的模型对齐及防护措施有效性。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

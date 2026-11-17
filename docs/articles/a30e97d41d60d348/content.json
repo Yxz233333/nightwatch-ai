@@ -1,0 +1,28 @@
+{
+  "id": "a30e97d41d60d348",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Advancing computer-use agents for healthcare teams",
+  "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+  "date": "2026-11-16",
+  "source": "OpenAI 官方新闻",
+  "recommended": true,
+  "publishedAt": "2026-11-16T06:00:00+00:00",
+  "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+  "recommendedOn": "2026-11-17",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "Advancing computer-use agents for healthcare teams",
+  "titleZh": "推进面向医疗团队的计算机使用智能体",
+  "summary": "OpenAI发布面向医疗团队的计算机使用智能体进展，这类智能体通过点击、输入和跨应用切换完成多步骤工作流。",
+  "details": {
+    "overview": "OpenAI发布面向医疗团队的计算机使用智能体进展，这类智能体通过点击、输入和跨应用切换完成多步骤工作流。文章以合成患者数据演示从患者消息到MRI预授权申请的流程，并公布在电子病历收件箱任务上的评估：325项受审任务中99%被评为安全，646次评估中93%被评为“非常有帮助”或“极其有帮助”。文章还介绍与CVS Health、Abridge、Cigna Healthcare、Ambience等机构的合作，以及HIPAA合规、审批和审计日志等控制措施。",
+    "keyPoints": [
+      "稿件称在325项受审临床收件箱任务中，99%被评为安全。",
+      "646次医生评估中93%认为“非常有帮助”或“极其有帮助”。",
+      "与CVS Health、Cigna等合作，强调审批、审计日志与HIPAA合规配置。",
+      "99%安全评分并非临床无风险保证；使用受保护健康信息需合资格且BAA覆盖的服务、保留设置和连接系统保护。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

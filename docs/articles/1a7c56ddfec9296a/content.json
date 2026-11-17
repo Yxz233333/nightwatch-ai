@@ -1,0 +1,26 @@
+{
+  "id": "1a7c56ddfec9296a",
+  "section": "chatgpt",
+  "category": "功能预告",
+  "title": "学术研究者免费 ChatGPT 计划下一轮申请将于11月23日开放",
+  "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+  "date": "2026-11-17",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "publishedAt": "2026-11-16T17:00:00+00:00",
+  "status": "官方已公布扩展计划；新一轮申请于2026年11月23日开放，不表示当前所有研究者已获资格。",
+  "titleEn": "Broadening access to AI for scientists",
+  "titleZh": "学术研究者免费 ChatGPT 计划下一轮申请将于11月23日开放",
+  "summary": "OpenAI宣布将“ChatGPT for Academic Researchers”项目扩展至全球最多20万名研究人员，提供免费访问。",
+  "details": {
+    "overview": "OpenAI宣布将“ChatGPT for Academic Researchers”项目扩展至全球最多20万名研究人员，提供免费访问。该项目7月以试点形式启动，已有33个国家的2万名研究人员加入。下一轮申请于11月23日开放，按先到先得发放5万份新资助，每份覆盖受助者及最多两名合作者，使用ChatGPT Plus。OpenAI称默认不使用项目共享数据训练模型，并发布经济研究团队对1800余名试点参与者使用情况的调查。",
+    "keyPoints": [
+      "项目目标扩展至20万名研究人员，本轮新增5万份资助，先到先得。",
+      "每份资助覆盖受助者及最多两名合作者，提供ChatGPT Plus访问。",
+      "OpenAI称默认不使用项目共享数据训练模型，并发布试点使用调查。",
+      "夏季试点提供Pro，新一轮资助提供Plus；已在候补名单且符合资格者将先收到激活说明。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2b7db067586f2fc8",
+  "section": "news",
+  "category": "工具动态",
+  "title": "NVIDIA 公布 Vera Rubin 的早期 MLPerf 训练与智能体推理结果",
+  "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+  "date": "2026-11-17",
+  "source": "NVIDIA 官方博客",
+  "recommended": true,
+  "publishedAt": "2026-11-16T16:00:25+00:00",
+  "status": "厂商公布早期测试；Endpoints临时结果尚待验证，具体配置与评估状态见原文。",
+  "recommendedOn": "2026-11-17",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+  "titleZh": "NVIDIA 公布 Vera Rubin 的早期 MLPerf 训练与智能体推理结果",
+  "summary": "NVIDIA公布Vera Rubin平台的早期MLPerf训练及推理结果。",
+  "details": {
+    "overview": "NVIDIA公布Vera Rubin平台的早期MLPerf训练及推理结果。厂商称每GPU性能在部分对比中最高为GB300的两倍；Endpoints中的Kimi K3结果为临时结果，仍待MLCommons核验，不能视为最终排名。",
+    "keyPoints": [
+      "全部Training基准均有提交结果的主体是NVIDIA，不是每一项都由同一个Vera Rubin系统提交。",
+      "DeepSeek-V3测试从256扩至1024 GPU时报告约97%扩展效率，结果限于对应配置。",
+      "Kimi K3每瓦吞吐超过GB300十倍的比较要求相同响应速度，且为尚待验证、可能变化的临时结果。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

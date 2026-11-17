@@ -1,0 +1,27 @@
+{
+  "id": "78fb9523208e2174",
+  "section": "news",
+  "category": "工具动态",
+  "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+  "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
+  "date": "2026-11-17",
+  "source": "NVIDIA 官方博客",
+  "recommended": true,
+  "publishedAt": "2026-11-16T16:00:01+00:00",
+  "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+  "recommendedOn": "2026-11-17",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+  "titleZh": "NVIDIA 发布 Rubin HPC——加速科学、工程与分析智能体的新 GPU",
+  "summary": "NVIDIA 在 SC26 上宣布推出 Vera Rubin 平台中的新 GPU Rubin HPC，面向科学、工程与分析工作负载的仿真和数据处理。",
+  "details": {
+    "overview": "NVIDIA 在 SC26 上宣布推出 Vera Rubin 平台中的新 GPU Rubin HPC，面向科学、工程与分析工作负载的仿真和数据处理。原文称其单 GPU 拥有超过 5 万个 CUDA 核心，并配备稀疏数据加速能力与第七代 NVLink 互连，强调计算与数据搬运均衡设计，以加速稀疏矩阵、模板计算、排序归约等常见模式，配合 CUDA-X 库缩短智能体“假设—仿真—修正”循环。该产品预计 2028 年可用。",
+    "keyPoints": [
+      "单 GPU CUDA 核心数超过 5 万个，原文称其为创纪录水平。",
+      "采用稀疏数据加速与第七代 NVLink，强调计算与数据搬运均衡。",
+      "面向科学工程仿真与数据分析，配合 CUDA-X 库服务智能体工作流。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

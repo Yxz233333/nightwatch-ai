@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-15T23:59:35.706Z",
+  "syncedAt": "2026-11-17T00:03:41.276Z",
   "articles": [
     {
       "id": "e985bef486a031bf",
@@ -45504,6 +45504,483 @@
       "breakthroughField": "数学物理与格点场论",
       "recommendedOn": "2026-11-16",
       "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "563ba3adcb6c7151",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "date": "2026-11-17",
+      "source": "OpenAI 官方新闻",
+      "recommended": true,
+      "publishedAt": "2026-11-16T17:00:00+00:00",
+      "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+      "recommendedOn": "2026-11-17",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "titleZh": "OpenAI推出新工具与支持，加强打击网络儿童性虐待",
+      "summary": "OpenAI发布一款可检测潜在儿童性虐待材料（CSAM）的图像分类器，并称其能识别AI生成内容，通过API免费向经审核组织开放。",
+      "details": {
+        "overview": "OpenAI发布一款可检测潜在儿童性虐待材料（CSAM）的图像分类器，并称其能识别AI生成内容，通过API免费向经审核组织开放。公司还介绍ChatGPT中新增警告与24小时暂停机制、面向开发者的实践指南，以及为儿童安全执法调查人员提供的工具与培训。稿件称早期测试中该分类器可减少约48%的被标记图像，同时发现大致相同数量的虐待图像。",
+        "keyPoints": [
+          "新图像分类器可检测潜在CSAM，并称是首个广泛可用、能提示AI生成CSAM的分类器。",
+          "ChatGPT新增警告，会移除被标记对话并暂停访问24小时，屡次违规或致封号。",
+          "发布开发者实践指南，并计划为儿童安全执法调查人员开展工具概览与演示培训。",
+          "分类器仅供获准组织使用；相关执法培训为计划安排，不能把全部支持措施视为已完成。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "c6bea9fc448d8ebc",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "date": "2026-11-16",
+      "source": "OpenAI 官方新闻",
+      "recommended": true,
+      "publishedAt": "2026-11-16T12:00:00+00:00",
+      "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+      "recommendedOn": "2026-11-17",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "Science at the Frontier: How scientists use ChatGPT",
+      "titleZh": "前沿科学：科学家如何使用ChatGPT",
+      "summary": "OpenAI经济研究团队基于“ChatGPT学术研究者夏季试点”，分析了1,819名科学家的逾58万条科研相关消息，并调查其中251人。",
+      "details": {
+        "overview": "OpenAI经济研究团队基于“ChatGPT学术研究者夏季试点”，分析了1,819名科学家的逾58万条科研相关消息，并调查其中251人。作者称，科学家将ChatGPT用于文献回顾、证据分析、代码编写和构思等环节；受访者估计同等质量工作若无AI耗时约为使用AI时的1.9倍，回答发现时间线问题的250人中，98%预期AI会加速本领域发现。研究还统计了构思消息中由科学家主导、共同完善和由ChatGPT提议的比例，以及科学家对回复进行追问核查的频率。OpenAI表示默认不用该项目数据训练模型，并以自动分类器归类消息、不读取原文。",
+        "keyPoints": [
+          "分析1,819名科学家的逾58万条消息，并调查251名参与者",
+          "受访者估计同等质量工作若无AI耗时约为使用AI时的1.9倍",
+          "回答发现时间线问题的250人中，98%预期AI将加速本领域科学发现",
+          "时间与发现预期是参与者自报及相关性观察，不是AI导致效率提升或发现加速的因果证明。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "3adebf52e00ceacd",
+      "section": "news",
+      "category": "工具动态",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "date": "2026-11-16",
+      "source": "OpenAI 官方新闻",
+      "recommended": true,
+      "publishedAt": "2026-11-16T09:00:00+00:00",
+      "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+      "recommendedOn": "2026-11-17",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "titleZh": "LVMH媒体部门宣布与OpenAI建立战略合作伙伴关系",
+      "summary": "LVMH集团媒体部门与OpenAI于2026年11月16日在巴黎宣布签署战略协议，将在该部门旗下全部出版物中支持人工智能的新用途，并通过ChatGPT让相关新闻更易获取。",
+      "details": {
+        "overview": "LVMH集团媒体部门与OpenAI于2026年11月16日在巴黎宣布签署战略协议，将在该部门旗下全部出版物中支持人工智能的新用途，并通过ChatGPT让相关新闻更易获取。协议包括向媒体部门各团队部署OpenAI工具与ChatGPT Enterprise，用于开发贴合日常工作的AI应用。双方称目标是让记者把更多时间投入调查、分析与写作，并借助个性化服务读者与广告客户；同时该部门内容将以摘要、摘录加原文链接的形式出现在ChatGPT中。",
+        "keyPoints": [
+          "协议覆盖LVMH媒体部门全部出版物，并向各团队部署OpenAI工具与ChatGPT Enterprise。",
+          "双方称AI可承担文档检索、文档比较与初步翻译，让记者更专注于调查、分析与写作。",
+          "该部门内容将以摘要和摘录形式出现在ChatGPT回答中，标注来源并附原文链接。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "899a779c9b2178c2",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Our first phase of embedded assessments",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "date": "2026-11-16",
+      "source": "OpenAI 官方新闻",
+      "recommended": true,
+      "publishedAt": "2026-11-16T08:00:00+00:00",
+      "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+      "recommendedOn": "2026-11-17",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "Our first phase of embedded assessments",
+      "titleZh": "我们的第一阶段嵌入式评估",
+      "summary": "OpenAI 宣布与 Apollo Research、METR、Transluce 和 Goodfire 四家独立评估机构签署协议，启动首阶段“嵌入式评估”：让外部专家长期深入内部模型与系统，考察模型对齐与防护措施有效性。",
+      "details": {
+        "overview": "OpenAI 宣布与 Apollo Research、METR、Transluce 和 Goodfire 四家独立评估机构签署协议，启动首阶段“嵌入式评估”：让外部专家长期深入内部模型与系统，考察模型对齐与防护措施有效性。评估者可接触模型检查点、源代码、训练与评估数据、监控系统及研究人员。首轮聚焦训练与内部使用中的对齐和防护，并公布范围界定、现场安全、监督与争议处理、利益冲突与冷静期、发布与负责任披露等协议。",
+        "keyPoints": [
+          "与四家独立评估机构签约，启动首阶段嵌入式评估合作。",
+          "评估者可接触检查点、源代码、训练数据与监控系统等内部资源。",
+          "首轮聚焦训练与内部使用中的模型对齐及防护措施有效性。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "a30e97d41d60d348",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "date": "2026-11-16",
+      "source": "OpenAI 官方新闻",
+      "recommended": true,
+      "publishedAt": "2026-11-16T06:00:00+00:00",
+      "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+      "recommendedOn": "2026-11-17",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "Advancing computer-use agents for healthcare teams",
+      "titleZh": "推进面向医疗团队的计算机使用智能体",
+      "summary": "OpenAI发布面向医疗团队的计算机使用智能体进展，这类智能体通过点击、输入和跨应用切换完成多步骤工作流。",
+      "details": {
+        "overview": "OpenAI发布面向医疗团队的计算机使用智能体进展，这类智能体通过点击、输入和跨应用切换完成多步骤工作流。文章以合成患者数据演示从患者消息到MRI预授权申请的流程，并公布在电子病历收件箱任务上的评估：325项受审任务中99%被评为安全，646次评估中93%被评为“非常有帮助”或“极其有帮助”。文章还介绍与CVS Health、Abridge、Cigna Healthcare、Ambience等机构的合作，以及HIPAA合规、审批和审计日志等控制措施。",
+        "keyPoints": [
+          "稿件称在325项受审临床收件箱任务中，99%被评为安全。",
+          "646次医生评估中93%认为“非常有帮助”或“极其有帮助”。",
+          "与CVS Health、Cigna等合作，强调审批、审计日志与HIPAA合规配置。",
+          "99%安全评分并非临床无风险保证；使用受保护健康信息需合资格且BAA覆盖的服务、保留设置和连接系统保护。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "f41227068539ce66",
+      "section": "news",
+      "category": "工具动态",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "date": "2026-11-16",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "publicationTimeNote": "原文仅提供日期；未将RSS午夜时间视为已经核实的小时。",
+      "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+      "titleEn": "The King’s Trust and OpenAI launch £1m partnership",
+      "titleZh": "国王信托与OpenAI启动100万英镑合作",
+      "summary": "据OpenAI发布内容，国王信托与OpenAI宣布一项100万英镑合作，计划在未来18个月支持最多2.5万名英国年轻人培养AI工作技能，优先面向未受教育、就业或培训（NEET）的群体。",
+      "details": {
+        "overview": "据OpenAI发布内容，国王信托与OpenAI宣布一项100万英镑合作，计划在未来18个月支持最多2.5万名英国年轻人培养AI工作技能，优先面向未受教育、就业或培训（NEET）的群体。OpenAI将捐出100万英镑，项目结合AI技能学习、全国认可的资格证书与实践体验，并属于国王信托正在开发的更广泛AI资格项目。发布还引用相关调查称，受访的16至24岁NEET年轻人中68%愿意培训或提升技能。",
+        "keyPoints": [
+          "OpenAI向国王信托捐赠100万英镑，合作计划在18个月内覆盖最多2.5万名年轻人。",
+          "项目优先面向未受教育、就业或培训的年轻人，结合AI技能、认可资格与实践体验。",
+          "该合作属于国王信托更广泛的全国认可AI资格项目，并引用调查称68%受访NEET青年愿提升技能。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "ac8e56328e865724",
+      "section": "news",
+      "category": "工具动态",
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "date": "2026-11-16",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "publicationTimeNote": "原文仅提供日期；未将RSS午夜时间视为已经核实的小时。",
+      "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+      "titleEn": "At Holiday Extras, dots get to work before anyone asks",
+      "titleZh": "在Holiday Extras，dots 在无人要求前就主动开工",
+      "summary": "这是OpenAI发布的一则企业客户故事，介绍英国旅行科技公司Holiday Extras如何让员工使用ChatGPT中的dots作为个人助理。",
+      "details": {
+        "overview": "这是OpenAI发布的一则企业客户故事，介绍英国旅行科技公司Holiday Extras如何让员工使用ChatGPT中的dots作为个人助理。文中称，公司AI创新副总裁Liam Thompson的dot“Beast”在新功能上线次日主动拉取BigQuery数据并提交表现报告；创新与增长总监David Lee的dot“Brian”在通勤途中与其语音讨论日程并提前生成报告、标记API密钥退役可能影响的人员。稿件还称Beast借助After Effects和Rive完成3D角色动画，把原本数天的工作缩短到约十分钟。这些均为企业方与OpenAI的单方描述，未提供独立验证。",
+        "keyPoints": [
+          "Beast在新功能上线后未经要求，经ChatGPT插件从BigQuery取数并生成表现报告。",
+          "Brian在通勤语音通话中梳理当日会议，并提前准备好使用公司数据的报告。",
+          "Liam称Beast完成3D角色动画约用十分钟，而自己原本需数天。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "b9a43bf3b3e3b094",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "url": "https://huggingface.co/blog/openrouter",
+      "date": "2026-11-16",
+      "source": "Hugging Face 官方及社区博客",
+      "recommended": false,
+      "publicationTimeNote": "原文仅提供日期；未将RSS午夜时间视为已经核实的小时。",
+      "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+      "titleEn": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "titleZh": "Hugging Face 与 OpenRouter 联手，让开放权重模型更易运行",
+      "summary": "Hugging Face 宣布与 OpenRouter 合作，将 Inference Providers 的请求路由从自研路由器切换为 OpenRouter 的路由器。",
+      "details": {
+        "overview": "Hugging Face 宣布与 OpenRouter 合作，将 Inference Providers 的请求路由从自研路由器切换为 OpenRouter 的路由器。作者称，Hub 上由服务商提供的开放权重模型，现在可用 Hugging Face 令牌通过同一 API 调用，路由器会依据实时价格、速度和可靠性为每次请求选择服务商，失败时自动重试其他服务商。文章还给出 OpenRouter 统计的开放权重模型用量与价格对比，并说明图像、视频、音频生成仍走原有通道，自定义服务商密钥对语言模型不再可用。",
+        "keyPoints": [
+          "语言模型请求改由 OpenRouter 路由，按实时价格、速度、可靠性选服务商并在失败时重试。",
+          "支持 OpenAI Chat Completions、Responses 与 Anthropic Messages API，代码无需改动。",
+          "可在模型 id 后加 :fastest、:cheapest 或服务商名指定策略，也可在设置中禁用服务商。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "3de05d23eb94d291",
+      "section": "news",
+      "category": "工具动态",
+      "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+      "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+      "date": "2026-11-17",
+      "source": "NVIDIA 官方博客",
+      "recommended": true,
+      "publishedAt": "2026-11-16T23:00:05+00:00",
+      "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+      "recommendedOn": "2026-11-17",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+      "titleZh": "NVIDIA DGX Spark 开发者套件把桌面变成超级计算实验室",
+      "summary": "NVIDIA 在 SC26 超算大会上推出面向研究人员、学术人员和开发者的 DGX Spark HPC 开发者套件。",
+      "details": {
+        "overview": "NVIDIA 在 SC26 超算大会上推出面向研究人员、学术人员和开发者的 DGX Spark HPC 开发者套件。该方案可从单节点扩展到四台DGX Spark环形直连集群，无需额外交换机，四节点时合计提供512GB内存和20TB NVMe存储，让团队在桌面运行多节点科学计算与 AI 模型，而不必排队等待共享 GPU 集群。原文还列举了材料模拟、分子动力学、量子化学电路模拟等使用案例，并称 HPC SDK 使用实践指南即将发布。",
+        "keyPoints": [
+          "四节点 DGX Spark 通过 ConnectX-7 环形直连，合计 512GB 内存与 20TB 存储。",
+          "原文称借助 NVFP4 可在四节点本地部署最多 700B 参数模型，如 DeepSeek V4.1。",
+          "套件已在 SC26 展示并开售，NVIDIA HPC SDK 使用实践指南即将发布。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "5613d811cdf9822f",
+      "section": "news",
+      "category": "工具动态",
+      "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+      "url": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
+      "date": "2026-11-17",
+      "source": "NVIDIA 官方博客",
+      "recommended": true,
+      "publishedAt": "2026-11-16T20:00:37+00:00",
+      "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+      "recommendedOn": "2026-11-17",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+      "titleZh": "全球最先进AI基础设施供应链如何创造未来",
+      "summary": "这篇NVIDIA官方文章以运营负责人Deb Shoquist的访谈形式，介绍其AI平台背后的供应链与制造体系。",
+      "details": {
+        "overview": "这篇NVIDIA官方文章以运营负责人Deb Shoquist的访谈形式，介绍其AI平台背后的供应链与制造体系。她回顾与台积电、富士康、纬创、矽品、京元电子、欣兴、Lumentum、Coherent、Amkor等伙伴的长期合作，说明选择供应商看重技术能力、财务投入意愿与尝试新事物的意愿，并举例Amphenol线缆组件、CPO光学供应链及GB200测试环节的产能问题与跨团队处置。文章属于企业自述，未提供独立验证。",
+        "keyPoints": [
+          "Shoquist称挑选供应链伙伴需同时具备技术能力、相互信任与尝试新事物的意愿。",
+          "Amphenol越南工厂为复杂线缆组件建百余条自动化线，追求低于1 DPPM的质量水平。",
+          "GB200计算板自动化测试初期吞吐低于计划，团队一度改回人工上料并组织跨公司团队重设计。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "ee954760d2bb1121",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+      "url": "https://blogs.nvidia.com/blog/lambda-photonics/",
+      "date": "2026-11-17",
+      "source": "NVIDIA 官方博客",
+      "recommended": true,
+      "publishedAt": "2026-11-16T16:00:51+00:00",
+      "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+      "recommendedOn": "2026-11-17",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+      "titleZh": "Lambda 借助 NVIDIA Photonics 提升 AI 工厂韧性与效率",
+      "summary": "Lambda 在 AI 工厂中采用 NVIDIA Photonics 共封装光学（CPO）交换机，连接 NVIDIA GB300 NVL72 机架、涉及超过 1 万块 GPU。",
+      "details": {
+        "overview": "Lambda 在 AI 工厂中采用 NVIDIA Photonics 共封装光学（CPO）交换机，连接 NVIDIA GB300 NVL72 机架、涉及超过 1 万块 GPU。原文称，测试中机架级网络时延下降约 4%，pod 级最高约 10%，吞吐与传统可插拔光学方案持平；CPO 方案能效最高提升 5 倍、可靠性最高提升 15 倍，激光器用量减少 4 倍。交换机每台 144 端口、800Gb/s，采用液冷，光学器件中位温度 36°C，传统方案为 51°C，并配有 18 个可现场更换的外置光源。",
+        "keyPoints": [
+          "Lambda 用 NVIDIA Photonics CPO 交换机连接 GB300 NVL72 机架，规模超 1 万块 GPU。",
+          "原文称机架级时延降约 4%、pod 级最高约 10%，吞吐与传统方案持平。",
+          "每台交换机 144 端口、800Gb/s，配 18 个可现场更换外置光源。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "63813da950e5f8e9",
+      "section": "news",
+      "category": "工具动态",
+      "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
+      "url": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
+      "date": "2026-11-17",
+      "source": "NVIDIA 官方博客",
+      "recommended": true,
+      "publishedAt": "2026-11-16T16:00:47+00:00",
+      "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+      "recommendedOn": "2026-11-17",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
+      "titleZh": "NVIDIA扩展Slurm，将量子计算引入超级计算",
+      "summary": "NVIDIA宣布扩展社区版Slurm工作负载管理器对量子处理器的支持，使超算中心可在既有调度流程中接入QPU。",
+      "details": {
+        "overview": "NVIDIA宣布扩展社区版Slurm工作负载管理器对量子处理器的支持，使超算中心可在既有调度流程中接入QPU。原文称过去五年超算中心的量子处理器部署增至原来的近七倍，全球近30个中心正部署逾50台量子处理器。新版本允许QPU厂商通过一个简单文件为所有超算中心提供统一接口，并支持QRMI与QDMI接口；Alice & Bob、IBM、IQM、Pasqal、Quantinuum和MQSC已采用。Slurm 26.11将于本月晚些时候提供。",
+        "keyPoints": [
+          "Slurm扩展让QPU厂商以单一接口文件对接各超算中心，减少重复集成工作。",
+          "超算中心可在现有Slurm调度与资源管理流程中加入新量子处理器，无需定制方案。",
+          "新版本支持QRMI和QDMI接口，已有六家量子硬件与软件机构采用。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "2b7db067586f2fc8",
+      "section": "news",
+      "category": "工具动态",
+      "title": "NVIDIA 公布 Vera Rubin 的早期 MLPerf 训练与智能体推理结果",
+      "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+      "date": "2026-11-17",
+      "source": "NVIDIA 官方博客",
+      "recommended": true,
+      "publishedAt": "2026-11-16T16:00:25+00:00",
+      "status": "厂商公布早期测试；Endpoints临时结果尚待验证，具体配置与评估状态见原文。",
+      "recommendedOn": "2026-11-17",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+      "titleZh": "NVIDIA 公布 Vera Rubin 的早期 MLPerf 训练与智能体推理结果",
+      "summary": "NVIDIA公布Vera Rubin平台的早期MLPerf训练及推理结果。",
+      "details": {
+        "overview": "NVIDIA公布Vera Rubin平台的早期MLPerf训练及推理结果。厂商称每GPU性能在部分对比中最高为GB300的两倍；Endpoints中的Kimi K3结果为临时结果，仍待MLCommons核验，不能视为最终排名。",
+        "keyPoints": [
+          "全部Training基准均有提交结果的主体是NVIDIA，不是每一项都由同一个Vera Rubin系统提交。",
+          "DeepSeek-V3测试从256扩至1024 GPU时报告约97%扩展效率，结果限于对应配置。",
+          "Kimi K3每瓦吞吐超过GB300十倍的比较要求相同响应速度，且为尚待验证、可能变化的临时结果。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "327f9a9154474703",
+      "section": "news",
+      "category": "工具动态",
+      "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+      "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
+      "date": "2026-11-17",
+      "source": "NVIDIA 官方博客",
+      "recommended": true,
+      "publishedAt": "2026-11-16T16:00:16+00:00",
+      "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+      "recommendedOn": "2026-11-17",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+      "titleZh": "NVIDIA CUDA-X 库为智能体提供加速科学发现的工具",
+      "summary": "NVIDIA 宣布扩展 CUDA-X 库，新增 cuPhoton、cuPotential、cuSpa 等，面向天体物理、材料科学、单细胞生物学等研究场景。",
+      "details": {
+        "overview": "NVIDIA 宣布扩展 CUDA-X 库，新增 cuPhoton、cuPotential、cuSpa 等，面向天体物理、材料科学、单细胞生物学等研究场景。原文称，cuPhoton.xBeam 将事件视界望远镜数据处理从超过一个月缩短到八分钟；cuPotential 把分子模拟软件加速至多 3 倍；文中Memorial Sloan Kettering Cancer Center的特定空间图计算案例使用cuSpa，相比CPU报告900倍加速。这些库同时为 AI 智能体提供工具，帮助研究人员更快分析数据、建模复杂系统。",
+        "keyPoints": [
+          "cuPhoton.xBeam 将事件视界望远镜数据处理从超过一个月缩短至八分钟。",
+          "cuPotential 加速分子模拟软件至多 3 倍，并称改善计算稳定性与精度。",
+          "cuSpa开源；文中900倍加速来自特定癌症研究中心的空间图计算案例，不代表所有工作负载。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "fedf3d0a590d0bdc",
+      "section": "news",
+      "category": "工具动态",
+      "title": "CUDA at 20: How the Platform Transformed Scientific Computing",
+      "url": "https://blogs.nvidia.com/blog/20-years-cuda/",
+      "date": "2026-11-17",
+      "source": "NVIDIA 官方博客",
+      "recommended": true,
+      "publishedAt": "2026-11-16T16:00:11+00:00",
+      "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+      "recommendedOn": "2026-11-17",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "CUDA at 20: How the Platform Transformed Scientific Computing",
+      "titleZh": "CUDA 二十周年：这一平台如何改变科学计算",
+      "summary": "NVIDIA 在 SC26 大会上纪念 CUDA 发布二十周年。",
+      "details": {
+        "overview": "NVIDIA 在 SC26 大会上纪念 CUDA 发布二十周年。文章回顾 CUDA 于 2006 年 11 月在 SC06 面向科学界推出，为开发者提供使用 GPU 的高层编程模型，将加速计算从图形拓展到科学与仿真等领域。文中列举分子动力学工具、AlexNet 训练、AlphaFold 2 等使用 CUDA 的案例，并称目前有超过 1100 万开发者在 CUDA 上构建应用。",
+        "keyPoints": [
+          "CUDA 于 2006 年 11 月在 SC06 向科学界发布，提供使用 GPU 的高层编程模型。",
+          "文章称开发者用 CUDA 推进 AI 研究、超算科学应用与电影视觉效果。",
+          "NVIDIA 称目前有超过 1100 万开发者在 CUDA 上构建应用。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "78fb9523208e2174",
+      "section": "news",
+      "category": "工具动态",
+      "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+      "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
+      "date": "2026-11-17",
+      "source": "NVIDIA 官方博客",
+      "recommended": true,
+      "publishedAt": "2026-11-16T16:00:01+00:00",
+      "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+      "recommendedOn": "2026-11-17",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+      "titleZh": "NVIDIA 发布 Rubin HPC——加速科学、工程与分析智能体的新 GPU",
+      "summary": "NVIDIA 在 SC26 上宣布推出 Vera Rubin 平台中的新 GPU Rubin HPC，面向科学、工程与分析工作负载的仿真和数据处理。",
+      "details": {
+        "overview": "NVIDIA 在 SC26 上宣布推出 Vera Rubin 平台中的新 GPU Rubin HPC，面向科学、工程与分析工作负载的仿真和数据处理。原文称其单 GPU 拥有超过 5 万个 CUDA 核心，并配备稀疏数据加速能力与第七代 NVLink 互连，强调计算与数据搬运均衡设计，以加速稀疏矩阵、模板计算、排序归约等常见模式，配合 CUDA-X 库缩短智能体“假设—仿真—修正”循环。该产品预计 2028 年可用。",
+        "keyPoints": [
+          "单 GPU CUDA 核心数超过 5 万个，原文称其为创纪录水平。",
+          "采用稀疏数据加速与第七代 NVLink，强调计算与数据搬运均衡。",
+          "面向科学工程仿真与数据分析，配合 CUDA-X 库服务智能体工作流。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "725afecbe2996b6c",
+      "section": "news",
+      "category": "工具动态",
+      "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+      "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+      "date": "2026-11-16",
+      "source": "NVIDIA 官方博客",
+      "recommended": false,
+      "publishedAt": "2026-11-16T00:00:28+00:00",
+      "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+      "titleEn": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+      "titleZh": "AI Day Seoul 汇聚韩国产业领袖、初创企业与开发者社区",
+      "summary": "英伟达发布消息称，AI Day Seoul 在 COEX 举办两天，超过2000名参会者到场，聚焦物理AI与AI智能体。",
+      "details": {
+        "overview": "英伟达发布消息称，AI Day Seoul 在 COEX 举办两天，超过2000名参会者到场，聚焦物理AI与AI智能体。英伟达机器人及边缘AI副总裁 Deepu Talla 表示韩国“表现超出其体量”，斗山机器人、现代汽车集团、LG电子、SK集团及 Real World、Luda Robotics 等初创公司使用英伟达平台推进通用机器人落地。应用研究副总裁 Jonathan Cohen 展示企业如何构建自有可控的智能体。活动还包括开发者社区日、韩文 hackathon 决赛、深度学习学院工作坊与认证考试，以及物理AI初创路演和AI for Science论坛。",
+        "keyPoints": [
+          "两天活动吸引超2000名参会者，主题为物理AI与AI智能体。",
+          "斗山机器人、现代汽车、LG电子、SK集团等使用英伟达平台推进机器人落地。",
+          "Jonathan Cohen 展示企业构建自有可控智能体的方法。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "ccd6d5f5d952c59b",
+      "section": "news",
+      "category": "工具动态",
+      "title": "TokenEconomizer：从历史会话中减少编程智能体的重复开销",
+      "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
+      "date": "2026-11-16",
+      "source": "Microsoft Research 官方博客",
+      "recommended": false,
+      "publicationTimeNote": "原文仅提供日期；未将RSS午夜时间视为已经核实的小时。",
+      "titleZh": "TokenEconomizer：从历史会话中减少编程智能体的重复开销",
+      "summary": "微软与合作研究者介绍TokenEconomizer开源插件，通过复用仓库经验、裁剪不常用工具及识别失败循环减少编程智能体成本，不修改底层模型。",
+      "details": {
+        "overview": "微软与合作研究者介绍TokenEconomizer开源插件，通过复用仓库经验、裁剪不常用工具及识别失败循环减少编程智能体成本，不修改底层模型。",
+        "keyPoints": [
+          "研究在六个仓库的277项SWE-Bench任务及五种智能体/模型组合中报告平均成本降低18.4%至30.9%，成功率总体稳定。",
+          "节省数字包含控制器自身调用成本；经验初期可能增加开销，不能保证每个任务都省钱。",
+          "开源插件在持续失败时提醒开发者，不自行终止工作；研究结果限于所测任务和配置。"
+        ]
+      },
+      "status": "已公布研究与开源插件；性能数字按原研究条件理解。",
       "interest": []
     }
   ]

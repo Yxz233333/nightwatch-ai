@@ -1,0 +1,25 @@
+{
+  "id": "725afecbe2996b6c",
+  "section": "news",
+  "category": "工具动态",
+  "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+  "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+  "date": "2026-11-16",
+  "source": "NVIDIA 官方博客",
+  "recommended": false,
+  "publishedAt": "2026-11-16T00:00:28+00:00",
+  "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+  "titleEn": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+  "titleZh": "AI Day Seoul 汇聚韩国产业领袖、初创企业与开发者社区",
+  "summary": "英伟达发布消息称，AI Day Seoul 在 COEX 举办两天，超过2000名参会者到场，聚焦物理AI与AI智能体。",
+  "details": {
+    "overview": "英伟达发布消息称，AI Day Seoul 在 COEX 举办两天，超过2000名参会者到场，聚焦物理AI与AI智能体。英伟达机器人及边缘AI副总裁 Deepu Talla 表示韩国“表现超出其体量”，斗山机器人、现代汽车集团、LG电子、SK集团及 Real World、Luda Robotics 等初创公司使用英伟达平台推进通用机器人落地。应用研究副总裁 Jonathan Cohen 展示企业如何构建自有可控的智能体。活动还包括开发者社区日、韩文 hackathon 决赛、深度学习学院工作坊与认证考试，以及物理AI初创路演和AI for Science论坛。",
+    "keyPoints": [
+      "两天活动吸引超2000名参会者，主题为物理AI与AI智能体。",
+      "斗山机器人、现代汽车、LG电子、SK集团等使用英伟达平台推进机器人落地。",
+      "Jonathan Cohen 展示企业构建自有可控智能体的方法。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

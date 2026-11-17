@@ -1,0 +1,27 @@
+{
+  "id": "63813da950e5f8e9",
+  "section": "news",
+  "category": "工具动态",
+  "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
+  "url": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
+  "date": "2026-11-17",
+  "source": "NVIDIA 官方博客",
+  "recommended": true,
+  "publishedAt": "2026-11-16T16:00:47+00:00",
+  "status": "依据原始发布整理，具体资格、推出阶段与评估条件见详情。",
+  "recommendedOn": "2026-11-17",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
+  "titleZh": "NVIDIA扩展Slurm，将量子计算引入超级计算",
+  "summary": "NVIDIA宣布扩展社区版Slurm工作负载管理器对量子处理器的支持，使超算中心可在既有调度流程中接入QPU。",
+  "details": {
+    "overview": "NVIDIA宣布扩展社区版Slurm工作负载管理器对量子处理器的支持，使超算中心可在既有调度流程中接入QPU。原文称过去五年超算中心的量子处理器部署增至原来的近七倍，全球近30个中心正部署逾50台量子处理器。新版本允许QPU厂商通过一个简单文件为所有超算中心提供统一接口，并支持QRMI与QDMI接口；Alice & Bob、IBM、IQM、Pasqal、Quantinuum和MQSC已采用。Slurm 26.11将于本月晚些时候提供。",
+    "keyPoints": [
+      "Slurm扩展让QPU厂商以单一接口文件对接各超算中心，减少重复集成工作。",
+      "超算中心可在现有Slurm调度与资源管理流程中加入新量子处理器，无需定制方案。",
+      "新版本支持QRMI和QDMI接口，已有六家量子硬件与软件机构采用。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}
