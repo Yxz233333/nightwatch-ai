@@ -1,0 +1,23 @@
+{
+  "id": "cdb2e196095d4bad",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.169.1 正式版发布",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.1",
+  "date": "2026-11-18",
+  "source": "Codex GitHub Releases",
+  "recommended": false,
+  "titleZh": "Codex CLI 0.169.1 正式版发布",
+  "summary": "Codex CLI 0.169.1 正式版已发布。",
+  "details": {
+    "overview": "Codex CLI 0.169.1 正式版已发布。发布正文明确表示没有可核实的版本亮点，只提供完整比较链接。",
+    "keyPoints": [
+      "这是已发布版本，归入功能更新，不当作未来预告。",
+      "缺少官方详细说明，不猜测新功能或修复；保留原始发布页及发布时间。"
+    ]
+  },
+  "publishedAt": "2026-11-17T22:21:10Z",
+  "releaseChannel": "stable",
+  "status": "已发布正式版；官方无可核实亮点说明。",
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "4179dc730767e6ac",
+  "section": "news",
+  "category": "工具动态",
+  "title": "How VistaPrint helps small businesses get the word out",
+  "url": "https://openai.com/ads/customers/vistaprint",
+  "date": "2026-11-09",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "titleEn": "How VistaPrint helps small businesses get the word out",
+  "titleZh": "VistaPrint如何借助ChatGPT广告帮助小企业扩大宣传",
+  "summary": "这是OpenAI官网发布的客户案例，介绍印刷与品牌周边服务商VistaPrint使用ChatGPT Ads的投放经验。",
+  "details": {
+    "overview": "这是OpenAI官网发布的客户案例，介绍印刷与品牌周边服务商VistaPrint使用ChatGPT Ads的投放经验。文章称，VistaPrint把广告信息从产品本身转向小企业主的实际目标，例如用标牌吸引展位人流、在活动中发放品牌周边；随后在美国同一产品类别先后测试点击导向出价与以“订单创建”为转化事件的优化出价。VistaPrint自报，优化出价活动的单笔归因订单成本比前一活动低约90%，广告支出回报为5.9倍，并称多数归因转化来自新客户。这些数字均为VistaPrint自行报告，并非独立验证。",
+    "keyPoints": [
+      "VistaPrint将广告创意从产品导向转为小企业主的实际使用场景，如展位标牌和活动周边。",
+      "美国同一产品类别先后测试点击导向与转化优化出价，后者以“订单创建”为转化事件。",
+      "VistaPrint自报优化活动单笔归因订单成本低约90%、广告支出回报5.9倍，并称多数归因转化来自新客户。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

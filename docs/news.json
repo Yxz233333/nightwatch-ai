@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-17T00:03:41.276Z",
+  "syncedAt": "2026-11-18T00:06:35.863Z",
   "articles": [
     {
       "id": "e985bef486a031bf",
@@ -45981,6 +45981,160 @@
         ]
       },
       "status": "已公布研究与开源插件；性能数字按原研究条件理解。",
+      "interest": []
+    },
+    {
+      "id": "bf7b26fb29b219e4",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "date": "2026-11-17",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "titleEn": "Strengthening NATO and allied cyber defenses with AI",
+      "titleZh": "以AI强化北约及盟国网络防御",
+      "summary": "OpenAI发布文章介绍其与北约通信与信息局（NCIA）合作，通过Daybreak向可信防御方提供先进AI模型，用于授权安全工作中的软件审查、可疑活动调查、漏洞验证及修复开发测试。",
+      "details": {
+        "overview": "OpenAI发布文章介绍其与北约通信与信息局（NCIA）合作，通过Daybreak向可信防御方提供先进AI模型，用于授权安全工作中的软件审查、可疑活动调查、漏洞验证及修复开发测试。文中称北约每月使用最多3000亿原始输入输出token，并参与2026年Crossed Swords演习中AI智能体网络操作训练。文章还提到向ENISA及法国、德国、波兰等机构提供访问，乌克兰数字转型部使用Daybreak，ENISA借此发现四个软件漏洞并发布修复。",
+        "keyPoints": [
+          "OpenAI与NCIA合作，向北约核心机构提供网络安全模型访问，用于保护盟国网络。",
+          "北约在相关工作中每月使用最多3000亿原始输入输出token。",
+          "2026年Crossed Swords演习新增AI智能体网络操作训练流，强调人类监督。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "35b56dc1a6e9ebc2",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "date": "2026-11-17",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "titleEn": "Introducing OpenAI for Chile",
+      "titleZh": "OpenAI for Chile 正式推出",
+      "summary": "OpenAI 发布“OpenAI for Chile”，与智利政府（由科学、技术、知识与创新部牵头）建立合作，支持公共行政部门负责任地采用 AI、提升公务员技能，并帮助本地初创企业开发实用 AI 应用。",
+      "details": {
+        "overview": "OpenAI 发布“OpenAI for Chile”，与智利政府（由科学、技术、知识与创新部牵头）建立合作，支持公共行政部门负责任地采用 AI、提升公务员技能，并帮助本地初创企业开发实用 AI 应用。谅解备忘录在加州 Semafor 会议期间签署，由部长 Ximena Lincolao 代表智利签署，并获美国商务部相关项目支持。双方将成立联合工作组确定优先事项与初始工作计划；具体活动、资格与资源另行商定，备忘录不含投资或采购承诺。",
+        "keyPoints": [
+          "合作聚焦公共部门 AI 应用、公务员培训与本地初创生态支持。",
+          "双方将组建联合工作组，确定优先事项、里程碑与成功衡量标准。",
+          "备忘录不包含投资或采购承诺，具体活动与资源另行商定。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "d3769352cfc72415",
+      "section": "news",
+      "category": "工具动态",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "date": "2026-11-16",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+      "publishedAt": "2026-11-16T09:30:00+00:00",
+      "titleEn": "How Revolut raises ambition without lowering the bar",
+      "titleZh": "Revolut 如何在不降低标准的前提下提升目标",
+      "summary": "这是 OpenAI 发布的一篇客户案例，介绍金融科技公司 Revolut 如何使用 ChatGPT、API 与 Codex。",
+      "details": {
+        "overview": "这是 OpenAI 发布的一篇客户案例，介绍金融科技公司 Revolut 如何使用 ChatGPT、API 与 Codex。文中称，Codex 使从任务开始到功能合并的编码时间减少 30–60%；一名工程师通过给多个 Codex 代理分配任务，独立搭建了内部代码审查服务；团队还用一天把约七年的设计文档转成 AI 可读的上下文。在金融犯罪领域，Revolut 借助模型代理自动筛查和调查交易，从而在不按需求同比例增加调查人员的情况下扩大监控能力。文章强调，AI 承担实现与取证工作，但工程师和调查员仍需理解并批准结果。",
+        "keyPoints": [
+          "OpenAI 案例称 Codex 使 Revolut 编码到合并时间减少 30–60%。",
+          "一名工程师用多个 Codex 代理分配任务，独立构建内部代码审查服务。",
+          "金融犯罪代理自动筛查交易，人工仍负责复核原始记录并批准行动。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "1bade5cf3d9d1fe9",
+      "section": "news",
+      "category": "工具动态",
+      "title": "ChatGPT Ads 指定 Aleph 为44个市场广告主提供本地转售服务",
+      "url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+      "date": "2026-11-12",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "titleEn": "ChatGPT Ads increases its market presence in 44 countries",
+      "titleZh": "ChatGPT Ads 指定 Aleph 为44个市场广告主提供本地转售服务",
+      "summary": "OpenAI 宣布指定 Aleph 为 ChatGPT Ads 在44个国家的独家转售商，使当地品牌和代理机构可通过本地实体完成签约、以本币付款并获得本地销售支持、培训与投放服务。",
+      "details": {
+        "overview": "OpenAI 宣布指定 Aleph 为 ChatGPT Ads 在44个国家的独家转售商，使当地品牌和代理机构可通过本地实体完成签约、以本币付款并获得本地销售支持、培训与投放服务。覆盖范围包括拉美14国、欧洲与中亚16国、中东与非洲10国及亚太4个市场。OpenAI 表示该安排不改变广告主面向这些国家投放的能力，直接购买与全球技术合作伙伴渠道仍然保留，并称已有超过十万名营销人员在 ChatGPT 上投放广告。该44个市场指广告主所在地及本地转售支持，不等于44处用户市场都能访问ChatGPT或看见广告。",
+        "keyPoints": [
+          "Aleph 成为 ChatGPT Ads 在44个国家的独家转售商，提供本地合同、本币开票与销售支持。",
+          "覆盖拉美14国、欧洲与中亚16国、中东与非洲10国、亚太4个市场。",
+          "OpenAI 称不影响既有投放能力，Ads Manager 与全球技术合作伙伴渠道继续可用。",
+          "原文脚注说明中国大陆和香港用户无法使用OpenAI模型及ChatGPT，亦不在当地提供ChatGPT Ads；转售支持不能等同产品在当地开放。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "4179dc730767e6ac",
+      "section": "news",
+      "category": "工具动态",
+      "title": "How VistaPrint helps small businesses get the word out",
+      "url": "https://openai.com/ads/customers/vistaprint",
+      "date": "2026-11-09",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "titleEn": "How VistaPrint helps small businesses get the word out",
+      "titleZh": "VistaPrint如何借助ChatGPT广告帮助小企业扩大宣传",
+      "summary": "这是OpenAI官网发布的客户案例，介绍印刷与品牌周边服务商VistaPrint使用ChatGPT Ads的投放经验。",
+      "details": {
+        "overview": "这是OpenAI官网发布的客户案例，介绍印刷与品牌周边服务商VistaPrint使用ChatGPT Ads的投放经验。文章称，VistaPrint把广告信息从产品本身转向小企业主的实际目标，例如用标牌吸引展位人流、在活动中发放品牌周边；随后在美国同一产品类别先后测试点击导向出价与以“订单创建”为转化事件的优化出价。VistaPrint自报，优化出价活动的单笔归因订单成本比前一活动低约90%，广告支出回报为5.9倍，并称多数归因转化来自新客户。这些数字均为VistaPrint自行报告，并非独立验证。",
+        "keyPoints": [
+          "VistaPrint将广告创意从产品导向转为小企业主的实际使用场景，如展位标牌和活动周边。",
+          "美国同一产品类别先后测试点击导向与转化优化出价，后者以“订单创建”为转化事件。",
+          "VistaPrint自报优化活动单笔归因订单成本低约90%、广告支出回报5.9倍，并称多数归因转化来自新客户。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "000724b44b92d606",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+      "date": "2026-11-17",
+      "source": "NVIDIA 官方博客",
+      "recommended": true,
+      "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+      "publishedAt": "2026-11-17T14:00:10+00:00",
+      "recommendedOn": "2026-11-18",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "titleZh": "Ian Buck 在 SC26 为 NVIDIA 活动周揭幕：科学进入智能体时代",
+      "summary": "在 SC26 大会上，NVIDIA 超大规模与高性能计算副总裁 Ian Buck 介绍了面向科研的智能体工具 Nemotron for Science，可让智能体在研究者自有系统上规划实验、运行代码并核查结果；同时发布面向高性能计算的 Rubin HPC GPU 与扩展的 Vera CPU 平台，并公布与 IBM、费米实验室在量子计算方面的合作。",
+      "details": {
+        "overview": "在 SC26 大会上，NVIDIA 超大规模与高性能计算副总裁 Ian Buck 介绍了面向科研的智能体工具 Nemotron for Science，可让智能体在研究者自有系统上规划实验、运行代码并核查结果；同时发布面向高性能计算的 Rubin HPC GPU 与扩展的 Vera CPU 平台，并公布与 IBM、费米实验室在量子计算方面的合作。Buck 称科学计算栈将以模拟为基础，叠加 AI、量子与智能体。",
+        "keyPoints": [
+          "Nemotron for Science 结合 Nemotron 3.5 Super VL 开放模型、新开放化学数据集及生命科学与化学后训练配方。",
+          "Rubin HPC GPU 支持 FP64 至 FP4 精度，CUDA 核心超 5 万，约为 Hopper 三倍，预计 2028 年推出。",
+          "与 IBM、费米实验室合作建设量子计算协同设计平台，支持纠错与应用研究。",
+          "NVIDIA、IBM及Fermilab的量子协同设计平台为宣布计划，不表示已建成并投入运行。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
       "interest": []
     }
   ]

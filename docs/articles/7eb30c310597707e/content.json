@@ -1,0 +1,22 @@
+{
+  "id": "7eb30c310597707e",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex 桌面版 26.1106 更新",
+  "url": "https://learn.chatgpt.com/docs/changelog#codex-app-26.1106",
+  "date": "2026-11-10",
+  "source": "ChatGPT Learn 官方变更日志",
+  "recommended": false,
+  "titleZh": "Codex 桌面版 26.1106 更新",
+  "summary": "Codex桌面版可在退出或崩溃后恢复符合条件的本地聊天。",
+  "details": {
+    "overview": "Codex桌面版可在退出或崩溃后恢复符合条件的本地聊天。",
+    "keyPoints": [
+      "限仍中断、过去24小时活跃且属于同一账号的本地聊天。",
+      "修复切换账号后的侧栏内容，以及Pages批注焦点和公式显示问题。"
+    ]
+  },
+  "status": "已发布桌面版本；按原日期补漏。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "interest": []
+}

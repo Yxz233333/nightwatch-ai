@@ -1,0 +1,22 @@
+{
+  "id": "fd2eac149125ee15",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex 桌面版 26.1111 更新",
+  "url": "https://learn.chatgpt.com/docs/changelog#codex-app-26.1111",
+  "date": "2026-11-12",
+  "source": "ChatGPT Learn 官方变更日志",
+  "recommended": false,
+  "titleZh": "Codex 桌面版 26.1111 更新",
+  "summary": "Codex桌面版改进格式化内容复制及私有工作区插件编辑。",
+  "details": {
+    "overview": "Codex桌面版改进格式化内容复制及私有工作区插件编辑。",
+    "keyPoints": [
+      "复制富文本保留链接、编号和勾选状态。",
+      "修复价格被误作数学公式，以及重新打开私有插件后缺少编辑入口的问题。"
+    ]
+  },
+  "status": "已发布桌面版本；按原日期补漏。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "interest": []
+}

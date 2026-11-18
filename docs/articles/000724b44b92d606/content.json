@@ -1,0 +1,28 @@
+{
+  "id": "000724b44b92d606",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+  "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+  "date": "2026-11-17",
+  "source": "NVIDIA 官方博客",
+  "recommended": true,
+  "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+  "publishedAt": "2026-11-17T14:00:10+00:00",
+  "recommendedOn": "2026-11-18",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+  "titleZh": "Ian Buck 在 SC26 为 NVIDIA 活动周揭幕：科学进入智能体时代",
+  "summary": "在 SC26 大会上，NVIDIA 超大规模与高性能计算副总裁 Ian Buck 介绍了面向科研的智能体工具 Nemotron for Science，可让智能体在研究者自有系统上规划实验、运行代码并核查结果；同时发布面向高性能计算的 Rubin HPC GPU 与扩展的 Vera CPU 平台，并公布与 IBM、费米实验室在量子计算方面的合作。",
+  "details": {
+    "overview": "在 SC26 大会上，NVIDIA 超大规模与高性能计算副总裁 Ian Buck 介绍了面向科研的智能体工具 Nemotron for Science，可让智能体在研究者自有系统上规划实验、运行代码并核查结果；同时发布面向高性能计算的 Rubin HPC GPU 与扩展的 Vera CPU 平台，并公布与 IBM、费米实验室在量子计算方面的合作。Buck 称科学计算栈将以模拟为基础，叠加 AI、量子与智能体。",
+    "keyPoints": [
+      "Nemotron for Science 结合 Nemotron 3.5 Super VL 开放模型、新开放化学数据集及生命科学与化学后训练配方。",
+      "Rubin HPC GPU 支持 FP64 至 FP4 精度，CUDA 核心超 5 万，约为 Hopper 三倍，预计 2028 年推出。",
+      "与 IBM、费米实验室合作建设量子计算协同设计平台，支持纠错与应用研究。",
+      "NVIDIA、IBM及Fermilab的量子协同设计平台为宣布计划，不表示已建成并投入运行。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "d3769352cfc72415",
+  "section": "news",
+  "category": "工具动态",
+  "title": "How Revolut raises ambition without lowering the bar",
+  "url": "https://openai.com/business/customer-stories/revolut",
+  "date": "2026-11-16",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+  "publishedAt": "2026-11-16T09:30:00+00:00",
+  "titleEn": "How Revolut raises ambition without lowering the bar",
+  "titleZh": "Revolut 如何在不降低标准的前提下提升目标",
+  "summary": "这是 OpenAI 发布的一篇客户案例，介绍金融科技公司 Revolut 如何使用 ChatGPT、API 与 Codex。",
+  "details": {
+    "overview": "这是 OpenAI 发布的一篇客户案例，介绍金融科技公司 Revolut 如何使用 ChatGPT、API 与 Codex。文中称，Codex 使从任务开始到功能合并的编码时间减少 30–60%；一名工程师通过给多个 Codex 代理分配任务，独立搭建了内部代码审查服务；团队还用一天把约七年的设计文档转成 AI 可读的上下文。在金融犯罪领域，Revolut 借助模型代理自动筛查和调查交易，从而在不按需求同比例增加调查人员的情况下扩大监控能力。文章强调，AI 承担实现与取证工作，但工程师和调查员仍需理解并批准结果。",
+    "keyPoints": [
+      "OpenAI 案例称 Codex 使 Revolut 编码到合并时间减少 30–60%。",
+      "一名工程师用多个 Codex 代理分配任务，独立构建内部代码审查服务。",
+      "金融犯罪代理自动筛查交易，人工仍负责复核原始记录并批准行动。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

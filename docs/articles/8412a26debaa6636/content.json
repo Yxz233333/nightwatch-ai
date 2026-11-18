@@ -1,0 +1,26 @@
+{
+  "id": "8412a26debaa6636",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Introducing GPT-6.2 Astra and Sol",
+  "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+  "date": "2026-11-18",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "官方已发布并在Work/Codex推出；不是普通Chat模型更新，资格与工作区设置适用。",
+  "publishedAt": "2026-11-17T17:45:00+00:00",
+  "titleEn": "Introducing GPT-6.2 Astra and Sol",
+  "titleZh": "OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol",
+  "summary": "OpenAI 在官方发布中推出两款新模型：面向高难度专业项目的 GPT-6.2 Astra，以及面向日常工作的 GPT-6.2 Sol。",
+  "details": {
+    "overview": "OpenAI 在官方发布中推出两款新模型：面向高难度专业项目的 GPT-6.2 Astra，以及面向日常工作的 GPT-6.2 Sol。发布称两者在复杂任务上以更少输出 token 取得更好结果，Astra 在幻灯片、表格、文档、代码与前端设计上更贴近行业模板与惯例。文中给出 Agents' Last Exam、Terminal-Bench-Science 0.1 等基准上的自报成绩与成本对比，并公布 API 价格、ChatGPT 各订阅档位与 Codex 的可用范围。上述评测均为 OpenAI 自述，未经独立验证。",
+    "keyPoints": [
+      "发布称 Astra 在 Agents' Last Exam 上比 GPT-6 Astra 高 5.2 分，成本不足三分之一。",
+      "Astra 的 API 输入输出 token 价格较 GPT-6 Astra 低 20%，缓存输入享 60% 折扣。",
+      "两款模型在ChatGPT Work和Codex提供，而非普通Chat；Enterprise/Edu等工作区还取决于管理员启用，API也可使用。",
+      "官方说明Pro $200档可使用Sol Ultrafast，Pro $500档可对Sol和Astra使用Ultrafast；具体使用量和工作区要求以官方说明为准。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

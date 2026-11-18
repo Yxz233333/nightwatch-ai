@@ -1,0 +1,25 @@
+{
+  "id": "bf7b26fb29b219e4",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Strengthening NATO and allied cyber defenses with AI",
+  "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+  "date": "2026-11-17",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "titleEn": "Strengthening NATO and allied cyber defenses with AI",
+  "titleZh": "以AI强化北约及盟国网络防御",
+  "summary": "OpenAI发布文章介绍其与北约通信与信息局（NCIA）合作，通过Daybreak向可信防御方提供先进AI模型，用于授权安全工作中的软件审查、可疑活动调查、漏洞验证及修复开发测试。",
+  "details": {
+    "overview": "OpenAI发布文章介绍其与北约通信与信息局（NCIA）合作，通过Daybreak向可信防御方提供先进AI模型，用于授权安全工作中的软件审查、可疑活动调查、漏洞验证及修复开发测试。文中称北约每月使用最多3000亿原始输入输出token，并参与2026年Crossed Swords演习中AI智能体网络操作训练。文章还提到向ENISA及法国、德国、波兰等机构提供访问，乌克兰数字转型部使用Daybreak，ENISA借此发现四个软件漏洞并发布修复。",
+    "keyPoints": [
+      "OpenAI与NCIA合作，向北约核心机构提供网络安全模型访问，用于保护盟国网络。",
+      "北约在相关工作中每月使用最多3000亿原始输入输出token。",
+      "2026年Crossed Swords演习新增AI智能体网络操作训练流，强调人类监督。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

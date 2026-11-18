@@ -1,0 +1,22 @@
+{
+  "id": "ea1df65b8f4097c1",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex 桌面版 26.1103 更新",
+  "url": "https://learn.chatgpt.com/docs/changelog#codex-app-26.1103",
+  "date": "2026-11-05",
+  "source": "ChatGPT Learn 官方变更日志",
+  "recommended": false,
+  "titleZh": "Codex 桌面版 26.1103 更新",
+  "summary": "Codex桌面版改善首页、历史回复及PDF和代码审查的加载速度。",
+  "details": {
+    "overview": "Codex桌面版改善首页、历史回复及PDF和代码审查的加载速度。",
+    "keyPoints": [
+      "适用于官方列出的macOS和Windows体验。",
+      "修复macOS终端非ASCII字符问题；11月8日后续更新改善不可用按钮显示。"
+    ]
+  },
+  "status": "已发布桌面版本；按原日期补漏。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "interest": []
+}

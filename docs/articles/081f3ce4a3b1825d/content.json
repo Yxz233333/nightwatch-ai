@@ -1,0 +1,22 @@
+{
+  "id": "081f3ce4a3b1825d",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex 桌面版 26.1029 更新",
+  "url": "https://learn.chatgpt.com/docs/changelog#codex-app-26.1029",
+  "date": "2026-11-03",
+  "source": "ChatGPT Learn 官方变更日志",
+  "recommended": false,
+  "titleZh": "Codex 桌面版 26.1029 更新",
+  "summary": "Codex桌面版增加浏览器按住按键操作，并修复搜索反馈。",
+  "details": {
+    "overview": "Codex桌面版增加浏览器按住按键操作，并修复搜索反馈。",
+    "keyPoints": [
+      "内置浏览器可使用需要持续按键的控件。",
+      "聊天及PDF搜索完成后再显示零结果，避免过早反馈。"
+    ]
+  },
+  "status": "已发布桌面版本；按原日期补漏。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "interest": []
+}

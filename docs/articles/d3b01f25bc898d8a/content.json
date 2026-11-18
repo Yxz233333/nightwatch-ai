@@ -1,0 +1,25 @@
+{
+  "id": "d3b01f25bc898d8a",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "Introducing ChatGPT for Sales",
+  "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+  "date": "2026-11-17",
+  "source": "OpenAI 官方新闻",
+  "recommended": false,
+  "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+  "publishedAt": "2026-11-17T08:00:00+00:00",
+  "titleEn": "Introducing ChatGPT for Sales",
+  "titleZh": "推出面向销售场景的 ChatGPT",
+  "summary": "OpenAI 发布 ChatGPT for Sales，面向销售团队提供新的 Sales 插件及 30 多个新增和增强的合作伙伴插件，把 CRM、通话记录、外联工具等客户信息接入 ChatGPT，用于筛选目标客户、准备通话、定制提案和跟进。",
+  "details": {
+    "overview": "OpenAI 发布 ChatGPT for Sales，面向销售团队提供新的 Sales 插件及 30 多个新增和增强的合作伙伴插件，把 CRM、通话记录、外联工具等客户信息接入 ChatGPT，用于筛选目标客户、准备通话、定制提案和跟进。官方称其可帮助团队减少事务性工作、加快销售流程，并支持通过常驻代理 dot 使用相同插件准备会议简报和跟踪交易变化。插件与功能可用性因套餐、地区和空间设置而异。",
+    "keyPoints": [
+      "推出 Sales 插件，提供从选客户到通话准备、跟进草稿的现成销售工作流。",
+      "接入 Salesforce、HubSpot、Gong、Outreach 等 30 多个合作伙伴插件，整合客户上下文。",
+      "ChatGPT Business 与 Enterprise 管理员可为团队启用 Sales 插件及相关合作伙伴插件。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-17T00:03:41.276Z",
+  "syncedAt": "2026-11-18T00:06:35.863Z",
   "articles": [
     {
       "id": "d801af45ebed7c9b",
@@ -5263,6 +5263,83 @@
           "改进可信临床搜索，强调查找、评估并引用医学证据，供临床医生核查来源。",
           "新增 20 多个医疗插件，覆盖临床护理、护理协调与业务运营等场景。",
           "Healthcare的插件受工作区管理员设置影响；Clinicians仅限符合资格、已验证的美国临床人员，只有部分插件可用。涉及受保护健康信息需合资格服务、BAA及对应安全设置。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "8412a26debaa6636",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "date": "2026-11-18",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "官方已发布并在Work/Codex推出；不是普通Chat模型更新，资格与工作区设置适用。",
+      "publishedAt": "2026-11-17T17:45:00+00:00",
+      "titleEn": "Introducing GPT-6.2 Astra and Sol",
+      "titleZh": "OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol",
+      "summary": "OpenAI 在官方发布中推出两款新模型：面向高难度专业项目的 GPT-6.2 Astra，以及面向日常工作的 GPT-6.2 Sol。",
+      "details": {
+        "overview": "OpenAI 在官方发布中推出两款新模型：面向高难度专业项目的 GPT-6.2 Astra，以及面向日常工作的 GPT-6.2 Sol。发布称两者在复杂任务上以更少输出 token 取得更好结果，Astra 在幻灯片、表格、文档、代码与前端设计上更贴近行业模板与惯例。文中给出 Agents' Last Exam、Terminal-Bench-Science 0.1 等基准上的自报成绩与成本对比，并公布 API 价格、ChatGPT 各订阅档位与 Codex 的可用范围。上述评测均为 OpenAI 自述，未经独立验证。",
+        "keyPoints": [
+          "发布称 Astra 在 Agents' Last Exam 上比 GPT-6 Astra 高 5.2 分，成本不足三分之一。",
+          "Astra 的 API 输入输出 token 价格较 GPT-6 Astra 低 20%，缓存输入享 60% 折扣。",
+          "两款模型在ChatGPT Work和Codex提供，而非普通Chat；Enterprise/Edu等工作区还取决于管理员启用，API也可使用。",
+          "官方说明Pro $200档可使用Sol Ultrafast，Pro $500档可对Sol和Astra使用Ultrafast；具体使用量和工作区要求以官方说明为准。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "d3b01f25bc898d8a",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "date": "2026-11-17",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+      "publishedAt": "2026-11-17T08:00:00+00:00",
+      "titleEn": "Introducing ChatGPT for Sales",
+      "titleZh": "推出面向销售场景的 ChatGPT",
+      "summary": "OpenAI 发布 ChatGPT for Sales，面向销售团队提供新的 Sales 插件及 30 多个新增和增强的合作伙伴插件，把 CRM、通话记录、外联工具等客户信息接入 ChatGPT，用于筛选目标客户、准备通话、定制提案和跟进。",
+      "details": {
+        "overview": "OpenAI 发布 ChatGPT for Sales，面向销售团队提供新的 Sales 插件及 30 多个新增和增强的合作伙伴插件，把 CRM、通话记录、外联工具等客户信息接入 ChatGPT，用于筛选目标客户、准备通话、定制提案和跟进。官方称其可帮助团队减少事务性工作、加快销售流程，并支持通过常驻代理 dot 使用相同插件准备会议简报和跟踪交易变化。插件与功能可用性因套餐、地区和空间设置而异。",
+        "keyPoints": [
+          "推出 Sales 插件，提供从选客户到通话准备、跟进草稿的现成销售工作流。",
+          "接入 Salesforce、HubSpot、Gong、Outreach 等 30 多个合作伙伴插件，整合客户上下文。",
+          "ChatGPT Business 与 Enterprise 管理员可为团队启用 Sales 插件及相关合作伙伴插件。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "767770cf635fe667",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "Astra for Law 更新为 GPT-6.2 配置，并扩大 Enterprise 申请范围",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "date": "2026-11-17",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "更新配置已公布；Enterprise客户需申请可信访问，不是默认向所有账号开放。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "titleEn": "Astra for Law leads in legal intelligence",
+      "titleZh": "Astra for Law 更新为 GPT-6.2 配置，并扩大 Enterprise 申请范围",
+      "summary": "OpenAI 发布更新版 Astra for Law，这是基于 GPT‑6.2 Astra 的模型配置，搭配扩展的法律检索索引与研究指令。",
+      "details": {
+        "overview": "OpenAI 发布更新版 Astra for Law，这是基于 GPT‑6.2 Astra 的模型配置，搭配扩展的法律检索索引与研究指令。官方称其在 Harvey LAB-AA 上排名第一，在 Vals AI 法律研究基准上表现靠前，并已向所有 ChatGPT Enterprise 客户开放申请访问。稿件强调该配置在减少幻觉与输出用量上的表现，但原文披露包括第三方基准在内的评测，本文未另行独立复测。",
+        "keyPoints": [
+          "官方称 Astra for Law 在 Harvey LAB-AA 上以 20.8% 全对率居首，高于 GPT‑6.2 Astra 的 15.0%。",
+          "Vals AI 11 月 16 日评测中，208 题有 112 题获全对，全对率由约 46% 升至 53.8%。",
+          "法律检索索引自 9 月以来扩大 34%，新增逾 8000 万 URL，总量超 3.1 亿。",
+          "所有Enterprise客户可经Trusted Access Program申请，不表示申请即获批准；20.8%为LAB-AA任务全对率，不是所有法律问题正确率。"
         ],
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       },

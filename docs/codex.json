@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-17T00:03:41.276Z",
+  "syncedAt": "2026-11-18T00:06:35.863Z",
   "articles": [
     {
       "id": "feed0920e670fa7c",
@@ -31033,6 +31033,186 @@
       },
       "releaseChannel": "prerelease",
       "status": "已发布alpha测试版；无详细变更说明。",
+      "interest": []
+    },
+    {
+      "id": "d774d035473927ce",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.171.0-alpha.12 测试版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.12",
+      "date": "2026-11-17",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "titleZh": "Codex CLI 0.171.0-alpha.12 测试版发布",
+      "summary": "Codex CLI 0.171.0-alpha.12 alpha测试版已发布。",
+      "details": {
+        "overview": "Codex CLI 0.171.0-alpha.12 alpha测试版已发布。原始正文只列版本号，未提供详细变更说明。",
+        "keyPoints": [
+          "这是已发布版本，归入功能更新，不当作未来预告。",
+          "缺少官方详细说明，不猜测新功能或修复；保留原始发布页及发布时间。"
+        ]
+      },
+      "publishedAt": "2026-11-17T14:26:49Z",
+      "releaseChannel": "prerelease",
+      "status": "已发布测试版；无详细变更。",
+      "interest": []
+    },
+    {
+      "id": "e2d9e31b07d6dc58",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.171.0-alpha.11 测试版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.11",
+      "date": "2026-11-17",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "titleZh": "Codex CLI 0.171.0-alpha.11 测试版发布",
+      "summary": "Codex CLI 0.171.0-alpha.11 alpha测试版已发布。",
+      "details": {
+        "overview": "Codex CLI 0.171.0-alpha.11 alpha测试版已发布。原始正文只列版本号，未提供详细变更说明。",
+        "keyPoints": [
+          "这是已发布版本，归入功能更新，不当作未来预告。",
+          "缺少官方详细说明，不猜测新功能或修复；保留原始发布页及发布时间。"
+        ]
+      },
+      "publishedAt": "2026-11-17T04:24:57Z",
+      "releaseChannel": "prerelease",
+      "status": "已发布测试版；无详细变更。",
+      "interest": []
+    },
+    {
+      "id": "34ccdd3fcc7dace6",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.170.0-alpha.4.1 测试版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.4.1",
+      "date": "2026-11-17",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "titleZh": "Codex CLI 0.170.0-alpha.4.1 测试版发布",
+      "summary": "Codex CLI 0.170.0-alpha.4.1 alpha测试版已发布。",
+      "details": {
+        "overview": "Codex CLI 0.170.0-alpha.4.1 alpha测试版已发布。原始正文只列版本号，未提供详细变更说明。",
+        "keyPoints": [
+          "这是已发布版本，归入功能更新，不当作未来预告。",
+          "缺少官方详细说明，不猜测新功能或修复；保留原始发布页及发布时间。"
+        ]
+      },
+      "publishedAt": "2026-11-17T02:19:17Z",
+      "releaseChannel": "prerelease",
+      "status": "已发布测试版；无详细变更。",
+      "interest": []
+    },
+    {
+      "id": "cdb2e196095d4bad",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.169.1 正式版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.1",
+      "date": "2026-11-18",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "titleZh": "Codex CLI 0.169.1 正式版发布",
+      "summary": "Codex CLI 0.169.1 正式版已发布。",
+      "details": {
+        "overview": "Codex CLI 0.169.1 正式版已发布。发布正文明确表示没有可核实的版本亮点，只提供完整比较链接。",
+        "keyPoints": [
+          "这是已发布版本，归入功能更新，不当作未来预告。",
+          "缺少官方详细说明，不猜测新功能或修复；保留原始发布页及发布时间。"
+        ]
+      },
+      "publishedAt": "2026-11-17T22:21:10Z",
+      "releaseChannel": "stable",
+      "status": "已发布正式版；官方无可核实亮点说明。",
+      "interest": []
+    },
+    {
+      "id": "fd2eac149125ee15",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex 桌面版 26.1111 更新",
+      "url": "https://learn.chatgpt.com/docs/changelog#codex-app-26.1111",
+      "date": "2026-11-12",
+      "source": "ChatGPT Learn 官方变更日志",
+      "recommended": false,
+      "titleZh": "Codex 桌面版 26.1111 更新",
+      "summary": "Codex桌面版改进格式化内容复制及私有工作区插件编辑。",
+      "details": {
+        "overview": "Codex桌面版改进格式化内容复制及私有工作区插件编辑。",
+        "keyPoints": [
+          "复制富文本保留链接、编号和勾选状态。",
+          "修复价格被误作数学公式，以及重新打开私有插件后缺少编辑入口的问题。"
+        ]
+      },
+      "status": "已发布桌面版本；按原日期补漏。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "interest": []
+    },
+    {
+      "id": "7eb30c310597707e",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex 桌面版 26.1106 更新",
+      "url": "https://learn.chatgpt.com/docs/changelog#codex-app-26.1106",
+      "date": "2026-11-10",
+      "source": "ChatGPT Learn 官方变更日志",
+      "recommended": false,
+      "titleZh": "Codex 桌面版 26.1106 更新",
+      "summary": "Codex桌面版可在退出或崩溃后恢复符合条件的本地聊天。",
+      "details": {
+        "overview": "Codex桌面版可在退出或崩溃后恢复符合条件的本地聊天。",
+        "keyPoints": [
+          "限仍中断、过去24小时活跃且属于同一账号的本地聊天。",
+          "修复切换账号后的侧栏内容，以及Pages批注焦点和公式显示问题。"
+        ]
+      },
+      "status": "已发布桌面版本；按原日期补漏。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "interest": []
+    },
+    {
+      "id": "ea1df65b8f4097c1",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex 桌面版 26.1103 更新",
+      "url": "https://learn.chatgpt.com/docs/changelog#codex-app-26.1103",
+      "date": "2026-11-05",
+      "source": "ChatGPT Learn 官方变更日志",
+      "recommended": false,
+      "titleZh": "Codex 桌面版 26.1103 更新",
+      "summary": "Codex桌面版改善首页、历史回复及PDF和代码审查的加载速度。",
+      "details": {
+        "overview": "Codex桌面版改善首页、历史回复及PDF和代码审查的加载速度。",
+        "keyPoints": [
+          "适用于官方列出的macOS和Windows体验。",
+          "修复macOS终端非ASCII字符问题；11月8日后续更新改善不可用按钮显示。"
+        ]
+      },
+      "status": "已发布桌面版本；按原日期补漏。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "interest": []
+    },
+    {
+      "id": "081f3ce4a3b1825d",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex 桌面版 26.1029 更新",
+      "url": "https://learn.chatgpt.com/docs/changelog#codex-app-26.1029",
+      "date": "2026-11-03",
+      "source": "ChatGPT Learn 官方变更日志",
+      "recommended": false,
+      "titleZh": "Codex 桌面版 26.1029 更新",
+      "summary": "Codex桌面版增加浏览器按住按键操作，并修复搜索反馈。",
+      "details": {
+        "overview": "Codex桌面版增加浏览器按住按键操作，并修复搜索反馈。",
+        "keyPoints": [
+          "内置浏览器可使用需要持续按键的控件。",
+          "聊天及PDF搜索完成后再显示零结果，避免过早反馈。"
+        ]
+      },
+      "status": "已发布桌面版本；按原日期补漏。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
       "interest": []
     }
   ]
