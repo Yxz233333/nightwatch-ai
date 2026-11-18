@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-17T08:03:05+08:00",
+  "updatedAt": "2026-11-18T08:06:14+08:00",
   "coverage": {
     "requestedFrom": "2025-09-01",
-    "requestedThrough": "2026-11-17",
+    "requestedThrough": "2026-11-18",
     "scope": "已核实官方发布说明、GitHub Releases、官方 RSS 与新闻研究归档；不是全网穷尽清单。",
     "historyAddedBySource": {
       "ChatGPT 官方发布说明": 207,
@@ -43,10 +43,10 @@
       ]
     },
     "sourceCounts": {
-      "OpenAI 官方新闻": 747,
+      "OpenAI 官方新闻": 755,
       "Hugging Face 官方博客": 250,
-      "Codex GitHub Releases": 1194,
-      "NVIDIA 官方博客": 365,
+      "Codex GitHub Releases": 1198,
+      "NVIDIA 官方博客": 366,
       "Anthropic 官方新闻与研究": 256,
       "MiniMax 官方博客": 2,
       "Microsoft Research": 13,
@@ -65,19 +65,19 @@
       "Google DeepMind 官方博客": 8,
       "Hugging Face 官方及社区博客": 21,
       "Microsoft Research 官方博客": 4,
-      "ChatGPT Learn 官方变更日志": 2,
+      "ChatGPT Learn 官方变更日志": 6,
       "OpenAI 官方新闻与帮助中心": 1,
       "DeepSeek 官方API变更日志": 1,
       "OpenAI 官方客户案例": 1,
       "arXiv 原始预印本及 OpenAI 科学博客": 1
     },
     "excludedNonAINews": 33,
-    "total": 4154,
+    "total": 4171,
     "byMonth": {
       "2026-11": {
-        "codex": 40,
-        "chatgpt": 9,
-        "news": 106
+        "codex": 48,
+        "chatgpt": 12,
+        "news": 112
       },
       "2026-10": {
         "news": 209,
@@ -154,50 +154,46 @@
         "chatgpt": 9
       }
     },
-    "lastCheckedAt": "2026-11-17T08:03:05+08:00",
+    "lastCheckedAt": "2026-11-18T08:06:14+08:00",
     "dailyCheck": {
-      "checkedAt": "2026-11-17T08:03:05+08:00",
-      "addedArticles": 23,
-      "addedHistoricalArticles": 0,
-      "recommendationsAdded": 13,
+      "checkedAt": "2026-11-18T08:06:14+08:00",
+      "addedArticles": 17,
+      "addedHistoricalArticles": 7,
+      "recommendationsAdded": 1,
       "checks": [
         {
-          "source": "ChatGPT release notes/OpenAI",
-          "result": "核查11月16日Clinicians搜索与插件更新，并与Healthcare公告合并归档；研究者计划下轮11月23日开放，归入官方功能预告，未称已全面开放。"
+          "source": "ChatGPT release notes/Learn/OpenAI",
+          "result": "交叉核查GPT-6.2公告与Learn的11月17日日期；仅Work/Codex，非普通Chat。归档Sales与法律配置资格；另补11月3/5/10/12桌面版记录，不当作今天发生。"
         },
         {
-          "source": "ChatGPT Learn/Codex GitHub",
-          "result": "Learn最新可见正式版仍为0.169.0；核查alpha.8/.9/.10发布页精确时间，正文仅列版本，无详细变更。"
+          "source": "Codex GitHub",
+          "result": "核查alpha.11/.12、0.170.0-alpha.4.1及0.169.1精确发布页时间；正式版说明无可核实亮点，alpha仅版本号，不猜测功能。"
         },
         {
           "source": "OpenAI math",
-          "result": "raw原文git hash-object为7e1ed90ac5a666f1bbecb22027387c4ad79e9d03，与既有索引一致；旧论文及原始ID全部保留。"
+          "result": "raw原文blob仍为7e1ed90ac5a666f1bbecb22027387c4ad79e9d03，全部既有论文、英文摘要和稳定ID保留。"
         },
         {
           "source": "OpenAI news",
-          "result": "逐条核查当前RSS中的9个缺失正文，覆盖研究资助、科研使用研究、安全、嵌入式评估、医疗、媒体合作及客户案例，保留资格、因果和推出条件。"
+          "result": "核查8篇当前RSS缺失正文，涵盖模型、Sales、法律、北约防御、智利合作和客户/广告案例；历史日期原样归档，44个转售市场不误写为44个产品开放地区。"
         },
         {
-          "source": "Microsoft Research",
-          "result": "补入11月16日TokenEconomizer研究与开源插件公告，只有日期，不推断属于滚动24小时。"
+          "source": "DeepMind/Hugging Face/NVIDIA/Anthropic",
+          "result": "官方RSS与Anthropic索引重新获取比对；补入NVIDIA SC26主题演讲，计划中的量子平台不视为已建成。"
         },
         {
-          "source": "Hugging Face/NVIDIA/DeepMind",
-          "result": "核查并补入HF/OpenRouter合作与9篇NVIDIA SC26等原始博客；Rubin HPC为预计2028年产品，Slurm 26.11为本月稍后计划，MLPerf临时结果状态明确。DeepMind当前RSS无新缺失条目。"
-        },
-        {
-          "source": "Anthropic/DeepSeek",
-          "result": "重新获取新闻索引及DeepSeek可读更新页，未发现额外尚未归档的可见新条目。"
+          "source": "Microsoft Research/DeepSeek",
+          "result": "核查可读官方索引和更新页，最新可见内容均已归档。"
         },
         {
           "source": "Meta",
-          "result": "直接HTTPS200并核查可见博客索引，最新仍显示7月27日；不代表所有分页或其他发布渠道完整覆盖。"
+          "result": "直接HTTPS200核查可见博客索引，最新仍为7月27日；不代表所有分页与其他发布渠道。"
         }
       ],
       "partialSources": [
         {
           "url": "https://qwen.ai/research",
-          "result": "网页工具无可读正文。"
+          "result": "当前网页工具无可读正文，不能据此声称无更新。"
         },
         {
           "url": "https://www.minimax.io/news",
@@ -205,9 +201,9 @@
         }
       ],
       "limitations": [
-        "保留2025-09-01起全部既有已核实历史，不宣称全网穷尽。",
-        "原文仅有日期或RSS午夜时间的消息不猜造小时，不把昨日不确定时刻的消息加入推荐。",
-        "客户端完整历史、Meta分页、微软其他企业AI频道及部分中文厂商历史仍有已知缺口。"
+        "保留2025-09-01起既有已核实历史，不宣称全网穷尽。",
+        "Learn客户端完整历史、Meta分页、微软其他企业AI频道及中文厂商历史仍有已知缺口。",
+        "只有日期或RSS午夜时间的消息不猜造小时；当前推荐只取确切发布时间位于24小时内的资讯。"
       ]
     }
   },
@@ -97151,6 +97147,400 @@
         ]
       },
       "status": "已公布研究与开源插件；性能数字按原研究条件理解。"
+    },
+    {
+      "id": "8412a26debaa6636",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "date": "2026-11-18",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "官方已发布并在Work/Codex推出；不是普通Chat模型更新，资格与工作区设置适用。",
+      "publishedAt": "2026-11-17T17:45:00+00:00",
+      "titleEn": "Introducing GPT-6.2 Astra and Sol",
+      "titleZh": "OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol",
+      "summary": "OpenAI 在官方发布中推出两款新模型：面向高难度专业项目的 GPT-6.2 Astra，以及面向日常工作的 GPT-6.2 Sol。",
+      "details": {
+        "overview": "OpenAI 在官方发布中推出两款新模型：面向高难度专业项目的 GPT-6.2 Astra，以及面向日常工作的 GPT-6.2 Sol。发布称两者在复杂任务上以更少输出 token 取得更好结果，Astra 在幻灯片、表格、文档、代码与前端设计上更贴近行业模板与惯例。文中给出 Agents' Last Exam、Terminal-Bench-Science 0.1 等基准上的自报成绩与成本对比，并公布 API 价格、ChatGPT 各订阅档位与 Codex 的可用范围。上述评测均为 OpenAI 自述，未经独立验证。",
+        "keyPoints": [
+          "发布称 Astra 在 Agents' Last Exam 上比 GPT-6 Astra 高 5.2 分，成本不足三分之一。",
+          "Astra 的 API 输入输出 token 价格较 GPT-6 Astra 低 20%，缓存输入享 60% 折扣。",
+          "两款模型在ChatGPT Work和Codex提供，而非普通Chat；Enterprise/Edu等工作区还取决于管理员启用，API也可使用。",
+          "官方说明Pro $200档可使用Sol Ultrafast，Pro $500档可对Sol和Astra使用Ultrafast；具体使用量和工作区要求以官方说明为准。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "bf7b26fb29b219e4",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "date": "2026-11-17",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "titleEn": "Strengthening NATO and allied cyber defenses with AI",
+      "titleZh": "以AI强化北约及盟国网络防御",
+      "summary": "OpenAI发布文章介绍其与北约通信与信息局（NCIA）合作，通过Daybreak向可信防御方提供先进AI模型，用于授权安全工作中的软件审查、可疑活动调查、漏洞验证及修复开发测试。",
+      "details": {
+        "overview": "OpenAI发布文章介绍其与北约通信与信息局（NCIA）合作，通过Daybreak向可信防御方提供先进AI模型，用于授权安全工作中的软件审查、可疑活动调查、漏洞验证及修复开发测试。文中称北约每月使用最多3000亿原始输入输出token，并参与2026年Crossed Swords演习中AI智能体网络操作训练。文章还提到向ENISA及法国、德国、波兰等机构提供访问，乌克兰数字转型部使用Daybreak，ENISA借此发现四个软件漏洞并发布修复。",
+        "keyPoints": [
+          "OpenAI与NCIA合作，向北约核心机构提供网络安全模型访问，用于保护盟国网络。",
+          "北约在相关工作中每月使用最多3000亿原始输入输出token。",
+          "2026年Crossed Swords演习新增AI智能体网络操作训练流，强调人类监督。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "d3b01f25bc898d8a",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "date": "2026-11-17",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+      "publishedAt": "2026-11-17T08:00:00+00:00",
+      "titleEn": "Introducing ChatGPT for Sales",
+      "titleZh": "推出面向销售场景的 ChatGPT",
+      "summary": "OpenAI 发布 ChatGPT for Sales，面向销售团队提供新的 Sales 插件及 30 多个新增和增强的合作伙伴插件，把 CRM、通话记录、外联工具等客户信息接入 ChatGPT，用于筛选目标客户、准备通话、定制提案和跟进。",
+      "details": {
+        "overview": "OpenAI 发布 ChatGPT for Sales，面向销售团队提供新的 Sales 插件及 30 多个新增和增强的合作伙伴插件，把 CRM、通话记录、外联工具等客户信息接入 ChatGPT，用于筛选目标客户、准备通话、定制提案和跟进。官方称其可帮助团队减少事务性工作、加快销售流程，并支持通过常驻代理 dot 使用相同插件准备会议简报和跟踪交易变化。插件与功能可用性因套餐、地区和空间设置而异。",
+        "keyPoints": [
+          "推出 Sales 插件，提供从选客户到通话准备、跟进草稿的现成销售工作流。",
+          "接入 Salesforce、HubSpot、Gong、Outreach 等 30 多个合作伙伴插件，整合客户上下文。",
+          "ChatGPT Business 与 Enterprise 管理员可为团队启用 Sales 插件及相关合作伙伴插件。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "767770cf635fe667",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "Astra for Law 更新为 GPT-6.2 配置，并扩大 Enterprise 申请范围",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "date": "2026-11-17",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "更新配置已公布；Enterprise客户需申请可信访问，不是默认向所有账号开放。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "titleEn": "Astra for Law leads in legal intelligence",
+      "titleZh": "Astra for Law 更新为 GPT-6.2 配置，并扩大 Enterprise 申请范围",
+      "summary": "OpenAI 发布更新版 Astra for Law，这是基于 GPT‑6.2 Astra 的模型配置，搭配扩展的法律检索索引与研究指令。",
+      "details": {
+        "overview": "OpenAI 发布更新版 Astra for Law，这是基于 GPT‑6.2 Astra 的模型配置，搭配扩展的法律检索索引与研究指令。官方称其在 Harvey LAB-AA 上排名第一，在 Vals AI 法律研究基准上表现靠前，并已向所有 ChatGPT Enterprise 客户开放申请访问。稿件强调该配置在减少幻觉与输出用量上的表现，但原文披露包括第三方基准在内的评测，本文未另行独立复测。",
+        "keyPoints": [
+          "官方称 Astra for Law 在 Harvey LAB-AA 上以 20.8% 全对率居首，高于 GPT‑6.2 Astra 的 15.0%。",
+          "Vals AI 11 月 16 日评测中，208 题有 112 题获全对，全对率由约 46% 升至 53.8%。",
+          "法律检索索引自 9 月以来扩大 34%，新增逾 8000 万 URL，总量超 3.1 亿。",
+          "所有Enterprise客户可经Trusted Access Program申请，不表示申请即获批准；20.8%为LAB-AA任务全对率，不是所有法律问题正确率。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "35b56dc1a6e9ebc2",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "date": "2026-11-17",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "titleEn": "Introducing OpenAI for Chile",
+      "titleZh": "OpenAI for Chile 正式推出",
+      "summary": "OpenAI 发布“OpenAI for Chile”，与智利政府（由科学、技术、知识与创新部牵头）建立合作，支持公共行政部门负责任地采用 AI、提升公务员技能，并帮助本地初创企业开发实用 AI 应用。",
+      "details": {
+        "overview": "OpenAI 发布“OpenAI for Chile”，与智利政府（由科学、技术、知识与创新部牵头）建立合作，支持公共行政部门负责任地采用 AI、提升公务员技能，并帮助本地初创企业开发实用 AI 应用。谅解备忘录在加州 Semafor 会议期间签署，由部长 Ximena Lincolao 代表智利签署，并获美国商务部相关项目支持。双方将成立联合工作组确定优先事项与初始工作计划；具体活动、资格与资源另行商定，备忘录不含投资或采购承诺。",
+        "keyPoints": [
+          "合作聚焦公共部门 AI 应用、公务员培训与本地初创生态支持。",
+          "双方将组建联合工作组，确定优先事项、里程碑与成功衡量标准。",
+          "备忘录不包含投资或采购承诺，具体活动与资源另行商定。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "d3769352cfc72415",
+      "section": "news",
+      "category": "工具动态",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "date": "2026-11-16",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+      "publishedAt": "2026-11-16T09:30:00+00:00",
+      "titleEn": "How Revolut raises ambition without lowering the bar",
+      "titleZh": "Revolut 如何在不降低标准的前提下提升目标",
+      "summary": "这是 OpenAI 发布的一篇客户案例，介绍金融科技公司 Revolut 如何使用 ChatGPT、API 与 Codex。",
+      "details": {
+        "overview": "这是 OpenAI 发布的一篇客户案例，介绍金融科技公司 Revolut 如何使用 ChatGPT、API 与 Codex。文中称，Codex 使从任务开始到功能合并的编码时间减少 30–60%；一名工程师通过给多个 Codex 代理分配任务，独立搭建了内部代码审查服务；团队还用一天把约七年的设计文档转成 AI 可读的上下文。在金融犯罪领域，Revolut 借助模型代理自动筛查和调查交易，从而在不按需求同比例增加调查人员的情况下扩大监控能力。文章强调，AI 承担实现与取证工作，但工程师和调查员仍需理解并批准结果。",
+        "keyPoints": [
+          "OpenAI 案例称 Codex 使 Revolut 编码到合并时间减少 30–60%。",
+          "一名工程师用多个 Codex 代理分配任务，独立构建内部代码审查服务。",
+          "金融犯罪代理自动筛查交易，人工仍负责复核原始记录并批准行动。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "1bade5cf3d9d1fe9",
+      "section": "news",
+      "category": "工具动态",
+      "title": "ChatGPT Ads 指定 Aleph 为44个市场广告主提供本地转售服务",
+      "url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+      "date": "2026-11-12",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "titleEn": "ChatGPT Ads increases its market presence in 44 countries",
+      "titleZh": "ChatGPT Ads 指定 Aleph 为44个市场广告主提供本地转售服务",
+      "summary": "OpenAI 宣布指定 Aleph 为 ChatGPT Ads 在44个国家的独家转售商，使当地品牌和代理机构可通过本地实体完成签约、以本币付款并获得本地销售支持、培训与投放服务。",
+      "details": {
+        "overview": "OpenAI 宣布指定 Aleph 为 ChatGPT Ads 在44个国家的独家转售商，使当地品牌和代理机构可通过本地实体完成签约、以本币付款并获得本地销售支持、培训与投放服务。覆盖范围包括拉美14国、欧洲与中亚16国、中东与非洲10国及亚太4个市场。OpenAI 表示该安排不改变广告主面向这些国家投放的能力，直接购买与全球技术合作伙伴渠道仍然保留，并称已有超过十万名营销人员在 ChatGPT 上投放广告。该44个市场指广告主所在地及本地转售支持，不等于44处用户市场都能访问ChatGPT或看见广告。",
+        "keyPoints": [
+          "Aleph 成为 ChatGPT Ads 在44个国家的独家转售商，提供本地合同、本币开票与销售支持。",
+          "覆盖拉美14国、欧洲与中亚16国、中东与非洲10国、亚太4个市场。",
+          "OpenAI 称不影响既有投放能力，Ads Manager 与全球技术合作伙伴渠道继续可用。",
+          "原文脚注说明中国大陆和香港用户无法使用OpenAI模型及ChatGPT，亦不在当地提供ChatGPT Ads；转售支持不能等同产品在当地开放。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "4179dc730767e6ac",
+      "section": "news",
+      "category": "工具动态",
+      "title": "How VistaPrint helps small businesses get the word out",
+      "url": "https://openai.com/ads/customers/vistaprint",
+      "date": "2026-11-09",
+      "source": "OpenAI 官方新闻",
+      "recommended": false,
+      "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "titleEn": "How VistaPrint helps small businesses get the word out",
+      "titleZh": "VistaPrint如何借助ChatGPT广告帮助小企业扩大宣传",
+      "summary": "这是OpenAI官网发布的客户案例，介绍印刷与品牌周边服务商VistaPrint使用ChatGPT Ads的投放经验。",
+      "details": {
+        "overview": "这是OpenAI官网发布的客户案例，介绍印刷与品牌周边服务商VistaPrint使用ChatGPT Ads的投放经验。文章称，VistaPrint把广告信息从产品本身转向小企业主的实际目标，例如用标牌吸引展位人流、在活动中发放品牌周边；随后在美国同一产品类别先后测试点击导向出价与以“订单创建”为转化事件的优化出价。VistaPrint自报，优化出价活动的单笔归因订单成本比前一活动低约90%，广告支出回报为5.9倍，并称多数归因转化来自新客户。这些数字均为VistaPrint自行报告，并非独立验证。",
+        "keyPoints": [
+          "VistaPrint将广告创意从产品导向转为小企业主的实际使用场景，如展位标牌和活动周边。",
+          "美国同一产品类别先后测试点击导向与转化优化出价，后者以“订单创建”为转化事件。",
+          "VistaPrint自报优化活动单笔归因订单成本低约90%、广告支出回报5.9倍，并称多数归因转化来自新客户。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "000724b44b92d606",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+      "date": "2026-11-17",
+      "source": "NVIDIA 官方博客",
+      "recommended": true,
+      "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+      "publishedAt": "2026-11-17T14:00:10+00:00",
+      "recommendedOn": "2026-11-18",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "titleZh": "Ian Buck 在 SC26 为 NVIDIA 活动周揭幕：科学进入智能体时代",
+      "summary": "在 SC26 大会上，NVIDIA 超大规模与高性能计算副总裁 Ian Buck 介绍了面向科研的智能体工具 Nemotron for Science，可让智能体在研究者自有系统上规划实验、运行代码并核查结果；同时发布面向高性能计算的 Rubin HPC GPU 与扩展的 Vera CPU 平台，并公布与 IBM、费米实验室在量子计算方面的合作。",
+      "details": {
+        "overview": "在 SC26 大会上，NVIDIA 超大规模与高性能计算副总裁 Ian Buck 介绍了面向科研的智能体工具 Nemotron for Science，可让智能体在研究者自有系统上规划实验、运行代码并核查结果；同时发布面向高性能计算的 Rubin HPC GPU 与扩展的 Vera CPU 平台，并公布与 IBM、费米实验室在量子计算方面的合作。Buck 称科学计算栈将以模拟为基础，叠加 AI、量子与智能体。",
+        "keyPoints": [
+          "Nemotron for Science 结合 Nemotron 3.5 Super VL 开放模型、新开放化学数据集及生命科学与化学后训练配方。",
+          "Rubin HPC GPU 支持 FP64 至 FP4 精度，CUDA 核心超 5 万，约为 Hopper 三倍，预计 2028 年推出。",
+          "与 IBM、费米实验室合作建设量子计算协同设计平台，支持纠错与应用研究。",
+          "NVIDIA、IBM及Fermilab的量子协同设计平台为宣布计划，不表示已建成并投入运行。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      }
+    },
+    {
+      "id": "d774d035473927ce",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.171.0-alpha.12 测试版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.12",
+      "date": "2026-11-17",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "titleZh": "Codex CLI 0.171.0-alpha.12 测试版发布",
+      "summary": "Codex CLI 0.171.0-alpha.12 alpha测试版已发布。",
+      "details": {
+        "overview": "Codex CLI 0.171.0-alpha.12 alpha测试版已发布。原始正文只列版本号，未提供详细变更说明。",
+        "keyPoints": [
+          "这是已发布版本，归入功能更新，不当作未来预告。",
+          "缺少官方详细说明，不猜测新功能或修复；保留原始发布页及发布时间。"
+        ]
+      },
+      "publishedAt": "2026-11-17T14:26:49Z",
+      "releaseChannel": "prerelease",
+      "status": "已发布测试版；无详细变更。"
+    },
+    {
+      "id": "e2d9e31b07d6dc58",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.171.0-alpha.11 测试版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.11",
+      "date": "2026-11-17",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "titleZh": "Codex CLI 0.171.0-alpha.11 测试版发布",
+      "summary": "Codex CLI 0.171.0-alpha.11 alpha测试版已发布。",
+      "details": {
+        "overview": "Codex CLI 0.171.0-alpha.11 alpha测试版已发布。原始正文只列版本号，未提供详细变更说明。",
+        "keyPoints": [
+          "这是已发布版本，归入功能更新，不当作未来预告。",
+          "缺少官方详细说明，不猜测新功能或修复；保留原始发布页及发布时间。"
+        ]
+      },
+      "publishedAt": "2026-11-17T04:24:57Z",
+      "releaseChannel": "prerelease",
+      "status": "已发布测试版；无详细变更。"
+    },
+    {
+      "id": "34ccdd3fcc7dace6",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.170.0-alpha.4.1 测试版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.4.1",
+      "date": "2026-11-17",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "titleZh": "Codex CLI 0.170.0-alpha.4.1 测试版发布",
+      "summary": "Codex CLI 0.170.0-alpha.4.1 alpha测试版已发布。",
+      "details": {
+        "overview": "Codex CLI 0.170.0-alpha.4.1 alpha测试版已发布。原始正文只列版本号，未提供详细变更说明。",
+        "keyPoints": [
+          "这是已发布版本，归入功能更新，不当作未来预告。",
+          "缺少官方详细说明，不猜测新功能或修复；保留原始发布页及发布时间。"
+        ]
+      },
+      "publishedAt": "2026-11-17T02:19:17Z",
+      "releaseChannel": "prerelease",
+      "status": "已发布测试版；无详细变更。"
+    },
+    {
+      "id": "cdb2e196095d4bad",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.169.1 正式版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.1",
+      "date": "2026-11-18",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "titleZh": "Codex CLI 0.169.1 正式版发布",
+      "summary": "Codex CLI 0.169.1 正式版已发布。",
+      "details": {
+        "overview": "Codex CLI 0.169.1 正式版已发布。发布正文明确表示没有可核实的版本亮点，只提供完整比较链接。",
+        "keyPoints": [
+          "这是已发布版本，归入功能更新，不当作未来预告。",
+          "缺少官方详细说明，不猜测新功能或修复；保留原始发布页及发布时间。"
+        ]
+      },
+      "publishedAt": "2026-11-17T22:21:10Z",
+      "releaseChannel": "stable",
+      "status": "已发布正式版；官方无可核实亮点说明。"
+    },
+    {
+      "id": "fd2eac149125ee15",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex 桌面版 26.1111 更新",
+      "url": "https://learn.chatgpt.com/docs/changelog#codex-app-26.1111",
+      "date": "2026-11-12",
+      "source": "ChatGPT Learn 官方变更日志",
+      "recommended": false,
+      "titleZh": "Codex 桌面版 26.1111 更新",
+      "summary": "Codex桌面版改进格式化内容复制及私有工作区插件编辑。",
+      "details": {
+        "overview": "Codex桌面版改进格式化内容复制及私有工作区插件编辑。",
+        "keyPoints": [
+          "复制富文本保留链接、编号和勾选状态。",
+          "修复价格被误作数学公式，以及重新打开私有插件后缺少编辑入口的问题。"
+        ]
+      },
+      "status": "已发布桌面版本；按原日期补漏。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。"
+    },
+    {
+      "id": "7eb30c310597707e",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex 桌面版 26.1106 更新",
+      "url": "https://learn.chatgpt.com/docs/changelog#codex-app-26.1106",
+      "date": "2026-11-10",
+      "source": "ChatGPT Learn 官方变更日志",
+      "recommended": false,
+      "titleZh": "Codex 桌面版 26.1106 更新",
+      "summary": "Codex桌面版可在退出或崩溃后恢复符合条件的本地聊天。",
+      "details": {
+        "overview": "Codex桌面版可在退出或崩溃后恢复符合条件的本地聊天。",
+        "keyPoints": [
+          "限仍中断、过去24小时活跃且属于同一账号的本地聊天。",
+          "修复切换账号后的侧栏内容，以及Pages批注焦点和公式显示问题。"
+        ]
+      },
+      "status": "已发布桌面版本；按原日期补漏。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。"
+    },
+    {
+      "id": "ea1df65b8f4097c1",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex 桌面版 26.1103 更新",
+      "url": "https://learn.chatgpt.com/docs/changelog#codex-app-26.1103",
+      "date": "2026-11-05",
+      "source": "ChatGPT Learn 官方变更日志",
+      "recommended": false,
+      "titleZh": "Codex 桌面版 26.1103 更新",
+      "summary": "Codex桌面版改善首页、历史回复及PDF和代码审查的加载速度。",
+      "details": {
+        "overview": "Codex桌面版改善首页、历史回复及PDF和代码审查的加载速度。",
+        "keyPoints": [
+          "适用于官方列出的macOS和Windows体验。",
+          "修复macOS终端非ASCII字符问题；11月8日后续更新改善不可用按钮显示。"
+        ]
+      },
+      "status": "已发布桌面版本；按原日期补漏。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。"
+    },
+    {
+      "id": "081f3ce4a3b1825d",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex 桌面版 26.1029 更新",
+      "url": "https://learn.chatgpt.com/docs/changelog#codex-app-26.1029",
+      "date": "2026-11-03",
+      "source": "ChatGPT Learn 官方变更日志",
+      "recommended": false,
+      "titleZh": "Codex 桌面版 26.1029 更新",
+      "summary": "Codex桌面版增加浏览器按住按键操作，并修复搜索反馈。",
+      "details": {
+        "overview": "Codex桌面版增加浏览器按住按键操作，并修复搜索反馈。",
+        "keyPoints": [
+          "内置浏览器可使用需要持续按键的控件。",
+          "聊天及PDF搜索完成后再显示零结果，避免过早反馈。"
+        ]
+      },
+      "status": "已发布桌面版本；按原日期补漏。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。"
     }
   ]
 }
