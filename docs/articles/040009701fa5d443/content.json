@@ -1,0 +1,27 @@
+{
+  "id": "040009701fa5d443",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Gemini 4 Neon 正式发布",
+  "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+  "date": "2026-11-19",
+  "source": "Google DeepMind 官方博客",
+  "recommended": true,
+  "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+  "publishedAt": "2026-11-18T21:35:43+00:00",
+  "recommendedOn": "2026-11-19",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "Introducing Gemini 4 Neon",
+  "titleZh": "Gemini 4 Neon 正式发布",
+  "summary": "Google发布Gemini 4 Neon，面向软件工程、知识工作和科学工作流。",
+  "details": {
+    "overview": "Google发布Gemini 4 Neon，面向软件工程、知识工作和科学工作流。官方公布的Artificial Analysis智能指数61分、总排名第三限定在xhigh思考水平；其他基准和任务表现仍取决于评测条件。",
+    "keyPoints": [
+      "API标价每百万输入token 3美元、输出15美元，100万token上下文；缓存输入享95%折扣。",
+      "官方称xhigh水平Artificial Analysis智能指数61分、总排名第三，Vals指数第二；这些为特定评测结果。",
+      "API付费层通过AI Studio和Android Studio提供；Pro/Ultra订阅者可在指定产品试用，Gemini应用面向Pro/Ultra，企业使用依其API或模型选择入口。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "fd59e5621d7f2c77",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT 实时听写逐步推出",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#live-dictation",
+  "date": "2026-11-18",
+  "source": "ChatGPT 官方发布说明",
+  "recommended": false,
+  "titleZh": "ChatGPT 实时听写逐步推出",
+  "summary": "ChatGPT听写时可实时看到转写文本，官方宣布向全球所有套餐逐步推出。",
+  "details": {
+    "overview": "ChatGPT听写时可实时看到转写文本，官方宣布向全球所有套餐逐步推出。",
+    "keyPoints": [
+      "适用于iOS、Android、网页及桌面端，逐步推出不表示所有账号立即可用。",
+      "录音波形支持显示或隐藏文本，并移除原有10分钟录音限制。"
+    ]
+  },
+  "status": "全球所有套餐逐步推出。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "interest": []
+}

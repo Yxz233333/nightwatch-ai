@@ -1,0 +1,27 @@
+{
+  "id": "15d32e312a9180f1",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "沉默的共识",
+  "url": "https://openai.com/index/the-silent-consensus",
+  "date": "2026-11-18",
+  "source": "OpenAI 官方新闻",
+  "recommended": true,
+  "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+  "publishedAt": "2026-11-18T10:00:00+00:00",
+  "recommendedOn": "2026-11-19",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "The Silent Consensus",
+  "titleZh": "沉默的共识",
+  "summary": "这是Dean Ball在OpenAI网站发表的一篇评论文章，改编自其在哈佛Vik-Bailey讲座的演讲，文中明确表示仅代表作者个人观点。",
+  "details": {
+    "overview": "这是Dean Ball在OpenAI网站发表的一篇评论文章，改编自其在哈佛Vik-Bailey讲座的演讲，文中明确表示仅代表作者个人观点。文章提出所谓“沉默的共识”：随着AI系统在研发、经营与治理中表现优于人类，市场竞争会促使人类逐步交出对商业与机构的主导权，最终丧失对世界事务的支配地位。作者反对这种“人类主导权让渡”的必然论，主张以问责机制、可审计的智能体和用户可撤回的授权来保留人类主导，并呼吁公开讨论这一隐性共识。",
+    "keyPoints": [
+      "作者称“沉默的共识”指人类主导权被逐步让渡，且多未被明说，仅靠暗示可辨。",
+      "文章认为让渡无需AI反叛，逐项委托决策叠加即可导致人类失去实际权威。",
+      "作者主张以可审计、权限受限、可撤回授权的智能体等技术手段维持人类问责。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

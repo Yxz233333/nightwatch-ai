@@ -1,0 +1,27 @@
+{
+  "id": "f30c4b8cb8130fc0",
+  "section": "news",
+  "category": "工具动态",
+  "title": "为什么你的微调任务比FLOPs估算的更耗时",
+  "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+  "date": "2026-11-19",
+  "source": "Hugging Face 社区博客（原作者发布）",
+  "recommended": true,
+  "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+  "publishedAt": "2026-11-18T18:53:43+00:00",
+  "recommendedOn": "2026-11-19",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "Why your fine-tuning job takes longer than the FLOPs say",
+  "titleZh": "为什么你的微调任务比FLOPs估算的更耗时",
+  "summary": "该文基于272次真实监督微调任务（约7382 GPU小时，NVIDIA H200共享集群）比较了FLOPs解析估算与学习型预测器。",
+  "details": {
+    "overview": "该文基于272次真实监督微调任务（约7382 GPU小时，NVIDIA H200共享集群）比较了FLOPs解析估算与学习型预测器。作者称，传统FLOPs估算仅解释少量耗时差异（R²=0.31，MAE 12.41小时），而仅使用派发前配置信息的CatBoost回归器在5折交叉验证中达到R²=0.98、MAE 1.71小时。文章强调评估频率、检查点策略等开销因素影响显著，但模型仅覆盖SFT与H200，长任务误差较大，完整论文尚未发布。",
+    "keyPoints": [
+      "272次SFT生产任务、约7382 GPU小时，时长1.6至172.4小时，均值23.43小时。",
+      "CatBoost仅用派发前特征，5折交叉验证MAE 1.71小时、中位误差0.51小时。",
+      "评估数据量、检查点保存等开销特征重要性高；60小时以上长任务误差明显扩大。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

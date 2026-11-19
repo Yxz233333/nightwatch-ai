@@ -1,0 +1,27 @@
+{
+  "id": "b3fa0d2e8145144f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "住友生命的领导者如何推动团队采用 ChatGPT Enterprise",
+  "url": "https://openai.com/business/customer-stories/sumitomo-life",
+  "date": "2026-11-18",
+  "source": "OpenAI 官方新闻",
+  "recommended": true,
+  "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+  "publishedAt": "2026-11-18T08:00:00+00:00",
+  "recommendedOn": "2026-11-19",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+  "titleZh": "住友生命的领导者如何推动团队采用 ChatGPT Enterprise",
+  "summary": "OpenAI 发布的企业客户案例介绍了日本寿险公司住友生命采用 ChatGPT Enterprise 的经过。",
+  "details": {
+    "overview": "OpenAI 发布的企业客户案例介绍了日本寿险公司住友生命采用 ChatGPT Enterprise 的经过。该公司自2023年开始在工作中使用生成式AI，2025年由约100至150名高管和企划团队成员试点 ChatGPT Business，2026年6月升级至企业版。企划团队用它调研海外保险公司并准备提案，投资团队用它起草风险分析代码。公司称企业版周使用率超过80%，并依据员工自报节省时间估算投资回报。高管率先使用和总裁的鼓励被视为推动员工尝试的重要因素。",
+    "keyPoints": [
+      "住友生命2025年由约100至150人试点 ChatGPT Business，2026年6月转为 ChatGPT Enterprise。",
+      "企划团队用其调研海外保险公司、准备提案，投资团队用其起草风险分析代码。",
+      "公司称企业版周使用率超80%，投资回报按员工自报节省时间估算，整体约203%。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

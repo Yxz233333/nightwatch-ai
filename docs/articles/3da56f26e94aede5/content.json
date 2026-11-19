@@ -1,0 +1,27 @@
+{
+  "id": "3da56f26e94aede5",
+  "section": "news",
+  "category": "工具动态",
+  "title": "深入 Codex 沙箱",
+  "url": "https://openai.com/index/inside-the-codex-sandbox",
+  "date": "2026-11-18",
+  "source": "OpenAI 官方新闻",
+  "recommended": true,
+  "status": "官方技术解读；所述默认权限为文章示例，不改变本站或用户实际权限设置。",
+  "publishedAt": "2026-11-18T08:00:00+00:00",
+  "recommendedOn": "2026-11-19",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "Inside the Codex sandbox",
+  "titleZh": "深入 Codex 沙箱",
+  "summary": "OpenAI 技术员工 Michael Bolin 撰文介绍 Codex 沙箱：Codex 常在用户本机执行命令，因此团队用各操作系统自带的沙箱机制约束命令的文件系统与网络访问，而非把计算搬进虚拟机或容器。",
+  "details": {
+    "overview": "OpenAI 技术员工 Michael Bolin 撰文介绍 Codex 沙箱：Codex 常在用户本机执行命令，因此团队用各操作系统自带的沙箱机制约束命令的文件系统与网络访问，而非把计算搬进虚拟机或容器。文章说明默认权限配置（如 :workspace 允许写工作区、.git 与 .codex 只读、默认断网）、权限配置文件的继承与分层、企业通过 requirements.toml 限制可选配置，以及 codex sandbox 命令和 MCP 服务器加固示例。作者强调沙箱只是纵深防御的一层，仍需训练与对齐配合。",
+    "keyPoints": [
+      "默认 :workspace 允许写工作区，但 .git、.codex 等目录只读，并默认禁用网络访问。",
+      "沙箱复用 macOS、Linux、Windows 各自机制，通过统一 API 启动受约束的子进程。",
+      "codex sandbox 命令可独立于代理会话，为任意命令或 MCP 服务器套用权限配置。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-18T00:06:35.863Z",
+  "syncedAt": "2026-11-19T00:02:30.750Z",
   "articles": [
     {
       "id": "d801af45ebed7c9b",
@@ -5277,7 +5277,7 @@
       "date": "2026-11-18",
       "source": "OpenAI 官方新闻",
       "recommended": false,
-      "status": "官方已发布并在Work/Codex推出；不是普通Chat模型更新，资格与工作区设置适用。",
+      "status": "GPT-6.2 Astra与Sol已作为预览在ChatGPT Work及Codex桌面版提供；不是普通Chat更新，取决于套餐和工作区设置。",
       "publishedAt": "2026-11-17T17:45:00+00:00",
       "titleEn": "Introducing GPT-6.2 Astra and Sol",
       "titleZh": "OpenAI 发布 GPT-6.2 Astra 与 GPT-6.2 Sol",
@@ -5343,6 +5343,50 @@
         ],
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       },
+      "interest": []
+    },
+    {
+      "id": "fd59e5621d7f2c77",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "ChatGPT 实时听写逐步推出",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#live-dictation",
+      "date": "2026-11-18",
+      "source": "ChatGPT 官方发布说明",
+      "recommended": false,
+      "titleZh": "ChatGPT 实时听写逐步推出",
+      "summary": "ChatGPT听写时可实时看到转写文本，官方宣布向全球所有套餐逐步推出。",
+      "details": {
+        "overview": "ChatGPT听写时可实时看到转写文本，官方宣布向全球所有套餐逐步推出。",
+        "keyPoints": [
+          "适用于iOS、Android、网页及桌面端，逐步推出不表示所有账号立即可用。",
+          "录音波形支持显示或隐藏文本，并移除原有10分钟录音限制。"
+        ]
+      },
+      "status": "全球所有套餐逐步推出。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "interest": []
+    },
+    {
+      "id": "e254a46c85743f6a",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "ChatGPT Accounting 插件支持会计工作流",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#accounting-workflows",
+      "date": "2026-11-18",
+      "source": "ChatGPT 官方发布说明",
+      "recommended": false,
+      "titleZh": "ChatGPT Accounting 插件支持会计工作流",
+      "summary": "Accounting插件可辅助核对交易、拟定发票分录和生成月结报告。",
+      "details": {
+        "overview": "Accounting插件可辅助核对交易、拟定发票分录和生成月结报告。",
+        "keyPoints": [
+          "结合记录与模板处理会计工作流，需在macOS或Windows桌面端配置计算机使用。",
+          "能否安装取决于套餐与工作区，Enterprise需管理员批准。"
+        ]
+      },
+      "status": "官方已公布；安装受套餐、工作区及管理员设置限制。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
       "interest": []
     }
   ]

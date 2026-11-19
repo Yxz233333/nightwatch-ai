@@ -1,0 +1,27 @@
+{
+  "id": "16462c9d58941abb",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Genie 4 现已推出",
+  "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+  "date": "2026-11-19",
+  "source": "Google DeepMind 官方博客",
+  "recommended": true,
+  "status": "向符合条件的Google AI Ultra用户逐步推出。",
+  "publishedAt": "2026-11-18T18:13:42+00:00",
+  "recommendedOn": "2026-11-19",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "Genie 4 is now available",
+  "titleZh": "Genie 4 现已推出",
+  "summary": "谷歌正向符合条件的 Google AI Ultra 订阅用户推出 Project Genie 新体验，首次在Project Genie中提供Genie 4访问。",
+  "details": {
+    "overview": "谷歌正向符合条件的 Google AI Ultra 订阅用户推出 Project Genie 新体验，首次在Project Genie中提供Genie 4访问。据发布内容，用户可在探索过程中用自然语言实时修改环境、添加角色并体验随场景变化的自适应原生音频；同时 Genie 3 获得更长会话、360 度全景图作为世界起点、世界串联等升级。新上线的 Project Genie 智能体可通过对话协助搭建世界，社区画廊支持发布、探索与再创作。",
+    "keyPoints": [
+      "Genie 4 支持在会话中键入提示词实时编辑环境，并首次加入随场景变化的自适应原生音频。",
+      "Genie 3 单次生成时长由 60 秒延长至最长 3 分钟，并支持 360 度全景图作为世界起点及多世界串联。",
+      "新智能体以自然语言对话协助构建世界，社区画廊可发布、探索和再创作作品。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

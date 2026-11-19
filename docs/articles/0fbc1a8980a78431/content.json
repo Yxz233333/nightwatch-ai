@@ -1,0 +1,25 @@
+{
+  "id": "0fbc1a8980a78431",
+  "section": "news",
+  "category": "工具动态",
+  "title": "180B参数、32GB内存：用Transformers把MoE推理推到极限",
+  "url": "https://huggingface.co/blog/moe-expert-streaming",
+  "date": "2026-11-18",
+  "source": "Hugging Face 官方博客",
+  "recommended": false,
+  "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "titleEn": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+  "titleZh": "180B参数、32GB内存：用Transformers把MoE推理推到极限",
+  "summary": "作者在32GB统一内存的MacBook M5上，尝试用Transformers运行Qwen3.8-Flash-Next这类大型MoE模型：专家权重经3比特量化后存于磁盘（约49GB），设备端仅保留12GiB有界缓存，只流式读取路由器选中的专家，并配合Metal内核与预取。",
+  "details": {
+    "overview": "作者在32GB统一内存的MacBook M5上，尝试用Transformers运行Qwen3.8-Flash-Next这类大型MoE模型：专家权重经3比特量化后存于磁盘（约49GB），设备端仅保留12GiB有界缓存，只流式读取路由器选中的专家，并配合Metal内核与预取。作者声称最终短解码约13.9 tok/s，与Strata的14.8 tok/s相差约6%，预填速度基本持平；但作者也明确表示这仍慢于其日常使用编码代理的需求，相关实现以Transformers PR形式提出，API仍在讨论中。",
+    "keyPoints": [
+      "将专家缓存改为共享槽池，使grouped_mm可直接运行，OLMoE测试从10.1提升到34.6 tok/s",
+      "专家3比特量化存盘、12GiB设备缓存，加载后约18GiB，6K提示峰值25.4GiB",
+      "短解码13.9 tok/s对Strata 14.8，差距约6%，剩余主要是每token约10ms主机往返"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

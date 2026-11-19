@@ -1,0 +1,26 @@
+{
+  "id": "27211242e5a9b0da",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Streamhouse 中的时间序列模型：新前沿与用例",
+  "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+  "date": "2026-11-18",
+  "source": "Hugging Face 社区博客（原作者发布）",
+  "recommended": true,
+  "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+  "publishedAt": "2026-11-18T15:00:23+00:00",
+  "recommendedOn": "2026-11-19",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+  "titleZh": "Streamhouse 中的时间序列模型：新前沿与用例",
+  "summary": "IBM与Confluent介绍时间序列基础模型在数据流平台的集成。",
+  "details": {
+    "overview": "IBM与Confluent介绍时间序列基础模型在数据流平台的集成。模型可通过Flink SQL做预测与异常检测，云端托管或本地部署，运行无需GPU；相似模式搜索则是需要单独构建应用的示例，不是现成内置搜索功能。",
+    "keyPoints": [
+      "模型作为Confluent原生函数用于预测和异常检测，可在CPU上运行。",
+      "文章展示制造、零售、供应链、支付与交易等用例；部分图示明确为模拟数据。",
+      "TSPulse表示可支持另建相似搜索应用，但需嵌入管线、索引与相关上下文。"
+    ]
+  },
+  "interest": []
+}

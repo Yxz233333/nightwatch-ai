@@ -1,0 +1,27 @@
+{
+  "id": "c0d50d2a248dfbb6",
+  "section": "news",
+  "category": "工具动态",
+  "title": "NVIDIA RTX Spark 紧凑型台式机现已上市",
+  "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+  "date": "2026-11-18",
+  "source": "NVIDIA 官方博客",
+  "recommended": true,
+  "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+  "publishedAt": "2026-11-18T14:00:31+00:00",
+  "recommendedOn": "2026-11-19",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "NVIDIA RTX Spark Compact Desktops Out Now",
+  "titleZh": "NVIDIA RTX Spark 紧凑型台式机现已上市",
+  "summary": "NVIDIA 宣布，ASUS、Dell 和 MSI 的 RTX Spark 紧凑型台式机已开售，Acer、GIGABYTE、HP 与 Microsoft 的产品将陆续推出。",
+  "details": {
+    "overview": "NVIDIA 宣布，ASUS、Dell 和 MSI 的 RTX Spark 紧凑型台式机已开售，Acer、GIGABYTE、HP 与 Microsoft 的产品将陆续推出。原文称这些机型搭载 20 核 Grace CPU、Blackwell RTX GPU 与最高 128GB 统一内存，面向本地 AI 智能体、图像视频生成和模型微调，并配套 Adobe、Blender、ComfyUI 等软件更新。原文还提到 Windows Server 2028 将支持 DGX Station for Windows。",
+    "keyPoints": [
+      "ASUS、Dell、MSI 的 RTX Spark 紧凑型台式机已开售，更多厂商机型将陆续推出。",
+      "原文称其最高配 128GB 统一内存，可本地运行 1200 亿参数大模型。",
+      "文章同时介绍Adobe、Blender 5.3及ComfyUI生态进展；其中部分功能已先行可用，不全是当日新增。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

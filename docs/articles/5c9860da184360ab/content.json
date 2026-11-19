@@ -1,0 +1,26 @@
+{
+  "id": "5c9860da184360ab",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "研究加速：参差不齐的前沿",
+  "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+  "date": "2026-11-18",
+  "source": "OpenAI 官方新闻",
+  "recommended": true,
+  "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+  "publishedAt": "2026-11-18T08:00:00+00:00",
+  "recommendedOn": "2026-11-19",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "Research acceleration: The jagged frontier",
+  "titleZh": "研究加速：参差不齐的前沿",
+  "summary": "OpenAI披露内部研究人员使用编码智能体的测量结果：预计需人工2至4小时的任务，估计独立完成成功率由3月23%升至10月46%。",
+  "details": {
+    "overview": "OpenAI披露内部研究人员使用编码智能体的测量结果：预计需人工2至4小时的任务，估计独立完成成功率由3月23%升至10月46%。任务选择与委托方式也会变化，不能将差异全部视作模型能力增长。",
+    "keyPoints": [
+      "2026年8月1日至10月18日任务分解中，监控运行问题的估计无人工干预成功率为79%，推理与服务栈代码为25%。",
+      "按API标价折算，10月研究人员日均使用量中位数相当于2400美元，较9月增长62%；不是实际付款账单。",
+      "安全与对齐方向记录的研究工作周贡献年内接近翻倍，绝对增幅最大；报告只是内部研发的一部分图景。"
+    ]
+  },
+  "interest": []
+}

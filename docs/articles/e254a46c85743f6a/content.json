@@ -1,0 +1,22 @@
+{
+  "id": "e254a46c85743f6a",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT Accounting 插件支持会计工作流",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#accounting-workflows",
+  "date": "2026-11-18",
+  "source": "ChatGPT 官方发布说明",
+  "recommended": false,
+  "titleZh": "ChatGPT Accounting 插件支持会计工作流",
+  "summary": "Accounting插件可辅助核对交易、拟定发票分录和生成月结报告。",
+  "details": {
+    "overview": "Accounting插件可辅助核对交易、拟定发票分录和生成月结报告。",
+    "keyPoints": [
+      "结合记录与模板处理会计工作流，需在macOS或Windows桌面端配置计算机使用。",
+      "能否安装取决于套餐与工作区，Enterprise需管理员批准。"
+    ]
+  },
+  "status": "官方已公布；安装受套餐、工作区及管理员设置限制。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "interest": []
+}

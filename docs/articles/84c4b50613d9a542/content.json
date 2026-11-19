@@ -1,0 +1,26 @@
+{
+  "id": "84c4b50613d9a542",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Rumble-2-Flash：面向40多种语言的开源0.5B语音模型",
+  "url": "https://huggingface.co/blog/rumble-2-flash",
+  "date": "2026-11-18",
+  "source": "Hugging Face 官方博客",
+  "recommended": false,
+  "status": "依据原始发布整理；资格、推出阶段与评测条件见详情。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "titleEn": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+  "titleZh": "Rumble-2-Flash：面向40多种语言的开源0.5B语音模型",
+  "summary": "Reson8 开源了 Apache 2.0 许可的 0.5B 参数语音识别模型 Rumble-2-Flash，支持 40 多种语言并自动检测语种。",
+  "details": {
+    "overview": "Reson8 开源了 Apache 2.0 许可的 0.5B 参数语音识别模型 Rumble-2-Flash，支持 40 多种语言并自动检测语种。发布文章称，它在 Transformers 与 vLLM 中原生运行，无需自定义代码；可控制数字输出形式、填充词与逐字重复，并强制指定语言。速度方面，满批次下可达 7000 以上 RTFx，约一小时音频半秒处理。作者还称其在 302 小时呼叫中心基准上与 30B 的 Nemotron 3.5 Transcribe 大致相当。模型由较大生产模型经 on-policy 蒸馏得到，并用 GOLD 处理师生词表不一致。",
+    "keyPoints": [
+      "模型为 0.5B 参数、Apache 2.0 开源，支持 40 多种语言与自动语种检测。",
+      "原生支持 Transformers 和 vLLM，无需自定义代码或 trust_remote_code。",
+      "作者称满批次吞吐超 7000 RTFx，约一小时音频半秒处理。",
+      "吞吐为满批次测试；呼叫中心对比使用AppTek评分脚本及14种英语口音，不能外推到所有语言和设备。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}
