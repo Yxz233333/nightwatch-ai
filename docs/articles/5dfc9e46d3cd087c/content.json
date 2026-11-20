@@ -1,0 +1,24 @@
+{
+  "id": "5dfc9e46d3cd087c",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Gemini 应用现已登陆低内存 Android 设备",
+  "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+  "date": "2026-11-19",
+  "source": "Google 官方博客",
+  "recommended": false,
+  "publishedAt": "2026-11-18T17:00:00+00:00",
+  "titleEn": "The Gemini app is now available on lower-memory Android devices.",
+  "titleZh": "Gemini 应用现已登陆低内存 Android 设备",
+  "summary": "谷歌 Gemini 应用团队宣布，Gemini 应用已面向符合条件的 Android（Go 版）设备开放，让更多使用低内存手机的用户也能使用这款个人 AI 助手。",
+  "details": {
+    "overview": "谷歌 Gemini 应用团队宣布，Gemini 应用已面向符合条件的 Android（Go 版）设备开放，让更多使用低内存手机的用户也能使用这款个人 AI 助手。作者称团队重新架构了应用，使核心 Gemini 体验能在内存较少的硬件上流畅运行。用户可通过语音对话、用 Gemini Live 以 45 种以上语言练习面试、用摄像头识别笔记或表格进行学习与翻译，或用 Nano Banana 生成自定义图片。用户可从 Google Play 下载，或在部分合作机型上看到预装版本。",
+    "keyPoints": [
+      "Gemini 应用面向符合条件的 Android（Go 版）低内存设备开放。",
+      "团队重新架构应用，使核心体验适配内存较少的硬件。",
+      "支持 Gemini Live 多语言语音对话、摄像头识别与 Nano Banana 生成图片。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

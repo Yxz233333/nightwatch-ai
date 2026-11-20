@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-19T00:02:30.750Z",
+  "syncedAt": "2026-11-20T00:06:14.146Z",
   "articles": [
     {
       "id": "e985bef486a031bf",
@@ -46554,6 +46554,413 @@
       },
       "status": "已定价；交易与交割仍为公告中的预计安排。",
       "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "interest": []
+    },
+    {
+      "id": "1d2980971ef3a30a",
+      "section": "news",
+      "category": "工具动态",
+      "title": "OpenAI 介绍用 Codex 运作的性能工程系统 Performance Factory",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "date": "2026-11-19",
+      "source": "OpenAI 官方工程博客",
+      "recommended": true,
+      "titleZh": "OpenAI 介绍用 Codex 运作的性能工程系统 Performance Factory",
+      "summary": "OpenAI介绍内部Performance Factory：由Codex调查性能告警、查因并提出修复，工程师审查部署后再由智能体核验恢复。",
+      "details": {
+        "overview": "OpenAI介绍内部Performance Factory：由Codex调查性能告警、查因并提出修复，工程师审查部署后再由智能体核验恢复。",
+        "keyPoints": [
+          "系统以任务工作流、分派循环、云端Codex执行和事件订阅衔接各步骤，不依赖单次聊天持续运行。",
+          "官方称三个月多追踪1700余次调查、查明600余例原因；人工抽查100个查因建议时70%准确，仍需审查。",
+          "这是内部工程实践介绍，不是宣布所有用户获得自动部署功能。"
+        ]
+      },
+      "publishedAt": "2026-11-19T08:00:00Z",
+      "status": "内部生产实践；拟议修复仍经工程师审查。",
+      "recommendedOn": "2026-11-20",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "interest": []
+    },
+    {
+      "id": "9cc69568136349bf",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Codex Security 插件官方演示",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "date": "2026-11-19",
+      "source": "OpenAI 官方产品演示",
+      "recommended": false,
+      "titleZh": "Codex Security 插件官方演示",
+      "summary": "OpenAI发布Codex Security插件产品演示页面，介绍从开始使用到查看录像中结果的工作流。",
+      "details": {
+        "overview": "OpenAI发布Codex Security插件产品演示页面，介绍从开始使用到查看录像中结果的工作流。",
+        "keyPoints": [
+          "页面提供产品演示入口。",
+          "可读正文未列具体扫描能力、套餐、覆盖语言或可用地区，不据此推断新增功能已向所有用户开放。"
+        ]
+      },
+      "status": "官方演示已发布；仅归档可核实文字，具体功能与资格未详。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "interest": []
+    },
+    {
+      "id": "fba35ae0a90750ea",
+      "section": "news",
+      "category": "工具动态",
+      "title": "PR 扫描工作流官方演示",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "date": "2026-11-19",
+      "source": "OpenAI 官方产品演示",
+      "recommended": false,
+      "titleZh": "PR 扫描工作流官方演示",
+      "summary": "OpenAI发布PR扫描演示页，展示在拉取请求工作流中查看扫描结果。",
+      "details": {
+        "overview": "OpenAI发布PR扫描演示页，展示在拉取请求工作流中查看扫描结果。",
+        "keyPoints": [
+          "页面介绍演示者检查PR扫描结果的过程。",
+          "公开可读文字未给出具体规则和资格条件；演示发布不等于当日首次上线该功能。"
+        ]
+      },
+      "status": "官方演示已发布；仅归档可核实文字，具体功能与资格未详。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "interest": []
+    },
+    {
+      "id": "6c0da64850928619",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Daybreak Blue 入门官方演示",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "date": "2026-11-19",
+      "source": "OpenAI 官方产品演示",
+      "recommended": false,
+      "titleZh": "Daybreak Blue 入门官方演示",
+      "summary": "OpenAI发布Daybreak Blue入门演示页，聚焦设置体验和开始使用的步骤。",
+      "details": {
+        "overview": "OpenAI发布Daybreak Blue入门演示页，聚焦设置体验和开始使用的步骤。",
+        "keyPoints": [
+          "原页定位为产品演示。",
+          "可读正文未列详细设置步骤、套餐或开放范围，需查看原始演示；不补写未核实说明。"
+        ]
+      },
+      "status": "官方演示已发布；仅归档可核实文字，具体功能与资格未详。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "interest": []
+    },
+    {
+      "id": "f7ca781cbebda728",
+      "section": "news",
+      "category": "工具动态",
+      "title": "NVIDIA与微软将加速计算从Azure扩展至Windows PC",
+      "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+      "date": "2026-11-20",
+      "source": "NVIDIA 官方博客",
+      "recommended": true,
+      "publishedAt": "2026-11-19T20:00:15+00:00",
+      "status": "官方合作与产品动态，已可用及未来计划见详情。",
+      "recommendedOn": "2026-11-20",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+      "titleZh": "NVIDIA与微软将加速计算从Azure扩展至Windows PC",
+      "summary": "NVIDIA与微软在Ignite介绍Azure至本地计算的合作进展。",
+      "details": {
+        "overview": "NVIDIA与微软在Ignite介绍Azure至本地计算的合作进展。Azure数据中心中的Vera Rubin NVL72仍属预览；Foundry模型扩展包含将来推出的项目，Windows PC本地大模型属于展会演示。",
+        "keyPoints": [
+          "Azure Vera Rubin预览面向训练、推理和智能体负载，不表述为全面正式可用。",
+          "Foundry扩展NVIDIA开放模型能力；Nemotron 3.5 Bolt和Transcribe仍为即将推出。",
+          "Foundry Local、Azure Local及Windows PC为本地与边缘方向，展会展示不等于全部能力已经发布。"
+        ]
+      },
+      "interest": []
+    },
+    {
+      "id": "1b8a51336bdd56df",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Gemini API 推出工具检索功能",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "date": "2026-11-20",
+      "source": "Google 官方博客",
+      "recommended": true,
+      "publishedAt": "2026-11-19T18:00:00+00:00",
+      "recommendedOn": "2026-11-20",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "Introducing Tool Retrieval in the Gemini API",
+      "titleZh": "Gemini API 推出工具检索功能",
+      "summary": "Google发布Gemini API Tool Retrieval预览，在Interactions API中为大量工具提供按需检索，适用于Gemini 3.6及后续模型，包括Gemini 4。",
+      "details": {
+        "overview": "Google发布Gemini API Tool Retrieval预览，在Interactions API中为大量工具提供按需检索，适用于Gemini 3.6及后续模型，包括Gemini 4。",
+        "keyPoints": [
+          "通过tool_search及defer_loading按需加载工具参数模式；服务端与客户端自建检索是两种模式。",
+          "模型可先看到工具名称与描述，需要时检索参数；支持远程MCP。",
+          "token与延迟收益取决于工具模式实际加载比例，应按自己的流量评估，不保证所有请求都更快。"
+        ]
+      },
+      "interest": []
+    },
+    {
+      "id": "16c6aff1cb0baeeb",
+      "section": "news",
+      "category": "工具动态",
+      "title": "沃尔特·艾萨克森谈AI时代的好奇心与创造力",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "date": "2026-11-20",
+      "source": "Google 官方博客",
+      "recommended": true,
+      "publishedAt": "2026-11-19T17:00:00+00:00",
+      "recommendedOn": "2026-11-20",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。",
+      "titleEn": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "titleZh": "沃尔特·艾萨克森谈AI时代的好奇心与创造力",
+      "summary": "这是谷歌“技术与社会的对话”节目的一期内容，肯特·沃克与传记作家、历史学家沃尔特·艾萨克森对谈，借达·芬奇、本杰明·富兰克林和艾达·洛夫莱斯等人物，讨论AI时代的好奇心与创造力。",
+      "details": {
+        "overview": "这是谷歌“技术与社会的对话”节目的一期内容，肯特·沃克与传记作家、历史学家沃尔特·艾萨克森对谈，借达·芬奇、本杰明·富兰克林和艾达·洛夫莱斯等人物，讨论AI时代的好奇心与创造力。原文称，历史上的重大突破往往是团队协作的成果，并强调在信息随手可得的今天，好奇心与人的判断力比以往更重要。材料未展开具体论证或研究细节。",
+        "keyPoints": [
+          "对谈以达·芬奇、富兰克林、洛夫莱斯为例，讨论AI时代创造力的来源。",
+          "原文称历史重大突破多为团队协作，而非个人孤立灵感。",
+          "强调信息唾手可得时，好奇心与人的判断力更重要。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "5dfc9e46d3cd087c",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Gemini 应用现已登陆低内存 Android 设备",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "date": "2026-11-19",
+      "source": "Google 官方博客",
+      "recommended": false,
+      "publishedAt": "2026-11-18T17:00:00+00:00",
+      "titleEn": "The Gemini app is now available on lower-memory Android devices.",
+      "titleZh": "Gemini 应用现已登陆低内存 Android 设备",
+      "summary": "谷歌 Gemini 应用团队宣布，Gemini 应用已面向符合条件的 Android（Go 版）设备开放，让更多使用低内存手机的用户也能使用这款个人 AI 助手。",
+      "details": {
+        "overview": "谷歌 Gemini 应用团队宣布，Gemini 应用已面向符合条件的 Android（Go 版）设备开放，让更多使用低内存手机的用户也能使用这款个人 AI 助手。作者称团队重新架构了应用，使核心 Gemini 体验能在内存较少的硬件上流畅运行。用户可通过语音对话、用 Gemini Live 以 45 种以上语言练习面试、用摄像头识别笔记或表格进行学习与翻译，或用 Nano Banana 生成自定义图片。用户可从 Google Play 下载，或在部分合作机型上看到预装版本。",
+        "keyPoints": [
+          "Gemini 应用面向符合条件的 Android（Go 版）低内存设备开放。",
+          "团队重新架构应用，使核心体验适配内存较少的硬件。",
+          "支持 Gemini Live 多语言语音对话、摄像头识别与 Nano Banana 生成图片。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "0b4ccade4711c343",
+      "section": "news",
+      "category": "工具动态",
+      "title": "让 Gemini 为你工作",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "date": "2026-11-18",
+      "source": "Google 官方博客",
+      "recommended": false,
+      "publishedAt": "2026-11-17T17:00:00+00:00",
+      "titleEn": "Put Gemini to work for you",
+      "titleZh": "让 Gemini 为你工作",
+      "summary": "Google介绍Gemini任务模式，免费更新正向美国、日本、韩国、加拿大、澳大利亚和印度推出；部分进阶能力先在美国提供。",
+      "details": {
+        "overview": "Google介绍Gemini任务模式，免费更新正向美国、日本、韩国、加拿大、澳大利亚和印度推出；部分进阶能力先在美国提供。任务仍可能失败。",
+        "keyPoints": [
+          "可辅助分析账单、处理日程和购物加购；Instacart示例由Gemini交接至Instacart完成订单，不是自行结账。",
+          "代打电话有地区限制，印第安纳、路易斯安那、明尼苏达、蒙大拿和内布拉斯加暂不可用。",
+          "任务使用硬件隔离虚拟机；购买前需确认或预先批准，部分常规动作可设置Always allow。"
+        ]
+      },
+      "interest": []
+    },
+    {
+      "id": "65fa68a6f23c8653",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Ask Maps 推出新功能，助力假日出行与准备",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "date": "2026-11-16",
+      "source": "Google 官方博客",
+      "recommended": false,
+      "publishedAt": "2026-11-16T14:00:00+00:00",
+      "titleEn": "New Ask Maps features to help with holiday travel and prep",
+      "titleZh": "Ask Maps 推出新功能，助力假日出行与准备",
+      "summary": "Google Maps介绍Ask Maps的行程、清单搜索与出行提示更新。",
+      "details": {
+        "overview": "Google Maps介绍Ask Maps的行程、清单搜索与出行提示更新。行程及清单搜索覆盖已提供Ask Maps的地区；出行提示和查找预约时段先在美国推出。",
+        "keyPoints": [
+          "可生成逐日行程并分享；导出Google Docs为桌面端操作。",
+          "可选择让Ask Maps查找服务时段并代打电话联系本地商家，不保证预约成功。",
+          "出发前提示涉及停车、充电、天气、延误和收费；须按地区实际开放情况使用。"
+        ]
+      },
+      "interest": []
+    },
+    {
+      "id": "03c20ab73014e506",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Google 搜索迎来重大升级：引入 Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "date": "2026-11-13",
+      "source": "Google 官方博客",
+      "recommended": false,
+      "publishedAt": "2026-11-12T18:00:00+00:00",
+      "titleEn": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "titleZh": "Google 搜索迎来重大升级：引入 Gemini 4 Hydrogen",
+      "summary": "谷歌搜索产品副总裁 Robby Stein 宣布，将 Gemini 4 Hydrogen 模型全球上线到 Google 搜索，称这是搜索迄今最大的一次模型升级。",
+      "details": {
+        "overview": "谷歌搜索产品副总裁 Robby Stein 宣布，将 Gemini 4 Hydrogen 模型全球上线到 Google 搜索，称这是搜索迄今最大的一次模型升级。文章表示，新模型能更准确理解用户意图，处理多部分复杂问题、拼写错误和高度具体的请求，并通过改进的查询扩展同时检索多个子主题，提供更多相关链接。回答形式也更视觉化，包含图片、结构化内容、对比表格和定制工具，并覆盖所有受支持的 AI 模式语言。",
+        "keyPoints": [
+          "Gemini 4 Hydrogen 面向所有用户全球上线 Google 搜索，被称搜索迄今最大模型升级。",
+          "新模型强化意图理解与工具调用，可处理多部分问题、拼写错误和高度具体请求。",
+          "改进查询扩展与链接，回答增加图片、对比表格和定制工具等视觉化内容。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "d43b7b9e979c7c23",
+      "section": "news",
+      "category": "模型动态",
+      "title": "Gemini Decisions API：快速、校准的多模态决策",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "date": "2026-11-12",
+      "source": "Google 官方博客",
+      "recommended": false,
+      "publishedAt": "2026-11-11T18:00:00+00:00",
+      "titleEn": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "titleZh": "Gemini Decisions API：快速、校准的多模态决策",
+      "summary": "谷歌发布 Gemini Decisions API，由新模型 Gemini Decision 1 驱动，面向工具选择、策略检查、模型路由、上下文评分等封闭集合决策。",
+      "details": {
+        "overview": "谷歌发布 Gemini Decisions API，由新模型 Gemini Decision 1 驱动，面向工具选择、策略检查、模型路由、上下文评分等封闭集合决策。官方称可一次传入文本、图像、音频、视频和 PDF（最多 256K token）及最多 1000 个独立问题，模型不逐 token 生成答案，而是单次前向打分，返回概率与置信度，端到端延迟 150-250 毫秒，输入定价每百万 token 0.10 美元、输出不计费。文中还列举 Gemini Notebook 路由、Stitch 设计迭代、CC 表情选择及搜索 MCP 工具安全层等内部用例。",
+        "keyPoints": [
+          "支持是/否、多选（2-255 项）和有序评分三类问题，每个答案附 0 到 1 置信度。",
+          "单次请求共享输入只计费一次，问题仅增加自身指令与标准 token，输出 token 不计费。",
+          "官方称在代理路由、推理、排序和多模态理解基准上领先，且校准误差最低。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "d9ada1194ee63a5e",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Try Tabletop：可定制、可协作的空间，让群组一起规划、游玩并完成更多事情",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "date": "2026-11-12",
+      "source": "Google 官方博客",
+      "recommended": false,
+      "publishedAt": "2026-11-11T16:00:00+00:00",
+      "titleEn": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "titleZh": "Try Tabletop：可定制、可协作的空间，让群组一起规划、游玩并完成更多事情",
+      "summary": "谷歌实验室推出名为 Tabletop 的实验性产品，定位为面向群组的实时协作空间。",
+      "details": {
+        "overview": "谷歌实验室推出名为 Tabletop 的实验性产品，定位为面向群组的实时协作空间。用户可加入链接、文件和想法，通过 @tabletop 或选择起始模板，生成行程表、晚餐投票、费用分摊和锦标赛对阵表等互动内容；建好后把邀请链接发到群聊，成员可像在 Google 文档中一样同时进入使用。该产品目前通过等候名单在美国面向 18 岁以上用户推出。",
+        "keyPoints": [
+          "Tabletop 是 Google Labs 的实时协作实验，支持多人同时进入同一空间操作。",
+          "可通过 @tabletop 或模板生成行程、投票、费用分摊、对阵表等互动内容。",
+          "目前以等候名单方式在美国面向 18 岁以上用户推出。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "05c8e4e69cd8768e",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Gemini Intelligence：新功能登陆更多设备",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "date": "2026-11-11",
+      "source": "Google 官方博客",
+      "recommended": false,
+      "publishedAt": "2026-11-10T19:00:00+00:00",
+      "titleEn": "Gemini Intelligence: New features, on more devices",
+      "titleZh": "Gemini Intelligence：新功能登陆更多设备",
+      "summary": "Google宣布Gemini Intelligence扩展至motorola signature 27及Pixel 10系列，并公布口述整理、任务自动化和小部件等进展。",
+      "details": {
+        "overview": "Google宣布Gemini Intelligence扩展至motorola signature 27及Pixel 10系列，并公布口述整理、任务自动化和小部件等进展。部分功能仍逐步推出，取决于设备、地区、语言、年龄和订阅。",
+        "keyPoints": [
+          "motorola signature 27计划11月19日在美国开放预订；此处保留11月10日公告中的计划时态。",
+          "Rambler 4在Gboard中整理口述文字，限指定国家和语言并有使用次数限制；任务自动化面向18岁以上等符合资格用户。",
+          "Create My Widget未来数周逐步推出并计划扩展至Pixel Watch；Device Assistance限Android 17或更新的指定设备，其他功能条件见原文。"
+        ]
+      },
+      "interest": []
+    },
+    {
+      "id": "40c4eacf606e3566",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Google 与 Adobe 扩大创意及生产力工具合作",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "date": "2026-11-10",
+      "source": "Google 官方博客",
+      "recommended": false,
+      "publishedAt": "2026-11-10T14:00:00+00:00",
+      "titleEn": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "titleZh": "Google 与 Adobe 扩大创意及生产力工具合作",
+      "summary": "谷歌在Adobe MAX上宣布扩大与Adobe的合作：把Adobe的创意与生产力工具更直接地接入Google日常应用，同时把谷歌的前沿AI模型引入Adobe应用。",
+      "details": {
+        "overview": "谷歌在Adobe MAX上宣布扩大与Adobe的合作：把Adobe的创意与生产力工具更直接地接入Google日常应用，同时把谷歌的前沿AI模型引入Adobe应用。具体包括从Google Drive和Gmail进入Adobe Acrobat的通道、在文件预览中提供“Edit with”入口，Adobe在Gemini与Gemini Enterprise中扩展Acrobat等连接器，并将创意工具带入Google搜索的AI Mode；企业未来将能在Gemini Enterprise中使用Adobe CX Enterprise Coworker代理。双方还将探索面向创意专业人士的编辑能力。",
+        "keyPoints": [
+          "Google Drive与Gmail将提供通往Adobe Acrobat的入口，文件预览中会出现“Edit with”选项。",
+          "Adobe将在Gemini和Gemini Enterprise中扩展Acrobat等连接器，并把创意工具带入Google搜索AI Mode。",
+          "企业未来将能在Gemini Enterprise使用Adobe CX Enterprise Coworker；Adobe与Google DeepMind另在探索Photoshop图像模型，可能支持近实时编辑。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "status": "合作公告包含未来集成与探索项目；不视作全部已开放。",
+      "interest": []
+    },
+    {
+      "id": "891d68c7d6b6d16e",
+      "section": "news",
+      "category": "工具动态",
+      "title": "Google Cloud 推出面向医疗健康的 Gemini",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "date": "2026-11-10",
+      "source": "Google 官方博客",
+      "recommended": false,
+      "publishedAt": "2026-11-10T13:00:00+00:00",
+      "titleEn": "Google Cloud launches Gemini for healthcare.",
+      "titleZh": "Google Cloud 推出面向医疗健康的 Gemini",
+      "summary": "Google Cloud 宣布推出面向医疗健康的 Gemini 解决方案，目标是整合分散的临床、运营与行政系统。",
+      "details": {
+        "overview": "Google Cloud 宣布推出面向医疗健康的 Gemini 解决方案，目标是整合分散的临床、运营与行政系统。该平台通过专用技能与数据连接器接入电子健康记录、计费平台、临床指南和 Medicare 数据集，在既定护栏与人工监督下编排多步骤工作流，例如病历综合与事先授权审核。稿件称其初期以预览形式与 HCA Healthcare、Highmark Health、Northwell Health 等合作方推出，意在缓解瓶颈、为患者护理腾出员工时间。",
+        "keyPoints": [
+          "平台整合电子健康记录、计费平台、临床指南与 Medicare 数据集等多源信息。",
+          "可在既定护栏和人工监督下编排病历综合、事先授权审核等多步骤工作流。",
+          "初期以预览形式与 HCA Healthcare、Highmark Health、Northwell Health 等合作方推出。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "interest": []
+    },
+    {
+      "id": "ec77e46fe8075dbf",
+      "section": "news",
+      "category": "模型动态",
+      "title": "Gemini Omni 1.2 Flash：更快、更具成本效益，支持更长片段",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "date": "2026-11-06",
+      "source": "Google 官方博客",
+      "recommended": false,
+      "publishedAt": "2026-11-05T17:00:00+00:00",
+      "titleEn": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "titleZh": "Gemini Omni 1.2 Flash：更快、更具成本效益，支持更长片段",
+      "summary": "谷歌DeepMind发布Gemini Omni 1.2 Flash视频生成模型，原生支持最长15秒片段，可按1秒步长指定3至15秒时长。",
+      "details": {
+        "overview": "谷歌DeepMind发布Gemini Omni 1.2 Flash视频生成模型，原生支持最长15秒片段，可按1秒步长指定3至15秒时长。相比1.1版本，价格下调30%，720p视频为每秒0.07美元；增强参考图遵循能力，人物、产品与品牌元素在多角度和转场中更一致；支持多轮对话式编辑，可逐轮替换产品或背景而无需重新生成。该模型已在Gemini API和Google Cloud正式可用，并介绍Flow、Google Vids、Gemini应用和Google Ads等产品入口；Gemini应用向AI Ultra订阅者逐步推出，Vids免费使用需符合Google账号或Workspace条件。",
+        "keyPoints": [
+          "原生支持最长15秒视频，可按1秒步长指定3至15秒时长。",
+          "价格较1.1版本下调30%，720p视频为每秒0.07美元。",
+          "支持多轮对话式编辑，可逐轮替换产品或背景而无需重新生成。"
+        ],
+        "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+      },
+      "status": "API等入口正式可用；Gemini应用仍按AI Ultra资格逐步推出。",
       "interest": []
     }
   ]

@@ -1,0 +1,25 @@
+{
+  "id": "1b8a51336bdd56df",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Gemini API 推出工具检索功能",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+  "date": "2026-11-20",
+  "source": "Google 官方博客",
+  "recommended": true,
+  "publishedAt": "2026-11-19T18:00:00+00:00",
+  "recommendedOn": "2026-11-20",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "Introducing Tool Retrieval in the Gemini API",
+  "titleZh": "Gemini API 推出工具检索功能",
+  "summary": "Google发布Gemini API Tool Retrieval预览，在Interactions API中为大量工具提供按需检索，适用于Gemini 3.6及后续模型，包括Gemini 4。",
+  "details": {
+    "overview": "Google发布Gemini API Tool Retrieval预览，在Interactions API中为大量工具提供按需检索，适用于Gemini 3.6及后续模型，包括Gemini 4。",
+    "keyPoints": [
+      "通过tool_search及defer_loading按需加载工具参数模式；服务端与客户端自建检索是两种模式。",
+      "模型可先看到工具名称与描述，需要时检索参数；支持远程MCP。",
+      "token与延迟收益取决于工具模式实际加载比例，应按自己的流量评估，不保证所有请求都更快。"
+    ]
+  },
+  "interest": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "05c8e4e69cd8768e",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Gemini Intelligence：新功能登陆更多设备",
+  "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+  "date": "2026-11-11",
+  "source": "Google 官方博客",
+  "recommended": false,
+  "publishedAt": "2026-11-10T19:00:00+00:00",
+  "titleEn": "Gemini Intelligence: New features, on more devices",
+  "titleZh": "Gemini Intelligence：新功能登陆更多设备",
+  "summary": "Google宣布Gemini Intelligence扩展至motorola signature 27及Pixel 10系列，并公布口述整理、任务自动化和小部件等进展。",
+  "details": {
+    "overview": "Google宣布Gemini Intelligence扩展至motorola signature 27及Pixel 10系列，并公布口述整理、任务自动化和小部件等进展。部分功能仍逐步推出，取决于设备、地区、语言、年龄和订阅。",
+    "keyPoints": [
+      "motorola signature 27计划11月19日在美国开放预订；此处保留11月10日公告中的计划时态。",
+      "Rambler 4在Gboard中整理口述文字，限指定国家和语言并有使用次数限制；任务自动化面向18岁以上等符合资格用户。",
+      "Create My Widget未来数周逐步推出并计划扩展至Pixel Watch；Device Assistance限Android 17或更新的指定设备，其他功能条件见原文。"
+    ]
+  },
+  "interest": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "40c4eacf606e3566",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Google 与 Adobe 扩大创意及生产力工具合作",
+  "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+  "date": "2026-11-10",
+  "source": "Google 官方博客",
+  "recommended": false,
+  "publishedAt": "2026-11-10T14:00:00+00:00",
+  "titleEn": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+  "titleZh": "Google 与 Adobe 扩大创意及生产力工具合作",
+  "summary": "谷歌在Adobe MAX上宣布扩大与Adobe的合作：把Adobe的创意与生产力工具更直接地接入Google日常应用，同时把谷歌的前沿AI模型引入Adobe应用。",
+  "details": {
+    "overview": "谷歌在Adobe MAX上宣布扩大与Adobe的合作：把Adobe的创意与生产力工具更直接地接入Google日常应用，同时把谷歌的前沿AI模型引入Adobe应用。具体包括从Google Drive和Gmail进入Adobe Acrobat的通道、在文件预览中提供“Edit with”入口，Adobe在Gemini与Gemini Enterprise中扩展Acrobat等连接器，并将创意工具带入Google搜索的AI Mode；企业未来将能在Gemini Enterprise中使用Adobe CX Enterprise Coworker代理。双方还将探索面向创意专业人士的编辑能力。",
+    "keyPoints": [
+      "Google Drive与Gmail将提供通往Adobe Acrobat的入口，文件预览中会出现“Edit with”选项。",
+      "Adobe将在Gemini和Gemini Enterprise中扩展Acrobat等连接器，并把创意工具带入Google搜索AI Mode。",
+      "企业未来将能在Gemini Enterprise使用Adobe CX Enterprise Coworker；Adobe与Google DeepMind另在探索Photoshop图像模型，可能支持近实时编辑。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "status": "合作公告包含未来集成与探索项目；不视作全部已开放。",
+  "interest": []
+}

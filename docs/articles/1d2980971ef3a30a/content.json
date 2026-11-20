@@ -1,0 +1,25 @@
+{
+  "id": "1d2980971ef3a30a",
+  "section": "news",
+  "category": "工具动态",
+  "title": "OpenAI 介绍用 Codex 运作的性能工程系统 Performance Factory",
+  "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+  "date": "2026-11-19",
+  "source": "OpenAI 官方工程博客",
+  "recommended": true,
+  "titleZh": "OpenAI 介绍用 Codex 运作的性能工程系统 Performance Factory",
+  "summary": "OpenAI介绍内部Performance Factory：由Codex调查性能告警、查因并提出修复，工程师审查部署后再由智能体核验恢复。",
+  "details": {
+    "overview": "OpenAI介绍内部Performance Factory：由Codex调查性能告警、查因并提出修复，工程师审查部署后再由智能体核验恢复。",
+    "keyPoints": [
+      "系统以任务工作流、分派循环、云端Codex执行和事件订阅衔接各步骤，不依赖单次聊天持续运行。",
+      "官方称三个月多追踪1700余次调查、查明600余例原因；人工抽查100个查因建议时70%准确，仍需审查。",
+      "这是内部工程实践介绍，不是宣布所有用户获得自动部署功能。"
+    ]
+  },
+  "publishedAt": "2026-11-19T08:00:00Z",
+  "status": "内部生产实践；拟议修复仍经工程师审查。",
+  "recommendedOn": "2026-11-20",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "interest": []
+}

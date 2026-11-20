@@ -1,0 +1,22 @@
+{
+  "id": "cc19c63d3d0252b9",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT 移动端新界面开始灰度推出",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-mobile-experience",
+  "date": "2026-11-19",
+  "source": "ChatGPT 官方发布说明",
+  "recommended": false,
+  "titleZh": "ChatGPT 移动端新界面开始灰度推出",
+  "summary": "ChatGPT移动端开始推出新界面：dot有独立标签，可把Codex、Projects和Images等常用功能固定到标签栏。",
+  "details": {
+    "overview": "ChatGPT移动端开始推出新界面：dot有独立标签，可把Codex、Projects和Images等常用功能固定到标签栏。",
+    "keyPoints": [
+      "首批面向dot已开放地区、年满18岁的Pro用户，并包括少量符合条件的Plus用户。",
+      "排除欧洲经济区（含欧盟）、英国、瑞士和韩国；部分符合条件Pro用户默认启用，设置出现New ChatGPT design时可开关。"
+    ]
+  },
+  "status": "灰度推出；有年龄、地区和套餐条件。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "interest": []
+}

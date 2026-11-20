@@ -1,0 +1,23 @@
+{
+  "id": "0b4ccade4711c343",
+  "section": "news",
+  "category": "工具动态",
+  "title": "让 Gemini 为你工作",
+  "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+  "date": "2026-11-18",
+  "source": "Google 官方博客",
+  "recommended": false,
+  "publishedAt": "2026-11-17T17:00:00+00:00",
+  "titleEn": "Put Gemini to work for you",
+  "titleZh": "让 Gemini 为你工作",
+  "summary": "Google介绍Gemini任务模式，免费更新正向美国、日本、韩国、加拿大、澳大利亚和印度推出；部分进阶能力先在美国提供。",
+  "details": {
+    "overview": "Google介绍Gemini任务模式，免费更新正向美国、日本、韩国、加拿大、澳大利亚和印度推出；部分进阶能力先在美国提供。任务仍可能失败。",
+    "keyPoints": [
+      "可辅助分析账单、处理日程和购物加购；Instacart示例由Gemini交接至Instacart完成订单，不是自行结账。",
+      "代打电话有地区限制，印第安纳、路易斯安那、明尼苏达、蒙大拿和内布拉斯加暂不可用。",
+      "任务使用硬件隔离虚拟机；购买前需确认或预先批准，部分常规动作可设置Always allow。"
+    ]
+  },
+  "interest": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "f7ca781cbebda728",
+  "section": "news",
+  "category": "工具动态",
+  "title": "NVIDIA与微软将加速计算从Azure扩展至Windows PC",
+  "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+  "date": "2026-11-20",
+  "source": "NVIDIA 官方博客",
+  "recommended": true,
+  "publishedAt": "2026-11-19T20:00:15+00:00",
+  "status": "官方合作与产品动态，已可用及未来计划见详情。",
+  "recommendedOn": "2026-11-20",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "titleEn": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+  "titleZh": "NVIDIA与微软将加速计算从Azure扩展至Windows PC",
+  "summary": "NVIDIA与微软在Ignite介绍Azure至本地计算的合作进展。",
+  "details": {
+    "overview": "NVIDIA与微软在Ignite介绍Azure至本地计算的合作进展。Azure数据中心中的Vera Rubin NVL72仍属预览；Foundry模型扩展包含将来推出的项目，Windows PC本地大模型属于展会演示。",
+    "keyPoints": [
+      "Azure Vera Rubin预览面向训练、推理和智能体负载，不表述为全面正式可用。",
+      "Foundry扩展NVIDIA开放模型能力；Nemotron 3.5 Bolt和Transcribe仍为即将推出。",
+      "Foundry Local、Azure Local及Windows PC为本地与边缘方向，展会展示不等于全部能力已经发布。"
+    ]
+  },
+  "interest": []
+}

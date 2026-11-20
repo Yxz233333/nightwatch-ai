@@ -1,0 +1,24 @@
+{
+  "id": "03c20ab73014e506",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Google 搜索迎来重大升级：引入 Gemini 4 Hydrogen",
+  "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+  "date": "2026-11-13",
+  "source": "Google 官方博客",
+  "recommended": false,
+  "publishedAt": "2026-11-12T18:00:00+00:00",
+  "titleEn": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+  "titleZh": "Google 搜索迎来重大升级：引入 Gemini 4 Hydrogen",
+  "summary": "谷歌搜索产品副总裁 Robby Stein 宣布，将 Gemini 4 Hydrogen 模型全球上线到 Google 搜索，称这是搜索迄今最大的一次模型升级。",
+  "details": {
+    "overview": "谷歌搜索产品副总裁 Robby Stein 宣布，将 Gemini 4 Hydrogen 模型全球上线到 Google 搜索，称这是搜索迄今最大的一次模型升级。文章表示，新模型能更准确理解用户意图，处理多部分复杂问题、拼写错误和高度具体的请求，并通过改进的查询扩展同时检索多个子主题，提供更多相关链接。回答形式也更视觉化，包含图片、结构化内容、对比表格和定制工具，并覆盖所有受支持的 AI 模式语言。",
+    "keyPoints": [
+      "Gemini 4 Hydrogen 面向所有用户全球上线 Google 搜索，被称搜索迄今最大模型升级。",
+      "新模型强化意图理解与工具调用，可处理多部分问题、拼写错误和高度具体请求。",
+      "改进查询扩展与链接，回答增加图片、对比表格和定制工具等视觉化内容。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

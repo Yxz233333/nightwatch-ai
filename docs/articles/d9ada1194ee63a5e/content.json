@@ -1,0 +1,24 @@
+{
+  "id": "d9ada1194ee63a5e",
+  "section": "news",
+  "category": "工具动态",
+  "title": "Try Tabletop：可定制、可协作的空间，让群组一起规划、游玩并完成更多事情",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+  "date": "2026-11-12",
+  "source": "Google 官方博客",
+  "recommended": false,
+  "publishedAt": "2026-11-11T16:00:00+00:00",
+  "titleEn": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+  "titleZh": "Try Tabletop：可定制、可协作的空间，让群组一起规划、游玩并完成更多事情",
+  "summary": "谷歌实验室推出名为 Tabletop 的实验性产品，定位为面向群组的实时协作空间。",
+  "details": {
+    "overview": "谷歌实验室推出名为 Tabletop 的实验性产品，定位为面向群组的实时协作空间。用户可加入链接、文件和想法，通过 @tabletop 或选择起始模板，生成行程表、晚餐投票、费用分摊和锦标赛对阵表等互动内容；建好后把邀请链接发到群聊，成员可像在 Google 文档中一样同时进入使用。该产品目前通过等候名单在美国面向 18 岁以上用户推出。",
+    "keyPoints": [
+      "Tabletop 是 Google Labs 的实时协作实验，支持多人同时进入同一空间操作。",
+      "可通过 @tabletop 或模板生成行程、投票、费用分摊、对阵表等互动内容。",
+      "目前以等候名单方式在美国面向 18 岁以上用户推出。"
+    ],
+    "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
+  },
+  "interest": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "b78e1d62ce360573",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT Health 扩展至 Android、桌面端、dots 和 sites",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-on-android-desktop-dots-and-sites",
+  "date": "2026-11-19",
+  "source": "ChatGPT 官方发布说明",
+  "recommended": false,
+  "titleZh": "ChatGPT Health 扩展至 Android、桌面端、dots 和 sites",
+  "summary": "ChatGPT Health逐步扩展至Android、桌面应用、dots及sites，并支持连接Android Health Connect。",
+  "details": {
+    "overview": "ChatGPT Health逐步扩展至Android、桌面应用、dots及sites，并支持连接Android Health Connect。",
+    "keyPoints": [
+      "可结合连接的睡眠和活动信息探索规律，使用dot建议或通过桌面应用创建训练进度网站。",
+      "Health限美国Free、Go、Plus和Pro用户；dot目前限Pro。更新应用后从侧栏或Explore寻找Health，逐步推出可能尚未覆盖账号。"
+    ]
+  },
+  "status": "在美国符合条件套餐逐步推出；dot仍限Pro。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "interest": []
+}

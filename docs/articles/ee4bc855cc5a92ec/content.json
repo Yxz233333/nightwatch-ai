@@ -1,0 +1,23 @@
+{
+  "id": "ee4bc855cc5a92ec",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT iOS 1.2026.314：保存侧边聊天与新建任务选择器",
+  "url": "https://learn.chatgpt.com/docs/changelog#chatgpt-ios-1-2026-314",
+  "date": "2026-11-18",
+  "source": "ChatGPT Learn 官方变更日志",
+  "recommended": false,
+  "titleZh": "ChatGPT iOS 1.2026.314：保存侧边聊天与新建任务选择器",
+  "summary": "iOS版更新可在兼容的配对电脑保存侧边聊天，从原任务重新打开；新项目选择器支持Cloud或配对电脑与项目。",
+  "details": {
+    "overview": "iOS版更新可在兼容的配对电脑保存侧边聊天，从原任务重新打开；新项目选择器支持Cloud或配对电脑与项目。",
+    "keyPoints": [
+      "可分别切换代码块及差异的自动换行；iPad可用Command+N开始新Codex任务。",
+      "子智能体指示只计仍运行或等待者；任务菜单可重看已完成智能体及其模型、推理等级。",
+      "修复任务通知后输入框失灵、会话跳动、视频相关崩溃和后续请求卡在队列；保留未保存批注及特殊字符未跟踪文件。"
+    ]
+  },
+  "status": "已发布客户端更新；按11月18日真实日期补漏。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "interest": []
+}

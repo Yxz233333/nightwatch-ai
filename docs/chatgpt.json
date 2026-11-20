@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-19T00:02:30.750Z",
+  "syncedAt": "2026-11-20T00:06:14.146Z",
   "articles": [
     {
       "id": "d801af45ebed7c9b",
@@ -5386,6 +5386,73 @@
         ]
       },
       "status": "官方已公布；安装受套餐、工作区及管理员设置限制。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "interest": []
+    },
+    {
+      "id": "cc19c63d3d0252b9",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "ChatGPT 移动端新界面开始灰度推出",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#new-mobile-experience",
+      "date": "2026-11-19",
+      "source": "ChatGPT 官方发布说明",
+      "recommended": false,
+      "titleZh": "ChatGPT 移动端新界面开始灰度推出",
+      "summary": "ChatGPT移动端开始推出新界面：dot有独立标签，可把Codex、Projects和Images等常用功能固定到标签栏。",
+      "details": {
+        "overview": "ChatGPT移动端开始推出新界面：dot有独立标签，可把Codex、Projects和Images等常用功能固定到标签栏。",
+        "keyPoints": [
+          "首批面向dot已开放地区、年满18岁的Pro用户，并包括少量符合条件的Plus用户。",
+          "排除欧洲经济区（含欧盟）、英国、瑞士和韩国；部分符合条件Pro用户默认启用，设置出现New ChatGPT design时可开关。"
+        ]
+      },
+      "status": "灰度推出；有年龄、地区和套餐条件。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "interest": []
+    },
+    {
+      "id": "b78e1d62ce360573",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "ChatGPT Health 扩展至 Android、桌面端、dots 和 sites",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#health-on-android-desktop-dots-and-sites",
+      "date": "2026-11-19",
+      "source": "ChatGPT 官方发布说明",
+      "recommended": false,
+      "titleZh": "ChatGPT Health 扩展至 Android、桌面端、dots 和 sites",
+      "summary": "ChatGPT Health逐步扩展至Android、桌面应用、dots及sites，并支持连接Android Health Connect。",
+      "details": {
+        "overview": "ChatGPT Health逐步扩展至Android、桌面应用、dots及sites，并支持连接Android Health Connect。",
+        "keyPoints": [
+          "可结合连接的睡眠和活动信息探索规律，使用dot建议或通过桌面应用创建训练进度网站。",
+          "Health限美国Free、Go、Plus和Pro用户；dot目前限Pro。更新应用后从侧栏或Explore寻找Health，逐步推出可能尚未覆盖账号。"
+        ]
+      },
+      "status": "在美国符合条件套餐逐步推出；dot仍限Pro。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "interest": []
+    },
+    {
+      "id": "ee4bc855cc5a92ec",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "ChatGPT iOS 1.2026.314：保存侧边聊天与新建任务选择器",
+      "url": "https://learn.chatgpt.com/docs/changelog#chatgpt-ios-1-2026-314",
+      "date": "2026-11-18",
+      "source": "ChatGPT Learn 官方变更日志",
+      "recommended": false,
+      "titleZh": "ChatGPT iOS 1.2026.314：保存侧边聊天与新建任务选择器",
+      "summary": "iOS版更新可在兼容的配对电脑保存侧边聊天，从原任务重新打开；新项目选择器支持Cloud或配对电脑与项目。",
+      "details": {
+        "overview": "iOS版更新可在兼容的配对电脑保存侧边聊天，从原任务重新打开；新项目选择器支持Cloud或配对电脑与项目。",
+        "keyPoints": [
+          "可分别切换代码块及差异的自动换行；iPad可用Command+N开始新Codex任务。",
+          "子智能体指示只计仍运行或等待者；任务菜单可重看已完成智能体及其模型、推理等级。",
+          "修复任务通知后输入框失灵、会话跳动、视频相关崩溃和后续请求卡在队列；保留未保存批注及特殊字符未跟踪文件。"
+        ]
+      },
+      "status": "已发布客户端更新；按11月18日真实日期补漏。",
       "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
       "interest": []
     }

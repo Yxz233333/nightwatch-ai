@@ -1,0 +1,22 @@
+{
+  "id": "fba35ae0a90750ea",
+  "section": "news",
+  "category": "工具动态",
+  "title": "PR 扫描工作流官方演示",
+  "url": "https://openai.com/business/learn/pr-scans-demo",
+  "date": "2026-11-19",
+  "source": "OpenAI 官方产品演示",
+  "recommended": false,
+  "titleZh": "PR 扫描工作流官方演示",
+  "summary": "OpenAI发布PR扫描演示页，展示在拉取请求工作流中查看扫描结果。",
+  "details": {
+    "overview": "OpenAI发布PR扫描演示页，展示在拉取请求工作流中查看扫描结果。",
+    "keyPoints": [
+      "页面介绍演示者检查PR扫描结果的过程。",
+      "公开可读文字未给出具体规则和资格条件；演示发布不等于当日首次上线该功能。"
+    ]
+  },
+  "status": "官方演示已发布；仅归档可核实文字，具体功能与资格未详。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "interest": []
+}
