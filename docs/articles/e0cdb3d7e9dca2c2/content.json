@@ -1,0 +1,25 @@
+{
+  "id": "e0cdb3d7e9dca2c2",
+  "section": "news",
+  "category": "模型动态",
+  "title": "Inkling 2 Mini：面向本地部署的循环多模态 MoE 模型",
+  "url": "https://huggingface.co/blog/inkling2mini",
+  "date": "2026-11-20",
+  "source": "Hugging Face 官方博客",
+  "recommended": false,
+  "status": "依据原作者材料整理，评测条件及部署要求见详情。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "titleEn": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+  "titleZh": "Inkling 2 Mini：面向本地部署的循环多模态 MoE 模型",
+  "summary": "Hugging Face介绍Thinking Machines Lab的Inkling 2 Mini，采用循环Transformer与混合专家架构，接收图像和文本输入。",
+  "details": {
+    "overview": "Hugging Face介绍Thinking Machines Lab的Inkling 2 Mini，采用循环Transformer与混合专家架构，接收图像和文本输入。模型标称支持100万token上下文，但实际推理路径和硬件条件需分别核对，不能把标称长度等同所有部署配置。",
+    "keyPoints": [
+      "物理总参数约26B，每token激活3B；24层中的6至17层循环三遍，每层从128位专家选8位，循环核心复用权重。",
+      "专家权重使用NVFP4与MXFP8混合精度；有transformers、llama.cpp、MLX和SGLang路径，SGLang示例另有SM103硬件前提。",
+      "文中分别称AAv5同类领先、48项对比中32项领先，并非AAv5包含48项；结果尚需更多验证。",
+      "可变循环次数版本为研究变体，作者未深入评估；示例配置中部分上下文为131072，不是全路径直接100万。"
+    ]
+  },
+  "interest": []
+}

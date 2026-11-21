@@ -1,0 +1,25 @@
+{
+  "id": "871944615969ccdf",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "OpenAI 公布对抗恶意蒸馏与受保护推理提取的措施",
+  "url": "https://openai.com/index/combatting-adversarial-distillation",
+  "date": "2026-11-20",
+  "source": "OpenAI 官方安全研究",
+  "recommended": true,
+  "titleZh": "OpenAI 公布对抗恶意蒸馏与受保护推理提取的措施",
+  "summary": "OpenAI介绍如何结合模型训练、分类器、API防护和协同滥用调查，减少未经授权的能力蒸馏与受保护推理泄露。",
+  "details": {
+    "overview": "OpenAI介绍如何结合模型训练、分类器、API防护和协同滥用调查，减少未经授权的能力蒸馏与受保护推理泄露。",
+    "keyPoints": [
+      "官方内部自适应攻击评估中，旧GPT-6 Astra原防护与GPT-6.2 Astra更新防护的平均攻击成功率为54.0%及0.2%；仅限该评测，不是所有攻击的保证。",
+      "内部研究发现精确推理轨迹可能比摘要传递更多网络能力；结果受学生模型、训练方法和推理预算影响。",
+      "请求级防护与跨账号活动调查互相补充；正常解释并不等于公开受保护内部推理。"
+    ]
+  },
+  "publishedAt": "2026-11-20T10:00:00Z",
+  "status": "官方内部研究及防护披露；非独立复测或绝对安全保证。",
+  "recommendedOn": "2026-11-21",
+  "recommendationReason": "滚动24小时内实际发布的官方消息。",
+  "interest": []
+}

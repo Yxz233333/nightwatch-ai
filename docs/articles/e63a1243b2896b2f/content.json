@@ -1,0 +1,23 @@
+{
+  "id": "e63a1243b2896b2f",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Hebbia 披露 GPT-6 Astra 在金融检索与演示生成中的测试结果",
+  "url": "https://openai.com/business/customer-stories/hebbia",
+  "date": "2026-11-20",
+  "source": "OpenAI 官方客户案例",
+  "recommended": false,
+  "titleZh": "Hebbia 披露 GPT-6 Astra 在金融检索与演示生成中的测试结果",
+  "summary": "OpenAI客户案例介绍Hebbia对GPT-6 Astra的金融研究测试，关注必要来源覆盖、引用相关性与演示要求遵循。",
+  "details": {
+    "overview": "OpenAI客户案例介绍Hebbia对GPT-6 Astra的金融研究测试，关注必要来源覆盖、引用相关性与演示要求遵循。",
+    "keyPoints": [
+      "测试于2026年8月至9月使用预发布版本及相同研究案例、评分标准；不是11月新模型首发。",
+      "必要来源类型覆盖比其测试的最佳替代模型高13.6个百分点，99.5%被引片段与问题相关。",
+      "满足97.9%的适用演示要求，比最佳替代高14.4个百分点；案例中的约2000文件并购场景是假设示例，不能当真实交易业绩。"
+    ]
+  },
+  "status": "客户自测结果及假设工作流；未来后台监测智能体仍为设想。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "interest": []
+}

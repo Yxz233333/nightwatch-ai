@@ -1,0 +1,23 @@
+{
+  "id": "3b388fc175b3f394",
+  "section": "news",
+  "category": "模型动态",
+  "title": "OpenAI 发布药物化学推理基准 MedChemBench",
+  "url": "https://openai.com/index/introducing-medchembench",
+  "date": "2026-11-20",
+  "source": "OpenAI 官方研究公告",
+  "recommended": false,
+  "titleZh": "OpenAI 发布药物化学推理基准 MedChemBench",
+  "summary": "MedChemBench以99道回溯研究任务，评估模型结合分子结构与实验证据进行药物化学推理的能力。",
+  "details": {
+    "overview": "MedChemBench以99道回溯研究任务，评估模型结合分子结构与实验证据进行药物化学推理的能力。",
+    "keyPoints": [
+      "任务取自117篇论文及专利，包含761种分子结构，分解评估结构重建、证据解释、化合物选择及属性预测。",
+      "公告称xhigh条件GPT-6.2 Astra取得可用分值84.5%，GPT-6 Astra为83.3%；这是部分得分口径，不是药物开发成功率。",
+      "属于回溯基准及研究报告，不能视作新药完成临床或得到批准；论文版本日期11月9日，公告日期11月20日。"
+    ]
+  },
+  "status": "研究基准；论文及公告评测版本应分别阅读，不代表临床验证。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "interest": []
+}

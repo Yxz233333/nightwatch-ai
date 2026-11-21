@@ -1,0 +1,25 @@
+{
+  "id": "ba0d082fdeb35123",
+  "section": "news",
+  "category": "工具动态",
+  "title": "推出harness适配器：让模型适配你的agent harness，提升性能与成本效率",
+  "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+  "date": "2026-11-20",
+  "source": "Hugging Face 官方博客",
+  "recommended": false,
+  "status": "依据原作者材料整理，评测条件及部署要求见详情。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "titleEn": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+  "titleZh": "推出harness适配器：让模型适配你的agent harness，提升性能与成本效率",
+  "summary": "Hugging Face团队介绍在目标智能体运行框架内，以强化学习训练LoRA适配器，让Qwen3.8-27B更贴合Pi、OpenCode和Hermes Agent等框架。",
+  "details": {
+    "overview": "Hugging Face团队介绍在目标智能体运行框架内，以强化学习训练LoRA适配器，让Qwen3.8-27B更贴合Pi、OpenCode和Hermes Agent等框架。结果是指定基准与设置下的比较，跨框架成绩不能直接横比。",
+    "keyPoints": [
+      "非思考评测使用每任务一次尝试、temperature 0.8及默认智能体设置；应在同一框架内比较基座和适配器。",
+      "合并适配器非思考条件六组框架与基准组合均优于基座；思考条件五组胜出、一组持平。",
+      "仅双方都解出的任务比较：非思考时工具调用和token均减少；思考开启时Terminal-Bench的token基本持平，不是所有条件都省token。",
+      "三个rank32适配器沿rank拼接为rank96，各更新缩放一半；该缩放先用step120选择，最终检查点不同。非思考轨迹中短文本后调用工具的现象被列为待研究问题。"
+    ]
+  },
+  "interest": []
+}

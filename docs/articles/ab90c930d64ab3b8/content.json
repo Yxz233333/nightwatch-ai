@@ -1,0 +1,22 @@
+{
+  "id": "ab90c930d64ab3b8",
+  "section": "news",
+  "category": "工具动态",
+  "title": "OpenAI 发布 Daybreak Red 受监督安全调查部署指南",
+  "url": "https://openai.com/business/learn/deploying-daybreak-red",
+  "date": "2026-11-19",
+  "source": "OpenAI 官方部署指南",
+  "recommended": false,
+  "titleZh": "OpenAI 发布 Daybreak Red 受监督安全调查部署指南",
+  "summary": "OpenAI发布Daybreak Red参考架构指南，介绍如何设置隔离环境开展受监督的安全调查。",
+  "details": {
+    "overview": "OpenAI发布Daybreak Red参考架构指南，介绍如何设置隔离环境开展受监督的安全调查。",
+    "keyPoints": [
+      "指南范围包括架构、安全控制与环境配置。",
+      "涵盖运行和监测调查；这是部署文档发布，不据此推断产品当日首发、面向所有账号或可无人监督使用。"
+    ]
+  },
+  "status": "官方指南；监督与隔离是文中明确条件。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "interest": []
+}

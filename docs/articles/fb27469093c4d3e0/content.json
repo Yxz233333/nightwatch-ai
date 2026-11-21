@@ -1,0 +1,23 @@
+{
+  "id": "fb27469093c4d3e0",
+  "section": "news",
+  "category": "行业新闻",
+  "title": "Anthropic 宣布 IPO 及同期私募完成交割",
+  "url": "https://www.anthropic.com/news/ipo-close",
+  "date": "2026-11-20",
+  "source": "Anthropic 官方公告",
+  "recommended": false,
+  "titleZh": "Anthropic 宣布 IPO 及同期私募完成交割",
+  "summary": "Anthropic宣布首次公开发行及同期私募完成交割；IPO共11.27亿股，每股83美元，包括承销商全额行使额外1.47亿股购买权。",
+  "details": {
+    "overview": "Anthropic宣布首次公开发行及同期私募完成交割；IPO共11.27亿股，每股83美元，包括承销商全额行使额外1.47亿股购买权。",
+    "keyPoints": [
+      "IPO总毛收入约935亿美元，其中公司收到约916亿美元；均为扣除承销折扣、佣金及其他费用前，售股股东所得不归公司。",
+      "同期向AMD、Broadcom、Google、Micron、Microsoft、NVIDIA及TSMC Partners私募N类普通股，购买总价约260亿美元。",
+      "两项合计毛收入约1195亿美元包含售股股东部分；公司A类股已于11月19日以ANT在纳斯达克开始交易。"
+    ]
+  },
+  "status": "官方宣布已交割；金额为毛收入，区分公司与售股股东所得。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "interest": []
+}

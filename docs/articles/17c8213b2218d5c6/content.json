@@ -1,0 +1,23 @@
+{
+  "id": "17c8213b2218d5c6",
+  "section": "chatgpt",
+  "category": "功能更新",
+  "title": "ChatGPT Space 向成年 Plus 用户全球逐步推出",
+  "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#space-plus-rollout",
+  "date": "2026-11-20",
+  "source": "ChatGPT 官方发布说明",
+  "recommended": false,
+  "titleZh": "ChatGPT Space 向成年 Plus 用户全球逐步推出",
+  "summary": "ChatGPT Space开始向全球18岁以上Plus用户逐步推出，可与ChatGPT创建交互页面及演示，并邀请有Space权限的人协作。",
+  "details": {
+    "overview": "ChatGPT Space开始向全球18岁以上Plus用户逐步推出，可与ChatGPT创建交互页面及演示，并邀请有Space权限的人协作。",
+    "keyPoints": [
+      "页面和幻灯片可结合连接的应用与工具自动更新，评论中可标记ChatGPT提出修改；有dot时也可邀请协作。",
+      "访问分享内容必须登录、拥有查看权限及Space访问资格，支持符合条件的Plus、Pro、Business或Enterprise账号；Free不能打开，暂不提供公开链接。",
+      "Space替代侧栏Library，集中管理页面、幻灯片、图片与上传文件；支持网页、桌面、iOS和Android创建及编辑页面。"
+    ]
+  },
+  "status": "全球成年Plus用户逐步推出；分享仍需账号及权限，无公开链接。",
+  "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+  "interest": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ebe5fce30c05435c",
+  "section": "codex",
+  "category": "功能更新",
+  "title": "Codex CLI 0.171.0 正式版发布",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0",
+  "date": "2026-11-20",
+  "source": "Codex GitHub Releases",
+  "recommended": false,
+  "titleZh": "Codex CLI 0.171.0 正式版发布",
+  "summary": "Codex CLI 0.171.0正式版发布，默认启用TUI工作区并更新模型目录。",
+  "details": {
+    "overview": "Codex CLI 0.171.0正式版发布，默认启用TUI工作区并更新模型目录。",
+    "keyPoints": [
+      "目录加入GPT-6.2 Sol与Astra，Sol为目录默认选择；实际可用模型仍取决于账号及提供商。",
+      "默认TUI工作区可并排查看可搜索文档、图片预览与子智能体记录。",
+      "非Vim输入框支持配置撤销与重做快捷键；codex exec --remote可在现有应用服务器启动或恢复非交互会话。",
+      "/rc与/remote管理本地远程控制及配对码；自定义MCP状态栏需启用tui_extensions_statusline。",
+      "修复线程切换中的草稿、排队后续输入保留，工作目录变更权限配置，以及较晚完成事件误取消新审批等问题。"
+    ]
+  },
+  "publishedAt": "2026-11-20T00:44:47Z",
+  "releaseChannel": "stable",
+  "status": "已发布正式版；条件性状态栏不等于默认启用。",
+  "interest": []
+}

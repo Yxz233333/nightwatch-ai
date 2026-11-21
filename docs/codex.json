@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-20T00:06:14.146Z",
+  "syncedAt": "2026-11-21T00:05:08.498Z",
   "articles": [
     {
       "id": "feed0920e670fa7c",
@@ -31353,6 +31353,101 @@
       "publishedAt": "2026-11-19T22:01:34Z",
       "releaseChannel": "prerelease",
       "status": "已发布测试版；无详细变更。",
+      "interest": []
+    },
+    {
+      "id": "f97708fc3fd5d9d4",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.173.0-alpha.3 测试版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.173.0-alpha.3",
+      "date": "2026-11-21",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "titleZh": "Codex CLI 0.173.0-alpha.3 测试版发布",
+      "summary": "Codex CLI 0.173.0-alpha.3 alpha测试版已发布，正文仅列版本号。",
+      "details": {
+        "overview": "Codex CLI 0.173.0-alpha.3 alpha测试版已发布，正文仅列版本号。",
+        "keyPoints": [
+          "这是已发布版本，归入功能更新。",
+          "官方未提供详细变更说明，不猜测功能。"
+        ]
+      },
+      "publishedAt": "2026-11-20T22:23:53Z",
+      "releaseChannel": "prerelease",
+      "status": "已发布测试版；无详细变更。",
+      "interest": []
+    },
+    {
+      "id": "8be26846edfe7ca7",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.173.0-alpha.2 测试版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.173.0-alpha.2",
+      "date": "2026-11-21",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "titleZh": "Codex CLI 0.173.0-alpha.2 测试版发布",
+      "summary": "Codex CLI 0.173.0-alpha.2 alpha测试版已发布，正文仅列版本号。",
+      "details": {
+        "overview": "Codex CLI 0.173.0-alpha.2 alpha测试版已发布，正文仅列版本号。",
+        "keyPoints": [
+          "这是已发布版本，归入功能更新。",
+          "官方未提供详细变更说明，不猜测功能。"
+        ]
+      },
+      "publishedAt": "2026-11-20T20:44:46Z",
+      "releaseChannel": "prerelease",
+      "status": "已发布测试版；无详细变更。",
+      "interest": []
+    },
+    {
+      "id": "b1d1f20e519032f7",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.173.0-alpha.1 测试版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.173.0-alpha.1",
+      "date": "2026-11-20",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "titleZh": "Codex CLI 0.173.0-alpha.1 测试版发布",
+      "summary": "Codex CLI 0.173.0-alpha.1 alpha测试版已发布，正文仅列版本号。",
+      "details": {
+        "overview": "Codex CLI 0.173.0-alpha.1 alpha测试版已发布，正文仅列版本号。",
+        "keyPoints": [
+          "这是已发布版本，归入功能更新。",
+          "官方未提供详细变更说明，不猜测功能。"
+        ]
+      },
+      "publishedAt": "2026-11-20T02:50:37Z",
+      "releaseChannel": "prerelease",
+      "status": "已发布测试版；无详细变更。",
+      "interest": []
+    },
+    {
+      "id": "ebe5fce30c05435c",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.171.0 正式版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0",
+      "date": "2026-11-20",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "titleZh": "Codex CLI 0.171.0 正式版发布",
+      "summary": "Codex CLI 0.171.0正式版发布，默认启用TUI工作区并更新模型目录。",
+      "details": {
+        "overview": "Codex CLI 0.171.0正式版发布，默认启用TUI工作区并更新模型目录。",
+        "keyPoints": [
+          "目录加入GPT-6.2 Sol与Astra，Sol为目录默认选择；实际可用模型仍取决于账号及提供商。",
+          "默认TUI工作区可并排查看可搜索文档、图片预览与子智能体记录。",
+          "非Vim输入框支持配置撤销与重做快捷键；codex exec --remote可在现有应用服务器启动或恢复非交互会话。",
+          "/rc与/remote管理本地远程控制及配对码；自定义MCP状态栏需启用tui_extensions_statusline。",
+          "修复线程切换中的草稿、排队后续输入保留，工作目录变更权限配置，以及较晚完成事件误取消新审批等问题。"
+        ]
+      },
+      "publishedAt": "2026-11-20T00:44:47Z",
+      "releaseChannel": "stable",
+      "status": "已发布正式版；条件性状态栏不等于默认启用。",
       "interest": []
     }
   ]
