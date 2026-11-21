@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-20T08:06:01+08:00",
+  "updatedAt": "2026-11-21T08:05:07+08:00",
   "coverage": {
     "requestedFrom": "2025-09-01",
-    "requestedThrough": "2026-11-20",
+    "requestedThrough": "2026-11-21",
     "scope": "已核实官方发布说明、GitHub Releases、官方 RSS 与新闻研究归档；不是全网穷尽清单。",
     "historyAddedBySource": {
       "ChatGPT 官方发布说明": 207,
@@ -44,15 +44,15 @@
     },
     "sourceCounts": {
       "OpenAI 官方新闻": 762,
-      "Hugging Face 官方博客": 252,
-      "Codex GitHub Releases": 1204,
+      "Hugging Face 官方博客": 254,
+      "Codex GitHub Releases": 1208,
       "NVIDIA 官方博客": 368,
       "Anthropic 官方新闻与研究": 256,
       "MiniMax 官方博客": 2,
       "Microsoft Research": 13,
       "Google DeepMind": 114,
       "Google AI 官方博客": 22,
-      "ChatGPT 官方发布说明": 220,
+      "ChatGPT 官方发布说明": 221,
       "DeepSeek 官方更新": 11,
       "此前已核实内容": 745,
       "ChatGPT 与 Codex 官方变更日志": 127,
@@ -68,21 +68,24 @@
       "ChatGPT Learn 官方变更日志": 7,
       "OpenAI 官方新闻与帮助中心": 1,
       "DeepSeek 官方API变更日志": 1,
-      "OpenAI 官方客户案例": 1,
+      "OpenAI 官方客户案例": 2,
       "arXiv 原始预印本及 OpenAI 科学博客": 1,
       "Hugging Face 社区博客（原作者发布）": 3,
-      "Anthropic 官方公告": 1,
+      "Anthropic 官方公告": 2,
       "OpenAI 官方工程博客": 1,
       "OpenAI 官方产品演示": 3,
-      "Google 官方博客": 12
+      "Google 官方博客": 12,
+      "OpenAI 官方安全研究": 1,
+      "OpenAI 官方研究公告": 1,
+      "OpenAI 官方部署指南": 1
     },
     "excludedNonAINews": 33,
-    "total": 4215,
+    "total": 4227,
     "byMonth": {
       "2026-11": {
-        "codex": 54,
-        "chatgpt": 17,
-        "news": 145
+        "codex": 58,
+        "chatgpt": 18,
+        "news": 152
       },
       "2026-10": {
         "news": 209,
@@ -159,60 +162,60 @@
         "chatgpt": 9
       }
     },
-    "lastCheckedAt": "2026-11-20T08:06:01+08:00",
+    "lastCheckedAt": "2026-11-21T08:05:07+08:00",
     "dailyCheck": {
-      "checkedAt": "2026-11-20T08:06:01+08:00",
-      "addedArticles": 22,
-      "addedHistoricalArticles": 10,
-      "recommendationsAdded": 4,
+      "checkedAt": "2026-11-21T08:05:07+08:00",
+      "addedArticles": 12,
+      "addedHistoricalArticles": 1,
+      "recommendationsAdded": 1,
       "checks": [
         {
           "source": "ChatGPT release notes / Learn",
-          "result": "核查11月19日移动端新设计灰度与Health扩展的地区和套餐；补11月18日iOS 1.2026.314原日期条目。"
+          "result": "核实11月20日Space向成年Plus全球灰度；分享需有权限及Space资格，Free不可打开且无公开链接。Learn交叉核查CLI 0.171.0正式版。"
         },
         {
           "source": "Codex GitHub",
-          "result": "两个alpha发布页核实正文仅版本号及精确发布时间。rust-v0.171.0当前仅标签页及2个源码归档，无发布正文，不将标签时间当作正式版发布时间；待后续核查。"
+          "result": "昨日仅标签的0.171.0现有正式发布正文，使用11月20日00:44:47Z真实发布时间。3个alpha已发布仅版本号；0.173.0-alpha.4仍仅标签页，未视作已发布版本。"
         },
         {
           "source": "OpenAI math",
-          "result": "原始目录blob仍为7e1ed90ac5a666f1bbecb22027387c4ad79e9d03，724篇论文保留；未发现目录变化。"
+          "result": "目录blob仍为7e1ed90ac5a666f1bbecb22027387c4ad79e9d03；保留724篇既有论文、英文摘要、分类与ID。"
         },
         {
-          "source": "OpenAI official",
-          "result": "归档内部Performance Factory工程实践和3个产品演示。演示仅按可读文字整理，未猜测视频内能力、套餐或开放范围。Businesses旧公告已有对应内容，不重复。"
+          "source": "OpenAI research / business",
+          "result": "核实恶意蒸馏防护内部测试、Hebbia客户测试及MedChemBench回溯基准；基准分数不是新药获批率。另按11月19日原日期补Daybreak Red指南，不填入今日推荐。"
         },
         {
-          "source": "Google / DeepMind",
-          "result": "刷新DeepMind及Google AI RSS，按URL末段去重补入12篇11月5日至19日Google原稿；仅确切24小时内容推荐，历史不补位。逐条区分预览、灰度、地区和计划。"
+          "source": "Anthropic",
+          "result": "官方ipo-close全文核实IPO及私募已交割、公司与售股股东所得、毛收入及已交易日期；日期未详到小时，不混入24小时推荐。"
         },
         {
-          "source": "NVIDIA / Microsoft",
-          "result": "新增双方Ignite合作原文并校正Vera Rubin预览、Bolt/Transcribe未来计划；微软Research可读索引最新11月16日内容已收录。"
+          "source": "Hugging Face",
+          "result": "补Inkling 2 Mini及harness adapters原文；独立审校并补硬件、推理设置、跨框架不可横比及部分token不下降的条件。"
         },
         {
-          "source": "Anthropic / HF / Meta / DeepSeek",
-          "result": "重新读取官方索引与RSS；Anthropic最新可读11月18日、DeepSeek11月13日、Meta首页7月27日，未把索引未列出当作全站无更新；HF与DeepMind现有RSS条目已归档。"
+          "source": "Google / DeepMind / NVIDIA / Microsoft / Meta / DeepSeek",
+          "result": "重新刷新RSS及Google AI索引，无新的缺失可读RSS条目。Microsoft Research索引最新11月16日，Meta首页7月27日、DeepSeek更新页11月13日内容已归档；不据此声称全站无更新。"
         }
       ],
       "partialSources": [
         {
           "url": "https://qwen.ai/research",
-          "result": "无可读正文，不能确认完整更新。"
+          "result": "无可读正文，无法确认完整更新。"
         },
         {
           "url": "https://www.minimax.io/news",
-          "result": "仅导航，无带日期正文列表。"
+          "result": "仅导航，无带日期列表。"
         },
         {
           "url": "https://blogs.microsoft.com/ai/feed/",
-          "result": "HTTP403；已另核查Microsoft Research与NVIDIA合作原文，企业频道仍不完整。"
+          "result": "HTTP403；Research另核验，企业其他频道覆盖不完整。"
         }
       ],
       "limitations": [
-        "保留2025-09-01起既有全部稳定ID，历史持续补漏，不宣称全网穷尽。",
-        "Meta分页、微软企业其他频道、中文厂商完整历史仍有缺口。",
-        "未知小时不伪造发布时间；演示页不补写不可核实视频细节。"
+        "保留2025-09-01起全部历史及稳定ID，持续补漏，不宣称穷尽全网。",
+        "Meta分页、微软其他企业频道、中文厂商历史仍有缺口。",
+        "仅日期及午夜RSS不推造具体小时；无合格内容时今日推荐可空。"
       ]
     }
   },
@@ -98583,6 +98586,278 @@
         "editorialNote": "根据所链接原始材料整理，中文为辅助阅读，请以原文为准。"
       },
       "status": "API等入口正式可用；Gemini应用仍按AI Ultra资格逐步推出。"
+    },
+    {
+      "id": "17c8213b2218d5c6",
+      "section": "chatgpt",
+      "category": "功能更新",
+      "title": "ChatGPT Space 向成年 Plus 用户全球逐步推出",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#space-plus-rollout",
+      "date": "2026-11-20",
+      "source": "ChatGPT 官方发布说明",
+      "recommended": false,
+      "titleZh": "ChatGPT Space 向成年 Plus 用户全球逐步推出",
+      "summary": "ChatGPT Space开始向全球18岁以上Plus用户逐步推出，可与ChatGPT创建交互页面及演示，并邀请有Space权限的人协作。",
+      "details": {
+        "overview": "ChatGPT Space开始向全球18岁以上Plus用户逐步推出，可与ChatGPT创建交互页面及演示，并邀请有Space权限的人协作。",
+        "keyPoints": [
+          "页面和幻灯片可结合连接的应用与工具自动更新，评论中可标记ChatGPT提出修改；有dot时也可邀请协作。",
+          "访问分享内容必须登录、拥有查看权限及Space访问资格，支持符合条件的Plus、Pro、Business或Enterprise账号；Free不能打开，暂不提供公开链接。",
+          "Space替代侧栏Library，集中管理页面、幻灯片、图片与上传文件；支持网页、桌面、iOS和Android创建及编辑页面。"
+        ]
+      },
+      "status": "全球成年Plus用户逐步推出；分享仍需账号及权限，无公开链接。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。"
+    },
+    {
+      "id": "871944615969ccdf",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "OpenAI 公布对抗恶意蒸馏与受保护推理提取的措施",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "date": "2026-11-20",
+      "source": "OpenAI 官方安全研究",
+      "recommended": true,
+      "titleZh": "OpenAI 公布对抗恶意蒸馏与受保护推理提取的措施",
+      "summary": "OpenAI介绍如何结合模型训练、分类器、API防护和协同滥用调查，减少未经授权的能力蒸馏与受保护推理泄露。",
+      "details": {
+        "overview": "OpenAI介绍如何结合模型训练、分类器、API防护和协同滥用调查，减少未经授权的能力蒸馏与受保护推理泄露。",
+        "keyPoints": [
+          "官方内部自适应攻击评估中，旧GPT-6 Astra原防护与GPT-6.2 Astra更新防护的平均攻击成功率为54.0%及0.2%；仅限该评测，不是所有攻击的保证。",
+          "内部研究发现精确推理轨迹可能比摘要传递更多网络能力；结果受学生模型、训练方法和推理预算影响。",
+          "请求级防护与跨账号活动调查互相补充；正常解释并不等于公开受保护内部推理。"
+        ]
+      },
+      "publishedAt": "2026-11-20T10:00:00Z",
+      "status": "官方内部研究及防护披露；非独立复测或绝对安全保证。",
+      "recommendedOn": "2026-11-21",
+      "recommendationReason": "滚动24小时内实际发布的官方消息。"
+    },
+    {
+      "id": "e63a1243b2896b2f",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Hebbia 披露 GPT-6 Astra 在金融检索与演示生成中的测试结果",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "date": "2026-11-20",
+      "source": "OpenAI 官方客户案例",
+      "recommended": false,
+      "titleZh": "Hebbia 披露 GPT-6 Astra 在金融检索与演示生成中的测试结果",
+      "summary": "OpenAI客户案例介绍Hebbia对GPT-6 Astra的金融研究测试，关注必要来源覆盖、引用相关性与演示要求遵循。",
+      "details": {
+        "overview": "OpenAI客户案例介绍Hebbia对GPT-6 Astra的金融研究测试，关注必要来源覆盖、引用相关性与演示要求遵循。",
+        "keyPoints": [
+          "测试于2026年8月至9月使用预发布版本及相同研究案例、评分标准；不是11月新模型首发。",
+          "必要来源类型覆盖比其测试的最佳替代模型高13.6个百分点，99.5%被引片段与问题相关。",
+          "满足97.9%的适用演示要求，比最佳替代高14.4个百分点；案例中的约2000文件并购场景是假设示例，不能当真实交易业绩。"
+        ]
+      },
+      "status": "客户自测结果及假设工作流；未来后台监测智能体仍为设想。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。"
+    },
+    {
+      "id": "3b388fc175b3f394",
+      "section": "news",
+      "category": "模型动态",
+      "title": "OpenAI 发布药物化学推理基准 MedChemBench",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "date": "2026-11-20",
+      "source": "OpenAI 官方研究公告",
+      "recommended": false,
+      "titleZh": "OpenAI 发布药物化学推理基准 MedChemBench",
+      "summary": "MedChemBench以99道回溯研究任务，评估模型结合分子结构与实验证据进行药物化学推理的能力。",
+      "details": {
+        "overview": "MedChemBench以99道回溯研究任务，评估模型结合分子结构与实验证据进行药物化学推理的能力。",
+        "keyPoints": [
+          "任务取自117篇论文及专利，包含761种分子结构，分解评估结构重建、证据解释、化合物选择及属性预测。",
+          "公告称xhigh条件GPT-6.2 Astra取得可用分值84.5%，GPT-6 Astra为83.3%；这是部分得分口径，不是药物开发成功率。",
+          "属于回溯基准及研究报告，不能视作新药完成临床或得到批准；论文版本日期11月9日，公告日期11月20日。"
+        ]
+      },
+      "status": "研究基准；论文及公告评测版本应分别阅读，不代表临床验证。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。"
+    },
+    {
+      "id": "ab90c930d64ab3b8",
+      "section": "news",
+      "category": "工具动态",
+      "title": "OpenAI 发布 Daybreak Red 受监督安全调查部署指南",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "date": "2026-11-19",
+      "source": "OpenAI 官方部署指南",
+      "recommended": false,
+      "titleZh": "OpenAI 发布 Daybreak Red 受监督安全调查部署指南",
+      "summary": "OpenAI发布Daybreak Red参考架构指南，介绍如何设置隔离环境开展受监督的安全调查。",
+      "details": {
+        "overview": "OpenAI发布Daybreak Red参考架构指南，介绍如何设置隔离环境开展受监督的安全调查。",
+        "keyPoints": [
+          "指南范围包括架构、安全控制与环境配置。",
+          "涵盖运行和监测调查；这是部署文档发布，不据此推断产品当日首发、面向所有账号或可无人监督使用。"
+        ]
+      },
+      "status": "官方指南；监督与隔离是文中明确条件。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。"
+    },
+    {
+      "id": "fb27469093c4d3e0",
+      "section": "news",
+      "category": "行业新闻",
+      "title": "Anthropic 宣布 IPO 及同期私募完成交割",
+      "url": "https://www.anthropic.com/news/ipo-close",
+      "date": "2026-11-20",
+      "source": "Anthropic 官方公告",
+      "recommended": false,
+      "titleZh": "Anthropic 宣布 IPO 及同期私募完成交割",
+      "summary": "Anthropic宣布首次公开发行及同期私募完成交割；IPO共11.27亿股，每股83美元，包括承销商全额行使额外1.47亿股购买权。",
+      "details": {
+        "overview": "Anthropic宣布首次公开发行及同期私募完成交割；IPO共11.27亿股，每股83美元，包括承销商全额行使额外1.47亿股购买权。",
+        "keyPoints": [
+          "IPO总毛收入约935亿美元，其中公司收到约916亿美元；均为扣除承销折扣、佣金及其他费用前，售股股东所得不归公司。",
+          "同期向AMD、Broadcom、Google、Micron、Microsoft、NVIDIA及TSMC Partners私募N类普通股，购买总价约260亿美元。",
+          "两项合计毛收入约1195亿美元包含售股股东部分；公司A类股已于11月19日以ANT在纳斯达克开始交易。"
+        ]
+      },
+      "status": "官方宣布已交割；金额为毛收入，区分公司与售股股东所得。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。"
+    },
+    {
+      "id": "f97708fc3fd5d9d4",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.173.0-alpha.3 测试版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.173.0-alpha.3",
+      "date": "2026-11-21",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "titleZh": "Codex CLI 0.173.0-alpha.3 测试版发布",
+      "summary": "Codex CLI 0.173.0-alpha.3 alpha测试版已发布，正文仅列版本号。",
+      "details": {
+        "overview": "Codex CLI 0.173.0-alpha.3 alpha测试版已发布，正文仅列版本号。",
+        "keyPoints": [
+          "这是已发布版本，归入功能更新。",
+          "官方未提供详细变更说明，不猜测功能。"
+        ]
+      },
+      "publishedAt": "2026-11-20T22:23:53Z",
+      "releaseChannel": "prerelease",
+      "status": "已发布测试版；无详细变更。"
+    },
+    {
+      "id": "8be26846edfe7ca7",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.173.0-alpha.2 测试版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.173.0-alpha.2",
+      "date": "2026-11-21",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "titleZh": "Codex CLI 0.173.0-alpha.2 测试版发布",
+      "summary": "Codex CLI 0.173.0-alpha.2 alpha测试版已发布，正文仅列版本号。",
+      "details": {
+        "overview": "Codex CLI 0.173.0-alpha.2 alpha测试版已发布，正文仅列版本号。",
+        "keyPoints": [
+          "这是已发布版本，归入功能更新。",
+          "官方未提供详细变更说明，不猜测功能。"
+        ]
+      },
+      "publishedAt": "2026-11-20T20:44:46Z",
+      "releaseChannel": "prerelease",
+      "status": "已发布测试版；无详细变更。"
+    },
+    {
+      "id": "b1d1f20e519032f7",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.173.0-alpha.1 测试版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.173.0-alpha.1",
+      "date": "2026-11-20",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "titleZh": "Codex CLI 0.173.0-alpha.1 测试版发布",
+      "summary": "Codex CLI 0.173.0-alpha.1 alpha测试版已发布，正文仅列版本号。",
+      "details": {
+        "overview": "Codex CLI 0.173.0-alpha.1 alpha测试版已发布，正文仅列版本号。",
+        "keyPoints": [
+          "这是已发布版本，归入功能更新。",
+          "官方未提供详细变更说明，不猜测功能。"
+        ]
+      },
+      "publishedAt": "2026-11-20T02:50:37Z",
+      "releaseChannel": "prerelease",
+      "status": "已发布测试版；无详细变更。"
+    },
+    {
+      "id": "ebe5fce30c05435c",
+      "section": "codex",
+      "category": "功能更新",
+      "title": "Codex CLI 0.171.0 正式版发布",
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0",
+      "date": "2026-11-20",
+      "source": "Codex GitHub Releases",
+      "recommended": false,
+      "titleZh": "Codex CLI 0.171.0 正式版发布",
+      "summary": "Codex CLI 0.171.0正式版发布，默认启用TUI工作区并更新模型目录。",
+      "details": {
+        "overview": "Codex CLI 0.171.0正式版发布，默认启用TUI工作区并更新模型目录。",
+        "keyPoints": [
+          "目录加入GPT-6.2 Sol与Astra，Sol为目录默认选择；实际可用模型仍取决于账号及提供商。",
+          "默认TUI工作区可并排查看可搜索文档、图片预览与子智能体记录。",
+          "非Vim输入框支持配置撤销与重做快捷键；codex exec --remote可在现有应用服务器启动或恢复非交互会话。",
+          "/rc与/remote管理本地远程控制及配对码；自定义MCP状态栏需启用tui_extensions_statusline。",
+          "修复线程切换中的草稿、排队后续输入保留，工作目录变更权限配置，以及较晚完成事件误取消新审批等问题。"
+        ]
+      },
+      "publishedAt": "2026-11-20T00:44:47Z",
+      "releaseChannel": "stable",
+      "status": "已发布正式版；条件性状态栏不等于默认启用。"
+    },
+    {
+      "id": "e0cdb3d7e9dca2c2",
+      "section": "news",
+      "category": "模型动态",
+      "title": "Inkling 2 Mini：面向本地部署的循环多模态 MoE 模型",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "date": "2026-11-20",
+      "source": "Hugging Face 官方博客",
+      "recommended": false,
+      "status": "依据原作者材料整理，评测条件及部署要求见详情。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "titleEn": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "titleZh": "Inkling 2 Mini：面向本地部署的循环多模态 MoE 模型",
+      "summary": "Hugging Face介绍Thinking Machines Lab的Inkling 2 Mini，采用循环Transformer与混合专家架构，接收图像和文本输入。",
+      "details": {
+        "overview": "Hugging Face介绍Thinking Machines Lab的Inkling 2 Mini，采用循环Transformer与混合专家架构，接收图像和文本输入。模型标称支持100万token上下文，但实际推理路径和硬件条件需分别核对，不能把标称长度等同所有部署配置。",
+        "keyPoints": [
+          "物理总参数约26B，每token激活3B；24层中的6至17层循环三遍，每层从128位专家选8位，循环核心复用权重。",
+          "专家权重使用NVFP4与MXFP8混合精度；有transformers、llama.cpp、MLX和SGLang路径，SGLang示例另有SM103硬件前提。",
+          "文中分别称AAv5同类领先、48项对比中32项领先，并非AAv5包含48项；结果尚需更多验证。",
+          "可变循环次数版本为研究变体，作者未深入评估；示例配置中部分上下文为131072，不是全路径直接100万。"
+        ]
+      }
+    },
+    {
+      "id": "ba0d082fdeb35123",
+      "section": "news",
+      "category": "工具动态",
+      "title": "推出harness适配器：让模型适配你的agent harness，提升性能与成本效率",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "date": "2026-11-20",
+      "source": "Hugging Face 官方博客",
+      "recommended": false,
+      "status": "依据原作者材料整理，评测条件及部署要求见详情。",
+      "publicationTimeNote": "原始材料仅提供日期，具体发布时间未详。",
+      "titleEn": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "titleZh": "推出harness适配器：让模型适配你的agent harness，提升性能与成本效率",
+      "summary": "Hugging Face团队介绍在目标智能体运行框架内，以强化学习训练LoRA适配器，让Qwen3.8-27B更贴合Pi、OpenCode和Hermes Agent等框架。",
+      "details": {
+        "overview": "Hugging Face团队介绍在目标智能体运行框架内，以强化学习训练LoRA适配器，让Qwen3.8-27B更贴合Pi、OpenCode和Hermes Agent等框架。结果是指定基准与设置下的比较，跨框架成绩不能直接横比。",
+        "keyPoints": [
+          "非思考评测使用每任务一次尝试、temperature 0.8及默认智能体设置；应在同一框架内比较基座和适配器。",
+          "合并适配器非思考条件六组框架与基准组合均优于基座；思考条件五组胜出、一组持平。",
+          "仅双方都解出的任务比较：非思考时工具调用和token均减少；思考开启时Terminal-Bench的token基本持平，不是所有条件都省token。",
+          "三个rank32适配器沿rank拼接为rank96，各更新缩放一半；该缩放先用step120选择，最终检查点不同。非思考轨迹中短文本后调用工具的现象被列为待研究问题。"
+        ]
+      }
     }
   ]
 }
